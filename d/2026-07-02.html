@@ -1,0 +1,1300 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C1CRWDNJ1J"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-C1CRWDNJ1J');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>HF. 11 papers. July 1.</title>
+<link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Tiny5&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: cornflowerblue;
+            --primary-color-dark: #fffd87cf;
+            --secondary-color: #fff;
+            --background-color: #eee;
+            --text-color: #333333;
+            --header-color: cornflowerblue;
+            --body-color: #eee;
+            --menu-color: #002370;
+        }
+        .background-digit {
+            position: absolute;
+            font-family: 'Tiny5';
+            bottom: -20px;
+            right: -10px;
+            font-size: 8em;
+            font-weight: 400;
+            color: #0989ea22;
+            z-index: 2;
+            line-height: 1;
+        }
+        .dark-theme .background-digit {
+            color: #e9e78f3d;
+        }
+        body {
+            font-family: 'Roboto Slab', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        .container {
+            max-width: 1500px;
+            margin: 0 auto;
+            flex: 1 0 auto;
+            width: 100%
+        }
+        .a-clean {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+        .a-clean:hover {
+            color: #fff;
+        }
+        header {
+            padding: 3.6em 0 2.4em 0;
+            text-align: center;
+        }
+        footer {
+            background-color: var(--primary-color);
+            color: white;
+            text-align: center;
+            margin-top: 2em;
+            flex-shrink: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.4em;
+            margin: 0;
+            font-weight: 700;
+        }
+        .article-title-cont {
+            margin: -21px -21px 0px -21px;
+            padding: 10px 20px;
+            background: cornflowerblue;
+            display: table;
+            min-height: 5.9em;
+        }
+        .dark-theme .article-title-cont {
+            background: #444444;
+        }
+        .article-title {
+            color: white;           
+        }
+        .article-title h2 {
+            margin: 0px;
+            padding: 0px;
+            font-weight: 400;
+            text-align:center;
+        }
+        h2 {
+            # color: var(--primary-color);
+            font-size: 1.2em;
+            margin-top: 0;
+            margin-bottom: 0.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 0.5em;
+            font-weight: 300;
+        }
+        main {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5em;
+            padding: 10px 20px 20px 20px;
+        }
+        body.dark-tmeme>header {
+            background-color: background-color: #333333;
+            color: white;
+        }
+        body.dark-theme>div>main>article>div.article-content>p.meta {
+            color: #fff;
+        }
+        body.light-theme>div>main>article>div.article-content>p.meta {
+            color: #555;
+        }
+        body.dark-theme>div>main>article>div.article-content>p.pub-date {
+            color: #ccc;
+        }
+        body.light-theme>div>main>article>div.article-content>p.pub-date {
+            color: #555;
+        }
+        body.dark-theme>div>main>article>div.article-content>div.tags {
+            color: #ccc;
+        }
+        body.light-theme>div>main>article>div.article-content>div.tags {
+            color: #fff;
+        }
+        body.light-theme>header {
+            background-color: var(--header-color);
+            color: white;
+        }
+        article {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        .article-content {
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            overflow: hidden;
+            transition: background-color 0.2s ease;
+            padding: 1.3em;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            z-index: 1;
+            cursor: pointer;
+            max-width: 800px;
+            position: relative;
+        }
+        body.dark-theme>div>main>article>div.article-content {
+            background-color: #444;
+            border: none;
+        }
+        body.light-theme>div>main>article>div.article-content {
+            background-color: #fff;
+        }
+        body.dark-theme>div>main>article>div.article-content:hover {
+            background-color: #414141;
+        }
+        body.light-theme>div>main>article>div.article-content:hover {
+            background-color: #fafafa;
+        }
+        .meta {
+            font-size: 0.9em;
+            margin-bottom: 0em;
+            font-weight: 500;
+            margin: 20px 0 0px 0;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .pub-date {
+            font-size: 0.8em;
+            margin-bottom: 0.8em;
+            font-weight: 400;
+            text-align: right;
+            font-family: Roboto;
+        }
+        .tags {
+            font-size: 0.9em;
+            margin-bottom: 0;
+            position: absolute;
+            bottom: 0px;
+            font-weight: 300;
+            font-family: 'Roboto Slab';
+            background: #555;
+            left: 0;
+            width: 100%;
+            padding: 10px 20px;
+        }
+        .abstract {
+            position: relative;
+            max-height: 170px;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+            cursor: pointer;
+        }
+        .abstract.expanded {
+            max-height: 1000px;
+        }
+        .abstract-toggle {
+            position: absolute;
+            bottom: 4px;
+            right: 0;
+            cursor: pointer;
+            color: var(--primary-color);
+            float: right;
+            font-weight: 400;
+        }
+        .explanation {
+            background-color: #e8f5e9;
+            border-left: 4px solid var(--secondary-color);
+            padding: 1em;
+            margin-top: 1.5em;
+        }
+        .links {
+            margin-top: 1.5em;
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+        }
+        .github-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 8px;
+            border-radius: 12px;
+            background: #f5f5f5;
+            font-size: 0.95em;
+        }
+        .dark-theme .github-link {
+            background: #555;
+        }
+        .github-stars {
+            font-weight: 600;
+            color: var(--text-color);
+        }
+        .dark-theme .github-stars {
+            color: #fff;
+        }
+        .affiliations {
+            margin-bottom: 50px;
+            padding:10px;
+            font-size: 0.9em;
+            text-align: center
+        }
+        a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+        .dark-theme a {
+            color: var(--primary-color-dark);
+        }
+        a:hover {
+            color: #e73838;
+        }
+        .light-theme {
+            background-color: var(--body-color);
+            color: #333333;
+        }
+        .dark-theme {
+            background-color: #333333;
+            color: #ffffff;
+        }
+        .theme-switch {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            align-items: center;
+        }
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 30px;
+        }
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 30px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 24px;
+            width: 24px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        input:checked + .slider {
+            background-color: var(--primary-color);
+        }
+        input:checked + .slider:before {
+            transform: translateX(20px);
+        }
+        .switch-label {
+            margin-right: 10px;
+        }
+
+        .sub-header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 7px;
+            padding: 0 20px;
+        }
+        .sub-header-container-2 {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .update-info-container {
+            margin-top: 15px;
+            margin-bottom: 0px;
+            text-align: left;
+            flex: 1;
+        }
+        .sort-container {
+            margin-top: 15px;
+            margin-bottom: 0px;
+            text-align: right;
+            flex: 2;
+        }
+        
+        .category-toggle-container {
+            display: inline-block;
+            margin-top: 15px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+        .category-option-container {
+            margin-top: 15px;
+            margin-bottom: 10px;
+            display: none;
+            margin-left: auto;
+        }
+        .category-option-container.expanded {
+            display: block;
+        }
+
+        .sort-dropdown {
+            padding: 5px 10px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            background-color: white;
+            color: var(--text-color);
+            font-family: 'Roboto Slab', sans-serif;
+        }
+        .sort-label {
+            margin-right: 10px;
+            font-size: 1.0em !important;
+        }        
+        .dark-theme .sort-dropdown {
+            background-color: #444;
+            color: white;
+            border-color: var(--text-color);
+        }
+        .title-sign {
+            display: inline-block;
+            transition: all 0.5s ease;            
+        }
+        .rotate {
+            transform: rotate(45deg) translateY(-6px);
+            transform-origin: center;
+        }
+        .title-text {
+            display: inline;
+            padding-left: 10px;
+        }
+        .summary_title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #222;
+            margin-bottom: 5px;
+        }
+        .summary_text {
+
+        }
+        .summary_image {
+            max-height: 500px;
+            max-width: 100%;
+            align: center;
+            margin-top: 40px;        
+            margin-bottom: 60px;        
+        }
+        .category-filters {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+            display: none;
+        }
+        .category-filters.expanded {
+            display: block;
+            margin-top: 10px;
+        }
+        .category-button {
+            display: inline-block;
+            margin: 5px;
+            padding: 5px 10px;
+            border-radius: 15px;
+            background-color: #f0f0f0;
+            color: #333;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .category-button.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        .category-button.inactive:not(.active) {
+            color: #ccc;
+        }
+        .dark-theme .category-button {
+            background-color: #555;
+            color: #fff;
+        }
+        .dark-theme .category-button.active {
+            background-color: var(--primary-color);
+        }
+        .dark-theme .category-button.inactive:not(.active) {
+            color: #888;
+        }
+        .clear-categories {
+            display: inline-block;
+            margin: 5px;
+            padding: 5px 10px;
+            border-radius: 15px;
+            background-color: #f0f0f0;
+            color: #333;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .clear-categories:hover {
+            background-color: #bbb;
+        }
+        .svg-container {
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
+        .svg-container span {
+            position: relative;
+            z-index: 1;
+        }
+        .svg-container svg {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            z-index: 0;
+        }
+
+        .nav-menu {
+            background-color: var(--menu-color);
+            padding: 2px 0 2px 0;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+        }        
+        .nav-container {
+            max-width: 1500px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: left;
+            gap: 3em;
+        }
+        .nav-container span a {
+            color: white;
+        }        
+        .nav-item {
+            color: white;
+            padding: 3px 0px;
+            cursor: pointer;
+            font-weight: 400;
+        }         
+        .nav-prev {
+            margin-left: 20px;
+        }        
+        .nav-item:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.3);
+        }        
+        .language-flags {
+            display: flex;
+            gap: 7px;
+            padding: 5px 20px 0 0;
+            margin-left: auto;
+        }
+        .flag-svg {
+            width: 22px;
+            height: 22px;
+            cursor: pointer;
+            opacity: 0.4;
+            transition: opacity 0.3s ease;
+            border-radius: 2px;
+        }
+        .flag-svg.active {
+            opacity: 1;
+        }
+        .flag-svg:hover {
+            opacity: 0.8;
+        }
+        
+        .dark-theme .nav-menu {
+            background-color: #333;
+        }
+        .dark-theme .nav-item {
+            color: white;
+        }
+        
+        .dark-theme .nav-item:hover {
+            background-color: rgba(255, 255, 255, 0.05);
+        }
+
+        .pointer { cursor: pointer; }
+
+        .article-pdf-title-img {
+            max-width: 100%;
+            max-height: 400px;
+            display: inline-block;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .article-pdf-title-img-cont {
+            text-align: center;
+        }
+        .dark-theme .article-pdf-title-img {
+            opacity: 0.8;
+            filter: grayscale(1);
+        }
+
+        @media (max-width: 600px) {
+            .nav-container {
+                flex-direction: row;
+                gap: 1.5em;
+            }            
+            .nav-item {
+                padding: 3px 0px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .category-filters {
+                display: none;
+            }
+            .category-toggle {
+                display: inline-block;
+                width: 100%;
+                text-align: left;
+            }
+            .category-filters.expanded {
+                display: block;
+                margin-top: 10px;
+            }
+        }
+        @media (max-width: 600px) {
+            .sub-header-container {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .sort-container {
+                width: 100%;
+                display: flex;
+                justify-content: left;
+                margin: 0 auto;
+            }
+            .sort-dropdown {
+                margin-left: auto;
+            }
+            .sort-label {
+                margin-top: 5px;
+                float: left;
+            }
+
+            .sub-header-container-2 {
+                flex-direction: row;
+                align-items: flex-start;
+            }
+            .update-info-container {
+                text-align: left;
+                width: 100%;
+                margin-bottom: 0px;
+            }
+            .category-toggle-container {
+                margin-top: 15px;
+                text-align: left;
+                margin-bottom: 10px;
+            }
+            .category-option-container {
+                margin-top: 15px;
+                text-align: center;
+                margin-bottom: 10px;
+            }            
+            main {
+                grid-template-columns: repeat(auto-fit);
+                gap: 0em;
+                padding: 10px 0 20px 0;
+            }
+            footer {
+                margin-top: -20px;
+            }
+            article>div.article-content {
+                border-radius: 0px;
+            }
+        }
+    </style>
+    <script>
+    function toggleAbstract(id) {
+        var abstract = document.getElementById('abstract-' + id);
+        var toggle = document.getElementById('toggle-' + id);
+        if (abstract.classList.contains('expanded')) {
+            abstract.classList.remove('expanded');
+            toggle.textContent = '...';
+        } else {
+            abstract.classList.add('expanded');
+            toggle.textContent = '';
+        }
+    }
+    function getTimeDiff(dateString, lang='ru') {
+        const timeUnits = {
+            ru: {
+                minute: ["минуту", "минуты", "минут"],
+                hour: ["час", "часа", "часов"],
+                day: ["день", "дня", "дней"],
+                justNow: "только что",
+                ago: "назад"
+            },
+            en: {
+                minute: ["minute", "minutes", "minutes"],
+                hour: ["hour", "hours", "hours"],
+                day: ["day", "days", "days"],
+                justNow: "just now",
+                ago: "ago"
+            },
+            zh: {
+                minute: ["分钟", "分钟", "分钟"],
+                hour: ["小时", "小时", "小时"],
+                day: ["天", "天", "天"],
+                justNow: "刚刚",
+                ago: "前"
+            }
+        };
+
+        function getPlural(number, words, lang) {
+            if (lang === 'ru') {
+                if (number % 10 === 1 && number % 100 !== 11) {
+                    return words[0];
+                } else if (number % 10 >= 2 && number % 10 <= 4 && (number % 100 < 10 || number % 100 >= 20)) {
+                    return words[1];
+                } else {
+                    return words[2];
+                }
+            } else if (lang === 'en') {
+                return number === 1 ? words[0] : words[1];
+            } else {
+                return words[0];
+            }
+        }
+
+        function formatTimeDiff(number, unit, lang) {
+            const unitWord = getPlural(number, timeUnits[lang][unit], lang);
+            
+            return `${number} ${unitWord} ${timeUnits[lang].ago}`;
+        }
+
+        if (!['ru', 'en'].includes(lang)) {
+            throw new Error('Unsupported language. Supported languages are: ru, en');
+        }
+
+        const pastDate = new Date(dateString.replace(" ", "T") + ":00Z");
+        const currentDate = new Date();
+        const diffInSeconds = Math.floor((currentDate - pastDate) / 1000);
+        
+        const minutes = Math.floor(diffInSeconds / 60);
+        const hours = Math.floor(diffInSeconds / 3600);
+        const days = Math.floor(diffInSeconds / 86400);
+
+        if (minutes === 0) {
+            return timeUnits[lang].justNow;
+        } else if (minutes < 60) {
+            return formatTimeDiff(minutes, 'minute', lang);
+        } else if (hours < 24) {
+            return formatTimeDiff(hours, 'hour', lang);
+        } else {
+            return formatTimeDiff(days, 'day', lang);
+        }
+    }
+    function isToday(dateString) {
+        const inputDate = new Date(dateString);
+        const today = new Date();
+        return (
+            inputDate.getFullYear() === today.getFullYear() &&
+            inputDate.getMonth() === today.getMonth() &&
+            inputDate.getDate() === today.getDate()
+        );
+    }
+    function isCurrentMonth(dateString) {
+        const inputDate = new Date(dateString);
+        const today = new Date();
+        return (
+            inputDate.getFullYear() === today.getFullYear() &&
+            inputDate.getMonth() === today.getMonth()
+        );
+    }
+    function formatArticlesTitle(number, lang='ru') {
+        const lastDigit = number % 10;
+        const lastTwoDigits = number % 100;
+        let word;
+
+        if (!['ru', 'en', 'zh'].includes(lang)) {
+            throw new Error('Unsupported language. Supported languages are: ru, en, zh');
+        }
+
+        if (lang === 'ru') {
+            if (lastTwoDigits >= 11 && lastTwoDigits <= 14) {
+                word = "статей";
+            } else if (lastDigit === 1) {
+                word = "статья";
+            } else if (lastDigit >= 2 && lastDigit <= 4) {
+                word = "статьи";
+            } else {
+                word = "статей";
+            }
+        } else if (lang === 'en') {
+            if (number === 1) {
+                word = 'paper'
+            } else {
+                word = 'papers'
+            }
+        } else if (lang === 'zh') {
+            word = "篇论文"
+        }
+
+        if (lang === 'zh') {
+            return `${number}${word}`;
+        } else {
+            return `${number} ${word}`;
+        }
+    }
+    </script>
+</head>
+<body class="light-theme">
+    <header>
+        <div class="container">            
+            <a href="index.html" class="a-clean"><h1 class="title-sign" id="doomgrad-icon">🔺</h1><h1 class="title-text" id="doomgrad">hf daily</h1></a>
+            <p><span id="title-date">1 июля</span> | <span id="title-articles-count">11 papers</span></p>
+        </div>
+        <div class="theme-switch">
+            <label class="switch">
+                <input type="checkbox" id="theme-toggle">
+                <span class="slider"></span>
+            </label>
+        </div>
+    </header>
+    <div class="nav-menu">
+        <div class="nav-container">
+            <span class="nav-item nav-prev" id="nav-prev"><a href="/d/2026-06-30.html">⬅️ <span id="prev-date">30.06</span></a></span>
+            <span class="nav-item" id="nav-next"><a href="/d/2026-07-02.html">➡️ <span id="next-date">02.07</span></a></span>
+            <span class="nav-item" id="nav-monthly"><a href="m/2026-07.html">📈 <span id='top-month-label'>Месяц</span></a></span>
+            <div class="language-flags">
+                <svg class="flag-svg" data-lang="ru" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#1435a1" d="M1 11H31V21H1z"></path><path d="M5,4H27c2.208,0,4,1.792,4,4v4H1v-4c0-2.208,1.792-4,4-4Z" fill="#fff"></path><path d="M5,20H27c2.208,0,4,1.792,4,4v4H1v-4c0-2.208,1.792-4,4-4Z" transform="rotate(180 16 24)" fill="#c53a28"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path></svg>
+                <svg class="flag-svg" data-lang="en" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><rect x="1" y="4" width="30" height="24" rx="4" ry="4" fill="#fff"></rect><path d="M1.638,5.846H30.362c-.711-1.108-1.947-1.846-3.362-1.846H5c-1.414,0-2.65,.738-3.362,1.846Z" fill="#a62842"></path><path d="M2.03,7.692c-.008,.103-.03,.202-.03,.308v1.539H31v-1.539c0-.105-.022-.204-.03-.308H2.03Z" fill="#a62842"></path><path fill="#a62842" d="M2 11.385H31V13.231H2z"></path><path fill="#a62842" d="M2 15.077H31V16.923000000000002H2z"></path><path fill="#a62842" d="M1 18.769H31V20.615H1z"></path><path d="M1,24c0,.105,.023,.204,.031,.308H30.969c.008-.103,.031-.202,.031-.308v-1.539H1v1.539Z" fill="#a62842"></path><path d="M30.362,26.154H1.638c.711,1.108,1.947,1.846,3.362,1.846H27c1.414,0,2.65-.738,3.362-1.846Z" fill="#a62842"></path><path d="M5,4h11v12.923H1V8c0-2.208,1.792-4,4-4Z" fill="#102d5e"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path><path fill="#fff" d="M4.601 7.463L5.193 7.033 4.462 7.033 4.236 6.338 4.01 7.033 3.279 7.033 3.87 7.463 3.644 8.158 4.236 7.729 4.827 8.158 4.601 7.463z"></path><path fill="#fff" d="M7.58 7.463L8.172 7.033 7.441 7.033 7.215 6.338 6.989 7.033 6.258 7.033 6.849 7.463 6.623 8.158 7.215 7.729 7.806 8.158 7.58 7.463z"></path><path fill="#fff" d="M10.56 7.463L11.151 7.033 10.42 7.033 10.194 6.338 9.968 7.033 9.237 7.033 9.828 7.463 9.603 8.158 10.194 7.729 10.785 8.158 10.56 7.463z"></path><path fill="#fff" d="M6.066 9.283L6.658 8.854 5.927 8.854 5.701 8.158 5.475 8.854 4.744 8.854 5.335 9.283 5.109 9.979 5.701 9.549 6.292 9.979 6.066 9.283z"></path><path fill="#fff" d="M9.046 9.283L9.637 8.854 8.906 8.854 8.68 8.158 8.454 8.854 7.723 8.854 8.314 9.283 8.089 9.979 8.68 9.549 9.271 9.979 9.046 9.283z"></path><path fill="#fff" d="M12.025 9.283L12.616 8.854 11.885 8.854 11.659 8.158 11.433 8.854 10.702 8.854 11.294 9.283 11.068 9.979 11.659 9.549 12.251 9.979 12.025 9.283z"></path><path fill="#fff" d="M6.066 12.924L6.658 12.494 5.927 12.494 5.701 11.799 5.475 12.494 4.744 12.494 5.335 12.924 5.109 13.619 5.701 13.19 6.292 13.619 6.066 12.924z"></path><path fill="#fff" d="M9.046 12.924L9.637 12.494 8.906 12.494 8.68 11.799 8.454 12.494 7.723 12.494 8.314 12.924 8.089 13.619 8.68 13.19 9.271 13.619 9.046 12.924z"></path><path fill="#fff" d="M12.025 12.924L12.616 12.494 11.885 12.494 11.659 11.799 11.433 12.494 10.702 12.494 11.294 12.924 11.068 13.619 11.659 13.19 12.251 13.619 12.025 12.924z"></path><path fill="#fff" d="M13.539 7.463L14.13 7.033 13.399 7.033 13.173 6.338 12.947 7.033 12.216 7.033 12.808 7.463 12.582 8.158 13.173 7.729 13.765 8.158 13.539 7.463z"></path><path fill="#fff" d="M4.601 11.104L5.193 10.674 4.462 10.674 4.236 9.979 4.01 10.674 3.279 10.674 3.87 11.104 3.644 11.799 4.236 11.369 4.827 11.799 4.601 11.104z"></path><path fill="#fff" d="M7.58 11.104L8.172 10.674 7.441 10.674 7.215 9.979 6.989 10.674 6.258 10.674 6.849 11.104 6.623 11.799 7.215 11.369 7.806 11.799 7.58 11.104z"></path><path fill="#fff" d="M10.56 11.104L11.151 10.674 10.42 10.674 10.194 9.979 9.968 10.674 9.237 10.674 9.828 11.104 9.603 11.799 10.194 11.369 10.785 11.799 10.56 11.104z"></path><path fill="#fff" d="M13.539 11.104L14.13 10.674 13.399 10.674 13.173 9.979 12.947 10.674 12.216 10.674 12.808 11.104 12.582 11.799 13.173 11.369 13.765 11.799 13.539 11.104z"></path><path fill="#fff" d="M4.601 14.744L5.193 14.315 4.462 14.315 4.236 13.619 4.01 14.315 3.279 14.315 3.87 14.744 3.644 15.44 4.236 15.01 4.827 15.44 4.601 14.744z"></path><path fill="#fff" d="M7.58 14.744L8.172 14.315 7.441 14.315 7.215 13.619 6.989 14.315 6.258 14.315 6.849 14.744 6.623 15.44 7.215 15.01 7.806 15.44 7.58 14.744z"></path><path fill="#fff" d="M10.56 14.744L11.151 14.315 10.42 14.315 10.194 13.619 9.968 14.315 9.237 14.315 9.828 14.744 9.603 15.44 10.194 15.01 10.785 15.44 10.56 14.744z"></path><path fill="#fff" d="M13.539 14.744L14.13 14.315 13.399 14.315 13.173 13.619 12.947 14.315 12.216 14.315 12.808 14.744 12.582 15.44 13.173 15.01 13.765 15.44 13.539 14.744z"></path></svg>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="sub-header-container">
+            <div class="update-info-container">
+                <label class="update-info-label" id="timeDiff"></label>
+            </div>
+            <div class="sort-container">
+                <label class="sort-label">🔀 <span id="sort-label-text">Сортировка по</span></label>
+                <select id="sort-dropdown" class="sort-dropdown">
+                    <option value="default">рейтингу</option>
+                    <option value="github">GitHub stars</option>
+                    <option value="pub_date">дате публикации</option>
+                    <option value="issue_id">добавлению на HF</option>
+                </select>
+            </div>
+        </div>
+        <div class="sub-header-container-2">
+            <div class="category-toggle-container">
+                <div class="svg-container">
+                    <span id="category-toggle">🏷️ Фильтр</span>
+                    <svg height="3" width="200">
+                        <line x1="0" y1="0" x2="200" y2="0" 
+                            stroke="black" 
+                            stroke-width="2" 
+                            stroke-dasharray="3, 3" />
+                    </svg>
+                </div>
+            </div>
+            <div class="category-option-container" id="category-options">                
+                <label class="pointer" for="filter-logic-or"><input type="radio" id="filter-logic-or" name="filter-logic" value="or"> A∪B</label>
+                <label class="pointer" for="filter-logic-and"><input type="radio" id="filter-logic-and" name="filter-logic" value="and"> A∩B</label>
+            </div> 
+        </div>
+        <div class="category-filters" id="category-filters">
+            <span class="clear-categories" id="clear-categories">🧹</span>
+            <!-- Categories -->
+        </div>
+        <main id="articles-container">
+            <!-- Articles -->
+        </main>
+    </div>
+    <footer>
+        <div class="container">
+            <p><a style="color:white;" href="https://t.me/doomgrad">doomgrad</a> ✖️ <a style="color:white;" href="https://huggingface.co/papers">hugging face</a></p>
+        </div>
+    </footer>
+    <script>
+        // Language handling
+        let currentLang = localStorage.getItem('selectedLang') || 'en';
+        let feedDate = {'ru': '1 июля', 'en': 'July 1', 'zh': '7月1日'};
+        let feedDateNext = {'ru': '02.07', 'en': '07/02', 'zh': '7月2日'};
+        let feedDatePrev = {'ru': '30.06', 'en': '06/30', 'zh': '6月30日'};
+        let filterLabel = {'ru': 'Фильтр', 'en': 'Topics', 'zh': '主题筛选'}
+        let publishedLabel = {'ru': 'статья от ', 'en': 'published on ', 'zh': '发表于'}
+        let sortLabel = {'ru': 'Сортировка по', 'en': 'Sort by', 'zh': '排序方式'}
+        let paperLabel = {'ru': 'Статья', 'en': 'Paper', 'zh': '论文'}
+        let topMonthLabel = {'ru': 'Месяц', 'en': 'Month', 'zh': '月度论文'}
+        let topDayLabel = {'ru': 'День', 'en': 'Day', 'zh': '日度论文'}
+        
+        function initializeLanguageFlags() {
+            const flags = document.querySelectorAll('.flag-svg');
+            flags.forEach(flag => {
+                if (flag.dataset.lang === currentLang) {
+                    flag.classList.add('active');
+                }
+                flag.addEventListener('click', () => {
+                    flags.forEach(f => f.classList.remove('active'));
+                    flag.classList.add('active');
+                    currentLang = flag.dataset.lang;
+                    localStorage.setItem('selectedLang', currentLang);
+                    updateTimeDiffs();
+                    updateLocalization();
+                    filterAndRenderArticles();
+                });
+            });
+        }
+        function toggleTheme() {
+            const body = document.body;
+            body.classList.toggle('light-theme');
+            body.classList.toggle('dark-theme');
+
+            const isDarkMode = body.classList.contains('dark-theme');
+            localStorage.setItem('darkMode', isDarkMode);
+            
+            if (isDarkMode) {
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf nightly";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.add('rotate');
+            }  else {
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf daily";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.remove('rotate');
+            }
+        }
+
+        const articlesData = [{'id': 'https://huggingface.co/papers/2606.30534', 'title': 'Orca: The World is in Your Mind', 'url': 'https://huggingface.co/papers/2606.30534', 'abstract': "Abstract Orca establishes a unified world latent space through next-state-prediction modeling using multimodal data and demonstrates superior performance in downstream tasks compared to specialized baselines.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We introduce Orca, an initial instantiation of a general world foundation model. Orca learns a unified world latent space from multimodal world signals and exposes it through multimodal readout interfaces. Rather than optimizing isolated next-token, next-frame, or next-action prediction, we are centered on Next-State-Prediction modeling, offering a unified state-transition modeling route toward understanding, predicting, and acting upon the world. Orca learns through two complementary paradigms: unconscious learning captures dense natural state transitions from continuous videos, and conscious learning models sparse meaningful state transitions by language-described events and VQA supervision. For pre-training, we construct a large-scale world-learning inventory data, including 125K hours of video data and 160M event annotations. After pre-training, Orca learns a unified world latent space. To examine whether the learned latent supports downstream, we evaluate it by three representative downstream readouts: text generation, image prediction, and embodied action generation. Orca's backbone is frozen, and only the lightweight modality-specific decoders are trainable. Experiments show the scalability of the proposed paradigm and verify that stronger world latent enables stronger downstream readouts. Orca outperforms similar-sized specialized baselines. These results show that Orca, as a general world foundation model, presents a promising approach to understanding, predicting, and acting upon the world. Finally, we discuss the current limitations, aiming to provide useful insights and inspiration for the community.", 'score': 74, 'issue_id': 2747, 'pub_date': '2026-06-29', 'pub_date_card': {'ru': '29 июня', 'en': 'June 29', 'zh': '6月29日'}, 'hash': 'afe1def3f371fb28', 'github_url': '', 'github_stars': 0, 'authors': ['Yihao Wang', 'Yuheng Ji', 'Mingyu Cao', 'Yanqing Shen', 'Runze Xiao', 'Huaihai Lyu', 'Senwei Xie', 'Euan Liu', 'Klara Tian', 'Tianfeng Long', 'Yichi Zhang', 'Zhengliang Cai', 'Ruike Chen', 'Jifan Zhao', 'Ruochuan Shi', 'Zihan Tang', 'Jing Lyu', 'Wenxing Tan', 'Ningbo Zhang', 'Yangtao Hu', 'Yuming Gao', 'Xiansheng Chen', 'Junkai Zhao', 'Congsheng Xu', 'Boan Zhu', 'Ziqi Wang', 'Yupu Feng', 'Qiongqiong Zhang', 'Yingli Zhao', 'Yulong Ao', 'Shaoxuan Xie', 'You Liu', 'Guocai Yao', 'Leiduo Zhang', 'Xiaodan Liu', 'Yunyan Zhang', 'Yance Jiao', 'Xinyan Yang', 'Jiaxing Wei', 'Xu Liu', 'Tengfei Pan', 'Shaokai Nie', 'Chunlei Men', 'Sen Cui', 'Xiaojie Jin', 'Hongyang Li', 'Jianlan Luo', 'Yao Mu', 'Yunchao Wei', 'Jun Yan', 'Hang Zhao', 'Xiaolong Zheng', 'Jiaming Li', 'Yonghua Lin', 'Tiejun Huang', 'Zhongyuan Wang', 'Pengwei Wang'], 'affiliations': ['Beijing Academy of Artificial Intelligence'], 'pdf_title_img': 'assets/pdf/title_img/2606.30534.jpg', 'data': {'categories': ['#games', '#optimization', '#training', '#dataset', '#agi', '#multimodal'], 'emoji': '🌍', 'ru': {'title': 'Единое латентное пространство для понимания мира', 'desc': 'Статья описывает модель Orca, которая создает единое латентное пространство мира через предсказание следующего состояния с использованием мультимодальных данных. Модель демонстрирует превосходные результаты в downstream задачах по сравнению со специализированными основами. Orca обучается через два парадигмы: бессознательное обучение для захвата плотных переходов состояний и сознательное обучение для моделирования значимых переходов через описанные на языке события. Результаты показывают, что сильное латентное пространство мира улучшает эффективность при выполнении различных задач.'}, 'en': {'title': 'Orca: A Unified Model for Understanding and Predicting the World', 'desc': 'Orca is a general world foundation model that learns a unified latent space from multimodal data, focusing on next-state-prediction modeling. It combines unconscious learning from continuous video data and conscious learning from language-described events to capture both dense and sparse state transitions. After extensive pre-training on a large dataset, Orca demonstrates its effectiveness in various downstream tasks like text generation and image prediction. The results indicate that a stronger world latent space leads to improved performance, outperforming specialized models in similar tasks.'}}}, {'id': 'https://huggingface.co/papers/2606.31315', 'title': 'BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding', 'url': 'https://huggingface.co/papers/2606.31315', 'abstract': 'Abstract Speculative decoding with adaptive block size selection improves inference efficiency by predicting optimal block sizes from prefilling representations, achieving significant speedup with minimal overhead.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Speculative decoding accelerates inference by using a lightweight draft model to generate candidate tokens in parallel, and are then verified by the target model, enabling lossless acceleration. Recently, diffusion-based speculative decoding further improves parallelism by generating multiple tokens per forward pass via block-level diffusion, achieving state-of-the-art (SOTA) performance. However, existing methods adopt a fixed inference block size and assume a uniform optimal decoding strategy across all inputs. In this paper, we show that this assumption is suboptimal, as the optimal block size varies across samples and plays a critical role in speculative decoding performance. Moreover, these values exhibit a clear local structure, concentrating around the training block size, which reduces the problem to a low-dimensional and structured decision space. Based on these insights, we propose BlockPilot, a sample-adaptive policy that predicts the optimal block size from the prefilling representation. Specifically, we formulate block size selection as a lightweight policy learning problem and propose an instance-adaptive decision mechanism that predicts the optimal block size based on the representation of the prefilling stage. The prediction is performed only once after prefilling, allowing for seamless integration. Extensive experiments demonstrate that our method is plug-and-play, introduces minimal overhead, and consistently improves efficiency, achieving an acceptance length of 5.92 and a 4.20times speedup on Qwen3-4B under temperature T=1.', 'score': 41, 'issue_id': 2748, 'pub_date': '2026-06-30', 'pub_date_card': {'ru': '30 июня', 'en': 'June 30', 'zh': '6月30日'}, 'hash': '7105c8f030a3a2fb', 'github_url': '', 'github_stars': 0, 'pdf_title_img': 'img/title_stub.png', 'data': {'categories': ['#inference', '#training', '#optimization', '#diffusion'], 'emoji': '⚡', 'ru': {'title': 'Адаптивный размер блока для ускорения вывода', 'desc': 'В статье обсуждается метод спекулятивного декодирования с адаптивным выбором размера блока, который улучшает эффективность вывода. Авторы предлагают использовать предсказания оптимальных размеров блоков на основе представлений, что позволяет значительно ускорить процесс с минимальными затратами. Модель BlockPilot адаптирует размер блока для каждого примера, учитывая его локальную структуру, что делает выбор более точным. Результаты экспериментов показывают впечатляющее улучшение скорости и эффективности, что подтверждает работоспособность предложенного подхода.'}, 'en': {'title': 'Adaptive Block Size for Faster Inference', 'desc': 'This paper introduces BlockPilot, a method that enhances speculative decoding by adapting the block size used during inference. It identifies that the optimal block size varies for different inputs, which can significantly impact performance. By predicting the best block size from prefilling representations, BlockPilot allows for efficient and effective decoding. The approach is lightweight, integrates easily into existing systems, and achieves notable speed improvements with minimal overhead.'}}}, {'id': 'https://huggingface.co/papers/2606.28436', 'title': 'Dockerless: Environment-Free Program Verifier for Coding Agents', 'url': 'https://huggingface.co/papers/2606.28436', 'abstract': 'Abstract A Dockerless environment-free agentic patch verifier improves code patch evaluation accuracy and enables effective post-training without execution-based verification costs.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Program verifiers play a central role in training coding agents, including selecting trajectories for supervised fine-tuning (SFT) and providing rewards for reinforcement learning (RL). Standard execution-based verification requires running unit tests inside per-repository environments such as Docker images, incurring substantial environment setup costs. We propose Dockerless, an environment-free agentic patch verifier that evaluates generated code patches without executing them. Rather than simply matching candidate patches to references, Dockerless judges patch correctness using evidence gathered through agentic repository exploration. On a verifier evaluation benchmark, Dockerless outperforms the strongest open-source verifier by 14.3 AUC points. Using Dockerless as both the SFT trajectory filter and the RL reward enables a fully environment-free post-training pipeline. The resulting model reaches 62.0%, 50.0%, and 35.2% resolve rate on SWE-bench Verified, Multilingual, and Pro, respectively. It surpasses the Qwen3.5-9B baseline by 2.4, 8.7, and 2.9 points, matching environment-based post-training.', 'score': 31, 'issue_id': 2748, 'pub_date': '2026-06-26', 'pub_date_card': {'ru': '26 июня', 'en': 'June 26', 'zh': '6月26日'}, 'hash': 'fa6a7f7474dbc581', 'github_url': '', 'github_stars': 0, 'pdf_title_img': 'img/title_stub.png', 'data': {'categories': ['#open_source', '#training', '#agent_memory', '#benchmark', '#optimization', '#agents', '#rl'], 'emoji': '🚀', 'ru': {'title': 'Инновации в проверке кодовых патчей без Docker', 'desc': 'Статья предлагает новый метод проверки кодовых патчей без использования Docker, что значительно повышает точность оценки. Предложенный инструмент, названный Dockerless, позволяет проверить правильность патчей, анализируя их в процессе исследования репозитория, а не только сопоставляя их с эталонами. Это избавляет от затрат на настройку окружения, необходимые для выполнения тестов. В итоге, модель, использующая Dockerless, достигает высоких показателей разрешения в различных бенчмарках.'}, 'en': {'title': 'Revolutionizing Code Verification with Dockerless', 'desc': 'This paper introduces Dockerless, an innovative patch verifier that enhances the accuracy of code patch evaluations without the need for execution-based verification. By utilizing agentic repository exploration, Dockerless assesses the correctness of code patches based on gathered evidence rather than simply matching them to references. This approach eliminates the significant setup costs associated with traditional Docker environments, allowing for a more efficient post-training process. The results show that Dockerless outperforms existing verifiers and enables a fully environment-free training pipeline for coding agents.'}}}, {'id': 'https://huggingface.co/papers/2606.30626', 'title': 'DOPD: Dual On-policy Distillation', 'url': 'https://huggingface.co/papers/2606.30626', 'abstract': 'Abstract DOPD addresses privilege illusion in on-policy distillation by dynamically routing token-level supervision between teacher and student policies based on advantage gaps and probabilities, improving capability transfer in large and vision-language models.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged information to either teacher or student itself. However, this additional input induces a potential failure mode we dub privilege illusion: a pattern that conflates the transferable capability gap that students are meant to close, and the information asymmetry gap that can only be mimicked but never replicated. This issue is further amplified by the inherent non-uniformity of token-level supervision, where only a small subset of tokens carries pivotal capability-bearing signals. To this end, we propose DOPD, an advantage-aware dual distillation paradigm that dynamically routes token-level supervision between privileged teacher and privileged student policies based on their advantage gap and relative probabilities. Each token receives supervision of different strength, objective, and strategy from either teacher or student itself, which transfers credible capability while simultaneously receiving auxiliary signals, to alleviate privilege illusion. Extensive experiments on both large language model (LLM) and vision-language model (VLM) settings demonstrate that DOPD consistently outperforms Vanilla OPD and other counterparts. Further results on stability, robustness, continual learning, and out-of-distribution tasks validate its superiority.', 'score': 17, 'issue_id': 2748, 'pub_date': '2026-06-29', 'pub_date_card': {'ru': '29 июня', 'en': 'June 29', 'zh': '6月29日'}, 'hash': '8202b7a5260a1e54', 'github_url': '', 'github_stars': 0, 'authors': ['Xinlei Yu', 'Gen Li', 'Qingyi Si', 'Guibin Zhang', 'Yuqi Xu', 'Congcong Wang', 'Shuai Dong', 'Kaiwen Tuo', 'Xiangyu Zeng', 'Kaituo Feng', 'Qunzhong Wang', 'Yang Shi', 'Xiaobin Hu', 'Xiangyu Yue', 'Jiaqi Wang', 'Shuicheng Yan'], 'affiliations': [], 'pdf_title_img': 'assets/pdf/title_img/2606.30626.jpg', 'data': {'categories': ['#transfer_learning', '#training', '#optimization', '#continual_learning', '#rl'], 'emoji': '🎓', 'ru': {'title': 'Новый подход к обучению моделей - DOPD', 'desc': 'Статья предлагает новый подход под названием DOPD для решения проблемы иллюзии привилегий в методом on-policy distillation (OPD). Этот метод динамически направляет уровень контроля на уровне токенов между учителем и студентом в зависимости от их преимуществ и вероятностей. Такой подход повышает качество передачи способностей в больших языковых моделях и моделях, объединяющих текст и изображение. Эксперименты показывают, что DOPD превосходит традиционные методы, улучшая стабильность и эффективность обучения.'}, 'en': {'title': 'Dynamic Routing for Enhanced Capability Transfer', 'desc': 'The paper introduces DOPD, a method that improves on-policy distillation by addressing the issue of privilege illusion in machine learning models. It dynamically routes token-level supervision between teacher and student policies based on their advantage gaps and probabilities, enhancing the transfer of capabilities. This approach allows for more effective supervision, as each token receives tailored guidance, which helps mitigate the risks associated with information asymmetry. Experiments show that DOPD outperforms traditional methods in various settings, demonstrating its effectiveness in large language and vision-language models.'}}}, {'id': 'https://huggingface.co/papers/2606.29082', 'title': 'Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks', 'url': 'https://huggingface.co/papers/2606.29082', 'abstract': 'Abstract Evolutionary fine-tuning enables large language models to develop cross-task problem-solving capabilities by learning from search trajectories, demonstrating improved performance on mathematical conjectures and optimization tasks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Would experience designing faster GPU kernels also help close in on a long-standing open mathematical conjecture? Large Language Models (LLMs) integrated into evolutionary search have recently produced state-of-the-art solutions on optimization tasks, including open mathematical conjectures, GPU kernel design, scientific law discovery, and combinatorial puzzles. To achieve this, prior work applied search scaffolds to one target task at a time, so every new problem is approached from scratch and the experience accumulated during search is discarded once the model finishes its attempt. This leaves the capability of iteratively evolving a solution (e.g., knowing which part to mutate and how, deciding when to backtrack) entirely in the scaffold rather than in the model itself. Whether the model itself could acquire this capability and reuse it across different tasks has been largely unexamined. To address this, we introduce Evolution Fine-Tuning (EFT), a mid-training paradigm that teaches LLMs to evolve solutions across tasks by converting evolutionary search trajectories into supervision. We construct Finch Collection, a 156K-trajectory dataset spanning 10 domains and 371 optimization tasks, and fine-tune open-source LLMs from 2B to 9B parameters. Empirically, EFT confers cross-task generalization: across 22 held-out tasks, our models surpass their base counterparts by 10.22% on average. Furthermore, when paired with test-time RL, our model matches state-of-the-art performance on two circle-packing tasks and outperforms its base-model counterpart on the Erdős minimum-overlap problem. EFT thus serves as a "practice phase" for general-purpose discovery agents that do not solve new problems from scratch.', 'score': 9, 'issue_id': 2748, 'pub_date': '2026-06-27', 'pub_date_card': {'ru': '27 июня', 'en': 'June 27', 'zh': '6月27日'}, 'hash': '5e49033138f36862', 'github_url': '', 'github_stars': 0, 'pdf_title_img': 'img/title_stub.png', 'data': {'categories': ['#dataset', '#training', '#rl', '#optimization', '#continual_learning', '#agi', '#math', '#agents'], 'emoji': '🧠', 'ru': {'title': 'Эволюция решений для разных задач', 'desc': 'Эволюционное дообучение (EFT) позволяет большим языковым моделям (LLM) развивать навыки решения различных задач, обучаясь на траекториях поиска. Это улучшает их производительность в математических предположениях и задачах оптимизации. В исследовании используется набор данных Finch Collection, содержащий 156 тысяч траекторий по 10 доменам и 371 задаче оптимизации. В результате, модели, прошедшие EFT, показали среднее повышение производительности на 10.22% по сравнению с базовыми моделями.'}, 'en': {'title': 'Evolving Solutions: Cross-Task Learning for Language Models', 'desc': 'This paper introduces Evolution Fine-Tuning (EFT), a method that allows large language models (LLMs) to learn from previous problem-solving experiences across different tasks. By converting evolutionary search trajectories into supervision, EFT enables models to iteratively evolve solutions rather than starting from scratch for each new problem. The authors present the Finch Collection, a dataset with 156K trajectories across various optimization tasks, which helps fine-tune LLMs to improve their performance. Empirical results show that models using EFT achieve significant improvements in cross-task generalization and outperform their base models on specific optimization challenges.'}}}, {'id': 'https://huggingface.co/papers/2606.31734', 'title': 'MemLearner: Learning to Query Context memory for Video World Models', 'url': 'https://huggingface.co/papers/2606.31734', 'abstract': 'Abstract MemLearner improves video world models by using learning-based adaptive context querying with query tokens to enhance scene consistency and memory in long video sequences with occlusions and dynamic objects.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Video World Models are interactive video generation models that predict future world states based on user actions and history video frames. A critical challenge in video world models is the lack of memory, causing inconsistent generated scenes over extended durations. Previous methods explored rule-based context frame retrieval as memory, but they fail to generalize in scenarios with scene occlusions and dynamic objects. We propose MemLearner, a learning-based adaptive context query method using query tokens to bridge context and predicted tokens. By leveraging the video generation model itself for context querying, MemLearner exploits pre-trained visual priors without training additional modules from scratch, and incorporates efficient strategies for training and inference. We collect a dataset of long videos with scene occlusions and dynamic objects, paired with camera pose annotations, and propose a multi-dataset training strategy leveraging both annotated rendered and unannotated real-world videos. Extensive experiments demonstrate that MemLearner significantly outperforms prior video world models in terms of scene consistency and memory, particularly under challenging occlusion and dynamic scenarios.', 'score': 6, 'issue_id': 2748, 'pub_date': '2026-06-30', 'pub_date_card': {'ru': '30 июня', 'en': 'June 30', 'zh': '6月30日'}, 'hash': 'a25f284ff5846b62', 'github_url': '', 'github_stars': 0, 'authors': ['Jiwen Yu', 'Jianxiong Gao', 'Jianhong Bai', 'Yiran Qin', 'Kaiyi Huang', 'Quande Liu', 'Xintao Wang', 'Pengfei Wan', 'Kun Gai', 'Xihui Liu'], 'affiliations': ['Fudan University', 'Kuaishou Technology', 'The University of Hong Kong', 'Zhejiang University'], 'pdf_title_img': 'assets/pdf/title_img/2606.31734.jpg', 'data': {'categories': ['#dataset', '#training', '#long_context', '#memory', '#optimization'], 'emoji': '🎥', 'ru': {'title': 'MemLearner: улучшение видео-мировых моделей для стабильности сцен', 'desc': 'В статье представлено новое решение MemLearner для улучшения видео-мировых моделей с использованием адаптивного контекстного запроса и токенов запроса. Это позволяет улучшить согласованность сцен и запоминание в длинных видеопоследовательностях, особенно в условиях затенения и динамических объектов. MemLearner использует предобученные визуальные приоритеты и не требует тренировки дополнительных модулей с нуля. Эксперименты показывают, что MemLearner значительно превосходит предыдущие модели по согласованности сцен и памяти.'}, 'en': {'title': 'Enhancing Video World Models with Adaptive Context Querying', 'desc': 'MemLearner enhances video world models by using a learning-based method for adaptive context querying with query tokens. This approach improves scene consistency and memory in long video sequences, especially when dealing with occlusions and dynamic objects. Unlike previous methods that relied on rule-based context retrieval, MemLearner effectively utilizes the video generation model itself for context querying, leveraging pre-trained visual knowledge. Extensive experiments show that MemLearner outperforms earlier models in maintaining scene consistency and memory across challenging scenarios.'}}}, {'id': 'https://huggingface.co/papers/2606.30811', 'title': 'AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation', 'url': 'https://huggingface.co/papers/2606.30811', 'abstract': 'Abstract AVTok is a unified tokenizer for audio-video generation that uses a dual-stream transformer architecture with shared encoder-decoder and modal-specific queries to create compact one-dimensional latent representations.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Audio-video generation has recently gained unprecedented research attention, aiming to synthesize high-quality sounding video content with fine-grained synchronization and semantic alignment between the auditory and visual components. The preceding methods predominantly adopt a dual-branch design with separate tokenization and generation modules per modality, neglecting the representation gap while necessitating intensive computational resources for proper training. Inspired by recent advancements in one-dimensional visual tokenization, we present AVTok, a novel unified tokenizer designated for holistic audio-video generation. AVTok features a dual-stream transformer-based architecture with shared encoder-decoder and modal-specific learnable queries to efficiently and effectively encode an audio-video pair into a compact one-dimensional latent representation with a unified codebook. To cope with the heterogeneous information imbalance that hinders AVTok from exploiting aligned audio-visual information, we devise a hierarchical training strategy to progressively realize reconstruction capabilities for each modality. Extensive experiments demonstrate that AVTok excels both in audio-video reconstruction and when integrated into downstream pipelines for audio-to-video, video-to-audio, and class-conditional joint audio-video generation. AVTok paves the way for the challenge of joint audio-video tokenization and provides a potential direction to build unified large multimodal models for audio-video generation.', 'score': 3, 'issue_id': 2748, 'pub_date': '2026-06-29', 'pub_date_card': {'ru': '29 июня', 'en': 'June 29', 'zh': '6月29日'}, 'hash': 'f2219b204d347c2d', 'github_url': '', 'github_stars': 0, 'authors': ['Kien T. Pham', 'I Chieh Chen', 'Qifeng Chen', 'Long Chen'], 'affiliations': ['The Hong Kong University of Science and Technology'], 'pdf_title_img': 'assets/pdf/title_img/2606.30811.jpg', 'data': {'categories': ['#multimodal', '#synthetic', '#audio', '#games'], 'emoji': '🎥', 'ru': {'title': 'Объединенный токенизатор для аудио-видео генерации', 'desc': 'AVTok представляет собой объединённый токенизатор для генерации аудио-видео, который использует архитектуру трансформера в два потока для создания компактных одноразмерных латентных представлений. Этот метод синхронизирует аудиовизуальные компоненты с высокой степенью согласованности, преодолевая ограничения предыдущих подходов, которые разделяли токенизацию для каждой модальности. AVTok использует иерархическую стратегию обучения для эффективной переработки информации из аудио и видео, что позволяет добиться высокой точности в реконтрукции содержимого. Результаты экспериментов показывают, что AVTok превосходит другие методы как в восстановлении аудио-видео, так и при интеграции в последующие задачи генерации.'}, 'en': {'title': 'Unified Tokenization for Seamless Audio-Video Generation', 'desc': 'AVTok is a new tokenizer designed for generating audio and video together using a dual-stream transformer architecture. It combines audio and visual data into a single, compact representation, improving efficiency and reducing the need for separate processing. The model addresses the challenges of aligning audio and video by using a hierarchical training strategy that enhances the reconstruction of both modalities. AVTok shows strong performance in tasks like audio-to-video and video-to-audio generation, paving the way for future multimodal models.'}}}, {'id': 'https://huggingface.co/papers/2606.30673', 'title': 'PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation', 'url': 'https://huggingface.co/papers/2606.30673', 'abstract': 'Abstract PolyFlow introduces a continuous mesh representation using a topology embedder and applies flow-matching with Transformers for parallel mesh generation, achieving faster inference and precise resolution control compared to autoregressive methods.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Autoregressive Transformers dominate high-quality mesh generation by producing artist-worthy topologies, yet their inherent sequential decoding induces substantial computational overhead, falling orders of magnitude slower than parallel generative models. On the other hand, while continuous diffusion and flow-matching methods support efficient parallel synthesis across a variety of domains, they cannot be directly applied to meshes: mesh connectivity is inherently discrete and incompatible with standard continuous noise injection and denoising operations. To resolve this fundamental incompatibility, we introduce a compact topology embedder that projects discrete mesh vertex positions and normals into continuous per-vertex embeddings, where the original discrete adjacency information can be faithfully recovered via spacetime distance thresholding. After pretraining and freezing this embedder, any raw mesh can be fully converted into a continuous per-vertex state space unifying position, normal, and implicit topological attributes. Built upon this novel continuous mesh representation, we present PolyFlow, a Transformer-based flow-matching framework that achieves fully parallel vertex state denoising conditioned on extracted point-cloud features. During inference, our model completes generation rapidly via an ODE solver, and supports explicit, precise control over output mesh resolution by directly specifying the target vertex count. Extensive evaluations on the Toys4K benchmark demonstrate that PolyFlow surpasses state-of-the-art autoregressive baselines in both Chamfer Distance and Hausdorff Distance.', 'score': 2, 'issue_id': 2748, 'pub_date': '2026-06-25', 'pub_date_card': {'ru': '25 июня', 'en': 'June 25', 'zh': '6月25日'}, 'hash': '887de3e6f445dcc4', 'github_url': '', 'github_stars': 0, 'authors': ['Chunshi Wang', 'Haohan Weng', 'Junliang Ye', 'Biwen Lei', 'Yang Li', 'Zibo Zhao', 'Zeqiang Lai', 'Kaiyi Zhang', 'Yunhan Yang', 'Zhuo Chen', 'Chunchao Guo', 'Yawei Luo'], 'affiliations': ['CUHK', 'HKU', 'HKUST', 'THU', 'Tencent', 'ZJU'], 'pdf_title_img': 'assets/pdf/title_img/2606.30673.jpg', 'data': {'categories': ['#games', '#architecture', '#diffusion', '#optimization', '#benchmark', '#3d'], 'emoji': '✨', 'ru': {'title': 'Быстрая и точная генерация мешей с PolyFlow', 'desc': 'Статья представляет новый метод генерации мешей под названием PolyFlow, который использует непрерывное представление меша с помощью топологического встраивателя и метод соответствия потока на основе Transformers. Этот метод позволяет ускорить вывод и точно контролировать разрешение меша по сравнению с авторегрессионными подходами. PolyFlow решает проблему несовместимости дискретной структуры меша с непрерывными методами синтеза, проецируя дискретные координаты вершин в непрерывное пространственное представление. Результаты показывают, что PolyFlow превосходит существующие авторегрессионные методы по метрикам качественной генерации мешей.'}, 'en': {'title': 'Revolutionizing Mesh Generation with PolyFlow', 'desc': 'PolyFlow presents a new way to represent meshes continuously using a topology embedder, allowing for faster and more precise mesh generation with Transformers. Unlike traditional autoregressive methods that generate meshes sequentially and slowly, PolyFlow utilizes flow-matching for parallel processing, significantly reducing computational time. The innovative topology embedder converts discrete mesh data into continuous embeddings, enabling effective denoising and control over mesh resolution. Evaluations show that PolyFlow outperforms existing autoregressive models in generating high-quality meshes, as measured by Chamfer and Hausdorff distances.'}}}, {'id': 'https://huggingface.co/papers/2606.31410', 'title': 'Xiaomi-GUI-0 Technical Report', 'url': 'https://huggingface.co/papers/2606.31410', 'abstract': 'Abstract A native multimodal GUI agent trained in real-device environments demonstrates superior performance and stability compared to traditional benchmark-based approaches.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Graphical user interface (GUI) agents build on vision-language models to complete user tasks end-to-end in real applications through interface actions such as tapping, swiping, text entry, and navigation. However, existing GUI agents are trained and evaluated largely on offline trajectories, simulated environments, and standardized benchmarks. These differ substantially from real applications in interface layout, interaction logic, and abnormal-state distribution, and cannot faithfully characterize execution stability in real-world use, where account states, permission dialogs, payment authentication, and risk control continually reshape the state distribution and open a persistent gap between benchmark scores and real usability. To close this gap, we propose Xiaomi-GUI-0, a native multimodal GUI agent for real mobile environments, trained and evaluated within a real-device closed loop. At its core is a real-device-dominant hybrid infrastructure, where physical devices are the primary execution environment and sandboxes provide auxiliary support, so that data collection, training, rollout, and evaluation share an execution distribution close to real deployment. We construct multi-source training data spanning high-frequency head tasks, high-generalization data for long-tail intents, and capability-enhancement data for reflection and memory, and introduce an error-driven data flywheel that turns failure trajectories into corrected actions, reflective explanations, and recovery demonstrations. The model is trained through a progressive three-stage pipeline of supervised fine-tuning, step-level reinforcement learning, and agentic reinforcement learning. Evaluated on public benchmarks and our in-house RealMobile, Xiaomi-GUI-0 achieves 72.0% success on RealMobile and 78.9% on AndroidWorld, while substantially improving execution stability and abnormal-state recognition in real-world tasks.', 'score': 1, 'issue_id': 2748, 'pub_date': '2026-06-30', 'pub_date_card': {'ru': '30 июня', 'en': 'June 30', 'zh': '6月30日'}, 'hash': '8b3a9bc5cd92b7fc', 'github_url': '', 'github_stars': 0, 'authors': ['Wanxia Cao', 'Chengzhen Duan', 'Pei Fu', 'Pengzhi Gao', 'Niu Lian', 'Fazhan Liu', 'Hui Liu', 'Heng Qu', 'Qinzhuo Wu', 'Zhehao Yu', 'Tongbo Chen', 'Shiqi Cui', 'Anan Du', 'Shukai Jia', 'Yuanfa Li', 'Yike Liu', 'Wenchao Lu', 'Haoyuan Sun', 'Jiatong Sun', 'Cheng Tan', 'Yajie Wang', 'Changqiao Wu', 'Tao Xiong', 'Jiahui Yang', 'Yuxuan Yuan', 'Ruoceng Zhang', 'Shaojie Zhang', 'Jian Zhu', 'Jian Luan', 'Cong Zou'], 'affiliations': [], 'pdf_title_img': 'assets/pdf/title_img/2606.31410.jpg', 'data': {'categories': ['#multimodal', '#training', '#memory', '#agent_memory', '#optimization', '#agents', '#rl'], 'emoji': '📱', 'ru': {'title': 'Новый уровень взаимодействия: мультимодальный GUI-агент для реальных приложений', 'desc': 'В данной статье рассматривается новый мультимодальный агент пользовательского интерфейса (GUI), обученный в реальных условиях. Этот агент демонстрирует лучшее выполнение задач и стабильность по сравнению с традиционными методами, основанными на стандартизированных тестах. Для его обучения использовались данные из реальной среды, что позволило улучшить адаптацию к реальным сценариям работы с интерфейсом. Агент Xiaomi-GUI-0 показывает высокую эффективность в популярных приложениях, достигая 72,0% успеха на платформе RealMobile.'}, 'en': {'title': 'Revolutionizing GUI Agents with Real-World Training', 'desc': 'This paper presents Xiaomi-GUI-0, a multimodal GUI agent designed for real mobile environments, which outperforms traditional benchmark-based agents. Unlike previous models that rely on simulated environments, Xiaomi-GUI-0 is trained and evaluated in real-device settings, ensuring better execution stability and usability. The agent utilizes a hybrid infrastructure that combines physical devices with supportive sandboxes for data collection and training. It employs a three-stage training process, including supervised fine-tuning and reinforcement learning, to enhance its ability to handle diverse user tasks and abnormal states effectively.'}}}, {'id': 'https://huggingface.co/papers/2606.30319', 'title': 'BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language', 'url': 'https://huggingface.co/papers/2606.30319', 'abstract': "Abstract BrainJanus represents the first unified brain model integrating brain, vision, and language through a shared Omni space, enabling bidirectional mapping between neural activity and sensory stimuli via a tokenized representation and autoregressive architecture.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Modeling the bidirectional correspondence between external sensory stimuli and internal neural activity has emerged as a critical frontier in neuroscience. However, existing approaches predominantly treat brain encoding and decoding as isolated tasks, relying heavily on unimodal alignment and external priors while overlooking the brain's intrinsic nature as a multimodal integration system. To address these limitations, we propose BrainJanus, the first unified brain model that integrates brain, vision, and language within a single framework. Specifically, we introduce a Unified Brain Tokenizer to quantize continuous neural dynamics into discrete tokens aligned with visual and linguistic representations in a shared Omni space. Building on this, we utilize an All-in-One autoregressive architecture that leverages next-token prediction to enable seamless any-to-any generation, which encompasses image-to-brain and text-to-brain encoding, and brain-to-image and brain-to-text decoding. Extensive experiments demonstrate that BrainJanus achieves superior performance across diverse benchmarks. Furthermore, our framework exhibits zero-shot generalization and preserves interpretable biological topography, highlighting its potential as a general-purpose brain modeling paradigm. The code is available at https://github.com/HaitaoWuTJU/BrainJanus{GitHub}.", 'score': 1, 'issue_id': 2748, 'pub_date': '2026-06-29', 'pub_date_card': {'ru': '29 июня', 'en': 'June 29', 'zh': '6月29日'}, 'hash': 'b5e50b06ce441335', 'github_url': '', 'github_stars': 0, 'authors': ['Haitao Wu', 'Qirui Zhang', 'Zhouheng Yao', 'Shangquan Sun', 'Qihao Zheng', 'Mianxin Liu', 'Chi Zhang', 'Wanli Ouyang', 'Chunfeng Song', 'Changqing Zhang', 'Jiamin Wu'], 'affiliations': ['Shanghai Artificial Intelligence Laboratory, Shanghai, China', 'The Chinese University of Hong Kong, Hong Kong, China', 'Tianjin University, Tianjin, China'], 'pdf_title_img': 'assets/pdf/title_img/2606.30319.jpg', 'data': {'categories': ['#interpretability', '#multimodal', '#transfer_learning', '#architecture', '#benchmark', '#agi'], 'emoji': '🧠', 'ru': {'title': 'Интеграция мозга, зрения и языка в единой модели', 'desc': 'BrainJanus представляет собой первую интегрированную модель мозга, которая объединяет информацию о мозге, зрении и языке в едином пространстве. Это позволяет осуществлять двустороннее сопоставление между нейронной активностью и внешними сенсорными стимулами с помощью токенизированной репрезентации. Модель использует автогрессивную архитектуру для предсказания токенов, что обеспечивает гибкость и возможность генерации различных типов информации. Эксперименты показывают, что BrainJanus превосходит существующие подходы и демонстрирует возможности обобщения без обучения на новых данных.'}, 'en': {'title': 'Unifying Brain, Vision, and Language in One Model', 'desc': 'BrainJanus is a groundbreaking model that integrates brain activity with vision and language in a unified framework. It uses a Unified Brain Tokenizer to convert neural dynamics into discrete tokens that correspond with visual and linguistic inputs. The model employs an autoregressive architecture for flexible encoding and decoding across different modalities, allowing for seamless interactions between brain signals and sensory stimuli. Experimental results show that BrainJanus outperforms existing methods and demonstrates strong generalization capabilities while maintaining biological interpretability.'}}}, {'id': 'https://huggingface.co/papers/2606.30697', 'title': 'LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents', 'url': 'https://huggingface.co/papers/2606.30697', 'abstract': 'Abstract LUMOS provides a semantic interaction layer that converts operating system metadata into machine-readable formats, enabling AI agents to interact more efficiently with computer interfaces than through traditional visual methods.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Current operating systems expose interfaces optimized for human users but not for AI agents. Humans benefit from pixels, icons, windows, visual grouping, mouse movement, and keyboard shortcuts; AI agents instead need compact semantic state, grounded actions, and reliable feedback. As a result, many computer-use agents are forced to interpret screenshots, OCR output, and visual crops, introducing high token costs, visual ambiguity, latency, and coordinate uncertainty. This paper introduces LUMOS (Language Model Unified Machine-Readable Operating-System Semantics), a semantic interaction layer between AI agents and operating systems. LUMOS converts native accessibility metadata and browser UI structures into machine readable semantic blueprints with stable identifiers, roles, names, values, bounds, and action affordances. It also supports live semantic pointer grounding by querying the UI element under or near the cursor through operating-system automation APIs. An LLM then acts through an accessibility grounded observe act loop using constrained visible-UI primitives rather than application-specific scripts. LUMOS does not claim to replace visual agents; instead, it reduces dependence on screenshots when operating systems already provide semantic structure. These results suggest a path toward AI-native operating systems and machine-readable interaction layers.', 'score': 1, 'issue_id': 2748, 'pub_date': '2026-06-29', 'pub_date_card': {'ru': '29 июня', 'en': 'June 29', 'zh': '6月29日'}, 'hash': 'a936ebeec134c293', 'github_url': '', 'github_stars': 0, 'pdf_title_img': 'img/title_stub.png', 'data': {'categories': ['#multimodal', '#tool_use', '#agents', '#agent_memory'], 'emoji': '💻', 'ru': {'title': 'Новый подход к взаимодействию AI с операционными системами', 'desc': 'Статья описывает LUMOS — семантический слой взаимодействия, который преобразует метаданные операционной системы в удобные для машин форматы. Это позволяет AI-агентам эффективнее взаимодействовать с компьютерными интерфейсами, чем через традиционные визуальные методы. LUMOS использует метаданные доступности и структуры пользовательского интерфейса для создания машинно-читаемых семантических чертежей с надежными идентификаторами и действиями. Результаты исследования показывают потенциал для создания операционных систем, оптимизированных для AI.'}, 'en': {'title': 'Empowering AI with Semantic Interaction for Operating Systems', 'desc': 'LUMOS introduces a semantic interaction layer that transforms operating system metadata into formats that AI agents can understand. This allows AI to interact with computer interfaces more effectively than traditional visual methods, which often rely on interpreting images and screenshots. By providing machine-readable semantic blueprints, LUMOS reduces the ambiguity and latency associated with visual processing. The system enhances AI capabilities by enabling a more direct and efficient communication with operating systems, paving the way for AI-native environments.'}}}];
+        const articlesContainer = document.getElementById('articles-container');
+        const sortDropdown = document.getElementById('sort-dropdown');
+        const categoryFiltersContainer = document.getElementById('category-filters');
+        const categoryFiltersLogicOptions = document.getElementById('category-options');
+        const categoryToggle = document.getElementById('category-toggle');
+        const clearCategoriesButton = document.getElementById('clear-categories');
+        let selectedCategories = [];
+        let selectedArticles = [];
+        let sortBy = 'issue_id';     
+        let showLimitHint = false; 
+        let filterLogicIsAnd = false;
+
+        function getUrlParameters() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const categoriesParam = urlParams.get('cat');
+            let categories = categoriesParam ? categoriesParam.split(',') : [];
+            categories = categories.map(element => `#${element}`);
+            return categories
+        }
+
+        function updateUrlWithCategories() {
+            let cleanedCategories = selectedCategories.map(element => element.replace(/^#/, ''));
+            const newUrl = cleanedCategories.length > 0 
+                ? `${window.location.pathname}?cat=${cleanedCategories.join(',')}`
+                : window.location.pathname;
+            console.log("cleanedCategories", cleanedCategories)
+            window.history.pushState({}, '', newUrl);
+        }
+
+        function loadSettings() {
+            const themeToggle = document.getElementById('theme-toggle');
+            const sortDropdown = document.getElementById('sort-dropdown');
+
+            const isDarkMode = localStorage.getItem('darkMode') === 'true';
+            let settingSortBy = localStorage.getItem('sort_by');
+            filterLogicIsAnd = localStorage.getItem('filter_logic_is_and') === 'true';
+            
+            if (isDarkMode) {
+                document.body.classList.remove('light-theme');
+                document.body.classList.add('dark-theme');
+                themeToggle.checked = true;
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf nightly";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.add('rotate');
+            }
+
+            if ((!settingSortBy) || (settingSortBy === 'null')) {
+                settingSortBy = 'issue_id';
+            }
+
+            if (filterLogicIsAnd) {
+                document.getElementById('filter-logic-and').checked = true;
+            } else {
+                document.getElementById('filter-logic-or').checked = true;
+            }
+
+            sortDropdown.value = settingSortBy;
+            sortBy = settingSortBy;
+        }
+
+        document.getElementById('theme-toggle').addEventListener('change', toggleTheme);
+        document.getElementById('filter-logic-and').addEventListener('change', () => {
+            filterLogicIsAnd = true;
+            localStorage.setItem('filter_logic_is_and', 'true');
+            filterAndRenderArticles();
+            updateSelectedArticlesTitle();
+        });
+        document.getElementById('filter-logic-or').addEventListener('change', () => {
+            filterLogicIsAnd = false;
+            localStorage.setItem('filter_logic_is_and', 'false');
+            filterAndRenderArticles();
+            updateSelectedArticlesTitle();
+        });
+
+        function getUniqueCategories(articles) {
+            const categories = new Set();
+            articles.forEach(article => {
+                if (article.data && article.data.categories) {
+                    article.data.categories.forEach(cat => categories.add(cat));
+                }
+            });
+            let res = Array.from(categories);
+            res.sort();
+            return res;
+        }
+
+        function createCategoryButtons() {
+            //const categories = getUniqueCategories(articlesData);
+            const categories = ['#3d (1)', '#agent_memory (3)', '#agents (4)', '#agi (3)', '#alignment', '#architecture (2)', '#audio (1)', '#benchmark (3)', '#compression', '#context_window', '#continual_learning (2)', '#data', '#dataset (3)', '#diffusion (2)', '#ethics', '#games (3)', '#graphs', '#hallucinations', '#healthcare', '#inference (1)', '#interpretability (1)', '#knowledge_graphs', '#leakage', '#long_context (1)', '#low_resource', '#machine_translation', '#math (1)', '#memorization', '#memory (2)', '#multilingual', '#multimodal (5)', '#open_source (1)', '#optimization (8)', '#plp', '#prompt_caching', '#prompting', '#rag', '#reasoning', '#retrieval', '#retrieval_eval', '#rl (4)', '#rlhf', '#robotics', '#science', '#security', '#session_memory', '#small_models', '#story_generation', '#survey', '#synthetic (1)', '#tool_use (1)', '#training (7)', '#transfer_learning (2)'];
+
+            categories.forEach(category => {
+                let catNameSplitted = category.split(/(\s+)/);
+                let catName = catNameSplitted[0];
+                const button = document.createElement('span');
+                button.textContent = catName;
+                button.className = 'category-button';
+                if (catNameSplitted.length < 2) {
+                    button.classList.add('inactive');
+                };
+                button.onclick = () => toggleCategory(catName, button);
+                categoryFiltersContainer.appendChild(button);
+            });
+        }
+
+        function toggleCategory(category, button) {
+            const index = selectedCategories.indexOf(category);
+            if (index === -1) {
+                selectedCategories.push(category);
+                button.classList.add('active');
+            } else {
+                selectedCategories.splice(index, 1);
+                button.classList.remove('active');
+            }         
+            filterAndRenderArticles();
+            saveCategorySelection();
+            updateSelectedArticlesTitle();
+            updateUrlWithCategories();
+            setFilterOptionsVisibility();
+        }
+
+        function saveCategorySelection() {
+            localStorage.setItem('selectedCategories', JSON.stringify(selectedCategories));
+        }
+
+        function updateSelectedArticlesTitle() {
+            if ((selectedArticles.length === articlesData.length) & (selectedCategories.length === 0)) {
+                categoryToggle.textContent = `🏷️ ${filterLabel[currentLang]}`;
+            } else {
+                categoryToggle.textContent = `🏷️ ${filterLabel[currentLang]} (${formatArticlesTitle(selectedArticles.length, currentLang)})`;
+            }
+        }
+
+        function cleanCategorySelection() {
+            localStorage.setItem('selectedCategories', JSON.stringify('[]'));
+        }
+
+        function loadCategorySelection() {
+            const urlCategories = getUrlParameters();
+            if (urlCategories.length > 0) {
+                selectedCategories = urlCategories;
+                saveCategorySelection();
+            } else {
+                const savedCategories = localStorage.getItem('selectedCategories');
+                if (savedCategories && savedCategories !== '"[]"') {
+                    selectedCategories = JSON.parse(savedCategories);                    
+                }
+            }
+            updateCategoryButtonStates();
+        }
+
+        function updateCategoryButtonStates() {
+            const buttons = categoryFiltersContainer.getElementsByClassName('category-button');
+            Array.from(buttons).forEach(button => {
+                if (selectedCategories.includes(button.textContent)) {
+                    button.classList.add('active');
+                } else {
+                    button.classList.remove('active');
+                }
+            });
+        }
+
+        function filterAndRenderArticles() {
+            console.log(selectedCategories);
+            let filteredArticles; 
+
+            if (filterLogicIsAnd) {
+                filteredArticles = selectedCategories.length === 0
+                    ? articlesData
+                    : articlesData.filter(article => 
+                        article.data && article.data.categories && 
+                        selectedCategories.every(cat => article.data.categories.includes(cat))
+                );
+            } else {
+                filteredArticles = selectedCategories.length === 0
+                    ? articlesData
+                    : articlesData.filter(article => 
+                        article.data && article.data.categories && 
+                        article.data.categories.some(cat => selectedCategories.includes(cat))
+                    );            
+            }
+
+            console.log('filteredArticles', filteredArticles)
+
+            selectedArticles = filteredArticles;
+            sortArticles(selectedArticles);
+        }
+
+        function clearAllCategories() {
+            selectedCategories = [];
+            updateCategoryButtonStates();
+            filterAndRenderArticles();
+            saveCategorySelection();
+            updateSelectedArticlesTitle();
+            updateUrlWithCategories();
+        }
+
+        function renderArticles(articles) {
+            if (articles.length > 50) {
+                articles = articles.slice(0, 50);
+                showLimitHint = true;
+            } else {
+                showLimitHint = false;
+            }
+            console.log(articles);
+            articlesContainer.innerHTML = '';
+            articles.forEach((item, index) => {
+                if ("error" in item) {
+                    console.log(`Omitting JSON. ${item["raw_data"]}`);
+                    return;
+                }
+                
+                let explanation = item["data"][currentLang]["desc"];
+                let title = item["data"][currentLang]["title"];
+
+                const cats = item["data"]["categories"].slice(0, 5).join(" ");
+                const githubStars = Number(item["github_stars"]);
+                let githubBlock = "";
+                if (item["github_url"]) {
+                    const starsText = Number.isFinite(githubStars) ? githubStars : 0;
+                    githubBlock = `<span class="github-link"><span class="github-stars">⭐ ${starsText}</span><a href="${item['github_url']}" target="_blank">GitHub</a></span>`;
+                }
+                
+                let affiliations = ""
+                if ('affiliations' in item) {
+                    affiliations = item["affiliations"].slice(0, 10).join(", ");
+                }
+
+                let pdfImg = "img/title_stub.png"
+                if ('pdf_title_img' in item) {
+                    pdfImg = '' + item['pdf_title_img']
+                    
+                }                
+
+                const articleHTML = `
+                    <article class='x${item["hash"]}'>
+                        <div class="article-content" onclick="toggleAbstract(${index})">
+                            <div class="background-digit">${index + 1}</div>
+                            <div class="article-title-cont">
+                                <div style="display:table-cell; vertical-align: middle;">
+                                    <div class="article-title"><h2>${item['data']['emoji']} ${title}</h2></div>
+                                </div>
+                            </div>
+                            <p class="meta">
+                            🔺 ${item['score']}. ${item['title']}</p>
+                            <p class="pub-date">${publishedLabel[currentLang]}${item['pub_date_card'][currentLang]}</p>
+                            
+                            <div class="article-pdf-title-img-cont"><img class="article-pdf-title-img" src="${pdfImg}"/></div>
+                            
+                            <div id="abstract-${index}" class="abstract">
+                                <p>${explanation}</p>
+                                <div id="toggle-${index}" class="abstract-toggle">...</div>
+                            </div>
+
+                            
+
+                            <div class="links">
+                                <a href="${item['url']}" target="_blank">${paperLabel[currentLang]}</a>
+                                ${githubBlock}
+                            </div>
+
+                            <div class="affiliations">${affiliations}</div>
+
+                            <div class="tags">${cats}</div>
+                        </div>
+                    </article>
+                `;
+                articlesContainer.innerHTML += articleHTML;
+            });
+        }
+        
+        function sortArticles() {
+            let sortedArticles = [...selectedArticles];
+            if (sortBy === 'issue_id') {
+                sortedArticles.sort((a, b) => b.issue_id - a.issue_id);
+            } else if (sortBy === 'pub_date') {
+                sortedArticles.sort((a, b) => b.pub_date.localeCompare(a.pub_date));
+            } else if (sortBy === 'github') {
+                sortedArticles.sort((a, b) => (Number(b.github_stars) || 0) - (Number(a.github_stars) || 0));
+            } else {
+                sortedArticles.sort((a, b) => b.score - a.score);
+            }
+            renderArticles(sortedArticles);
+            localStorage.setItem('sort_by', sortBy);
+        }
+        
+        sortDropdown.addEventListener('change', (event) => {
+            sortBy = event.target.value;
+            sortArticles(event.target.value);
+        });
+
+        categoryToggle.addEventListener('click', () => {
+            categoryFiltersContainer.classList.toggle('expanded');
+            setFilterOptionsVisibility();
+        });
+
+        clearCategoriesButton.addEventListener('click', () => {
+            clearAllCategories();
+            setFilterOptionsVisibility();
+        });
+
+        function setFilterOptionsVisibility() {
+            if (selectedCategories.length > 0) {
+                categoryFiltersLogicOptions.style.display = 'inline-block';
+            } else {
+                categoryFiltersLogicOptions.style.display = 'none';
+            }
+        } 
+        
+        function updateTimeDiffs() {
+            const timeDiff = document.getElementById('timeDiff');
+            timeDiff.innerHTML = '🔄 ' + getTimeDiff('2026-07-01 03:34',lang=currentLang);
+        }
+        function updateSortingOptions() {
+            const sortingLabels = {
+                ru: {
+                    default: "рейтингу",
+                    pub_date: "дате публикации",
+                    issue_id: "добавлению на HF",
+                    github: "звёздам GitHub"
+                },
+                en: {
+                    default: "rating",
+                    pub_date: "publication date",
+                    issue_id: "HF addition date",
+                    github: "GitHub stars"
+                },
+                zh: {
+                    default: "评分",
+                    pub_date: "发布日期",
+                    issue_id: "HF 收录日期",
+                    github: "GitHub 星标"
+                }
+            };
+
+            const dropdown = document.getElementById('sort-dropdown');
+            const options = dropdown.options;
+
+            for (let i = 0; i < options.length; i++) {
+                const optionValue = options[i].value;
+                options[i].text = sortingLabels[currentLang][optionValue];
+            }
+        }
+
+        function updateLocalization() {
+            const titleDate = document.getElementById('title-date');
+            const prevDate = document.getElementById('prev-date');
+            const nextDate = document.getElementById('next-date');
+            const topMonth = document.getElementById('top-month-label');
+            const topDay = document.getElementById('top-day-label');
+            const papersCount = document.getElementById('title-articles-count');
+            const sortLabelText = document.getElementById('sort-label-text');
+            titleDate.innerHTML = feedDate[currentLang];
+            prevDate.innerHTML = feedDatePrev[currentLang];
+            nextDate.innerHTML = feedDateNext[currentLang];
+            papersCount.innerHTML = formatArticlesTitle(articlesData.length, currentLang);
+            sortLabelText.innerHTML = sortLabel[currentLang];
+            if (topMonth) {
+                topMonth.innerHTML = topMonthLabel[currentLang];
+            }  
+            if (topDay) {
+                topDay.innerHTML = topDayLabel[currentLang];
+            }             
+            updateSelectedArticlesTitle();
+            updateSortingOptions();
+        } 
+        function hideNextLink(format) {
+            if (format === 'monthly') {
+                if (isCurrentMonth('2026-07-01 03:34')) {
+                    const element = document.getElementById('nav-next');
+                    if (element) {    
+                        element.style.display = 'none';
+                    }
+                }
+            } else {            
+                if (isToday('2026-07-01 03:34')) {
+                    const element = document.getElementById('nav-next');
+                    if (element) {    
+                        element.style.display = 'none';
+                    }
+                }
+            }
+        }
+
+        loadSettings();
+        createCategoryButtons();
+        loadCategorySelection();
+        filterAndRenderArticles();
+        updateSelectedArticlesTitle();
+        updateTimeDiffs();
+        hideNextLink('daily'); 
+        initializeLanguageFlags();
+        updateLocalization();
+        setFilterOptionsVisibility();
+    </script>
+</body>
+</html>
+    
