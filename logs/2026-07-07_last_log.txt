@@ -1,316 +1,394 @@
-[07.07.2026 11:53] Read previous papers.
-[07.07.2026 11:53] Generating top page (month).
-[07.07.2026 11:53] Writing top page (month).
-[07.07.2026 14:30] Read previous papers.
-[07.07.2026 14:30] Get feed.
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04425
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04425
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05373
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05373
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04438
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04438
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04439
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04439
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04033
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04033
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02642
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02642
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05247
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05247
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02646
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02646
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04443
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04443
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04988
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04988
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04605
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04605
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05061
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05061
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05352
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05352
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04428
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04428
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03973
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03973
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03524
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03524
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.00597
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.00597
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05155
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05155
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05391
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05391
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05376
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05376
-[07.07.2026 14:30] Extract page data from URL. URL: https://huggingface.co/papers/2607.05196
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.01793
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.01793
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.01764
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.01764
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02881
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02881
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2602.11688
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2602.11688
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2606.28393
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2606.28393
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05390
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05390
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02998
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02998
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03296
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03296
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04410
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04410
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04064
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04064
-[07.07.2026 14:30] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03068
-[07.07.2026 14:30] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03068
-[07.07.2026 14:30] Updating GitHub stars.
-[07.07.2026 14:30] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[07.07.2026 14:30] No deleted papers detected.
-[07.07.2026 14:30] Downloading and parsing papers (pdf, html). Total: 32.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04425.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04425.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04425.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05373.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05373.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05373.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04438.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04438.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04438.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04439.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04439.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04439.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04033.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04033.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04033.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.02642.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.02642.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.02642.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05247.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05247.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05247.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.02646.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.02646.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.02646.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04443.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04443.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04443.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04988.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04988.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04988.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04605.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04605.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04605.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05061.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05061.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05061.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05352.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05352.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05352.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04428.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04428.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04428.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.03973.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.03973.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.03973.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.03524.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.03524.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.03524.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.00597.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.00597.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.00597.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05155.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05155.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05155.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05391.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05391.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05391.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05376.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05376.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05376.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05196.
-[07.07.2026 14:30] Downloading paper 2607.05196 from https://arxiv.org/pdf/2607.05196v1...
-[07.07.2026 14:30] Extracting affiliations from text.
-[07.07.2026 14:30] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[07.07.2026 14:31] Read previous papers.
+[07.07.2026 14:31] Generating top page (month).
+[07.07.2026 14:31] Writing top page (month).
+[07.07.2026 17:14] Read previous papers.
+[07.07.2026 17:14] Get feed.
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04425
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04425
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04033
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04033
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05373
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05373
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04438
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04438
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04439
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04439
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02642
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02642
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05247
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05247
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03973
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03973
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04443
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04443
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02646
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02646
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04988
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04988
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04605
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04605
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05061
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05061
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04428
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04428
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05352
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05352
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03524
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03524
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.00597
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.00597
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05155
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05155
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05391
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05391
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05376
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05376
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.01764
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.01764
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05196
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05196
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.01793
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.01793
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02881
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02881
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2602.11688
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2602.11688
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2606.28393
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2606.28393
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05390
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05390
+[07.07.2026 17:14] Extract page data from URL. URL: https://huggingface.co/papers/2607.03748
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.02998
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.02998
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03296
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03296
+[07.07.2026 17:14] Extract page data from URL. URL: https://huggingface.co/papers/2607.05392
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04410
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04410
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04064
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04064
+[07.07.2026 17:14] Extract page data from URL. URL: https://huggingface.co/papers/2607.02904
+[07.07.2026 17:14] Extract page data from URL. URL: https://huggingface.co/papers/2607.03751
+[07.07.2026 17:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03068
+[07.07.2026 17:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03068
+[07.07.2026 17:14] Extract page data from URL. URL: https://huggingface.co/papers/2606.23993
+[07.07.2026 17:14] Updating GitHub stars.
+[07.07.2026 17:14] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[07.07.2026 17:14] No deleted papers detected.
+[07.07.2026 17:14] Downloading and parsing papers (pdf, html). Total: 37.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04425.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04425.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04425.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04033.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04033.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04033.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05373.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05373.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05373.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04438.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04438.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04438.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04439.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04439.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04439.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.02642.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.02642.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.02642.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05247.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05247.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05247.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.03973.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.03973.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.03973.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04443.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04443.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04443.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.02646.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.02646.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.02646.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04988.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04988.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04988.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04605.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04605.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04605.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05061.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05061.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05061.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04428.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04428.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04428.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05352.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05352.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05352.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.03524.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.03524.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.03524.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.00597.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.00597.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.00597.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05155.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05155.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05155.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05391.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05391.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05391.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05376.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05376.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05376.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.01764.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.01764.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.01764.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05196.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05196.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05196.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.01793.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.01793.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.01793.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.02881.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.02881.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.02881.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2602.11688.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2602.11688.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2602.11688.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2606.28393.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2606.28393.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2606.28393.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05390.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.05390.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.05390.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.03748.
+[07.07.2026 17:14] Downloading paper 2607.03748 from https://arxiv.org/pdf/2607.03748v1...
+[07.07.2026 17:14] Extracting affiliations from text.
+[07.07.2026 17:14] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"6 2 0 2 6 ] . [ 1 6 9 1 5 0 . 7 0 6 2 : r 2026-06- Zhifeng Kong, Sang-gil Lee*, Jaehyeon Kim*, Boxin Wang*, Zihan Liu, Sungwon Kim, Yang Chen, Arushi Goel, Rajarshi Roy, Wenliang Dai, Zhuolin Yang, Yangyi Chen, Dongfu Jiang, Sreyan Ghosh, Tuomas Rintamaki, Andrew Tao, Jonathan Raiman, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping* "
-[07.07.2026 14:30] Response: ```python
-[]
+Text:"6 2 0 2 4 ] . [ 1 8 4 7 3 0 . 7 0 6 2 : r Bridging Interleaved Multi-Modal Reasoning as Unified Decision Process Zican Hu12 Xuyang Hu3 Yiming Liu4 Zuwei Long2 Wei Liu2 Jiawei Gu6 Linjie Li6 Yu Cheng7 Zhenhong Sun8 Yunzhuo Hao5 Weibo Gu2 Xing Sun2 Zhi Wang1(cid:66) 1 Nanjing University 2 Tencent Youtu Lab 3 Shanghai AI Laboratory 4 Tsinghua University 5 Zhejiang University 6 University of Washington 7 The Chinese University of Hong Kong 8 Australian National University Contact: zicanhu@smail.nju.edu.cn zhiwang@nju.edu.cn "
+[07.07.2026 17:14] Response: ```python
+[
+    "Nanjing University",
+    "Tencent Youtu Lab",
+    "Shanghai AI Laboratory",
+    "Tsinghua University",
+    "Zhejiang University",
+    "University of Washington",
+    "The Chinese University of Hong Kong",
+    "Australian National University"
+]
 ```
-[07.07.2026 14:30] Extracting affiliations from text.
-[07.07.2026 14:30] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[07.07.2026 17:14] Deleting PDF ./assets/pdf/2607.03748.pdf.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.02998.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.02998.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.02998.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.03296.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.03296.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.03296.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.05392.
+[07.07.2026 17:14] Downloading paper 2607.05392 from https://arxiv.org/pdf/2607.05392v1...
+[07.07.2026 17:14] Extracting affiliations from text.
+[07.07.2026 17:14] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"6 2 0 2 6 ] . [ 1 6 9 1 5 0 . 7 0 6 2 : r 2026-06-Zhifeng Kong, Sang-gil Lee*, Jaehyeon Kim*, Boxin Wang*, Zihan Liu, Sungwon Kim, Yang Chen, Arushi Goel, Rajarshi Roy, Wenliang Dai, Zhuolin Yang, Yangyi Chen, Dongfu Jiang, Sreyan Ghosh, Tuomas Rintamaki, Andrew Tao, Jonathan Raiman, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping*Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), unified audio-text LLM built on Nemotron-Cascade-230B-A3B, strong text-only MoE LLM. Audex adopts simple unified design with single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are treated uniformly during generation. This architecture enables strong audio-text fusion, seamless multimodal generation, and compatibility with standard LLM training and inference infrastructure. For training, we meticulously curate audio-text datasets comprising 157.4B audio tokens and 320.5B text tokens. We apply multi-stage supervised training on these datasets, followed by text-only Cascade RL and multi-domain on-policy distillation. Audex delivers state-of-the-art audio understanding, speech recognition and translation, text-to-speech, audio generation, and speech-to-speech generation, while preserving very compelling reasoning, alignment, knowledge, long-context, and agentic capabilities of its text-only LLM backbone with marginal or no regression. We release the model checkpoints to facilitate open research. Nemotron-Labs-Audex-30B-A3B: the audio-text to audio-text model. Nemotron-Labs-Audex-2B: the smaller 2B model uses the same training recipe as the 30B-A3B model. 1. Introduction Audio, including speech, music and environmental sound, is central to how humans perceive, communicate, and experience the world, from understanding the physical environment and engaging in spoken conversation to expressing emotions beyond written language and appreciating music. As such, audio intelligence, which involves understanding, reasoning about, and generating both audio and speech, is an indispensable modality for building artificial general intelligence (AGI). In recent years, substantial efforts have been devoted to building audio LLMs that excel at audio and speech understanding, including Audio Flamingo (Ghosh et al., 2025b, 2026; Goel et al., 2025; Kong et al., 2024a), Qwen2-Audio (Chu et al., 2024), Kimi-Audio (Ding et al., 2025), Voxtral (Liu et al., 2025a), and Step-Audio 2 (Wu et al., 2025a). Other works have explored unified LLMs capable of both audio understanding and generation, including Qwen-Omni (Team, 2026; Xu et al., 2025a,b), MiMo-Audio (Zhang et al., 2025a), and UALM (Tian et al., 2026). It is worth noting that LLMs capable of handling multimodal inputs and outputs, including audio and vision, especially those supporting multimodal generation, often exhibit noticeable regressions on text benchmarks. For vision-only inputs, the NVLM study (Dai et al., 2024) documented this issue and addressed it by training on mixture of high-quality text-only and vision-text data. For models with multimodal output capabilities, the issue is even more challenging. For example, even when the multimodal output domain is constraint to speech generation, Qwen3-Omni (Xu et al., 2025b) and Qwen3.5-Omni (Team, 2026) show degradation on key text Equal contribution, with authors listed in reverse alphabetical order by first name. Leads the effort. Correspondence to: {zkong, sanggill, jaehyeonk, boxinw, wping}@nvidia.com. 2026 NVIDIA. All rights reserved. Unified Audio Intelligence Without Regressing on Text Intelligence benchmarks relative to their text-only counterparts Qwen3 (Yang et al., 2025) and Qwen3.5 (Qwen-Team, 2026). 1 Such degradation is concerning because much of models intelligence, including reasoning ability, knowledge, and agentic capabilities such as tool use, is encoded in text. The challenge is well recognized in frontier LLM development: building native multimodal LLMs capable of multimodal understanding and generation without compromising text intelligence is arguably critical step on the path toward AGI. Along this direction, several efforts have integrated audio and vision understanding and generation into frontier proprietary LLMs, with GPT-4o (Hurst et al., 2024) and Gemini 2.5 (Comanici et al., 2025) as notable examples. In contrast, open frontier LLMs, such as DeepSeek-V4 (DeepSeek-AI, 2026) and GLM-5.1 (GLM-5-Team, 2026), remain text-only. Although Qwen3.5 (Qwen-Team, 2026) and Kimi-2.5 (Team et al., 2026) incorporate vision inputs, they do not yet support multimodal outputs such as audio. In this work, we build and release Nemotron-Labs-Audex-30B-A3B (Audex for short throughout the paper) on top of the text-only Nemotron-Cascade-2-30B-A3B (Yang et al., 2026), strong general-purpose LLM based on 30B Mamba2-Transformer hybrid Mixture-of-Experts (MoE) architecture with 3B activated parameters (Blakeman et al., 2025b). Audex achieves state-of-the-art results in general audio understanding and generation across speech, music, and sound, while preserving the text intelligence of its LLM backbone, Nemotron-Cascade 2, with marginal or no regression (see Table 1). To this end, Audex is trained on the same text-only post-training data used for Nemotron-Cascade 2, combined with audio-text data. Audex is single unified model that supports both instruct mode for instant responses and thinking mode for reasoning across both text-only and audio-to-text tasks. Unlike cascaded systems with stacked models (ThinkingMachines-Lab, 2026) or thinkertalker architectures (Xu et al., 2025b), Audex is single MoE Transformer decoder model that ingests audio inputs through an audio encoder followed by an MLP projection into the same embedding space as text, while treating text tokens and quantized audio tokens uniformly during autoregressive generation. This unified audio-text architecture enables seamless modality fusion and maximizes capabilities in audio-related tasks while preserving text intelligence across broad range of benchmarks, especially reasoning benchmarks. Furthermore, the simple architecture is readily compatible with existing LLM training infrastructure (e.g., Megatron-LM (Shoeybi et al., 2019)) and inference stacks (e.g., vLLM (Kwon et al., 2023)), enabling scalable training and inference through well-engineered imple"
-[07.07.2026 14:30] Response: ```python
-["NVIDIA"]
+Text:"6 2 0 2 6 ] . [ 1 2 9 3 5 0 . 7 0 6 2 : r SynCity 3000 Bootstrapping Scene-Scale 3D Diffusion Paul Engstler , Iro Laina , Christian Rupprecht , and Andrea Vedaldi Visual Geometry Group, University of Oxford {paule,iro,chrisr,vedaldi}@robots.ox.ac.uk https://research.paulengstler.com/syncity-3k Abstract. We present SynCity 3000, framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by new synthetic data engine, which we propose to address the scarcity of 3D scene data for training. The convolutional generator is then applied to dimetric image of the entire scene, generated from the user prompt, resulting in 3D scenes of arbitrary size and complexity. Across diverse prompts and layouts, SynCity 3000 produces large, coherent, and detailed scenes, addressing the shortcomings of prior approaches to 3D scene generation. Keywords: 3D scene generation Creating 3D content for movies, games and simulations is time-consuming and labor-intensive task that requires skilled artists and designers. Recent models that can produce automatically high-quality 3D assets from text prompts [36, 56, 62, 79], but these are usually limited to single objects. Generating entire 3D scenes would be much more impactful in applications. SynCity [15] has recently demonstrated that off-the-shelf models for image generation and image-based 3D reconstruction of single objects can be repurposed to generate large scenes. By building on off-the-shelf models, SynCity sidesteps the lack of large and diverse 3D scene datasets for training corresponding generator from scratch. It achieves this by reinterpreting the scene as grid of tiles, each of which is akin "
+[07.07.2026 17:14] Response: ```python
+["Visual Geometry Group, University of Oxford"]
 ```
-[07.07.2026 14:30] Deleting PDF ./assets/pdf/2607.05196.pdf.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.01793.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.01793.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.01793.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.01764.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.01764.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.01764.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.02881.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.02881.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.02881.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2602.11688.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2602.11688.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2602.11688.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2606.28393.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2606.28393.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2606.28393.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.05390.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.05390.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.05390.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.02998.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.02998.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.02998.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.03296.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.03296.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.03296.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04410.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04410.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04410.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.04064.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.04064.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.04064.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Downloading and parsing paper https://huggingface.co/papers/2607.03068.
-[07.07.2026 14:30] Extra JSON file exists (./assets/json/2607.03068.json), skip PDF parsing.
-[07.07.2026 14:30] Paper image links file exists (./assets/img_data/2607.03068.json), skip HTML parsing.
-[07.07.2026 14:30] Success.
-[07.07.2026 14:30] Enriching papers with extra data.
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 0. Abstract Uni-GUI dataset and UI-MOPD method enable cross-platform GUI agent training by addressing limited data and platform-specific capability degradation through multi-teacher on-policy distillation.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recent advances in multimodal foundation models and...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 1. Abstract PixWorld presents a unified pixel-space diffusion approach for 3D reconstruction and generation that overcomes limitations of latent-space methods through direct image-level supervision and geometry-aware feature alignment.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct 3D reconstruction and...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 2. Abstract ResearchStudio-Reel automates research dissemination by composing specialized skills around a shared paper extractor, generating consistent and editable artifacts including posters, videos, and blogs with hard pass/fail quality gates.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Research d...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 3. Abstract ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Large language models have made research ideatio...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 4. Abstract OmniOpt presents a unified framework for optimizer selection in large-scale model training by combining meta-pipeline transformations, norm-constrained linear minimization oracles, and a cross-domain benchmark to systematically analyze optimizer families and their trade-offs across differen...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 5. Abstract World models for robotic policy evaluation are systematically studied through a new benchmark, revealing that long-horizon rollout consistency and robot-specific controllability are more important than short-term visual realism for reliable policy assessment.  Generated by Qwen/Qwen2.5-Code...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 6. Abstract Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Dense spatial perception is essential for physical intelligence, where visual systems ar...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 7. Abstract EVA-Client is an open-source framework that unifies real-robot policy deployment, data collection, and evaluation through a component-decoupled architecture with inspectable execution workflows.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present EVA-Client, an open-source framework fo...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 8. Abstract Wan-Streamer v0.2 enhances audio-visual interaction by increasing visual resolution while maintaining low latency through optimized thinker-performer architecture with multi-GPU parallel processing.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present Wan-Streamer v0.2, a latency-preser...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 9. Abstract InternVLA-A1.5 integrates pretrained vision-language models with future prediction in latent space to enable efficient robot manipulation with preserved semantics and long-horizon execution.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified models for robot manipulation aim to equip one...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 10. Abstract Object-aware token merging framework SaMer compresses image-side tokens while preserving query-selectable visual evidence, achieving significant storage reduction and improved retrieval performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Multi-vector vision-language retrieval preserv...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 11. Abstract KVpop learns optimal key-value cache eviction by directly supervising keep-or-drop decisions using future-attention targets, achieving high performance with reduced memory usage.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Key-value (KV) cache growth is a major bottleneck in autoregressiv...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 12. Abstract A large-scale multiplayer world model trained on extensive gameplay data demonstrates stable long-horizon rollouts in a complex physics-based environment while maintaining coherence across multiple agents' actions.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We introduce the first multipl...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 13. Abstract Diffusion large language models face challenges in reasoning enhancement through post-training, but a novel on-policy self-distillation method using internal denoising trajectories improves mathematical reasoning and code generation performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 14. Abstract Manifold constraint hypothesis enables improved concept erasure by projecting updates onto estimated representation manifolds, achieving state-of-the-art results in nonlinear concept removal.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Concept erasure aims to remove a target concept from ...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 15. Abstract Perceptual Flow Matching enables efficient few-step generation by supervising flow matching in perceptual feature space, achieving high-quality results with reduced sampling steps and improved accuracy.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We propose Perceptual Flow Matching (PFM),...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 16. Abstract paper pilot is a multi-turn literature search agent that uses executable workflows to improve search accuracy and reduce errors by incorporating user feedback and controlled workflow corruption training.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scientific literature search often requir...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 17. Abstract Analysis of 38,000 hours of real-world agent interactions reveals log-sigmoid scaling laws for performance and exponential learning speed improvements across 134 diverse tasks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Pretraining scaling laws reveal that model capability improves predi...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 18. Abstract LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scaling pre-training, post-training, and test-...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 19. Abstract A video diffusion framework generates long, multi-view consistent videos by combining temporal and view-wise autoregression through 4D geometric bridging and spatio-temporal distillation techniques.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recent advances in video diffusion models have...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 20. Abstract A unified audio-text large language model is presented that integrates audio and text processing through a shared transformer decoder, achieving superior performance across multiple audio and speech tasks while maintaining strong text reasoning capabilities.  Generated by Qwen/Qwen2.5-Coder...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 21. Abstract Automated safety testing framework Vera uses a three-stage pipeline to identify and test safety risks in LLM agents through structured risk taxonomies, combinatorial case generation, and adaptive sandbox execution with evidence-based verification.  Generated by Qwen/Qwen2.5-Coder-32B-Instru...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 22. Abstract A dual-loop framework named Mastermind is introduced that separates strategy learning from task-specific experience to improve vulnerability reproduction capabilities in software engineering agents.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Repository-level vulnerability reproduction is...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 23. Abstract Long-horizon behavior prediction is enhanced through PraMem, which transforms lengthy historical sequences into experiential memory for improved accuracy.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Long-horizon behavior prediction aims to infer a user's next action based on a lengthy his...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 24. Abstract GORGO is a proxy architecture that optimizes LLM inference load balancing by jointly considering network latency, prefill cost, and queueing delay through evolutionary strategy tuning on a new synthetic dataset.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Increasingly, LLM inference servi...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 25. Abstract A novel training-free sampling method for chest X-ray report generation that leverages longitudinal patient history by encoding changes between prior and current examinations through set-to-set distance metrics.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct In longitudinal clinical practice...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 26. Abstract A large-scale visuotactile dataset called Deform360 is introduced to study deformable object dynamics, enabling comparison between 2D video and 3D particle world models for robotic manipulation tasks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Predicting object dynamics (i.e., world mode...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 27. Abstract A 3D latent diffusion model for chest CT generation that achieves high-fidelity results while enabling control over clinical attributes through metadata conditioning and reinforcement learning refinement.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Controllable generative models of 3D med...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 28. Abstract Audio encoders from HEAR families are evaluated for taste prediction, with gated late-fusion showing superior rank correlation and the best models achieving human-level accuracy on held-out music.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Crossmodal correspondences between sound and tas...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 29. Abstract A multimodal sexism identification system for memes uses hierarchical conditional soft-label prediction with vision-language embeddings and a lightweight Gated MLP trained via KL divergence and uncertainty weighting.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present the AI Wizards su...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 30. Abstract A speaker-disentangled syllabic tokenizer regresses perturbed student representations toward clean teacher targets to improve syllable boundary detection and speech language modeling performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unsupervised syllabic tokenization aims to learn ...
-[07.07.2026 14:30] ********************************************************************************
-[07.07.2026 14:30] Abstract 31. Abstract PixCon is a semi-supervised semantic segmentation framework that uses clean-positive pixel-contrastive learning with per-class memory banks to improve accuracy over existing methods.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Semi-supervised semantic segmentation (SSSS) has long turned o...
-[07.07.2026 14:30] Read previous papers.
-[07.07.2026 14:30] Generating reviews via LLM API.
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#continual_learning", "#agents", "#transfer_learning", "#dataset"], "emoji": "🌐", "ru": {"title": "Многофункциональные GUI-агенты: адаптация и сохранение возможностей", "desc": "В статье рассматриваются проблемы, связанные с обучением многофункциональных графических интерфейсов (GUI
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#diffusion", "#3d", "#architecture", "#optimization"], "emoji": "🌌", "ru": {"title": "Единый подход к 3D реконструкции и генерации", "desc": "Статья описывает подход PixWorld, который объединяет методы диффузии в пиксельном пространстве для трехмерной реконструкции и генерации. Он п
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#agents", "#open_source", "#science"], "emoji": "📑", "ru": {"title": "Автоматизация распространения научных исследований", "desc": "Исследование представляет собой автоматизацию распространения научных работ с помощью системы ResearchStudio-Reel, которая
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#survey", "#dataset", "#multimodal", "#data", "#science"], "emoji": "🧠", "ru": {"title": "Инновационные идеи с ResearchStudio-Idea", "desc": "ResearchStudio-Idea представляет собой набор инструментов для эффективной генерации идей в исследовательской деятельности, который сочетает в
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#survey", "#training", "#optimization", "#benchmark"], "emoji": "⚙️", "ru": {"title": "OmniOpt: универсальный выбор оптимизаторов для обучения моделей", "desc": "Статья представляет OmniOpt — универсальную платформу для выбора оптимизаторов при обучении крупных моделей. Она объединя
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#survey", "#agent_memory", "#dataset", "#optimization", "#architecture", "#benchmark", "#robotics", "#open_source"], "emoji": "🤖", "ru": {"title": "Долгосрочная надежность важнее краткосрочной реалистичности", "desc": "В статье исследуется применение мироустройств для оценки роботиз
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#agents", "#agi", "#3d", "#games"], "emoji": "🔍", "ru": {"title": "Моделирование границ для глубокого пространственного восприятия", "desc": "В этой статье рассматривается моделирование границ как способ улучшения пространственного восприятия для задач глубинногоEstimations и воплощ
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#agents", "#training", "#open_source", "#optimization", "#robotics", "#data"], "emoji": "🤖", "ru": {"title": "EVA-Client: единая платформа для работы с реальными роботами", "desc": "EVA-Client — это открытая платформа для развертывания, сбора данных и оценки обученных политик манипу
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#multimodal", "#audio", "#architecture", "#optimization"], "emoji": "🎤", "ru": {"title": "Новая эра аудио-визуального взаимодействия!", "desc": "Статья описывает обновление Wan-Streamer v0.2, которое улучшает взаимодействие аудио и видео за счёт повышения разрешения изображения при 
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#agents", "#agi", "#multimodal", "#robotics", "#optimization", "#benchmark", "#games"], "emoji": "🤖", "ru": {"title": "Инновационная модель для управления роботами", "desc": "Статья описывает модель InternVLA-A1.5, которая объединяет предобученные модели обработки изображений и текс
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#compression", "#retrieval"], "emoji": "🖼️", "ru": {"title": "Эффективное сжатие токенов с сохранением визуальных доказательств", "desc": "В статье представлен метод SaMer, который сжимает токены на стороне изображения, сохраняя визуальные доказательства, доступные для выбора запрос
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#memory", "#optimization", "#inference", "#compression"], "emoji": "🔑", "ru": {"title": "Оптимизация кэша ключ-значение для повышения производительности", "desc": "Статья посвящена новому методу оптимизации эвакуации кэш-памяти ключ-значение (KV) в задачах автогрессивного декодирова
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#agents", "#training", "#rl", "#open_source", "#diffusion", "#games", "#dataset"], "emoji": "⚽", "ru": {"title": "Инновационная мультиплеерная модель мира для динамических игр", "desc": "В данной статье представлен новый мультиплеерный мир модель, обученная на большом объеме игровых
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#reasoning", "#training", "#math", "#rl", "#optimization", "#diffusion"], "emoji": "💡", "ru": {"title": "Новый подход к самодистилляции для улучшения reasoning в языковых моделях", "desc": "В работе предложен новый метод самодистилляции под названием dOPSD, который улучшает способно
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#interpretability", "#training", "#architecture", "#leakage", "#optimization", "#data"], "emoji": "🔍", "ru": {"title": "Эффективное удаление концепций с помощью ограниченности манифольда", "desc": "Гипотеза о множественной ограниченности (MCH) улучшает процесс удаления концепций, пр
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#training", "#optimization", "#diffusion", "#dataset"], "emoji": "✨", "ru": {"title": "Эффективная генерация с минимальными шагами", "desc": "Метод Perceptual Flow Matching (PFM) представляет собой простой и эффективный подход для генерации с небольшим количеством шагов в моделях со
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#science", "#agent_memory", "#agents", "#training", "#rlhf", "#optimization", "#retrieval"], "emoji": "📚", "ru": {"title": "PaperPilot: Инновационный поиск научной литературы", "desc": "Статья описывает PaperPilot — многоходового агента для поиска научной литературы, который использ
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#agents", "#continual_learning", "#training", "#open_source", "#agent_memory", "#benchmark", "#optimization", "#games", "#dataset"], "emoji": "📈", "ru": {"title": "Лог-сигмоидальное масштабирование производительности агентов в реальном мире", "desc": "В данной статье исследуется вли
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#agents", "#reasoning", "#robotics", "#training", "#math", "#rl", "#agent_memory", "#benchmark", "#optimization"], "emoji": "🔍", "ru": {"title": "Новый подход к проверке решений с помощью LLM", "desc": "Статья представляет новый метод проверки решений с использованием LLM как провер
-[07.07.2026 14:30] Using data from previous issue: {"categories": ["#diffusion", "#multimodal", "#3d"], "emoji": "🎥", "ru": {"title": "Создание длинных многоватных видео с помощью авторегрессии", "desc": "В данной статье представлено новое решение для создания длинных многоватных видео с учетом временной и пространственной согласованности. Предложен
-[07.07.2026 14:30] Querying the API.
-[07.07.2026 14:30] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[07.07.2026 17:14] Deleting PDF ./assets/pdf/2607.05392.pdf.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04410.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04410.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04410.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.04064.
+[07.07.2026 17:14] Extra JSON file exists (./assets/json/2607.04064.json), skip PDF parsing.
+[07.07.2026 17:14] Paper image links file exists (./assets/img_data/2607.04064.json), skip HTML parsing.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.02904.
+[07.07.2026 17:14] Downloading paper 2607.02904 from https://arxiv.org/pdf/2607.02904v1...
+[07.07.2026 17:14] Extracting affiliations from text.
+[07.07.2026 17:14] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract A unified audio-text large language model is presented that integrates audio and text processing through a shared transformer decoder, achieving superior performance across multiple audio and speech tasks while maintaining strong text reasoning capabilities.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are treated uniformly during generation. This architecture enables strong audio-text fusion, seamless multimodal generation, and compatibility with standard LLM training and inference infrastructure. For training, we meticulously curate audio-text datasets comprising 157.4B audio tokens and 320.5B text tokens. We apply multi-stage supervised training on these datasets, followed by text-only Cascade RL and multi-domain on-policy distillation. Audex delivers state-of-the-art audio understanding, speech recognition and translation, text-to-speech, audio generation, and speech-to-speech generation, while preserving very compelling reasoning, alignment, knowledge, long-context, and agentic capabilities of its text-only LLM backbone with marginal or no regression. We release the model checkpoints to facilitate open research.
-[07.07.2026 14:30] Response: ```json
+Text:"Speaker-Aware Temporal Aggregation Strategies on Segment Representations for Depression Detection in Dyadic Interaction: Benchmark Study Anisha Pattanayak 1, Huang-Cheng Chou 2, Shrikanth Narayanan 2, Sudarsana Reddy Kadiri 2 1Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, USA 2Signal Analysis and Interpretation Laboratory (SAIL), University of Southern California, USA 6 2 0 2 3 ] . e [ 1 4 0 9 2 0 . 7 0 6 2 : r AbstractSpeech-based depression detection compresses features from short audio segments into one speaker-level decision, step called temporal aggregation rarely studied on its own. Most benchmarks fix single self-supervised encoder and single hand-picked layer, so reported gain may reflect the pipeline rather than the aggregation method itself. We introduce DEPOOL, controlled benchmark that compares six aggregation architectures with six frozen speech backbones on an English and Mandarin depression corpus, where each configuration learns which backbone layers matter rather than fixing one by hand. Across the resulting 72-configuration grid, third of configurations collapse into predicting single class for every speaker, failure tied to the backbone as much as to the method, and the architecture that is most stable in singleseed run becomes unreliable when training repeats across seeds. Robustness to backbone and seed, rather than average accuracy across single pipeline, should be first-class benchmarking criterion for temporal aggregation in clinical speech. Index Termsdepression detection, temporal aggregation, pooling, clinical speech, self-supervised learning, speaker-level evaluation, benchmark robustness I. INTRODUCTION Automatic depression detection from speech is attracting growing interest as complement to clinical screening. The World Health Organization estimates that over 280 million people live with depression, fewer than half of whom receive treatment [1], and speech can be collected passively du"
+[07.07.2026 17:14] Response: ```python
+["Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, USA", "Signal Analysis and Interpretation Laboratory (SAIL), University of Southern California, USA"]
+```
+[07.07.2026 17:14] Deleting PDF ./assets/pdf/2607.02904.pdf.
+[07.07.2026 17:14] Success.
+[07.07.2026 17:14] Downloading and parsing paper https://huggingface.co/papers/2607.03751.
+[07.07.2026 17:14] Downloading paper 2607.03751 from https://arxiv.org/pdf/2607.03751v1...
+[07.07.2026 17:15] Extracting affiliations from text.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"6 2 0 2 4 ] . [ 1 1 5 7 3 0 . 7 0 6 2 : r Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models Xinyi Xie 1 Zican Hu 1 Zhanyu Liu 1 Yicheng Dong 1 Wenhao Wu 1 Zhenhong Sun 2 Haoran Li 3 Chunlin Chen 1 Zhi Wang 1 Pichao Wang 4 1 Nanjing University 2 Australian National University 3 Institute of Automation, Chinese Academy of Sciences 4 Nvidia {xinyixie,zicanhu,zhanyuliu,yichengdong,wenhaowu}@smail.nju.edu.cn zhenhong.sun@anu.edu.au {clchen,zhiwang}@nju.edu.cn lihaoran2015@ia.ac.cn pichaowang@gmail.com Abstract: Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing remedy, post-training via supervised fine-tuning or reinforcement learning, improves task-specific performance but narrows the generalist capability that makes pretraining valuable. We identify key bottleneck: VLA failures stem not only from action generation but also from action evaluation. diagnostic pass@k study confirms that frozen VLAs already contain competent behaviors in their output distribution, with overall success rates rising from 33% at pass@1 to 92% at pass@32. Inspired by this, we propose SVA (Search, Value, and Act), simple framework that equips frozen VLA policies with long-term consequence awareness. SVA first uses Monte-Carlo tree search in simulation to fully explore the VLAs output distribution and collect diverse trajectories annotated with empirical returns; this knowledge is then distilled into lightweight Q-value model that predicts the expected consequence of candidate actions; at deployment, the frozen VLA proposes multiple candidates and the evaluator selects the one with the highest uncertainty-regularized Q-value, requiring no simulator access. By decoupling action proposal from consequence evaluation, SVA preserves the generalization capacity of the VLA backbone while substantially improving task su"
+[07.07.2026 17:15] Response: ```python
+[
+    "Nanjing University",
+    "Australian National University",
+    "Institute of Automation, Chinese Academy of Sciences",
+    "Nvidia"
+]
+```
+[07.07.2026 17:15] Deleting PDF ./assets/pdf/2607.03751.pdf.
+[07.07.2026 17:15] Success.
+[07.07.2026 17:15] Downloading and parsing paper https://huggingface.co/papers/2607.03068.
+[07.07.2026 17:15] Extra JSON file exists (./assets/json/2607.03068.json), skip PDF parsing.
+[07.07.2026 17:15] Paper image links file exists (./assets/img_data/2607.03068.json), skip HTML parsing.
+[07.07.2026 17:15] Success.
+[07.07.2026 17:15] Downloading and parsing paper https://huggingface.co/papers/2606.23993.
+[07.07.2026 17:15] Downloading paper 2606.23993 from https://arxiv.org/pdf/2606.23993v3...
+[07.07.2026 17:15] Extracting affiliations from text.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"6 2 0 2 7 2 ] . [ 3 3 9 9 3 2 . 6 0 6 2 : r Learning to Trigger: Reinforcement Learning at the Large Hadron Collider Zixin Ding1 Shaghayegh Emami2 Giovanna Salvi2 Cecilia Tosciri1 Abhijith Gandrakota3 Jennifer Ngadiuba3 Nhan Tran3 Christian Herwig2 David W. Miller1 Yuxin Chen1 University of Chicago1 University of Michigan, Ann Arbor2 Fermi National Accelerator Laboratory "
+[07.07.2026 17:15] Response: ```python
+["University of Chicago", "University of Michigan, Ann Arbor", "Fermi National Accelerator Laboratory"]
+```
+[07.07.2026 17:15] Deleting PDF ./assets/pdf/2606.23993.pdf.
+[07.07.2026 17:15] Success.
+[07.07.2026 17:15] Enriching papers with extra data.
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 0. Abstract Uni-GUI dataset and UI-MOPD method enable cross-platform GUI agent training by addressing limited data and platform-specific capability degradation through multi-teacher on-policy distillation.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recent advances in multimodal foundation models and...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 1. Abstract OmniOpt presents a unified framework for optimizer selection in large-scale model training by combining meta-pipeline transformations, norm-constrained linear minimization oracles, and a cross-domain benchmark to systematically analyze optimizer families and their trade-offs across differen...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 2. Abstract PixWorld presents a unified pixel-space diffusion approach for 3D reconstruction and generation that overcomes limitations of latent-space methods through direct image-level supervision and geometry-aware feature alignment.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct 3D reconstruction and...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 3. Abstract ResearchStudio-Reel automates research dissemination by composing specialized skills around a shared paper extractor, generating consistent and editable artifacts including posters, videos, and blogs with hard pass/fail quality gates.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Research d...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 4. Abstract ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Large language models have made research ideatio...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 5. Abstract World models for robotic policy evaluation are systematically studied through a new benchmark, revealing that long-horizon rollout consistency and robot-specific controllability are more important than short-term visual realism for reliable policy assessment.  Generated by Qwen/Qwen2.5-Code...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 6. Abstract Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Dense spatial perception is essential for physical intelligence, where visual systems ar...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 7. Abstract Manifold constraint hypothesis enables improved concept erasure by projecting updates onto estimated representation manifolds, achieving state-of-the-art results in nonlinear concept removal.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Concept erasure aims to remove a target concept from ...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 8. Abstract Wan-Streamer v0.2 enhances audio-visual interaction by increasing visual resolution while maintaining low latency through optimized thinker-performer architecture with multi-GPU parallel processing.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present Wan-Streamer v0.2, a latency-preser...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 9. Abstract EVA-Client is an open-source framework that unifies real-robot policy deployment, data collection, and evaluation through a component-decoupled architecture with inspectable execution workflows.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present EVA-Client, an open-source framework fo...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 10. Abstract InternVLA-A1.5 integrates pretrained vision-language models with future prediction in latent space to enable efficient robot manipulation with preserved semantics and long-horizon execution.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified models for robot manipulation aim to equip one...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 11. Abstract Object-aware token merging framework SaMer compresses image-side tokens while preserving query-selectable visual evidence, achieving significant storage reduction and improved retrieval performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Multi-vector vision-language retrieval preserv...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 12. Abstract KVpop learns optimal key-value cache eviction by directly supervising keep-or-drop decisions using future-attention targets, achieving high performance with reduced memory usage.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Key-value (KV) cache growth is a major bottleneck in autoregressiv...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 13. Abstract Diffusion large language models face challenges in reasoning enhancement through post-training, but a novel on-policy self-distillation method using internal denoising trajectories improves mathematical reasoning and code generation performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 14. Abstract A large-scale multiplayer world model trained on extensive gameplay data demonstrates stable long-horizon rollouts in a complex physics-based environment while maintaining coherence across multiple agents' actions.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We introduce the first multipl...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 15. Abstract Perceptual Flow Matching enables efficient few-step generation by supervising flow matching in perceptual feature space, achieving high-quality results with reduced sampling steps and improved accuracy.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We propose Perceptual Flow Matching (PFM),...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 16. Abstract paper pilot is a multi-turn literature search agent that uses executable workflows to improve search accuracy and reduce errors by incorporating user feedback and controlled workflow corruption training.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scientific literature search often requir...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 17. Abstract Analysis of 38,000 hours of real-world agent interactions reveals log-sigmoid scaling laws for performance and exponential learning speed improvements across 134 diverse tasks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Pretraining scaling laws reveal that model capability improves predi...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 18. Abstract LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scaling pre-training, post-training, and test-...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 19. Abstract A video diffusion framework generates long, multi-view consistent videos by combining temporal and view-wise autoregression through 4D geometric bridging and spatio-temporal distillation techniques.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recent advances in video diffusion models have...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 20. Abstract A dual-loop framework named Mastermind is introduced that separates strategy learning from task-specific experience to improve vulnerability reproduction capabilities in software engineering agents.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Repository-level vulnerability reproduction is...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 21. Abstract A unified audio-text large language model is presented that integrates audio and text processing through a shared transformer decoder, achieving superior performance across multiple audio and speech tasks while maintaining strong text reasoning capabilities.  Generated by Qwen/Qwen2.5-Coder...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 22. Abstract Automated safety testing framework Vera uses a three-stage pipeline to identify and test safety risks in LLM agents through structured risk taxonomies, combinatorial case generation, and adaptive sandbox execution with evidence-based verification.  Generated by Qwen/Qwen2.5-Coder-32B-Instru...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 23. Abstract Long-horizon behavior prediction is enhanced through PraMem, which transforms lengthy historical sequences into experiential memory for improved accuracy.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Long-horizon behavior prediction aims to infer a user's next action based on a lengthy his...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 24. Abstract GORGO is a proxy architecture that optimizes LLM inference load balancing by jointly considering network latency, prefill cost, and queueing delay through evolutionary strategy tuning on a new synthetic dataset.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Increasingly, LLM inference servi...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 25. Abstract A novel training-free sampling method for chest X-ray report generation that leverages longitudinal patient history by encoding changes between prior and current examinations through set-to-set distance metrics.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct In longitudinal clinical practice...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 26. Abstract A large-scale visuotactile dataset called Deform360 is introduced to study deformable object dynamics, enabling comparison between 2D video and 3D particle world models for robotic manipulation tasks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Predicting object dynamics (i.e., world mode...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 27. Abstract BRAID framework enables unified multi-modal reasoning by casting text-image interaction as a Markov decision process, allowing joint optimization through reinforcement learning with vision-language model guidance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified multi-modal models (UMM...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 28. Abstract A 3D latent diffusion model for chest CT generation that achieves high-fidelity results while enabling control over clinical attributes through metadata conditioning and reinforcement learning refinement.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Controllable generative models of 3D med...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 29. Abstract Audio encoders from HEAR families are evaluated for taste prediction, with gated late-fusion showing superior rank correlation and the best models achieving human-level accuracy on held-out music.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Crossmodal correspondences between sound and tas...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 30. Abstract SynCity 3000 generates large, coherent 3D scenes by adapting image-to-3D generators as convolutional operators through fine-tuning on synthetic scene data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present SynCity 3000, a framework for generating 3D scenes that are globally coherent ...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 31. Abstract A multimodal sexism identification system for memes uses hierarchical conditional soft-label prediction with vision-language embeddings and a lightweight Gated MLP trained via KL divergence and uncertainty weighting.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present the AI Wizards su...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 32. Abstract A speaker-disentangled syllabic tokenizer regresses perturbed student representations toward clean teacher targets to improve syllable boundary detection and speech language modeling performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unsupervised syllabic tokenization aims to learn ...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 33. Abstract Temporal aggregation methods for speech-based depression detection show inconsistent performance across different backbones and training runs, highlighting the need for robust benchmarking criteria.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Speech-based depression detection compresses f...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 34. Abstract A framework called SVA is introduced that enhances Vision-Language-Action models by decoupling action generation from consequence evaluation, thereby improving generalization and task success rates while reducing computational costs.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Vision-Lang...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 35. Abstract PixCon is a semi-supervised semantic segmentation framework that uses clean-positive pixel-contrastive learning with per-class memory banks to improve accuracy over existing methods.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Semi-supervised semantic segmentation (SSSS) has long turned o...
+[07.07.2026 17:15] ********************************************************************************
+[07.07.2026 17:15] Abstract 36. Abstract Reinforcement learning agents optimize real-time trigger thresholds at particle colliders by adapting Group-Filtered Policy Optimization to streaming control, improving signal efficiency and background rate management on both simulated and real collision data.  Generated by Qwen/Qwen2.5-Cod...
+[07.07.2026 17:15] Read previous papers.
+[07.07.2026 17:15] Generating reviews via LLM API.
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#continual_learning", "#agents", "#transfer_learning", "#dataset"], "emoji": "🌐", "ru": {"title": "Многофункциональные GUI-агенты: адаптация и сохранение возможностей", "desc": "В статье рассматриваются проблемы, связанные с обучением многофункциональных графических интерфейсов (GUI
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#survey", "#training", "#optimization", "#benchmark"], "emoji": "⚙️", "ru": {"title": "OmniOpt: универсальный выбор оптимизаторов для обучения моделей", "desc": "Статья представляет OmniOpt — универсальную платформу для выбора оптимизаторов при обучении крупных моделей. Она объединя
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#diffusion", "#3d", "#architecture", "#optimization"], "emoji": "🌌", "ru": {"title": "Единый подход к 3D реконструкции и генерации", "desc": "Статья описывает подход PixWorld, который объединяет методы диффузии в пиксельном пространстве для трехмерной реконструкции и генерации. Он п
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#agents", "#open_source", "#science"], "emoji": "📑", "ru": {"title": "Автоматизация распространения научных исследований", "desc": "Исследование представляет собой автоматизацию распространения научных работ с помощью системы ResearchStudio-Reel, которая
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#survey", "#dataset", "#multimodal", "#data", "#science"], "emoji": "🧠", "ru": {"title": "Инновационные идеи с ResearchStudio-Idea", "desc": "ResearchStudio-Idea представляет собой набор инструментов для эффективной генерации идей в исследовательской деятельности, который сочетает в
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#survey", "#agent_memory", "#dataset", "#optimization", "#architecture", "#benchmark", "#robotics", "#open_source"], "emoji": "🤖", "ru": {"title": "Долгосрочная надежность важнее краткосрочной реалистичности", "desc": "В статье исследуется применение мироустройств для оценки роботиз
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#agents", "#agi", "#3d", "#games"], "emoji": "🔍", "ru": {"title": "Моделирование границ для глубокого пространственного восприятия", "desc": "В этой статье рассматривается моделирование границ как способ улучшения пространственного восприятия для задач глубинногоEstimations и воплощ
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#interpretability", "#training", "#architecture", "#leakage", "#optimization", "#data"], "emoji": "🔍", "ru": {"title": "Эффективное удаление концепций с помощью ограниченности манифольда", "desc": "Гипотеза о множественной ограниченности (MCH) улучшает процесс удаления концепций, пр
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#multimodal", "#audio", "#architecture", "#optimization"], "emoji": "🎤", "ru": {"title": "Новая эра аудио-визуального взаимодействия!", "desc": "Статья описывает обновление Wan-Streamer v0.2, которое улучшает взаимодействие аудио и видео за счёт повышения разрешения изображения при 
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#agents", "#training", "#open_source", "#optimization", "#robotics", "#data"], "emoji": "🤖", "ru": {"title": "EVA-Client: единая платформа для работы с реальными роботами", "desc": "EVA-Client — это открытая платформа для развертывания, сбора данных и оценки обученных политик манипу
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#agents", "#agi", "#multimodal", "#robotics", "#optimization", "#benchmark", "#games"], "emoji": "🤖", "ru": {"title": "Инновационная модель для управления роботами", "desc": "Статья описывает модель InternVLA-A1.5, которая объединяет предобученные модели обработки изображений и текс
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#compression", "#retrieval"], "emoji": "🖼️", "ru": {"title": "Эффективное сжатие токенов с сохранением визуальных доказательств", "desc": "В статье представлен метод SaMer, который сжимает токены на стороне изображения, сохраняя визуальные доказательства, доступные для выбора запрос
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#memory", "#optimization", "#inference", "#compression"], "emoji": "🔑", "ru": {"title": "Оптимизация кэша ключ-значение для повышения производительности", "desc": "Статья посвящена новому методу оптимизации эвакуации кэш-памяти ключ-значение (KV) в задачах автогрессивного декодирова
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#reasoning", "#training", "#math", "#rl", "#optimization", "#diffusion"], "emoji": "💡", "ru": {"title": "Новый подход к самодистилляции для улучшения reasoning в языковых моделях", "desc": "В работе предложен новый метод самодистилляции под названием dOPSD, который улучшает способно
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#agents", "#training", "#rl", "#open_source", "#diffusion", "#games", "#dataset"], "emoji": "⚽", "ru": {"title": "Инновационная мультиплеерная модель мира для динамических игр", "desc": "В данной статье представлен новый мультиплеерный мир модель, обученная на большом объеме игровых
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#training", "#optimization", "#diffusion", "#dataset"], "emoji": "✨", "ru": {"title": "Эффективная генерация с минимальными шагами", "desc": "Метод Perceptual Flow Matching (PFM) представляет собой простой и эффективный подход для генерации с небольшим количеством шагов в моделях со
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#science", "#agent_memory", "#agents", "#training", "#rlhf", "#optimization", "#retrieval"], "emoji": "📚", "ru": {"title": "PaperPilot: Инновационный поиск научной литературы", "desc": "Статья описывает PaperPilot — многоходового агента для поиска научной литературы, который использ
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#agents", "#continual_learning", "#training", "#open_source", "#agent_memory", "#benchmark", "#optimization", "#games", "#dataset"], "emoji": "📈", "ru": {"title": "Лог-сигмоидальное масштабирование производительности агентов в реальном мире", "desc": "В данной статье исследуется вли
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#agents", "#reasoning", "#robotics", "#training", "#math", "#rl", "#agent_memory", "#benchmark", "#optimization"], "emoji": "🔍", "ru": {"title": "Новый подход к проверке решений с помощью LLM", "desc": "Статья представляет новый метод проверки решений с использованием LLM как провер
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#diffusion", "#multimodal", "#3d"], "emoji": "🎥", "ru": {"title": "Создание длинных многоватных видео с помощью авторегрессии", "desc": "В данной статье представлено новое решение для создания длинных многоватных видео с учетом временной и пространственной согласованности. Предложен
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#training", "#optimization", "#transfer_learning", "#agents"], "emoji": "🛠️", "ru": {"title": "Mastermind: стратегическое обучение для улучшения воспроизводимости уязвимостей", "desc": "В статье представлена двухконтурная структура под названием Mastermind, которая отделяет обучение
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#audio", "#training", "#open_source", "#multimodal", "#alignment", "#games", "#dataset", "#long_context", "#agi"], "emoji": "🎤", "ru": {"title": "Унифицированная модель для аудио и текста", "desc": "Представлена унифицированная модель, которая обрабатывает как аудио, так и текст, ис
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#agent_memory", "#dataset", "#benchmark", "#agents", "#security", "#open_source"], "emoji": "🛡️", "ru": {"title": "Новая эра в тестировании безопасности LLM-агентов", "desc": "Автоматизированная система тестирования безопасности Vera использует трехступенчатый процесс для выявления 
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#memory", "#training", "#long_context", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Опытная память для точного прогнозирования поведения", "desc": "В данной статье рассматривается метод PraMem, который улучшает прогнозирование долгосрочного поведения, преобразуя длинные историч
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#inference", "#synthetic", "#open_source", "#optimization", "#dataset"], "emoji": "⚖️", "ru": {"title": "Оптимизация балансировки нагрузки для LLM-сервисов", "desc": "GORGO - это архитектура прокси, которая оптимизирует балансировку нагрузки при выводе LLM, учитывая задержку сети, с
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#healthcare", "#training", "#inference", "#optimization", "#games"], "emoji": "🩻", "ru": {"title": "Генерация отчетов по рентгенограммам с осознанием изменений", "desc": "В статье представлен новый метод генерации отчетов по рентгенограммам грудной клетк
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#3d", "#benchmark", "#robotics", "#science", "#games", "#dataset"], "emoji": "🤖", "ru": {"title": "Исследуем динамику деформируемых объектов!", "desc": "В статье представлено крупномасштабное датасет Deform360, предназначенное для изучения динамики деформируемых объектов. Этот датас
+[07.07.2026 17:15] Querying the API.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract BRAID framework enables unified multi-modal reasoning by casting text-image interaction as a Markov decision process, allowing joint optimization through reinforcement learning with vision-language model guidance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an open challenge. Existing approaches apply RL exclusively to text steps, relegating image generation to supervised surrogates, preventing policy gradients from propagating through the full interleaved trajectory across heterogeneous modalities. This leaves the potential of RL for UMMs largely untapped. In the paper, we introduce BRAID (Bridging inteRleAved multI-modal reasoning as a unified Decision process), a simple framework that casts multi-turn text-image-text reasoning as a unified Markov decision process (MDP), enabling joint optimization of textual and visual generation via a single, principled RL objective. BRAID computes a shared trajectory-level advantage and propagates it coherently into both text tokens and image denoising paths, each optimized through its modality-native policy gradient mechanism. To further address long-horizon credit assignment, BRAID employs a vision-language model (VLM) judge that scores each intermediate image on its reasoning utility, supplying dense turn-level feedback to sharpen learning at critical visual branches. Experiments on spatial reasoning and visual perception benchmarks show that BRAID consistently outperforms various baselines, confirming that a unified MDP formulation with vision-thinking guidance is essential for effective multi-modal reasoning.
+[07.07.2026 17:15] Response: ```json
 {
-  "desc": "Представлена унифицированная модель, которая обрабатывает как аудио, так и текст, используя один трансформер-декодер. Модель достигает выдающихся результатов в задачах с аудио и речью, сохраняя при этом высокие способности к текстовому анализу. Audex использует простой дизайн и интегрирует аудио и текст на одном уровне, что позволяет обеспечивать сильное слияние модальностей. В процессе обучения использовались обширные наборы данных, что позволило добиться современных результатов в аудиообработке, распознавании речи и генерации аудио.",
-  "emoji": "🎤",
-  "title": "Унифицированная модель для аудио и текста"
+  "desc": "Работа представляет новый подход под названием BRAID, который объединяет текстово-изображенческое взаимодействие в рамках процесса Маркова. Этот метод позволяет совместную оптимизацию текстового и визуального генерации с использованием обучения с подкреплением. BRAID вычисляет общее преимущество на уровне траектории и распространяет его на текстовые токены и пути денойзинга изображений. Эксперименты показывают, что BRAID превосходит существующие методы, подтверждая важность единой формулировки MDP для эффективного многомодального вывода.",
+  "emoji": "🔗",
+  "title": "Объединение многомодального вывода с помощью процесса Маркова"
 }
 ```
-[07.07.2026 14:30] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -354,12 +432,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract A unified audio-text large language model is presented that integrates audio and text processing through a shared transformer decoder, achieving superior performance across multiple audio and speech tasks while maintaining strong text reasoning capabilities.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are treated uniformly during generation. This architecture enables strong audio-text fusion, seamless multimodal generation, and compatibility with standard LLM training and inference infrastructure. For training, we meticulously curate audio-text datasets comprising 157.4B audio tokens and 320.5B text tokens. We apply multi-stage supervised training on these datasets, followed by text-only Cascade RL and multi-domain on-policy distillation. Audex delivers state-of-the-art audio understanding, speech recognition and translation, text-to-speech, audio generation, and speech-to-speech generation, while preserving very compelling reasoning, alignment, knowledge, long-context, and agentic capabilities of its text-only LLM backbone with marginal or no regression. We release the model checkpoints to facilitate open research."
+"Abstract BRAID framework enables unified multi-modal reasoning by casting text-image interaction as a Markov decision process, allowing joint optimization through reinforcement learning with vision-language model guidance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an open challenge. Existing approaches apply RL exclusively to text steps, relegating image generation to supervised surrogates, preventing policy gradients from propagating through the full interleaved trajectory across heterogeneous modalities. This leaves the potential of RL for UMMs largely untapped. In the paper, we introduce BRAID (Bridging inteRleAved multI-modal reasoning as a unified Decision process), a simple framework that casts multi-turn text-image-text reasoning as a unified Markov decision process (MDP), enabling joint optimization of textual and visual generation via a single, principled RL objective. BRAID computes a shared trajectory-level advantage and propagates it coherently into both text tokens and image denoising paths, each optimized through its modality-native policy gradient mechanism. To further address long-horizon credit assignment, BRAID employs a vision-language model (VLM) judge that scores each intermediate image on its reasoning utility, supplying dense turn-level feedback to sharpen learning at critical visual branches. Experiments on spatial reasoning and visual perception benchmarks show that BRAID consistently outperforms various baselines, confirming that a unified MDP formulation with vision-thinking guidance is essential for effective multi-modal reasoning."
 
-[07.07.2026 14:31] Response: ```python
-['AUDIO', 'MULTIMODAL', 'DATASET', 'TRAINING', 'OPEN_SOURCE']
+[07.07.2026 17:15] Response: ```python
+['MULTIMODAL', 'RL']
 ```
-[07.07.2026 14:31] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -402,37 +480,495 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract A unified audio-text large language model is presented that integrates audio and text processing through a shared transformer decoder, achieving superior performance across multiple audio and speech tasks while maintaining strong text reasoning capabilities.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are treated uniformly during generation. This architecture enables strong audio-text fusion, seamless multimodal generation, and compatibility with standard LLM training and inference infrastructure. For training, we meticulously curate audio-text datasets comprising 157.4B audio tokens and 320.5B text tokens. We apply multi-stage supervised training on these datasets, followed by text-only Cascade RL and multi-domain on-policy distillation. Audex delivers state-of-the-art audio understanding, speech recognition and translation, text-to-speech, audio generation, and speech-to-speech generation, while preserving very compelling reasoning, alignment, knowledge, long-context, and agentic capabilities of its text-only LLM backbone with marginal or no regression. We release the model checkpoints to facilitate open research."
+"Abstract BRAID framework enables unified multi-modal reasoning by casting text-image interaction as a Markov decision process, allowing joint optimization through reinforcement learning with vision-language model guidance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an open challenge. Existing approaches apply RL exclusively to text steps, relegating image generation to supervised surrogates, preventing policy gradients from propagating through the full interleaved trajectory across heterogeneous modalities. This leaves the potential of RL for UMMs largely untapped. In the paper, we introduce BRAID (Bridging inteRleAved multI-modal reasoning as a unified Decision process), a simple framework that casts multi-turn text-image-text reasoning as a unified Markov decision process (MDP), enabling joint optimization of textual and visual generation via a single, principled RL objective. BRAID computes a shared trajectory-level advantage and propagates it coherently into both text tokens and image denoising paths, each optimized through its modality-native policy gradient mechanism. To further address long-horizon credit assignment, BRAID employs a vision-language model (VLM) judge that scores each intermediate image on its reasoning utility, supplying dense turn-level feedback to sharpen learning at critical visual branches. Experiments on spatial reasoning and visual perception benchmarks show that BRAID consistently outperforms various baselines, confirming that a unified MDP formulation with vision-thinking guidance is essential for effective multi-modal reasoning."
 
-[07.07.2026 14:31] Response: ```python
-['AGI', 'GAMES', 'ALIGNMENT', 'LONG_CONTEXT', 'OPEN_SOURCE']
+[07.07.2026 17:15] Response: ```python
+['REASONING', 'OPTIMIZATION']
 ```
-[07.07.2026 14:31] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract A unified audio-text large language model is presented that integrates audio and text processing through a shared transformer decoder, achieving superior performance across multiple audio and speech tasks while maintaining strong text reasoning capabilities.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are treated uniformly during generation. This architecture enables strong audio-text fusion, seamless multimodal generation, and compatibility with standard LLM training and inference infrastructure. For training, we meticulously curate audio-text datasets comprising 157.4B audio tokens and 320.5B text tokens. We apply multi-stage supervised training on these datasets, followed by text-only Cascade RL and multi-domain on-policy distillation. Audex delivers state-of-the-art audio understanding, speech recognition and translation, text-to-speech, audio generation, and speech-to-speech generation, while preserving very compelling reasoning, alignment, knowledge, long-context, and agentic capabilities of its text-only LLM backbone with marginal or no regression. We release the model checkpoints to facilitate open research.
+Abstract BRAID framework enables unified multi-modal reasoning by casting text-image interaction as a Markov decision process, allowing joint optimization through reinforcement learning with vision-language model guidance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an open challenge. Existing approaches apply RL exclusively to text steps, relegating image generation to supervised surrogates, preventing policy gradients from propagating through the full interleaved trajectory across heterogeneous modalities. This leaves the potential of RL for UMMs largely untapped. In the paper, we introduce BRAID (Bridging inteRleAved multI-modal reasoning as a unified Decision process), a simple framework that casts multi-turn text-image-text reasoning as a unified Markov decision process (MDP), enabling joint optimization of textual and visual generation via a single, principled RL objective. BRAID computes a shared trajectory-level advantage and propagates it coherently into both text tokens and image denoising paths, each optimized through its modality-native policy gradient mechanism. To further address long-horizon credit assignment, BRAID employs a vision-language model (VLM) judge that scores each intermediate image on its reasoning utility, supplying dense turn-level feedback to sharpen learning at critical visual branches. Experiments on spatial reasoning and visual perception benchmarks show that BRAID consistently outperforms various baselines, confirming that a unified MDP formulation with vision-thinking guidance is essential for effective multi-modal reasoning.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[07.07.2026 14:31] Response: {
-  "desc": "This paper presents Audex, a unified audio-text large language model that effectively combines audio and text processing using a shared transformer decoder. By encoding audio inputs into the text embedding space, Audex achieves strong performance in various audio and speech tasks while maintaining robust text reasoning abilities. The model is trained on a vast dataset of audio and text tokens, employing multi-stage supervised training and reinforcement learning techniques. Audex excels in tasks such as speech recognition, audio generation, and translation, all while preserving the advanced capabilities of its text-only LLM foundation.",
-  "title": "Unifying Audio and Text for Superior AI Performance"
+[07.07.2026 17:15] Response: {
+  "desc": "The BRAID framework introduces a new way to handle multi-modal reasoning by treating the interaction between text and images as a Markov decision process (MDP). This allows for joint optimization of both text and image generation using reinforcement learning (RL), overcoming limitations of previous methods that only applied RL to text. By computing a shared advantage across the entire reasoning process, BRAID effectively propagates learning signals through both modalities. Experiments demonstrate that this unified approach significantly improves performance in tasks requiring spatial reasoning and visual perception.",
+  "title": "BRAID: Unifying Text-Image Reasoning with Reinforcement Learning"
 }
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#agent_memory", "#dataset", "#benchmark", "#agents", "#security", "#open_source"], "emoji": "🛡️", "ru": {"title": "Новая эра в тестировании безопасности LLM-агентов", "desc": "Автоматизированная система тестирования безопасности Vera использует трехступенчатый процесс для выявления 
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#training", "#optimization", "#transfer_learning", "#agents"], "emoji": "🛠️", "ru": {"title": "Mastermind: стратегическое обучение для улучшения воспроизводимости уязвимостей", "desc": "В статье представлена двухконтурная структура под названием Mastermind, которая отделяет обучение
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#memory", "#training", "#long_context", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Опытная память для точного прогнозирования поведения", "desc": "В данной статье рассматривается метод PraMem, который улучшает прогнозирование долгосрочного поведения, преобразуя длинные историч
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#inference", "#synthetic", "#open_source", "#optimization", "#dataset"], "emoji": "⚖️", "ru": {"title": "Оптимизация балансировки нагрузки для LLM-сервисов", "desc": "GORGO - это архитектура прокси, которая оптимизирует балансировку нагрузки при выводе LLM, учитывая задержку сети, с
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#healthcare", "#training", "#inference", "#optimization", "#games"], "emoji": "🩻", "ru": {"title": "Генерация отчетов по рентгенограммам с осознанием изменений", "desc": "В статье представлен новый метод генерации отчетов по рентгенограммам грудной клетк
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#3d", "#benchmark", "#robotics", "#science", "#games", "#dataset"], "emoji": "🤖", "ru": {"title": "Исследуем динамику деформируемых объектов!", "desc": "В статье представлено крупномасштабное датасет Deform360, предназначенное для изучения динамики деформируемых объектов. Этот датас
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#dataset", "#synthetic", "#diffusion", "#healthcare", "#rl", "#3d"], "emoji": "🩻", "ru": {"title": "Генерация КТ с управляемыми клиническими характеристиками", "desc": "В данной статье представлен 3D латентный диффузионный модель для генерации грудных КТ, которая достигает высококач
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#benchmark", "#audio", "#retrieval"], "emoji": "🎶", "ru": {"title": "Предсказание вкусов на основе аудио", "desc": "В данной работе оцениваются аудиокодеры из семейства HEAR для предсказания вкусов. Использование поздней гибридной фузии показало наилучшие результаты в корреляции ран
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#interpretability", "#multimodal", "#open_source", "#architecture", "#optimization", "#games"], "emoji": "🖼️", "ru": {"title": "Идентификация сексизма в мемах с помощью ИИ", "desc": "В данной статье представлен многофункциональный метод идентификации сексизма в мемах. Система исполь
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#optimization", "#audio", "#synthetic"], "emoji": "🔊", "ru": {"title": "Выделение слогов без учета говорящего", "desc": "В данной статье представлен токенизатор, который отделяет слоги от конкретного говорящего, чтобы улучшить обнаружение границ слогов и модели языка речи. Метод осн
-[07.07.2026 14:31] Using data from previous issue: {"categories": ["#memory", "#optimization", "#training", "#data"], "emoji": "🔍", "ru": {"title": "Чистая контрастная семантическая сегментация", "desc": "PixCon - это полусупервизированная структура для семантической сегментации, которая использует чистое положительное пиксельно-контрастное обучение
-[07.07.2026 14:31] Renaming data file.
-[07.07.2026 14:31] Renaming previous data. hf_papers.json to ./d/2026-07-07.json
-[07.07.2026 14:31] Saving new data file.
-[07.07.2026 14:31] Generating page.
-[07.07.2026 14:31] Renaming previous page.
-[07.07.2026 14:31] Renaming previous data. index.html to ./d/2026-07-07.html
-[07.07.2026 14:31] Writing result.
-[07.07.2026 14:31] Renaming log file.
-[07.07.2026 14:31] Renaming previous data. log.txt to ./logs/2026-07-07_last_log.txt
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#dataset", "#synthetic", "#diffusion", "#healthcare", "#rl", "#3d"], "emoji": "🩻", "ru": {"title": "Генерация КТ с управляемыми клиническими характеристиками", "desc": "В данной статье представлен 3D латентный диффузионный модель для генерации грудных КТ, которая достигает высококач
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#benchmark", "#audio", "#retrieval"], "emoji": "🎶", "ru": {"title": "Предсказание вкусов на основе аудио", "desc": "В данной работе оцениваются аудиокодеры из семейства HEAR для предсказания вкусов. Использование поздней гибридной фузии показало наилучшие результаты в корреляции ран
+[07.07.2026 17:15] Querying the API.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract SynCity 3000 generates large, coherent 3D scenes by adapting image-to-3D generators as convolutional operators through fine-tuning on synthetic scene data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as a convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by a new synthetic data engine, which we propose to address the scarcity of 3D scene data for training. The convolutional generator is then applied to a dimetric image of the entire scene, generated from the user prompt, resulting in 3D scenes of arbitrary size and complexity. Across diverse prompts and layouts, SynCity 3000 produces large, coherent, and detailed scenes, addressing the shortcomings of prior approaches to 3D scene generation.
+[07.07.2026 17:15] Response: ```json
+{
+  "desc": "SynCity 3000 — это фреймворк для генерации 3D-сцен, который обеспечивает глобальную согласованность и контроль над компоновкой. Он адаптирует генераторы изображений в 3D, используя свёрточные операторы и дообучение на синтетических данных сцен. Это позволяет создавать сложные 3D-активы из одного изображения и масштабировать процесс до целых сцен. Благодаря новым методам генерации синтетических данных, SynCity 3000 преодолевает недостаток 3D-данных для обучения и достигает больших, согласованных и детализированных сцен.",
+  "emoji": "🌆",
+  "title": "Генерация больших согласованных 3D-сцен"
+}
+```
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract SynCity 3000 generates large, coherent 3D scenes by adapting image-to-3D generators as convolutional operators through fine-tuning on synthetic scene data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as a convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by a new synthetic data engine, which we propose to address the scarcity of 3D scene data for training. The convolutional generator is then applied to a dimetric image of the entire scene, generated from the user prompt, resulting in 3D scenes of arbitrary size and complexity. Across diverse prompts and layouts, SynCity 3000 produces large, coherent, and detailed scenes, addressing the shortcomings of prior approaches to 3D scene generation."
+
+[07.07.2026 17:15] Response: ```python
+['3D', 'DATASET']
+```
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract SynCity 3000 generates large, coherent 3D scenes by adapting image-to-3D generators as convolutional operators through fine-tuning on synthetic scene data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as a convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by a new synthetic data engine, which we propose to address the scarcity of 3D scene data for training. The convolutional generator is then applied to a dimetric image of the entire scene, generated from the user prompt, resulting in 3D scenes of arbitrary size and complexity. Across diverse prompts and layouts, SynCity 3000 produces large, coherent, and detailed scenes, addressing the shortcomings of prior approaches to 3D scene generation."
+
+[07.07.2026 17:15] Response: ```python
+["SYNTHETIC", "GAMES"]
+```
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract SynCity 3000 generates large, coherent 3D scenes by adapting image-to-3D generators as convolutional operators through fine-tuning on synthetic scene data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as a convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by a new synthetic data engine, which we propose to address the scarcity of 3D scene data for training. The convolutional generator is then applied to a dimetric image of the entire scene, generated from the user prompt, resulting in 3D scenes of arbitrary size and complexity. Across diverse prompts and layouts, SynCity 3000 produces large, coherent, and detailed scenes, addressing the shortcomings of prior approaches to 3D scene generation.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[07.07.2026 17:15] Response: {
+  "desc": "SynCity 3000 is a framework designed to generate large and coherent 3D scenes by fine-tuning image-to-3D generators. It adapts these generators to work as convolutional operators, allowing for detailed control over scene layouts. The model is trained on synthetic scene data to overcome the lack of available 3D scene datasets. By using a dimetric image from user prompts, SynCity 3000 can create complex 3D environments of various sizes and intricacies.",
+  "title": "Revolutionizing 3D Scene Generation with SynCity 3000"
+}
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#interpretability", "#multimodal", "#open_source", "#architecture", "#optimization", "#games"], "emoji": "🖼️", "ru": {"title": "Идентификация сексизма в мемах с помощью ИИ", "desc": "В данной статье представлен многофункциональный метод идентификации сексизма в мемах. Система исполь
+[07.07.2026 17:15] Using data from previous issue: {"categories": ["#optimization", "#audio", "#synthetic"], "emoji": "🔊", "ru": {"title": "Выделение слогов без учета говорящего", "desc": "В данной статье представлен токенизатор, который отделяет слоги от конкретного говорящего, чтобы улучшить обнаружение границ слогов и модели языка речи. Метод осн
+[07.07.2026 17:15] Querying the API.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract Temporal aggregation methods for speech-based depression detection show inconsistent performance across different backbones and training runs, highlighting the need for robust benchmarking criteria.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a single self-supervised encoder and a single hand-picked layer, so a reported gain may reflect the pipeline rather than the aggregation method itself. We introduce DEPOOL, a controlled benchmark that compares six aggregation architectures with six frozen speech backbones on an English and a Mandarin depression corpus, where each configuration learns which backbone layers matter rather than fixing one by hand. Across the resulting 72-configuration grid, a third of configurations collapse into predicting a single class for every speaker, a failure tied to the backbone as much as to the method, and the architecture that is most stable in a single-seed run becomes unreliable when training repeats across seeds. Robustness to backbone and seed, rather than average accuracy across a single pipeline, should be a first-class benchmarking criterion for temporal aggregation in clinical speech.
+[07.07.2026 17:15] Response: {
+  "desc": "В данной статье рассматриваются методы временной агрегации для обнаружения депрессии на основе речи, которые показывают непостоянную эффективность в зависимости от используемых моделей и условий обучения. Авторы представляют DEPOOL, новый контрольный бенчмарк, который сравнивает различные архитектуры агрегации с несколькими фиксированными речевыми моделями на корповом материале на английском и мандаринском языках. Исследование показывает, что многие конфигурации не могут правильно классифицировать речь, а стабильные архитектуры при одном запуске оказываются ненадежными при повторной тренировке. Это подчеркивает важность учета устойчивости к используемым моделям и условиям обучения при оценке методов временной агрегации в клиническом контексте.",
+  "emoji": "🗣️",
+  "title": "Надежные методы агрегации для выявления депрессии по речи"
+}
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract Temporal aggregation methods for speech-based depression detection show inconsistent performance across different backbones and training runs, highlighting the need for robust benchmarking criteria.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a single self-supervised encoder and a single hand-picked layer, so a reported gain may reflect the pipeline rather than the aggregation method itself. We introduce DEPOOL, a controlled benchmark that compares six aggregation architectures with six frozen speech backbones on an English and a Mandarin depression corpus, where each configuration learns which backbone layers matter rather than fixing one by hand. Across the resulting 72-configuration grid, a third of configurations collapse into predicting a single class for every speaker, a failure tied to the backbone as much as to the method, and the architecture that is most stable in a single-seed run becomes unreliable when training repeats across seeds. Robustness to backbone and seed, rather than average accuracy across a single pipeline, should be a first-class benchmarking criterion for temporal aggregation in clinical speech."
+
+[07.07.2026 17:15] Response: ```python
+['BENCHMARK', 'AUDIO', 'MULTILINGUAL']
+```
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract Temporal aggregation methods for speech-based depression detection show inconsistent performance across different backbones and training runs, highlighting the need for robust benchmarking criteria.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a single self-supervised encoder and a single hand-picked layer, so a reported gain may reflect the pipeline rather than the aggregation method itself. We introduce DEPOOL, a controlled benchmark that compares six aggregation architectures with six frozen speech backbones on an English and a Mandarin depression corpus, where each configuration learns which backbone layers matter rather than fixing one by hand. Across the resulting 72-configuration grid, a third of configurations collapse into predicting a single class for every speaker, a failure tied to the backbone as much as to the method, and the architecture that is most stable in a single-seed run becomes unreliable when training repeats across seeds. Robustness to backbone and seed, rather than average accuracy across a single pipeline, should be a first-class benchmarking criterion for temporal aggregation in clinical speech."
+
+[07.07.2026 17:15] Response: ```python
+["SURVEY", "OPTIMIZATION"]
+```
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract Temporal aggregation methods for speech-based depression detection show inconsistent performance across different backbones and training runs, highlighting the need for robust benchmarking criteria.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a single self-supervised encoder and a single hand-picked layer, so a reported gain may reflect the pipeline rather than the aggregation method itself. We introduce DEPOOL, a controlled benchmark that compares six aggregation architectures with six frozen speech backbones on an English and a Mandarin depression corpus, where each configuration learns which backbone layers matter rather than fixing one by hand. Across the resulting 72-configuration grid, a third of configurations collapse into predicting a single class for every speaker, a failure tied to the backbone as much as to the method, and the architecture that is most stable in a single-seed run becomes unreliable when training repeats across seeds. Robustness to backbone and seed, rather than average accuracy across a single pipeline, should be a first-class benchmarking criterion for temporal aggregation in clinical speech.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[07.07.2026 17:15] Response: {
+  "desc": "This paper addresses the challenges in speech-based depression detection, particularly focusing on the temporal aggregation methods used to combine short audio segments into a single decision. The authors introduce DEPOOL, a benchmarking framework that evaluates various aggregation architectures across different speech backbones and languages. They find that many configurations fail to generalize, often predicting a single class for all speakers, which highlights the influence of both the aggregation method and the backbone used. The study emphasizes the importance of robustness to variations in backbone and training seeds as key criteria for evaluating temporal aggregation methods in clinical applications.",
+  "title": "Enhancing Robustness in Speech-Based Depression Detection"
+}
+[07.07.2026 17:15] Querying the API.
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract A framework called SVA is introduced that enhances Vision-Language-Action models by decoupling action generation from consequence evaluation, thereby improving generalization and task success rates while reducing computational costs.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing remedy, post-training via supervised fine-tuning or reinforcement learning, improves task-specific performance but narrows the generalist capability that makes pretraining valuable. We identify a key bottleneck: VLA failures stem not only from action generation but also from action evaluation. A diagnostic pass@k study confirms that frozen VLAs already contain competent behaviors in their output distribution, with overall success rates rising from 33% at pass@1 to 92% at pass@32. Inspired by this, we propose SVA (Search, Value, and Act), a simple framework that equips frozen VLA policies with long-term consequence awareness. SVA first uses Monte-Carlo tree search in simulation to fully explore the VLA's output distribution and collect diverse trajectories annotated with empirical returns; this knowledge is then distilled into a lightweight Q-value model that predicts the expected consequence of candidate actions; at deployment, the frozen VLA proposes multiple candidates and the evaluator selects the one with the highest uncertainty-regularized Q-value, requiring no simulator access. By decoupling action proposal from consequence evaluation, SVA preserves the generalization capacity of the VLA backbone while substantially improving task success rates. Experiments across embodied benchmarks show that SVA consistently improves generalization on unseen tasks and exhibits strong test-time scaling behavior. Strikingly, SVA enables a 9B VLA to outperform a 27B VLA by 7 points at 27% lower inference latency, suggesting that scaling test-time evaluation is more cost-effective than scaling model size.
+[07.07.2026 17:15] Response: {
+  "desc": "В статье представлена новая структура SVA, которая улучшает модели Vision-Language-Action, отделяя генерацию действий от оценки последствий. Это позволяет повысить обобщающую способность моделей и успех выполнения задач, а также снизить вычислительные затраты. Применяя метод Монте-Карло для исследования выходного распределения VLA, SVA собирает разнообразные траектории и извлекает знания для создания легковесной модели Q-значений. В результате SVA показывает значительное улучшение результатов на новых задачах, сохраняя при этом общие возможности базовой модели VLA.",
+  "emoji": "🤖",
+  "title": "SVA: Улучшаем модели через отделение действий и последствий"
+}
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract A framework called SVA is introduced that enhances Vision-Language-Action models by decoupling action generation from consequence evaluation, thereby improving generalization and task success rates while reducing computational costs.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing remedy, post-training via supervised fine-tuning or reinforcement learning, improves task-specific performance but narrows the generalist capability that makes pretraining valuable. We identify a key bottleneck: VLA failures stem not only from action generation but also from action evaluation. A diagnostic pass@k study confirms that frozen VLAs already contain competent behaviors in their output distribution, with overall success rates rising from 33% at pass@1 to 92% at pass@32. Inspired by this, we propose SVA (Search, Value, and Act), a simple framework that equips frozen VLA policies with long-term consequence awareness. SVA first uses Monte-Carlo tree search in simulation to fully explore the VLA's output distribution and collect diverse trajectories annotated with empirical returns; this knowledge is then distilled into a lightweight Q-value model that predicts the expected consequence of candidate actions; at deployment, the frozen VLA proposes multiple candidates and the evaluator selects the one with the highest uncertainty-regularized Q-value, requiring no simulator access. By decoupling action proposal from consequence evaluation, SVA preserves the generalization capacity of the VLA backbone while substantially improving task success rates. Experiments across embodied benchmarks show that SVA consistently improves generalization on unseen tasks and exhibits strong test-time scaling behavior. Strikingly, SVA enables a 9B VLA to outperform a 27B VLA by 7 points at 27% lower inference latency, suggesting that scaling test-time evaluation is more cost-effective than scaling model size."
+
+[07.07.2026 17:15] Response: ```python
+["AGENTS", "RL", "TRAINING", "INFERENCE"]
+```
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract A framework called SVA is introduced that enhances Vision-Language-Action models by decoupling action generation from consequence evaluation, thereby improving generalization and task success rates while reducing computational costs.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing remedy, post-training via supervised fine-tuning or reinforcement learning, improves task-specific performance but narrows the generalist capability that makes pretraining valuable. We identify a key bottleneck: VLA failures stem not only from action generation but also from action evaluation. A diagnostic pass@k study confirms that frozen VLAs already contain competent behaviors in their output distribution, with overall success rates rising from 33% at pass@1 to 92% at pass@32. Inspired by this, we propose SVA (Search, Value, and Act), a simple framework that equips frozen VLA policies with long-term consequence awareness. SVA first uses Monte-Carlo tree search in simulation to fully explore the VLA's output distribution and collect diverse trajectories annotated with empirical returns; this knowledge is then distilled into a lightweight Q-value model that predicts the expected consequence of candidate actions; at deployment, the frozen VLA proposes multiple candidates and the evaluator selects the one with the highest uncertainty-regularized Q-value, requiring no simulator access. By decoupling action proposal from consequence evaluation, SVA preserves the generalization capacity of the VLA backbone while substantially improving task success rates. Experiments across embodied benchmarks show that SVA consistently improves generalization on unseen tasks and exhibits strong test-time scaling behavior. Strikingly, SVA enables a 9B VLA to outperform a 27B VLA by 7 points at 27% lower inference latency, suggesting that scaling test-time evaluation is more cost-effective than scaling model size."
+
+[07.07.2026 17:15] Response: ```python
+["AGI", "OPTIMIZATION"]
+```
+[07.07.2026 17:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract A framework called SVA is introduced that enhances Vision-Language-Action models by decoupling action generation from consequence evaluation, thereby improving generalization and task success rates while reducing computational costs.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing remedy, post-training via supervised fine-tuning or reinforcement learning, improves task-specific performance but narrows the generalist capability that makes pretraining valuable. We identify a key bottleneck: VLA failures stem not only from action generation but also from action evaluation. A diagnostic pass@k study confirms that frozen VLAs already contain competent behaviors in their output distribution, with overall success rates rising from 33% at pass@1 to 92% at pass@32. Inspired by this, we propose SVA (Search, Value, and Act), a simple framework that equips frozen VLA policies with long-term consequence awareness. SVA first uses Monte-Carlo tree search in simulation to fully explore the VLA's output distribution and collect diverse trajectories annotated with empirical returns; this knowledge is then distilled into a lightweight Q-value model that predicts the expected consequence of candidate actions; at deployment, the frozen VLA proposes multiple candidates and the evaluator selects the one with the highest uncertainty-regularized Q-value, requiring no simulator access. By decoupling action proposal from consequence evaluation, SVA preserves the generalization capacity of the VLA backbone while substantially improving task success rates. Experiments across embodied benchmarks show that SVA consistently improves generalization on unseen tasks and exhibits strong test-time scaling behavior. Strikingly, SVA enables a 9B VLA to outperform a 27B VLA by 7 points at 27% lower inference latency, suggesting that scaling test-time evaluation is more cost-effective than scaling model size.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[07.07.2026 17:16] Response: {
+  "desc": "The paper introduces a framework called SVA that improves Vision-Language-Action (VLA) models by separating action generation from consequence evaluation. This separation enhances the models' ability to generalize across tasks and increases their success rates while lowering computational costs. The SVA framework utilizes Monte-Carlo tree search to explore action outputs and create a Q-value model that predicts the outcomes of actions. By doing this, SVA allows for better decision-making without needing to access a simulator, leading to improved performance even with smaller models.",
+  "title": "Decoupling Actions for Smarter Decision-Making in VLA Models"
+}
+[07.07.2026 17:16] Using data from previous issue: {"categories": ["#memory", "#optimization", "#training", "#data"], "emoji": "🔍", "ru": {"title": "Чистая контрастная семантическая сегментация", "desc": "PixCon - это полусупервизированная структура для семантической сегментации, которая использует чистое положительное пиксельно-контрастное обучение
+[07.07.2026 17:16] Querying the API.
+[07.07.2026 17:16] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract Reinforcement learning agents optimize real-time trigger thresholds at particle colliders by adapting Group-Filtered Policy Optimization to streaming control, improving signal efficiency and background rate management on both simulated and real collision data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (triggering) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned and can become suboptimal as detector conditions, pileup, and background composition drift over time. We cast online threshold tuning as a sequential decision-making problem: a reinforcement learning agent ingests streaming summaries of recent rates and signal-sensitive features and updates trigger thresholds to maximize signal efficiency while tracking a target background rate within a tolerance band. We adapt Group-Filtered Policy Optimization (GFPO) to streaming control and introduce two variants (GFPO-F, GFPO-FR) that enforce background rate feasibility during training. On a benchmark that emulates realistic collider operation, we study two representative triggers: a total transverse energy (H_{T}) trigger sensitive to pileup variation, and an anomaly-detection (AD) trigger based on reconstruction loss for rare or non-standard signatures. On Monte Carlo streams, our agent increases the fraction of in-tolerance time intervals by 48\% (H_T) and 28\% (AD), with a cumulative gain of up to 2\% in signal efficiency on those in-tolerance intervals. Transferring from simulation to real collision data (CMS Run 283408), the same agent, without fine-tuning, achieves a 56\% (H_T) and 28\% (AD) in-tolerance improvement over baselines, with further signal-efficiency gain on both triggers. To our knowledge, this is the first demonstration of RL-based trigger control on real Large Hadron Collider collision data. Code is available at https://github.com/Zixind/GFPO_LHC (see repo for details).
+[07.07.2026 17:16] Response: ```json
+{
+  "desc": "В этой работе рассматривается использование агентного обучения с подкреплением для оптимизации порогов триггеров в коллайдерах частиц в режиме реального времени. Адаптируя метод Group-Filtered Policy Optimization (GFPO), авторы улучшают эффективность сигналов и управление фоновыми rate на симулированных и реальных данных столкновений. Агент обучается обновлять пороги триггеров, основываясь на потоковых данных, чтобы максимизировать эффективность сигналов при контроле фонового уровня. Результаты показывают значительное улучшение в интервалах допустимого фона и сигналов без дополнительной настройки для реальных данных.",
+  "emoji": "⚛️",
+  "title": "Оптимизация триггеров с помощью обучения с подкреплением"
+}
+```
+[07.07.2026 17:16] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract Reinforcement learning agents optimize real-time trigger thresholds at particle colliders by adapting Group-Filtered Policy Optimization to streaming control, improving signal efficiency and background rate management on both simulated and real collision data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (triggering) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned and can become suboptimal as detector conditions, pileup, and background composition drift over time. We cast online threshold tuning as a sequential decision-making problem: a reinforcement learning agent ingests streaming summaries of recent rates and signal-sensitive features and updates trigger thresholds to maximize signal efficiency while tracking a target background rate within a tolerance band. We adapt Group-Filtered Policy Optimization (GFPO) to streaming control and introduce two variants (GFPO-F, GFPO-FR) that enforce background rate feasibility during training. On a benchmark that emulates realistic collider operation, we study two representative triggers: a total transverse energy (H_{T}) trigger sensitive to pileup variation, and an anomaly-detection (AD) trigger based on reconstruction loss for rare or non-standard signatures. On Monte Carlo streams, our agent increases the fraction of in-tolerance time intervals by 48\% (H_T) and 28\% (AD), with a cumulative gain of up to 2\% in signal efficiency on those in-tolerance intervals. Transferring from simulation to real collision data (CMS Run 283408), the same agent, without fine-tuning, achieves a 56\% (H_T) and 28\% (AD) in-tolerance improvement over baselines, with further signal-efficiency gain on both triggers. To our knowledge, this is the first demonstration of RL-based trigger control on real Large Hadron Collider collision data. Code is available at https://github.com/Zixind/GFPO_LHC (see repo for details)."
+
+[07.07.2026 17:16] Response: ```python
+['RL', 'AGENTS', 'BENCHMARK', 'HEALTHCARE', 'OPEN_SOURCE']
+```
+[07.07.2026 17:16] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract Reinforcement learning agents optimize real-time trigger thresholds at particle colliders by adapting Group-Filtered Policy Optimization to streaming control, improving signal efficiency and background rate management on both simulated and real collision data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (triggering) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned and can become suboptimal as detector conditions, pileup, and background composition drift over time. We cast online threshold tuning as a sequential decision-making problem: a reinforcement learning agent ingests streaming summaries of recent rates and signal-sensitive features and updates trigger thresholds to maximize signal efficiency while tracking a target background rate within a tolerance band. We adapt Group-Filtered Policy Optimization (GFPO) to streaming control and introduce two variants (GFPO-F, GFPO-FR) that enforce background rate feasibility during training. On a benchmark that emulates realistic collider operation, we study two representative triggers: a total transverse energy (H_{T}) trigger sensitive to pileup variation, and an anomaly-detection (AD) trigger based on reconstruction loss for rare or non-standard signatures. On Monte Carlo streams, our agent increases the fraction of in-tolerance time intervals by 48\% (H_T) and 28\% (AD), with a cumulative gain of up to 2\% in signal efficiency on those in-tolerance intervals. Transferring from simulation to real collision data (CMS Run 283408), the same agent, without fine-tuning, achieves a 56\% (H_T) and 28\% (AD) in-tolerance improvement over baselines, with further signal-efficiency gain on both triggers. To our knowledge, this is the first demonstration of RL-based trigger control on real Large Hadron Collider collision data. Code is available at https://github.com/Zixind/GFPO_LHC (see repo for details)."
+
+[07.07.2026 17:16] Response: ```python
+["REINFORCEMENT_LEARNING", "SCIENCE", "OPTIMIZATION"]
+```
+[07.07.2026 17:16] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract Reinforcement learning agents optimize real-time trigger thresholds at particle colliders by adapting Group-Filtered Policy Optimization to streaming control, improving signal efficiency and background rate management on both simulated and real collision data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (triggering) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned and can become suboptimal as detector conditions, pileup, and background composition drift over time. We cast online threshold tuning as a sequential decision-making problem: a reinforcement learning agent ingests streaming summaries of recent rates and signal-sensitive features and updates trigger thresholds to maximize signal efficiency while tracking a target background rate within a tolerance band. We adapt Group-Filtered Policy Optimization (GFPO) to streaming control and introduce two variants (GFPO-F, GFPO-FR) that enforce background rate feasibility during training. On a benchmark that emulates realistic collider operation, we study two representative triggers: a total transverse energy (H_{T}) trigger sensitive to pileup variation, and an anomaly-detection (AD) trigger based on reconstruction loss for rare or non-standard signatures. On Monte Carlo streams, our agent increases the fraction of in-tolerance time intervals by 48\% (H_T) and 28\% (AD), with a cumulative gain of up to 2\% in signal efficiency on those in-tolerance intervals. Transferring from simulation to real collision data (CMS Run 283408), the same agent, without fine-tuning, achieves a 56\% (H_T) and 28\% (AD) in-tolerance improvement over baselines, with further signal-efficiency gain on both triggers. To our knowledge, this is the first demonstration of RL-based trigger control on real Large Hadron Collider collision data. Code is available at https://github.com/Zixind/GFPO_LHC (see repo for details).
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[07.07.2026 17:16] Response: {
+  "desc": "This paper presents a method for optimizing real-time trigger thresholds in particle colliders using reinforcement learning. The authors adapt Group-Filtered Policy Optimization to handle streaming control, allowing the agent to dynamically adjust thresholds based on incoming data. By framing the problem as a sequential decision-making task, the agent improves signal efficiency while managing background rates effectively. The results show significant improvements in both simulated and real collision data, marking a novel application of reinforcement learning in high-energy physics.",
+  "title": "Dynamic Trigger Optimization in Particle Colliders Using Reinforcement Learning"
+}
+[07.07.2026 17:16] Renaming data file.
+[07.07.2026 17:16] Renaming previous data. hf_papers.json to ./d/2026-07-07.json
+[07.07.2026 17:16] Saving new data file.
+[07.07.2026 17:16] Generating page.
+[07.07.2026 17:16] Renaming previous page.
+[07.07.2026 17:16] Renaming previous data. index.html to ./d/2026-07-07.html
+[07.07.2026 17:16] Writing result.
+[07.07.2026 17:16] Renaming log file.
+[07.07.2026 17:16] Renaming previous data. log.txt to ./logs/2026-07-07_last_log.txt
