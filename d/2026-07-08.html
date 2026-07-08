@@ -1,0 +1,1300 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C1CRWDNJ1J"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-C1CRWDNJ1J');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>HF. 37 papers. July 7.</title>
+<link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Tiny5&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: cornflowerblue;
+            --primary-color-dark: #fffd87cf;
+            --secondary-color: #fff;
+            --background-color: #eee;
+            --text-color: #333333;
+            --header-color: cornflowerblue;
+            --body-color: #eee;
+            --menu-color: #002370;
+        }
+        .background-digit {
+            position: absolute;
+            font-family: 'Tiny5';
+            bottom: -20px;
+            right: -10px;
+            font-size: 8em;
+            font-weight: 400;
+            color: #0989ea22;
+            z-index: 2;
+            line-height: 1;
+        }
+        .dark-theme .background-digit {
+            color: #e9e78f3d;
+        }
+        body {
+            font-family: 'Roboto Slab', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        .container {
+            max-width: 1500px;
+            margin: 0 auto;
+            flex: 1 0 auto;
+            width: 100%
+        }
+        .a-clean {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+        .a-clean:hover {
+            color: #fff;
+        }
+        header {
+            padding: 3.6em 0 2.4em 0;
+            text-align: center;
+        }
+        footer {
+            background-color: var(--primary-color);
+            color: white;
+            text-align: center;
+            margin-top: 2em;
+            flex-shrink: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.4em;
+            margin: 0;
+            font-weight: 700;
+        }
+        .article-title-cont {
+            margin: -21px -21px 0px -21px;
+            padding: 10px 20px;
+            background: cornflowerblue;
+            display: table;
+            min-height: 5.9em;
+        }
+        .dark-theme .article-title-cont {
+            background: #444444;
+        }
+        .article-title {
+            color: white;           
+        }
+        .article-title h2 {
+            margin: 0px;
+            padding: 0px;
+            font-weight: 400;
+            text-align:center;
+        }
+        h2 {
+            # color: var(--primary-color);
+            font-size: 1.2em;
+            margin-top: 0;
+            margin-bottom: 0.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 0.5em;
+            font-weight: 300;
+        }
+        main {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5em;
+            padding: 10px 20px 20px 20px;
+        }
+        body.dark-tmeme>header {
+            background-color: background-color: #333333;
+            color: white;
+        }
+        body.dark-theme>div>main>article>div.article-content>p.meta {
+            color: #fff;
+        }
+        body.light-theme>div>main>article>div.article-content>p.meta {
+            color: #555;
+        }
+        body.dark-theme>div>main>article>div.article-content>p.pub-date {
+            color: #ccc;
+        }
+        body.light-theme>div>main>article>div.article-content>p.pub-date {
+            color: #555;
+        }
+        body.dark-theme>div>main>article>div.article-content>div.tags {
+            color: #ccc;
+        }
+        body.light-theme>div>main>article>div.article-content>div.tags {
+            color: #fff;
+        }
+        body.light-theme>header {
+            background-color: var(--header-color);
+            color: white;
+        }
+        article {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        .article-content {
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            overflow: hidden;
+            transition: background-color 0.2s ease;
+            padding: 1.3em;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            z-index: 1;
+            cursor: pointer;
+            max-width: 800px;
+            position: relative;
+        }
+        body.dark-theme>div>main>article>div.article-content {
+            background-color: #444;
+            border: none;
+        }
+        body.light-theme>div>main>article>div.article-content {
+            background-color: #fff;
+        }
+        body.dark-theme>div>main>article>div.article-content:hover {
+            background-color: #414141;
+        }
+        body.light-theme>div>main>article>div.article-content:hover {
+            background-color: #fafafa;
+        }
+        .meta {
+            font-size: 0.9em;
+            margin-bottom: 0em;
+            font-weight: 500;
+            margin: 20px 0 0px 0;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .pub-date {
+            font-size: 0.8em;
+            margin-bottom: 0.8em;
+            font-weight: 400;
+            text-align: right;
+            font-family: Roboto;
+        }
+        .tags {
+            font-size: 0.9em;
+            margin-bottom: 0;
+            position: absolute;
+            bottom: 0px;
+            font-weight: 300;
+            font-family: 'Roboto Slab';
+            background: #555;
+            left: 0;
+            width: 100%;
+            padding: 10px 20px;
+        }
+        .abstract {
+            position: relative;
+            max-height: 170px;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+            cursor: pointer;
+        }
+        .abstract.expanded {
+            max-height: 1000px;
+        }
+        .abstract-toggle {
+            position: absolute;
+            bottom: 4px;
+            right: 0;
+            cursor: pointer;
+            color: var(--primary-color);
+            float: right;
+            font-weight: 400;
+        }
+        .explanation {
+            background-color: #e8f5e9;
+            border-left: 4px solid var(--secondary-color);
+            padding: 1em;
+            margin-top: 1.5em;
+        }
+        .links {
+            margin-top: 1.5em;
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+        }
+        .github-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 8px;
+            border-radius: 12px;
+            background: #f5f5f5;
+            font-size: 0.95em;
+        }
+        .dark-theme .github-link {
+            background: #555;
+        }
+        .github-stars {
+            font-weight: 600;
+            color: var(--text-color);
+        }
+        .dark-theme .github-stars {
+            color: #fff;
+        }
+        .affiliations {
+            margin-bottom: 50px;
+            padding:10px;
+            font-size: 0.9em;
+            text-align: center
+        }
+        a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+        .dark-theme a {
+            color: var(--primary-color-dark);
+        }
+        a:hover {
+            color: #e73838;
+        }
+        .light-theme {
+            background-color: var(--body-color);
+            color: #333333;
+        }
+        .dark-theme {
+            background-color: #333333;
+            color: #ffffff;
+        }
+        .theme-switch {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            align-items: center;
+        }
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 30px;
+        }
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 30px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 24px;
+            width: 24px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        input:checked + .slider {
+            background-color: var(--primary-color);
+        }
+        input:checked + .slider:before {
+            transform: translateX(20px);
+        }
+        .switch-label {
+            margin-right: 10px;
+        }
+
+        .sub-header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 7px;
+            padding: 0 20px;
+        }
+        .sub-header-container-2 {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .update-info-container {
+            margin-top: 15px;
+            margin-bottom: 0px;
+            text-align: left;
+            flex: 1;
+        }
+        .sort-container {
+            margin-top: 15px;
+            margin-bottom: 0px;
+            text-align: right;
+            flex: 2;
+        }
+        
+        .category-toggle-container {
+            display: inline-block;
+            margin-top: 15px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+        .category-option-container {
+            margin-top: 15px;
+            margin-bottom: 10px;
+            display: none;
+            margin-left: auto;
+        }
+        .category-option-container.expanded {
+            display: block;
+        }
+
+        .sort-dropdown {
+            padding: 5px 10px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            background-color: white;
+            color: var(--text-color);
+            font-family: 'Roboto Slab', sans-serif;
+        }
+        .sort-label {
+            margin-right: 10px;
+            font-size: 1.0em !important;
+        }        
+        .dark-theme .sort-dropdown {
+            background-color: #444;
+            color: white;
+            border-color: var(--text-color);
+        }
+        .title-sign {
+            display: inline-block;
+            transition: all 0.5s ease;            
+        }
+        .rotate {
+            transform: rotate(45deg) translateY(-6px);
+            transform-origin: center;
+        }
+        .title-text {
+            display: inline;
+            padding-left: 10px;
+        }
+        .summary_title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #222;
+            margin-bottom: 5px;
+        }
+        .summary_text {
+
+        }
+        .summary_image {
+            max-height: 500px;
+            max-width: 100%;
+            align: center;
+            margin-top: 40px;        
+            margin-bottom: 60px;        
+        }
+        .category-filters {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+            display: none;
+        }
+        .category-filters.expanded {
+            display: block;
+            margin-top: 10px;
+        }
+        .category-button {
+            display: inline-block;
+            margin: 5px;
+            padding: 5px 10px;
+            border-radius: 15px;
+            background-color: #f0f0f0;
+            color: #333;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .category-button.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        .category-button.inactive:not(.active) {
+            color: #ccc;
+        }
+        .dark-theme .category-button {
+            background-color: #555;
+            color: #fff;
+        }
+        .dark-theme .category-button.active {
+            background-color: var(--primary-color);
+        }
+        .dark-theme .category-button.inactive:not(.active) {
+            color: #888;
+        }
+        .clear-categories {
+            display: inline-block;
+            margin: 5px;
+            padding: 5px 10px;
+            border-radius: 15px;
+            background-color: #f0f0f0;
+            color: #333;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .clear-categories:hover {
+            background-color: #bbb;
+        }
+        .svg-container {
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
+        .svg-container span {
+            position: relative;
+            z-index: 1;
+        }
+        .svg-container svg {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            z-index: 0;
+        }
+
+        .nav-menu {
+            background-color: var(--menu-color);
+            padding: 2px 0 2px 0;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+        }        
+        .nav-container {
+            max-width: 1500px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: left;
+            gap: 3em;
+        }
+        .nav-container span a {
+            color: white;
+        }        
+        .nav-item {
+            color: white;
+            padding: 3px 0px;
+            cursor: pointer;
+            font-weight: 400;
+        }         
+        .nav-prev {
+            margin-left: 20px;
+        }        
+        .nav-item:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.3);
+        }        
+        .language-flags {
+            display: flex;
+            gap: 7px;
+            padding: 5px 20px 0 0;
+            margin-left: auto;
+        }
+        .flag-svg {
+            width: 22px;
+            height: 22px;
+            cursor: pointer;
+            opacity: 0.4;
+            transition: opacity 0.3s ease;
+            border-radius: 2px;
+        }
+        .flag-svg.active {
+            opacity: 1;
+        }
+        .flag-svg:hover {
+            opacity: 0.8;
+        }
+        
+        .dark-theme .nav-menu {
+            background-color: #333;
+        }
+        .dark-theme .nav-item {
+            color: white;
+        }
+        
+        .dark-theme .nav-item:hover {
+            background-color: rgba(255, 255, 255, 0.05);
+        }
+
+        .pointer { cursor: pointer; }
+
+        .article-pdf-title-img {
+            max-width: 100%;
+            max-height: 400px;
+            display: inline-block;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .article-pdf-title-img-cont {
+            text-align: center;
+        }
+        .dark-theme .article-pdf-title-img {
+            opacity: 0.8;
+            filter: grayscale(1);
+        }
+
+        @media (max-width: 600px) {
+            .nav-container {
+                flex-direction: row;
+                gap: 1.5em;
+            }            
+            .nav-item {
+                padding: 3px 0px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .category-filters {
+                display: none;
+            }
+            .category-toggle {
+                display: inline-block;
+                width: 100%;
+                text-align: left;
+            }
+            .category-filters.expanded {
+                display: block;
+                margin-top: 10px;
+            }
+        }
+        @media (max-width: 600px) {
+            .sub-header-container {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .sort-container {
+                width: 100%;
+                display: flex;
+                justify-content: left;
+                margin: 0 auto;
+            }
+            .sort-dropdown {
+                margin-left: auto;
+            }
+            .sort-label {
+                margin-top: 5px;
+                float: left;
+            }
+
+            .sub-header-container-2 {
+                flex-direction: row;
+                align-items: flex-start;
+            }
+            .update-info-container {
+                text-align: left;
+                width: 100%;
+                margin-bottom: 0px;
+            }
+            .category-toggle-container {
+                margin-top: 15px;
+                text-align: left;
+                margin-bottom: 10px;
+            }
+            .category-option-container {
+                margin-top: 15px;
+                text-align: center;
+                margin-bottom: 10px;
+            }            
+            main {
+                grid-template-columns: repeat(auto-fit);
+                gap: 0em;
+                padding: 10px 0 20px 0;
+            }
+            footer {
+                margin-top: -20px;
+            }
+            article>div.article-content {
+                border-radius: 0px;
+            }
+        }
+    </style>
+    <script>
+    function toggleAbstract(id) {
+        var abstract = document.getElementById('abstract-' + id);
+        var toggle = document.getElementById('toggle-' + id);
+        if (abstract.classList.contains('expanded')) {
+            abstract.classList.remove('expanded');
+            toggle.textContent = '...';
+        } else {
+            abstract.classList.add('expanded');
+            toggle.textContent = '';
+        }
+    }
+    function getTimeDiff(dateString, lang='ru') {
+        const timeUnits = {
+            ru: {
+                minute: ["минуту", "минуты", "минут"],
+                hour: ["час", "часа", "часов"],
+                day: ["день", "дня", "дней"],
+                justNow: "только что",
+                ago: "назад"
+            },
+            en: {
+                minute: ["minute", "minutes", "minutes"],
+                hour: ["hour", "hours", "hours"],
+                day: ["day", "days", "days"],
+                justNow: "just now",
+                ago: "ago"
+            },
+            zh: {
+                minute: ["分钟", "分钟", "分钟"],
+                hour: ["小时", "小时", "小时"],
+                day: ["天", "天", "天"],
+                justNow: "刚刚",
+                ago: "前"
+            }
+        };
+
+        function getPlural(number, words, lang) {
+            if (lang === 'ru') {
+                if (number % 10 === 1 && number % 100 !== 11) {
+                    return words[0];
+                } else if (number % 10 >= 2 && number % 10 <= 4 && (number % 100 < 10 || number % 100 >= 20)) {
+                    return words[1];
+                } else {
+                    return words[2];
+                }
+            } else if (lang === 'en') {
+                return number === 1 ? words[0] : words[1];
+            } else {
+                return words[0];
+            }
+        }
+
+        function formatTimeDiff(number, unit, lang) {
+            const unitWord = getPlural(number, timeUnits[lang][unit], lang);
+            
+            return `${number} ${unitWord} ${timeUnits[lang].ago}`;
+        }
+
+        if (!['ru', 'en'].includes(lang)) {
+            throw new Error('Unsupported language. Supported languages are: ru, en');
+        }
+
+        const pastDate = new Date(dateString.replace(" ", "T") + ":00Z");
+        const currentDate = new Date();
+        const diffInSeconds = Math.floor((currentDate - pastDate) / 1000);
+        
+        const minutes = Math.floor(diffInSeconds / 60);
+        const hours = Math.floor(diffInSeconds / 3600);
+        const days = Math.floor(diffInSeconds / 86400);
+
+        if (minutes === 0) {
+            return timeUnits[lang].justNow;
+        } else if (minutes < 60) {
+            return formatTimeDiff(minutes, 'minute', lang);
+        } else if (hours < 24) {
+            return formatTimeDiff(hours, 'hour', lang);
+        } else {
+            return formatTimeDiff(days, 'day', lang);
+        }
+    }
+    function isToday(dateString) {
+        const inputDate = new Date(dateString);
+        const today = new Date();
+        return (
+            inputDate.getFullYear() === today.getFullYear() &&
+            inputDate.getMonth() === today.getMonth() &&
+            inputDate.getDate() === today.getDate()
+        );
+    }
+    function isCurrentMonth(dateString) {
+        const inputDate = new Date(dateString);
+        const today = new Date();
+        return (
+            inputDate.getFullYear() === today.getFullYear() &&
+            inputDate.getMonth() === today.getMonth()
+        );
+    }
+    function formatArticlesTitle(number, lang='ru') {
+        const lastDigit = number % 10;
+        const lastTwoDigits = number % 100;
+        let word;
+
+        if (!['ru', 'en', 'zh'].includes(lang)) {
+            throw new Error('Unsupported language. Supported languages are: ru, en, zh');
+        }
+
+        if (lang === 'ru') {
+            if (lastTwoDigits >= 11 && lastTwoDigits <= 14) {
+                word = "статей";
+            } else if (lastDigit === 1) {
+                word = "статья";
+            } else if (lastDigit >= 2 && lastDigit <= 4) {
+                word = "статьи";
+            } else {
+                word = "статей";
+            }
+        } else if (lang === 'en') {
+            if (number === 1) {
+                word = 'paper'
+            } else {
+                word = 'papers'
+            }
+        } else if (lang === 'zh') {
+            word = "篇论文"
+        }
+
+        if (lang === 'zh') {
+            return `${number}${word}`;
+        } else {
+            return `${number} ${word}`;
+        }
+    }
+    </script>
+</head>
+<body class="light-theme">
+    <header>
+        <div class="container">            
+            <a href="index.html" class="a-clean"><h1 class="title-sign" id="doomgrad-icon">🔺</h1><h1 class="title-text" id="doomgrad">hf daily</h1></a>
+            <p><span id="title-date">7 июля</span> | <span id="title-articles-count">37 papers</span></p>
+        </div>
+        <div class="theme-switch">
+            <label class="switch">
+                <input type="checkbox" id="theme-toggle">
+                <span class="slider"></span>
+            </label>
+        </div>
+    </header>
+    <div class="nav-menu">
+        <div class="nav-container">
+            <span class="nav-item nav-prev" id="nav-prev"><a href="/d/2026-07-06.html">⬅️ <span id="prev-date">06.07</span></a></span>
+            <span class="nav-item" id="nav-next"><a href="/d/2026-07-08.html">➡️ <span id="next-date">08.07</span></a></span>
+            <span class="nav-item" id="nav-monthly"><a href="m/2026-07.html">📈 <span id='top-month-label'>Месяц</span></a></span>
+            <div class="language-flags">
+                <svg class="flag-svg" data-lang="ru" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#1435a1" d="M1 11H31V21H1z"></path><path d="M5,4H27c2.208,0,4,1.792,4,4v4H1v-4c0-2.208,1.792-4,4-4Z" fill="#fff"></path><path d="M5,20H27c2.208,0,4,1.792,4,4v4H1v-4c0-2.208,1.792-4,4-4Z" transform="rotate(180 16 24)" fill="#c53a28"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path></svg>
+                <svg class="flag-svg" data-lang="en" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><rect x="1" y="4" width="30" height="24" rx="4" ry="4" fill="#fff"></rect><path d="M1.638,5.846H30.362c-.711-1.108-1.947-1.846-3.362-1.846H5c-1.414,0-2.65,.738-3.362,1.846Z" fill="#a62842"></path><path d="M2.03,7.692c-.008,.103-.03,.202-.03,.308v1.539H31v-1.539c0-.105-.022-.204-.03-.308H2.03Z" fill="#a62842"></path><path fill="#a62842" d="M2 11.385H31V13.231H2z"></path><path fill="#a62842" d="M2 15.077H31V16.923000000000002H2z"></path><path fill="#a62842" d="M1 18.769H31V20.615H1z"></path><path d="M1,24c0,.105,.023,.204,.031,.308H30.969c.008-.103,.031-.202,.031-.308v-1.539H1v1.539Z" fill="#a62842"></path><path d="M30.362,26.154H1.638c.711,1.108,1.947,1.846,3.362,1.846H27c1.414,0,2.65-.738,3.362-1.846Z" fill="#a62842"></path><path d="M5,4h11v12.923H1V8c0-2.208,1.792-4,4-4Z" fill="#102d5e"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path><path fill="#fff" d="M4.601 7.463L5.193 7.033 4.462 7.033 4.236 6.338 4.01 7.033 3.279 7.033 3.87 7.463 3.644 8.158 4.236 7.729 4.827 8.158 4.601 7.463z"></path><path fill="#fff" d="M7.58 7.463L8.172 7.033 7.441 7.033 7.215 6.338 6.989 7.033 6.258 7.033 6.849 7.463 6.623 8.158 7.215 7.729 7.806 8.158 7.58 7.463z"></path><path fill="#fff" d="M10.56 7.463L11.151 7.033 10.42 7.033 10.194 6.338 9.968 7.033 9.237 7.033 9.828 7.463 9.603 8.158 10.194 7.729 10.785 8.158 10.56 7.463z"></path><path fill="#fff" d="M6.066 9.283L6.658 8.854 5.927 8.854 5.701 8.158 5.475 8.854 4.744 8.854 5.335 9.283 5.109 9.979 5.701 9.549 6.292 9.979 6.066 9.283z"></path><path fill="#fff" d="M9.046 9.283L9.637 8.854 8.906 8.854 8.68 8.158 8.454 8.854 7.723 8.854 8.314 9.283 8.089 9.979 8.68 9.549 9.271 9.979 9.046 9.283z"></path><path fill="#fff" d="M12.025 9.283L12.616 8.854 11.885 8.854 11.659 8.158 11.433 8.854 10.702 8.854 11.294 9.283 11.068 9.979 11.659 9.549 12.251 9.979 12.025 9.283z"></path><path fill="#fff" d="M6.066 12.924L6.658 12.494 5.927 12.494 5.701 11.799 5.475 12.494 4.744 12.494 5.335 12.924 5.109 13.619 5.701 13.19 6.292 13.619 6.066 12.924z"></path><path fill="#fff" d="M9.046 12.924L9.637 12.494 8.906 12.494 8.68 11.799 8.454 12.494 7.723 12.494 8.314 12.924 8.089 13.619 8.68 13.19 9.271 13.619 9.046 12.924z"></path><path fill="#fff" d="M12.025 12.924L12.616 12.494 11.885 12.494 11.659 11.799 11.433 12.494 10.702 12.494 11.294 12.924 11.068 13.619 11.659 13.19 12.251 13.619 12.025 12.924z"></path><path fill="#fff" d="M13.539 7.463L14.13 7.033 13.399 7.033 13.173 6.338 12.947 7.033 12.216 7.033 12.808 7.463 12.582 8.158 13.173 7.729 13.765 8.158 13.539 7.463z"></path><path fill="#fff" d="M4.601 11.104L5.193 10.674 4.462 10.674 4.236 9.979 4.01 10.674 3.279 10.674 3.87 11.104 3.644 11.799 4.236 11.369 4.827 11.799 4.601 11.104z"></path><path fill="#fff" d="M7.58 11.104L8.172 10.674 7.441 10.674 7.215 9.979 6.989 10.674 6.258 10.674 6.849 11.104 6.623 11.799 7.215 11.369 7.806 11.799 7.58 11.104z"></path><path fill="#fff" d="M10.56 11.104L11.151 10.674 10.42 10.674 10.194 9.979 9.968 10.674 9.237 10.674 9.828 11.104 9.603 11.799 10.194 11.369 10.785 11.799 10.56 11.104z"></path><path fill="#fff" d="M13.539 11.104L14.13 10.674 13.399 10.674 13.173 9.979 12.947 10.674 12.216 10.674 12.808 11.104 12.582 11.799 13.173 11.369 13.765 11.799 13.539 11.104z"></path><path fill="#fff" d="M4.601 14.744L5.193 14.315 4.462 14.315 4.236 13.619 4.01 14.315 3.279 14.315 3.87 14.744 3.644 15.44 4.236 15.01 4.827 15.44 4.601 14.744z"></path><path fill="#fff" d="M7.58 14.744L8.172 14.315 7.441 14.315 7.215 13.619 6.989 14.315 6.258 14.315 6.849 14.744 6.623 15.44 7.215 15.01 7.806 15.44 7.58 14.744z"></path><path fill="#fff" d="M10.56 14.744L11.151 14.315 10.42 14.315 10.194 13.619 9.968 14.315 9.237 14.315 9.828 14.744 9.603 15.44 10.194 15.01 10.785 15.44 10.56 14.744z"></path><path fill="#fff" d="M13.539 14.744L14.13 14.315 13.399 14.315 13.173 13.619 12.947 14.315 12.216 14.315 12.808 14.744 12.582 15.44 13.173 15.01 13.765 15.44 13.539 14.744z"></path></svg>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="sub-header-container">
+            <div class="update-info-container">
+                <label class="update-info-label" id="timeDiff"></label>
+            </div>
+            <div class="sort-container">
+                <label class="sort-label">🔀 <span id="sort-label-text">Сортировка по</span></label>
+                <select id="sort-dropdown" class="sort-dropdown">
+                    <option value="default">рейтингу</option>
+                    <option value="github">GitHub stars</option>
+                    <option value="pub_date">дате публикации</option>
+                    <option value="issue_id">добавлению на HF</option>
+                </select>
+            </div>
+        </div>
+        <div class="sub-header-container-2">
+            <div class="category-toggle-container">
+                <div class="svg-container">
+                    <span id="category-toggle">🏷️ Фильтр</span>
+                    <svg height="3" width="200">
+                        <line x1="0" y1="0" x2="200" y2="0" 
+                            stroke="black" 
+                            stroke-width="2" 
+                            stroke-dasharray="3, 3" />
+                    </svg>
+                </div>
+            </div>
+            <div class="category-option-container" id="category-options">                
+                <label class="pointer" for="filter-logic-or"><input type="radio" id="filter-logic-or" name="filter-logic" value="or"> A∪B</label>
+                <label class="pointer" for="filter-logic-and"><input type="radio" id="filter-logic-and" name="filter-logic" value="and"> A∩B</label>
+            </div> 
+        </div>
+        <div class="category-filters" id="category-filters">
+            <span class="clear-categories" id="clear-categories">🧹</span>
+            <!-- Categories -->
+        </div>
+        <main id="articles-container">
+            <!-- Articles -->
+        </main>
+    </div>
+    <footer>
+        <div class="container">
+            <p><a style="color:white;" href="https://t.me/doomgrad">doomgrad</a> ✖️ <a style="color:white;" href="https://huggingface.co/papers">hugging face</a></p>
+        </div>
+    </footer>
+    <script>
+        // Language handling
+        let currentLang = localStorage.getItem('selectedLang') || 'en';
+        let feedDate = {'ru': '7 июля', 'en': 'July 7', 'zh': '7月7日'};
+        let feedDateNext = {'ru': '08.07', 'en': '07/08', 'zh': '7月8日'};
+        let feedDatePrev = {'ru': '06.07', 'en': '07/06', 'zh': '7月6日'};
+        let filterLabel = {'ru': 'Фильтр', 'en': 'Topics', 'zh': '主题筛选'}
+        let publishedLabel = {'ru': 'статья от ', 'en': 'published on ', 'zh': '发表于'}
+        let sortLabel = {'ru': 'Сортировка по', 'en': 'Sort by', 'zh': '排序方式'}
+        let paperLabel = {'ru': 'Статья', 'en': 'Paper', 'zh': '论文'}
+        let topMonthLabel = {'ru': 'Месяц', 'en': 'Month', 'zh': '月度论文'}
+        let topDayLabel = {'ru': 'День', 'en': 'Day', 'zh': '日度论文'}
+        
+        function initializeLanguageFlags() {
+            const flags = document.querySelectorAll('.flag-svg');
+            flags.forEach(flag => {
+                if (flag.dataset.lang === currentLang) {
+                    flag.classList.add('active');
+                }
+                flag.addEventListener('click', () => {
+                    flags.forEach(f => f.classList.remove('active'));
+                    flag.classList.add('active');
+                    currentLang = flag.dataset.lang;
+                    localStorage.setItem('selectedLang', currentLang);
+                    updateTimeDiffs();
+                    updateLocalization();
+                    filterAndRenderArticles();
+                });
+            });
+        }
+        function toggleTheme() {
+            const body = document.body;
+            body.classList.toggle('light-theme');
+            body.classList.toggle('dark-theme');
+
+            const isDarkMode = body.classList.contains('dark-theme');
+            localStorage.setItem('darkMode', isDarkMode);
+            
+            if (isDarkMode) {
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf nightly";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.add('rotate');
+            }  else {
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf daily";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.remove('rotate');
+            }
+        }
+
+        const articlesData = [{'id': 'https://huggingface.co/papers/2607.04425', 'title': 'UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning', 'url': 'https://huggingface.co/papers/2607.04425', 'abstract': 'Abstract Uni-GUI dataset and UI-MOPD method enable cross-platform GUI agent training by addressing limited data and platform-specific capability degradation through multi-teacher on-policy distillation.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recent advances in multimodal foundation models and agent systems have driven GUI agents from single-platform task execution toward cross-platform interaction. However, building multi-platform GUI agents remains challenging. On one hand, high-quality and executable cross-platform interaction trajectories are still scarce, and existing data often suffer from limited platform coverage. On the other hand, different platforms exhibit distinct interaction conventions, making joint or continual training prone to behavioral pattern mixing, platform-specific capability degradation, and catastrophic forgetting. To address these challenges, we construct Uni-GUI, a high-quality cross-platform GUI interaction dataset, and propose UI-MOPD, the first method that incorporates multi-teacher on-policy distillation into continual learning for GUI agents. UI-MOPD dynamically selects a platform-specific teacher according to the current environment and transfers platform-specific behavioral priors to a shared policy through platform-conditioned distillation, enabling adaptation to new platforms while preserving capabilities on existing ones. Experiments on OSWorld and MobileWorld show that UI-MOPD achieves task success rates of 38.2% and 12.0%, respectively, demonstrating its effectiveness in balancing cross-platform capability retention and new-platform adaptation.   Project page: https://elispectre.github.io/UI-MOPD/.', 'score': 61, 'issue_id': 2776, 'pub_date': '2026-07-05', 'pub_date_card': {'ru': '5 июля', 'en': 'July 5', 'zh': '7月5日'}, 'hash': 'df144294b20c4e10', 'github_url': '', 'github_stars': 0, 'authors': ['Niu Lian', 'Alan Chen', 'Zhehao Yu', 'Chengzhen Duan', 'Fazhan Liu', 'Hui Liu', 'Pei Fu', 'Jian Luan', 'Yaowei Wang', 'Shu-Tao Xia', 'Jinpeng Wang'], 'affiliations': ['Harbin Institute of Technology, Shenzhen', 'Peng Cheng Laboratory', 'Tsinghua Shenzhen International Graduate School, Tsinghua University', 'Xiaomi', 'Zhejiang University'], 'pdf_title_img': 'assets/pdf/title_img/2607.04425.jpg', 'data': {'categories': ['#continual_learning', '#agents', '#transfer_learning', '#dataset'], 'emoji': '🌐', 'ru': {'title': 'Многофункциональные GUI-агенты: адаптация и сохранение возможностей', 'desc': 'В статье рассматриваются проблемы, связанные с обучением многофункциональных графических интерфейсов (GUI) на разных платформах. Для решения этих проблем был создан набор данных Uni-GUI и предложен метод UI-MOPD, который использует многопедагогическую дистилляцию. Это позволяет адаптироваться к новым платформам, сохраняя при этом уже приобретенные возможности. Эксперименты показывают, что метод UI-MOPD эффективно справляется с задачей балансировки между сохранением возможностей и адаптацией к новым платформам.'}, 'en': {'title': 'Empowering Cross-Platform GUI Agents with UI-MOPD', 'desc': 'This paper introduces the Uni-GUI dataset and the UI-MOPD method to enhance cross-platform GUI agent training. It addresses the challenges of limited data and platform-specific performance issues by using multi-teacher on-policy distillation. The proposed method allows GUI agents to adapt to new platforms while maintaining their capabilities on existing ones. Experiments demonstrate that UI-MOPD effectively balances the retention of cross-platform skills and the adaptation to new environments.'}}}, {'id': 'https://huggingface.co/papers/2607.04033', 'title': 'OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers', 'url': 'https://huggingface.co/papers/2607.04033', 'abstract': 'Abstract OmniOpt presents a unified framework for optimizer selection in large-scale model training by combining meta-pipeline transformations, norm-constrained linear minimization oracles, and a cross-domain benchmark to systematically analyze optimizer families and their trade-offs across different training objectives and model scales.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Optimizer selection for large-scale model training has become a system-level design decision constrained jointly by compute, memory, tuning budget, and task diversity, yet the landscape of over one hundred methods remains fragmented. We therefore present OmniOpt, a unified survey and benchmark cookbook of optimizers for the research community. OmniOpt rests on four coupled components. First, we treat every optimizer update as a structured transformation through a five-stage meta-pipeline, and show that most methods engage only one or two of these stages. Second, we use norm-constrained linear minimization oracles (LMOs) to unify different optimizers. Third, these two views ground a dual-dimension taxonomy, one dimension assigning each method to a mechanism family and the other recording the measurable training objectives it aims to improve. Fourth, and at the core of this paper, we instantiate the full taxonomy in a unified cross-domain benchmark spanning representative optimizers, model scales, and training regimes from language model pretraining to image classification, systematically analyzing each method family across multiple effect objectives and laying out their trade-offs. OmniOpt thus supplies the research community with an operational coordinate system for selecting optimizers under explicit mechanism and objective assumptions, and charts a direction for the future development of the optimizer community.', 'score': 55, 'issue_id': 2776, 'pub_date': '2026-07-04', 'pub_date_card': {'ru': '4 июля', 'en': 'July 4', 'zh': '7月4日'}, 'hash': 'add1731367ae6681', 'github_url': '', 'github_stars': 0, 'authors': ['Siyuan Li', 'Jiabao Pan', 'Yumou Liu', 'Zhuoli Ouyang', 'Xin Jin', 'Xinglong Xu', 'Jingxuan Wei', 'Shengye Pang', 'Jintao Che', 'Xuanhe Zhou', 'Conghui He', 'Cheng Tan'], 'affiliations': ['Shanghai Artificial Intelligence Laboratory', 'Shanghai Jiao Tong University', 'Shanghai University', 'Southern University of Science and Technology', 'UCAS', 'Westlake University', 'Zhejiang University'], 'pdf_title_img': 'assets/pdf/title_img/2607.04033.jpg', 'data': {'categories': ['#survey', '#training', '#optimization', '#benchmark'], 'emoji': '⚙️', 'ru': {'title': 'OmniOpt: универсальный выбор оптимизаторов для обучения моделей', 'desc': 'Статья представляет OmniOpt — универсальную платформу для выбора оптимизаторов при обучении крупных моделей. Она объединяет преобразования мета-конвейера, нормы-ограниченные линейные минимизационные оракулы и кросс-доменные бенчмарки для систематического анализа семейств оптимизаторов. OmniOpt предлагает единую таксономию, рассматривающую различные подходы к оптимизации и их влияние на задачи обучения. Этот инструмент позволяет исследователям более эффективно выбирать оптимизаторы с учетом механизмов и целей задач.'}, 'en': {'title': 'Streamlining Optimizer Selection for Large-Scale Training', 'desc': 'OmniOpt introduces a comprehensive framework for selecting optimizers in large-scale model training. It combines various techniques, including meta-pipeline transformations and norm-constrained linear minimization oracles, to analyze different optimizer families. The framework categorizes optimizers based on their mechanisms and the training objectives they target, providing a structured approach to understanding their trade-offs. By offering a unified benchmark, OmniOpt aids researchers in making informed decisions about optimizer selection across diverse tasks and model scales.'}}}, {'id': 'https://huggingface.co/papers/2607.05373', 'title': 'PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space', 'url': 'https://huggingface.co/papers/2607.05373', 'abstract': 'Abstract PixWorld presents a unified pixel-space diffusion approach for 3D reconstruction and generation that overcomes limitations of latent-space methods through direct image-level supervision and geometry-aware feature alignment.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct 3D reconstruction and generation are commonly tackled by separate paradigms: pixel-based regression for reconstruction, and latent diffusion for generation. Recent works attempt to unify them in latent space, but with notable drawbacks: the diffusion objective is defined on latent features rather than the underlying 3D representation, and both branches suffer from information loss introduced by latent encoding, while requiring a pretrained Variational Autoencoder (VAE) or Representation Autoencoder (RAE). In this paper, we reformulate these two tasks under a unified pixel-space diffusion paradigm and introduce PixWorld, a single model that jointly addresses 3D reconstruction and generation. By supervising diffusion directly on rendered images, PixWorld removes the above limitations and aligns optimization with 3D scene fidelity. Beyond photometric and perceptual supervision that operates at the 2D image level and lacks 3D geometric awareness, we further introduce a geometry perception loss that aligns rendered views with their ground truth in the geometry-aware feature space of a pretrained 3D foundation model, providing 3D structural supervision. PixWorld consistently outperforms prior latent-space generation methods and matches state-of-the-art reconstruction methods, demonstrating the superiority of a unified pixel-space approach.', 'score': 44, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '3b332251ee08ef60', 'github_url': '', 'github_stars': 0, 'authors': ['Sensen Gao', 'Zhaoqing Wang', 'Qihang Cao', 'Dongdong Yu', 'Changhu Wang', 'Jia-Wang Bian'], 'affiliations': ['AISphere', 'Nanyang Technological University'], 'pdf_title_img': 'assets/pdf/title_img/2607.05373.jpg', 'data': {'categories': ['#diffusion', '#3d', '#architecture', '#optimization'], 'emoji': '🌌', 'ru': {'title': 'Единый подход к 3D реконструкции и генерации', 'desc': 'Статья описывает подход PixWorld, который объединяет методы диффузии в пиксельном пространстве для трехмерной реконструкции и генерации. Он преодолевает ограничения методов, основанных на латентном пространстве, благодаря прямому контролю на уровне изображений и согласованию признаков с учетом геометрии. PixWorld использует единый модельный подход, который совместно решает задачи реконструкции и генерации, улучшая соответствие с 3D сценами. Новый метод доказал свою эффективность, превзойдя предыдущие латентные методы и сопоставив результаты с современными методами реконструкции.'}, 'en': {'title': 'Revolutionizing 3D with Unified Pixel-Space Diffusion', 'desc': 'PixWorld introduces a new method for 3D reconstruction and generation using a unified pixel-space diffusion approach. This method directly supervises the diffusion process on images, avoiding the pitfalls of latent-space methods that can lose important information. By aligning the optimization with the actual 3D scene, PixWorld enhances both photometric and geometric accuracy. The results show that this approach outperforms previous methods and achieves state-of-the-art performance in 3D tasks.'}}}, {'id': 'https://huggingface.co/papers/2607.04438', 'title': 'ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog', 'url': 'https://huggingface.co/papers/2607.04438', 'abstract': "Abstract ResearchStudio-Reel automates research dissemination by composing specialized skills around a shared paper extractor, generating consistent and editable artifacts including posters, videos, and blogs with hard pass/fail quality gates.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Research dissemination, turning a paper into a poster, a talk video, and a blog post, is still a manual last mile. Prior automation treats each artifact in isolation that each re-extract the paper from scratch, usually ship one-way renders the author cannot reopen in PowerPoint or Word, and gates quality on soft VLM-preference scores that plateau while load-bearing sections still read as empty. We argue this last mile is best built as a composition of skills: thin agent-readable contracts that share one upstream extractor and wrap deterministic primitives in a measured-fill loop whose exits are hard pass/fail render gates. We instantiate this as ResearchStudio-Reel, five Claude Code and Codex skills organized into one shared extractor (Paper2Assets), three editable generators (Paper2Poster, Paper2Video, Paper2Blog), and one interactive convergence layer (Paper2Reel). Paper2Assets extracts each paper once into a shared bundle that can be reused by every downstream skill; The three generators produce a print-ready poster, a synchronized talk video, and a bilingual blog that stay factually consistent and round-trip through PowerPoint or Word; Paper2Reel then binds all three into a self-contained HTML viewer whose section-level clicks jump the video, slides, captions, and blog to matching content. On the Paper2Poster benchmark, our posters lead every aesthetic and information sub-criterion against both prior automated systems and single-shot frontier LLMs, surpassing the authors' own on aesthetics under two held-out VLM judges and winning overall on 84% to 93% of papers; capability audits further show that, by uniquely pairing narration-aligned on-slide highlights with a bilingual blog gated by layout-aware DOCX repair, ResearchStudio-Reel is the only pipeline to ship all three editable artifacts. Project is available at https://aka.ms/ResearchStudio", 'score': 39, 'issue_id': 2775, 'pub_date': '2026-07-05', 'pub_date_card': {'ru': '5 июля', 'en': 'July 5', 'zh': '7月5日'}, 'hash': 'e13e3bec2b675675', 'github_url': '', 'github_stars': 0, 'authors': ['Lingao Xiao', 'Yalun Dai', 'Yangyu Huang', 'Qihao Zhao', 'Wenshan Wu', 'Hugo He', 'Ruishuo Chen', 'Jin Jiang', 'Qianli Ma', 'Jiahuan Zhang', 'Xin Zhang', 'Ying Xin', 'Yang Ou', 'Yan Xia', 'Scarlett Li', 'Longbo Huang', 'Zhipeng Zhang', 'Yang He', 'Yap Kim Hui', 'Yan Lu'], 'affiliations': ['CFAR, A*STAR', 'Microsoft Research', 'Nanyang Technological University', 'National University of Singapore', 'Peking University', 'Shanghai Jiao Tong University', 'Tsinghua University', 'Westlake University'], 'pdf_title_img': 'assets/pdf/title_img/2607.04438.jpg', 'data': {'categories': ['#benchmark', '#multimodal', '#agents', '#open_source', '#science'], 'emoji': '📑', 'ru': {'title': 'Автоматизация распространения научных исследований', 'desc': 'Исследование представляет собой автоматизацию распространения научных работ с помощью системы ResearchStudio-Reel, которая объединяет навыки для извлечения информации из статей. Создаются редактируемые материалы, такие как постеры, видео и блоги, которые обеспечивают качество на основе строгих критериев. В отличие от предыдущих подходов, которые рассматривали каждый артефакт отдельно, новая система использует один общий экстрактор для всех компонентов. Это позволяет обеспечить согласованность и простоту в обновлении всех созданных материалов.'}, 'en': {'title': 'Automating Research Dissemination with Consistent Artifacts', 'desc': 'ResearchStudio-Reel automates the process of turning academic papers into various formats like posters, videos, and blogs. It uses a shared paper extractor to ensure consistency and allows for editable outputs, overcoming limitations of previous automation methods. The system integrates multiple skills to create high-quality artifacts that can be reused and modified, ensuring factual accuracy across all formats. This approach not only enhances the quality of the generated materials but also allows authors to interactively engage with their work in a cohesive manner.'}}}, {'id': 'https://huggingface.co/papers/2607.04439', 'title': 'ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes', 'url': 'https://huggingface.co/papers/2607.04439', 'abstract': 'Abstract ResearchStudio-Idea provides a skill suite for effective research ideation that combines literature search, novelty checking, and pattern-guided generation to produce traceable research proposals.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Large language models have made research ideation increasingly accessible, yet effective idea development requires more than generating candidate directions. Researchers must ground a problem in current literature, identify meaningful bottlenecks, differentiate from existing solutions, and evaluate risks before committing to implementation. We present ResearchStudio-Idea as a reusable skill suite for this first mile of research ideation. The suite includes Paper-Search, a standalone multi-source literature search skill; Scoop-Check, a standalone prior-art collision checker for novelty claims; and IdeaSpark, the end-to-end skill that composes evidence grounding, pattern-guided generation, collision retrieval, audit, and idea-card rendering into one workflow. IdeaSpark is constructed from a corpus of 1,947 machine learning conference papers collected from ICLR, ICML, and NeurIPS between 2021 and 2025, including Oral papers, a separately tracked high-citation subset, and rejected submissions. Analysis of these outcomes reveals 31 recurring ideation sub-patterns, consolidated into 15 reusable ideation patterns. Each pattern is operationalized as a structured card containing research contexts, bottleneck types, differentiation strategies, supporting precedents, and common failure modes. Given a research problem and an evidence bundle, IdeaSpark evaluates evidence readiness, reconstructs the surrounding research context, identifies unresolved bottlenecks, selects relevant patterns, instantiates one candidate direction, retrieves potentially conflicting prior work, and performs outcome-informed auditing. This workflow transforms reusable ideation patterns into traceable research proposals. Blind automated-judge evaluations show that IdeaSpark consistently produces stronger research proposals than no-skill and generic-skill baselines while maintaining competitive novelty.', 'score': 36, 'issue_id': 2775, 'pub_date': '2026-07-05', 'pub_date_card': {'ru': '5 июля', 'en': 'July 5', 'zh': '7月5日'}, 'hash': '60fd8c420ce99230', 'github_url': '', 'github_stars': 0, 'authors': ['Qihao Zhao', 'Yangyu Huang', 'Yalun Dai', 'Lingao Xiao', 'Jianjun Gao', 'Xin Zhang', 'Wenshan Wu', 'Scarlett Li', 'Yang He', 'Yan Lu', 'Yap Kim Hui'], 'affiliations': ['CFAR, A*STAR', 'Microsoft Research', 'Nanyang Technological University', 'National University of Singapore'], 'pdf_title_img': 'assets/pdf/title_img/2607.04439.jpg', 'data': {'categories': ['#survey', '#dataset', '#multimodal', '#data', '#science'], 'emoji': '🧠', 'ru': {'title': 'Инновационные идеи с ResearchStudio-Idea', 'desc': 'ResearchStudio-Idea представляет собой набор инструментов для эффективной генерации идей в исследовательской деятельности, который сочетает в себе поиск литературы, проверку новизны и генерацию идей с учетом паттернов. Он помогает исследователям не только генерировать идеи, но и закреплять их в текущей литературе, выявлять узкие места и оценивать риски. Основной компонент, IdeaSpark, использует данные из более чем 1900 статей по машинному обучению, чтобы сформировать структурированные карты идей. Этот подход позволяет преобразовать паттерны генерации идей в отслеживаемые исследовательские предложения.'}, 'en': {'title': 'Transforming Research Ideas into Traceable Proposals', 'desc': 'ResearchStudio-Idea is a skill suite designed to enhance research ideation by integrating literature search, novelty checking, and structured idea generation. It helps researchers ground their problems in existing literature, identify key challenges, and differentiate their proposals from prior work. The suite includes tools like Paper-Search for literature retrieval, Scoop-Check for assessing novelty, and IdeaSpark for generating comprehensive research proposals. By utilizing a corpus of machine learning papers, IdeaSpark identifies recurring ideation patterns and transforms them into traceable proposals, demonstrating superior performance in generating quality research ideas.'}}}, {'id': 'https://huggingface.co/papers/2607.02642', 'title': 'GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation', 'url': 'https://huggingface.co/papers/2607.02642', 'abstract': 'Abstract World models for robotic policy evaluation are systematically studied through a new benchmark, revealing that long-horizon rollout consistency and robot-specific controllability are more important than short-term visual realism for reliable policy assessment.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Evaluating embodied robot foundation models remains a critical bottleneck; unlike large language models efficiently assessed via digital benchmarks, robotic policies require slow, costly real-world rollouts limited by hardware and human supervision, which has driven interest in world models as surrogate policy evaluators, yet the key properties that make a world model reliable for policy assessment remain poorly understood. This work presents a systematic study of world models for robotic policy evaluation and introduces WMBench, a benchmark constructed from real-robot teleoperation data and matched policy rollouts covering diverse manipulation tasks to enable controlled comparisons across model families, action encodings, rollout horizons, and evaluation metrics. Using WMBench, we analyze 7 video world models, 4 action representation schemes, and over 324,000 simulated policy rollouts paired with real robot executions, further enriching our analysis with large-scale community submissions from the CVPR 2026 GigaBrain Challenge, curated synthetic trajectories, and a training videos spanning more than 12,000 hours. Our experiments deliver three core insights: evaluator quality is dominated by long-horizon, action-faithful rollout consistency rather than short-term visual realism; pretraining gains stem not only from data scale but from balancing general world knowledge with robot-specific controllability; and architectural choices including action encoding, memory design, and evaluator-focused post-training strongly determine alignment with real-world robot behavior. Drawing on these results, we derive a practical design roadmap and realize it in GigaWorld-1, a world model specially optimized for policy evaluation, and we fully release our code, models, datasets, and toolkits to advance scalable evaluation research for embodied foundation models.', 'score': 29, 'issue_id': 2775, 'pub_date': '2026-07-02', 'pub_date_card': {'ru': '2 июля', 'en': 'July 2', 'zh': '7月2日'}, 'hash': 'a93b4fe1650940f6', 'github_url': '', 'github_stars': 0, 'authors': ['GigaWorld Team', 'Angyuan Ma', 'Boyuan Wang', 'Bohan Li', 'Chaojun Ni', 'Guo Li', 'Guan Huang', 'Guosheng Zhao', 'Hao Li', 'Hengtao Li', 'Jingyu Liu', 'Jiwen Lu', 'Qiuping Deng', 'Tingdong Yu', 'Xuancheng Xu', 'Xinyu Zhou', 'Xiuwei Xu', 'Xinze Chen', 'Xiaofeng Wang', 'Xiaoyu Tian', 'Yang Wang', 'Yifan Chang', 'Yukun Zhou', 'Yun Ye', 'Zhenyu Wu', 'Zhanqian Wu', 'Zheng Zhu'], 'affiliations': ['GigaAI', 'Tsinghua University'], 'pdf_title_img': 'assets/pdf/title_img/2607.02642.jpg', 'data': {'categories': ['#survey', '#agent_memory', '#dataset', '#optimization', '#architecture', '#benchmark', '#robotics', '#open_source'], 'emoji': '🤖', 'ru': {'title': 'Долгосрочная надежность важнее краткосрочной реалистичности', 'desc': 'В статье исследуется применение мироустройств для оценки роботизированной политики через новый бенчмарк WMBench. Установлено, что важнее долгосрочная согласованность развертывания и управляемость, специфичная для робота, чем краткосрочная визуальная реалистичность. Также обсуждаются ключевые свойства мироустройств, влияющие на их надежность в оценке политик. В результате работы была разработана архитектура GigaWorld-1, специально оптимизированная для оценки политик, и представлены все данные и инструменты для дальнейшего исследования.'}, 'en': {'title': 'Prioritizing Long-Horizon Consistency for Robotic Policy Evaluation', 'desc': 'This paper investigates the effectiveness of world models in evaluating robotic policies, emphasizing the importance of long-horizon rollout consistency and robot-specific controllability over short-term visual realism. It introduces WMBench, a benchmark designed from real-robot data to facilitate comparisons across various model families and evaluation metrics. The study analyzes multiple video world models and action representation schemes, revealing that the quality of evaluators is significantly influenced by their ability to maintain action fidelity over longer horizons. The findings lead to the development of GigaWorld-1, a world model optimized for policy evaluation, with all resources made publicly available to enhance research in this area.'}}}, {'id': 'https://huggingface.co/papers/2607.05247', 'title': 'Vision Pretraining for Dense Spatial Perception', 'url': 'https://huggingface.co/papers/2607.05247', 'abstract': 'Abstract Boundary modeling enables dense spatial perception by learning sub-pixel representations that enhance depth estimation and support embodied AI applications.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Dense spatial perception is essential for physical intelligence, where visual systems are expected to recover structured, metric, and actionable representations from pixel observations. Modern visual foundation models tend to prioritize semantic invariance, often at the expense of detailed spatial understanding. In this work, we study vision pretraining through a boundary-centric lens, motivated by the premise that boundaries and shape discontinuities offer essential cues for perceiving geometric properties. Concretely, we propose masked boundary modeling, a self-supervised paradigm that dynamically learns sub-pixel boundary representations and subsequently leverages the discovered boundary-bearing tokens as masked targets to facilitate dense visual token learning. By scaling this framework, we develop LingBot-Vision and demonstrate its efficacy across a diverse set of downstream vision tasks with DINOv3 as a strong baseline. Remarkably, LingBot-Vision drives the progression from LingBot-Depth 1.0 to LingBot-Depth 2.0 for depth completion, and thereby yields enhanced depth estimation, a key pillar for embodied artificial intelligence. Our findings reveal that boundary modeling goes beyond simple line segments and instead serves as a scalable pretraining principle for learning spatially structured visual representations.', 'score': 28, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': 'ecadf887c94f4549', 'github_url': '', 'github_stars': 0, 'authors': ['Zelin Fu', 'Bin Tan', 'Changjiang Sun', 'Shaohui Liu', 'Kecheng Zheng', 'Yinghao Xu', 'Xing Zhu', 'Yujun Shen', 'Nan Xue'], 'affiliations': [], 'pdf_title_img': 'assets/pdf/title_img/2607.05247.jpg', 'data': {'categories': ['#agents', '#agi', '#3d', '#games'], 'emoji': '🔍', 'ru': {'title': 'Моделирование границ для глубокого пространственного восприятия', 'desc': 'В этой статье рассматривается моделирование границ как способ улучшения пространственного восприятия для задач глубинногоEstimations и воплощенного ИИ. Мы предлагаем метод masked boundary modeling, который динамически обучает субпиксельные представления границ. Это позволяет эффективно извлекать визуальные токены и улучшает качество оценки глубины. Исследования показывают, что моделирование границ является важным принципом предварительного обучения для создания структурированных визуальных представлений.'}, 'en': {'title': 'Enhancing Depth Estimation through Boundary Modeling', 'desc': 'This paper introduces a method called masked boundary modeling to improve depth estimation in visual systems. By focusing on boundaries and shape discontinuities, the approach enhances the learning of sub-pixel representations, which are crucial for understanding spatial structures. The authors present LingBot-Vision, a framework that utilizes these boundary representations to boost performance in various vision tasks. The results show that this boundary-centric approach significantly advances depth completion, which is vital for embodied AI applications.'}}}, {'id': 'https://huggingface.co/papers/2607.03973', 'title': 'MANCE: Manifold Aware Concept Erasure', 'url': 'https://huggingface.co/papers/2607.03973', 'abstract': 'Abstract Manifold constraint hypothesis enables improved concept erasure by projecting updates onto estimated representation manifolds, achieving state-of-the-art results in nonlinear concept removal.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Concept erasure aims to remove a target concept from a representation while preserving the other information encoded in it. This is difficult because representations encode many concepts that are often correlated with the erasure target, so removing the target risks damaging them. We propose the Manifold Constraint Hypothesis (MCH): if natural representations concentrate on a structured, lower-dimensional manifold, then interventions should be constrained to that manifold and better preserve other information encoded in the representation during interventions. We instantiate MCH in a new concept erasure method: MANifold aware Concept Erasure (MANCE). MANCE performs iterative updates to the representations using signals from a classifier that predicts a target concept. We estimate the manifold using representations obtained from natural inputs, and then we project the concept removal update to the estimated manifold. We perform extensive evaluation on 119 settings spanning text and vision, including 13 language models, three NLP concepts, and 40 CelebA-CLIP attributes. Employing MANCE on top of previous methods shows consistent improved leakage results. We also introduce MANCE+ and MANCE++, which prepend a closed-form erasure algorithm before employing MANCE, achieving better leakage--surgicality tradeoffs relative to matched full-space updates. MANCE++, our best method, achieves state-of-the-art results on nonlinear concept erasure. These results support MCH in the erasure setting: interventions should be constrained to the natural representation manifold.', 'score': 23, 'issue_id': 2777, 'pub_date': '2026-07-04', 'pub_date_card': {'ru': '4 июля', 'en': 'July 4', 'zh': '7月4日'}, 'hash': 'f9e0970cf22f9bf3', 'github_url': '', 'github_stars': 0, 'authors': ['Matan Avitan', 'Yoav Goldberg', 'Yanai Elazar'], 'affiliations': ['Allen Institute for Artificial Intelligence', 'Bar-Ilan University'], 'pdf_title_img': 'assets/pdf/title_img/2607.03973.jpg', 'data': {'categories': ['#interpretability', '#training', '#architecture', '#leakage', '#optimization', '#data'], 'emoji': '🔍', 'ru': {'title': 'Эффективное удаление концепций с помощью ограниченности манифольда', 'desc': 'Гипотеза о множественной ограниченности (MCH) улучшает процесс удаления концепций, проецируя обновления на оцененные манифольды представлений. Это важно, поскольку представления часто содержат взаимосвязанные концепции, и их удаление может повредить другим данным. Мы предлагаем новый метод удаления концепций, известный как MANifold aware Concept Erasure (MANCE), который использует итеративные обновления и сигналы классификатора. Результаты показывают, что MANCE достигает передовых результатов в области нелинейного удаления концепций.'}, 'en': {'title': 'Enhancing Concept Erasure with Manifold Constraints', 'desc': 'This paper introduces the Manifold Constraint Hypothesis (MCH), which suggests that concept erasure can be improved by projecting updates onto a structured, lower-dimensional manifold of representations. The proposed method, MANifold aware Concept Erasure (MANCE), iteratively updates representations while preserving other encoded information by using signals from a classifier. Extensive evaluations across various settings demonstrate that MANCE consistently outperforms previous methods in reducing concept leakage. The paper also presents MANCE+ and MANCE++, which enhance the erasure process by incorporating a closed-form algorithm, achieving state-of-the-art results in nonlinear concept removal.'}}}, {'id': 'https://huggingface.co/papers/2607.04443', 'title': 'Wan-Streamer v0.2: Higher Resolution, Same Latency', 'url': 'https://huggingface.co/papers/2607.04443', 'abstract': "Abstract Wan-Streamer v0.2 enhances audio-visual interaction by increasing visual resolution while maintaining low latency through optimized thinker-performer architecture with multi-GPU parallel processing.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present Wan-Streamer v0.2, a latency-preserving upgrade of the native-streaming, end-to-end audio-visual interaction model. v0.2 keeps the v0.1 modeling formulation, but raises the interactive output stream from 192x336 to 640x368 while preserving approximately 200 ms model-side signal-to-signal latency at 25 FPS. The higher-resolution stream supports scene-grounded mid-shot agents whose posture, gaze, hands, nearby objects, and local scene layout remain legible during real-time conversation. To support the larger visual stream without adding user-visible delay, v0.2 keeps the thinker as a single-GPU low-latency path for streaming perception, the short language/state Transformer pass that builds the generation cache, and final decoding. The performer becomes a multi-GPU Ulysses-style context-parallel group for the expensive next-unit latent generation. Each performer rank writes incoming K/V into a pre-sharded local cache. The long high-resolution latent video sequence is split across ranks for denoising and gathered through Ulysses communication, while the much shorter audio latent sequence is generated without sequence sharding. In this split, the thinker's language/state computation reaches the performer only as K/V conditioning, so no separate language sequence has to be communicated inside the performer group. This concentrates additional hardware on visual generation while preserving the compact thinker-performer boundary, keeping total remote interaction latency at approximately 550 ms when a 350 ms bidirectional network budget is included.", 'score': 22, 'issue_id': 2775, 'pub_date': '2026-07-05', 'pub_date_card': {'ru': '5 июля', 'en': 'July 5', 'zh': '7月5日'}, 'hash': '2c2747949a87b511', 'github_url': '', 'github_stars': 0, 'authors': ['Lianghua Huang', 'Zhi-Fan Wu', 'Yupeng Shi', 'Wei Wang', 'Mengyang Feng', 'Junjie He', 'Chen-Wei Xie', 'Yu Liu', 'Jingren Zhou', 'Ang Wang', 'Bang Zhang', 'Baole Ai', 'Chen Liang', 'Cheng Yu', 'Chongyang Zhong', 'Jinwei Qi', 'Kai Zhu', 'Pandeng Li', 'Peng Zhang', 'Wenyuan Zhang', 'Xinhua Cheng', 'Yitong Huang', 'Yun Zheng', 'Yuxiang Bao', 'Yuzheng Wang', 'Zoubin Bi'], 'affiliations': ['Alibaba Group'], 'pdf_title_img': 'assets/pdf/title_img/2607.04443.jpg', 'data': {'categories': ['#multimodal', '#audio', '#architecture', '#optimization'], 'emoji': '🎤', 'ru': {'title': 'Новая эра аудио-визуального взаимодействия!', 'desc': 'Статья описывает обновление Wan-Streamer v0.2, которое улучшает взаимодействие аудио и видео за счёт повышения разрешения изображения при низкой задержке. Модель сохраняет формулировку v0.1, но увеличивает поток до 640x368 пикселей и поддерживает задержку около 200 мс при 25 FPS. Это позволяет агентам в сцене сохранять читаемость позы, взгляда и объектов вокруг во время реального разговора. Архитектура использует параллельную обработку на нескольких GPU для оптимизации генерации контента без увеличения задержек для пользователя.'}, 'en': {'title': 'Enhancing Visuals Without the Wait', 'desc': "Wan-Streamer v0.2 improves audio-visual interaction by enhancing visual resolution while keeping latency low. It maintains the original model's structure but increases the output resolution significantly, allowing for clearer mid-shot agents during real-time conversations. The architecture utilizes a single-GPU thinker for low-latency perception and a multi-GPU performer for generating high-resolution visuals. This design ensures that the overall interaction latency remains manageable, even with the increased visual complexity."}}}, {'id': 'https://huggingface.co/papers/2607.02646', 'title': 'EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots', 'url': 'https://huggingface.co/papers/2607.02646', 'abstract': 'Abstract EVA-Client is an open-source framework that unifies real-robot policy deployment, data collection, and evaluation through a component-decoupled architecture with inspectable execution workflows.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present EVA-Client, an open-source framework for deployment, data collection, and evaluation of trained manipulation policies on real robots. Sitting between a policy server and the physical hardware, EVA-Client unifies the real-robot stages of the policy iteration loop within a single codebase. It makes three contributions. First, a component-decoupled architecture in which robot backends, inference strategies, and transport middlewares form an orthogonal grid: adding a robot or a strategy touches only its own layer. Second, inspectable execution through Debug, Collect, and Eval workflows, with modes ranging from open-loop simulation to continuous real-time control. Third, every evaluation run doubles as a data collection, recording full rollouts in training-ready format alongside exhaustive logs and a side-by-side comparison viewer, so each evaluation feeds the next round of training rather than ending as an unrecorded impression. EVA-Client further consolidates major real-time inference strategies, synchronous and asynchronous execution, ACT-style temporal ensembling, Real-Time Chunking, and a naive-async ablation baseline, behind a single configuration surface.', 'score': 22, 'issue_id': 2776, 'pub_date': '2026-07-02', 'pub_date_card': {'ru': '2 июля', 'en': 'July 2', 'zh': '7月2日'}, 'hash': 'bb96105e747c3109', 'github_url': '', 'github_stars': 0, 'authors': ['Heqing Yang', 'Yang Yi', 'Liyao Wang', 'Linqing Zhong', 'Donglin Yang', 'Ruipu Wu', 'Zitong Bai', 'Fengjiao Chen', 'Manyuan Zhang', 'Linjiang Huang', 'Si Liu'], 'affiliations': ['CoLab, Beihang University'], 'pdf_title_img': 'assets/pdf/title_img/2607.02646.jpg', 'data': {'categories': ['#agents', '#training', '#open_source', '#optimization', '#robotics', '#data'], 'emoji': '🤖', 'ru': {'title': 'EVA-Client: единая платформа для работы с реальными роботами', 'desc': 'EVA-Client — это открытая платформа для развертывания, сбора данных и оценки обученных политик манипуляции на реальных роботах. Она объединяет этапы итерационного цикла политики, обеспечивая модульную архитектуру, где добавление нового робота или стратегии затрагивает лишь соответствующий слой. EVA-Client предлагает инспектируемые рабочие процессы, позволяя отлаживать, собирать данные и оценивать действия робота в реальном времени. Каждая оценка также служит для сбора данных, формируя полные впечатления для следующего раунда обучения.'}, 'en': {'title': 'Streamlining Robot Policy Deployment and Evaluation', 'desc': 'EVA-Client is an open-source framework designed to streamline the deployment, data collection, and evaluation of manipulation policies on real robots. It features a component-decoupled architecture that allows for easy integration of different robot backends and inference strategies without affecting other components. The framework includes inspectable execution workflows that support various modes, from simulation to real-time control, enhancing the debugging and evaluation process. Additionally, each evaluation run serves as a data collection opportunity, ensuring that insights gained feed back into the training loop for continuous improvement.'}}}, {'id': 'https://huggingface.co/papers/2607.04988', 'title': 'InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization', 'url': 'https://huggingface.co/papers/2607.04988', 'abstract': 'Abstract InternVLA-A1.5 integrates pretrained vision-language models with future prediction in latent space to enable efficient robot manipulation with preserved semantics and long-horizon execution.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified models for robot manipulation aim to equip one policy with both the semantic priors of pretrained VLMs and the physical dynamics learned through future prediction. In practice, existing designs tend to erode the semantics of the pretrained backbone, suffer interference among heterogeneous objectives, and learn future prediction from scratch in pixel space, leaving the dynamics priors of pretrained video generators unexploited. We present InternVLA-A1.5, which builds the policy on a native VLM backbone that keeps training on VQA and subtask prediction, and attaches a lightweight unified expert for continuous action generation. Future prediction is recast as a latent-querying problem, where a small set of learnable foresight tokens condenses the task-relevant future into a compact latent code under the supervision of a frozen pretrained video generation model, so the policy inherits world-model dynamics priors without ever learning pixel-level generation. The video branch is discarded at inference, keeping real-time control. Pretrained on 1.2M robot episodes and 3M multimodal samples, InternVLA-A1.5 achieves the best overall results on all six simulation benchmarks. In the real world, the preserved semantics deliver the strongest compositional generalization on held-out instruction bindings, and the two designs together sustain long-horizon execution.', 'score': 17, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '6ce96e73e471dc5b', 'github_url': '', 'github_stars': 0, 'authors': ['Haoxiang Ma', 'Junhao Cai', 'Xiaoxu Xu', 'Hao Li', 'Yuyin Yang', 'Yang Tian', 'Jiafei Cao', 'Hongrui Zhu', 'Zherui Qiu', 'Zhaxizhuoma', 'Yuqiang Yang', 'Jiaqi Peng', 'Xueyuan Wei', 'Yangkun Zhu', 'Jiahao Jiang', 'Xing Gao', 'Hanqing Wang', 'Feng Yuan', 'Kailin Li', 'Xueyue Zhu', 'Tai Wang', 'Yan Ding', 'Jiangmiao Pang', 'Jia Zeng', 'Jingjing Zhang', 'Bowen Zhou', 'Yao Mu', 'Chunhua Shen', 'Weinan Zhang'], 'affiliations': ['Physical Intelligence Team, Shanghai AI Laboratory'], 'pdf_title_img': 'assets/pdf/title_img/2607.04988.jpg', 'data': {'categories': ['#agents', '#agi', '#multimodal', '#robotics', '#optimization', '#benchmark', '#games'], 'emoji': '🤖', 'ru': {'title': 'Инновационная модель для управления роботами', 'desc': 'Статья описывает модель InternVLA-A1.5, которая объединяет предобученные модели обработки изображений и текста с предсказанием будущего для эффективного управления роботами. Она сохраняет семантику и обеспечивает возможность длительного выполнения задач. Модель использует легкий унифицированный эксперт для генерации непрерывных действий и переопределяет предсказание будущего как задачу латентного запроса. В результате, InternVLA-A1.5 демонстрирует лучшие результаты на шести симуляционных тестах и обеспечивает надежную обобщающую способность в реальном мире.'}, 'en': {'title': 'Efficient Robot Manipulation with Semantic Preservation', 'desc': 'InternVLA-A1.5 combines pretrained vision-language models with future prediction to enhance robot manipulation while maintaining semantic understanding. It utilizes a unified policy that integrates semantic knowledge from pretrained models and physical dynamics learned through future predictions. By treating future prediction as a latent-querying problem, it efficiently condenses relevant future information into a compact latent code, leveraging pretrained video generation dynamics without pixel-level learning. This approach results in superior performance across simulation benchmarks and strong generalization in real-world tasks.'}}}, {'id': 'https://huggingface.co/papers/2607.04605', 'title': 'Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval', 'url': 'https://huggingface.co/papers/2607.04605', 'abstract': 'Abstract Object-aware token merging framework SaMer compresses image-side tokens while preserving query-selectable visual evidence, achieving significant storage reduction and improved retrieval performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Multi-vector vision-language retrieval preserves fine-grained visual evidence through maximum-similarity late interaction, but dense image-side tokens make storage and scoring expensive. Existing token compression methods reduce this cost, yet they can remove or collapse object- and region-level evidence that future query tokens may need to select. We propose SaMer, an object-aware token merging framework that compresses image-side post-projector tokens into K representative centroids while preserving the original late-interaction interface. SaMer uses object annotations only during training as a merge prior to discourage cross-instance mixing, requires no ground-truth bounding boxes or detectors at inference time, and adapts only the shared projection layer with frozen vision and language backbones. With K=64, SaMer removes more than 93% of image-side tokens and reduces ColPali storage by 16.09times, while improving R@1 on Flickr30K and MSCOCO. These gains arise because object-aware merging preserves query-selectable object evidence that pruning or feature-only pooling can remove or collapse. SaMer also outperforms compression baselines and shows stronger phrase-level grounding, suggesting that efficient multi-vector retrieval depends not only on reducing token count, but on preserving the evidence future query tokens need to select.', 'score': 14, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': 'fb8c08df9018d651', 'github_url': '', 'github_stars': 0, 'authors': ['Suhyeong Park', 'Junha Jung', 'Jungwoo Park', 'Jaewoo Kang'], 'affiliations': ['AIGEN Sciences Inc.', 'Korea University', 'The Catholic University of Korea'], 'pdf_title_img': 'assets/pdf/title_img/2607.04605.jpg', 'data': {'categories': ['#compression', '#retrieval'], 'emoji': '🖼️', 'ru': {'title': 'Эффективное сжатие токенов с сохранением визуальных доказательств', 'desc': 'В статье представлен метод SaMer, который сжимает токены на стороне изображения, сохраняя визуальные доказательства, доступные для выбора запросами. Этот подход значительно уменьшает объем хранимых данных и улучшает производительность поиска. Метод использует аннотации объектов только на этапе обучения, что предотвращает смешивание экземпляров, и не требует использования граунд-трастовых ограничений при inference. SaMer позволяет удалить более 93% токенов, улучшая качество поиска на таких датасетах, как Flickr30K и MSCOCO.'}, 'en': {'title': 'Efficient Token Compression with Object Awareness', 'desc': 'The paper introduces SaMer, an object-aware token merging framework designed to compress image-side tokens while maintaining essential visual evidence for queries. This method significantly reduces storage requirements and enhances retrieval performance by merging tokens into representative centroids without losing critical object information. SaMer operates with object annotations only during training, allowing it to function without ground-truth bounding boxes during inference. The results demonstrate that SaMer not only decreases the number of tokens but also improves the accuracy of phrase-level grounding in vision-language tasks.'}}}, {'id': 'https://huggingface.co/papers/2607.05061', 'title': 'KVpop -- Key-Value Cache Compression with Predictive Online Pruning', 'url': 'https://huggingface.co/papers/2607.05061', 'abstract': 'Abstract KVpop learns optimal key-value cache eviction by directly supervising keep-or-drop decisions using future-attention targets, achieving high performance with reduced memory usage.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Key-value (KV) cache growth is a major bottleneck in autoregressive decoding, as memory and bandwidth scale linearly with context length. Existing KV eviction methods often rely on static heuristics or proxy scores, which poorly track future token utility and cause brittle eviction as relevance shifts. To address this, we introduce KVpop, which learns a fixed-budget KV eviction policy by directly supervising the keep-or-drop decision. The scorer is trained against a novel future-attention target, computed efficiently without materializing dense attention maps. We further introduce a delayed memory-based scorer that, uniquely among learned eviction methods, defers scoring for a fixed number of steps to exploit near-future context. On AIME and HMMT mathematical reasoning, KVpop retains 98% of full-attention performance on Qwen3-4B at 75% KV cache compression and 97% at 88% compression, consistently outperforming established eviction baselines. Qwen3-8B shows even stronger results, reaching near-full teacher performance. These results show that supervising eviction with future-attention signals cuts memory costs while maintaining quality.', 'score': 13, 'issue_id': 2777, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '381ad61d6cbba1b2', 'github_url': '', 'github_stars': 0, 'authors': ['Lukas Hauzenberger', 'Niklas Schmidinger', 'Anamaria-Roberta Hartl', 'David Stap', 'Thomas Schmied', 'Sebastian Böck', 'Günter Klambauer', 'Sepp Hochreiter'], 'affiliations': ['Johannes Kepler University Linz, Austria', 'NXAI'], 'pdf_title_img': 'assets/pdf/title_img/2607.05061.jpg', 'data': {'categories': ['#memory', '#optimization', '#inference', '#compression'], 'emoji': '🔑', 'ru': {'title': 'Оптимизация кэша ключ-значение для повышения производительности', 'desc': 'Статья посвящена новому методу оптимизации эвакуации кэш-памяти ключ-значение (KV) в задачах автогрессивного декодирования. Метод под названием KVpop обучается на основе будущих целевых показателей, что позволяет лучше предсказывать необходимость хранения или удаления токенов. В отличие от существующих статических методов, KVpop показывает высокую производительность при значительной экономии памяти, сохраняя до 98% качества при сжатии кэша на 75%. Это делает его эффективным решением для задач, связанных с обработкой больших объемов данных.'}, 'en': {'title': 'Optimizing Cache Eviction with Future-Attention', 'desc': 'The paper introduces KVpop, a method for optimizing key-value cache eviction in machine learning models. It directly supervises decisions on whether to keep or drop cache entries using future-attention targets, which helps improve performance while reducing memory usage. Unlike traditional methods that rely on static heuristics, KVpop adapts to changes in token relevance by learning from future context. The results demonstrate that KVpop can maintain high performance even with significant cache compression, outperforming existing eviction strategies.'}}}, {'id': 'https://huggingface.co/papers/2607.04428', 'title': 'dOPSD: On-Policy Self-Distillation for Diffusion Language Models', 'url': 'https://huggingface.co/papers/2607.04428', 'abstract': "Abstract Diffusion large language models face challenges in reasoning enhancement through post-training, but a novel on-policy self-distillation method using internal denoising trajectories improves mathematical reasoning and code generation performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Diffusion large language models (dLLMs) generate text by iteratively denoising a masked sequence, offering a parallel alternative to autoregressive models, but eliciting strong reasoning through post-training remains difficult: supervised fine-tuning is off-policy and suffers from exposure bias, while reinforcement learning gives only sparse, sequence-level rewards and is hard to apply without tractable sequence likelihoods. On-policy self-distillation (OPSD) offers a promising alternative, using one model as both student and teacher to provide dense, token-level, on-policy supervision, but its effectiveness hinges on giving the teacher privileged information (PI) - typically an instance-specific ground-truth reference unavailable at inference - so the student ends up distilling a weak PI-free consensus policy that yields little improvement on dLLM reasoning. We introduce dOPSD, which instead derives the teacher's privilege directly from the student's own denoising trajectory, evaluating masked positions using later, more-decoded steps of that same trajectory rather than an external label, so the teacher's advantage emerges from the model's own decoding process; on Dream and LLaDA, dOPSD improves both in-domain math reasoning and out-of-domain code generation, outperforming supervised and on-policy baselines.", 'score': 12, 'issue_id': 2776, 'pub_date': '2026-07-05', 'pub_date_card': {'ru': '5 июля', 'en': 'July 5', 'zh': '7月5日'}, 'hash': 'edf1485217fa46f3', 'github_url': '', 'github_stars': 0, 'authors': ['Phuong Tuan Dat', 'Qi Li', 'Xinchao Wang'], 'affiliations': ['National University of Singapore'], 'pdf_title_img': 'assets/pdf/title_img/2607.04428.jpg', 'data': {'categories': ['#reasoning', '#training', '#math', '#rl', '#optimization', '#diffusion'], 'emoji': '💡', 'ru': {'title': 'Новый подход к самодистилляции для улучшения reasoning в языковых моделях', 'desc': 'В работе предложен новый метод самодистилляции под названием dOPSD, который улучшает способность больших языковых моделей к математическому рассуждению и генерации кода. Этот метод использует внутренние траектории денойзинга, позволяя модели черпать информацию из собственных результатов. В отличие от традиционных методов, dOPSD обеспечивает более плотный уровень супервизии, что способствует улучшению качества выводов. Полученные результаты показывают значительное превосходство над существующими методами, такими как управляемая дополнительная настройка.'}, 'en': {'title': 'Empowering dLLMs with Self-Distillation for Better Reasoning', 'desc': "This paper presents a new method called dOPSD that enhances reasoning in diffusion large language models (dLLMs) through on-policy self-distillation. Unlike traditional methods that rely on external labels, dOPSD uses the model's own denoising trajectory to provide supervision, allowing it to learn from its own decoding process. This approach helps improve mathematical reasoning and code generation performance by leveraging token-level feedback. The results show that dOPSD outperforms existing supervised and on-policy methods in various tasks."}}}, {'id': 'https://huggingface.co/papers/2607.05352', 'title': 'Multiplayer Interactive World Models with Representation Autoencoders', 'url': 'https://huggingface.co/papers/2607.05352', 'abstract': "Abstract A large-scale multiplayer world model trained on extensive gameplay data demonstrates stable long-horizon rollouts in a complex physics-based environment while maintaining coherence across multiple agents' actions.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We introduce the first multiplayer world model for highly dynamic environments governed by complex physical interactions. Whereas single-player world models treat the other agents as part of the environment, ours conditions on the action streams of multiple agents, learning to attribute changes in the scene to the correct player and to stay coherent under arbitrary combinations of their actions. We study this problem in the game of Rocket League, where players compete and cooperate under fast, tightly coupled dynamics. Trained on 10,000 hours of gameplay collected with publicly available bots, our 5-billion-parameter latent diffusion model generates four-player matches in real time, producing 20 frames per second on a single Nvidia B200 GPU. Although trained only on short clips, its rollouts stay stable far beyond the training horizon: distributional quality holds steady out to five minutes, the longest horizon we measure, and in practice we observe rollouts continuing for hours with no sign of collapse. We systematically investigate the central design choices: the video codec, the generative objective, and the multiplayer conditioning scheme. In addition, we characterize how behavior changes with model and data scale, including the capabilities that emerge and the failure modes that persist. We further develop targeted evaluations that probe the model's physical understanding rather than visual appearance alone. To support continued research on multiplayer world models, we release our dataset, our full training and inference codebase, and a live demo.", 'score': 11, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '760f7398ee64af0f', 'github_url': '', 'github_stars': 0, 'authors': ['Anthony Hu', 'Václav Volhejn', 'Adrien Ramanana Rahary', 'Chris Mulder', 'Aditya Makkar', 'Amélie Royer', 'Manu Orsini', 'Alyx Liao', 'Adam Jelley', 'Eloi Alonso', 'Florian Laurent', 'Fredrik Norén', 'James Swingos', 'Jan Hünermann', 'Kent Rollins', 'Lucas Hosseini', 'Matthieu Le Cauchois', 'Maxim Peter', 'Pim de Witte', 'Tim Brown', 'Vincent Micheli', 'Moritz Böhle', 'Gabriel de Marmiesse', 'Viktoriia Sharmanska', 'Lucia Specia', 'Michael Black', 'Patrick Pérez'], 'affiliations': ['Epic Games'], 'pdf_title_img': 'assets/pdf/title_img/2607.05352.jpg', 'data': {'categories': ['#agents', '#training', '#rl', '#open_source', '#diffusion', '#games', '#dataset'], 'emoji': '⚽', 'ru': {'title': 'Инновационная мультиплеерная модель мира для динамических игр', 'desc': 'В данной статье представлен новый мультиплеерный мир модель, обученная на большом объеме игровых данных, которая демонстрирует стабильные долгосрочные результаты в сложной физической среде. Эта модель учитывает действия нескольких агентов и обеспечивает согласованность их взаимодействий. Исследование проводилось на примере игры Rocket League, где игроки соревнуются и сотрудничают. Модель способна генерировать матчи в реальном времени с высоким качеством и стабильностью, даже при долгосрочных интервалах.'}, 'en': {'title': 'Revolutionizing Multiplayer Dynamics with Stable World Models', 'desc': 'This paper presents a novel multiplayer world model designed for dynamic environments with complex physics, specifically applied to the game Rocket League. Unlike traditional single-player models, this approach conditions on the actions of multiple agents, allowing for coherent interactions and scene changes attributed to the correct player. The model, trained on extensive gameplay data, demonstrates impressive stability in long-horizon rollouts, maintaining quality for up to five minutes and even longer in practice. The authors also explore key design choices and provide resources for further research in multiplayer world modeling.'}}}, {'id': 'https://huggingface.co/papers/2607.03524', 'title': 'Perceptual Flow Matching for Few-Step Generative Modeling', 'url': 'https://huggingface.co/papers/2607.03524', 'abstract': 'Abstract Perceptual Flow Matching enables efficient few-step generation by supervising flow matching in perceptual feature space, achieving high-quality results with reduced sampling steps and improved accuracy.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We propose Perceptual Flow Matching (PFM), a simple yet effective framework for few-step generation in flow-matching models. Rather than performing velocity regression in the conventional VAE latent space, PFM supervises flow matching in a perceptual feature space using pretrained perceptual models. This simple change substantially improves the few-step generation capability of flow-matching models, reducing the number of sampling steps from 35-50 to 4-8 while preserving generation quality. Unlike existing acceleration and distillation approaches, PFM requires neither teacher models nor auxiliary score networks and can be integrated into standard flow-matching training pipelines with minimal modifications. Extensive experiments on image generation, video generation, and image editing tasks demonstrate that PFM consistently produces high-quality results while producing fewer artifacts than existing distillation-based methods. We further show that perceptual supervision shifts the regression minimizer from mean-seeking to mode-seeking, biasing predictions toward on-manifold modes that remain accurate under coarse few-step integration. Our results reveal that standard flow-matching training can naturally yield high-quality few-step generators when supervised in an appropriate representation space. We hope this insight inspires future research into representation-aware objectives for efficient generative modeling.', 'score': 9, 'issue_id': 2777, 'pub_date': '2026-07-03', 'pub_date_card': {'ru': '3 июля', 'en': 'July 3', 'zh': '7月3日'}, 'hash': 'e0ff177c9273fc67', 'github_url': '', 'github_stars': 0, 'authors': ['Chuyang Zhao', 'Yifei Song', 'Hongfa Wang', 'Jianlong Yuan', 'Yuan Zhang', 'Siming Fu', 'Zhineng Chen', 'Huilin Deng', 'Haoyang Huang', 'Nan Duan'], 'affiliations': ['Fudan University', 'Joy Future Academy', 'Tsinghua University', 'USTC'], 'pdf_title_img': 'assets/pdf/title_img/2607.03524.jpg', 'data': {'categories': ['#training', '#optimization', '#diffusion', '#dataset'], 'emoji': '✨', 'ru': {'title': 'Эффективная генерация с минимальными шагами', 'desc': 'Метод Perceptual Flow Matching (PFM) представляет собой простой и эффективный подход для генерации с небольшим количеством шагов в моделях соответствия потока. Вместо традиционной регрессии скорости в латентном пространстве VAE, PFM использует предварительно обученные перцептивные модели для управления соответствием потока в пространстве перцептивных признаков. Это значительно улучшает возможности генерации за счет уменьшения количества шагов от 35-50 до 4-8 при сохранении качества. Метод не требует учительских моделей и может быть интегрирован в стандартные тренировочные конвейеры с минимальными изменениями.'}, 'en': {'title': 'Efficient Few-Step Generation with Perceptual Flow Matching', 'desc': 'Perceptual Flow Matching (PFM) is a new framework that enhances few-step generation in flow-matching models by supervising flow matching in a perceptual feature space. This approach allows for a significant reduction in sampling steps from 35-50 down to just 4-8, while still maintaining high-quality outputs. Unlike traditional methods that rely on teacher models or auxiliary networks, PFM integrates easily into existing training pipelines with minimal changes. Experiments show that PFM not only produces fewer artifacts but also improves the accuracy of generated content across various tasks like image and video generation.'}}}, {'id': 'https://huggingface.co/papers/2607.00597', 'title': 'Multi-Turn Agentic Scientific Literature Search via Workflow Induction', 'url': 'https://huggingface.co/papers/2607.00597', 'abstract': "Abstract paper pilot is a multi-turn literature search agent that uses executable workflows to improve search accuracy and reduce errors by incorporating user feedback and controlled workflow corruption training.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scientific literature search often requires more than retrieving papers from a single query: users' intents are underspecified, preference-dependent, and evolve through interaction. Existing search agents typically rely on fixed pipelines or implicit language-only reasoning, making their search strategies difficult to control, inspect, and refine. We introduce PaperPilot, a multi-turn literature search agent that frames scientific search as workflow induction. Given an anchor paper and a user query, PaperPilot constructs an executable DAG of paper-search operators, including keyword search, citation expansion, filtering, scoring, reranking, and evidence extraction. User feedback is then used to refine both the query and the workflow itself. We train PaperPilot with supervised workflow imitation and preference optimization over controlled workflow corruptions. Experiments show that PaperPilot-9B improves over the base Qwen3.5-9B toolset agent under multi-turn interaction, increasing Hit@5 from 58.0 to 77.0, MRR from 47.5 to 59.4, and nDCG@10 from 26.8 to 32.5, while reducing workflow execution errors from 9.5% to 0%. These results show that explicit, editable search workflows provide an effective and controllable interface for aligning literature search agents with complex scientific intent.", 'score': 9, 'issue_id': 2777, 'pub_date': '2026-07-01', 'pub_date_card': {'ru': '1 июля', 'en': 'July 1', 'zh': '7月1日'}, 'hash': 'b4671cb330b88c52', 'github_url': '', 'github_stars': 0, 'authors': ['Jisen Li', 'Bingxuan Li', 'Nanyi Jiang', 'Xuying Ning', 'Xiyao Wang', 'Yifan Shen', 'Heng Wang', 'Yuqing Jian', 'Xiaoxia Wu', 'Ben Athiwaratkun', 'Pan Lu', 'Jiaxuan You', 'Bingxin Zhao'], 'affiliations': ['Stanford University', 'Together AI', 'University of Illinois Urbana-Champaign', 'University of Pennsylvania'], 'pdf_title_img': 'assets/pdf/title_img/2607.00597.jpg', 'data': {'categories': ['#science', '#agent_memory', '#agents', '#training', '#rlhf', '#optimization', '#retrieval'], 'emoji': '📚', 'ru': {'title': 'PaperPilot: Инновационный поиск научной литературы', 'desc': 'Статья описывает PaperPilot — многоходового агента для поиска научной литературы, который использует исполняемые рабочие процессы для повышения точности поиска. Он учитывает обратную связь от пользователей и обучается с помощью оптимизации предпочтений. PaperPilot строит направленный ациклический граф, включающий операции поиска, фильтрации и извлечения данных, что позволяет адаптировать поиск под меняющиеся намерения пользователей. Эксперименты показали значительное улучшение результатов поиска и сокращение ошибок выполнения рабочих процессов.'}, 'en': {'title': 'Enhancing Scientific Search with Interactive Workflows', 'desc': 'PaperPilot is a multi-turn literature search agent designed to enhance the accuracy of scientific searches by using executable workflows. It addresses the challenge of evolving user intents by allowing for interactive feedback and controlled training of search strategies. By constructing a directed acyclic graph (DAG) of search operations, it enables users to refine their queries and workflows effectively. Experiments demonstrate significant improvements in search performance metrics while minimizing execution errors, showcasing the benefits of a structured and editable search approach.'}}}, {'id': 'https://huggingface.co/papers/2607.05155', 'title': 'EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments', 'url': 'https://huggingface.co/papers/2607.05155', 'abstract': 'Abstract Analysis of 38,000 hours of real-world agent interactions reveals log-sigmoid scaling laws for performance and exponential learning speed improvements across 134 diverse tasks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Pretraining scaling laws reveal that model capability improves predictably with data and compute. But learning from real world environments after deployment remains far less understood. Analyzing roughly 38,000 hours of agent interaction with the environment across 134 real world tasks, we find, to the best of our knowledge, the first evidence that overall performance during environment learning follows a log-sigmoid scaling law with remarkably high precision, reaching R^2 = 0.998. Across model generations, we also find that agent learning speed roughly doubles every three months. This discovery stems from EdgeBench, a suite of 134 real world tasks with ultra-long horizons, spanning scientific discovery, software engineering, combinatorial optimization, professional knowledge work, formal mathematics, and interactive games. Each task sustains at least 12 hours of continuous agent operation under rich, multilevel feedback, and is built through substantial expert effort. We publicly release 51 tasks and our full evaluation framework to accelerate the study of how agents learn from real world experience.', 'score': 8, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '6e1a4655107681ee', 'github_url': '', 'github_stars': 0, 'authors': ['Deyao Zhu', 'Xin Zhou', 'Shengling Qin', 'Xuekai Zhu', 'Hangliang Ding', 'Shu Zhong', 'Zixin Wen', 'Zhonglin Xie', 'Chenhui Gou', 'Linxuan Ren', 'Yueyang Wang', 'Junfeng Zhong', 'Rui Liu', 'Tian Gao', 'Yangguang Lin', 'Jingyuan Zhang', 'Maojia Song', 'Xuan Qi', 'Jinhong Wu', 'Chenyang Zhang', 'Yinzhu Piao', 'Ziru Niu', 'Hongbin Lin', 'Lingxiang Meng', 'Peng Tang', 'Chengyao Tang', 'Shanyu Wu', 'Huanyu Zheng', 'Yu Liu', 'Liya Zhu', 'He Wang', 'Ming Ding', 'Ziyu Wan', 'Hao Liu', 'Sibo Wang', 'Haotian Zhu', 'Xintian Zhang', 'Nan Chai', 'Yipeng Liu', 'Panhao Lai', 'Sihang Yuan', 'Zixin Su', 'Ge Zhang', 'Wangchunshu Zhou', 'Yantao Du', 'Wenhao Huang', 'Guang Shi'], 'affiliations': [], 'pdf_title_img': 'assets/pdf/title_img/2607.05155.jpg', 'data': {'categories': ['#agents', '#continual_learning', '#training', '#open_source', '#agent_memory', '#benchmark', '#optimization', '#games', '#dataset'], 'emoji': '📈', 'ru': {'title': 'Лог-сигмоидальное масштабирование производительности агентов в реальном мире', 'desc': 'В данной статье исследуется влияние взаимодействия агентов с реальным миром на их производительность и скорость обучения. Анализ 38 000 часов взаимодействий показываeт, что производительность агентов следует лог-сигмоидальному закону масштабирования. Установлено, что скорость обучения агентов удваивается примерно каждые три месяца. Также представлено 51 задание для ускорения изучения обучения агентов на реальном опыте.'}, 'en': {'title': 'Unlocking Agent Learning: Scaling Laws in Real-World Tasks', 'desc': 'This paper analyzes 38,000 hours of real-world agent interactions to uncover log-sigmoid scaling laws that describe performance improvements and exponential learning speed across 134 diverse tasks. The findings indicate that as models are exposed to more data and computational resources, their capabilities improve predictably. However, the process of learning from real-world environments post-deployment is still not well understood. The study introduces EdgeBench, a comprehensive evaluation framework that includes 51 publicly released tasks, facilitating further research into agent learning from real-world experiences.'}}}, {'id': 'https://huggingface.co/papers/2607.05391', 'title': 'LLM-as-a-Verifier: A General-Purpose Verification Framework', 'url': 'https://huggingface.co/papers/2607.05391', 'abstract': "Abstract LLM-as-a-Verifier introduces a probabilistic verification framework that scales across multiple dimensions to improve solution correctness assessment and agent performance across various benchmarks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that prompt LLMs to produce discrete scores for candidate solutions, LLM-as-a-Verifier computes the expectation over the distribution of scoring token logits to generate continuous scores. This probabilistic formulation enables verification to scale along multiple dimensions: (1) score granularity, (2) repeated evaluation, and (3) criteria decomposition. In particular, we show that scaling the scoring granularity leads to better separation between positive and negative solutions, resulting in more calibrated comparisons. Moreover, scaling repeated evaluation and criteria decomposition consistently lead to additional gains in verification accuracy through variance and complexity reduction. We further introduce a cost-efficient ranking algorithm for selecting the best solution among candidates using the verifier's continuous scores. LLM-as-a-Verifier achieves state-of-the-art performance on Terminal-Bench V2 (86.5%), SWE-Bench Verified (78.2%), RoboRewardBench (87.4%), and MedAgentBench (73.3%). Beyond verification, the fine-grained signals from LLM-as-a-Verifier can also serve as a proxy for estimating task progress. We build an extension for Claude Code, enabling developers to monitor and improve their own agentic systems. Finally, we show that LLM-as-a-Verifier can provide dense feedback for RL, improving the sample efficiency of SAC and GRPO on robotics and mathematical reasoning benchmarks.", 'score': 8, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '5111f1e8e7c4d04e', 'github_url': '', 'github_stars': 0, 'authors': ['Jacky Kwok', 'Shulu Li', 'Pranav Atreya', 'Yuejiang Liu', 'Yixing Jiang', 'Chelsea Finn', 'Marco Pavone', 'Ion Stoica', 'Azalia Mirhoseini'], 'affiliations': ['NVIDIA Research', 'Stanford University', 'UC Berkeley'], 'pdf_title_img': 'assets/pdf/title_img/2607.05391.jpg', 'data': {'categories': ['#agents', '#reasoning', '#robotics', '#training', '#math', '#rl', '#agent_memory', '#benchmark', '#optimization'], 'emoji': '🔍', 'ru': {'title': 'Новый подход к проверке решений с помощью LLM', 'desc': 'Статья представляет новый метод проверки решений с использованием LLM как проверяющего инструмента. Этот подход позволяет более точно оценивать корректность результатов, предоставляя непрерывные оценки вместо дискретных. Авторы утверждают, что улучшение градации оценок и многократные проверки способствуют повышению точности верификации. В результате, LLM-as-a-Verifier достигает высоких показателей в различных бенчмарках, демонстрируя свою эффективность.'}, 'en': {'title': 'Enhancing Solution Verification with LLM-as-a-Verifier', 'desc': 'The paper presents LLM-as-a-Verifier, a new framework for verifying the correctness of solutions generated by language models. It introduces a probabilistic approach that allows for fine-grained feedback without needing extra training. This method enhances the evaluation process by providing continuous scores instead of discrete ones, improving the distinction between correct and incorrect solutions. The framework demonstrates state-of-the-art performance across various benchmarks and offers insights for monitoring agentic systems and improving reinforcement learning efficiency.'}}}, {'id': 'https://huggingface.co/papers/2607.05376', 'title': 'MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing', 'url': 'https://huggingface.co/papers/2607.05376', 'abstract': "Abstract A video diffusion framework generates long, multi-view consistent videos by combining temporal and view-wise autoregression through 4D geometric bridging and spatio-temporal distillation techniques.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recent advances in video diffusion models have enabled either long single-view generation through temporal autoregression, or short multi-view synthesis through bidirectional attention. However, generating long, multi-view consistent videos of dynamic scenes remains unsolved. In this work, we present MV-Forcing, a framework that composes temporal and view-wise autoregression within a single diffusion model by introducing a 4D geometric bridge between sequentially generated views. Our key insight is that an autoregressive 3D reconstruction model naturally interfaces between autoregressively generated views. Given a completed source view, we reconstruct its 3D structure and render a geometric prior of the next target viewpoint, which the diffusion model refines into a high-quality video. To extend generation beyond the teacher's fixed temporal window, we introduce a joint denoising regime where both view slots are initialized from noise during training, enabling temporally unbounded generation. We distill the model via Distribution Matching Distillation with Spatio-Temporal Self-Forcing, closing the train-inference exposure bias gap for both temporal and view-sequential autoregression. Extensive experiments on both synthetic and real-world data demonstrate that MV-Forcing produces geometrically consistent multi-view videos of dynamic scenes at arbitrary lengths and viewpoint counts using a single few-step student model.", 'score': 5, 'issue_id': 2777, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '124ec50a116d5a2d', 'github_url': '', 'github_stars': 0, 'authors': ['Gal Fiebelman', 'Hadar Averbuch-Elor', 'Sagie Benaim'], 'affiliations': ['Cornell University', 'The Hebrew University of Jerusalem'], 'pdf_title_img': 'assets/pdf/title_img/2607.05376.jpg', 'data': {'categories': ['#diffusion', '#multimodal', '#3d'], 'emoji': '🎥', 'ru': {'title': 'Создание длинных многоватных видео с помощью авторегрессии', 'desc': 'В данной статье представлено новое решение для создания длинных многоватных видео с учетом временной и пространственной согласованности. Предложенная модель MV-Forcing использует 4D геометрический мост для улучшения качества видео, комбинируя авторегрессию по времени и по видам. Основным достижением является возможность генерации видео без фиксированного временного окна, что позволяет создавать видео любой длины и количества ракурсов. Эксперименты показывают, что MV-Forcing генерирует геометрически согласованные многоватные видео динамичных сцен с высоким качеством.'}, 'en': {'title': 'Generating Long, Consistent Multi-View Videos with MV-Forcing', 'desc': 'This paper introduces MV-Forcing, a novel video diffusion framework that generates long, multi-view consistent videos by integrating temporal and view-wise autoregression. It employs a 4D geometric bridge to connect sequentially generated views, allowing for the reconstruction of 3D structures from completed source views. The framework also features a joint denoising regime that enables the generation of videos beyond fixed temporal windows. Through extensive experiments, MV-Forcing demonstrates the ability to produce high-quality, geometrically consistent videos of dynamic scenes across various lengths and viewpoints using a single model.'}}}, {'id': 'https://huggingface.co/papers/2607.01764', 'title': 'Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction', 'url': 'https://huggingface.co/papers/2607.01764', 'abstract': 'Abstract A dual-loop framework named Mastermind is introduced that separates strategy learning from task-specific experience to improve vulnerability reproduction capabilities in software engineering agents.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Repository-level vulnerability reproduction is a demanding software engineering (SE) task: an agent must inspect a codebase, infer the input grammar that reaches a vulnerable path, construct a proof-of-conceptv(PoC), and verify that the crash disappears on the patched build. Recent LLM agents can often execute these steps when the approach is correct, yet they still fail by choosing the wrong strategy. This paper argues that strategy, rather than the full action trajectory, is the right learning unit for such SE agents: it is compact enough to optimize, concrete enough to guide execution, and stable enough to store and reuse across attempts. We present Mastermind, a dual-loop framework that separates transferable strategy learning from task-specific experience. A trainable planner learns reusable vulnerability-reproduction strategies through SFT and milestone-based GRPO, while an experience loop maintains task-local strategy records that guide subsequent attempts. The planner is trained independently of the executor, allowing strategy learning to improve multiple frozen executors without modifying their action-generation capability. We evaluate Mastermind on CyberGym using 260 training tasks and 200 held-out evaluation tasks. With GPT-5.5 as the frozen executor, Mastermind achieves an 84.5% pass rate, outperforming open-book PoC context (60.0%), Best-of-8 sampling (63.0%), and iterative improvement (77.0%). The same planner also improves GPT-5.4 mini and GLM~5.1 from 45.0% and 58.5% to 60.0% and 71.0%. These results demonstrate that learning high-level strategies is an effective and transferable mechanism for improving repository-scale SE agents.', 'score': 5, 'issue_id': 2775, 'pub_date': '2026-07-02', 'pub_date_card': {'ru': '2 июля', 'en': 'July 2', 'zh': '7月2日'}, 'hash': '4b51db410895bce4', 'github_url': '', 'github_stars': 0, 'authors': ['Mingzhe Du', 'Luu Anh Tuan', 'Tianyi Wu', 'Renyang Liu', 'Zhijiang Guo', 'Dong Huang', 'See-Kiong Ng'], 'affiliations': ['Nanyang Technological University', 'National University of Singapore', 'The Hong Kong University of Science and Technology (Guangzhou)'], 'pdf_title_img': 'assets/pdf/title_img/2607.01764.jpg', 'data': {'categories': ['#training', '#optimization', '#transfer_learning', '#agents'], 'emoji': '🛠️', 'ru': {'title': 'Mastermind: стратегическое обучение для улучшения воспроизводимости уязвимостей', 'desc': 'В статье представлена двухконтурная структура под названием Mastermind, которая отделяет обучение стратегий от специфического опыта задач для улучшения способности воспроизводить уязвимости в программной инженерии. Агентам необходимо анализировать код, выявлять грамматику ввода для уязвимого пути, создавать доказательства концепции и проверять исправления. Mastermind обучает планировщика, который разрабатывает переиспользуемые стратегии воспроизведения уязвимостей, в то время как локальный цикл опыта поддерживает записи стратегий для последующих попыток. Результаты показывают, что изучение высокоуровневых стратегий эффективно улучшает работу агентов программной инженерии на уровне репозитория.'}, 'en': {'title': 'Mastermind: Elevating Software Agents with Strategic Learning', 'desc': 'The paper introduces Mastermind, a dual-loop framework designed to enhance the ability of software engineering agents to reproduce vulnerabilities. It emphasizes the importance of learning strategies separately from task-specific experiences, allowing agents to optimize their approach to vulnerability reproduction. By using a trainable planner for strategy learning and an experience loop for task-specific records, Mastermind enables agents to improve their performance without altering their action generation. The framework shows significant improvements in pass rates for vulnerability reproduction tasks, demonstrating the effectiveness of high-level strategy learning in software engineering.'}}}, {'id': 'https://huggingface.co/papers/2607.05196', 'title': 'Unified Audio Intelligence Without Regressing on Text Intelligence', 'url': 'https://huggingface.co/papers/2607.05196', 'abstract': 'Abstract A unified audio-text large language model is presented that integrates audio and text processing through a shared transformer decoder, achieving superior performance across multiple audio and speech tasks while maintaining strong text reasoning capabilities.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Audio intelligence involves understanding, reasoning about, and generating both audio and speech. In this work, we introduce Nemotron-Labs-Audex-30B-A3B (Audex), a unified audio-text LLM built on Nemotron-Cascade-2-30B-A3B, a strong text-only MoE LLM. Audex adopts a simple unified design with a single Transformer decoder: audio inputs are encoded and projected into the text embedding space, while text tokens and quantized audio output tokens are treated uniformly during generation. This architecture enables strong audio-text fusion, seamless multimodal generation, and compatibility with standard LLM training and inference infrastructure. For training, we meticulously curate audio-text datasets comprising 157.4B audio tokens and 320.5B text tokens. We apply multi-stage supervised training on these datasets, followed by text-only Cascade RL and multi-domain on-policy distillation. Audex delivers state-of-the-art audio understanding, speech recognition and translation, text-to-speech, audio generation, and speech-to-speech generation, while preserving very compelling reasoning, alignment, knowledge, long-context, and agentic capabilities of its text-only LLM backbone with marginal or no regression. We release the model checkpoints to facilitate open research.', 'score': 4, 'issue_id': 2778, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '81cd8d134b29dcd2', 'github_url': '', 'github_stars': 0, 'authors': ['Zhifeng Kong', 'Sang-gil Lee', 'Jaehyeon Kim', 'Boxin Wang', 'Zihan Liu', 'Sungwon Kim', 'Yang Chen', 'Arushi Goel', 'Rajarshi Roy', 'Wenliang Dai', 'Zhuolin Yang', 'Yangyi Chen', 'Dongfu Jiang', 'Sreyan Ghosh', 'Tuomas Rintamaki', 'Andrew Tao', 'Jonathan Raiman', 'Mohammad Shoeybi', 'Bryan Catanzaro', 'Wei Ping'], 'affiliations': ['NVIDIA'], 'pdf_title_img': 'assets/pdf/title_img/2607.05196.jpg', 'data': {'categories': ['#audio', '#training', '#open_source', '#multimodal', '#alignment', '#games', '#dataset', '#long_context', '#agi'], 'emoji': '🎤', 'ru': {'title': 'Унифицированная модель для аудио и текста', 'desc': 'Представлена унифицированная модель, которая обрабатывает как аудио, так и текст, используя один трансформер-декодер. Модель достигает выдающихся результатов в задачах с аудио и речью, сохраняя при этом высокие способности к текстовому анализу. Audex использует простой дизайн и интегрирует аудио и текст на одном уровне, что позволяет обеспечивать сильное слияние модальностей. В процессе обучения использовались обширные наборы данных, что позволило добиться современных результатов в аудиообработке, распознавании речи и генерации аудио.'}, 'en': {'title': 'Unifying Audio and Text for Superior AI Performance', 'desc': 'This paper presents Audex, a unified audio-text large language model that effectively combines audio and text processing using a shared transformer decoder. By encoding audio inputs into the text embedding space, Audex achieves strong performance in various audio and speech tasks while maintaining robust text reasoning abilities. The model is trained on a vast dataset of audio and text tokens, employing multi-stage supervised training and reinforcement learning techniques. Audex excels in tasks such as speech recognition, audio generation, and translation, all while preserving the advanced capabilities of its text-only LLM foundation.'}}}, {'id': 'https://huggingface.co/papers/2607.01793', 'title': 'Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification', 'url': 'https://huggingface.co/papers/2607.01793', 'abstract': 'Abstract Automated safety testing framework Vera uses a three-stage pipeline to identify and test safety risks in LLM agents through structured risk taxonomies, combinatorial case generation, and adaptive sandbox execution with evidence-based verification.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and the corresponding outcomes are evaluated by hard-coded rules, making them costly to extend as agents evolve. To this end, we present Vera, an end-to-end automated safety testing framework that instantiates software engineering testing principles for non-deterministic agents through a three-stage, self-reinforcing pipeline. First, a literature-driven exploration continuously discovers and structures emerging risks into taxonomies of safety risks, attack methods, and tool execution environments. Second, combinatorial composition across taxonomy dimensions produces executable safety cases, each specifying a concrete safety goal, a programmatically constructed initial state, and a deterministic verification predicate grounded in observable artifacts. Third, adaptive execution runs heterogeneous agents in isolated sandboxes where a control agent steers multi-turn interaction based on runtime observations, while evidence-grounded verifiers judge outcomes from environment state and tool-call evidence rather than model self-report. We evaluate Vera on four production agent frameworks (OpenClaw, Hermes, Codex, Claude Code), revealing substantial safety weaknesses, with average attack success rates reaching 93.9\\% under multi-channel attacks; we also release Vera-Bench, comprising 1600 executable safety cases spanning 124 risk categories across three execution settings. These results indicate that modular, executable testing infrastructure is essential for rigorous and maintainable safety evaluation of rapidly evolving agentic systems at scale. The code is publicly available at https://github.com/Yunhao-Feng/Vera.', 'score': 4, 'issue_id': 2775, 'pub_date': '2026-07-04', 'pub_date_card': {'ru': '4 июля', 'en': 'July 4', 'zh': '7月4日'}, 'hash': '505249af88025d1a', 'github_url': '', 'github_stars': 0, 'authors': ['Yunhao Feng', 'Ruixiao Lin', 'Ming Wen', 'Qinqin He', 'Yanming Guo', 'Yifan Ding', 'Yutao Wu', 'Jialuo Chen', 'Yunhao Chen', 'Xiaohu Du', 'Jianan Ma', 'Zixing Chen', 'Zhuoer Xu', 'Xingjun Ma', 'Xinhao Deng'], 'affiliations': ['Alibaba Group', 'AntGroup', 'Deakin University', 'Fudan University', 'Hunan Institute of Advanced Technology', 'Zhejiang University'], 'pdf_title_img': 'assets/pdf/title_img/2607.01793.jpg', 'data': {'categories': ['#agent_memory', '#dataset', '#benchmark', '#agents', '#security', '#open_source'], 'emoji': '🛡️', 'ru': {'title': 'Новая эра в тестировании безопасности LLM-агентов', 'desc': 'Автоматизированная система тестирования безопасности Vera использует трехступенчатый процесс для выявления и тестирования рисков безопасности в LLM-агентах. Эта система организует риски в таксономии и генерирует проверочные случаи через комбинаторные композиции. Vera позволяет оценивать нештатных агентов в изолированных песочницах, где контрольный агент направляет взаимодействие на основе наблюдений. Результаты работы показывают, что модульная и исполняемая инфраструктура тестирования необходима для масштабной и поддерживаемой оценки безопасности быстро развивающихся систем агентов.'}, 'en': {'title': 'Vera: A Dynamic Safety Testing Framework for LLM Agents', 'desc': 'The paper presents Vera, an automated safety testing framework designed to identify and mitigate safety risks in large language model (LLM) agents. It employs a three-stage pipeline that includes risk taxonomy structuring, combinatorial case generation, and adaptive sandbox execution for evidence-based verification. Unlike traditional methods that rely on hard-coded rules, Vera dynamically generates safety cases and evaluates outcomes based on real-time observations. The framework has been tested on various agent frameworks, revealing significant safety vulnerabilities and emphasizing the need for modular testing infrastructures in evolving agentic systems.'}}}, {'id': 'https://huggingface.co/papers/2607.02881', 'title': 'PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction', 'url': 'https://huggingface.co/papers/2607.02881', 'abstract': "Abstract Long-horizon behavior prediction is enhanced through PraMem, which transforms lengthy historical sequences into experiential memory for improved accuracy.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Long-horizon behavior prediction aims to infer a user's next action based on a lengthy historical sequence, playing a crucial role in artificial intelligence field. The rise of large language models (LLMs) offers a promising direction for sequential behavior prediction, yet LLMs struggle with latent behavioral pattern induction and model-intrinsic cognitive biases when tackling long-horizon behavior prediction. Prior memory management methods follow a context-compression paradigm that attempts to address this task by alleviating the historical sequence burden, yet fail to resolve the core challenges. In this paper, we advocate a paradigm shift that reframes the lengthy historical sequence from a burden into a valuable resource to be exploited, and accordingly propose PraMem, which conducts beforehand practice over the lengthy historical sequence to build an experiential memory, thereby serving as the assisted input for accurate long-horizon behavior prediction. Extensive experiments across diverse tasks demonstrate that PraMem achieves superior performance than prior methods, and more in-depth analyses provide valuable insights into the mechanism and evolution of the experiential memory. Code: https://github.com/icip-cas/PraMem.", 'score': 3, 'issue_id': 2775, 'pub_date': '2026-07-03', 'pub_date_card': {'ru': '3 июля', 'en': 'July 3', 'zh': '7月3日'}, 'hash': '87b59f9dd8112474', 'github_url': '', 'github_stars': 0, 'authors': ['Zhuoqun Li', 'Boxi Cao', 'Jiawei Chen', 'Hanshu Zhou', 'Ruoxi Xu', 'Guiping Jiang', 'Ruotong Pan', 'Tingting Gao', 'Han Li', 'Xiangyu Wu', 'Hongyu Lin', 'Yaojie Lu', 'Xianpei Han', 'Le Sun'], 'affiliations': ['Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences', 'Fudan University', 'Kuaishou Technology', 'University of Chinese Academy of Sciences'], 'pdf_title_img': 'assets/pdf/title_img/2607.02881.jpg', 'data': {'categories': ['#memory', '#training', '#long_context', '#agent_memory'], 'emoji': '🧠', 'ru': {'title': 'Опытная память для точного прогнозирования поведения', 'desc': 'В данной статье рассматривается метод PraMem, который улучшает прогнозирование долгосрочного поведения, преобразуя длинные исторические последовательности в опытную память. Этот подход позволяет использовать накопленный опыт для более точного предсказания следующего действия пользователя. Метод PraMem переосмысливает длительные последовательности как ценное ресурсное, а не бремя. Эксперименты показывают, что PraMem превосходит предыдущие методы в различных задачах.'}, 'en': {'title': 'Transforming History into Memory for Better Predictions', 'desc': 'This paper introduces PraMem, a novel approach for long-horizon behavior prediction that transforms lengthy historical sequences into experiential memory. By leveraging the capabilities of large language models (LLMs), PraMem addresses the challenges of latent behavioral pattern induction and cognitive biases that hinder traditional methods. Instead of compressing historical data, PraMem utilizes it as a valuable resource, enhancing prediction accuracy through prior practice on the sequences. Experimental results show that PraMem outperforms existing techniques, providing insights into the dynamics of experiential memory.'}}}, {'id': 'https://huggingface.co/papers/2602.11688', 'title': 'GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving', 'url': 'https://huggingface.co/papers/2602.11688', 'abstract': "Abstract GORGO is a proxy architecture that optimizes LLM inference load balancing by jointly considering network latency, prefill cost, and queueing delay through evolutionary strategy tuning on a new synthetic dataset.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Increasingly, LLM inference services proxy client requests to engine replicas distributed globally. Load-balancing policies must jointly account for factors including KV-cache locality, replica load, and variable network latency when optimizing for metrics like latency and TTFT. However, existing systems only evaluate a subset of these factors in their cost model, leading to uneven concentrations of load and KV-cache across replicas. We present GORGO, a proxy architecture that holistically factors network latency, prefill cost, and queueing delay using tunable parameters. Since open-source chat datasets such as LMSYS-Chat1M and WildChat-4.8M lack long-context, high prefix-reuse data, we release a synthetic dataset, ART-Chat-2.5M, from long-context production metadata. On a tuning window from ART-Chat-2.5M, evolutionary strategies guide the GORGO policy's parameters to directly optimize p95 TTFT. During held-out evaluation windows, we fix the parameter values learned from tuning and improve p95 TTFT by 6.9-15.5% and p95 end-to-end (E2E) latency by 14.3-30.9% over baseline load-balancing policies such as simple session affinity and prefix-cache. The code and ART-Chat-2.5M dataset can be found at https://github.com/Arcadia-Research-Team/GORGO.", 'score': 3, 'issue_id': 2776, 'pub_date': '2026-06-30', 'pub_date_card': {'ru': '30 июня', 'en': 'June 30', 'zh': '6月30日'}, 'hash': '6e32a50432327043', 'github_url': '', 'github_stars': 0, 'authors': ['Alessio Ricci Toniolo', 'Rome Thorstenson', 'Abinaya Dinesh'], 'affiliations': ['ART', 'Carnegie Mellon University'], 'pdf_title_img': 'assets/pdf/title_img/2602.11688.jpg', 'data': {'categories': ['#inference', '#synthetic', '#open_source', '#optimization', '#dataset'], 'emoji': '⚖️', 'ru': {'title': 'Оптимизация балансировки нагрузки для LLM-сервисов', 'desc': 'GORGO - это архитектура прокси, которая оптимизирует балансировку нагрузки при выводе LLM, учитывая задержку сети, стоимость предварительной загрузки и задержку в очереди. В отличие от существующих систем, GORGO анализирует эти факторы в комбинации, что позволяет избежать неравномерного распределения нагрузки. Мы создали синтетический датасет ART-Chat-2.5M для настройки параметров политики GORGO, что привело к улучшению времени отклика. В результате удалось значительно снизить задержки и повысить эффективность работы LLM-сервисов.'}, 'en': {'title': 'Optimizing LLM Inference with GORGO: A Holistic Load Balancing Approach', 'desc': 'GORGO is a proxy architecture designed to enhance load balancing for large language model (LLM) inference by considering multiple factors such as network latency, prefill cost, and queueing delay. It uses evolutionary strategies to tune parameters based on a new synthetic dataset, ART-Chat-2.5M, which addresses the limitations of existing datasets. By optimizing these factors, GORGO significantly improves performance metrics like p95 TTFT and end-to-end latency compared to traditional load-balancing methods. The architecture aims to create a more efficient distribution of requests across globally distributed engine replicas.'}}}, {'id': 'https://huggingface.co/papers/2606.28393', 'title': 'Transition-Aware best-of-N sampling for Longitudinal Chest X-ray Reports', 'url': 'https://huggingface.co/papers/2606.28393', 'abstract': 'Abstract A novel training-free sampling method for chest X-ray report generation that leverages longitudinal patient history by encoding changes between prior and current examinations through set-to-set distance metrics.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct In longitudinal clinical practice, every chest X-ray is read in the context of the patients prior exam, and much of what the radiologist communicates is the change from one visit to the next. To the best of our knowledge, we present the first training-free best-of-N sampling scheme for pre-trained chest X-ray report generators that is explicitly aware of this longitudinal prior to current transition. We call it transition-aware best-of-N sampling, each report is split into sentences and embedded into an unordered set in Rd; each (prior, current) pair is reduced to a fixed-dim directional vector via a set-to-set distance designed to encode the change between the two sets; and candidates are scored by cosine distance from their candidate transition vector to a cached bank of ground-truth training transition vectors, aggregated as min or kNN. We instantiate the framework with four directional set distances (mean-shift, novelty residual, directed-Hausdorff anchor, and cost-weighted optimal transport) and evaluate on a multi-visit AP-PA cohort, running inference under three prompts on three vision-language generators. Transition-aware best-of-N outperforms random selection across the board, with the largest relative gains on the Impression section.', 'score': 3, 'issue_id': 2777, 'pub_date': '2026-06-23', 'pub_date_card': {'ru': '23 июня', 'en': 'June 23', 'zh': '6月23日'}, 'hash': '5e96cf1c10b4c225', 'github_url': '', 'github_stars': 0, 'authors': ['Halil Ibrahim Gulluk', 'Max Van Puyvelde', 'Wim Van Criekinge', 'Olivier Gevaert'], 'affiliations': ['Department of Biomedical Data Science, Stanford University School of Medicine, Stanford, CA, USA', 'Department of Electrical Engineering, Stanford University, Stanford, CA, USA', 'Department of Mathematical Modelling, Statistics & Bioinformatics, Ghent University, Ghent, Belgium'], 'pdf_title_img': 'assets/pdf/title_img/2606.28393.jpg', 'data': {'categories': ['#prompting', '#multimodal', '#healthcare', '#training', '#inference', '#optimization', '#games'], 'emoji': '🩻', 'ru': {'title': 'Генерация отчетов по рентгенограммам с осознанием изменений', 'desc': "В статье представлен новый метод генерации отчетов по рентгенограммам грудной клетки, который не требует обучения. Он использует исторические данные пациентов, акцентируя внимание на изменениях между предыдущими и текущими обследованиями. Метод называется 'переходное осознанное выборка лучшего из N' и эффективно применяет метрики расстояния между наборами. Результаты показывают, что предложенный метод превосходит случайный выбор, особенно в разделе 'Впечатление'."}, 'en': {'title': 'Revolutionizing Chest X-Ray Reports with Transition-Aware Sampling', 'desc': "This paper introduces a new method for generating chest X-ray reports without the need for additional training. It focuses on the changes in a patient's condition by comparing previous and current X-ray examinations. The method uses a unique sampling technique called transition-aware best-of-N sampling, which evaluates reports based on how well they reflect these changes. The approach outperforms random selection, particularly in the Impression section of the reports, by utilizing set-to-set distance metrics to encode the differences between prior and current examinations."}}}, {'id': 'https://huggingface.co/papers/2607.05390', 'title': 'Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models', 'url': 'https://huggingface.co/papers/2607.05390', 'abstract': 'Abstract A large-scale visuotactile dataset called Deform360 is introduced to study deformable object dynamics, enabling comparison between 2D video and 3D particle world models for robotic manipulation tasks.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensional state spaces and complex material properties. While current world models approach this through two distinct paradigms: learning the dynamics over the 2D pixel space or more explicit 3D geometric space. A systematic understanding of their relative strengths and limitations remains elusive due to the lack of diverse, large-scale real-world data. To address this, we present Deform360, a large-scale visuotactile dataset featuring 198 daily-life objects, 1,980 interaction sequences, and over 215 hours of observations from 41 surround-view cameras and bimanual tactile grippers to capture both global motion and contact-induced local deformations. Leveraging a novel markerless visuotactile 3D tracking pipeline to extract dense geometry and motion, we systematically evaluate current state-of-the-art world models, comparing 2D video models against 3D particle models. Finally, we provide a preliminary demonstration indicating the real-world applicability of our dataset by performing robot planning tasks on deformable objects. Our analysis reveals key insights into the trade-offs between structural priors and scalability, providing a solid benchmark for future research in generalizable deformable object-centric world modeling. Project website: https://deform360.lhy.xyz', 'score': 2, 'issue_id': 2776, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': 'ea2f0b8a60fbfad3', 'github_url': '', 'github_stars': 0, 'authors': ['Hongyu Li', 'Wanjia Fu', 'Xiaoyan Cong', 'Zekun Li', 'Binghao Huang', 'Hanxiao Jiang', 'Xintong He', 'Yiqing Liang', 'Rao Fu', 'Tao Lu', 'Srinath Sridhar', 'Kevin A. Smith', 'George Konidaris', 'Yunzhu Li'], 'affiliations': ['Brown University, Providence, RI', 'Columbia University, New York, NY', 'Massachusetts Institute of Technology, Cambridge, MA'], 'pdf_title_img': 'assets/pdf/title_img/2607.05390.jpg', 'data': {'categories': ['#3d', '#benchmark', '#robotics', '#science', '#games', '#dataset'], 'emoji': '🤖', 'ru': {'title': 'Исследуем динамику деформируемых объектов!', 'desc': 'В статье представлено крупномасштабное датасет Deform360, предназначенное для изучения динамики деформируемых объектов. Этот датасет включает в себя 198 объектов повседневного обихода и более 200 часов наблюдений с использованием камер и тактильных захватов. Авторы сравнивают подходы моделирования динамики объектов в 2D и 3D пространствах и анализируют их сильные и слабые стороны. Результаты показывают важность этого датасета для будущих исследований в области моделирования деформируемых объектов и роботов.'}, 'en': {'title': 'Unlocking Deformable Object Dynamics with Deform360', 'desc': 'The paper introduces Deform360, a large-scale visuotactile dataset designed to enhance the understanding of deformable object dynamics for robotic manipulation. It compares two approaches to world modeling: 2D video-based models and 3D particle-based models, highlighting the challenges posed by the complex nature of deformable objects. The dataset includes extensive observations of various daily-life objects, captured through advanced tracking techniques to analyze both global and local deformations. This work aims to provide a benchmark for future research, revealing insights into the trade-offs between different modeling strategies.'}}}, {'id': 'https://huggingface.co/papers/2607.03748', 'title': 'Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process', 'url': 'https://huggingface.co/papers/2607.03748', 'abstract': 'Abstract BRAID framework enables unified multi-modal reasoning by casting text-image interaction as a Markov decision process, allowing joint optimization through reinforcement learning with vision-language model guidance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unified multi-modal models (UMMs) have shown promising interleaved text-image reasoning capabilities, yet effectively optimizing such multi-turn generation via reinforcement learning (RL) remains an open challenge. Existing approaches apply RL exclusively to text steps, relegating image generation to supervised surrogates, preventing policy gradients from propagating through the full interleaved trajectory across heterogeneous modalities. This leaves the potential of RL for UMMs largely untapped. In the paper, we introduce BRAID (Bridging inteRleAved multI-modal reasoning as a unified Decision process), a simple framework that casts multi-turn text-image-text reasoning as a unified Markov decision process (MDP), enabling joint optimization of textual and visual generation via a single, principled RL objective. BRAID computes a shared trajectory-level advantage and propagates it coherently into both text tokens and image denoising paths, each optimized through its modality-native policy gradient mechanism. To further address long-horizon credit assignment, BRAID employs a vision-language model (VLM) judge that scores each intermediate image on its reasoning utility, supplying dense turn-level feedback to sharpen learning at critical visual branches. Experiments on spatial reasoning and visual perception benchmarks show that BRAID consistently outperforms various baselines, confirming that a unified MDP formulation with vision-thinking guidance is essential for effective multi-modal reasoning.', 'score': 2, 'issue_id': 2779, 'pub_date': '2026-07-04', 'pub_date_card': {'ru': '4 июля', 'en': 'July 4', 'zh': '7月4日'}, 'hash': 'b47414d647b9bb5f', 'github_url': '', 'github_stars': 0, 'authors': ['Zican Hu', 'Xuyang Hu', 'Yiming Liu', 'Zuwei Long', 'Wei Liu', 'Yunzhuo Hao', 'Jiawei Gu', 'Linjie Li', 'Yu Cheng', 'Zhenhong Sun', 'Weibo Gu', 'Xing Sun', 'Zhi Wang'], 'affiliations': ['Australian National University', 'Nanjing University', 'Shanghai AI Laboratory', 'Tencent Youtu Lab', 'The Chinese University of Hong Kong', 'Tsinghua University', 'University of Washington', 'Zhejiang University'], 'pdf_title_img': 'assets/pdf/title_img/2607.03748.jpg', 'data': {'categories': ['#multimodal', '#rl', '#optimization', '#reasoning'], 'emoji': '🔗', 'ru': {'title': 'Объединение многомодального вывода с помощью процесса Маркова', 'desc': 'Работа представляет новый подход под названием BRAID, который объединяет текстово-изображенческое взаимодействие в рамках процесса Маркова. Этот метод позволяет совместную оптимизацию текстового и визуального генерации с использованием обучения с подкреплением. BRAID вычисляет общее преимущество на уровне траектории и распространяет его на текстовые токены и пути денойзинга изображений. Эксперименты показывают, что BRAID превосходит существующие методы, подтверждая важность единой формулировки MDP для эффективного многомодального вывода.'}, 'en': {'title': 'BRAID: Unifying Text-Image Reasoning with Reinforcement Learning', 'desc': 'The BRAID framework introduces a new way to handle multi-modal reasoning by treating the interaction between text and images as a Markov decision process (MDP). This allows for joint optimization of both text and image generation using reinforcement learning (RL), overcoming limitations of previous methods that only applied RL to text. By computing a shared advantage across the entire reasoning process, BRAID effectively propagates learning signals through both modalities. Experiments demonstrate that this unified approach significantly improves performance in tasks requiring spatial reasoning and visual perception.'}}}, {'id': 'https://huggingface.co/papers/2607.02998', 'title': 'CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training', 'url': 'https://huggingface.co/papers/2607.02998', 'abstract': 'Abstract A 3D latent diffusion model for chest CT generation that achieves high-fidelity results while enabling control over clinical attributes through metadata conditioning and reinforcement learning refinement.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Controllable generative models of 3D medical images can synthesize volumes with specified clinical attributes, but this demands samples that are simultaneously high-fidelity, natively 3D, and faithful to the requested conditioning. We present CONFLUX, a latent diffusion model for chest computed tomography (CT): a 3D variational autoencoder compresses each volume, and a rectified-flow transformer generates in the latent space. Generation is conditioned on structured radiological metadata (18 abnormality findings, sex, age, and reconstruction kernel) through adaptive layer normalization. The model leads strong volumetric baselines on tri-planar Frechet distance (FID 32.3 vs. 74.6 for MAISI) while exposing direct control over clinical attributes. To strengthen that control we add an online reinforcement-learning post-training stage (group-relative policy optimization) that rewards how reliably a classifier recovers the requested findings from each generated volume. Judged by a separate, independent classifier, post-training removes 47% of the shortfall relative to real-scan reliability. We release the model and a ~200k synthetic chest-CT dataset with conditioning metadata spanning a wide variety of clinical findings.', 'score': 2, 'issue_id': 2777, 'pub_date': '2026-07-03', 'pub_date_card': {'ru': '3 июля', 'en': 'July 3', 'zh': '7月3日'}, 'hash': '6296538970255e3e', 'github_url': '', 'github_stars': 0, 'authors': ['Max Van Puyvelde', 'Halil Ibrahim Gulluk', 'Wim Van Criekinge', 'Olivier Gevaert'], 'affiliations': ['Department of Biomedical Data Science, Stanford University School of Medicine', 'Department of Electrical Engineering, Stanford University', 'Department of Mathematical Modelling, Statistics & Bioinformatics, Ghent University'], 'pdf_title_img': 'assets/pdf/title_img/2607.02998.jpg', 'data': {'categories': ['#dataset', '#synthetic', '#diffusion', '#healthcare', '#rl', '#3d'], 'emoji': '🩻', 'ru': {'title': 'Генерация КТ с управляемыми клиническими характеристиками', 'desc': 'В данной статье представлен 3D латентный диффузионный модель для генерации грудных КТ, которая достигает высококачественных результатов и позволяет управлять клиническими характеристиками через условие метаданных. Модель использует вариационный автоэнкодер для сжатия объемов и трансформер для генерации в латентном пространстве. Генерация основывается на структурированных радиологических метаданных, таких как находки аномалий, пол, возраст и параметры реконструкции. Благодаря дополнительному этапу пост-обучения с использованием обучения с подкреплением, модель демонстрирует улучшенные результаты в распознавании клинических находок.'}, 'en': {'title': 'High-Fidelity 3D Chest CT Generation with Controlled Clinical Attributes', 'desc': "This paper presents CONFLUX, a 3D latent diffusion model designed for generating high-fidelity chest CT images. It allows for control over clinical attributes by conditioning on structured metadata, such as abnormality findings and patient demographics. The model utilizes a 3D variational autoencoder for compression and a rectified-flow transformer for generation in the latent space. Additionally, an online reinforcement learning stage enhances the model's ability to produce images that accurately reflect the requested clinical features."}}}, {'id': 'https://huggingface.co/papers/2607.03296', 'title': 'Taste-aware music retrieval from audio embeddings', 'url': 'https://huggingface.co/papers/2607.03296', 'abstract': "Abstract Audio encoders from HEAR families are evaluated for taste prediction, with gated late-fusion showing superior rank correlation and the best models achieving human-level accuracy on held-out music.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Crossmodal correspondences between sound and taste are well established in psychology and neuroscience, but largely absent from content-based multimedia retrieval. We formalise taste-from-audio prediction as a content-based music information retrieval benchmark over a perceptually validated multi-source corpus, comparing ten frozen audio encoders from the four HEAR families under a shared multi-task regression head, with gated late-fusion as a configurable variant. In order to assess the effectiveness of the models, we compute absolute error and rank correlation. The strongest systems predict the five tastes within a macro RMSE of 0.134; on held-out real music their error is less than half a single rater's deviation from the consensus (RMSE 0.13 vs. 0.28), so the model tracks the group consensus more closely than an average human rater, and well below the previous state of the art baseline (0.219). On absolute error the encoders are statistically flat, with a single VGGish matching the best fusion, but gated late-fusion's advantage is confined to rank correlation (macro Pearson r 0.724 vs. 0.666). Operationalised as a content-based retrieval index, the predicted taste space ranks a 309-item pool far more faithfully than a CLAP-text baseline, which sits at chance; ridge probes and an audio-bandstop knockout read the strongest representations against documented sound-taste correspondences.", 'score': 2, 'issue_id': 2777, 'pub_date': '2026-07-03', 'pub_date_card': {'ru': '3 июля', 'en': 'July 3', 'zh': '7月3日'}, 'hash': 'a2e6c28a30747397', 'github_url': '', 'github_stars': 0, 'authors': ['Matteo Spanio', 'Antonio Rodà'], 'affiliations': ['University of Padua, Padua, Italy'], 'pdf_title_img': 'assets/pdf/title_img/2607.03296.jpg', 'data': {'categories': ['#benchmark', '#audio', '#retrieval'], 'emoji': '🎶', 'ru': {'title': 'Предсказание вкусов на основе аудио', 'desc': 'В данной работе оцениваются аудиокодеры из семейства HEAR для предсказания вкусов. Использование поздней гибридной фузии показало наилучшие результаты в корреляции рангов, а лучшие модели достигают точности на уровне человека на отложенных музыкальных данных. Мы формализуем предсказание вкусов на основе аудио как задачу извлечения информации из музыки и сравниваем десять замороженных аудиокодеров. Результаты показывают, что предложенные модели надежно отражают группу консенсуса лучше, чем среднестатистический оценщик.'}, 'en': {'title': 'Predicting Taste from Music: A New Benchmark in Audio Analysis', 'desc': 'This paper explores the use of audio encoders from the HEAR families to predict taste based on music, establishing a new benchmark in content-based music information retrieval. The study employs a multi-task regression approach and evaluates models using metrics like absolute error and rank correlation. Gated late-fusion techniques demonstrate superior performance, achieving human-level accuracy in taste prediction. The findings reveal that the best models closely align with group consensus, outperforming previous benchmarks in this innovative crossmodal task.'}}}, {'id': 'https://huggingface.co/papers/2607.05392', 'title': 'SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion', 'url': 'https://huggingface.co/papers/2607.05392', 'abstract': 'Abstract SynCity 3000 generates large, coherent 3D scenes by adapting image-to-3D generators as convolutional operators through fine-tuning on synthetic scene data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produce complex 3D assets from a single image, we extend this capability to the scale of entire scenes by adapting the generator to be applicable as a convolutional operator. We achieve this by fine-tuning the model on scene-like data generated by a new synthetic data engine, which we propose to address the scarcity of 3D scene data for training. The convolutional generator is then applied to a dimetric image of the entire scene, generated from the user prompt, resulting in 3D scenes of arbitrary size and complexity. Across diverse prompts and layouts, SynCity 3000 produces large, coherent, and detailed scenes, addressing the shortcomings of prior approaches to 3D scene generation.', 'score': 1, 'issue_id': 2779, 'pub_date': '2026-07-06', 'pub_date_card': {'ru': '6 июля', 'en': 'July 6', 'zh': '7月6日'}, 'hash': '24608141779fe8e5', 'github_url': '', 'github_stars': 0, 'authors': ['Paul Engstler', 'Iro Laina', 'Christian Rupprecht', 'Andrea Vedaldi'], 'affiliations': ['Visual Geometry Group, University of Oxford'], 'pdf_title_img': 'assets/pdf/title_img/2607.05392.jpg', 'data': {'categories': ['#3d', '#dataset', '#games', '#synthetic'], 'emoji': '🌆', 'ru': {'title': 'Генерация больших согласованных 3D-сцен', 'desc': 'SynCity 3000 — это фреймворк для генерации 3D-сцен, который обеспечивает глобальную согласованность и контроль над компоновкой. Он адаптирует генераторы изображений в 3D, используя свёрточные операторы и дообучение на синтетических данных сцен. Это позволяет создавать сложные 3D-активы из одного изображения и масштабировать процесс до целых сцен. Благодаря новым методам генерации синтетических данных, SynCity 3000 преодолевает недостаток 3D-данных для обучения и достигает больших, согласованных и детализированных сцен.'}, 'en': {'title': 'Revolutionizing 3D Scene Generation with SynCity 3000', 'desc': 'SynCity 3000 is a framework designed to generate large and coherent 3D scenes by fine-tuning image-to-3D generators. It adapts these generators to work as convolutional operators, allowing for detailed control over scene layouts. The model is trained on synthetic scene data to overcome the lack of available 3D scene datasets. By using a dimetric image from user prompts, SynCity 3000 can create complex 3D environments of various sizes and intricacies.'}}}, {'id': 'https://huggingface.co/papers/2607.04410', 'title': 'AI Wizards at EXIST 2026: Hierarchical Soft-Label Learning for Multimodal Sexism Identification in Memes', 'url': 'https://huggingface.co/papers/2607.04410', 'abstract': 'Abstract A multimodal sexism identification system for memes uses hierarchical conditional soft-label prediction with vision-language embeddings and a lightweight Gated MLP trained via KL divergence and uncertainty weighting.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We present the AI Wizards submission to EXIST 2026 for multimodal sexism identification in memes. The task is composed of three, increasingly harder subtasks. We model them hierarchically as conditional soft-label prediction over empirical annotator distributions. Our system maps fixed Gemini Embedding 2 vision-language representations through a lightweight Gated MLP trained with KL divergence and homoscedastic uncertainty weighting. Our submissions ranked first on Task 2.3 and fourth on Tasks 2.1 and 2.2 on the official Soft-Soft leaderboards. The code is available at https://github.com/NLP-AI-Wizards/EXIST-2026', 'score': 1, 'issue_id': 2777, 'pub_date': '2026-07-05', 'pub_date_card': {'ru': '5 июля', 'en': 'July 5', 'zh': '7月5日'}, 'hash': 'cbe6ae286e46a801', 'github_url': '', 'github_stars': 0, 'authors': ['Matteo Fasulo', 'Antonio Gravina', 'Luca Tedeschini', 'Luca Babboni'], 'affiliations': ['Everest Systems GmbH, Max-Jarecki-Straße 21, 69115 Heidelberg, Germany', 'Swiss Data Science Center, ETH Zürich, Andreasturm, Andreasstrasse 5, 8092 Zürich, Switzerland', 'Villanova.ai S.P.A, Località Sa Illetta, SS 195 KM 2.3, 09123 Cagliari, Italy'], 'pdf_title_img': 'assets/pdf/title_img/2607.04410.jpg', 'data': {'categories': ['#interpretability', '#multimodal', '#open_source', '#architecture', '#optimization', '#games'], 'emoji': '🖼️', 'ru': {'title': 'Идентификация сексизма в мемах с помощью ИИ', 'desc': 'В данной статье представлен многофункциональный метод идентификации сексизма в мемах. Система использует иерархическое предсказание условных мягких меток с помощью векторных представлений изображения и текста. Обучение происходит с использованием KL-дивергенции и взвешивания неопределенности. Мы достигли лучших результатов в определенных задачах соревнования EXIST 2026.'}, 'en': {'title': 'Harnessing Multimodal AI for Sexism Detection in Memes', 'desc': 'This paper presents a system for identifying sexism in memes using multiple types of data, known as multimodal analysis. It employs a hierarchical approach to predict soft labels based on the distributions of human annotators. The system utilizes vision-language embeddings and a lightweight Gated MLP, which is trained using techniques like KL divergence and uncertainty weighting. The authors achieved top rankings in specific tasks of the competition, demonstrating the effectiveness of their model.'}}}, {'id': 'https://huggingface.co/papers/2607.04064', 'title': 'Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization', 'url': 'https://huggingface.co/papers/2607.04064', 'abstract': 'Abstract A speaker-disentangled syllabic tokenizer regresses perturbed student representations toward clean teacher targets to improve syllable boundary detection and speech language modeling performance.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Unsupervised syllabic tokenization aims to learn discrete syllabic tokens that capture latent linguistic content-related structure from raw speech. Recent syllabic tokenization methods employ teacher-student distillation of the pretrained HuBERT to organize latent speech frame representations into syllabic segments. However, when trained with an utterance-level cross-entropy objective, the model predicts speaker identity rather than linguistic content, thereby compromising the purity of syllabic tokens. To address this problem, we propose a speaker-disentangled syllabic tokenizer that regresses speaker-perturbed student representations toward clean teacher targets within fixed-length chunks. Experimental results demonstrate that our proposed method achieves state-of-the-art performance in syllable boundary detection and syllabic segment clustering. Moreover, a speech language model trained on our syllabic tokens achieves a 7% relative improvement in syntactic and semantic understanding over the phone-level SpiRit-LM.', 'score': 1, 'issue_id': 2775, 'pub_date': '2026-07-05', 'pub_date_card': {'ru': '5 июля', 'en': 'July 5', 'zh': '7月5日'}, 'hash': 'cd80f24e567431e8', 'github_url': '', 'github_stars': 0, 'authors': ['Ryota Komatsu', 'Kota Kawakita', 'Takuma Okamoto', 'Takahiro Shinozaki'], 'affiliations': ['Institute of Science Tokyo, Meguro, Tokyo 152-8550, Japan', 'National Institute of Information and Communications Technology, Kyoto 619-0289, Japan'], 'pdf_title_img': 'assets/pdf/title_img/2607.04064.jpg', 'data': {'categories': ['#optimization', '#audio', '#synthetic'], 'emoji': '🔊', 'ru': {'title': 'Выделение слогов без учета говорящего', 'desc': 'В данной статье представлен токенизатор, который отделяет слоги от конкретного говорящего, чтобы улучшить обнаружение границ слогов и модели языка речи. Метод основан на дистилляции знаний от учителя к студенту, чтобы организовать представления речи в слоговые сегменты. Проблема в том, что предшествующие методы часто фокусируются на идентификации говорящего, а не на лингвистическом содержании, что ухудшает качество токенов. Новый подход демонстрирует выдающиеся результаты в обнаружении границ слогов и кластеризации слогов.'}, 'en': {'title': 'Enhancing Syllable Detection with Speaker-Disentangled Tokenization', 'desc': 'This paper introduces a speaker-disentangled syllabic tokenizer that enhances the detection of syllable boundaries and improves speech language modeling. It uses a teacher-student distillation approach to refine syllabic tokens from raw speech, focusing on linguistic content rather than speaker identity. By regressing perturbed student representations towards clean teacher targets, the model effectively organizes speech frame representations into coherent syllabic segments. Experimental results show that this method outperforms previous techniques, achieving significant improvements in both syllable boundary detection and language understanding tasks.'}}}, {'id': 'https://huggingface.co/papers/2607.02904', 'title': 'Speaker-Aware Temporal Aggregation Strategies on Segment Representations for Depression Detection in Dyadic Interaction: A Benchmark Study', 'url': 'https://huggingface.co/papers/2607.02904', 'abstract': 'Abstract Temporal aggregation methods for speech-based depression detection show inconsistent performance across different backbones and training runs, highlighting the need for robust benchmarking criteria.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Speech-based depression detection compresses features from short audio segments into one speaker-level decision, a step called temporal aggregation rarely studied on its own. Most benchmarks fix a single self-supervised encoder and a single hand-picked layer, so a reported gain may reflect the pipeline rather than the aggregation method itself. We introduce DEPOOL, a controlled benchmark that compares six aggregation architectures with six frozen speech backbones on an English and a Mandarin depression corpus, where each configuration learns which backbone layers matter rather than fixing one by hand. Across the resulting 72-configuration grid, a third of configurations collapse into predicting a single class for every speaker, a failure tied to the backbone as much as to the method, and the architecture that is most stable in a single-seed run becomes unreliable when training repeats across seeds. Robustness to backbone and seed, rather than average accuracy across a single pipeline, should be a first-class benchmarking criterion for temporal aggregation in clinical speech.', 'score': 1, 'issue_id': 2779, 'pub_date': '2026-07-03', 'pub_date_card': {'ru': '3 июля', 'en': 'July 3', 'zh': '7月3日'}, 'hash': '6d339a262e893dd1', 'github_url': '', 'github_stars': 0, 'authors': ['Anisha Pattanayak', 'Huang-Cheng Chou', 'Shrikanth Narayanan', 'Sudarsana Reddy Kadiri'], 'affiliations': ['Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, USA', 'Signal Analysis and Interpretation Laboratory (SAIL), University of Southern California, USA'], 'pdf_title_img': 'assets/pdf/title_img/2607.02904.jpg', 'data': {'categories': ['#multilingual', '#optimization', '#benchmark', '#survey', '#audio'], 'emoji': '🗣️', 'ru': {'title': 'Надежные методы агрегации для выявления депрессии по речи', 'desc': 'В данной статье рассматриваются методы временной агрегации для обнаружения депрессии на основе речи, которые показывают непостоянную эффективность в зависимости от используемых моделей и условий обучения. Авторы представляют DEPOOL, новый контрольный бенчмарк, который сравнивает различные архитектуры агрегации с несколькими фиксированными речевыми моделями на корповом материале на английском и мандаринском языках. Исследование показывает, что многие конфигурации не могут правильно классифицировать речь, а стабильные архитектуры при одном запуске оказываются ненадежными при повторной тренировке. Это подчеркивает важность учета устойчивости к используемым моделям и условиям обучения при оценке методов временной агрегации в клиническом контексте.'}, 'en': {'title': 'Enhancing Robustness in Speech-Based Depression Detection', 'desc': 'This paper addresses the challenges in speech-based depression detection, particularly focusing on the temporal aggregation methods used to combine short audio segments into a single decision. The authors introduce DEPOOL, a benchmarking framework that evaluates various aggregation architectures across different speech backbones and languages. They find that many configurations fail to generalize, often predicting a single class for all speakers, which highlights the influence of both the aggregation method and the backbone used. The study emphasizes the importance of robustness to variations in backbone and training seeds as key criteria for evaluating temporal aggregation methods in clinical applications.'}}}, {'id': 'https://huggingface.co/papers/2607.03751', 'title': 'Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models', 'url': 'https://huggingface.co/papers/2607.03751', 'abstract': "Abstract A framework called SVA is introduced that enhances Vision-Language-Action models by decoupling action generation from consequence evaluation, thereby improving generalization and task success rates while reducing computational costs.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Vision-Language-Action (VLA) models acquire broad embodied capabilities through large-scale pretraining, yet their generalization remains far more fragile than that of LLMs and VLMs. The prevailing remedy, post-training via supervised fine-tuning or reinforcement learning, improves task-specific performance but narrows the generalist capability that makes pretraining valuable. We identify a key bottleneck: VLA failures stem not only from action generation but also from action evaluation. A diagnostic pass@k study confirms that frozen VLAs already contain competent behaviors in their output distribution, with overall success rates rising from 33% at pass@1 to 92% at pass@32. Inspired by this, we propose SVA (Search, Value, and Act), a simple framework that equips frozen VLA policies with long-term consequence awareness. SVA first uses Monte-Carlo tree search in simulation to fully explore the VLA's output distribution and collect diverse trajectories annotated with empirical returns; this knowledge is then distilled into a lightweight Q-value model that predicts the expected consequence of candidate actions; at deployment, the frozen VLA proposes multiple candidates and the evaluator selects the one with the highest uncertainty-regularized Q-value, requiring no simulator access. By decoupling action proposal from consequence evaluation, SVA preserves the generalization capacity of the VLA backbone while substantially improving task success rates. Experiments across embodied benchmarks show that SVA consistently improves generalization on unseen tasks and exhibits strong test-time scaling behavior. Strikingly, SVA enables a 9B VLA to outperform a 27B VLA by 7 points at 27% lower inference latency, suggesting that scaling test-time evaluation is more cost-effective than scaling model size.", 'score': 0, 'issue_id': 2779, 'pub_date': '2026-07-04', 'pub_date_card': {'ru': '4 июля', 'en': 'July 4', 'zh': '7月4日'}, 'hash': '423b9ba487a77d82', 'github_url': '', 'github_stars': 0, 'authors': ['Xinyi Xie', 'Zican Hu', 'Zhanyu Liu', 'Yicheng Dong', 'Wenhao Wu', 'Zhenhong Sun', 'Haoran Li', 'Chunlin Chen', 'Zhi Wang', 'Pichao Wang'], 'affiliations': ['Australian National University', 'Institute of Automation, Chinese Academy of Sciences', 'Nanjing University', 'Nvidia'], 'pdf_title_img': 'assets/pdf/title_img/2607.03751.jpg', 'data': {'categories': ['#agi', '#rl', '#optimization', '#training', '#inference', '#agents'], 'emoji': '🤖', 'ru': {'title': 'SVA: Улучшаем модели через отделение действий и последствий', 'desc': 'В статье представлена новая структура SVA, которая улучшает модели Vision-Language-Action, отделяя генерацию действий от оценки последствий. Это позволяет повысить обобщающую способность моделей и успех выполнения задач, а также снизить вычислительные затраты. Применяя метод Монте-Карло для исследования выходного распределения VLA, SVA собирает разнообразные траектории и извлекает знания для создания легковесной модели Q-значений. В результате SVA показывает значительное улучшение результатов на новых задачах, сохраняя при этом общие возможности базовой модели VLA.'}, 'en': {'title': 'Decoupling Actions for Smarter Decision-Making in VLA Models', 'desc': "The paper introduces a framework called SVA that improves Vision-Language-Action (VLA) models by separating action generation from consequence evaluation. This separation enhances the models' ability to generalize across tasks and increases their success rates while lowering computational costs. The SVA framework utilizes Monte-Carlo tree search to explore action outputs and create a Q-value model that predicts the outcomes of actions. By doing this, SVA allows for better decision-making without needing to access a simulator, leading to improved performance even with smaller models."}}}, {'id': 'https://huggingface.co/papers/2607.03068', 'title': 'PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation', 'url': 'https://huggingface.co/papers/2607.03068', 'abstract': 'Abstract PixCon is a semi-supervised semantic segmentation framework that uses clean-positive pixel-contrastive learning with per-class memory banks to improve accuracy over existing methods.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Semi-supervised semantic segmentation (SSSS) has long turned on one question, which pseudo-labels to trust, and answered it with ever more careful confidence filtering. Foundation backbones change the regime: with a DINOv2 teacher a strict threshold already retains a measured 98%-clean pseudo-label set, so the accuracy that remains lives not in the filter but in how the embedding space is structured by class. We propose PixCon, a clean-positive pixel-contrastive framework. PixCon maintains a per-class memory bank that admits only labeled pixels the student already classifies correctly, guaranteeing a contamination-free positive set (ρ_F=0) by construction, unlike prior contrastive SSSS banks (ReCo, U^2PL) built from confidence-filtered pseudo-labels. It is a single branch over a consistency backbone, adds no inference-time parameters, and needs no bank-specific threshold. A first-order analysis of the supervised-InfoNCE gradient explains why contamination hurts: its false-positive term scales as ρ_F/(1-ρ_F), which we measure (0.018 on Pascal, 0.106 on ADE20K) rather than assume. Across Pascal VOC, Cityscapes, and ADE20K, PixCon matches or improves a strong DINOv2-based UniMatch V2 baseline in a compute-matched one-switch protocol: it improves every Pascal-1/8 seed (a per-seed gain of about +0.2 mIoU) and its three-seed mean reaches 87.90, the published UniMatch V2-B figure. Because contamination is already rare under foundation-model teachers, our analysis indicates the ρ_F=0 guarantee acts chiefly as robustness as teachers weaken, while the accuracy gain comes from cleaner positive supervision, making clean-positive contrast a robust, low-cost default for foundation-model SSSS.', 'score': 0, 'issue_id': 2776, 'pub_date': '2026-07-03', 'pub_date_card': {'ru': '3 июля', 'en': 'July 3', 'zh': '7月3日'}, 'hash': '4b9214d5abb5b357', 'github_url': '', 'github_stars': 0, 'authors': ['Ebenezer Tarubinga'], 'affiliations': ['Ebenworks Systems, Seoul, Korea'], 'pdf_title_img': 'assets/pdf/title_img/2607.03068.jpg', 'data': {'categories': ['#memory', '#optimization', '#training', '#data'], 'emoji': '🔍', 'ru': {'title': 'Чистая контрастная семантическая сегментация', 'desc': 'PixCon - это полусупервизированная структура для семантической сегментации, которая использует чистое положительное пиксельно-контрастное обучение. Она применяет память по классам, чтобы поддерживать только корректно классифицированные пиксели, обеспечивая тем самым отсутствие загрязнения в положительном наборе данных. В результате PixCon достигает или даже превосходит точность существующих методов на известных наборах данных. Это делает его надежным и экономически эффективным решением для задач полусупервизированной семантической сегментации.'}, 'en': {'title': 'Clean-Positive Contrast for Better Segmentation', 'desc': 'PixCon is a new framework for semi-supervised semantic segmentation that enhances accuracy by using clean-positive pixel-contrastive learning. It introduces per-class memory banks that only include correctly classified labeled pixels, ensuring a contamination-free positive set. This approach eliminates the need for complex confidence filtering and additional parameters during inference. The results show that PixCon outperforms existing methods, providing a robust and efficient solution for improving segmentation tasks with foundation models.'}}}, {'id': 'https://huggingface.co/papers/2606.23993', 'title': 'Learning to Trigger: Reinforcement Learning at the Large Hadron Collider', 'url': 'https://huggingface.co/papers/2606.23993', 'abstract': 'Abstract Reinforcement learning agents optimize real-time trigger thresholds at particle colliders by adapting Group-Filtered Policy Optimization to streaming control, improving signal efficiency and background rate management on both simulated and real collision data.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct High-throughput scientific facilities such as the Large Hadron Collider depend on real-time event filtering (triggering) under tight constraints on bandwidth, latency, and storage. In practice, trigger menus are largely static and hand-tuned and can become suboptimal as detector conditions, pileup, and background composition drift over time. We cast online threshold tuning as a sequential decision-making problem: a reinforcement learning agent ingests streaming summaries of recent rates and signal-sensitive features and updates trigger thresholds to maximize signal efficiency while tracking a target background rate within a tolerance band. We adapt Group-Filtered Policy Optimization (GFPO) to streaming control and introduce two variants (GFPO-F, GFPO-FR) that enforce background rate feasibility during training. On a benchmark that emulates realistic collider operation, we study two representative triggers: a total transverse energy (H_{T}) trigger sensitive to pileup variation, and an anomaly-detection (AD) trigger based on reconstruction loss for rare or non-standard signatures. On Monte Carlo streams, our agent increases the fraction of in-tolerance time intervals by 48\\% (H_T) and 28\\% (AD), with a cumulative gain of up to 2\\% in signal efficiency on those in-tolerance intervals. Transferring from simulation to real collision data (CMS Run 283408), the same agent, without fine-tuning, achieves a 56\\% (H_T) and 28\\% (AD) in-tolerance improvement over baselines, with further signal-efficiency gain on both triggers. To our knowledge, this is the first demonstration of RL-based trigger control on real Large Hadron Collider collision data. Code is available at https://github.com/Zixind/GFPO_LHC (see repo for details).', 'score': 0, 'issue_id': 2779, 'pub_date': '2026-06-27', 'pub_date_card': {'ru': '27 июня', 'en': 'June 27', 'zh': '6月27日'}, 'hash': 'b9655f39c5b8b18c', 'github_url': '', 'github_stars': 0, 'authors': ['Zixin Ding', 'Shaghayegh Emami', 'Giovanna Salvi', 'Cecilia Tosciri', 'Abhijith Gandrakota', 'Jennifer Ngadiuba', 'Nhan Tran', 'Christian Herwig', 'David W. Miller', 'Yuxin Chen'], 'affiliations': ['Fermi National Accelerator Laboratory', 'University of Chicago', 'University of Michigan, Ann Arbor'], 'pdf_title_img': 'assets/pdf/title_img/2606.23993.jpg', 'data': {'categories': ['#science', '#healthcare', '#rl', '#reinforcement_learning', '#benchmark', '#optimization', '#open_source', '#agents'], 'emoji': '⚛️', 'ru': {'title': 'Оптимизация триггеров с помощью обучения с подкреплением', 'desc': 'В этой работе рассматривается использование агентного обучения с подкреплением для оптимизации порогов триггеров в коллайдерах частиц в режиме реального времени. Адаптируя метод Group-Filtered Policy Optimization (GFPO), авторы улучшают эффективность сигналов и управление фоновыми rate на симулированных и реальных данных столкновений. Агент обучается обновлять пороги триггеров, основываясь на потоковых данных, чтобы максимизировать эффективность сигналов при контроле фонового уровня. Результаты показывают значительное улучшение в интервалах допустимого фона и сигналов без дополнительной настройки для реальных данных.'}, 'en': {'title': 'Dynamic Trigger Optimization in Particle Colliders Using Reinforcement Learning', 'desc': 'This paper presents a method for optimizing real-time trigger thresholds in particle colliders using reinforcement learning. The authors adapt Group-Filtered Policy Optimization to handle streaming control, allowing the agent to dynamically adjust thresholds based on incoming data. By framing the problem as a sequential decision-making task, the agent improves signal efficiency while managing background rates effectively. The results show significant improvements in both simulated and real collision data, marking a novel application of reinforcement learning in high-energy physics.'}}}];
+        const articlesContainer = document.getElementById('articles-container');
+        const sortDropdown = document.getElementById('sort-dropdown');
+        const categoryFiltersContainer = document.getElementById('category-filters');
+        const categoryFiltersLogicOptions = document.getElementById('category-options');
+        const categoryToggle = document.getElementById('category-toggle');
+        const clearCategoriesButton = document.getElementById('clear-categories');
+        let selectedCategories = [];
+        let selectedArticles = [];
+        let sortBy = 'issue_id';     
+        let showLimitHint = false; 
+        let filterLogicIsAnd = false;
+
+        function getUrlParameters() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const categoriesParam = urlParams.get('cat');
+            let categories = categoriesParam ? categoriesParam.split(',') : [];
+            categories = categories.map(element => `#${element}`);
+            return categories
+        }
+
+        function updateUrlWithCategories() {
+            let cleanedCategories = selectedCategories.map(element => element.replace(/^#/, ''));
+            const newUrl = cleanedCategories.length > 0 
+                ? `${window.location.pathname}?cat=${cleanedCategories.join(',')}`
+                : window.location.pathname;
+            console.log("cleanedCategories", cleanedCategories)
+            window.history.pushState({}, '', newUrl);
+        }
+
+        function loadSettings() {
+            const themeToggle = document.getElementById('theme-toggle');
+            const sortDropdown = document.getElementById('sort-dropdown');
+
+            const isDarkMode = localStorage.getItem('darkMode') === 'true';
+            let settingSortBy = localStorage.getItem('sort_by');
+            filterLogicIsAnd = localStorage.getItem('filter_logic_is_and') === 'true';
+            
+            if (isDarkMode) {
+                document.body.classList.remove('light-theme');
+                document.body.classList.add('dark-theme');
+                themeToggle.checked = true;
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf nightly";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.add('rotate');
+            }
+
+            if ((!settingSortBy) || (settingSortBy === 'null')) {
+                settingSortBy = 'issue_id';
+            }
+
+            if (filterLogicIsAnd) {
+                document.getElementById('filter-logic-and').checked = true;
+            } else {
+                document.getElementById('filter-logic-or').checked = true;
+            }
+
+            sortDropdown.value = settingSortBy;
+            sortBy = settingSortBy;
+        }
+
+        document.getElementById('theme-toggle').addEventListener('change', toggleTheme);
+        document.getElementById('filter-logic-and').addEventListener('change', () => {
+            filterLogicIsAnd = true;
+            localStorage.setItem('filter_logic_is_and', 'true');
+            filterAndRenderArticles();
+            updateSelectedArticlesTitle();
+        });
+        document.getElementById('filter-logic-or').addEventListener('change', () => {
+            filterLogicIsAnd = false;
+            localStorage.setItem('filter_logic_is_and', 'false');
+            filterAndRenderArticles();
+            updateSelectedArticlesTitle();
+        });
+
+        function getUniqueCategories(articles) {
+            const categories = new Set();
+            articles.forEach(article => {
+                if (article.data && article.data.categories) {
+                    article.data.categories.forEach(cat => categories.add(cat));
+                }
+            });
+            let res = Array.from(categories);
+            res.sort();
+            return res;
+        }
+
+        function createCategoryButtons() {
+            //const categories = getUniqueCategories(articlesData);
+            const categories = ['#3d (6)', '#agent_memory (6)', '#agents (13)', '#agi (4)', '#alignment (1)', '#architecture (5)', '#audio (5)', '#benchmark (11)', '#compression (2)', '#context_window', '#continual_learning (2)', '#data (4)', '#dataset (12)', '#diffusion (6)', '#ethics', '#games (9)', '#graphs', '#hallucinations', '#healthcare (3)', '#inference (4)', '#interpretability (2)', '#knowledge_graphs', '#leakage (1)', '#long_context (2)', '#low_resource', '#machine_translation', '#math (2)', '#memorization', '#memory (3)', '#multilingual (1)', '#multimodal (9)', '#open_source (10)', '#optimization (23)', '#plp', '#prompt_caching', '#prompting (1)', '#rag', '#reasoning (3)', '#retrieval (3)', '#retrieval_eval', '#rl (7)', '#rlhf (1)', '#robotics (5)', '#science (5)', '#security (1)', '#session_memory', '#small_models', '#story_generation', '#survey (4)', '#synthetic (4)', '#tool_use', '#training (15)', '#transfer_learning (2)'];
+
+            categories.forEach(category => {
+                let catNameSplitted = category.split(/(\s+)/);
+                let catName = catNameSplitted[0];
+                const button = document.createElement('span');
+                button.textContent = catName;
+                button.className = 'category-button';
+                if (catNameSplitted.length < 2) {
+                    button.classList.add('inactive');
+                };
+                button.onclick = () => toggleCategory(catName, button);
+                categoryFiltersContainer.appendChild(button);
+            });
+        }
+
+        function toggleCategory(category, button) {
+            const index = selectedCategories.indexOf(category);
+            if (index === -1) {
+                selectedCategories.push(category);
+                button.classList.add('active');
+            } else {
+                selectedCategories.splice(index, 1);
+                button.classList.remove('active');
+            }         
+            filterAndRenderArticles();
+            saveCategorySelection();
+            updateSelectedArticlesTitle();
+            updateUrlWithCategories();
+            setFilterOptionsVisibility();
+        }
+
+        function saveCategorySelection() {
+            localStorage.setItem('selectedCategories', JSON.stringify(selectedCategories));
+        }
+
+        function updateSelectedArticlesTitle() {
+            if ((selectedArticles.length === articlesData.length) & (selectedCategories.length === 0)) {
+                categoryToggle.textContent = `🏷️ ${filterLabel[currentLang]}`;
+            } else {
+                categoryToggle.textContent = `🏷️ ${filterLabel[currentLang]} (${formatArticlesTitle(selectedArticles.length, currentLang)})`;
+            }
+        }
+
+        function cleanCategorySelection() {
+            localStorage.setItem('selectedCategories', JSON.stringify('[]'));
+        }
+
+        function loadCategorySelection() {
+            const urlCategories = getUrlParameters();
+            if (urlCategories.length > 0) {
+                selectedCategories = urlCategories;
+                saveCategorySelection();
+            } else {
+                const savedCategories = localStorage.getItem('selectedCategories');
+                if (savedCategories && savedCategories !== '"[]"') {
+                    selectedCategories = JSON.parse(savedCategories);                    
+                }
+            }
+            updateCategoryButtonStates();
+        }
+
+        function updateCategoryButtonStates() {
+            const buttons = categoryFiltersContainer.getElementsByClassName('category-button');
+            Array.from(buttons).forEach(button => {
+                if (selectedCategories.includes(button.textContent)) {
+                    button.classList.add('active');
+                } else {
+                    button.classList.remove('active');
+                }
+            });
+        }
+
+        function filterAndRenderArticles() {
+            console.log(selectedCategories);
+            let filteredArticles; 
+
+            if (filterLogicIsAnd) {
+                filteredArticles = selectedCategories.length === 0
+                    ? articlesData
+                    : articlesData.filter(article => 
+                        article.data && article.data.categories && 
+                        selectedCategories.every(cat => article.data.categories.includes(cat))
+                );
+            } else {
+                filteredArticles = selectedCategories.length === 0
+                    ? articlesData
+                    : articlesData.filter(article => 
+                        article.data && article.data.categories && 
+                        article.data.categories.some(cat => selectedCategories.includes(cat))
+                    );            
+            }
+
+            console.log('filteredArticles', filteredArticles)
+
+            selectedArticles = filteredArticles;
+            sortArticles(selectedArticles);
+        }
+
+        function clearAllCategories() {
+            selectedCategories = [];
+            updateCategoryButtonStates();
+            filterAndRenderArticles();
+            saveCategorySelection();
+            updateSelectedArticlesTitle();
+            updateUrlWithCategories();
+        }
+
+        function renderArticles(articles) {
+            if (articles.length > 50) {
+                articles = articles.slice(0, 50);
+                showLimitHint = true;
+            } else {
+                showLimitHint = false;
+            }
+            console.log(articles);
+            articlesContainer.innerHTML = '';
+            articles.forEach((item, index) => {
+                if ("error" in item) {
+                    console.log(`Omitting JSON. ${item["raw_data"]}`);
+                    return;
+                }
+                
+                let explanation = item["data"][currentLang]["desc"];
+                let title = item["data"][currentLang]["title"];
+
+                const cats = item["data"]["categories"].slice(0, 5).join(" ");
+                const githubStars = Number(item["github_stars"]);
+                let githubBlock = "";
+                if (item["github_url"]) {
+                    const starsText = Number.isFinite(githubStars) ? githubStars : 0;
+                    githubBlock = `<span class="github-link"><span class="github-stars">⭐ ${starsText}</span><a href="${item['github_url']}" target="_blank">GitHub</a></span>`;
+                }
+                
+                let affiliations = ""
+                if ('affiliations' in item) {
+                    affiliations = item["affiliations"].slice(0, 10).join(", ");
+                }
+
+                let pdfImg = "img/title_stub.png"
+                if ('pdf_title_img' in item) {
+                    pdfImg = '' + item['pdf_title_img']
+                    
+                }                
+
+                const articleHTML = `
+                    <article class='x${item["hash"]}'>
+                        <div class="article-content" onclick="toggleAbstract(${index})">
+                            <div class="background-digit">${index + 1}</div>
+                            <div class="article-title-cont">
+                                <div style="display:table-cell; vertical-align: middle;">
+                                    <div class="article-title"><h2>${item['data']['emoji']} ${title}</h2></div>
+                                </div>
+                            </div>
+                            <p class="meta">
+                            🔺 ${item['score']}. ${item['title']}</p>
+                            <p class="pub-date">${publishedLabel[currentLang]}${item['pub_date_card'][currentLang]}</p>
+                            
+                            <div class="article-pdf-title-img-cont"><img class="article-pdf-title-img" src="${pdfImg}"/></div>
+                            
+                            <div id="abstract-${index}" class="abstract">
+                                <p>${explanation}</p>
+                                <div id="toggle-${index}" class="abstract-toggle">...</div>
+                            </div>
+
+                            
+
+                            <div class="links">
+                                <a href="${item['url']}" target="_blank">${paperLabel[currentLang]}</a>
+                                ${githubBlock}
+                            </div>
+
+                            <div class="affiliations">${affiliations}</div>
+
+                            <div class="tags">${cats}</div>
+                        </div>
+                    </article>
+                `;
+                articlesContainer.innerHTML += articleHTML;
+            });
+        }
+        
+        function sortArticles() {
+            let sortedArticles = [...selectedArticles];
+            if (sortBy === 'issue_id') {
+                sortedArticles.sort((a, b) => b.issue_id - a.issue_id);
+            } else if (sortBy === 'pub_date') {
+                sortedArticles.sort((a, b) => b.pub_date.localeCompare(a.pub_date));
+            } else if (sortBy === 'github') {
+                sortedArticles.sort((a, b) => (Number(b.github_stars) || 0) - (Number(a.github_stars) || 0));
+            } else {
+                sortedArticles.sort((a, b) => b.score - a.score);
+            }
+            renderArticles(sortedArticles);
+            localStorage.setItem('sort_by', sortBy);
+        }
+        
+        sortDropdown.addEventListener('change', (event) => {
+            sortBy = event.target.value;
+            sortArticles(event.target.value);
+        });
+
+        categoryToggle.addEventListener('click', () => {
+            categoryFiltersContainer.classList.toggle('expanded');
+            setFilterOptionsVisibility();
+        });
+
+        clearCategoriesButton.addEventListener('click', () => {
+            clearAllCategories();
+            setFilterOptionsVisibility();
+        });
+
+        function setFilterOptionsVisibility() {
+            if (selectedCategories.length > 0) {
+                categoryFiltersLogicOptions.style.display = 'inline-block';
+            } else {
+                categoryFiltersLogicOptions.style.display = 'none';
+            }
+        } 
+        
+        function updateTimeDiffs() {
+            const timeDiff = document.getElementById('timeDiff');
+            timeDiff.innerHTML = '🔄 ' + getTimeDiff('2026-07-07 17:14',lang=currentLang);
+        }
+        function updateSortingOptions() {
+            const sortingLabels = {
+                ru: {
+                    default: "рейтингу",
+                    pub_date: "дате публикации",
+                    issue_id: "добавлению на HF",
+                    github: "звёздам GitHub"
+                },
+                en: {
+                    default: "rating",
+                    pub_date: "publication date",
+                    issue_id: "HF addition date",
+                    github: "GitHub stars"
+                },
+                zh: {
+                    default: "评分",
+                    pub_date: "发布日期",
+                    issue_id: "HF 收录日期",
+                    github: "GitHub 星标"
+                }
+            };
+
+            const dropdown = document.getElementById('sort-dropdown');
+            const options = dropdown.options;
+
+            for (let i = 0; i < options.length; i++) {
+                const optionValue = options[i].value;
+                options[i].text = sortingLabels[currentLang][optionValue];
+            }
+        }
+
+        function updateLocalization() {
+            const titleDate = document.getElementById('title-date');
+            const prevDate = document.getElementById('prev-date');
+            const nextDate = document.getElementById('next-date');
+            const topMonth = document.getElementById('top-month-label');
+            const topDay = document.getElementById('top-day-label');
+            const papersCount = document.getElementById('title-articles-count');
+            const sortLabelText = document.getElementById('sort-label-text');
+            titleDate.innerHTML = feedDate[currentLang];
+            prevDate.innerHTML = feedDatePrev[currentLang];
+            nextDate.innerHTML = feedDateNext[currentLang];
+            papersCount.innerHTML = formatArticlesTitle(articlesData.length, currentLang);
+            sortLabelText.innerHTML = sortLabel[currentLang];
+            if (topMonth) {
+                topMonth.innerHTML = topMonthLabel[currentLang];
+            }  
+            if (topDay) {
+                topDay.innerHTML = topDayLabel[currentLang];
+            }             
+            updateSelectedArticlesTitle();
+            updateSortingOptions();
+        } 
+        function hideNextLink(format) {
+            if (format === 'monthly') {
+                if (isCurrentMonth('2026-07-07 17:14')) {
+                    const element = document.getElementById('nav-next');
+                    if (element) {    
+                        element.style.display = 'none';
+                    }
+                }
+            } else {            
+                if (isToday('2026-07-07 17:14')) {
+                    const element = document.getElementById('nav-next');
+                    if (element) {    
+                        element.style.display = 'none';
+                    }
+                }
+            }
+        }
+
+        loadSettings();
+        createCategoryButtons();
+        loadCategorySelection();
+        filterAndRenderArticles();
+        updateSelectedArticlesTitle();
+        updateTimeDiffs();
+        hideNextLink('daily'); 
+        initializeLanguageFlags();
+        updateLocalization();
+        setFilterOptionsVisibility();
+    </script>
+</body>
+</html>
+    
