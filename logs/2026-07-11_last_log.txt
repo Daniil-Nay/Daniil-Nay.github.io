@@ -1,0 +1,482 @@
+[10.07.2026 16:56] Read previous papers.
+[10.07.2026 16:56] Generating top page (month).
+[10.07.2026 16:56] Writing top page (month).
+[11.07.2026 01:27] Read previous papers.
+[11.07.2026 01:27] Get feed.
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03118
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03118
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2603.29616
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2603.29616
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2601.16211
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2601.16211
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08768
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08768
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08758
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08758
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08770
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08770
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08765
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08765
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08404
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08404
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07740
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07740
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03803
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03803
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08763
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08763
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07953
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07953
+[11.07.2026 01:27] Extract page data from URL. URL: https://huggingface.co/papers/2607.08716
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.06987
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.06987
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.06238
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.06238
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04461
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04461
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08526
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08526
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08093
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08093
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08741
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08741
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07816
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07816
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08688
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08688
+[11.07.2026 01:27] Extract page data from URL. URL: https://huggingface.co/papers/2607.04690
+[11.07.2026 01:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03936
+[11.07.2026 01:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03936
+[11.07.2026 01:27] Updating GitHub stars.
+[11.07.2026 01:27] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[11.07.2026 01:27] No deleted papers detected.
+[11.07.2026 01:27] Downloading and parsing papers (pdf, html). Total: 23.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.03118.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.03118.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.03118.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2603.29616.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2603.29616.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2603.29616.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2601.16211.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2601.16211.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2601.16211.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08768.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08768.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08768.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08758.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08758.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08758.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08770.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08770.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08770.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08765.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08765.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08765.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08404.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08404.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08404.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.07740.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.07740.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.07740.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.03803.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.03803.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.03803.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08763.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08763.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08763.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.07953.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.07953.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.07953.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08716.
+[11.07.2026 01:27] Downloading paper 2607.08716 from https://arxiv.org/pdf/2607.08716v1...
+[11.07.2026 01:27] Extracting affiliations from text.
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents Yifan Wu, Lizhu Zhang, Yuhang Zhou, Mingyi Wang, Bo Peng, Serena Li, Xiangjun Fan, Zhuokai Zhao In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode behavioral state decay. We study memory as an active intervention mechanism rather than passive retrieval. separate memory agent runs alongside an unmodified action agent, updating structured memory bank from the recent trajectory and deciding whether to inject memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and τ 2-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on τ 2-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench. Date: July 10, 2026 Correspondence: Yifan Wu and Zhuokai Zhao at {yfwu, zhuokai}@meta.com Code: https://github.com/yifannnwu/proactive-memory-agent LLM agents are increasingly evaluated on long-horizon tasks that require many rounds of tool use and environment interaction (Yao et al., 2023b; Shinn et al., 2023; Wang et al., 2024). These tasks span autonomous command-line execution (Merrill et al., 2026), multi-step machine-learning engineering (Chan et al., 2024), and interactive tool use under domain-specific rules (Yao et al., 2024; Barres et al., 2025). Beca"
+[11.07.2026 01:27] Response: ```python
+[]
+```
+[11.07.2026 01:27] Extracting affiliations from text.
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents Yifan Wu, Lizhu Zhang, Yuhang Zhou, Mingyi Wang, Bo Peng, Serena Li, Xiangjun Fan, Zhuokai ZhaoIn long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode behavioral state decay. We study memory as an active intervention mechanism rather than passive retrieval. separate memory agent runs alongside an unmodified action agent, updating structured memory bank from the recent trajectory and deciding whether to inject memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and τ 2-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on τ 2-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench. Date: July 10, 2026 Correspondence: Yifan Wu and Zhuokai Zhao at {yfwu, zhuokai}@meta.com Code: https://github.com/yifannnwu/proactive-memory-agentLLM agents are increasingly evaluated on long-horizon tasks that require many rounds of tool use and environment interaction (Yao et al., 2023b; Shinn et al., 2023; Wang et al., 2024). These tasks span autonomous command-line execution (Merrill et al., 2026), multi-step machine-learning engineering (Chan et al., 2024), and interactive tool use under domain-specific rules (Yao et al., 2024; Barres et al., 2025). Because such tasks unfold over many observations, actions, and partial decisions, success depends not only on solving each local problem, but also on preserving information that should constrain future behavior. Yet agents often fail in ways that reveal breakdown in this state maintenance: they may identify requirement early in task and later violate it while fixing an unrelated bug; observe that command, parameter setting, or implementation path fails and later retry near-identical variant; or diagnose an error pattern and later treat the same pattern as new. These failures suggest that simply making longer histories available is insufficient. Long-horizon agents need mechanisms for keeping decision-relevant execution state active over time. We call this failure mode behavioral state decay: during long-horizon execution, information that should shape future actions like task requirements, environment facts, previous attempts, failure diagnoses, intermediate discoveries, and open subgoals stops influencing the agents next decision. The information may still be present in the transcript, or may even remain within the models context window, but it no longer exerts reliable control over behavior (Liu et al., 2024). This distinction is important because many memory approaches focus on whether information can be stored or retrieved, while long-horizon task execution also requires deciding when remembered information should affect the agents next action. natural response is to equip agents with memory. Existing memory systems typically emphasize storing, updating, and retrieving relevant records (Packer et al., 2023; Zhong et al., 2024; Park et al., 2023; Mem0 Team, 2026), which is crucial for personalization, persistent user state, and cross-session recall. However, active task execution introduces different problem: memory must decide when to intervene. Surfacing too little memory lets the agent repeat mistakes or ignore prior discoveries; surfacing too much adds latency, 1 consumes tokens, and can distract the agent from local progress. Effective memory for long-horizon agents is not only write and retrieval problem, but also an intervention problem. This is stronger control question than summarization. summarizer asks what to retain; our memory asks whether any retained execution state should become active in the action agents next decision. Long-horizon tasks vary in their failure modesin some, the useful memory is hard requirement from the initial instruction; in others, an environment fact, failed command, bug diagnosis, or an unfinished subgoalso fixed summarization policy cannot know whether memory should interrupt the next action. We study memory as intervention. We introduce memory agent that runs alongside an unmodified action agent. At fixed intervals, it updates structured memory bank from the recent trajectory and then decides whether to inject concise remindera forgotten requirement, stable environment fact, failed attempt, or diagnosisinto the next action-agent call, or to remain silent. Unlike passive memory systems, it does not just retrieve records on demand; it decides whether memory should enter the control loop (Zhang et al., 2025). Unlike general advisor models (Asawa et al., 2025; Anthropic, 2026), it is constrained to memory-grounded reminders rather than broad strategic guidance. We evaluate this architecture on Terminal-Bench 2.0 (Merrill et al., 2026) and τ 2-Bench (Yao et al., 2024; Barres et al., 2025), covering both autonomous command-line execution and interactive tool-use. With Claude Opus 4.6 as the memory agent, memory intervention improves Claude Sonnet 4.5 on Terminal-Bench (37.6% 45.9%) and on τ 2-Bench (55.0% 61.8%), and the gain does not vanish for stronger action agent: Opus 4.6 still gains +2.4 pp and +2.5 pp respectively. Ablations show that our proactive intervention beats passive memory exposure and general memory retrieval. As an early step toward an open-weight memory policy, we further fine-tune Qwen3.5-27B as the memory agent with SFT and GRPO and observe that gains transfer to held-out Terminal-Bench. Our contributions are: (i) we identify behavioral state decay as central failure mode of long-horizon language agents; (ii) we propose two-phase memory intervention architecture that decouples memory maintenance from action selection. We show empirically that memory intervention improves long-horizon task performance and that ablations favor maintained memory plus selective interve"
+[11.07.2026 01:27] Response: ```python
+["Meta"]
+```
+[11.07.2026 01:27] Deleting PDF ./assets/pdf/2607.08716.pdf.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.06987.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.06987.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.06987.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.06238.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.06238.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.06238.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.04461.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.04461.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.04461.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08526.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08526.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08526.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08093.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08093.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08093.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08741.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08741.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08741.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.07816.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.07816.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.07816.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.08688.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.08688.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.08688.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.04690.
+[11.07.2026 01:27] Downloading paper 2607.04690 from https://arxiv.org/pdf/2607.04690v1...
+[11.07.2026 01:27] Extracting affiliations from text.
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"6 2 0 2 6 ] . [ 1 0 9 6 4 0 . 7 0 6 2 : r PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection Md. Shakhoyat Rahman Shujon1, MD Jahid Hasan Jim1, Md. Milon Islam1, Md. Rezwanul Haque2, Fakhri Karray2,3 1Department of Computer Science and Engineering, Khulna University of Engineering & Technology skt104.shujon@gmail.com, mdjahidhasanjim277@gmail.com, milonislam@cse.kuet.ac.bd 2Department of Electrical and Computer Engineering, University of Waterloo 3Department of Machine Learning, Mohamed bin Zayed University of Artificial Intelligence {rezwan, karray}@uwaterloo.ca Abstract We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting verbalizer map label words to stance categories through the pre-trained MLM head rather than appending randomly initialized classification head. We complement this with prototypical contrastive learning, which uses learnable class prototypes for batch-size independent contrastive training, and topic-conditional layer normalization for cross-topic Arabic stance detection. PAST-TIDE achieves macro-F1 scores of 0.75 for Subtask and 0.74 for Subtask on the official leaderboard, indicating that minimal architectural additions to pre-trained model can remain competitive in low-resource settings. Keywords: stance detection, prompt-based classification, contrastive learning, cross-topic generalization, low-resource multilingual NLP. 1. Understanding persons stance on given topic remains challenging problem in computational argumentation (Mohammad et al., 2016; Küçük and Can, 2020). The field has moved from handcrafted features to pre-trained language model finetuning (Ghosh et al., 2019; Li and Caragea, 2021) to prompt-based reformulations (Schick and Schütze, 2021; Gao et al., 2021), yet multilingual stance dete"
+[11.07.2026 01:27] Response: ```python
+[
+    "Department of Computer Science and Engineering, Khulna University of Engineering & Technology",
+    "Department of Electrical and Computer Engineering, University of Waterloo",
+    "Department of Machine Learning, Mohamed bin Zayed University of Artificial Intelligence"
+]
+```
+[11.07.2026 01:27] Deleting PDF ./assets/pdf/2607.04690.pdf.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Downloading and parsing paper https://huggingface.co/papers/2607.03936.
+[11.07.2026 01:27] Extra JSON file exists (./assets/json/2607.03936.json), skip PDF parsing.
+[11.07.2026 01:27] Paper image links file exists (./assets/img_data/2607.03936.json), skip HTML parsing.
+[11.07.2026 01:27] Success.
+[11.07.2026 01:27] Enriching papers with extra data.
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 0. Abstract Vidu S1 is a real-time interactive video generation model that supports voice-controlled digital character animation with infinite-length output and high frame rate on consumer hardware.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We introduce Vidu S1, a real-time interactive video genera...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 1. Abstract Video-Oasis diagnostics reveal that half of existing video benchmarks can be solved without visual input, exposing significant capability gaps in current video understanding models.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct The inherent complexity of video understanding makes it difficu...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 2. Abstract RCORE addresses object-driven shortcuts in zero-shot compositional action recognition by using co-occurrence prior regularization and temporal order regularization to improve compositional generalization.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Zero-Shot Compositional Action Recogniti...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 3. Abstract UniClawBench introduces a capability-driven benchmark for evaluating proactive agents in real-world environments using live Docker container evaluation and closed-loop assessment with multiple agent roles.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct The rapid development of large language...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 4. Abstract A benchmark for scientific lineage reasoning and idea generation is introduced, organizing scientific works as genetic-like Idea Genome objects and evaluating both reasoning and generation capabilities.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scientific ideas rarely start from a blank...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 5. Abstract LongE2V enables high-quality video recovery from sparse event streams by leveraging pre-trained video diffusion priors and addressing temporal stability and frame interpolation challenges.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recovering high-quality video from sparse event streams ...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 6. Abstract Canvas360 is a two-stage framework for in-context panoramic generation that combines geometry-aware pretraining with fine-tuning, featuring a large-scale dataset and novel modeling techniques for improved geometric consistency and global coherence.  Generated by Qwen/Qwen2.5-Coder-32B-Instr...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 7. Abstract DrugGen-2 generates small molecules conditioned on disease ontology and target protein sequences through fine-tuning GPT-2 with supervised learning and reinforcement learning using GRPO, achieving superior molecular diversity and binding affinity compared to baseline models.  Generated by Q...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 8. Abstract A novel zero-shot method called Jet-Long enables efficient long-context processing for large language models by dynamically adapting rescaling factors and utilizing a bifocal attention mechanism that maintains high performance across varying sequence lengths.  Generated by Qwen/Qwen2.5-Code...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 9. Abstract CineMobile enables efficient image-to-video generation on mobile devices through distillation-guided pruning, diffusion distillation, and hybrid quantization techniques while maintaining visual quality and achieving significant speedup.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct The grow...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 10. Abstract OpenCoF framework introduces a reasoning video dataset and model that improve temporal reasoning through diverse supervision and explicit reasoning tokens for visual and textual cues.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Reasoning has become a core capability for large models, espe...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 11. Abstract A comparative analysis of softmax attention and recurrent linear-attention architectures examines their expressivity, memory management, and training efficiency across different parameter scales and sequence lengths.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Self-attention lets each tok...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 12. Abstract  In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or ...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 13. Abstract Reinforcement learning frameworks for large language models face exploration-stability trade-offs, which are addressed through a novel universal objective called Unbounded Positive Asymmetric Optimization that enables stable training with enhanced exploration capabilities.  Generated by Qwe...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 14. Abstract MR super-resolution is reformulated as a physics-aware reconstruction problem that dynamically adapts resolution-SNR configurations using Gaussian splatting with prior-aware representations and physics-constrained modeling.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Magnetic resonance im...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 15. Abstract Flash-BoN improves text-to-image generation efficiency by using inexpensive draft candidates generated through timestep truncation, layer skipping, and activation proxies, followed by multi-stage verification that outperforms existing methods under fixed wall-clock budgets.  Generated by Qw...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 16. Abstract A dependency-free runtime enables efficient text-to-music generation on embedded devices through quantization and activation steering while maintaining audio quality.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Semantic audio applications increasingly require controllable generation on co...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 17. Abstract CausalDS is a benchmark for evaluating causal reasoning in data-science workflows that combines synthetic causal structures with realistic observational data and natural-language stories across Pearl's three rungs of causal inference.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Large lang...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 18. Abstract ARDY is a streaming generation framework that enables real-time, high-fidelity 3D human motion generation with text and kinematic constraint control through a hybrid representation and two-stage autoregressive transformer denoiser.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Generating re...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 19. Abstract Peaked quantum circuits can be efficiently simulated classically using sparse state vector representations with vectorized operations and hardware acceleration.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct In a class of quantum circuits known as peaked circuits, the goal is to predict the ...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 20. Abstract  Modern Video Object Segmentation (VOS) involves tracking and segmenting user-specified targets. While recent approaches have achieved remarkable performance in single-target scenarios, extending them to multi-target settings typically involves replicating the single-target processing for e...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 21. Abstract  We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting a verbalizer map label words to stance cate...
+[11.07.2026 01:27] ********************************************************************************
+[11.07.2026 01:27] Abstract 22. Abstract Arabic language models exhibit dialect-specific neural representations that can be manipulated at inference time to control dialectal output without requiring additional training.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct A key challenge in Arabic NLP is the scarcity of dialectal data r...
+[11.07.2026 01:27] Read previous papers.
+[11.07.2026 01:27] Generating reviews via LLM API.
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#inference", "#diffusion", "#audio", "#3d", "#games", "#multimodal"], "emoji": "🎥", "ru": {"title": "Генерация видео в реальном времени с голосовым управлением", "desc": "Vidu S1 — это модель генерации видео в реальном времени, которая позволяет анимировать цифровых персонажей при п
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#benchmark", "#survey", "#reasoning", "#dataset", "#interpretability"], "emoji": "🎥", "ru": {"title": "Пробелы в понимании видео: время для новых стандартов!", "desc": "Статья обсуждает проблему оценки моделей для понимания видео, показывая, что многие существующие бенчмарки могут б
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#rl", "#reasoning", "#training", "#optimization"], "emoji": "🔄", "ru": {"title": "Преодоление коротких путей в распознавании действий", "desc": "Статья рассматривает проблему объектно-ориентированных кратких путей в распознавании действий без обучения (zero-shot). Для улучшения гене
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#agent_memory", "#games", "#benchmark", "#long_context", "#multimodal", "#open_source", "#agents"], "emoji": "🤖", "ru": {"title": "Новый взгляд на оценку проактивных агентов", "desc": "Статья представляет UniClawBench, новый бенчмарк для оценки проактивных агентов в реальных условия
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#reasoning", "#science", "#benchmark"], "emoji": "🧬", "ru": {"title": "Наследие идей: анализ и генерация", "desc": "В этой статье представлен бенчмарк для рассуждений о научном родословии и генерации идей, организующий научные работы как объекты Idea Genome, похожие на генетические.
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#diffusion", "#training", "#benchmark", "#optimization", "#dataset", "#data"], "emoji": "🎥", "ru": {"title": "Новая эра восстановления видео с LongE2V", "desc": "Статья представляет новый метод LongE2V, который позволяет восстанавливать высококачественное видео из разреженных событи
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#games", "#optimization", "#architecture", "#dataset", "#synthetic"], "emoji": "🖼️", "ru": {"title": "Canvas360: новая эра панорамной генерации", "desc": "Статья представляет фреймворк Canvas360, который предназначен для генерации панорамных изображений в контексте. Он использует дв
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#rl", "#training", "#optimization", "#dataset", "#science", "#healthcare"], "emoji": "💊", "ru": {"title": "Новые молекулы для борьбы с заболеваниями", "desc": "DrugGen-2 представляет собой новый генеративный модель, которая разрабатывает маломолекулярные соединения с учетом онтологи
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#inference", "#training", "#rag", "#long_context", "#optimization", "#architecture", "#multimodal"], "emoji": "🔍", "ru": {"title": "Эффективная обработка длинного контекста с Jet-Long", "desc": "В статье представлен новый метод нулевого обучения под названием Jet-Long, который обесп
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#compression", "#diffusion", "#training", "#optimization", "#inference"], "emoji": "🎥", "ru": {"title": "Эффективная генерация видео на мобильных устройствах", "desc": "CineMobile предоставляет эффективную генерацию видео из изображений на мобильных устройствах с использованием мето
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#reasoning", "#open_source", "#benchmark", "#dataset"], "emoji": "🎥", "ru": {"title": "OpenCoF: новое слово в видео рассуждении!", "desc": "В статье представлен фреймворк OpenCoF, который вводит набор данных и модель для видео, улучшающие временное рассуждение с помощью разнообразно
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#memory", "#training", "#optimization", "#architecture", "#long_context"], "emoji": "🧠", "ru": {"title": "Сравнение механизмов внимания в машинном обучении", "desc": "В данной статье проведен сравнительный анализ механизмов внимания softmax и рецидивирующих архитектур линейного вним
+[11.07.2026 01:27] Querying the API.
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode "behavioral state decay". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and τ^2-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on τ^2-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench.
+[11.07.2026 01:27] Response: ```json
+{
+  "desc": "В данной статье рассматривается проблема 'угасания поведенческого состояния' в долгосрочных задачах машинного обучения. Авторы предлагают использовать активное вмешательство памяти, чтобы эффективно извлекать важные данные из прошлых траекторий вместо пассивного восстановления. Они разработали отдельный агент памяти, который работает вместе с агентом действий и решает, когда напоминать о важной информации. Это решение улучшает результаты работы агентов в различных тестах, показывая значительные приросты в их производительности.",
+  "emoji": "🧠",
+  "title": "Активная память для улучшения долгосрочных решений"
+}
+```
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode "behavioral state decay". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and τ^2-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on τ^2-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench."
+
+[11.07.2026 01:27] Response: ```python
+["AGENTS", "MEMORY", "AGENT_MEMORY", "TRAINING"]
+```
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode "behavioral state decay". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and τ^2-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on τ^2-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench."
+
+[11.07.2026 01:27] Response: ```python
+["MEMORY", "AGENT_MEMORY", "CONTINUAL_LEARNING"]
+```
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode "behavioral state decay". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and τ^2-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on τ^2-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[11.07.2026 01:27] Response: {
+  "desc": "This paper addresses the challenge of decision-making in long-horizon tasks where relevant information can become lost over time, a phenomenon termed 'behavioral state decay'. It proposes a memory agent that actively manages a structured memory bank, allowing it to provide timely reminders to the action agent when necessary. The memory agent operates alongside the action agent, enhancing its performance by selectively injecting memory-based information rather than relying on passive retrieval methods. Experimental results show significant improvements in task performance across various benchmarks, demonstrating the effectiveness of this memory intervention approach.",
+  "title": "Enhancing Decision-Making with Active Memory Intervention"
+}
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#rl", "#reasoning", "#training", "#optimization"], "emoji": "🧠", "ru": {"title": "Новая эра обучения с подкреплением для языковых моделей", "desc": "В этой статье представлены методы обучения с подкреплением для больших языковых моделей, которые сталкиваются с дилеммой исследования 
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#benchmark", "#optimization", "#dataset", "#science", "#healthcare"], "emoji": "🔍", "ru": {"title": "Динамическое супер-разрешение в MRI", "desc": "В этой статье MRI супер-разрешение рассматривается как задача реконструкции, учитывающая физические аспекты. Авторы предлагают динамиче
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#rl", "#inference", "#training", "#data", "#optimization", "#games"], "emoji": "✨", "ru": {"title": "Flash-BoN: Эффективная генерация изображений из текста", "desc": "Статья описывает метод Flash-BoN, который улучшает эффективность генерации изображений из текста. Он использует недо
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#inference", "#open_source", "#audio", "#optimization"], "emoji": "🎶", "ru": {"title": "Эффективная генерация музыки на встроенных устройствах", "desc": "Данная статья представляет новый исполняемый код aria, который позволяет эффективно генерировать музыку из текста на встроенных у
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#tool_use", "#benchmark", "#reasoning", "#data", "#synthetic", "#agents"], "emoji": "🔍", "ru": {"title": "CausalDS: новый подход к оценке причинного мышления!", "desc": "CausalDS — это бенчмарк для оценки причинного мышления в рамках рабочих процессов в области анализа данных. Он со
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#benchmark", "#open_source", "#long_context", "#3d", "#optimization", "#games", "#architecture"], "emoji": "🤖", "ru": {"title": "Реализация высококачественной 3D генерации движений в реальном времени", "desc": "ARDY — это фреймворк для потоковой генерации, который позволяет в реальн
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#open_source", "#dataset", "#data", "#optimization"], "emoji": "⚛️", "ru": {"title": "Эффективные симуляции пиковых квантовых цепей", "desc": "В статье рассматриваются методы эффективной симуляции квантовых цепей с пиковыми распределениями. Эти цепи позволяют предсказывать наиболее 
+[11.07.2026 01:27] Using data from previous issue: {"categories": ["#memory", "#training", "#agents", "#3d", "#optimization"], "emoji": "🎥", "ru": {"title": "Быстрая сегментация нескольких объектов в видео", "desc": "Современная сегментация объектов в видео (VOS) фокусируется на отслеживании и сегментации заданных пользователем объектов. В большинст
+[11.07.2026 01:27] Querying the API.
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting a verbalizer map label words to stance categories through the pre-trained MLM head rather than appending a randomly initialized classification head. We complement this with prototypical contrastive learning, which uses learnable class prototypes for batch-size independent contrastive training, and topic-conditional layer normalization for cross-topic Arabic stance detection. PAST-TIDE achieves macro-F1 scores of 0.75 for Subtask A and 0.74 for Subtask B on the official leaderboard, indicating that minimal architectural additions to a pre-trained model can remain competitive in low-resource settings.
+[11.07.2026 01:27] Response: {
+  "desc": "В данной работе представлена система обнаружения позиции PAST-TIDE, которая решает две подзадачи конкурса StanceNakba на NakbaNLP@LREC-COLING 2026. Основная идея заключается в настройке утверждений, где позиция определяется с помощью моделирования языка в стиле cloze. Мы используем прототипическое контрастивное обучение и нормализацию слоя, зависящую от темы, для улучшения обнаружения позиции в арабском языке. Результаты показывают, что минимальные изменения в архитектуре предварительно обученной модели позволяют достичь конкурентоспособных результатов в условиях нехватки ресурсов.",
+  "emoji": "🧠",
+  "title": "Новая эра в обнаружении позиции с PAST-TIDE"
+}
+[11.07.2026 01:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting a verbalizer map label words to stance categories through the pre-trained MLM head rather than appending a randomly initialized classification head. We complement this with prototypical contrastive learning, which uses learnable class prototypes for batch-size independent contrastive training, and topic-conditional layer normalization for cross-topic Arabic stance detection. PAST-TIDE achieves macro-F1 scores of 0.75 for Subtask A and 0.74 for Subtask B on the official leaderboard, indicating that minimal architectural additions to a pre-trained model can remain competitive in low-resource settings."
+
+[11.07.2026 01:27] GitHub Models 429 (rate limit). Ждём 19270s, попытка 1/4.
+[11.07.2026 06:49] Response: ```python
+['DATASET', 'TRAINING', 'LOW_RESOURCE']
+```
+[11.07.2026 06:49] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting a verbalizer map label words to stance categories through the pre-trained MLM head rather than appending a randomly initialized classification head. We complement this with prototypical contrastive learning, which uses learnable class prototypes for batch-size independent contrastive training, and topic-conditional layer normalization for cross-topic Arabic stance detection. PAST-TIDE achieves macro-F1 scores of 0.75 for Subtask A and 0.74 for Subtask B on the official leaderboard, indicating that minimal architectural additions to a pre-trained model can remain competitive in low-resource settings."
+
+[11.07.2026 06:49] Response: ```python
+['LOW_RESOURCE']
+```
+[11.07.2026 06:49] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting a verbalizer map label words to stance categories through the pre-trained MLM head rather than appending a randomly initialized classification head. We complement this with prototypical contrastive learning, which uses learnable class prototypes for batch-size independent contrastive training, and topic-conditional layer normalization for cross-topic Arabic stance detection. PAST-TIDE achieves macro-F1 scores of 0.75 for Subtask A and 0.74 for Subtask B on the official leaderboard, indicating that minimal architectural additions to a pre-trained model can remain competitive in low-resource settings.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[11.07.2026 06:49] Response: {
+  "desc": "PAST-TIDE is a stance detection system designed for the StanceNakba Shared Task. It innovatively uses statement tuning by redefining stance detection as a cloze-style masked language modeling task. The system employs prototypical contrastive learning to enhance training efficiency and incorporates topic-conditional layer normalization for better performance in Arabic stance detection. PAST-TIDE demonstrates strong results with macro-F1 scores of 0.75 and 0.74, showing that small modifications to pre-trained models can yield competitive outcomes in low-resource environments.",
+  "title": "Efficient Stance Detection with PAST-TIDE"
+}
+[11.07.2026 06:49] Using data from previous issue: {"categories": ["#training", "#inference", "#transfer_learning", "#multilingual", "#interpretability"], "emoji": "🗣️", "ru": {"title": "Управление диалектами арабских LLM без переобучения", "desc": "Исследование посвящено особенностям арабских языковых моделей, которые могут генерировать текст на ра
+[11.07.2026 06:49] Renaming data file.
+[11.07.2026 06:49] Renaming previous data. hf_papers.json to ./d/2026-07-10.json
+[11.07.2026 06:49] Saving new data file.
+[11.07.2026 06:49] Generating page.
+[11.07.2026 06:49] Renaming previous page.
+[11.07.2026 06:49] Renaming previous data. index.html to ./d/2026-07-10.html
+[11.07.2026 06:49] Writing result.
+[11.07.2026 06:49] Renaming log file.
+[11.07.2026 06:49] Renaming previous data. log.txt to ./logs/2026-07-11_last_log.txt
