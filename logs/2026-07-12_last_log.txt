@@ -1,0 +1,228 @@
+[11.07.2026 21:49] Read previous papers.
+[11.07.2026 21:49] Generating top page (month).
+[11.07.2026 21:49] Writing top page (month).
+[12.07.2026 02:36] Read previous papers.
+[12.07.2026 02:36] Get feed.
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03118
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03118
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2603.29616
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2603.29616
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2601.16211
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2601.16211
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08758
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08758
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08770
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08770
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08768
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08768
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08765
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08765
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08404
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08404
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07740
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07740
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03803
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03803
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08763
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08763
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08716
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08716
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07953
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07953
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08741
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08741
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07816
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07816
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.06987
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.06987
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08688
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08688
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.06238
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.06238
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04461
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04461
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08526
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08526
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.08093
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.08093
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03936
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03936
+[12.07.2026 02:36] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04690
+[12.07.2026 02:36] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04690
+[12.07.2026 02:36] Updating GitHub stars.
+[12.07.2026 02:36] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[12.07.2026 02:36] No deleted papers detected.
+[12.07.2026 02:36] Downloading and parsing papers (pdf, html). Total: 23.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.03118.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.03118.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.03118.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2603.29616.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2603.29616.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2603.29616.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2601.16211.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2601.16211.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2601.16211.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08758.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08758.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08758.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08770.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08770.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08770.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08768.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08768.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08768.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08765.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08765.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08765.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08404.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08404.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08404.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.07740.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.07740.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.07740.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.03803.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.03803.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.03803.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08763.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08763.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08763.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08716.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08716.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08716.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.07953.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.07953.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.07953.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08741.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08741.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08741.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.07816.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.07816.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.07816.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.06987.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.06987.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.06987.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08688.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08688.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08688.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.06238.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.06238.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.06238.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.04461.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.04461.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.04461.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08526.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08526.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08526.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.08093.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.08093.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.08093.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.03936.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.03936.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.03936.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Downloading and parsing paper https://huggingface.co/papers/2607.04690.
+[12.07.2026 02:36] Extra JSON file exists (./assets/json/2607.04690.json), skip PDF parsing.
+[12.07.2026 02:36] Paper image links file exists (./assets/img_data/2607.04690.json), skip HTML parsing.
+[12.07.2026 02:36] Success.
+[12.07.2026 02:36] Enriching papers with extra data.
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 0. Abstract Vidu S1 is a real-time interactive video generation model that supports voice-controlled digital character animation with infinite-length output and high frame rate on consumer hardware.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct We introduce Vidu S1, a real-time interactive video genera...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 1. Abstract Video-Oasis diagnostics reveal that half of existing video benchmarks can be solved without visual input, exposing significant capability gaps in current video understanding models.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct The inherent complexity of video understanding makes it difficu...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 2. Abstract RCORE addresses object-driven shortcuts in zero-shot compositional action recognition by using co-occurrence prior regularization and temporal order regularization to improve compositional generalization.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Zero-Shot Compositional Action Recogniti...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 3. Abstract A benchmark for scientific lineage reasoning and idea generation is introduced, organizing scientific works as genetic-like Idea Genome objects and evaluating both reasoning and generation capabilities.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Scientific ideas rarely start from a blank...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 4. Abstract LongE2V enables high-quality video recovery from sparse event streams by leveraging pre-trained video diffusion priors and addressing temporal stability and frame interpolation challenges.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Recovering high-quality video from sparse event streams ...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 5. Abstract UniClawBench introduces a capability-driven benchmark for evaluating proactive agents in real-world environments using live Docker container evaluation and closed-loop assessment with multiple agent roles.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct The rapid development of large language...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 6. Abstract Canvas360 is a two-stage framework for in-context panoramic generation that combines geometry-aware pretraining with fine-tuning, featuring a large-scale dataset and novel modeling techniques for improved geometric consistency and global coherence.  Generated by Qwen/Qwen2.5-Coder-32B-Instr...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 7. Abstract DrugGen-2 generates small molecules conditioned on disease ontology and target protein sequences through fine-tuning GPT-2 with supervised learning and reinforcement learning using GRPO, achieving superior molecular diversity and binding affinity compared to baseline models.  Generated by Q...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 8. Abstract A novel zero-shot method called Jet-Long enables efficient long-context processing for large language models by dynamically adapting rescaling factors and utilizing a bifocal attention mechanism that maintains high performance across varying sequence lengths.  Generated by Qwen/Qwen2.5-Code...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 9. Abstract CineMobile enables efficient image-to-video generation on mobile devices through distillation-guided pruning, diffusion distillation, and hybrid quantization techniques while maintaining visual quality and achieving significant speedup.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct The grow...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 10. Abstract OpenCoF framework introduces a reasoning video dataset and model that improve temporal reasoning through diverse supervision and explicit reasoning tokens for visual and textual cues.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Reasoning has become a core capability for large models, espe...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 11. Abstract  In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or ...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 12. Abstract A comparative analysis of softmax attention and recurrent linear-attention architectures examines their expressivity, memory management, and training efficiency across different parameter scales and sequence lengths.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Self-attention lets each tok...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 13. Abstract ARDY is a streaming generation framework that enables real-time, high-fidelity 3D human motion generation with text and kinematic constraint control through a hybrid representation and two-stage autoregressive transformer denoiser.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Generating re...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 14. Abstract Peaked quantum circuits can be efficiently simulated classically using sparse state vector representations with vectorized operations and hardware acceleration.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct In a class of quantum circuits known as peaked circuits, the goal is to predict the ...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 15. Abstract Reinforcement learning frameworks for large language models face exploration-stability trade-offs, which are addressed through a novel universal objective called Unbounded Positive Asymmetric Optimization that enables stable training with enhanced exploration capabilities.  Generated by Qwe...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 16. Abstract  Modern Video Object Segmentation (VOS) involves tracking and segmenting user-specified targets. While recent approaches have achieved remarkable performance in single-target scenarios, extending them to multi-target settings typically involves replicating the single-target processing for e...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 17. Abstract MR super-resolution is reformulated as a physics-aware reconstruction problem that dynamically adapts resolution-SNR configurations using Gaussian splatting with prior-aware representations and physics-constrained modeling.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Magnetic resonance im...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 18. Abstract Flash-BoN improves text-to-image generation efficiency by using inexpensive draft candidates generated through timestep truncation, layer skipping, and activation proxies, followed by multi-stage verification that outperforms existing methods under fixed wall-clock budgets.  Generated by Qw...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 19. Abstract A dependency-free runtime enables efficient text-to-music generation on embedded devices through quantization and activation steering while maintaining audio quality.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Semantic audio applications increasingly require controllable generation on co...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 20. Abstract CausalDS is a benchmark for evaluating causal reasoning in data-science workflows that combines synthetic causal structures with realistic observational data and natural-language stories across Pearl's three rungs of causal inference.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct Large lang...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 21. Abstract Arabic language models exhibit dialect-specific neural representations that can be manipulated at inference time to control dialectal output without requiring additional training.  Generated by Qwen/Qwen2.5-Coder-32B-Instruct A key challenge in Arabic NLP is the scarcity of dialectal data r...
+[12.07.2026 02:36] ********************************************************************************
+[12.07.2026 02:36] Abstract 22. Abstract  We introduce PAST-TIDE, our stance detection system addressing both subtasks of the StanceNakba Shared Task at NakbaNLP@LREC-COLING 2026. The main idea is statement tuning. We redefine stance as cloze-style masked language modeling (MLM), letting a verbalizer map label words to stance cate...
+[12.07.2026 02:36] Read previous papers.
+[12.07.2026 02:36] Generating reviews via LLM API.
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#inference", "#diffusion", "#audio", "#3d", "#games", "#multimodal"], "emoji": "🎥", "ru": {"title": "Генерация видео в реальном времени с голосовым управлением", "desc": "Vidu S1 — это модель генерации видео в реальном времени, которая позволяет анимировать цифровых персонажей при п
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#benchmark", "#survey", "#reasoning", "#dataset", "#interpretability"], "emoji": "🎥", "ru": {"title": "Пробелы в понимании видео: время для новых стандартов!", "desc": "Статья обсуждает проблему оценки моделей для понимания видео, показывая, что многие существующие бенчмарки могут б
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#rl", "#reasoning", "#training", "#optimization"], "emoji": "🔄", "ru": {"title": "Преодоление коротких путей в распознавании действий", "desc": "Статья рассматривает проблему объектно-ориентированных кратких путей в распознавании действий без обучения (zero-shot). Для улучшения гене
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#reasoning", "#science", "#benchmark"], "emoji": "🧬", "ru": {"title": "Наследие идей: анализ и генерация", "desc": "В этой статье представлен бенчмарк для рассуждений о научном родословии и генерации идей, организующий научные работы как объекты Idea Genome, похожие на генетические.
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#diffusion", "#training", "#benchmark", "#optimization", "#dataset", "#data"], "emoji": "🎥", "ru": {"title": "Новая эра восстановления видео с LongE2V", "desc": "Статья представляет новый метод LongE2V, который позволяет восстанавливать высококачественное видео из разреженных событи
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#agent_memory", "#games", "#benchmark", "#long_context", "#multimodal", "#open_source", "#agents"], "emoji": "🤖", "ru": {"title": "Новый взгляд на оценку проактивных агентов", "desc": "Статья представляет UniClawBench, новый бенчмарк для оценки проактивных агентов в реальных условия
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#games", "#optimization", "#architecture", "#dataset", "#synthetic"], "emoji": "🖼️", "ru": {"title": "Canvas360: новая эра панорамной генерации", "desc": "Статья представляет фреймворк Canvas360, который предназначен для генерации панорамных изображений в контексте. Он использует дв
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#rl", "#training", "#optimization", "#dataset", "#science", "#healthcare"], "emoji": "💊", "ru": {"title": "Новые молекулы для борьбы с заболеваниями", "desc": "DrugGen-2 представляет собой новый генеративный модель, которая разрабатывает маломолекулярные соединения с учетом онтологи
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#inference", "#training", "#rag", "#long_context", "#optimization", "#architecture", "#multimodal"], "emoji": "🔍", "ru": {"title": "Эффективная обработка длинного контекста с Jet-Long", "desc": "В статье представлен новый метод нулевого обучения под названием Jet-Long, который обесп
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#compression", "#diffusion", "#training", "#optimization", "#inference"], "emoji": "🎥", "ru": {"title": "Эффективная генерация видео на мобильных устройствах", "desc": "CineMobile предоставляет эффективную генерацию видео из изображений на мобильных устройствах с использованием мето
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#reasoning", "#open_source", "#benchmark", "#dataset"], "emoji": "🎥", "ru": {"title": "OpenCoF: новое слово в видео рассуждении!", "desc": "В статье представлен фреймворк OpenCoF, который вводит набор данных и модель для видео, улучшающие временное рассуждение с помощью разнообразно
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#memory", "#training", "#agents", "#continual_learning", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Активная память для улучшения долгосрочных решений", "desc": "В данной статье рассматривается проблема 'угасания поведенческого состояния' в долгосрочных задачах машинного обуче
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#memory", "#training", "#optimization", "#architecture", "#long_context"], "emoji": "🧠", "ru": {"title": "Сравнение механизмов внимания в машинном обучении", "desc": "В данной статье проведен сравнительный анализ механизмов внимания softmax и рецидивирующих архитектур линейного вним
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#benchmark", "#open_source", "#long_context", "#3d", "#optimization", "#games", "#architecture"], "emoji": "🤖", "ru": {"title": "Реализация высококачественной 3D генерации движений в реальном времени", "desc": "ARDY — это фреймворк для потоковой генерации, который позволяет в реальн
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#open_source", "#dataset", "#data", "#optimization"], "emoji": "⚛️", "ru": {"title": "Эффективные симуляции пиковых квантовых цепей", "desc": "В статье рассматриваются методы эффективной симуляции квантовых цепей с пиковыми распределениями. Эти цепи позволяют предсказывать наиболее 
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#rl", "#reasoning", "#training", "#optimization"], "emoji": "🧠", "ru": {"title": "Новая эра обучения с подкреплением для языковых моделей", "desc": "В этой статье представлены методы обучения с подкреплением для больших языковых моделей, которые сталкиваются с дилеммой исследования 
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#memory", "#training", "#agents", "#3d", "#optimization"], "emoji": "🎥", "ru": {"title": "Быстрая сегментация нескольких объектов в видео", "desc": "Современная сегментация объектов в видео (VOS) фокусируется на отслеживании и сегментации заданных пользователем объектов. В большинст
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#benchmark", "#optimization", "#dataset", "#science", "#healthcare"], "emoji": "🔍", "ru": {"title": "Динамическое супер-разрешение в MRI", "desc": "В этой статье MRI супер-разрешение рассматривается как задача реконструкции, учитывающая физические аспекты. Авторы предлагают динамиче
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#rl", "#inference", "#training", "#data", "#optimization", "#games"], "emoji": "✨", "ru": {"title": "Flash-BoN: Эффективная генерация изображений из текста", "desc": "Статья описывает метод Flash-BoN, который улучшает эффективность генерации изображений из текста. Он использует недо
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#inference", "#open_source", "#audio", "#optimization"], "emoji": "🎶", "ru": {"title": "Эффективная генерация музыки на встроенных устройствах", "desc": "Данная статья представляет новый исполняемый код aria, который позволяет эффективно генерировать музыку из текста на встроенных у
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#tool_use", "#benchmark", "#reasoning", "#data", "#synthetic", "#agents"], "emoji": "🔍", "ru": {"title": "CausalDS: новый подход к оценке причинного мышления!", "desc": "CausalDS — это бенчмарк для оценки причинного мышления в рамках рабочих процессов в области анализа данных. Он со
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#training", "#inference", "#transfer_learning", "#multilingual", "#interpretability"], "emoji": "🗣️", "ru": {"title": "Управление диалектами арабских LLM без переобучения", "desc": "Исследование посвящено особенностям арабских языковых моделей, которые могут генерировать текст на ра
+[12.07.2026 02:36] Using data from previous issue: {"categories": ["#dataset", "#training", "#low_resource"], "emoji": "🧠", "ru": {"title": "Новая эра в обнаружении позиции с PAST-TIDE", "desc": "В данной работе представлена система обнаружения позиции PAST-TIDE, которая решает две подзадачи конкурса StanceNakba на NakbaNLP@LREC-COLING 2026. Основна
+[12.07.2026 02:36] Renaming data file.
+[12.07.2026 02:36] Renaming previous data. hf_papers.json to ./d/2026-07-10.json
+[12.07.2026 02:36] Saving new data file.
+[12.07.2026 02:36] Generating page.
+[12.07.2026 02:36] Renaming previous page.
+[12.07.2026 02:36] Renaming previous data. index.html to ./d/2026-07-10.html
+[12.07.2026 02:36] Writing result.
+[12.07.2026 02:36] Renaming log file.
+[12.07.2026 02:36] Renaming previous data. log.txt to ./logs/2026-07-12_last_log.txt
