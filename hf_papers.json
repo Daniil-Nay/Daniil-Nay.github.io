@@ -4,9 +4,9 @@
         "en": "July 15",
         "zh": "7月15日"
     },
-    "time_utc": "2026-07-15 19:09",
+    "time_utc": "2026-07-15 22:00",
     "weekday": 2,
-    "issue_id": 2827,
+    "issue_id": 2828,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding",
             "url": "https://huggingface.co/papers/2607.10400",
             "abstract": "Abstract  Vision language models (VLMs) have achieved strong performance on visual document understanding benchmarks such as DocVQA, ChartQA, and MMLongBench-Doc. However, real-world documents combine multiple factors such as length, layout complexity, modality, and question difficulty, which makes it difficult to attribute model failures to specific causes. We introduce SynthDocBench, a fully synthetic benchmark for long-context visual document understanding that systematically controls factors including document length, layout structure, modality composition, and question type. The benchmark is constructed using a combinatorial design, each factor is varied independently across generated documents, enabling controlled analysis of model behavior. Documents are generated end to end using an LLM pipeline across six layout archetypes, with a 40 percent random override to prevent models from exploiting spurious correlations. Additionally, SynthDocBench spans long-context documents with substantially greater length and structural diversity than existing benchmarks. Evaluating seven frontier VLMs, we uncover three failure modes that existing benchmarks cannot surface: sharp degradation with document length, a systematic positional sensitivity in which the middle third of a document is hardest for five of six models and five of six models show a negative Early-to-Late trend (steepest decline: 8.3 percentage points), and breakdown of chart comprehension in long-document settings. These results suggest that current models may be overfitting to benchmark artifacts rather than achieving robust long-context visual document understanding.",
-            "score": 48,
+            "score": 50,
             "issue_id": 2826,
             "pub_date": "2026-07-11",
             "pub_date_card": {
@@ -110,61 +110,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.08317",
-            "title": "Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models",
-            "url": "https://huggingface.co/papers/2607.08317",
-            "abstract": "Abstract  Modern AI models achieve strong performance on many established benchmarks, yet they still fail on tasks that humans find almost trivial, such as manipulating a string or drawing a dog with five legs. These examples suggest that existing benchmarks may under-measure persistent blind spots in current systems. We introduce blind-spots-bench, a benchmark designed to expose such blind spots through tasks that appear simple for humans but remain challenging for modern AI. We collect raw questions from students in an AI course, clean and annotate them with structured reference solutions, and propose a task taxonomy tailored to the resulting dataset of 235 samples. We further develop an automated grading pipeline to evaluate a wide range of models, including open-weight and closed-source language, vision-language, and image-generation models. Our analysis on blind-spots-bench reveals that closed-source frontier models can substantially outperform open-weight models with even approx10% gap, even when they attain comparable performance on existing benchmarks. A more fine-grained analysis shows that no single model dominates across all task types, and that some tasks remain challenging for all evaluated models. These results highlight the value of blind-spots-bench as a diagnostic stress test for identifying concrete weaknesses in current modern models.",
-            "score": 18,
-            "issue_id": 2825,
-            "pub_date": "2026-07-09",
-            "pub_date_card": {
-                "ru": "9 июля",
-                "en": "July 9",
-                "zh": "7月9日"
-            },
-            "hash": "129523b77195e42c",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Matteo Santelmo",
-                "Xiuying Wei",
-                "Israa Fakih",
-                "Felix Bauer",
-                "Juan Garcia Giraldo",
-                "Chengkun Li",
-                "Etienne Bamas",
-                "Emmanuel Abbé"
-            ],
-            "affiliations": [
-                "Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.08317.jpg",
-            "data": {
-                "categories": [
-                    "#data",
-                    "#interpretability",
-                    "#dataset",
-                    "#benchmark",
-                    "#survey",
-                    "#optimization"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Выявление слепых зон в современных моделях ИИ",
-                    "desc": "Современные модели ИИ показывают высокие результаты на многих стандартизированных тестах, но продолжают сталкиваться с задачами, которые для людей кажутся простыми, такими как манипуляция строками или рисование собаки с пятью ногами. Эта работа представляет новый набор тестов blind-spots-bench, который предназначен для выявления слепых зон в текущих системах через задачи, которые кажутся легкими для человека, но остаются сложными для ИИ. Мы собрали вопросы от студентов курса ИИ, обработали их и предложили таксономию задач для набора из 235 примеров. Наши результаты показывают, что модели с закрытыми весами значительно превышают открытые модели по ряду задач, что подчеркивает ценность blind-spots-bench как инструмента для диагностики недостатков современных моделей."
-                },
-                "en": {
-                    "title": "Uncovering AI's Hidden Weaknesses with Blind-Spots-Bench",
-                    "desc": "This paper introduces blind-spots-bench, a new benchmark aimed at revealing the limitations of modern AI models on tasks that are easy for humans but difficult for machines. The authors collected and annotated a dataset of 235 samples from AI students, creating a taxonomy of tasks to evaluate various AI models. They developed an automated grading system to assess both open-weight and closed-source models, finding significant performance gaps. The results indicate that no single model excels across all tasks, emphasizing the importance of this benchmark for diagnosing weaknesses in AI systems."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.05382",
             "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
             "url": "https://huggingface.co/papers/2607.05382",
             "abstract": "Abstract  Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutoff events, and more. This world-knowledge bottleneck is structural: generators are trained on fixed corpora, but the visual world is open-ended. We construct SearchGen-20K and SearchGen-Bench, with 20,839 prompts spanning twelve failure categories and twenty-two domains, paired with a pre-executed multimodal SearchGen-Corpus-1M to support offline, reproducible research. On SearchGen-Bench, frontier open generators score only 21 to 28 out of 100, a 40-point collapse invisible to existing benchmarks. The natural remedy is to employ search tools, enabling agentic visual generation. However, we find that naive search fails: it retrieves indiscriminately, injecting noise into prompts the generator already handles. We trace the root cause to a generator-specific, evolving knowledge boundary: the divide between what a generator can internalize through training and what must remain in external context. Although this boundary is hard to specify in advance, we show that it is discoverable through a teach-then-search co-training framework. Even a minimal version of this co-training recipe produces monotonic improvement, laying the foundation for recursive self-improvement in visual generation that can meet world-knowledge-grounded requests. We release the full dataset, co-training corpus, and search corpus as a replayable harness for tool-augmented, world-knowledge-grounded visual generation.",
-            "score": 10,
+            "score": 26,
             "issue_id": 2826,
             "pub_date": "2026-07-09",
             "pub_date_card": {
@@ -213,6 +163,56 @@
                 "en": {
                     "title": "Bridging the Knowledge Gap in Visual Generation",
                     "desc": "This paper addresses the limitations of visual generators that often create inaccurate content when faced with unfamiliar requests. It introduces SearchGen-20K and SearchGen-Bench, which consist of a large set of prompts to evaluate the performance of these generators across various domains. The authors identify a knowledge boundary that restricts generators from accessing up-to-date information, leading to poor performance in real-world scenarios. To overcome this, they propose a teach-then-search co-training framework that enhances the generator's ability to meet evolving user demands by integrating search tools effectively."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.08317",
+            "title": "Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models",
+            "url": "https://huggingface.co/papers/2607.08317",
+            "abstract": "Abstract  Modern AI models achieve strong performance on many established benchmarks, yet they still fail on tasks that humans find almost trivial, such as manipulating a string or drawing a dog with five legs. These examples suggest that existing benchmarks may under-measure persistent blind spots in current systems. We introduce blind-spots-bench, a benchmark designed to expose such blind spots through tasks that appear simple for humans but remain challenging for modern AI. We collect raw questions from students in an AI course, clean and annotate them with structured reference solutions, and propose a task taxonomy tailored to the resulting dataset of 235 samples. We further develop an automated grading pipeline to evaluate a wide range of models, including open-weight and closed-source language, vision-language, and image-generation models. Our analysis on blind-spots-bench reveals that closed-source frontier models can substantially outperform open-weight models with even approx10% gap, even when they attain comparable performance on existing benchmarks. A more fine-grained analysis shows that no single model dominates across all task types, and that some tasks remain challenging for all evaluated models. These results highlight the value of blind-spots-bench as a diagnostic stress test for identifying concrete weaknesses in current modern models.",
+            "score": 19,
+            "issue_id": 2825,
+            "pub_date": "2026-07-09",
+            "pub_date_card": {
+                "ru": "9 июля",
+                "en": "July 9",
+                "zh": "7月9日"
+            },
+            "hash": "129523b77195e42c",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Matteo Santelmo",
+                "Xiuying Wei",
+                "Israa Fakih",
+                "Felix Bauer",
+                "Juan Garcia Giraldo",
+                "Chengkun Li",
+                "Etienne Bamas",
+                "Emmanuel Abbé"
+            ],
+            "affiliations": [
+                "Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.08317.jpg",
+            "data": {
+                "categories": [
+                    "#data",
+                    "#interpretability",
+                    "#dataset",
+                    "#benchmark",
+                    "#survey",
+                    "#optimization"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Выявление слепых зон в современных моделях ИИ",
+                    "desc": "Современные модели ИИ показывают высокие результаты на многих стандартизированных тестах, но продолжают сталкиваться с задачами, которые для людей кажутся простыми, такими как манипуляция строками или рисование собаки с пятью ногами. Эта работа представляет новый набор тестов blind-spots-bench, который предназначен для выявления слепых зон в текущих системах через задачи, которые кажутся легкими для человека, но остаются сложными для ИИ. Мы собрали вопросы от студентов курса ИИ, обработали их и предложили таксономию задач для набора из 235 примеров. Наши результаты показывают, что модели с закрытыми весами значительно превышают открытые модели по ряду задач, что подчеркивает ценность blind-spots-bench как инструмента для диагностики недостатков современных моделей."
+                },
+                "en": {
+                    "title": "Uncovering AI's Hidden Weaknesses with Blind-Spots-Bench",
+                    "desc": "This paper introduces blind-spots-bench, a new benchmark aimed at revealing the limitations of modern AI models on tasks that are easy for humans but difficult for machines. The authors collected and annotated a dataset of 235 samples from AI students, creating a taxonomy of tasks to evaluate various AI models. They developed an automated grading system to assess both open-weight and closed-source models, finding significant performance gaps. The results indicate that no single model excels across all tasks, emphasizing the importance of this benchmark for diagnosing weaknesses in AI systems."
                 }
             }
         },
@@ -271,6 +271,55 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.08168",
+            "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription",
+            "url": "https://huggingface.co/papers/2607.08168",
+            "abstract": "Abstract  Existing methods for automatic music transcription are often limited to single-instrument recordings or fail on complex, real music mixes. Although previous work utilizes synthetic training data, the resulting models generalize poorly, leading to largely unusable transcription output in realistic, multi-instrument settings. In this work, we analyze the effectiveness of synthetic data for pre-training while combining it with fine-tuning on real music audio and post-training using reinforcement learning. We further introduce conditioning on instrument presence to customize transcriptions. Finally, we release MuScriptor, an open-weight multi-instrument music transcription model that works on real-world music recordings from across a diverse range of musical genres.",
+            "score": 5,
+            "issue_id": 2825,
+            "pub_date": "2026-07-09",
+            "pub_date_card": {
+                "ru": "9 июля",
+                "en": "July 9",
+                "zh": "7月9日"
+            },
+            "hash": "580c349e859aa58e",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Simon Rouard",
+                "Michael Krause",
+                "Axel Roebel",
+                "Carl-Johann Simon-Gabriel",
+                "Alexandre Défossez"
+            ],
+            "affiliations": [
+                "Kyutai",
+                "Mirelo AI",
+                "UMR STMS, IRCAM-CNRS Sorbonne Univ."
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.08168.jpg",
+            "data": {
+                "categories": [
+                    "#data",
+                    "#training",
+                    "#dataset",
+                    "#open_source",
+                    "#synthetic",
+                    "#rl"
+                ],
+                "emoji": "🎶",
+                "ru": {
+                    "title": "Автоматическая транскрипция музыки для многоголосых записей",
+                    "desc": "В статье рассматриваются проблемы автоматической транскрипции музыки, особенно в сложных музыкальных записях с несколькими инструментами. Исследуется эффективность использования синтетических данных для предварительного обучения моделей и их последующей настройки на реальной музыке. Авторы представляют MuScriptor — модель для многоголосой транскрипции музыки, способную работать с реальными аудиозаписями из различных музыкальных жанров. Включение информации о наличии инструментов позволяет улучшить качество транскрипций."
+                },
+                "en": {
+                    "title": "Revolutionizing Music Transcription with MuScriptor",
+                    "desc": "This paper addresses the challenges of automatic music transcription, particularly in complex, multi-instrument recordings. It explores the use of synthetic data for pre-training models, which often struggle to generalize to real-world music. The authors propose a method that combines synthetic data with fine-tuning on actual audio and reinforcement learning for improved performance. They also introduce MuScriptor, a versatile transcription model that adapts to various musical genres and instrument presence."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.11562",
             "title": "MonkeyOCRv2: A Visual-Text Foundation Model for Document AI",
             "url": "https://huggingface.co/papers/2607.11562",
@@ -325,55 +374,6 @@
                 "en": {
                     "title": "Revolutionizing Document AI with MonkeyOCRv2",
                     "desc": "This paper introduces MonkeyOCRv2, a visual-text pretrained model specifically designed for document images. It utilizes the MonkeyDoc v2 dataset, the largest of its kind, to enhance character-level visual perception across 113 million images in 17 languages. The model employs a unique pretraining strategy that combines image-to-text generation with pixel-level document reconstruction, improving performance on various document analysis tasks. Results show that MonkeyOCRv2 outperforms existing models in document parsing and understanding, establishing a new state-of-the-art in the field."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.08168",
-            "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription",
-            "url": "https://huggingface.co/papers/2607.08168",
-            "abstract": "Abstract  Existing methods for automatic music transcription are often limited to single-instrument recordings or fail on complex, real music mixes. Although previous work utilizes synthetic training data, the resulting models generalize poorly, leading to largely unusable transcription output in realistic, multi-instrument settings. In this work, we analyze the effectiveness of synthetic data for pre-training while combining it with fine-tuning on real music audio and post-training using reinforcement learning. We further introduce conditioning on instrument presence to customize transcriptions. Finally, we release MuScriptor, an open-weight multi-instrument music transcription model that works on real-world music recordings from across a diverse range of musical genres.",
-            "score": 4,
-            "issue_id": 2825,
-            "pub_date": "2026-07-09",
-            "pub_date_card": {
-                "ru": "9 июля",
-                "en": "July 9",
-                "zh": "7月9日"
-            },
-            "hash": "580c349e859aa58e",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Simon Rouard",
-                "Michael Krause",
-                "Axel Roebel",
-                "Carl-Johann Simon-Gabriel",
-                "Alexandre Défossez"
-            ],
-            "affiliations": [
-                "Kyutai",
-                "Mirelo AI",
-                "UMR STMS, IRCAM-CNRS Sorbonne Univ."
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.08168.jpg",
-            "data": {
-                "categories": [
-                    "#data",
-                    "#training",
-                    "#dataset",
-                    "#open_source",
-                    "#synthetic",
-                    "#rl"
-                ],
-                "emoji": "🎶",
-                "ru": {
-                    "title": "Автоматическая транскрипция музыки для многоголосых записей",
-                    "desc": "В статье рассматриваются проблемы автоматической транскрипции музыки, особенно в сложных музыкальных записях с несколькими инструментами. Исследуется эффективность использования синтетических данных для предварительного обучения моделей и их последующей настройки на реальной музыке. Авторы представляют MuScriptor — модель для многоголосой транскрипции музыки, способную работать с реальными аудиозаписями из различных музыкальных жанров. Включение информации о наличии инструментов позволяет улучшить качество транскрипций."
-                },
-                "en": {
-                    "title": "Revolutionizing Music Transcription with MuScriptor",
-                    "desc": "This paper addresses the challenges of automatic music transcription, particularly in complex, multi-instrument recordings. It explores the use of synthetic data for pre-training models, which often struggle to generalize to real-world music. The authors propose a method that combines synthetic data with fine-tuning on actual audio and reinforcement learning for improved performance. They also introduce MuScriptor, a versatile transcription model that adapts to various musical genres and instrument presence."
                 }
             }
         },
