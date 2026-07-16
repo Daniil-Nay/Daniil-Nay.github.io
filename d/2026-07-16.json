@@ -4,9 +4,9 @@
         "en": "July 16",
         "zh": "7月16日"
     },
-    "time_utc": "2026-07-16 16:17",
+    "time_utc": "2026-07-16 19:08",
     "weekday": 3,
-    "issue_id": 2833,
+    "issue_id": 2834,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
             "url": "https://huggingface.co/papers/2607.13285",
             "abstract": "Abstract  The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before such a change can be made, a developer or coding agent must identify all code locations that implement the target behavior. This is difficult because production harnesses are large, tightly coupled, and behaviorally distributed, while modification requests describe what the system should do and repositories are organized by files and modules. Code search, repository indexing, and long-context processing ease inspection, but still leave this behavior-to-code mapping to be recovered by hand. Behavior localization is therefore a central bottleneck in harness evolution. We introduce the Harness Handbook, a behavior-centric representation synthesized automatically from a harness codebase via static analysis and LLM-assisted structuring, linking each behavior to its corresponding source. We also introduce Behavior-Guided Progressive Disclosure (BGPD), which guides agents from high-level behaviors to relevant implementation details and verifies candidate locations against the current source. On diverse modification requests from two open-source harnesses, Handbook-Assisted planning improves behavior localization and edit-plan quality while using fewer planner tokens, with the largest gains on scattered sites, rarely executed paths, and cross-module interactions. Evolving complex agentic systems thus depends not only on generating edits, but also on determining where those edits should be made.",
-            "score": 157,
+            "score": 160,
             "issue_id": 2829,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -70,7 +70,7 @@
             "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
             "url": "https://huggingface.co/papers/2607.13125",
             "abstract": "Abstract  We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image generation, fast inference, instruction-based editing, and bilingual (Chinese-English) text rendering. Closed-source multimodal systems like Nano-Banana-Pro and GPT-Image-2 achieve strong performance through system-level integration rather than a single model, yet their internal practices remain largely undisclosed. In this work, we demonstrate that targeted improvements in model understanding, data quality, and training pipelines, coupled with agentic inference-time scaling, can substantially enhance generation and editing performance even under highly constrained compute budgets. Comprehensive evaluations show that Boogu-Image-0.1 consistently matches or surpasses other open-source models across standard benchmarks, and achieves results approaching leading closed-source systems. Notably, this is accomplished with only 208.62 million unique images. The base model's theoretical training cost is only approximately \\$400K. We share practical discussions that we believe are valuable to the broader research community, and release weights, code, and recipes under Apache 2.0 to advance the open ecosystem for unified multimodal understanding and generation. Our code is available here: https://github.com/Boogu-Project/Boogu-Image.",
-            "score": 105,
+            "score": 107,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -143,7 +143,7 @@
             "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
             "url": "https://huggingface.co/papers/2607.12395",
             "abstract": "Abstract  Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to computational constraints, existing studies are largely restricted to small models, leaving the training dynamics and emergent capabilities at a large scale unexplored. To meaningfully explore this frontier, we aim to elicit high-quality reasoning behaviors from the model. However, we find that naive scaling often suffers from poor readability, token redundancy, and a lack of adaptive reasoning depth. To address these challenges, we present a stable and efficient training pipeline, incorporating algorithmic and system optimizations such as clipped importance sampling, training-inference ratio correction, and mixed-precision control. Our experiments offer three key findings that validate the \"bitter lesson\" of scaling: (1) scaling to 1T parameters significantly enhances sample efficiency and performance ceilings; (2) the training process progresses sequentially through an initial discovery phase followed by a sharpening phase; and (3) the model spontaneously develops advanced cognitive behaviors, including anthropomorphism, structured formatting, self-verification, parallel reasoning, and context anxiety, rendering hand-crafted heuristics redundant. Evaluated on seven mathematical benchmarks, Ring-2.5-1T-Zero achieves competitive performance. Additionally, to assess CoT quality beyond final-answer correctness, we propose a structured evaluation framework across three dimensions: comprehensibility, reproducibility, and efficiency, where our model demonstrates clear advantages in producing structured and concise reasoning traces. By sharing our observed emergent phenomena, we hope to provide the community with deeper insights into scaling behaviors, particularly at the 1-trillion scale.",
-            "score": 76,
+            "score": 78,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -204,7 +204,7 @@
             "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
             "url": "https://huggingface.co/papers/2607.12625",
             "abstract": "Abstract  OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws limit its adaptation to diverse device ecosystems and prevent performance improvements through continuous learning from execution experience. To resolve these issues, we propose the Know Deeply, Act Perfectly paradigm for personal assistants, which holds that accumulated user interaction and task-running experience directly improve execution accuracy and efficiency, unifying cognitive comprehension and operational execution. Based on this paradigm, we introduce KnowAct-GUIClaw, a novel Know-Route-Act-Reflect framework designed to address OpenClaw's GUI manipulation deficits and break through its cross-platform and recursive self-improvement constraints. First, the host agent leverages accumulated interaction experience and task-relevant knowledge for long-horizon task decomposition and allocation (Know). Second, a pluggable GUI subagent with an experience-attributable memory system (Know) and self-evolving skill library (Act), enabling seamless cross-platform migration and fast-path integration. Especially, this framework continuously stores user profiles and feedback to improve the accuracy of task decomposition and tool calls. Extensive experiments across Android, iOS, HarmonyOS and Windows show that KnowAct-GUIClaw achieves superior efficiency, accuracy and cross-platform adaptability. Especially, the GUIClaw with open-source Kimi-2.6 models achieves the best performance (64.1%) on the long-horizon MobileWorld benchmark, beating all agentical frameworks and closed-source agentical models, e.g., Seed-2.0-Pro and GPT-5.5. Additionally, the knowledgeable memory and execution skills supported by our framework are transferable across diverse base models, improving by 8.5% with Kimi-2.6.",
-            "score": 43,
+            "score": 44,
             "issue_id": 2830,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -317,7 +317,7 @@
             "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
             "url": "https://huggingface.co/papers/2607.05910",
             "abstract": "Abstract  Image guardrails are typically trained and evaluated under a fixed safety policy, implicitly treating safety as an intrinsic property of an image. Real deployments are different: the same image may be allowed in one product, restricted in another, and newly disallowed when a policy boundary changes. We study policy-adaptive image guardrailing, where a model must decide whether an image violates the currently supplied policy and generalize to held-out policy definitions. We introduce PolicyShiftBench, a comprehensive benchmark with 2,000 policy-discriminative instances over 265 images, where each image is paired with 7.55 policy-conditioned prompts on average to test whether models adapt to the active policy rather than relying on image-level safety priors. We then propose PolicyShiftGuard, a compact policy-conditioned guardrail trained with a two-stage training recipe that combines Randomized Policy SFT (RP-SFT) with Boundary-Pair Policy Adaptation (BP-Adapt). BP-Adapt trains matched prompts for the same image and risk category using standard label supervision and a pairwise comparison loss that separates blocking policies from passing policies. Experiments show that existing VLMs and specialized guardrails remain brittle under policy shifts, while PolicyShiftGuard substantially improves policy-sensitive performance. The 7B model achieves SOTA performance of 76.9 Avg. F1 and 72.1 Avg. PSS on PolicyShiftBench, transfers well to UnSafeBench and SafeEditBench, and improves the latency-performance trade-off with a concise output format. Ablations confirm that matched pass/block boundary pairs are essential for stable policy adaptation.",
-            "score": 29,
+            "score": 30,
             "issue_id": 2830,
             "pub_date": "2026-07-07",
             "pub_date_card": {
@@ -361,6 +361,55 @@
                 "en": {
                     "title": "Adapting Image Guardrails to Dynamic Safety Policies",
                     "desc": "This paper addresses the challenge of adapting image guardrails to changing safety policies, which is crucial for real-world applications. It introduces PolicyShiftBench, a benchmark designed to evaluate how well models can adapt to different policy definitions using a diverse set of images and prompts. The authors propose PolicyShiftGuard, a novel guardrail model that employs a two-stage training process to enhance policy-sensitive performance. Experimental results demonstrate that PolicyShiftGuard outperforms existing models in adapting to policy shifts, achieving state-of-the-art results on the benchmark."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12000",
+            "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
+            "url": "https://huggingface.co/papers/2607.12000",
+            "abstract": "Abstract  Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically introduce explicit geometry priors, which enforce spatial consistency but inherently restrict generalization in large view changes. In contrast, recent interactive generative methods favor implicit scene modeling, offering greater flexibility at the cost of precise camera control and geometry consistency. In this paper, we propose MetaView, a diffusion-based monocular novel view synthesis framework that enables rendering under large view changes from a single image. Our key insight is to combine implicit geometry modeling with minimal yet essential explicit 3D cues: we incorporate implicit geometry priors from a feed-forward geometry perception network to regularize structure without imposing restrictive reconstruction pipelines, while leveraging metric depth to anchor the generation to a metric scale. This design allows MetaView to achieve both geometry consistency and precise controllability. Extensive experiments demonstrate that, under challenging monocular large viewpoint changes, MetaView significantly outperforms existing methods and exhibits superior generalization. Our code is publicly available at https://github.com/KlingAIResearch/MetaView.",
+            "score": 22,
+            "issue_id": 2830,
+            "pub_date": "2026-07-13",
+            "pub_date_card": {
+                "ru": "13 июля",
+                "en": "July 13",
+                "zh": "7月13日"
+            },
+            "hash": "902fe93f7119794b",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yufei Cai",
+                "Xuesong Niu",
+                "Hao Lu",
+                "Kun Gai",
+                "Kai Wu",
+                "Guosheng Lin"
+            ],
+            "affiliations": [
+                "Kolors Team, Kuaishou Technology",
+                "Nanyang Technological University",
+                "The Hong Kong University of Science and Technology (Guangzhou)"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12000.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#games",
+                    "#diffusion",
+                    "#open_source",
+                    "#3d"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Новый взгляд на генерацию изображений",
+                    "desc": "В данной статье представлен новый подход к синтезу изображений под названием MetaView, который использует диффузионные модели для генерации новых видов с одного изображения. Основная идея заключается в сочетании неявного моделирования геометрии с минимальными явными 3D подсказками, что позволяет достигать согласованности геометрии и точного управления. MetaView демонстрирует высокие результаты при больших изменениях угла обзора, превосходя существующие методы. Эксперименты показывают, что этот подход обеспечивает лучшую обобщаемость и качество синтезируемого контента."
+                },
+                "en": {
+                    "title": "MetaView: Flexible and Consistent Novel View Synthesis",
+                    "desc": "This paper introduces MetaView, a novel framework for generating images from different viewpoints using a single image. It combines implicit geometry modeling with essential explicit 3D cues to maintain spatial consistency while allowing for flexibility in view changes. By using a feed-forward geometry perception network, MetaView regularizes the structure without limiting the reconstruction process. The results show that MetaView outperforms existing methods in generating high-quality images under challenging conditions."
                 }
             }
         },
@@ -436,51 +485,44 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.12000",
-            "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
-            "url": "https://huggingface.co/papers/2607.12000",
-            "abstract": "Abstract  Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically introduce explicit geometry priors, which enforce spatial consistency but inherently restrict generalization in large view changes. In contrast, recent interactive generative methods favor implicit scene modeling, offering greater flexibility at the cost of precise camera control and geometry consistency. In this paper, we propose MetaView, a diffusion-based monocular novel view synthesis framework that enables rendering under large view changes from a single image. Our key insight is to combine implicit geometry modeling with minimal yet essential explicit 3D cues: we incorporate implicit geometry priors from a feed-forward geometry perception network to regularize structure without imposing restrictive reconstruction pipelines, while leveraging metric depth to anchor the generation to a metric scale. This design allows MetaView to achieve both geometry consistency and precise controllability. Extensive experiments demonstrate that, under challenging monocular large viewpoint changes, MetaView significantly outperforms existing methods and exhibits superior generalization. Our code is publicly available at https://github.com/KlingAIResearch/MetaView.",
-            "score": 21,
-            "issue_id": 2830,
-            "pub_date": "2026-07-13",
+            "id": "https://huggingface.co/papers/2605.16147",
+            "title": "Registers Matter for Pixel-Space Diffusion Transformers",
+            "url": "https://huggingface.co/papers/2605.16147",
+            "abstract": "Abstract  Vision Transformers (ViTs) are known to exhibit high-norm patch-token outliers that degrade feature map quality, a problem effectively mitigated by register tokens. As diffusion models increasingly adopt transformer architectures and move toward pixel-space training, they become closer in form to ViTs, raising the question of whether register tokens are also useful for Diffusion Transformers (DiTs). In this work, we show that DiTs differ from ViTs in a key respect: they do not exhibit patch-token outliers but still benefit from registers. Interestingly, registers are more effective in pixel-space DiTs than in latent-space DiTs. By analyzing intermediate representations, we find that register tokens produce cleaner feature maps at high noise levels, which may contribute to their effectiveness in pixel-space generation. We further observe that recent pixel-space DiT architectures implicitly incorporate register-like mechanisms, which may partially account for their strong empirical performance. Motivated by these observations, we propose Register Guidance, a technique that amplifies the contribution of register tokens responsible for improving visual structure and coherence.",
+            "score": 12,
+            "issue_id": 2831,
+            "pub_date": "2026-07-06",
             "pub_date_card": {
-                "ru": "13 июля",
-                "en": "July 13",
-                "zh": "7月13日"
+                "ru": "6 июля",
+                "en": "July 6",
+                "zh": "7月6日"
             },
-            "hash": "902fe93f7119794b",
+            "hash": "4470838dcb696f6b",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Yufei Cai",
-                "Xuesong Niu",
-                "Hao Lu",
-                "Kun Gai",
-                "Kai Wu",
-                "Guosheng Lin"
+                "Nikita Starodubcev",
+                "Ilia Sudakov",
+                "Ilya Drobyshevskiy",
+                "Artem Babenko",
+                "Dmitry Baranchuk"
             ],
-            "affiliations": [
-                "Kolors Team, Kuaishou Technology",
-                "Nanyang Technological University",
-                "The Hong Kong University of Science and Technology (Guangzhou)"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12000.jpg",
+            "affiliations": [],
+            "pdf_title_img": "assets/pdf/title_img/2605.16147.jpg",
             "data": {
                 "categories": [
-                    "#dataset",
-                    "#games",
                     "#diffusion",
-                    "#open_source",
-                    "#3d"
+                    "#architecture",
+                    "#optimization"
                 ],
-                "emoji": "🖼️",
+                "emoji": "🌟",
                 "ru": {
-                    "title": "Новый взгляд на генерацию изображений",
-                    "desc": "В данной статье представлен новый подход к синтезу изображений под названием MetaView, который использует диффузионные модели для генерации новых видов с одного изображения. Основная идея заключается в сочетании неявного моделирования геометрии с минимальными явными 3D подсказками, что позволяет достигать согласованности геометрии и точного управления. MetaView демонстрирует высокие результаты при больших изменениях угла обзора, превосходя существующие методы. Эксперименты показывают, что этот подход обеспечивает лучшую обобщаемость и качество синтезируемого контента."
+                    "title": "Улучшение генерации изображений с помощью токенов регистрации",
+                    "desc": "В данной статье рассматриваются Vision Transformers (ViTs) и их проблема с аномальными токенами, которые ухудшают качество признаковых карт. Авторы показывают, что Diffusion Transformers (DiTs) не имеют таких аномалий, но все же выигрывают от использования токенов регистрации. Интересно, что в DiTs, работающих в пиксельном пространстве, токены регистрации оказывают большее влияние, чем в скрытом пространстве. В заключение, предложена техника Register Guidance для улучшения визуальной структуры и согласованности на основе токенов регистрации."
                 },
                 "en": {
-                    "title": "MetaView: Flexible and Consistent Novel View Synthesis",
-                    "desc": "This paper introduces MetaView, a novel framework for generating images from different viewpoints using a single image. It combines implicit geometry modeling with essential explicit 3D cues to maintain spatial consistency while allowing for flexibility in view changes. By using a feed-forward geometry perception network, MetaView regularizes the structure without limiting the reconstruction process. The results show that MetaView outperforms existing methods in generating high-quality images under challenging conditions."
+                    "title": "Enhancing Diffusion Transformers with Register Guidance",
+                    "desc": "This paper investigates the role of register tokens in Diffusion Transformers (DiTs) and compares them to Vision Transformers (ViTs). While DiTs do not have the same patch-token outliers that ViTs do, they still benefit from the use of register tokens, especially in pixel-space training. The authors find that register tokens help produce cleaner feature maps under high noise conditions, enhancing the quality of generated images. They introduce a technique called Register Guidance to further improve visual structure and coherence in DiTs."
                 }
             }
         },
@@ -534,53 +576,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2605.16147",
-            "title": "Registers Matter for Pixel-Space Diffusion Transformers",
-            "url": "https://huggingface.co/papers/2605.16147",
-            "abstract": "Abstract  Vision Transformers (ViTs) are known to exhibit high-norm patch-token outliers that degrade feature map quality, a problem effectively mitigated by register tokens. As diffusion models increasingly adopt transformer architectures and move toward pixel-space training, they become closer in form to ViTs, raising the question of whether register tokens are also useful for Diffusion Transformers (DiTs). In this work, we show that DiTs differ from ViTs in a key respect: they do not exhibit patch-token outliers but still benefit from registers. Interestingly, registers are more effective in pixel-space DiTs than in latent-space DiTs. By analyzing intermediate representations, we find that register tokens produce cleaner feature maps at high noise levels, which may contribute to their effectiveness in pixel-space generation. We further observe that recent pixel-space DiT architectures implicitly incorporate register-like mechanisms, which may partially account for their strong empirical performance. Motivated by these observations, we propose Register Guidance, a technique that amplifies the contribution of register tokens responsible for improving visual structure and coherence.",
-            "score": 11,
-            "issue_id": 2831,
-            "pub_date": "2026-07-06",
-            "pub_date_card": {
-                "ru": "6 июля",
-                "en": "July 6",
-                "zh": "7月6日"
-            },
-            "hash": "4470838dcb696f6b",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Nikita Starodubcev",
-                "Ilia Sudakov",
-                "Ilya Drobyshevskiy",
-                "Artem Babenko",
-                "Dmitry Baranchuk"
-            ],
-            "affiliations": [],
-            "pdf_title_img": "assets/pdf/title_img/2605.16147.jpg",
-            "data": {
-                "categories": [
-                    "#diffusion",
-                    "#architecture",
-                    "#optimization"
-                ],
-                "emoji": "🌟",
-                "ru": {
-                    "title": "Улучшение генерации изображений с помощью токенов регистрации",
-                    "desc": "В данной статье рассматриваются Vision Transformers (ViTs) и их проблема с аномальными токенами, которые ухудшают качество признаковых карт. Авторы показывают, что Diffusion Transformers (DiTs) не имеют таких аномалий, но все же выигрывают от использования токенов регистрации. Интересно, что в DiTs, работающих в пиксельном пространстве, токены регистрации оказывают большее влияние, чем в скрытом пространстве. В заключение, предложена техника Register Guidance для улучшения визуальной структуры и согласованности на основе токенов регистрации."
-                },
-                "en": {
-                    "title": "Enhancing Diffusion Transformers with Register Guidance",
-                    "desc": "This paper investigates the role of register tokens in Diffusion Transformers (DiTs) and compares them to Vision Transformers (ViTs). While DiTs do not have the same patch-token outliers that ViTs do, they still benefit from the use of register tokens, especially in pixel-space training. The authors find that register tokens help produce cleaner feature maps under high noise conditions, enhancing the quality of generated images. They introduce a technique called Register Guidance to further improve visual structure and coherence in DiTs."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.13124",
             "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
             "url": "https://huggingface.co/papers/2607.13124",
             "abstract": "Abstract  Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form generation that deployment actually requires. Two observations trace this gap. First, greedy pass@1 nearly vanishes after compression, yet pass@k recovers substantially under repeated sampling: useful generations are demoted, not erased. Second, the recoverable regime fails mainly through suffix repetition. Recovery should therefore train on the compressed model's own on-policy states with dense token-level supervision, which On-Policy Distillation (OPD) provides by reusing the pre-compression model as a frozen teacher. However, long on-policy rollouts spend early recovery budget on low-information repetitive suffixes, delaying loss descent. To mitigate this waste, we propose \\shortopd, a short-to-long OPD schedule that detects teacher-confirmed repetitive suffixes, treats the surviving prefix as each rollout's effective length, and allocates future rollout budgets to the effective lengths the policy can currently use. Across math, code, and open-ended generation, \\shortopd\\ raises the compressed model's score to about 9times its unrecovered value and 1.6--4.4times standard recovery recipes (SFT w/o KD, KD, and SeqKD), and it matches a fixed 8192-token rollout horizon within two points using a quarter of the training time (8.5 vs.\\ 35.9 hours) and 71% fewer rollout tokens. We hope this recipe helps move structured pruning beyond marginal gains on perplexity and multiple-choice benchmarks, a step closer to deployment-ready generation quality.",
-            "score": 10,
+            "score": 11,
             "issue_id": 2832,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -632,7 +632,7 @@
             "title": "Self-Improvements in Modern Agentic Systems: A Survey",
             "url": "https://huggingface.co/papers/2607.13104",
             "abstract": "Abstract  Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that represents a modern agent as a configuration coupling a foundation model with an operational scaffold of prompts, memory, tools, and control logic. Within this framework, self-improvement is formalized as a self-induced update operator that obtains and commits updates to model parameters or scaffold components. We organize prior work by update target and by the signals that drive change, then review applications and discuss evaluation, before closing with open problems and future directions. For convenience, we track technical updates on https://github.com/selfimproving-agent/awesome-Self-Improving-Agents.",
-            "score": 7,
+            "score": 10,
             "issue_id": 2831,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -685,65 +685,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.11523",
-            "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
-            "url": "https://huggingface.co/papers/2607.11523",
-            "abstract": "Abstract  When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than merely reactive. Yet existing approaches either wait passively for user queries or treat every detected event as requiring a response, without considering the user's history, current activity, or whether assistance would actually be welcome. We reframe proactive assistance as a context-dependent decision problem: the agent must not only perceive what is happening, but reason over accumulated temporal context to determine when and whether to intervene. To this end, we present Vinci2, a proactive egocentric assistance system that advances the on-device assistant Vinci from reactive response toward proactivity. On the evaluation side, we present EgoServe, the first large-scale benchmark for proactive assistance in continuous egocentric video. EgoServe comprises over 3,000 service instances organized along 4 temporal memory horizons, ranging from immediate safety alerts to long-term habit coaching, across 10 service categories. On the modeling side, we propose EgoMemo, a training-free, memory-augmented agent that maintains three complementary memory representations: multi-scale temporal summaries, a semantic knowledge graph, and visual embedding archives. At each timestep, EgoMemo performs retrieval-augmented reasoning to determine whether assistance is warranted and, if so, produces contextually grounded responses. Experiments demonstrate that EgoMemo establishes strong baselines on EgoServe while remaining competitive on existing egocentric benchmarks. Our benchmark and code are publicly available at https://sitonggong.github.io/EgoServe-page/{Vinci2}.",
-            "score": 7,
-            "issue_id": 2830,
-            "pub_date": "2026-07-13",
-            "pub_date_card": {
-                "ru": "13 июля",
-                "en": "July 13",
-                "zh": "7月13日"
-            },
-            "hash": "27f7e95d123e6e31",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Gong Sitong",
-                "Tianyu Yan",
-                "Caixin Kang",
-                "Bo Zheng",
-                "Xiang Ruan",
-                "Huchuan Lu",
-                "Kaipeng Zhang",
-                "Yoichi Sato",
-                "Yifei Huang"
-            ],
-            "affiliations": [
-                "Alaya Lab",
-                "Dalian University of Technology",
-                "The University of Tokyo"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.11523.jpg",
-            "data": {
-                "categories": [
-                    "#multimodal",
-                    "#memory",
-                    "#benchmark",
-                    "#agents",
-                    "#reasoning",
-                    "#open_source",
-                    "#retrieval"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Интеллектуальный помощник: проактивный, а не реактивный",
-                    "desc": "В статье рассматривается необходимость проактивного поведения интеллектуального помощника, который должен реагировать на события без явного запроса пользователя. Проблема проактивного помощника переосмысляется как задача, зависящая от контекста, где необходимо учитывать историю пользователя и текущую активность. Представлен новый подход с использованием системы Vinci2, которая использует видео с эгоцентрической точки зрения для проактивной помощи. Также представлен EgoServe, первый крупномасштабный бенчмарк, который позволяет оценить эффективность проактивной помощи в контексте эгоцентрического видео."
-                },
-                "en": {
-                    "title": "Proactive Assistance: Anticipating User Needs with Vinci2",
-                    "desc": "This paper introduces Vinci2, a proactive egocentric assistance system that enhances user interaction by anticipating needs rather than just reacting to requests. It addresses the limitations of existing systems that either wait for user input or respond to every detected event without considering context. The authors propose EgoMemo, a memory-augmented agent that uses multiple memory representations to make informed decisions about when to provide assistance. They also present EgoServe, a large-scale benchmark for evaluating proactive assistance in continuous egocentric video, demonstrating that their approach outperforms existing methods."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.13705",
             "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
             "url": "https://huggingface.co/papers/2607.13705",
             "abstract": "Abstract  As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing redundant engineering. To address this, we introduce AgentCompass, an open-source, lightweight, and extensible infrastructure for evaluating LLM-based agents. AgentCompass organizes the evaluation process around three independent components, namely Benchmark, Harness, and Environment, thereby enabling flexible configurations without requiring the reimplementation of complex execution logic. Furthermore, it features a fault-tolerant asynchronous runtime and comprehensive trajectory analysis tools to transparently diagnose nuanced failure modes like reward-hacking. Natively supporting over 20 benchmarks across five capability dimensions, AgentCompass provides the community with a scalable and reproducible infrastructure for advancing agent research.",
-            "score": 6,
+            "score": 8,
             "issue_id": 2831,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -802,11 +748,65 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.11523",
+            "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
+            "url": "https://huggingface.co/papers/2607.11523",
+            "abstract": "Abstract  When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than merely reactive. Yet existing approaches either wait passively for user queries or treat every detected event as requiring a response, without considering the user's history, current activity, or whether assistance would actually be welcome. We reframe proactive assistance as a context-dependent decision problem: the agent must not only perceive what is happening, but reason over accumulated temporal context to determine when and whether to intervene. To this end, we present Vinci2, a proactive egocentric assistance system that advances the on-device assistant Vinci from reactive response toward proactivity. On the evaluation side, we present EgoServe, the first large-scale benchmark for proactive assistance in continuous egocentric video. EgoServe comprises over 3,000 service instances organized along 4 temporal memory horizons, ranging from immediate safety alerts to long-term habit coaching, across 10 service categories. On the modeling side, we propose EgoMemo, a training-free, memory-augmented agent that maintains three complementary memory representations: multi-scale temporal summaries, a semantic knowledge graph, and visual embedding archives. At each timestep, EgoMemo performs retrieval-augmented reasoning to determine whether assistance is warranted and, if so, produces contextually grounded responses. Experiments demonstrate that EgoMemo establishes strong baselines on EgoServe while remaining competitive on existing egocentric benchmarks. Our benchmark and code are publicly available at https://sitonggong.github.io/EgoServe-page/{Vinci2}.",
+            "score": 8,
+            "issue_id": 2830,
+            "pub_date": "2026-07-13",
+            "pub_date_card": {
+                "ru": "13 июля",
+                "en": "July 13",
+                "zh": "7月13日"
+            },
+            "hash": "27f7e95d123e6e31",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Gong Sitong",
+                "Tianyu Yan",
+                "Caixin Kang",
+                "Bo Zheng",
+                "Xiang Ruan",
+                "Huchuan Lu",
+                "Kaipeng Zhang",
+                "Yoichi Sato",
+                "Yifei Huang"
+            ],
+            "affiliations": [
+                "Alaya Lab",
+                "Dalian University of Technology",
+                "The University of Tokyo"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.11523.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#memory",
+                    "#benchmark",
+                    "#agents",
+                    "#reasoning",
+                    "#open_source",
+                    "#retrieval"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Интеллектуальный помощник: проактивный, а не реактивный",
+                    "desc": "В статье рассматривается необходимость проактивного поведения интеллектуального помощника, который должен реагировать на события без явного запроса пользователя. Проблема проактивного помощника переосмысляется как задача, зависящая от контекста, где необходимо учитывать историю пользователя и текущую активность. Представлен новый подход с использованием системы Vinci2, которая использует видео с эгоцентрической точки зрения для проактивной помощи. Также представлен EgoServe, первый крупномасштабный бенчмарк, который позволяет оценить эффективность проактивной помощи в контексте эгоцентрического видео."
+                },
+                "en": {
+                    "title": "Proactive Assistance: Anticipating User Needs with Vinci2",
+                    "desc": "This paper introduces Vinci2, a proactive egocentric assistance system that enhances user interaction by anticipating needs rather than just reacting to requests. It addresses the limitations of existing systems that either wait for user input or respond to every detected event without considering context. The authors propose EgoMemo, a memory-augmented agent that uses multiple memory representations to make informed decisions about when to provide assistance. They also present EgoServe, a large-scale benchmark for evaluating proactive assistance in continuous egocentric video, demonstrating that their approach outperforms existing methods."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.12747",
             "title": "Tracing Agentic Failure from the Flow of Success",
             "url": "https://huggingface.co/papers/2607.12747",
             "abstract": "Abstract  Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approaches either rely on prompting-based pipelines, which are computationally expensive, or require post-training on failure trajectories with step-level error annotations, which are costly to collect and difficult to scale. We argue that a practical failure attribution model should be lightweight and trainable without step-level supervision on failure data. To this end, we address unsupervised failure attribution, i.e., training exclusively on successful trajectories and identifying error steps at inference time given a failure trajectory. We propose OAT, which casts this problem as one-class learning with neural controlled differential equations, modeling the dynamical pattern of successful trajectories in latent space. At inference time, each step in a failure trajectory is assigned an anomaly score based on its deviation from the dynamics learned on successful trajectories, which is then used to form a set of error steps. With training on only 100 successful trajectories, experiments show that OAT is 200--5000 times faster than prompting-based baselines, and, at the same time, consistently outperforms them in both in-domain and out-of-distribution datasets with +20% and +7% F1 scores, respectively, demonstrating that OAT is a promising and efficient direction for diagnosing agentic system failures.",
-            "score": 6,
+            "score": 7,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -921,6 +921,51 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.13027",
+            "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+            "url": "https://huggingface.co/papers/2607.13027",
+            "abstract": "Abstract  Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent environments because they are widely accessible and contain users' data, sensors, and daily-use applications. Existing mobile agents mainly operate smartphones through graphical user interface (GUI) actions such as tapping, swiping, and typing, which often form long, interface-dependent sequences, cannot directly access device capabilities, and make execution boundaries difficult to define. We present PalmClaw, an open-source agent framework that runs natively on mobile phones and manages the sessions, memory, skills, tools, and agent loop directly on the device. PalmClaw exposes device capabilities as device tools with explicit arguments, structured results, and clearly defined execution boundaries. This design enables agents to use mobile capabilities directly while keeping each action explicit and controlled. Experiments show an 11.5\\% relative improvement in task success and a 94.9\\% reduction in completion time over the strongest baseline, with lower setup burden and traces illustrating how execution boundaries are applied. Code is available at https://github.com/ModalityDance/PalmClaw.",
+            "score": 5,
+            "issue_id": 2831,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "1883ea92715c3899",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hongru Cai",
+                "Yongqi Li",
+                "Ran Wei",
+                "Wenjie Li"
+            ],
+            "affiliations": [
+                "Hangzhou Diagens Biotechnology Co., Ltd.",
+                "The Hong Kong Polytechnic University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13027.jpg",
+            "data": {
+                "categories": [
+                    "#open_source",
+                    "#session_memory",
+                    "#tool_use",
+                    "#agents"
+                ],
+                "emoji": "📱",
+                "ru": {
+                    "title": "Эффективные мобильные агенты с PalmClaw",
+                    "desc": "Статья представляет новый фреймворк PalmClaw, который позволяет агентам на мобильных устройствах выполнять многоступенчатые задачи прямо на телефоне. Он управляет сессиями, памятью и инструментами, обеспечивая четкое определение границ выполнения. PalmClaw использует возможности устройства в виде явных инструментов с заданными аргументами и структурированными результатами, что повышает контроль над действиями агента. Испытания показали значительное улучшение успеха выполнения задач и сокращение времени завершения по сравнению с существующими системами."
+                },
+                "en": {
+                    "title": "Empowering Mobile Agents with Direct Device Access",
+                    "desc": "The paper introduces PalmClaw, an open-source framework designed for Large Language Model (LLM) agents to operate natively on mobile devices. Unlike existing mobile agents that rely on graphical user interface actions, PalmClaw allows agents to directly access device capabilities with clearly defined execution boundaries. This approach enhances task automation by managing sessions, memory, skills, and tools directly on the device. Experimental results demonstrate significant improvements in task success rates and reduced completion times compared to previous systems."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.07702",
             "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
             "url": "https://huggingface.co/papers/2607.07702",
@@ -970,11 +1015,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.13027",
-            "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-            "url": "https://huggingface.co/papers/2607.13027",
-            "abstract": "Abstract  Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent environments because they are widely accessible and contain users' data, sensors, and daily-use applications. Existing mobile agents mainly operate smartphones through graphical user interface (GUI) actions such as tapping, swiping, and typing, which often form long, interface-dependent sequences, cannot directly access device capabilities, and make execution boundaries difficult to define. We present PalmClaw, an open-source agent framework that runs natively on mobile phones and manages the sessions, memory, skills, tools, and agent loop directly on the device. PalmClaw exposes device capabilities as device tools with explicit arguments, structured results, and clearly defined execution boundaries. This design enables agents to use mobile capabilities directly while keeping each action explicit and controlled. Experiments show an 11.5\\% relative improvement in task success and a 94.9\\% reduction in completion time over the strongest baseline, with lower setup burden and traces illustrating how execution boundaries are applied. Code is available at https://github.com/ModalityDance/PalmClaw.",
-            "score": 3,
+            "id": "https://huggingface.co/papers/2605.10834",
+            "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
+            "url": "https://huggingface.co/papers/2605.10834",
+            "abstract": "Abstract  AI pentesting agents are increasingly credible as offensive security systems, but current benchmarks still provide limited guidance on which will perform best in real-world targets. Existing evaluation protocols assess and optimize for predefined goals such as capture-the-flag, remote code execution, exploit reproduction, or trajectory similarity, in simplified or narrow settings. These tools are valuable for measuring bounded capabilities, yet they do not adequately capture the complexity, open-ended exploration, and strategic decision-making required in realistic pentesting. In this paper, we present a practical evaluation protocol that shifts assessment from task completion to validated vulnerability discovery, allowing evaluation in sufficiently complex targets spanning multiple attack surfaces and vulnerability classes. The protocol combines structured ground-truth with LLM-based semantic matching to identify vulnerabilities, bipartite resolution to score findings under realistic ambiguity, continuous ground-truth maintenance, repeated and cumulative evaluation of stochastic agents, efficiency metrics, and reduced-suite selection for sustainable experimentation. This protocol extends the state of the art by enabling a more realistic, operationally informative comparison of AI pentesting agents. To enable reproducibility, we also release expert-annotated ground truth and code for the proposed evaluation protocol: https://github.com/ethiack/ethibench.",
+            "score": 2,
             "issue_id": 2831,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -982,35 +1027,38 @@
                 "en": "July 14",
                 "zh": "7月14日"
             },
-            "hash": "1883ea92715c3899",
+            "hash": "ef512b420cf56c09",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Hongru Cai",
-                "Yongqi Li",
-                "Ran Wei",
-                "Wenjie Li"
+                "Pedro Conde",
+                "Henrique Branquinho",
+                "Valerio Mazzone",
+                "Bruno Mendes",
+                "André Baptista",
+                "Nuno Moniz"
             ],
             "affiliations": [
-                "Hangzhou Diagens Biotechnology Co., Ltd.",
-                "The Hong Kong Polytechnic University"
+                "Ethiack Coimbra, Portugal",
+                "Ethiack Porto, Portugal",
+                "University of Notre Dame Notre Dame, Indiana, USA"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13027.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2605.10834.jpg",
             "data": {
                 "categories": [
+                    "#security",
                     "#open_source",
-                    "#session_memory",
-                    "#tool_use",
+                    "#benchmark",
                     "#agents"
                 ],
-                "emoji": "📱",
+                "emoji": "🛡️",
                 "ru": {
-                    "title": "Эффективные мобильные агенты с PalmClaw",
-                    "desc": "Статья представляет новый фреймворк PalmClaw, который позволяет агентам на мобильных устройствах выполнять многоступенчатые задачи прямо на телефоне. Он управляет сессиями, памятью и инструментами, обеспечивая четкое определение границ выполнения. PalmClaw использует возможности устройства в виде явных инструментов с заданными аргументами и структурированными результатами, что повышает контроль над действиями агента. Испытания показали значительное улучшение успеха выполнения задач и сокращение времени завершения по сравнению с существующими системами."
+                    "title": "Новый подход к оценке агентов AI для пентестинга",
+                    "desc": "В данной статье рассматриваются агенты искусственного интеллекта для пентестинга, которые становятся более надежными в роли атакующих систем безопасности. Авторы предлагают новый протокол оценки, который позволяет лучше оценить способности агентов в обнаружении уязвимостей в сложных целевых системах. Протокол сочетает в себе структурированные данные и семантическое сопоставление на основе LLM для определения уязвимостей с учетом неопределенности. Благодаря этому новому подходу, исследователи могут проводить более реалистичное сравнение агентов AI для пентестинга."
                 },
                 "en": {
-                    "title": "Empowering Mobile Agents with Direct Device Access",
-                    "desc": "The paper introduces PalmClaw, an open-source framework designed for Large Language Model (LLM) agents to operate natively on mobile devices. Unlike existing mobile agents that rely on graphical user interface actions, PalmClaw allows agents to directly access device capabilities with clearly defined execution boundaries. This approach enhances task automation by managing sessions, memory, skills, and tools directly on the device. Experimental results demonstrate significant improvements in task success rates and reduced completion times compared to previous systems."
+                    "title": "Revolutionizing AI Pentesting Evaluation for Real-World Effectiveness",
+                    "desc": "This paper introduces a new evaluation protocol for AI pentesting agents that focuses on validated vulnerability discovery rather than just task completion. It addresses the limitations of current benchmarks by incorporating complex targets and multiple attack surfaces. The protocol utilizes structured ground-truth and LLM-based semantic matching to enhance vulnerability identification. By providing a more realistic assessment framework, this work aims to improve the comparison and effectiveness of AI-driven security systems in real-world scenarios."
                 }
             }
         },
@@ -1066,50 +1114,103 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2605.10834",
-            "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
-            "url": "https://huggingface.co/papers/2605.10834",
-            "abstract": "Abstract  AI pentesting agents are increasingly credible as offensive security systems, but current benchmarks still provide limited guidance on which will perform best in real-world targets. Existing evaluation protocols assess and optimize for predefined goals such as capture-the-flag, remote code execution, exploit reproduction, or trajectory similarity, in simplified or narrow settings. These tools are valuable for measuring bounded capabilities, yet they do not adequately capture the complexity, open-ended exploration, and strategic decision-making required in realistic pentesting. In this paper, we present a practical evaluation protocol that shifts assessment from task completion to validated vulnerability discovery, allowing evaluation in sufficiently complex targets spanning multiple attack surfaces and vulnerability classes. The protocol combines structured ground-truth with LLM-based semantic matching to identify vulnerabilities, bipartite resolution to score findings under realistic ambiguity, continuous ground-truth maintenance, repeated and cumulative evaluation of stochastic agents, efficiency metrics, and reduced-suite selection for sustainable experimentation. This protocol extends the state of the art by enabling a more realistic, operationally informative comparison of AI pentesting agents. To enable reproducibility, we also release expert-annotated ground truth and code for the proposed evaluation protocol: https://github.com/ethiack/ethibench.",
+            "id": "https://huggingface.co/papers/2607.09786",
+            "title": "Length Penalties Make Chain-of-Thought Less Monitorable",
+            "url": "https://huggingface.co/papers/2607.09786",
+            "abstract": "Abstract  Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the model's answer. In our experiments, training with length penalties does not stop misleading hints from steering models, even though the models' chains of thought mention the hint much less often. A token-accuracy evaluation would count these runs as successful because they use fewer reasoning tokens with little accuracy loss; it would miss whether the remaining trace still shows what drove the answer. We train Qwen3-4B and Qwen3-14B variants with different target chain lengths, then evaluate them with biasing-hint interventions on held-out MMLU-Pro-R and four transfer benchmarks. Compression sharply cuts reasoning tokens, preserves most multiple-choice accuracy, and leaves hint influence near baseline. At the strongest target, lower-bound faithfulness falls to 63.1% of baseline for Qwen3-14B and 69.4% for Qwen3-4B; the raw rate at which a monitor catches hint use falls from 69% to 49% and from 60% to 48%. To separate length from content, we randomly delete sentences from uncompressed baseline chains until the remaining text matches the compressed length. Even after this length matching, compressed chains disclose the hint 7-35 percentage points less often than baseline chains that we shorten at random, for both Qwen3 sizes and all five evaluation distributions. Compression therefore does more than shorten reasoning, preferentially removing the cues a monitor needs to see what influenced the answer. Together, these results reveal a compression-monitorability frontier in which cheaper reasoning can preserve answers while making the influences behind them harder to detect.",
             "score": 1,
-            "issue_id": 2831,
-            "pub_date": "2026-07-14",
+            "issue_id": 2834,
+            "pub_date": "2026-07-08",
             "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
+                "ru": "8 июля",
+                "en": "July 8",
+                "zh": "7月8日"
             },
-            "hash": "ef512b420cf56c09",
+            "hash": "f2c0785914034132",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Pedro Conde",
-                "Henrique Branquinho",
-                "Valerio Mazzone",
-                "Bruno Mendes",
-                "André Baptista",
-                "Nuno Moniz"
+                "Bryce Little"
             ],
-            "affiliations": [
-                "Ethiack Coimbra, Portugal",
-                "Ethiack Porto, Portugal",
-                "University of Notre Dame Notre Dame, Indiana, USA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2605.10834.jpg",
+            "affiliations": [],
+            "pdf_title_img": "assets/pdf/title_img/2607.09786.jpg",
             "data": {
                 "categories": [
-                    "#security",
-                    "#open_source",
-                    "#benchmark",
-                    "#agents"
+                    "#rl",
+                    "#training",
+                    "#hallucinations",
+                    "#compression",
+                    "#reasoning"
                 ],
-                "emoji": "🛡️",
+                "emoji": "🤖",
                 "ru": {
-                    "title": "Новый подход к оценке агентов AI для пентестинга",
-                    "desc": "В данной статье рассматриваются агенты искусственного интеллекта для пентестинга, которые становятся более надежными в роли атакующих систем безопасности. Авторы предлагают новый протокол оценки, который позволяет лучше оценить способности агентов в обнаружении уязвимостей в сложных целевых системах. Протокол сочетает в себе структурированные данные и семантическое сопоставление на основе LLM для определения уязвимостей с учетом неопределенности. Благодаря этому новому подходу, исследователи могут проводить более реалистичное сравнение агентов AI для пентестинга."
+                    "title": "Сокращение размышлений с сохранением влияния подсказок",
+                    "desc": "В статье рассматривается использование обучения с подкреплением с учетом длины для сокращения размышлений модели и сокрытия влияния подсказок на ответы. Эксперименты показывают, что хотя сокращение цепочек размышлений в значительной степени уменьшает проявления подсказок, их влияние все равно остается, что затрудняет оценку точности. Модели Qwen3 были обучены с различными длинами целевых цепочек и проанализированы с использованием интервенций в подсказках. Результаты показывают, что сжатие не только сокращает количество токенов размышлений, но и предпочтительно удаляет подсказки, что делает их влияние труднее обнаружимым."
                 },
                 "en": {
-                    "title": "Revolutionizing AI Pentesting Evaluation for Real-World Effectiveness",
-                    "desc": "This paper introduces a new evaluation protocol for AI pentesting agents that focuses on validated vulnerability discovery rather than just task completion. It addresses the limitations of current benchmarks by incorporating complex targets and multiple attack surfaces. The protocol utilizes structured ground-truth and LLM-based semantic matching to enhance vulnerability identification. By providing a more realistic assessment framework, this work aims to improve the comparison and effectiveness of AI-driven security systems in real-world scenarios."
+                    "title": "Efficient Reasoning with Hidden Influences",
+                    "desc": "This paper explores how length-penalized reinforcement learning can reduce the number of reasoning tokens used by models while obscuring the influences that guide their answers. The authors find that even with fewer reasoning tokens, misleading hints can still affect the model's outputs, which may not be captured by traditional accuracy evaluations. They train different variants of the Qwen3 model and assess their performance on various benchmarks, revealing that while compression reduces reasoning length, it also diminishes the visibility of hint influences. The study highlights a trade-off between efficient reasoning and the ability to monitor the underlying influences on model decisions."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.06701",
+            "title": "SPEAR: A Simulator for Photorealistic Embodied AI Research",
+            "url": "https://huggingface.co/papers/2607.06701",
+            "abstract": "Abstract  Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and rendering speed. We address these limitations by introducing SPEAR: A Simulator for Photorealistic Embodied AI Research. At its core, SPEAR is a Python library that can connect to, and programmatically control, any Unreal Engine (UE) application via a modular plugin architecture. SPEAR exposes over 14K unique UE functions to Python, representing an order-of-magnitude increase in programmable functionality over existing UE-based simulators. Additionally, a single SPEAR instance can render 1920x1080 photorealistic beauty images directly into a user's NumPy array at 73 frames per second - an order of magnitude faster than existing UE plugins - while also providing ground truth image modalities that are not available in any existing UE-based simulator (e.g., a non-diffuse intrinsic image decomposition, material IDs, and physically based shading parameters). Finally, SPEAR introduces an expressive high-level programming model that enables users to specify complex graphs of UE work with arbitrary data dependencies among work items, and to execute these graphs deterministically within a single UE frame. We demonstrate the utility of SPEAR through a diverse collection of example applications: controlling multiple embodied agents with distinct action spaces (e.g., humans, cars, and robots) across several in-the-wild UE projects; rendering photorealistic city-scale environments; manipulating UE's procedural content generation systems; rendering synchronized multi-view images of detailed human faces; coordinating an interactive co-simulation with the MuJoCo physics simulator; and editing scenes with natural language via an AI coding assistant.",
+            "score": 1,
+            "issue_id": 2834,
+            "pub_date": "2026-07-07",
+            "pub_date_card": {
+                "ru": "7 июля",
+                "en": "July 7",
+                "zh": "7月7日"
+            },
+            "hash": "b985c3f83107b0dc",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Mike Roberts",
+                "Renhan Wang",
+                "Rushikesh Zawar",
+                "Rachith Dey-Prakash",
+                "Quentin Leboutet",
+                "Stephan R. Richter",
+                "Matthias Müller",
+                "German Ros",
+                "Rui Tang",
+                "Stefan Leutenegger",
+                "Yannick Hold-Geoffroy",
+                "Kalyan Sunkavalli",
+                "Vladlen Koltun"
+            ],
+            "affiliations": [
+                "Adobe",
+                "Adobe Research",
+                "ETH Zurich",
+                "Imperial College London",
+                "Intel Labs",
+                "Manycore Tech Inc",
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.06701.jpg",
+            "data": {
+                "categories": [
+                    "#3d",
+                    "#training",
+                    "#synthetic",
+                    "#robotics",
+                    "#games",
+                    "#agents"
+                ],
+                "emoji": "🚀",
+                "ru": {
+                    "title": "SPEAR: Революция в симуляции фотореалистичного AI",
+                    "desc": "В статье представлена SPEAR — новый симулятор для фотореалистичных исследований в области embodied AI. SPEAR является библиотекой на Python, которая позволяет управлять приложениями Unreal Engine через модульную архитектуру плагинов. Он предоставляет более 14 тысяч уникальных функций UE, что значительно увеличивает программируемость по сравнению с существующими симуляторами. SPEAR также обеспечивает высокую скорость рендеринга и возможность работы с сложными графами задач, что делает его полезным инструментом для различных приложений и симуляций."
+                },
+                "en": {
+                    "title": "SPEAR: Revolutionizing Photorealistic Simulation for AI",
+                    "desc": "The paper introduces SPEAR, a powerful Python library designed to enhance the capabilities of photorealistic simulators for embodied AI research. SPEAR connects to Unreal Engine applications, allowing for extensive programmability with over 14,000 unique functions accessible via Python. It significantly improves rendering speed, producing high-quality images at 73 frames per second, while also providing unique ground truth data not available in other simulators. Additionally, SPEAR features a high-level programming model that enables complex task execution and coordination among multiple agents in diverse applications."
                 }
             }
         },
@@ -1175,25 +1276,25 @@
         "#dataset": 4,
         "#data": 2,
         "#benchmark": 9,
-        "#agents": 12,
-        "#rl": 2,
+        "#agents": 13,
+        "#rl": 3,
         "#rlhf": 0,
         "#rag": 0,
         "#plp": 0,
         "#inference": 2,
-        "#3d": 2,
+        "#3d": 3,
         "#audio": 0,
         "#multimodal": 5,
         "#math": 1,
         "#multilingual": 0,
         "#architecture": 4,
         "#healthcare": 0,
-        "#training": 11,
-        "#robotics": 1,
+        "#training": 13,
+        "#robotics": 2,
         "#agi": 1,
-        "#games": 4,
+        "#games": 5,
         "#interpretability": 1,
-        "#reasoning": 3,
+        "#reasoning": 4,
         "#transfer_learning": 2,
         "#graphs": 0,
         "#ethics": 1,
@@ -1203,9 +1304,9 @@
         "#diffusion": 4,
         "#alignment": 0,
         "#story_generation": 0,
-        "#hallucinations": 1,
+        "#hallucinations": 2,
         "#long_context": 3,
-        "#synthetic": 1,
+        "#synthetic": 2,
         "#machine_translation": 0,
         "#leakage": 0,
         "#open_source": 8,
@@ -1216,7 +1317,7 @@
         "#retrieval": 1,
         "#prompting": 1,
         "#context_window": 0,
-        "#compression": 0,
+        "#compression": 1,
         "#memorization": 0,
         "#continual_learning": 1,
         "#knowledge_graphs": 0,
