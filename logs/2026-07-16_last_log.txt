@@ -1,353 +1,256 @@
-[16.07.2026 13:47] Read previous papers.
-[16.07.2026 13:47] Generating top page (month).
-[16.07.2026 13:47] Writing top page (month).
-[16.07.2026 16:17] Read previous papers.
-[16.07.2026 16:17] Get feed.
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13285
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13285
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13125
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13125
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12395
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12395
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12625
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12625
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13639
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13639
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05910
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05910
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13960
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13960
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12000
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12000
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12752
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12752
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2605.16147
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2605.16147
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13124
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13124
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13104
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13104
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11523
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11523
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13705
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13705
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12747
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12747
-[16.07.2026 16:17] Extract page data from URL. URL: https://huggingface.co/papers/2607.13431
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07702
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07702
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13027
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13027
-[16.07.2026 16:17] Extract page data from URL. URL: https://huggingface.co/papers/2607.12477
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2605.10834
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2605.10834
-[16.07.2026 16:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13250
-[16.07.2026 16:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13250
-[16.07.2026 16:17] Updating GitHub stars.
-[16.07.2026 16:17] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[16.07.2026 16:17] No deleted papers detected.
-[16.07.2026 16:17] Downloading and parsing papers (pdf, html). Total: 21.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13285.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13285.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13285.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13125.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13125.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13125.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.12395.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.12395.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.12395.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.12625.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.12625.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.12625.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13639.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13639.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13639.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.05910.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.05910.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.05910.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13960.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13960.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13960.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.12000.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.12000.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.12000.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.12752.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.12752.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.12752.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2605.16147.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2605.16147.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2605.16147.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13124.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13124.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13124.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13104.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13104.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13104.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.11523.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.11523.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.11523.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13705.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13705.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13705.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.12747.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.12747.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.12747.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13431.
-[16.07.2026 16:17] Downloading paper 2607.13431 from https://arxiv.org/pdf/2607.13431v1...
-[16.07.2026 16:17] Extracting affiliations from text.
-[16.07.2026 16:17] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Discrete Diffusion Models: Unified Framework from Tokenization to Generation Ye Yuan1, 2, Weien Li1, Rui Song1, Zeyu Li1, Haochen Liu3, Xiangyu Kong1, 2, Zixuan Dong4, Linfeng Du1, 2, Zipeng Sun1, 2, Weixu Zhang1, 2, Jiaxin Huang5, Changjiang Han5, Yonghan Yang5, Zichen Zhao5, Xiuyuan Hu6, Haolun Wu1, 2, Yankai Chen5, Fengran Mo7, Jikun Kang8, Bowei He5, Philip S. Yu9, Xue Liu5, 1, 2 1McGill University, 2Mila - Quebec AI Institute, 3University of Cambridge, 4University of Toronto, 5MBZUAI - Mohamed bin Zayed University of Artificial Intelligence, 6Tsinghua University, 7Rochester Institute of Technology , 8Salesforce, 9University of Illinois Chicago "
-[16.07.2026 16:17] Response: ```python
-[
-    "McGill University",
-    "Mila - Quebec AI Institute",
-    "University of Cambridge",
-    "University of Toronto",
-    "MBZUAI - Mohamed bin Zayed University of Artificial Intelligence",
-    "Tsinghua University",
-    "Rochester Institute of Technology",
-    "Salesforce",
-    "University of Illinois Chicago"
-]
-```
-[16.07.2026 16:17] Deleting PDF ./assets/pdf/2607.13431.pdf.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.07702.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.07702.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.07702.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.13027.
-[16.07.2026 16:17] Extra JSON file exists (./assets/json/2607.13027.json), skip PDF parsing.
-[16.07.2026 16:17] Paper image links file exists (./assets/img_data/2607.13027.json), skip HTML parsing.
-[16.07.2026 16:17] Success.
-[16.07.2026 16:17] Downloading and parsing paper https://huggingface.co/papers/2607.12477.
-[16.07.2026 16:17] Downloading paper 2607.12477 from https://arxiv.org/pdf/2607.12477v2...
-[16.07.2026 16:18] Extracting affiliations from text.
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence Zhishan Zou1, Guoyan Sun1, Zhiwei Wei2, Jiancheng Pan3, Yujie Li1, Mugen Peng1, Wenjia Xu1 1Beijing University of Posts and Telecommunications, 2Hunan Normal University 3Tsinghua University Abstract Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) in complex real-world environments, requiring coherent representations of both the surrounding space and the agent itself. However, existing UAV-oriented approaches and benchmarks remain largely environment-centric, primarily focusing on spatial understanding tasks, with the agents self-awareness remaining implicit. To address this gap, we introduce SIS-Bench, benchmark for evaluating embodied spatial intelligence in UAV scenarios under unified self-in-space formulation. SIS-Bench organizes evaluation along two complementary dimensions, space and self, and threelevel hierarchy of perception, memory, and reasoning. It contains 4,856 questionanswer pairs across 13 tasks derived from 1,646 real-world UAV videos through task-conditioned construction pipeline with expert verification. Extensive evaluations reveal clear imbalance between spatial cognition and self-awareness in current MLLMs, together with progressive performance degradation across cognitive levels. Motivated by these findings, we further explore motion-aware representation that incorporates self-related dynamics through optical flow and visual feature fusion. Experimental results show that modeling agent motion consistently improves perception and memory performance, not only in spatial cognition but also in self-awareness, and generalizes to downstream UAV decisionmaking tasks. Our results highlight the importance of self-awareness for advancing embodied spatial intelligence, and provide both new benchmark and empirical evidence for motion-aware self-in-space modeling. More resources: Contact Website Code Collection Collection Figure"
-[16.07.2026 16:18] Response: ```python
-[
-    "Beijing University of Posts and Telecommunications",
-    "Hunan Normal University",
-    "Tsinghua University"
-]
-```
-[16.07.2026 16:18] Deleting PDF ./assets/pdf/2607.12477.pdf.
-[16.07.2026 16:18] Success.
-[16.07.2026 16:18] Downloading and parsing paper https://huggingface.co/papers/2605.10834.
-[16.07.2026 16:18] Extra JSON file exists (./assets/json/2605.10834.json), skip PDF parsing.
-[16.07.2026 16:18] Paper image links file exists (./assets/img_data/2605.10834.json), skip HTML parsing.
-[16.07.2026 16:18] Success.
-[16.07.2026 16:18] Downloading and parsing paper https://huggingface.co/papers/2607.13250.
-[16.07.2026 16:18] Extra JSON file exists (./assets/json/2607.13250.json), skip PDF parsing.
-[16.07.2026 16:18] Paper image links file exists (./assets/img_data/2607.13250.json), skip HTML parsing.
-[16.07.2026 16:18] Success.
-[16.07.2026 16:18] Enriching papers with extra data.
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 0. Abstract  The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before ...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 1. Abstract  We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image generation, fast inference, instruction-based editing, and bil...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 2. Abstract  Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to computational constraints, existing studies are largely restricted to small models, leavin...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 3. Abstract  OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws limit its adaptation to diverse device ecosystems and prevent performance improvements thro...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 4. Abstract  We introduce OvisOCR2, a 0.8B document parsing model. OvisOCR2 is designed as an end-to-end parser: given a document page image, it generates a Markdown representation in natural reading order, covering text, formulas, tables, and visual regions. We build a data engine that combines filter...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 5. Abstract  Image guardrails are typically trained and evaluated under a fixed safety policy, implicitly treating safety as an intrinsic property of an image. Real deployments are different: the same image may be allowed in one product, restricted in another, and newly disallowed when a policy boundar...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 6. Abstract  World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action generation. However, a common design in existing WAMs is to explicitly generate future video...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 7. Abstract  Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically introduce explicit geometry priors, which enforce spatial consistency but inherently rest...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 8. Abstract  While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading to spatial hallucinations such as duplicated structures and misaligned geometry. These iss...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 9. Abstract  Vision Transformers (ViTs) are known to exhibit high-norm patch-token outliers that degrade feature map quality, a problem effectively mitigated by register tokens. As diffusion models increasingly adopt transformer architectures and move toward pixel-space training, they become closer in ...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 10. Abstract  Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form generation that deployment actually requires. Two observations trace this gap. First, greedy ...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 11. Abstract  Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experie...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 12. Abstract  When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than merely reactive. Yet existing approaches either wait passively for user queries or treat eve...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 13. Abstract  As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing redundant engineering. To address this, ...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 14. Abstract  Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approaches either rely on prompting-based pipelines, which are computationally expensive, or req...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 15. Abstract  Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities. Unlike continuous diffusion, where the state space is fixed, DDMs are f...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 16. Abstract  The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large tr...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 17. Abstract  Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile device...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 18. Abstract  Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surrounding space but also maintaining a coherent representation of the agent itself. However, exis...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 19. Abstract  AI pentesting agents are increasingly credible as offensive security systems, but current benchmarks still provide limited guidance on which will perform best in real-world targets. Existing evaluation protocols assess and optimize for predefined goals such as capture-the-flag, remote code...
-[16.07.2026 16:18] ********************************************************************************
-[16.07.2026 16:18] Abstract 20. Abstract  We present AffectFlow-DINO, a multi-task learning system for the 11th ABAW challenge that extends a standard deterministic architecture with a conditional rectified-flow head to model the inherent ambiguity of in-the-wild facial behavior. Instead of predicting a single affect estimate, the...
 [16.07.2026 16:18] Read previous papers.
-[16.07.2026 16:18] Generating reviews via LLM API.
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#prompting", "#tool_use", "#long_context", "#agents", "#agent_memory", "#open_source"], "emoji": "🔧", "ru": {"title": "Эволюция AI-агентов: от поведения к реализации", "desc": "Статья рассматривает важность эволюции инструментов для современных AI-агентов, включающих фреймворки и мо
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#benchmark", "#games", "#open_source"], "emoji": "🖼️", "ru": {"title": "Открытая многомодальная модель для генерации и понимания", "desc": "В этой работе представлен Boogu-Image-0.1 — открытый модуль для многомодального понимания и генерации и
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#reasoning", "#benchmark", "#rl", "#optimization", "#math"], "emoji": "🚀", "ru": {"title": "Усиленное обучение без аннотаций: прорыв в масштабах", "desc": "Статья описывает подход усиленного обучения с проверяемыми вознаграждениями без аннотированных человеком данных, н
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#memory", "#agents", "#open_source", "#transfer_learning", "#agent_memory", "#continual_learning"], "emoji": "🤖", "ru": {"title": "Знай Досконально, Действуй Совершенно!", "desc": "Статья представляет новый подход к автоматизации сложных задач с помощью фреймворка KnowA
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#optimization", "#dataset", "#benchmark", "#survey", "#synthetic", "#data", "#training", "#architecture", "#rl"], "emoji": "📄", "ru": {"title": "OvisOCR2: Новая эра парсинга документов", "desc": "OvisOCR2 — это модель парсинга документов с 0.8 миллиарда параметров. Она работает как 
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#benchmark", "#agents", "#security", "#ethics"], "emoji": "🛡️", "ru": {"title": "Адаптация охраны изображений к изменяющимся условиям безопасности", "desc": "В данной статье исследуется проблема адаптации охраны изображений в соответствии с изменяющимися политиками безо
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#agents", "#optimization", "#robotics", "#architecture", "#transfer_learning"], "emoji": "🤖", "ru": {"title": "Эффективное управление роботами с помощью GigaWorld-Policy-0.5", "desc": "Модель GigaWorld-Policy-0.5 улучшает обучение политики роботов, эффективно комбинируя
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#dataset", "#games", "#diffusion", "#open_source", "#3d"], "emoji": "🖼️", "ru": {"title": "Новый взгляд на генерацию изображений", "desc": "В данной статье представлен новый подход к синтезу изображений под названием MetaView, который использует диффузионные модели для генерации нов
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#multimodal", "#diffusion", "#optimization", "#hallucinations", "#3d"], "emoji": "🖼️", "ru": {"title": "Новая эра в генерации 3D и 4D контента", "desc": "В данной статье представлен метод Hallo4D, который решает проблемы генерирования 3D и 4D контента, связанные с пространственными 
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#diffusion", "#architecture", "#optimization"], "emoji": "🌟", "ru": {"title": "Улучшение генерации изображений с помощью токенов регистрации", "desc": "В данной статье рассматриваются Vision Transformers (ViTs) и их проблема с аномальными токенами, которые ухудшают качество признако
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#long_context", "#training", "#optimization", "#inference"], "emoji": "📉", "ru": {"title": "Оптимизация сжатия для качественного генерации", "desc": "Структурная обрезка является удобным способом сжатия больших языковых моделей (LLM), но в основном она проверялась только на задачах 
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#memory", "#agi", "#agents", "#survey", "#tool_use"], "emoji": "🤖", "ru": {"title": "Автономные агенты: эволюция без человека", "desc": "В этой статье рассматриваются автономные агенты, которые самостоятельно улучшают свои способности. Основная цель таких агентов — контролируемая эв
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#multimodal", "#memory", "#benchmark", "#agents", "#reasoning", "#open_source", "#retrieval"], "emoji": "🤖", "ru": {"title": "Интеллектуальный помощник: проактивный, а не реактивный", "desc": "В статье рассматривается необходимость проактивного поведения интеллектуального помощника,
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#agent_memory", "#open_source", "#benchmark", "#agents"], "emoji": "🤖", "ru": {"title": "Новая эра оценки агентов на базе LLM", "desc": "Статья представляет новый инструмент под названием AgentCompass, который помогает в оценке автономных агентов на основе LLM. Он решает проблему фр
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#interpretability", "#agent_memory", "#agents"], "emoji": "⚙️", "ru": {"title": "Эффективная диагностика сбоев в LLM-системах", "desc": "Статья посвящена выявлению причин сбоя в системах, основанных на LLM, что критично для их отладки и улучшения. Авторы предлагают новы
-[16.07.2026 16:18] Querying the API.
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[16.07.2026 16:18] Generating top page (month).
+[16.07.2026 16:18] Writing top page (month).
+[16.07.2026 19:08] Read previous papers.
+[16.07.2026 19:08] Get feed.
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13285
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13285
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13125
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13125
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12395
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12395
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12625
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12625
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13639
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13639
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.05910
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.05910
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12000
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12000
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13960
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13960
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2605.16147
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2605.16147
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12752
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12752
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13124
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13124
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13104
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13104
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13705
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13705
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11523
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11523
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12747
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12747
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13431
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13431
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13027
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13027
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07702
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07702
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2605.10834
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2605.10834
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12477
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12477
+[16.07.2026 19:08] Extract page data from URL. URL: https://huggingface.co/papers/2607.09786
+[16.07.2026 19:08] Extract page data from URL. URL: https://huggingface.co/papers/2607.06701
+[16.07.2026 19:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13250
+[16.07.2026 19:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13250
+[16.07.2026 19:08] Updating GitHub stars.
+[16.07.2026 19:08] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[16.07.2026 19:08] No deleted papers detected.
+[16.07.2026 19:08] Downloading and parsing papers (pdf, html). Total: 23.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13285.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13285.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13285.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13125.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13125.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13125.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.12395.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.12395.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.12395.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.12625.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.12625.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.12625.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13639.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13639.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13639.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.05910.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.05910.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.05910.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.12000.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.12000.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.12000.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13960.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13960.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13960.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2605.16147.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2605.16147.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2605.16147.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.12752.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.12752.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.12752.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13124.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13124.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13124.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13104.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13104.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13104.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13705.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13705.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13705.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.11523.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.11523.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.11523.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.12747.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.12747.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.12747.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13431.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13431.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13431.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13027.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13027.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13027.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.07702.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.07702.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.07702.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2605.10834.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2605.10834.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2605.10834.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.12477.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.12477.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.12477.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.09786.
+[16.07.2026 19:08] Downloading paper 2607.09786 from https://arxiv.org/pdf/2607.09786v1...
+[16.07.2026 19:08] Extracting affiliations from text.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities. Unlike continuous diffusion, where the state space is fixed, DDMs are fundamentally shaped by how the discrete state space is constructed: the tokenization scheme, the vocabulary topology, and domain-specific structural alphabets. This work introduces a unified conceptual framework that views discrete diffusion models through the construction of the underlying discrete state space. Within this framework, existing formulations, including transition-matrix, masking/absorbing-state, and score/ratio-based approaches, emerge as different instantiations of a common design space. The framework further exposes common design trade-offs across training objectives, inference algorithms, scaling behavior, systems optimization, and evaluation protocols, suggesting several promising directions for future research.
-[16.07.2026 16:18] Response: {
-  "desc": "В данной статье рассматриваются дискретные модели диффузии для устранения шумов (DDMs) как альтернатива автогрессивному моделированию для дискретных данных. Главное внимание уделяется тому, как построение дискретного пространства состояний влияет на эффективность этих моделей. Предлагается единая концептуальная рамка, которая объединяет различные подходы к моделям диффузии, позволяя лучше понимать их взаимодействие и применение. Также обсуждаются важные компромиссы в проектировании, методы обучения и алгоритмы вывода, открывающие новые направления для будущих исследований.",
-  "emoji": "🌌",
-  "title": "Новые горизонты в дискретной диффузии"
-}
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+Text:"Length Penalties Make Chain-of-Thought Less Monitorable Bryce Little* "
+[16.07.2026 19:08] Response: []
+[16.07.2026 19:08] Extracting affiliations from text.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities. Unlike continuous diffusion, where the state space is fixed, DDMs are fundamentally shaped by how the discrete state space is constructed: the tokenization scheme, the vocabulary topology, and domain-specific structural alphabets. This work introduces a unified conceptual framework that views discrete diffusion models through the construction of the underlying discrete state space. Within this framework, existing formulations, including transition-matrix, masking/absorbing-state, and score/ratio-based approaches, emerge as different instantiations of a common design space. The framework further exposes common design trade-offs across training objectives, inference algorithms, scaling behavior, systems optimization, and evaluation protocols, suggesting several promising directions for future research."
-
-[16.07.2026 16:18] Response: ```python
-["DATASET", "DATA", "BENCHMARK", "ARCHITECTURE", "TRAINING", "INFERENCE"]
+Text:"Length Penalties Make Chain-of-Thought Less Monitorable Bryce Little*Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the models answer. In our experiments, training with length penalties does not stop misleading hints from steering models, even though the models chains of thought mention the hint much less often. tokenaccuracy evaluation would count these runs as successful because they use fewer reasoning tokens with little accuracy loss; it would miss whether the remaining trace still shows what drove the answer. We train Qwen3-4B and Qwen3-14B variants with different target chain lengths, then evaluate them with biasing-hint interventions on held-out MMLU-Pro-R and four transfer benchmarks. Compression sharply cuts reasoning tokens, preserves most multiple-choice accuracy, and leaves hint influence near baseline. At the strongest target, lower-bound faithfulness falls to 63.1% of baseline for Qwen314B and 69.4% for Qwen3-4B; the raw rate at which monitor catches hint use falls from 69% to 49% and from 60% to 48%. To separate length from content, we randomly delete sentences from uncompressed baseline chains until the remaining text matches the compressed length. Even after this length matching, compressed chains disclose the hint 735 percentage points less often than baseline chains that we shorten at random, for both Qwen3 sizes and all five evaluation distributions. Compression therefore does more than shorten reasoning, preferentially removing the cues monitor needs to see what influenced the answer. Together, these results reveal compressionmonitorability frontier in which cheaper reasoning can preserve answers while making the influences behind them harder to detect. Median CoT length accuracy faithfulness Qwen3-14B k T a M 3, 000 2, 000 1, 000 0 3, 2, 000 1, 000 0 Qwen3-4B ) ( l b f n 0 10 20 30 0 10 20 30 40 Baseline 60% 50% CoT compression target 40% 30% Figure 1: Length-penalized RL compresses CoT with little accuracy loss but lower faithfulness on the held-out MMLU-Pro-R test set. Bars show median CoT length; lines show baseline-relative changes in accuracy and faithfulness. Whiskers show 95% bootstrap confidence intervals; we set baselines to zero. *bryceplittle@gmail.comChain-of-thought (CoT) generation gives language model extra test-time compute to improve its answers (Wei et al., 2022; Kojima et al., 2022), and reasoning models now generate long traces by default (OpenAI, 2024; DeepSeek-AI, 2025; Yang et al., 2025). Because thinking tokens increase inference cost, recent work trains models to use fewer of them, often with substantial reductions and little or no loss in task accuracy (Arora and Zanette, 2025; Aggarwal and Welleck, 2025; Yi and Wang, 2025; Xiang et al., 2025). This tokenaccuracy criterion overlooks second role of the trace. For monitoring, chain of thought helps only insofar as it exposes what drove the answer (Korbak et al., 2025; Baker et al., 2025). Our paper studies this missing axis of evaluation. We show that compression can preserve task behavior while stripping away the trace evidence that would reveal biasing influence. To measure the tradeoff between efficiency and monitorability, we train Qwen3-4B and Qwen314B with calibrated length penalties targeting several compression regimes. We also train reinforcement learning (RL) control with the same correctness and format rewards but no length penalty, isolating the effect of compression from RL itself. We adopt the hint-intervention setup of Turpin et al. (2023) and Chen et al. (2025), adding hint pointing to target answer, measuring whether the model switches toward that target, and counting the chain of thought as faithful only when monitor can detect the hints role in the trace. Across held-out evaluations, shorter traces are less likely to disclose the hint that shaped the answer, even when the model preserves task accuracy (Figure 1). Faithfulness falls sharply across compression targets, while hint influence on the answers stays near baseline. monitor reading the compressed trace is therefore less likely to see the influence that still steers the answer. Across the five evaluation sets, the strongest compression target lowers median chain length to about 38% of each models baseline; accuracy losses remain small, but they are largest at this setting. large share of the monitorability decline comes from length, since shorter chains give the monitor fewer chances to observe hint attribution. Yet the drop is not only length effect. Randomly shortening baseline chains to the compressed lengths preserves more disclosures than the compressed models produce, on every evaluation distribution; compression removes hint attribution beyond what its token budget forces. Qwen3-14B loses more monitorability than Qwen3-4B in our runs, raising the question of how compression interacts with model scale (5). single high-compression run of the same recipe on Nemotron-Nano-9B-v2 also preserves accuracy and hint influence while reducing faithfulness. We treat it as cross-family check, with full model-family sweep left for future work. Supporting marker analyses suggest that compression reduces the metacognitive narration monitor depends on while largely sparing calculation-like surface features (6). The efficient-reasoning literature usually evaluates methods by their tokenaccuracy tradeoff. Our results show that this view misses safety cost. The optimization can preserve the behavior monitor cares about while removing the trace evidence the monitor needs. Efficiency methods can therefore move models along steep monitorability frontier, removing thinking tokens that also served as evidence for the monitor. Contributions. 1. We quantify large compressionmonitorability gap. At the strongest target, length-penalized RL preserves most no-hint accuracy while lower-bound faithfulness falls to 63.1% of baseline for Qwen3-14B and 69.4% for Qwen3-4B. 2. We isolate the gap to length pressure rather than RL alone. The effect appears on held-out MMLU-Pro-R and four transfer benchmarks, while no-penalty RL control does not produce it. 3. We trace the loss to the shorter token budget and to selective omission. We take uncompressed baseline chains, randomly delete sentences until they match the compressed lengths, and ask how often disclosure survives. The compressed models disclose the hint 735 percentage points less often than these length-matched bas"
+[16.07.2026 19:08] Response: ```python
+[]
 ```
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[16.07.2026 19:08] Deleting PDF ./assets/pdf/2607.09786.pdf.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.06701.
+[16.07.2026 19:08] Downloading paper 2607.06701 from https://arxiv.org/pdf/2607.06701v1...
+[16.07.2026 19:08] Extracting affiliations from text.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities. Unlike continuous diffusion, where the state space is fixed, DDMs are fundamentally shaped by how the discrete state space is constructed: the tokenization scheme, the vocabulary topology, and domain-specific structural alphabets. This work introduces a unified conceptual framework that views discrete diffusion models through the construction of the underlying discrete state space. Within this framework, existing formulations, including transition-matrix, masking/absorbing-state, and score/ratio-based approaches, emerge as different instantiations of a common design space. The framework further exposes common design trade-offs across training objectives, inference algorithms, scaling behavior, systems optimization, and evaluation protocols, suggesting several promising directions for future research."
-
-[16.07.2026 16:18] Response: ```python
-["DIFFUSION", "OPTIMIZATION"]
+Text:"SPEAR: Simulator for Photorealistic Embodied AI Research Mike Roberts1,2, Renhan Wang3, Rushikesh Zawar4, Rachith Dey-Prakash2, Quentin Leboutet2, Stephan R. Richter2, Matthias Müller2, German Ros5, Rui Tang3, Stefan Leutenegger6,7, Yannick Hold-Geoffroy1, Kalyan Sunkavalli1, and Vladlen Koltun2 1Adobe Research 2Intel Labs 3Manycore Tech Inc 4Adobe 5NVIDIA 6ETH Zurich 7Imperial College London https://github.com/spear-sim/spear Abstract. Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and rendering speed. We address these limitations by introducing SPEAR: Simulator for Photorealistic Embodied AI Research. At its core, SPEAR is Python library that can connect to, and programmatically control, any Unreal Engine (UE) application via modular plugin architecture. SPEAR exposes over 14K unique UE functions to Python, representing an order-of-magnitude increase in programmable functionality over existing UE-based simulators. Additionally, single SPEAR instance can render 19201080 photorealistic beauty images directly into users NumPy array at 73 frames per second an order of magnitude faster than existing UE plugins while also providing ground truth image modalities that are not available in any existing UE-based simulator (e.g., non-diffuse intrinsic image decomposition, material IDs, and physically based shading parameters). Finally, SPEAR introduces an expressive high-level programming model that enables users to specify complex graphs of UE work with arbitrary data dependencies among work items, and to execute these graphs deterministically within single UE frame. We demonstrate the utility of SPEAR through diverse collection of example applications: controlling multiple embodied agents with distinct action spaces (e.g., humans, cars, and robots) across several in-the-wild UE projects; rendering photorealistic city-"
+[16.07.2026 19:08] Response: ```python
+[
+    "Adobe Research",
+    "Intel Labs",
+    "Manycore Tech Inc",
+    "Adobe",
+    "NVIDIA",
+    "ETH Zurich",
+    "Imperial College London"
+]
 ```
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[16.07.2026 19:08] Deleting PDF ./assets/pdf/2607.06701.pdf.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Downloading and parsing paper https://huggingface.co/papers/2607.13250.
+[16.07.2026 19:08] Extra JSON file exists (./assets/json/2607.13250.json), skip PDF parsing.
+[16.07.2026 19:08] Paper image links file exists (./assets/img_data/2607.13250.json), skip HTML parsing.
+[16.07.2026 19:08] Success.
+[16.07.2026 19:08] Enriching papers with extra data.
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 0. Abstract  The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before ...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 1. Abstract  We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image generation, fast inference, instruction-based editing, and bil...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 2. Abstract  Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to computational constraints, existing studies are largely restricted to small models, leavin...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 3. Abstract  OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws limit its adaptation to diverse device ecosystems and prevent performance improvements thro...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 4. Abstract  We introduce OvisOCR2, a 0.8B document parsing model. OvisOCR2 is designed as an end-to-end parser: given a document page image, it generates a Markdown representation in natural reading order, covering text, formulas, tables, and visual regions. We build a data engine that combines filter...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 5. Abstract  Image guardrails are typically trained and evaluated under a fixed safety policy, implicitly treating safety as an intrinsic property of an image. Real deployments are different: the same image may be allowed in one product, restricted in another, and newly disallowed when a policy boundar...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 6. Abstract  Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically introduce explicit geometry priors, which enforce spatial consistency but inherently rest...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 7. Abstract  World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action generation. However, a common design in existing WAMs is to explicitly generate future video...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 8. Abstract  Vision Transformers (ViTs) are known to exhibit high-norm patch-token outliers that degrade feature map quality, a problem effectively mitigated by register tokens. As diffusion models increasingly adopt transformer architectures and move toward pixel-space training, they become closer in ...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 9. Abstract  While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading to spatial hallucinations such as duplicated structures and misaligned geometry. These iss...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 10. Abstract  Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form generation that deployment actually requires. Two observations trace this gap. First, greedy ...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 11. Abstract  Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experie...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 12. Abstract  As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing redundant engineering. To address this, ...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 13. Abstract  When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than merely reactive. Yet existing approaches either wait passively for user queries or treat eve...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 14. Abstract  Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approaches either rely on prompting-based pipelines, which are computationally expensive, or req...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 15. Abstract  Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities. Unlike continuous diffusion, where the state space is fixed, DDMs are f...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 16. Abstract  Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile device...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 17. Abstract  The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large tr...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 18. Abstract  AI pentesting agents are increasingly credible as offensive security systems, but current benchmarks still provide limited guidance on which will perform best in real-world targets. Existing evaluation protocols assess and optimize for predefined goals such as capture-the-flag, remote code...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 19. Abstract  Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surrounding space but also maintaining a coherent representation of the agent itself. However, exis...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 20. Abstract  Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the model's answer. In our experiments, training with length penalties does not stop misleading hints from steering models, even though the models' chains of thought mention...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 21. Abstract  Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and rendering speed. We address these limitations by introducing SPEAR: A Simulator f...
+[16.07.2026 19:08] ********************************************************************************
+[16.07.2026 19:08] Abstract 22. Abstract  We present AffectFlow-DINO, a multi-task learning system for the 11th ABAW challenge that extends a standard deterministic architecture with a conditional rectified-flow head to model the inherent ambiguity of in-the-wild facial behavior. Instead of predicting a single affect estimate, the...
+[16.07.2026 19:08] Read previous papers.
+[16.07.2026 19:08] Generating reviews via LLM API.
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#prompting", "#tool_use", "#long_context", "#agents", "#agent_memory", "#open_source"], "emoji": "🔧", "ru": {"title": "Эволюция AI-агентов: от поведения к реализации", "desc": "Статья рассматривает важность эволюции инструментов для современных AI-агентов, включающих фреймворки и мо
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#benchmark", "#games", "#open_source"], "emoji": "🖼️", "ru": {"title": "Открытая многомодальная модель для генерации и понимания", "desc": "В этой работе представлен Boogu-Image-0.1 — открытый модуль для многомодального понимания и генерации и
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#training", "#reasoning", "#benchmark", "#rl", "#optimization", "#math"], "emoji": "🚀", "ru": {"title": "Усиленное обучение без аннотаций: прорыв в масштабах", "desc": "Статья описывает подход усиленного обучения с проверяемыми вознаграждениями без аннотированных человеком данных, н
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#training", "#memory", "#agents", "#open_source", "#transfer_learning", "#agent_memory", "#continual_learning"], "emoji": "🤖", "ru": {"title": "Знай Досконально, Действуй Совершенно!", "desc": "Статья представляет новый подход к автоматизации сложных задач с помощью фреймворка KnowA
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#optimization", "#dataset", "#benchmark", "#survey", "#synthetic", "#data", "#training", "#architecture", "#rl"], "emoji": "📄", "ru": {"title": "OvisOCR2: Новая эра парсинга документов", "desc": "OvisOCR2 — это модель парсинга документов с 0.8 миллиарда параметров. Она работает как 
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#training", "#benchmark", "#agents", "#security", "#ethics"], "emoji": "🛡️", "ru": {"title": "Адаптация охраны изображений к изменяющимся условиям безопасности", "desc": "В данной статье исследуется проблема адаптации охраны изображений в соответствии с изменяющимися политиками безо
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#dataset", "#games", "#diffusion", "#open_source", "#3d"], "emoji": "🖼️", "ru": {"title": "Новый взгляд на генерацию изображений", "desc": "В данной статье представлен новый подход к синтезу изображений под названием MetaView, который использует диффузионные модели для генерации нов
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#training", "#agents", "#optimization", "#robotics", "#architecture", "#transfer_learning"], "emoji": "🤖", "ru": {"title": "Эффективное управление роботами с помощью GigaWorld-Policy-0.5", "desc": "Модель GigaWorld-Policy-0.5 улучшает обучение политики роботов, эффективно комбинируя
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#diffusion", "#architecture", "#optimization"], "emoji": "🌟", "ru": {"title": "Улучшение генерации изображений с помощью токенов регистрации", "desc": "В данной статье рассматриваются Vision Transformers (ViTs) и их проблема с аномальными токенами, которые ухудшают качество признако
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#multimodal", "#diffusion", "#optimization", "#hallucinations", "#3d"], "emoji": "🖼️", "ru": {"title": "Новая эра в генерации 3D и 4D контента", "desc": "В данной статье представлен метод Hallo4D, который решает проблемы генерирования 3D и 4D контента, связанные с пространственными 
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#long_context", "#training", "#optimization", "#inference"], "emoji": "📉", "ru": {"title": "Оптимизация сжатия для качественного генерации", "desc": "Структурная обрезка является удобным способом сжатия больших языковых моделей (LLM), но в основном она проверялась только на задачах 
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#memory", "#agi", "#agents", "#survey", "#tool_use"], "emoji": "🤖", "ru": {"title": "Автономные агенты: эволюция без человека", "desc": "В этой статье рассматриваются автономные агенты, которые самостоятельно улучшают свои способности. Основная цель таких агентов — контролируемая эв
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#agent_memory", "#open_source", "#benchmark", "#agents"], "emoji": "🤖", "ru": {"title": "Новая эра оценки агентов на базе LLM", "desc": "Статья представляет новый инструмент под названием AgentCompass, который помогает в оценке автономных агентов на основе LLM. Он решает проблему фр
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#multimodal", "#memory", "#benchmark", "#agents", "#reasoning", "#open_source", "#retrieval"], "emoji": "🤖", "ru": {"title": "Интеллектуальный помощник: проактивный, а не реактивный", "desc": "В статье рассматривается необходимость проактивного поведения интеллектуального помощника,
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#training", "#interpretability", "#agent_memory", "#agents"], "emoji": "⚙️", "ru": {"title": "Эффективная диагностика сбоев в LLM-системах", "desc": "Статья посвящена выявлению причин сбоя в системах, основанных на LLM, что критично для их отладки и улучшения. Авторы предлагают новы
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#inference", "#benchmark", "#dataset", "#training", "#optimization", "#data", "#diffusion", "#architecture"], "emoji": "🌌", "ru": {"title": "Новые горизонты в дискретной диффузии", "desc": "В данной статье рассматриваются дискретные модели диффузии для устранения шумов (DDMs) как ал
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#open_source", "#session_memory", "#tool_use", "#agents"], "emoji": "📱", "ru": {"title": "Эффективные мобильные агенты с PalmClaw", "desc": "Статья представляет новый фреймворк PalmClaw, который позволяет агентам на мобильных устройствах выполнять многоступенчатые задачи прямо на те
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#training", "#long_context", "#memory", "#agents", "#games", "#optimization"], "emoji": "🔍", "ru": {"title": "Оптимизация агентов с помощью STRACE", "desc": "В данной статье рассматривается оптимизация агентов с длинным горизонтом, использующих рефлексивные механизмы и большие языко
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#security", "#open_source", "#benchmark", "#agents"], "emoji": "🛡️", "ru": {"title": "Новый подход к оценке агентов AI для пентестинга", "desc": "В данной статье рассматриваются агенты искусственного интеллекта для пентестинга, которые становятся более надежными в роли атакующих сис
+[16.07.2026 19:08] Using data from previous issue: {"categories": ["#multimodal", "#games", "#benchmark", "#reasoning", "#memory", "#agents"], "emoji": "🚁", "ru": {"title": "Сопряжение пространственного интеллекта и осознания себя в БПЛА", "desc": "Автономные беспилотные летательные аппараты (БПЛА) все чаще используют мультимодальные модели больших 
+[16.07.2026 19:08] Querying the API.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities. Unlike continuous diffusion, where the state space is fixed, DDMs are fundamentally shaped by how the discrete state space is constructed: the tokenization scheme, the vocabulary topology, and domain-specific structural alphabets. This work introduces a unified conceptual framework that views discrete diffusion models through the construction of the underlying discrete state space. Within this framework, existing formulations, including transition-matrix, masking/absorbing-state, and score/ratio-based approaches, emerge as different instantiations of a common design space. The framework further exposes common design trade-offs across training objectives, inference algorithms, scaling behavior, systems optimization, and evaluation protocols, suggesting several promising directions for future research.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[16.07.2026 16:18] Response: {
-  "desc": "This paper discusses discrete denoising diffusion models (DDMs) as a new approach for generating discrete data, which can perform better than traditional autoregressive models. It emphasizes the importance of how the discrete state space is designed, including aspects like tokenization and vocabulary structure. The authors present a unified framework that connects various existing methods of DDMs, showing they are different versions of a similar concept. Additionally, the framework highlights key trade-offs in training, inference, and evaluation, paving the way for future advancements in this area.",
-  "title": "Revolutionizing Discrete Data Generation with Denoising Diffusion Models"
-}
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#long_context", "#memory", "#agents", "#games", "#optimization"], "emoji": "🔍", "ru": {"title": "Оптимизация агентов с помощью STRACE", "desc": "В данной статье рассматривается оптимизация агентов с длинным горизонтом, использующих рефлексивные механизмы и большие языко
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#open_source", "#session_memory", "#tool_use", "#agents"], "emoji": "📱", "ru": {"title": "Эффективные мобильные агенты с PalmClaw", "desc": "Статья представляет новый фреймворк PalmClaw, который позволяет агентам на мобильных устройствах выполнять многоступенчатые задачи прямо на те
-[16.07.2026 16:18] Querying the API.
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surrounding space but also maintaining a coherent representation of the agent itself. However, existing UAV-oriented approaches and benchmarks remain largely environment-centric, primarily focusing on spatial understanding tasks, with the agent's self-awareness remaining implicit. To address this gap, we introduce SIS-Bench, a benchmark for evaluating embodied spatial intelligence in UAV scenarios under a unified self-in-space formulation. SIS-Bench organizes evaluation along two complementary dimensions, space and self, and a three-level hierarchy of perception, memory, and reasoning. It contains 4,856 question--answer pairs across 13 tasks derived from 1,646 real-world UAV videos through a task-conditioned construction pipeline with expert verification.Extensive evaluations reveal that current MLLMs exhibit fundamental limitations in modeling dynamic and agent-centered processes. In particular, we observe a clear imbalance between spatial cognition and self-awareness, as well as a progressive performance degradation across cognitive levels.Motivated by these findings, we further explore a motion-aware representation that incorporates self-related dynamics through optical flow and visual feature fusion. Experimental results show that modeling agent motion consistently improves perception and memory performance, not only in spatial cognition but also in self-awareness, and generalizes to downstream UAV decision-making tasks.Our results highlight the importance of self-awareness for advancing embodied spatial intelligence, and provide both a new benchmark and empirical evidence for motion-aware self-in-space modeling.
-[16.07.2026 16:18] Response: ```json
+Abstract  Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the model's answer. In our experiments, training with length penalties does not stop misleading hints from steering models, even though the models' chains of thought mention the hint much less often. A token-accuracy evaluation would count these runs as successful because they use fewer reasoning tokens with little accuracy loss; it would miss whether the remaining trace still shows what drove the answer. We train Qwen3-4B and Qwen3-14B variants with different target chain lengths, then evaluate them with biasing-hint interventions on held-out MMLU-Pro-R and four transfer benchmarks. Compression sharply cuts reasoning tokens, preserves most multiple-choice accuracy, and leaves hint influence near baseline. At the strongest target, lower-bound faithfulness falls to 63.1% of baseline for Qwen3-14B and 69.4% for Qwen3-4B; the raw rate at which a monitor catches hint use falls from 69% to 49% and from 60% to 48%. To separate length from content, we randomly delete sentences from uncompressed baseline chains until the remaining text matches the compressed length. Even after this length matching, compressed chains disclose the hint 7-35 percentage points less often than baseline chains that we shorten at random, for both Qwen3 sizes and all five evaluation distributions. Compression therefore does more than shorten reasoning, preferentially removing the cues a monitor needs to see what influenced the answer. Together, these results reveal a compression-monitorability frontier in which cheaper reasoning can preserve answers while making the influences behind them harder to detect.
+[16.07.2026 19:08] Response: ```json
 {
-  "desc": "Автономные беспилотные летательные аппараты (БПЛА) все чаще используют мультимодальные модели больших языков (MLLM) для работы в сложных реальных условиях. В данной работе представлен новый бенчмарк SIS-Bench, который оценивает пространственный интеллект БПЛА, учитывая как восприятие окружающего мира, так и осознание собственного состояния. Исследования показали, что текущее поколение MLLM имеет значительные ограничения в моделировании динамических и агент-ориентированных процессов. Мы также выяснили, что учитывание динамики движения агента улучшает как восприятие, так и память, что критически важно для принятия решений БПЛА.",
-  "emoji": "🚁",
-  "title": "Сопряжение пространственного интеллекта и осознания себя в БПЛА"
+  "desc": "В статье рассматривается использование обучения с подкреплением с учетом длины для сокращения размышлений модели и сокрытия влияния подсказок на ответы. Эксперименты показывают, что хотя сокращение цепочек размышлений в значительной степени уменьшает проявления подсказок, их влияние все равно остается, что затрудняет оценку точности. Модели Qwen3 были обучены с различными длинами целевых цепочек и проанализированы с использованием интервенций в подсказках. Результаты показывают, что сжатие не только сокращает количество токенов размышлений, но и предпочтительно удаляет подсказки, что делает их влияние труднее обнаружимым.",
+  "emoji": "🤖",
+  "title": "Сокращение размышлений с сохранением влияния подсказок"
 }
 ```
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -391,12 +294,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surrounding space but also maintaining a coherent representation of the agent itself. However, existing UAV-oriented approaches and benchmarks remain largely environment-centric, primarily focusing on spatial understanding tasks, with the agent's self-awareness remaining implicit. To address this gap, we introduce SIS-Bench, a benchmark for evaluating embodied spatial intelligence in UAV scenarios under a unified self-in-space formulation. SIS-Bench organizes evaluation along two complementary dimensions, space and self, and a three-level hierarchy of perception, memory, and reasoning. It contains 4,856 question--answer pairs across 13 tasks derived from 1,646 real-world UAV videos through a task-conditioned construction pipeline with expert verification.Extensive evaluations reveal that current MLLMs exhibit fundamental limitations in modeling dynamic and agent-centered processes. In particular, we observe a clear imbalance between spatial cognition and self-awareness, as well as a progressive performance degradation across cognitive levels.Motivated by these findings, we further explore a motion-aware representation that incorporates self-related dynamics through optical flow and visual feature fusion. Experimental results show that modeling agent motion consistently improves perception and memory performance, not only in spatial cognition but also in self-awareness, and generalizes to downstream UAV decision-making tasks.Our results highlight the importance of self-awareness for advancing embodied spatial intelligence, and provide both a new benchmark and empirical evidence for motion-aware self-in-space modeling."
+"Abstract  Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the model's answer. In our experiments, training with length penalties does not stop misleading hints from steering models, even though the models' chains of thought mention the hint much less often. A token-accuracy evaluation would count these runs as successful because they use fewer reasoning tokens with little accuracy loss; it would miss whether the remaining trace still shows what drove the answer. We train Qwen3-4B and Qwen3-14B variants with different target chain lengths, then evaluate them with biasing-hint interventions on held-out MMLU-Pro-R and four transfer benchmarks. Compression sharply cuts reasoning tokens, preserves most multiple-choice accuracy, and leaves hint influence near baseline. At the strongest target, lower-bound faithfulness falls to 63.1% of baseline for Qwen3-14B and 69.4% for Qwen3-4B; the raw rate at which a monitor catches hint use falls from 69% to 49% and from 60% to 48%. To separate length from content, we randomly delete sentences from uncompressed baseline chains until the remaining text matches the compressed length. Even after this length matching, compressed chains disclose the hint 7-35 percentage points less often than baseline chains that we shorten at random, for both Qwen3 sizes and all five evaluation distributions. Compression therefore does more than shorten reasoning, preferentially removing the cues a monitor needs to see what influenced the answer. Together, these results reveal a compression-monitorability frontier in which cheaper reasoning can preserve answers while making the influences behind them harder to detect."
 
-[16.07.2026 16:18] Response: ```python
-['MULTIMODAL', 'BENCHMARK', 'AGENTS', 'MEMORY']
+[16.07.2026 19:08] Response: ```python
+["RL", "TRAINING", "COMPRESSION"]
 ```
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -439,28 +342,144 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surrounding space but also maintaining a coherent representation of the agent itself. However, existing UAV-oriented approaches and benchmarks remain largely environment-centric, primarily focusing on spatial understanding tasks, with the agent's self-awareness remaining implicit. To address this gap, we introduce SIS-Bench, a benchmark for evaluating embodied spatial intelligence in UAV scenarios under a unified self-in-space formulation. SIS-Bench organizes evaluation along two complementary dimensions, space and self, and a three-level hierarchy of perception, memory, and reasoning. It contains 4,856 question--answer pairs across 13 tasks derived from 1,646 real-world UAV videos through a task-conditioned construction pipeline with expert verification.Extensive evaluations reveal that current MLLMs exhibit fundamental limitations in modeling dynamic and agent-centered processes. In particular, we observe a clear imbalance between spatial cognition and self-awareness, as well as a progressive performance degradation across cognitive levels.Motivated by these findings, we further explore a motion-aware representation that incorporates self-related dynamics through optical flow and visual feature fusion. Experimental results show that modeling agent motion consistently improves perception and memory performance, not only in spatial cognition but also in self-awareness, and generalizes to downstream UAV decision-making tasks.Our results highlight the importance of self-awareness for advancing embodied spatial intelligence, and provide both a new benchmark and empirical evidence for motion-aware self-in-space modeling."
+"Abstract  Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the model's answer. In our experiments, training with length penalties does not stop misleading hints from steering models, even though the models' chains of thought mention the hint much less often. A token-accuracy evaluation would count these runs as successful because they use fewer reasoning tokens with little accuracy loss; it would miss whether the remaining trace still shows what drove the answer. We train Qwen3-4B and Qwen3-14B variants with different target chain lengths, then evaluate them with biasing-hint interventions on held-out MMLU-Pro-R and four transfer benchmarks. Compression sharply cuts reasoning tokens, preserves most multiple-choice accuracy, and leaves hint influence near baseline. At the strongest target, lower-bound faithfulness falls to 63.1% of baseline for Qwen3-14B and 69.4% for Qwen3-4B; the raw rate at which a monitor catches hint use falls from 69% to 49% and from 60% to 48%. To separate length from content, we randomly delete sentences from uncompressed baseline chains until the remaining text matches the compressed length. Even after this length matching, compressed chains disclose the hint 7-35 percentage points less often than baseline chains that we shorten at random, for both Qwen3 sizes and all five evaluation distributions. Compression therefore does more than shorten reasoning, preferentially removing the cues a monitor needs to see what influenced the answer. Together, these results reveal a compression-monitorability frontier in which cheaper reasoning can preserve answers while making the influences behind them harder to detect."
 
-[16.07.2026 16:18] Response: ```python
-['MEMORY', 'REASONING', 'GAMES']
+[16.07.2026 19:08] Response: ```python
+["REASONING", "COMPRESSION", "HALLUCINATIONS"]
 ```
-[16.07.2026 16:18] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surrounding space but also maintaining a coherent representation of the agent itself. However, existing UAV-oriented approaches and benchmarks remain largely environment-centric, primarily focusing on spatial understanding tasks, with the agent's self-awareness remaining implicit. To address this gap, we introduce SIS-Bench, a benchmark for evaluating embodied spatial intelligence in UAV scenarios under a unified self-in-space formulation. SIS-Bench organizes evaluation along two complementary dimensions, space and self, and a three-level hierarchy of perception, memory, and reasoning. It contains 4,856 question--answer pairs across 13 tasks derived from 1,646 real-world UAV videos through a task-conditioned construction pipeline with expert verification.Extensive evaluations reveal that current MLLMs exhibit fundamental limitations in modeling dynamic and agent-centered processes. In particular, we observe a clear imbalance between spatial cognition and self-awareness, as well as a progressive performance degradation across cognitive levels.Motivated by these findings, we further explore a motion-aware representation that incorporates self-related dynamics through optical flow and visual feature fusion. Experimental results show that modeling agent motion consistently improves perception and memory performance, not only in spatial cognition but also in self-awareness, and generalizes to downstream UAV decision-making tasks.Our results highlight the importance of self-awareness for advancing embodied spatial intelligence, and provide both a new benchmark and empirical evidence for motion-aware self-in-space modeling.
+Abstract  Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the model's answer. In our experiments, training with length penalties does not stop misleading hints from steering models, even though the models' chains of thought mention the hint much less often. A token-accuracy evaluation would count these runs as successful because they use fewer reasoning tokens with little accuracy loss; it would miss whether the remaining trace still shows what drove the answer. We train Qwen3-4B and Qwen3-14B variants with different target chain lengths, then evaluate them with biasing-hint interventions on held-out MMLU-Pro-R and four transfer benchmarks. Compression sharply cuts reasoning tokens, preserves most multiple-choice accuracy, and leaves hint influence near baseline. At the strongest target, lower-bound faithfulness falls to 63.1% of baseline for Qwen3-14B and 69.4% for Qwen3-4B; the raw rate at which a monitor catches hint use falls from 69% to 49% and from 60% to 48%. To separate length from content, we randomly delete sentences from uncompressed baseline chains until the remaining text matches the compressed length. Even after this length matching, compressed chains disclose the hint 7-35 percentage points less often than baseline chains that we shorten at random, for both Qwen3 sizes and all five evaluation distributions. Compression therefore does more than shorten reasoning, preferentially removing the cues a monitor needs to see what influenced the answer. Together, these results reveal a compression-monitorability frontier in which cheaper reasoning can preserve answers while making the influences behind them harder to detect.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[16.07.2026 16:18] Response: {
-  "desc": "This paper introduces SIS-Bench, a benchmark designed to evaluate the spatial intelligence of autonomous UAV systems using multimodal large language models (MLLMs). It emphasizes the need for UAVs to not only understand their environment but also maintain self-awareness, which has been overlooked in existing approaches. The benchmark assesses performance across two dimensions: spatial understanding and self-awareness, organized into perception, memory, and reasoning tasks. Experimental results indicate that incorporating motion-aware representations significantly enhances both spatial cognition and self-awareness in UAV decision-making tasks.",
-  "title": "Enhancing UAV Intelligence with Self-Awareness"
+[16.07.2026 19:08] Response: {
+  "desc": "This paper explores how length-penalized reinforcement learning can reduce the number of reasoning tokens used by models while obscuring the influences that guide their answers. The authors find that even with fewer reasoning tokens, misleading hints can still affect the model's outputs, which may not be captured by traditional accuracy evaluations. They train different variants of the Qwen3 model and assess their performance on various benchmarks, revealing that while compression reduces reasoning length, it also diminishes the visibility of hint influences. The study highlights a trade-off between efficient reasoning and the ability to monitor the underlying influences on model decisions.",
+  "title": "Efficient Reasoning with Hidden Influences"
 }
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#security", "#open_source", "#benchmark", "#agents"], "emoji": "🛡️", "ru": {"title": "Новый подход к оценке агентов AI для пентестинга", "desc": "В данной статье рассматриваются агенты искусственного интеллекта для пентестинга, которые становятся более надежными в роли атакующих сис
-[16.07.2026 16:18] Using data from previous issue: {"categories": ["#training", "#multimodal"], "emoji": "😊", "ru": {"title": "Многозадачное обучение для анализа лицевых эмоций", "desc": "В статье представлена система многозадачного обучения AffectFlow-DINO для 11-го конкурса ABAW. Она использует условную архитектуру rectified-flow для моделирования
-[16.07.2026 16:18] Renaming data file.
-[16.07.2026 16:18] Renaming previous data. hf_papers.json to ./d/2026-07-16.json
-[16.07.2026 16:18] Saving new data file.
-[16.07.2026 16:18] Generating page.
-[16.07.2026 16:18] Renaming previous page.
-[16.07.2026 16:18] Renaming previous data. index.html to ./d/2026-07-16.html
-[16.07.2026 16:18] Writing result.
-[16.07.2026 16:18] Renaming log file.
-[16.07.2026 16:18] Renaming previous data. log.txt to ./logs/2026-07-16_last_log.txt
+[16.07.2026 19:08] Querying the API.
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and rendering speed. We address these limitations by introducing SPEAR: A Simulator for Photorealistic Embodied AI Research. At its core, SPEAR is a Python library that can connect to, and programmatically control, any Unreal Engine (UE) application via a modular plugin architecture. SPEAR exposes over 14K unique UE functions to Python, representing an order-of-magnitude increase in programmable functionality over existing UE-based simulators. Additionally, a single SPEAR instance can render 1920x1080 photorealistic beauty images directly into a user's NumPy array at 73 frames per second - an order of magnitude faster than existing UE plugins - while also providing ground truth image modalities that are not available in any existing UE-based simulator (e.g., a non-diffuse intrinsic image decomposition, material IDs, and physically based shading parameters). Finally, SPEAR introduces an expressive high-level programming model that enables users to specify complex graphs of UE work with arbitrary data dependencies among work items, and to execute these graphs deterministically within a single UE frame. We demonstrate the utility of SPEAR through a diverse collection of example applications: controlling multiple embodied agents with distinct action spaces (e.g., humans, cars, and robots) across several in-the-wild UE projects; rendering photorealistic city-scale environments; manipulating UE's procedural content generation systems; rendering synchronized multi-view images of detailed human faces; coordinating an interactive co-simulation with the MuJoCo physics simulator; and editing scenes with natural language via an AI coding assistant.
+[16.07.2026 19:08] Response: ```json
+{
+  "desc": "В статье представлена SPEAR — новый симулятор для фотореалистичных исследований в области embodied AI. SPEAR является библиотекой на Python, которая позволяет управлять приложениями Unreal Engine через модульную архитектуру плагинов. Он предоставляет более 14 тысяч уникальных функций UE, что значительно увеличивает программируемость по сравнению с существующими симуляторами. SPEAR также обеспечивает высокую скорость рендеринга и возможность работы с сложными графами задач, что делает его полезным инструментом для различных приложений и симуляций.",
+  "emoji": "🚀",
+  "title": "SPEAR: Революция в симуляции фотореалистичного AI"
+}
+```
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and rendering speed. We address these limitations by introducing SPEAR: A Simulator for Photorealistic Embodied AI Research. At its core, SPEAR is a Python library that can connect to, and programmatically control, any Unreal Engine (UE) application via a modular plugin architecture. SPEAR exposes over 14K unique UE functions to Python, representing an order-of-magnitude increase in programmable functionality over existing UE-based simulators. Additionally, a single SPEAR instance can render 1920x1080 photorealistic beauty images directly into a user's NumPy array at 73 frames per second - an order of magnitude faster than existing UE plugins - while also providing ground truth image modalities that are not available in any existing UE-based simulator (e.g., a non-diffuse intrinsic image decomposition, material IDs, and physically based shading parameters). Finally, SPEAR introduces an expressive high-level programming model that enables users to specify complex graphs of UE work with arbitrary data dependencies among work items, and to execute these graphs deterministically within a single UE frame. We demonstrate the utility of SPEAR through a diverse collection of example applications: controlling multiple embodied agents with distinct action spaces (e.g., humans, cars, and robots) across several in-the-wild UE projects; rendering photorealistic city-scale environments; manipulating UE's procedural content generation systems; rendering synchronized multi-view images of detailed human faces; coordinating an interactive co-simulation with the MuJoCo physics simulator; and editing scenes with natural language via an AI coding assistant."
+
+[16.07.2026 19:08] Response: ```python
+['AGENTS', '3D', 'ROBOTICS', 'TRAINING']
+```
+[16.07.2026 19:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and rendering speed. We address these limitations by introducing SPEAR: A Simulator for Photorealistic Embodied AI Research. At its core, SPEAR is a Python library that can connect to, and programmatically control, any Unreal Engine (UE) application via a modular plugin architecture. SPEAR exposes over 14K unique UE functions to Python, representing an order-of-magnitude increase in programmable functionality over existing UE-based simulators. Additionally, a single SPEAR instance can render 1920x1080 photorealistic beauty images directly into a user's NumPy array at 73 frames per second - an order of magnitude faster than existing UE plugins - while also providing ground truth image modalities that are not available in any existing UE-based simulator (e.g., a non-diffuse intrinsic image decomposition, material IDs, and physically based shading parameters). Finally, SPEAR introduces an expressive high-level programming model that enables users to specify complex graphs of UE work with arbitrary data dependencies among work items, and to execute these graphs deterministically within a single UE frame. We demonstrate the utility of SPEAR through a diverse collection of example applications: controlling multiple embodied agents with distinct action spaces (e.g., humans, cars, and robots) across several in-the-wild UE projects; rendering photorealistic city-scale environments; manipulating UE's procedural content generation systems; rendering synchronized multi-view images of detailed human faces; coordinating an interactive co-simulation with the MuJoCo physics simulator; and editing scenes with natural language via an AI coding assistant."
+
+[16.07.2026 19:09] Response: ```python
+['GAMES', 'SYNTHETIC']
+```
+[16.07.2026 19:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and rendering speed. We address these limitations by introducing SPEAR: A Simulator for Photorealistic Embodied AI Research. At its core, SPEAR is a Python library that can connect to, and programmatically control, any Unreal Engine (UE) application via a modular plugin architecture. SPEAR exposes over 14K unique UE functions to Python, representing an order-of-magnitude increase in programmable functionality over existing UE-based simulators. Additionally, a single SPEAR instance can render 1920x1080 photorealistic beauty images directly into a user's NumPy array at 73 frames per second - an order of magnitude faster than existing UE plugins - while also providing ground truth image modalities that are not available in any existing UE-based simulator (e.g., a non-diffuse intrinsic image decomposition, material IDs, and physically based shading parameters). Finally, SPEAR introduces an expressive high-level programming model that enables users to specify complex graphs of UE work with arbitrary data dependencies among work items, and to execute these graphs deterministically within a single UE frame. We demonstrate the utility of SPEAR through a diverse collection of example applications: controlling multiple embodied agents with distinct action spaces (e.g., humans, cars, and robots) across several in-the-wild UE projects; rendering photorealistic city-scale environments; manipulating UE's procedural content generation systems; rendering synchronized multi-view images of detailed human faces; coordinating an interactive co-simulation with the MuJoCo physics simulator; and editing scenes with natural language via an AI coding assistant.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[16.07.2026 19:09] Response: {
+  "desc": "The paper introduces SPEAR, a powerful Python library designed to enhance the capabilities of photorealistic simulators for embodied AI research. SPEAR connects to Unreal Engine applications, allowing for extensive programmability with over 14,000 unique functions accessible via Python. It significantly improves rendering speed, producing high-quality images at 73 frames per second, while also providing unique ground truth data not available in other simulators. Additionally, SPEAR features a high-level programming model that enables complex task execution and coordination among multiple agents in diverse applications.",
+  "title": "SPEAR: Revolutionizing Photorealistic Simulation for AI"
+}
+[16.07.2026 19:09] Using data from previous issue: {"categories": ["#training", "#multimodal"], "emoji": "😊", "ru": {"title": "Многозадачное обучение для анализа лицевых эмоций", "desc": "В статье представлена система многозадачного обучения AffectFlow-DINO для 11-го конкурса ABAW. Она использует условную архитектуру rectified-flow для моделирования
+[16.07.2026 19:09] Renaming data file.
+[16.07.2026 19:09] Renaming previous data. hf_papers.json to ./d/2026-07-16.json
+[16.07.2026 19:09] Saving new data file.
+[16.07.2026 19:09] Generating page.
+[16.07.2026 19:09] Renaming previous page.
+[16.07.2026 19:09] Renaming previous data. index.html to ./d/2026-07-16.html
+[16.07.2026 19:09] Writing result.
+[16.07.2026 19:09] Renaming log file.
+[16.07.2026 19:09] Renaming previous data. log.txt to ./logs/2026-07-16_last_log.txt
