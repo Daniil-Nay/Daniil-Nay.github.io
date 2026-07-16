@@ -4,9 +4,9 @@
         "en": "July 16",
         "zh": "7月16日"
     },
-    "time_utc": "2026-07-16 13:47",
+    "time_utc": "2026-07-16 16:17",
     "weekday": 3,
-    "issue_id": 2832,
+    "issue_id": 2833,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
             "url": "https://huggingface.co/papers/2607.13285",
             "abstract": "Abstract  The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before such a change can be made, a developer or coding agent must identify all code locations that implement the target behavior. This is difficult because production harnesses are large, tightly coupled, and behaviorally distributed, while modification requests describe what the system should do and repositories are organized by files and modules. Code search, repository indexing, and long-context processing ease inspection, but still leave this behavior-to-code mapping to be recovered by hand. Behavior localization is therefore a central bottleneck in harness evolution. We introduce the Harness Handbook, a behavior-centric representation synthesized automatically from a harness codebase via static analysis and LLM-assisted structuring, linking each behavior to its corresponding source. We also introduce Behavior-Guided Progressive Disclosure (BGPD), which guides agents from high-level behaviors to relevant implementation details and verifies candidate locations against the current source. On diverse modification requests from two open-source harnesses, Handbook-Assisted planning improves behavior localization and edit-plan quality while using fewer planner tokens, with the largest gains on scattered sites, rarely executed paths, and cross-module interactions. Evolving complex agentic systems thus depends not only on generating edits, but also on determining where those edits should be made.",
-            "score": 154,
+            "score": 157,
             "issue_id": 2829,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -70,7 +70,7 @@
             "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
             "url": "https://huggingface.co/papers/2607.13125",
             "abstract": "Abstract  We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image generation, fast inference, instruction-based editing, and bilingual (Chinese-English) text rendering. Closed-source multimodal systems like Nano-Banana-Pro and GPT-Image-2 achieve strong performance through system-level integration rather than a single model, yet their internal practices remain largely undisclosed. In this work, we demonstrate that targeted improvements in model understanding, data quality, and training pipelines, coupled with agentic inference-time scaling, can substantially enhance generation and editing performance even under highly constrained compute budgets. Comprehensive evaluations show that Boogu-Image-0.1 consistently matches or surpasses other open-source models across standard benchmarks, and achieves results approaching leading closed-source systems. Notably, this is accomplished with only 208.62 million unique images. The base model's theoretical training cost is only approximately \\$400K. We share practical discussions that we believe are valuable to the broader research community, and release weights, code, and recipes under Apache 2.0 to advance the open ecosystem for unified multimodal understanding and generation. Our code is available here: https://github.com/Boogu-Project/Boogu-Image.",
-            "score": 102,
+            "score": 105,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -143,7 +143,7 @@
             "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
             "url": "https://huggingface.co/papers/2607.12395",
             "abstract": "Abstract  Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to computational constraints, existing studies are largely restricted to small models, leaving the training dynamics and emergent capabilities at a large scale unexplored. To meaningfully explore this frontier, we aim to elicit high-quality reasoning behaviors from the model. However, we find that naive scaling often suffers from poor readability, token redundancy, and a lack of adaptive reasoning depth. To address these challenges, we present a stable and efficient training pipeline, incorporating algorithmic and system optimizations such as clipped importance sampling, training-inference ratio correction, and mixed-precision control. Our experiments offer three key findings that validate the \"bitter lesson\" of scaling: (1) scaling to 1T parameters significantly enhances sample efficiency and performance ceilings; (2) the training process progresses sequentially through an initial discovery phase followed by a sharpening phase; and (3) the model spontaneously develops advanced cognitive behaviors, including anthropomorphism, structured formatting, self-verification, parallel reasoning, and context anxiety, rendering hand-crafted heuristics redundant. Evaluated on seven mathematical benchmarks, Ring-2.5-1T-Zero achieves competitive performance. Additionally, to assess CoT quality beyond final-answer correctness, we propose a structured evaluation framework across three dimensions: comprehensibility, reproducibility, and efficiency, where our model demonstrates clear advantages in producing structured and concise reasoning traces. By sharing our observed emergent phenomena, we hope to provide the community with deeper insights into scaling behaviors, particularly at the 1-trillion scale.",
-            "score": 75,
+            "score": 76,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -204,7 +204,7 @@
             "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
             "url": "https://huggingface.co/papers/2607.12625",
             "abstract": "Abstract  OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws limit its adaptation to diverse device ecosystems and prevent performance improvements through continuous learning from execution experience. To resolve these issues, we propose the Know Deeply, Act Perfectly paradigm for personal assistants, which holds that accumulated user interaction and task-running experience directly improve execution accuracy and efficiency, unifying cognitive comprehension and operational execution. Based on this paradigm, we introduce KnowAct-GUIClaw, a novel Know-Route-Act-Reflect framework designed to address OpenClaw's GUI manipulation deficits and break through its cross-platform and recursive self-improvement constraints. First, the host agent leverages accumulated interaction experience and task-relevant knowledge for long-horizon task decomposition and allocation (Know). Second, a pluggable GUI subagent with an experience-attributable memory system (Know) and self-evolving skill library (Act), enabling seamless cross-platform migration and fast-path integration. Especially, this framework continuously stores user profiles and feedback to improve the accuracy of task decomposition and tool calls. Extensive experiments across Android, iOS, HarmonyOS and Windows show that KnowAct-GUIClaw achieves superior efficiency, accuracy and cross-platform adaptability. Especially, the GUIClaw with open-source Kimi-2.6 models achieves the best performance (64.1%) on the long-horizon MobileWorld benchmark, beating all agentical frameworks and closed-source agentical models, e.g., Seed-2.0-Pro and GPT-5.5. Additionally, the knowledgeable memory and execution skills supported by our framework are transferable across diverse base models, improving by 8.5% with Kimi-2.6.",
-            "score": 42,
+            "score": 43,
             "issue_id": 2830,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -440,7 +440,7 @@
             "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
             "url": "https://huggingface.co/papers/2607.12000",
             "abstract": "Abstract  Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically introduce explicit geometry priors, which enforce spatial consistency but inherently restrict generalization in large view changes. In contrast, recent interactive generative methods favor implicit scene modeling, offering greater flexibility at the cost of precise camera control and geometry consistency. In this paper, we propose MetaView, a diffusion-based monocular novel view synthesis framework that enables rendering under large view changes from a single image. Our key insight is to combine implicit geometry modeling with minimal yet essential explicit 3D cues: we incorporate implicit geometry priors from a feed-forward geometry perception network to regularize structure without imposing restrictive reconstruction pipelines, while leveraging metric depth to anchor the generation to a metric scale. This design allows MetaView to achieve both geometry consistency and precise controllability. Extensive experiments demonstrate that, under challenging monocular large viewpoint changes, MetaView significantly outperforms existing methods and exhibits superior generalization. Our code is publicly available at https://github.com/KlingAIResearch/MetaView.",
-            "score": 20,
+            "score": 21,
             "issue_id": 2830,
             "pub_date": "2026-07-13",
             "pub_date_card": {
@@ -628,6 +628,63 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.13104",
+            "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+            "url": "https://huggingface.co/papers/2607.13104",
+            "abstract": "Abstract  Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that represents a modern agent as a configuration coupling a foundation model with an operational scaffold of prompts, memory, tools, and control logic. Within this framework, self-improvement is formalized as a self-induced update operator that obtains and commits updates to model parameters or scaffold components. We organize prior work by update target and by the signals that drive change, then review applications and discuss evaluation, before closing with open problems and future directions. For convenience, we track technical updates on https://github.com/selfimproving-agent/awesome-Self-Improving-Agents.",
+            "score": 7,
+            "issue_id": 2831,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "6a88595ef312bbbb",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhe Ren",
+                "Yimeng Chen",
+                "Dandan Guo",
+                "Guowei Rong",
+                "Tonghui Li",
+                "R. B. Xiong",
+                "Qingfeng Lan",
+                "Wenyi Wang",
+                "Li Nanbo",
+                "Yibo Yang",
+                "Mingchen Zhuge",
+                "Jürgen Schmidhuber"
+            ],
+            "affiliations": [
+                "Independent Researcher",
+                "King Abdullah University of Science and Technology (KAUST)",
+                "School of Artificial Intelligence, Jilin University",
+                "The Swiss AI Lab IDSIA/USI/SUPSI",
+                "University of Alberta"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13104.jpg",
+            "data": {
+                "categories": [
+                    "#memory",
+                    "#agi",
+                    "#agents",
+                    "#survey",
+                    "#tool_use"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Автономные агенты: эволюция без человека",
+                    "desc": "В этой статье рассматриваются автономные агенты, которые самостоятельно улучшают свои способности. Основная цель таких агентов — контролируемая эволюция и адаптация на основе опыта с минимальным или отсутствием вмешательства человека. Исследуется система, в которой агенты используют модели, подсказки, память, инструменты и логику управления для самосовершенствования. Обсуждаются предыдущие работы, приложения, методы оценки, а также открытые вопросы для будущих исследований."
+                },
+                "en": {
+                    "title": "Empowering Agents: Evolving Autonomy Through Experience",
+                    "desc": "This paper discusses the development of self-improving autonomous agents that can adapt and evolve with little to no human intervention. It presents a framework that combines a foundation model with various components like prompts, memory, and control logic to facilitate this adaptation. The authors formalize self-improvement as a process where agents update their model parameters or components based on their experiences. The paper also categorizes previous research by the targets of updates and the signals that prompt changes, while highlighting applications, evaluation methods, and future research directions."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.11523",
             "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
             "url": "https://huggingface.co/papers/2607.11523",
@@ -745,68 +802,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.13104",
-            "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-            "url": "https://huggingface.co/papers/2607.13104",
-            "abstract": "Abstract  Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that represents a modern agent as a configuration coupling a foundation model with an operational scaffold of prompts, memory, tools, and control logic. Within this framework, self-improvement is formalized as a self-induced update operator that obtains and commits updates to model parameters or scaffold components. We organize prior work by update target and by the signals that drive change, then review applications and discuss evaluation, before closing with open problems and future directions. For convenience, we track technical updates on https://github.com/selfimproving-agent/awesome-Self-Improving-Agents.",
-            "score": 6,
-            "issue_id": 2831,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "6a88595ef312bbbb",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhe Ren",
-                "Yimeng Chen",
-                "Dandan Guo",
-                "Guowei Rong",
-                "Tonghui Li",
-                "R. B. Xiong",
-                "Qingfeng Lan",
-                "Wenyi Wang",
-                "Li Nanbo",
-                "Yibo Yang",
-                "Mingchen Zhuge",
-                "Jürgen Schmidhuber"
-            ],
-            "affiliations": [
-                "Independent Researcher",
-                "King Abdullah University of Science and Technology (KAUST)",
-                "School of Artificial Intelligence, Jilin University",
-                "The Swiss AI Lab IDSIA/USI/SUPSI",
-                "University of Alberta"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13104.jpg",
-            "data": {
-                "categories": [
-                    "#memory",
-                    "#agi",
-                    "#agents",
-                    "#survey",
-                    "#tool_use"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Автономные агенты: эволюция без человека",
-                    "desc": "В этой статье рассматриваются автономные агенты, которые самостоятельно улучшают свои способности. Основная цель таких агентов — контролируемая эволюция и адаптация на основе опыта с минимальным или отсутствием вмешательства человека. Исследуется система, в которой агенты используют модели, подсказки, память, инструменты и логику управления для самосовершенствования. Обсуждаются предыдущие работы, приложения, методы оценки, а также открытые вопросы для будущих исследований."
-                },
-                "en": {
-                    "title": "Empowering Agents: Evolving Autonomy Through Experience",
-                    "desc": "This paper discusses the development of self-improving autonomous agents that can adapt and evolve with little to no human intervention. It presents a framework that combines a foundation model with various components like prompts, memory, and control logic to facilitate this adaptation. The authors formalize self-improvement as a process where agents update their model parameters or components based on their experiences. The paper also categorizes previous research by the targets of updates and the signals that prompt changes, while highlighting applications, evaluation methods, and future research directions."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.12747",
             "title": "Tracing Agentic Failure from the Flow of Success",
             "url": "https://huggingface.co/papers/2607.12747",
             "abstract": "Abstract  Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approaches either rely on prompting-based pipelines, which are computationally expensive, or require post-training on failure trajectories with step-level error annotations, which are costly to collect and difficult to scale. We argue that a practical failure attribution model should be lightweight and trainable without step-level supervision on failure data. To this end, we address unsupervised failure attribution, i.e., training exclusively on successful trajectories and identifying error steps at inference time given a failure trajectory. We propose OAT, which casts this problem as one-class learning with neural controlled differential equations, modeling the dynamical pattern of successful trajectories in latent space. At inference time, each step in a failure trajectory is assigned an anomaly score based on its deviation from the dynamics learned on successful trajectories, which is then used to form a set of error steps. With training on only 100 successful trajectories, experiments show that OAT is 200--5000 times faster than prompting-based baselines, and, at the same time, consistently outperforms them in both in-domain and out-of-distribution datasets with +20% and +7% F1 scores, respectively, demonstrating that OAT is a promising and efficient direction for diagnosing agentic system failures.",
-            "score": 5,
+            "score": 6,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -843,6 +843,80 @@
                 "en": {
                     "title": "Efficient Failure Diagnosis for LLMs with OAT",
                     "desc": "This paper presents a method for identifying the causes of failures in large language model (LLM)-based systems, which is essential for debugging. The proposed approach, called OAT, focuses on unsupervised failure attribution, allowing the model to learn from successful task trajectories without needing detailed error annotations. By using one-class learning with neural controlled differential equations, OAT efficiently detects anomalies in failure trajectories based on learned patterns from successful ones. The results show that OAT is significantly faster and more effective than existing methods, making it a valuable tool for improving agentic systems."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13431",
+            "title": "Discrete Diffusion Models: A Unified Framework from Tokenization to Generation",
+            "url": "https://huggingface.co/papers/2607.13431",
+            "abstract": "Abstract  Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities. Unlike continuous diffusion, where the state space is fixed, DDMs are fundamentally shaped by how the discrete state space is constructed: the tokenization scheme, the vocabulary topology, and domain-specific structural alphabets. This work introduces a unified conceptual framework that views discrete diffusion models through the construction of the underlying discrete state space. Within this framework, existing formulations, including transition-matrix, masking/absorbing-state, and score/ratio-based approaches, emerge as different instantiations of a common design space. The framework further exposes common design trade-offs across training objectives, inference algorithms, scaling behavior, systems optimization, and evaluation protocols, suggesting several promising directions for future research.",
+            "score": 5,
+            "issue_id": 2833,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "68cea78670fe8ddb",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Ye Yuan",
+                "Weien Li",
+                "Rui Song",
+                "Zeyu Li",
+                "Haochen Liu",
+                "Xiangyu Kong",
+                "Zixuan Dong",
+                "Linfeng Du",
+                "Zipeng Sun",
+                "Weixu Zhang",
+                "Jiaxin Huang",
+                "Changjiang Han",
+                "Yonghan Yang",
+                "Zichen Zhao",
+                "Xiuyuan Hu",
+                "Haolun Wu",
+                "Yankai Chen",
+                "Fengran Mo",
+                "Jikun Kang",
+                "Bowei He",
+                "Philip S. Yu",
+                "Xue Liu"
+            ],
+            "affiliations": [
+                "MBZUAI - Mohamed bin Zayed University of Artificial Intelligence",
+                "McGill University",
+                "Mila - Quebec AI Institute",
+                "Rochester Institute of Technology",
+                "Salesforce",
+                "Tsinghua University",
+                "University of Cambridge",
+                "University of Illinois Chicago",
+                "University of Toronto"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13431.jpg",
+            "data": {
+                "categories": [
+                    "#inference",
+                    "#benchmark",
+                    "#dataset",
+                    "#training",
+                    "#optimization",
+                    "#data",
+                    "#diffusion",
+                    "#architecture"
+                ],
+                "emoji": "🌌",
+                "ru": {
+                    "title": "Новые горизонты в дискретной диффузии",
+                    "desc": "В данной статье рассматриваются дискретные модели диффузии для устранения шумов (DDMs) как альтернатива автогрессивному моделированию для дискретных данных. Главное внимание уделяется тому, как построение дискретного пространства состояний влияет на эффективность этих моделей. Предлагается единая концептуальная рамка, которая объединяет различные подходы к моделям диффузии, позволяя лучше понимать их взаимодействие и применение. Также обсуждаются важные компромиссы в проектировании, методы обучения и алгоритмы вывода, открывающие новые направления для будущих исследований."
+                },
+                "en": {
+                    "title": "Revolutionizing Discrete Data Generation with Denoising Diffusion Models",
+                    "desc": "This paper discusses discrete denoising diffusion models (DDMs) as a new approach for generating discrete data, which can perform better than traditional autoregressive models. It emphasizes the importance of how the discrete state space is designed, including aspects like tokenization and vocabulary structure. The authors present a unified framework that connects various existing methods of DDMs, showing they are different versions of a similar concept. Additionally, the framework highlights key trade-offs in training, inference, and evaluation, paving the way for future advancements in this area."
                 }
             }
         },
@@ -937,6 +1011,57 @@
                 "en": {
                     "title": "Empowering Mobile Agents with Direct Device Access",
                     "desc": "The paper introduces PalmClaw, an open-source framework designed for Large Language Model (LLM) agents to operate natively on mobile devices. Unlike existing mobile agents that rely on graphical user interface actions, PalmClaw allows agents to directly access device capabilities with clearly defined execution boundaries. This approach enhances task automation by managing sessions, memory, skills, and tools directly on the device. Experimental results demonstrate significant improvements in task success rates and reduced completion times compared to previous systems."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12477",
+            "title": "Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence",
+            "url": "https://huggingface.co/papers/2607.12477",
+            "abstract": "Abstract  Autonomous UAV systems increasingly rely on multimodal large language models (MLLMs) to operate in complex real-world environments. Such embodied scenarios require not only understanding the surrounding space but also maintaining a coherent representation of the agent itself. However, existing UAV-oriented approaches and benchmarks remain largely environment-centric, primarily focusing on spatial understanding tasks, with the agent's self-awareness remaining implicit. To address this gap, we introduce SIS-Bench, a benchmark for evaluating embodied spatial intelligence in UAV scenarios under a unified self-in-space formulation. SIS-Bench organizes evaluation along two complementary dimensions, space and self, and a three-level hierarchy of perception, memory, and reasoning. It contains 4,856 question--answer pairs across 13 tasks derived from 1,646 real-world UAV videos through a task-conditioned construction pipeline with expert verification.Extensive evaluations reveal that current MLLMs exhibit fundamental limitations in modeling dynamic and agent-centered processes. In particular, we observe a clear imbalance between spatial cognition and self-awareness, as well as a progressive performance degradation across cognitive levels.Motivated by these findings, we further explore a motion-aware representation that incorporates self-related dynamics through optical flow and visual feature fusion. Experimental results show that modeling agent motion consistently improves perception and memory performance, not only in spatial cognition but also in self-awareness, and generalizes to downstream UAV decision-making tasks.Our results highlight the importance of self-awareness for advancing embodied spatial intelligence, and provide both a new benchmark and empirical evidence for motion-aware self-in-space modeling.",
+            "score": 2,
+            "issue_id": 2833,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "4f776ab4290e4f52",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhishan Zou",
+                "Guoyan Sun",
+                "Zhiwei Wei",
+                "Jiancheng Pan",
+                "Yujie Li",
+                "Mugen Peng",
+                "Wenjia Xu"
+            ],
+            "affiliations": [
+                "Beijing University of Posts and Telecommunications",
+                "Hunan Normal University",
+                "Tsinghua University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12477.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#games",
+                    "#benchmark",
+                    "#reasoning",
+                    "#memory",
+                    "#agents"
+                ],
+                "emoji": "🚁",
+                "ru": {
+                    "title": "Сопряжение пространственного интеллекта и осознания себя в БПЛА",
+                    "desc": "Автономные беспилотные летательные аппараты (БПЛА) все чаще используют мультимодальные модели больших языков (MLLM) для работы в сложных реальных условиях. В данной работе представлен новый бенчмарк SIS-Bench, который оценивает пространственный интеллект БПЛА, учитывая как восприятие окружающего мира, так и осознание собственного состояния. Исследования показали, что текущее поколение MLLM имеет значительные ограничения в моделировании динамических и агент-ориентированных процессов. Мы также выяснили, что учитывание динамики движения агента улучшает как восприятие, так и память, что критически важно для принятия решений БПЛА."
+                },
+                "en": {
+                    "title": "Enhancing UAV Intelligence with Self-Awareness",
+                    "desc": "This paper introduces SIS-Bench, a benchmark designed to evaluate the spatial intelligence of autonomous UAV systems using multimodal large language models (MLLMs). It emphasizes the need for UAVs to not only understand their environment but also maintain self-awareness, which has been overlooked in existing approaches. The benchmark assesses performance across two dimensions: spatial understanding and self-awareness, organized into perception, memory, and reasoning tasks. Experimental results indicate that incorporating motion-aware representations significantly enhances both spatial cognition and self-awareness in UAV decision-making tasks."
                 }
             }
         },
@@ -1047,35 +1172,35 @@
         "zh": "7月17日"
     },
     "categories": {
-        "#dataset": 3,
-        "#data": 1,
-        "#benchmark": 7,
-        "#agents": 11,
+        "#dataset": 4,
+        "#data": 2,
+        "#benchmark": 9,
+        "#agents": 12,
         "#rl": 2,
         "#rlhf": 0,
         "#rag": 0,
         "#plp": 0,
-        "#inference": 1,
+        "#inference": 2,
         "#3d": 2,
         "#audio": 0,
-        "#multimodal": 4,
+        "#multimodal": 5,
         "#math": 1,
         "#multilingual": 0,
-        "#architecture": 3,
+        "#architecture": 4,
         "#healthcare": 0,
-        "#training": 10,
+        "#training": 11,
         "#robotics": 1,
         "#agi": 1,
-        "#games": 3,
+        "#games": 4,
         "#interpretability": 1,
-        "#reasoning": 2,
+        "#reasoning": 3,
         "#transfer_learning": 2,
         "#graphs": 0,
         "#ethics": 1,
         "#security": 2,
-        "#optimization": 7,
+        "#optimization": 8,
         "#survey": 2,
-        "#diffusion": 3,
+        "#diffusion": 4,
         "#alignment": 0,
         "#story_generation": 0,
         "#hallucinations": 1,
@@ -1087,7 +1212,7 @@
         "#small_models": 0,
         "#science": 0,
         "#low_resource": 0,
-        "#memory": 4,
+        "#memory": 5,
         "#retrieval": 1,
         "#prompting": 1,
         "#context_window": 0,

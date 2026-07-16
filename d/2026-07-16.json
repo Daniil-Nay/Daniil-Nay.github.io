@@ -4,9 +4,9 @@
         "en": "July 16",
         "zh": "7月16日"
     },
-    "time_utc": "2026-07-16 10:59",
+    "time_utc": "2026-07-16 13:47",
     "weekday": 3,
-    "issue_id": 2831,
+    "issue_id": 2832,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
             "url": "https://huggingface.co/papers/2607.13285",
             "abstract": "Abstract  The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before such a change can be made, a developer or coding agent must identify all code locations that implement the target behavior. This is difficult because production harnesses are large, tightly coupled, and behaviorally distributed, while modification requests describe what the system should do and repositories are organized by files and modules. Code search, repository indexing, and long-context processing ease inspection, but still leave this behavior-to-code mapping to be recovered by hand. Behavior localization is therefore a central bottleneck in harness evolution. We introduce the Harness Handbook, a behavior-centric representation synthesized automatically from a harness codebase via static analysis and LLM-assisted structuring, linking each behavior to its corresponding source. We also introduce Behavior-Guided Progressive Disclosure (BGPD), which guides agents from high-level behaviors to relevant implementation details and verifies candidate locations against the current source. On diverse modification requests from two open-source harnesses, Handbook-Assisted planning improves behavior localization and edit-plan quality while using fewer planner tokens, with the largest gains on scattered sites, rarely executed paths, and cross-module interactions. Evolving complex agentic systems thus depends not only on generating edits, but also on determining where those edits should be made.",
-            "score": 96,
+            "score": 154,
             "issue_id": 2829,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -70,7 +70,7 @@
             "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
             "url": "https://huggingface.co/papers/2607.13125",
             "abstract": "Abstract  We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image generation, fast inference, instruction-based editing, and bilingual (Chinese-English) text rendering. Closed-source multimodal systems like Nano-Banana-Pro and GPT-Image-2 achieve strong performance through system-level integration rather than a single model, yet their internal practices remain largely undisclosed. In this work, we demonstrate that targeted improvements in model understanding, data quality, and training pipelines, coupled with agentic inference-time scaling, can substantially enhance generation and editing performance even under highly constrained compute budgets. Comprehensive evaluations show that Boogu-Image-0.1 consistently matches or surpasses other open-source models across standard benchmarks, and achieves results approaching leading closed-source systems. Notably, this is accomplished with only 208.62 million unique images. The base model's theoretical training cost is only approximately \\$400K. We share practical discussions that we believe are valuable to the broader research community, and release weights, code, and recipes under Apache 2.0 to advance the open ecosystem for unified multimodal understanding and generation. Our code is available here: https://github.com/Boogu-Project/Boogu-Image.",
-            "score": 91,
+            "score": 102,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -143,7 +143,7 @@
             "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
             "url": "https://huggingface.co/papers/2607.12395",
             "abstract": "Abstract  Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to computational constraints, existing studies are largely restricted to small models, leaving the training dynamics and emergent capabilities at a large scale unexplored. To meaningfully explore this frontier, we aim to elicit high-quality reasoning behaviors from the model. However, we find that naive scaling often suffers from poor readability, token redundancy, and a lack of adaptive reasoning depth. To address these challenges, we present a stable and efficient training pipeline, incorporating algorithmic and system optimizations such as clipped importance sampling, training-inference ratio correction, and mixed-precision control. Our experiments offer three key findings that validate the \"bitter lesson\" of scaling: (1) scaling to 1T parameters significantly enhances sample efficiency and performance ceilings; (2) the training process progresses sequentially through an initial discovery phase followed by a sharpening phase; and (3) the model spontaneously develops advanced cognitive behaviors, including anthropomorphism, structured formatting, self-verification, parallel reasoning, and context anxiety, rendering hand-crafted heuristics redundant. Evaluated on seven mathematical benchmarks, Ring-2.5-1T-Zero achieves competitive performance. Additionally, to assess CoT quality beyond final-answer correctness, we propose a structured evaluation framework across three dimensions: comprehensibility, reproducibility, and efficiency, where our model demonstrates clear advantages in producing structured and concise reasoning traces. By sharing our observed emergent phenomena, we hope to provide the community with deeper insights into scaling behaviors, particularly at the 1-trillion scale.",
-            "score": 73,
+            "score": 75,
             "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -196,6 +196,61 @@
                 "en": {
                     "title": "Unlocking Advanced Reasoning with Zero RL at Scale",
                     "desc": "This paper explores reinforcement learning without human-annotated data, known as zero RL, focusing on enhancing reasoning capabilities in large models. The authors identify challenges in scaling, such as poor readability and token redundancy, and propose a stable training pipeline with optimizations like clipped importance sampling. Their findings reveal that scaling to 1 trillion parameters improves sample efficiency and leads to the emergence of advanced cognitive behaviors. The model, Ring-2.5-1T-Zero, shows competitive performance on mathematical benchmarks and excels in structured reasoning evaluation."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12625",
+            "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
+            "url": "https://huggingface.co/papers/2607.12625",
+            "abstract": "Abstract  OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws limit its adaptation to diverse device ecosystems and prevent performance improvements through continuous learning from execution experience. To resolve these issues, we propose the Know Deeply, Act Perfectly paradigm for personal assistants, which holds that accumulated user interaction and task-running experience directly improve execution accuracy and efficiency, unifying cognitive comprehension and operational execution. Based on this paradigm, we introduce KnowAct-GUIClaw, a novel Know-Route-Act-Reflect framework designed to address OpenClaw's GUI manipulation deficits and break through its cross-platform and recursive self-improvement constraints. First, the host agent leverages accumulated interaction experience and task-relevant knowledge for long-horizon task decomposition and allocation (Know). Second, a pluggable GUI subagent with an experience-attributable memory system (Know) and self-evolving skill library (Act), enabling seamless cross-platform migration and fast-path integration. Especially, this framework continuously stores user profiles and feedback to improve the accuracy of task decomposition and tool calls. Extensive experiments across Android, iOS, HarmonyOS and Windows show that KnowAct-GUIClaw achieves superior efficiency, accuracy and cross-platform adaptability. Especially, the GUIClaw with open-source Kimi-2.6 models achieves the best performance (64.1%) on the long-horizon MobileWorld benchmark, beating all agentical frameworks and closed-source agentical models, e.g., Seed-2.0-Pro and GPT-5.5. Additionally, the knowledgeable memory and execution skills supported by our framework are transferable across diverse base models, improving by 8.5% with Kimi-2.6.",
+            "score": 42,
+            "issue_id": 2830,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "a48f8a343b485589",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yunxin Li",
+                "Jinchao Li",
+                "Shibo Su",
+                "Zhenran Xu",
+                "Chenrui Zhao",
+                "Tongshu Bian",
+                "Xiaoman Liang",
+                "Meishan Zhang",
+                "Baotian Hu",
+                "Min Zhang"
+            ],
+            "affiliations": [
+                "Harbin Institute of Technology",
+                "Shenzhen AI Training Platform",
+                "Shenzhen Loop Area Institute"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12625.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#memory",
+                    "#agents",
+                    "#open_source",
+                    "#transfer_learning",
+                    "#agent_memory",
+                    "#continual_learning"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Знай Досконально, Действуй Совершенно!",
+                    "desc": "Статья представляет новый подход к автоматизации сложных задач с помощью фреймворка KnowAct-GUIClaw. Он решает проблемы взаимодействия с графическими интерфейсами и самосовершенствования в OpenClaw. Новый метод позволяет усваивать опыт пользователя для повышения точности и эффективности выполнения задач. Эксперименты показывают, что KnowAct-GUIClaw превосходит конкурентов по производительности на различных платформах."
+                },
+                "en": {
+                    "title": "Empowering Agents with Knowledge and Adaptability",
+                    "desc": "The paper introduces KnowAct-GUIClaw, a new framework designed to enhance the OpenClaw agent for better cross-platform GUI interaction and self-evolution. It emphasizes the importance of learning from user interactions to improve task execution accuracy and efficiency. The framework incorporates a memory system and a skill library that evolve based on accumulated experiences, allowing for seamless adaptation across different devices. Experimental results demonstrate that KnowAct-GUIClaw outperforms existing models in efficiency and accuracy, particularly in long-horizon tasks."
                 }
             }
         },
@@ -258,61 +313,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.12625",
-            "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
-            "url": "https://huggingface.co/papers/2607.12625",
-            "abstract": "Abstract  OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws limit its adaptation to diverse device ecosystems and prevent performance improvements through continuous learning from execution experience. To resolve these issues, we propose the Know Deeply, Act Perfectly paradigm for personal assistants, which holds that accumulated user interaction and task-running experience directly improve execution accuracy and efficiency, unifying cognitive comprehension and operational execution. Based on this paradigm, we introduce KnowAct-GUIClaw, a novel Know-Route-Act-Reflect framework designed to address OpenClaw's GUI manipulation deficits and break through its cross-platform and recursive self-improvement constraints. First, the host agent leverages accumulated interaction experience and task-relevant knowledge for long-horizon task decomposition and allocation (Know). Second, a pluggable GUI subagent with an experience-attributable memory system (Know) and self-evolving skill library (Act), enabling seamless cross-platform migration and fast-path integration. Especially, this framework continuously stores user profiles and feedback to improve the accuracy of task decomposition and tool calls. Extensive experiments across Android, iOS, HarmonyOS and Windows show that KnowAct-GUIClaw achieves superior efficiency, accuracy and cross-platform adaptability. Especially, the GUIClaw with open-source Kimi-2.6 models achieves the best performance (64.1%) on the long-horizon MobileWorld benchmark, beating all agentical frameworks and closed-source agentical models, e.g., Seed-2.0-Pro and GPT-5.5. Additionally, the knowledgeable memory and execution skills supported by our framework are transferable across diverse base models, improving by 8.5% with Kimi-2.6.",
-            "score": 38,
-            "issue_id": 2830,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "a48f8a343b485589",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yunxin Li",
-                "Jinchao Li",
-                "Shibo Su",
-                "Zhenran Xu",
-                "Chenrui Zhao",
-                "Tongshu Bian",
-                "Xiaoman Liang",
-                "Meishan Zhang",
-                "Baotian Hu",
-                "Min Zhang"
-            ],
-            "affiliations": [
-                "Harbin Institute of Technology",
-                "Shenzhen AI Training Platform",
-                "Shenzhen Loop Area Institute"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12625.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#memory",
-                    "#agents",
-                    "#open_source",
-                    "#transfer_learning",
-                    "#agent_memory",
-                    "#continual_learning"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Знай Досконально, Действуй Совершенно!",
-                    "desc": "Статья представляет новый подход к автоматизации сложных задач с помощью фреймворка KnowAct-GUIClaw. Он решает проблемы взаимодействия с графическими интерфейсами и самосовершенствования в OpenClaw. Новый метод позволяет усваивать опыт пользователя для повышения точности и эффективности выполнения задач. Эксперименты показывают, что KnowAct-GUIClaw превосходит конкурентов по производительности на различных платформах."
-                },
-                "en": {
-                    "title": "Empowering Agents with Knowledge and Adaptability",
-                    "desc": "The paper introduces KnowAct-GUIClaw, a new framework designed to enhance the OpenClaw agent for better cross-platform GUI interaction and self-evolution. It emphasizes the importance of learning from user interactions to improve task execution accuracy and efficiency. The framework incorporates a memory system and a skill library that evolve based on accumulated experiences, allowing for seamless adaptation across different devices. Experimental results demonstrate that KnowAct-GUIClaw outperforms existing models in efficiency and accuracy, particularly in long-horizon tasks."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.05910",
             "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
             "url": "https://huggingface.co/papers/2607.05910",
@@ -369,7 +369,7 @@
             "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
             "url": "https://huggingface.co/papers/2607.13960",
             "abstract": "Abstract  World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action generation. However, a common design in existing WAMs is to explicitly generate future videos at inference time, incurring substantial computational overhead and hindering real-time closed-loop deployment. GigaWorld-Policy addresses this issue with an action-centered formulation, where future visual dynamics are used during training while action-only decoding is used at inference time. Building upon this framework, we present GigaWorld-Policy-0.5, an enhanced action-centered WAM designed for more efficient robot control. During pretraining, GigaWorld-Policy-0.5 adopts a mixed Action-Conditioned World Modeling (AC-WM) and WAM training strategy. This strengthens the coupling between visual dynamics and robot actions and improves the transferability of action representations for downstream policy learning. For efficient inference, GigaWorld-Policy-0.5 introduces a Mixture-of-Transformers architecture that separates visual dynamics modeling and action generation into specialized experts, reducing active computation during action-only inference and achieving 85 ms inference latency on a local RTX 4090 setup. In addition, we employ an agent-based AutoResearch pipeline to systematically search training configurations, enabling more efficient identification of optimal experimental setups while reducing the time and manual intervention required for hyperparameter tuning. Experiments and ablations show that GigaWorld-Policy-0.5 preserves the training benefits of future visual dynamics while improving inference efficiency for robot control.",
-            "score": 20,
+            "score": 21,
             "issue_id": 2830,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -485,51 +485,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.13124",
-            "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
-            "url": "https://huggingface.co/papers/2607.13124",
-            "abstract": "Abstract  Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form generation that deployment actually requires. Two observations trace this gap. First, greedy pass@1 nearly vanishes after compression, yet pass@k recovers substantially under repeated sampling: useful generations are demoted, not erased. Second, the recoverable regime fails mainly through suffix repetition. Recovery should therefore train on the compressed model's own on-policy states with dense token-level supervision, which On-Policy Distillation (OPD) provides by reusing the pre-compression model as a frozen teacher. However, long on-policy rollouts spend early recovery budget on low-information repetitive suffixes, delaying loss descent. To mitigate this waste, we propose \\shortopd, a short-to-long OPD schedule that detects teacher-confirmed repetitive suffixes, treats the surviving prefix as each rollout's effective length, and allocates future rollout budgets to the effective lengths the policy can currently use. Across math, code, and open-ended generation, \\shortopd\\ raises the compressed model's score to about 9times its unrecovered value and 1.6--4.4times standard recovery recipes (SFT w/o KD, KD, and SeqKD), and it matches a fixed 8192-token rollout horizon within two points using a quarter of the training time (8.5 vs.\\ 35.9 hours) and 71% fewer rollout tokens. We hope this recipe helps move structured pruning beyond marginal gains on perplexity and multiple-choice benchmarks, a step closer to deployment-ready generation quality.",
-            "score": 10,
-            "issue_id": 2831,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "535642a6ab43a99e",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Qingyu Zhang",
-                "Qianhao Yuan",
-                "Hongyu Lin",
-                "Yaojie Lu",
-                "Xianpei Han",
-                "Le Sun",
-                "Xiang Li",
-                "Ming Xu",
-                "Jiarui Li",
-                "Xiuyin Zhao"
-            ],
-            "affiliations": [
-                "ByteDance",
-                "Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences",
-                "University of Chinese Academy of Sciences"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13124.jpg",
-            "data": {
-                "error": "Parsing error",
-                "raw_data": "{\n  \"desc\": \"Структурное обрезание является эффективным способом сжатия LLM, но его эффективность в задачах свободной генерации остается под вопросом. Исследование показывает, что после сжатия модель теряет способность к точному предсказанию, но может восстанавливать полезные генерации при повторном семплировании. Для улучшения восстановления предлагается метод On-Policy Distillation (OPD), который использует замороженную модель до сжатия в качестве учителя. Новый подход \\shortopd позволяет значительно повысить качество сжатой модели, сокращая время обучения и количество токенов, необходимых для генерации.\",\n  \"emoji\": \"📉\",\n  \"title\": \"Эффективное сжатие LLM для генерации\"\n}",
-                "details": "Invalid \\escape: line 2 column 475 (char 476)"
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.12752",
             "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
             "url": "https://huggingface.co/papers/2607.12752",
             "abstract": "Abstract  While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading to spatial hallucinations such as duplicated structures and misaligned geometry. These issues become more severe in 4D generation, where maintaining consistency across viewpoints and temporal evolution introduces additional challenges, including jitter, identity flicker, and structural drift. We present Hallo4D, a unified and model-agnostic framework for mitigating spatiotemporal hallucinations in 3D and 4D content generation. Hallo4D introduces a generation-detection-correction paradigm that leverages large multimodal language models (LMMs) to identify and summarize spatial and temporal inconsistencies from multi-view and multi-frame renderings. These insights guide a consensus-driven image-space consistency optimization, where an LMM-based selector evaluates candidate corrections through multi-model voting, without requiring retraining or architectural modifications. To further improve temporal consistency and optimization efficiency, Hallo4D incorporates motion-aware keyframe sampling, LMM-guided initialization, and appearance alignment. We additionally introduce exposure-aware optimization and visibility pruning to enhance robustness under challenging viewpoints. Extensive experiments demonstrate that Hallo4D consistently outperforms strong baselines across diverse 3D and 4D generation settings, providing a scalable and generalizable solution for consistency-aware content generation.",
-            "score": 9,
+            "score": 11,
             "issue_id": 2830,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -578,7 +538,7 @@
             "title": "Registers Matter for Pixel-Space Diffusion Transformers",
             "url": "https://huggingface.co/papers/2605.16147",
             "abstract": "Abstract  Vision Transformers (ViTs) are known to exhibit high-norm patch-token outliers that degrade feature map quality, a problem effectively mitigated by register tokens. As diffusion models increasingly adopt transformer architectures and move toward pixel-space training, they become closer in form to ViTs, raising the question of whether register tokens are also useful for Diffusion Transformers (DiTs). In this work, we show that DiTs differ from ViTs in a key respect: they do not exhibit patch-token outliers but still benefit from registers. Interestingly, registers are more effective in pixel-space DiTs than in latent-space DiTs. By analyzing intermediate representations, we find that register tokens produce cleaner feature maps at high noise levels, which may contribute to their effectiveness in pixel-space generation. We further observe that recent pixel-space DiT architectures implicitly incorporate register-like mechanisms, which may partially account for their strong empirical performance. Motivated by these observations, we propose Register Guidance, a technique that amplifies the contribution of register tokens responsible for improving visual structure and coherence.",
-            "score": 8,
+            "score": 11,
             "issue_id": 2831,
             "pub_date": "2026-07-06",
             "pub_date_card": {
@@ -616,11 +576,63 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.13124",
+            "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
+            "url": "https://huggingface.co/papers/2607.13124",
+            "abstract": "Abstract  Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form generation that deployment actually requires. Two observations trace this gap. First, greedy pass@1 nearly vanishes after compression, yet pass@k recovers substantially under repeated sampling: useful generations are demoted, not erased. Second, the recoverable regime fails mainly through suffix repetition. Recovery should therefore train on the compressed model's own on-policy states with dense token-level supervision, which On-Policy Distillation (OPD) provides by reusing the pre-compression model as a frozen teacher. However, long on-policy rollouts spend early recovery budget on low-information repetitive suffixes, delaying loss descent. To mitigate this waste, we propose \\shortopd, a short-to-long OPD schedule that detects teacher-confirmed repetitive suffixes, treats the surviving prefix as each rollout's effective length, and allocates future rollout budgets to the effective lengths the policy can currently use. Across math, code, and open-ended generation, \\shortopd\\ raises the compressed model's score to about 9times its unrecovered value and 1.6--4.4times standard recovery recipes (SFT w/o KD, KD, and SeqKD), and it matches a fixed 8192-token rollout horizon within two points using a quarter of the training time (8.5 vs.\\ 35.9 hours) and 71% fewer rollout tokens. We hope this recipe helps move structured pruning beyond marginal gains on perplexity and multiple-choice benchmarks, a step closer to deployment-ready generation quality.",
+            "score": 10,
+            "issue_id": 2832,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "535642a6ab43a99e",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Qingyu Zhang",
+                "Qianhao Yuan",
+                "Hongyu Lin",
+                "Yaojie Lu",
+                "Xianpei Han",
+                "Le Sun",
+                "Xiang Li",
+                "Ming Xu",
+                "Jiarui Li",
+                "Xiuyin Zhao"
+            ],
+            "affiliations": [
+                "ByteDance",
+                "Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences",
+                "University of Chinese Academy of Sciences"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13124.jpg",
+            "data": {
+                "categories": [
+                    "#long_context",
+                    "#training",
+                    "#optimization",
+                    "#inference"
+                ],
+                "emoji": "📉",
+                "ru": {
+                    "title": "Оптимизация сжатия для качественного генерации",
+                    "desc": "Структурная обрезка является удобным способом сжатия больших языковых моделей (LLM), но в основном она проверялась только на задачах выбора из нескольких вариантов. В данной работе выявлены две проблемы: первая заключается в том, что после сжатия результат pass@1 значительно снижается, но pass@k восстанавливается при повторном образце. Вторая проблема - это повторение суффиксов. Для решения этой проблемы мы предлагаем метод короткой-до-длинной дистилляции, который эффективно управляет обучением сжатой модели на основе собственных состояний и уменьшает ненужные затраты на восстановление."
+                },
+                "en": {
+                    "title": "Optimizing Compressed LLMs for Better Generation Quality",
+                    "desc": "This paper discusses structured pruning as a method to compress large language models (LLMs) for better efficiency. It identifies that while traditional evaluation methods show a drop in performance after compression, useful outputs can still be generated through repeated sampling. The authors propose On-Policy Distillation (OPD) to improve recovery by training on the compressed model's outputs, but highlight issues with repetitive suffixes wasting recovery resources. To address this, they introduce a short-to-long OPD schedule that optimizes the training process, resulting in significant performance improvements across various tasks."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.11523",
             "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
             "url": "https://huggingface.co/papers/2607.11523",
             "abstract": "Abstract  When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than merely reactive. Yet existing approaches either wait passively for user queries or treat every detected event as requiring a response, without considering the user's history, current activity, or whether assistance would actually be welcome. We reframe proactive assistance as a context-dependent decision problem: the agent must not only perceive what is happening, but reason over accumulated temporal context to determine when and whether to intervene. To this end, we present Vinci2, a proactive egocentric assistance system that advances the on-device assistant Vinci from reactive response toward proactivity. On the evaluation side, we present EgoServe, the first large-scale benchmark for proactive assistance in continuous egocentric video. EgoServe comprises over 3,000 service instances organized along 4 temporal memory horizons, ranging from immediate safety alerts to long-term habit coaching, across 10 service categories. On the modeling side, we propose EgoMemo, a training-free, memory-augmented agent that maintains three complementary memory representations: multi-scale temporal summaries, a semantic knowledge graph, and visual embedding archives. At each timestep, EgoMemo performs retrieval-augmented reasoning to determine whether assistance is warranted and, if so, produces contextually grounded responses. Experiments demonstrate that EgoMemo establishes strong baselines on EgoServe while remaining competitive on existing egocentric benchmarks. Our benchmark and code are publicly available at https://sitonggong.github.io/EgoServe-page/{Vinci2}.",
-            "score": 6,
+            "score": 7,
             "issue_id": 2830,
             "pub_date": "2026-07-13",
             "pub_date_card": {
@@ -666,6 +678,126 @@
                 "en": {
                     "title": "Proactive Assistance: Anticipating User Needs with Vinci2",
                     "desc": "This paper introduces Vinci2, a proactive egocentric assistance system that enhances user interaction by anticipating needs rather than just reacting to requests. It addresses the limitations of existing systems that either wait for user input or respond to every detected event without considering context. The authors propose EgoMemo, a memory-augmented agent that uses multiple memory representations to make informed decisions about when to provide assistance. They also present EgoServe, a large-scale benchmark for evaluating proactive assistance in continuous egocentric video, demonstrating that their approach outperforms existing methods."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13705",
+            "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
+            "url": "https://huggingface.co/papers/2607.13705",
+            "abstract": "Abstract  As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing redundant engineering. To address this, we introduce AgentCompass, an open-source, lightweight, and extensible infrastructure for evaluating LLM-based agents. AgentCompass organizes the evaluation process around three independent components, namely Benchmark, Harness, and Environment, thereby enabling flexible configurations without requiring the reimplementation of complex execution logic. Furthermore, it features a fault-tolerant asynchronous runtime and comprehensive trajectory analysis tools to transparently diagnose nuanced failure modes like reward-hacking. Natively supporting over 20 benchmarks across five capability dimensions, AgentCompass provides the community with a scalable and reproducible infrastructure for advancing agent research.",
+            "score": 6,
+            "issue_id": 2831,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "7c82639513e08954",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zichen Ding",
+                "Jiaye Ge",
+                "Shufan Jiang",
+                "Kai Chen",
+                "Mo Li",
+                "Qingqiu Li",
+                "Zehao Li",
+                "Zonglin Li",
+                "Tiaohao Liang",
+                "Shudong Liu",
+                "Zerun Ma",
+                "Zixing Shang",
+                "Wenhui Tian",
+                "Zun Wang",
+                "Liwei Wu",
+                "Zhenyu Wu",
+                "Jun Xu",
+                "Bowen Yang",
+                "Dingbo Yuan",
+                "Qi Zhang",
+                "Songyang Zhang",
+                "Peiheng Zhou",
+                "Dongsheng Zhu"
+            ],
+            "affiliations": [
+                "Shanghai AI Laboratory"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13705.jpg",
+            "data": {
+                "categories": [
+                    "#agent_memory",
+                    "#open_source",
+                    "#benchmark",
+                    "#agents"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новая эра оценки агентов на базе LLM",
+                    "desc": "Статья представляет новый инструмент под названием AgentCompass, который помогает в оценке автономных агентов на основе LLM. Он решает проблему фрагментации существующих методов оценки и упрощает процесс благодаря трем независимым компонентам: Benchmark, Harness и Environment. AgentCompass позволяет гибко конфигурировать оценку без лишней переработки логики выполнения и предоставляет инструменты для анализа ошибок. Этот инструмент поддерживает более 20 бенчмарков и обеспечивает сообществу масштабируемую инфраструктуру для исследований в области агентов."
+                },
+                "en": {
+                    "title": "Streamlining Evaluation for LLM Agents with AgentCompass",
+                    "desc": "This paper presents AgentCompass, a new framework designed to evaluate Large Language Model (LLM) agents effectively. It addresses the issues of fragmented evaluation processes by organizing them into three independent components: Benchmark, Harness, and Environment. This structure allows for flexible configurations and enhances reproducibility without the need for complex reimplementation. Additionally, AgentCompass includes tools for diagnosing failure modes and supports over 20 benchmarks, making it a valuable resource for advancing research in autonomous agents."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13104",
+            "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+            "url": "https://huggingface.co/papers/2607.13104",
+            "abstract": "Abstract  Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that represents a modern agent as a configuration coupling a foundation model with an operational scaffold of prompts, memory, tools, and control logic. Within this framework, self-improvement is formalized as a self-induced update operator that obtains and commits updates to model parameters or scaffold components. We organize prior work by update target and by the signals that drive change, then review applications and discuss evaluation, before closing with open problems and future directions. For convenience, we track technical updates on https://github.com/selfimproving-agent/awesome-Self-Improving-Agents.",
+            "score": 6,
+            "issue_id": 2831,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "6a88595ef312bbbb",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhe Ren",
+                "Yimeng Chen",
+                "Dandan Guo",
+                "Guowei Rong",
+                "Tonghui Li",
+                "R. B. Xiong",
+                "Qingfeng Lan",
+                "Wenyi Wang",
+                "Li Nanbo",
+                "Yibo Yang",
+                "Mingchen Zhuge",
+                "Jürgen Schmidhuber"
+            ],
+            "affiliations": [
+                "Independent Researcher",
+                "King Abdullah University of Science and Technology (KAUST)",
+                "School of Artificial Intelligence, Jilin University",
+                "The Swiss AI Lab IDSIA/USI/SUPSI",
+                "University of Alberta"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13104.jpg",
+            "data": {
+                "categories": [
+                    "#memory",
+                    "#agi",
+                    "#agents",
+                    "#survey",
+                    "#tool_use"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Автономные агенты: эволюция без человека",
+                    "desc": "В этой статье рассматриваются автономные агенты, которые самостоятельно улучшают свои способности. Основная цель таких агентов — контролируемая эволюция и адаптация на основе опыта с минимальным или отсутствием вмешательства человека. Исследуется система, в которой агенты используют модели, подсказки, память, инструменты и логику управления для самосовершенствования. Обсуждаются предыдущие работы, приложения, методы оценки, а также открытые вопросы для будущих исследований."
+                },
+                "en": {
+                    "title": "Empowering Agents: Evolving Autonomy Through Experience",
+                    "desc": "This paper discusses the development of self-improving autonomous agents that can adapt and evolve with little to no human intervention. It presents a framework that combines a foundation model with various components like prompts, memory, and control logic to facilitate this adaptation. The authors formalize self-improvement as a process where agents update their model parameters or components based on their experiences. The paper also categorizes previous research by the targets of updates and the signals that prompt changes, while highlighting applications, evaluation methods, and future research directions."
                 }
             }
         },
@@ -764,126 +896,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.13705",
-            "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
-            "url": "https://huggingface.co/papers/2607.13705",
-            "abstract": "Abstract  As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical. However, current evaluation pipelines remain highly fragmented and tightly coupled, hindering reproducibility and causing redundant engineering. To address this, we introduce AgentCompass, an open-source, lightweight, and extensible infrastructure for evaluating LLM-based agents. AgentCompass organizes the evaluation process around three independent components, namely Benchmark, Harness, and Environment, thereby enabling flexible configurations without requiring the reimplementation of complex execution logic. Furthermore, it features a fault-tolerant asynchronous runtime and comprehensive trajectory analysis tools to transparently diagnose nuanced failure modes like reward-hacking. Natively supporting over 20 benchmarks across five capability dimensions, AgentCompass provides the community with a scalable and reproducible infrastructure for advancing agent research.",
-            "score": 4,
-            "issue_id": 2831,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "7c82639513e08954",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zichen Ding",
-                "Jiaye Ge",
-                "Shufan Jiang",
-                "Kai Chen",
-                "Mo Li",
-                "Qingqiu Li",
-                "Zehao Li",
-                "Zonglin Li",
-                "Tiaohao Liang",
-                "Shudong Liu",
-                "Zerun Ma",
-                "Zixing Shang",
-                "Wenhui Tian",
-                "Zun Wang",
-                "Liwei Wu",
-                "Zhenyu Wu",
-                "Jun Xu",
-                "Bowen Yang",
-                "Dingbo Yuan",
-                "Qi Zhang",
-                "Songyang Zhang",
-                "Peiheng Zhou",
-                "Dongsheng Zhu"
-            ],
-            "affiliations": [
-                "Shanghai AI Laboratory"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13705.jpg",
-            "data": {
-                "categories": [
-                    "#agent_memory",
-                    "#open_source",
-                    "#benchmark",
-                    "#agents"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Новая эра оценки агентов на базе LLM",
-                    "desc": "Статья представляет новый инструмент под названием AgentCompass, который помогает в оценке автономных агентов на основе LLM. Он решает проблему фрагментации существующих методов оценки и упрощает процесс благодаря трем независимым компонентам: Benchmark, Harness и Environment. AgentCompass позволяет гибко конфигурировать оценку без лишней переработки логики выполнения и предоставляет инструменты для анализа ошибок. Этот инструмент поддерживает более 20 бенчмарков и обеспечивает сообществу масштабируемую инфраструктуру для исследований в области агентов."
-                },
-                "en": {
-                    "title": "Streamlining Evaluation for LLM Agents with AgentCompass",
-                    "desc": "This paper presents AgentCompass, a new framework designed to evaluate Large Language Model (LLM) agents effectively. It addresses the issues of fragmented evaluation processes by organizing them into three independent components: Benchmark, Harness, and Environment. This structure allows for flexible configurations and enhances reproducibility without the need for complex reimplementation. Additionally, AgentCompass includes tools for diagnosing failure modes and supports over 20 benchmarks, making it a valuable resource for advancing research in autonomous agents."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.13104",
-            "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-            "url": "https://huggingface.co/papers/2607.13104",
-            "abstract": "Abstract  Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that represents a modern agent as a configuration coupling a foundation model with an operational scaffold of prompts, memory, tools, and control logic. Within this framework, self-improvement is formalized as a self-induced update operator that obtains and commits updates to model parameters or scaffold components. We organize prior work by update target and by the signals that drive change, then review applications and discuss evaluation, before closing with open problems and future directions. For convenience, we track technical updates on https://github.com/selfimproving-agent/awesome-Self-Improving-Agents.",
-            "score": 3,
-            "issue_id": 2831,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "6a88595ef312bbbb",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhe Ren",
-                "Yimeng Chen",
-                "Dandan Guo",
-                "Guowei Rong",
-                "Tonghui Li",
-                "R. B. Xiong",
-                "Qingfeng Lan",
-                "Wenyi Wang",
-                "Li Nanbo",
-                "Yibo Yang",
-                "Mingchen Zhuge",
-                "Jürgen Schmidhuber"
-            ],
-            "affiliations": [
-                "Independent Researcher",
-                "King Abdullah University of Science and Technology (KAUST)",
-                "School of Artificial Intelligence, Jilin University",
-                "The Swiss AI Lab IDSIA/USI/SUPSI",
-                "University of Alberta"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13104.jpg",
-            "data": {
-                "categories": [
-                    "#memory",
-                    "#agi",
-                    "#agents",
-                    "#survey",
-                    "#tool_use"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Автономные агенты: эволюция без человека",
-                    "desc": "В этой статье рассматриваются автономные агенты, которые самостоятельно улучшают свои способности. Основная цель таких агентов — контролируемая эволюция и адаптация на основе опыта с минимальным или отсутствием вмешательства человека. Исследуется система, в которой агенты используют модели, подсказки, память, инструменты и логику управления для самосовершенствования. Обсуждаются предыдущие работы, приложения, методы оценки, а также открытые вопросы для будущих исследований."
-                },
-                "en": {
-                    "title": "Empowering Agents: Evolving Autonomy Through Experience",
-                    "desc": "This paper discusses the development of self-improving autonomous agents that can adapt and evolve with little to no human intervention. It presents a framework that combines a foundation model with various components like prompts, memory, and control logic to facilitate this adaptation. The authors formalize self-improvement as a process where agents update their model parameters or components based on their experiences. The paper also categorizes previous research by the targets of updates and the signals that prompt changes, while highlighting applications, evaluation methods, and future research directions."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.13027",
             "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
             "url": "https://huggingface.co/papers/2607.13027",
@@ -933,7 +945,7 @@
             "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
             "url": "https://huggingface.co/papers/2605.10834",
             "abstract": "Abstract  AI pentesting agents are increasingly credible as offensive security systems, but current benchmarks still provide limited guidance on which will perform best in real-world targets. Existing evaluation protocols assess and optimize for predefined goals such as capture-the-flag, remote code execution, exploit reproduction, or trajectory similarity, in simplified or narrow settings. These tools are valuable for measuring bounded capabilities, yet they do not adequately capture the complexity, open-ended exploration, and strategic decision-making required in realistic pentesting. In this paper, we present a practical evaluation protocol that shifts assessment from task completion to validated vulnerability discovery, allowing evaluation in sufficiently complex targets spanning multiple attack surfaces and vulnerability classes. The protocol combines structured ground-truth with LLM-based semantic matching to identify vulnerabilities, bipartite resolution to score findings under realistic ambiguity, continuous ground-truth maintenance, repeated and cumulative evaluation of stochastic agents, efficiency metrics, and reduced-suite selection for sustainable experimentation. This protocol extends the state of the art by enabling a more realistic, operationally informative comparison of AI pentesting agents. To enable reproducibility, we also release expert-annotated ground truth and code for the proposed evaluation protocol: https://github.com/ethiack/ethibench.",
-            "score": 0,
+            "score": 1,
             "issue_id": 2831,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -975,6 +987,50 @@
                     "desc": "This paper introduces a new evaluation protocol for AI pentesting agents that focuses on validated vulnerability discovery rather than just task completion. It addresses the limitations of current benchmarks by incorporating complex targets and multiple attack surfaces. The protocol utilizes structured ground-truth and LLM-based semantic matching to enhance vulnerability identification. By providing a more realistic assessment framework, this work aims to improve the comparison and effectiveness of AI-driven security systems in real-world scenarios."
                 }
             }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13250",
+            "title": "AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow",
+            "url": "https://huggingface.co/papers/2607.13250",
+            "abstract": "Abstract  We present AffectFlow-DINO, a multi-task learning system for the 11th ABAW challenge that extends a standard deterministic architecture with a conditional rectified-flow head to model the inherent ambiguity of in-the-wild facial behavior. Instead of predicting a single affect estimate, the model learns a conditional generative distribution, enabling uncertainty-aware one-to-many predictions through Monte Carlo sampling. The system jointly estimates continuous valence-arousal, classifies eight facial expressions, and detects twelve Action Units from static face images. Built on a frozen DINOv3 ViT-S/16 backbone, extensive ablation studies show that rectified-flow decoding consistently improves deterministic prediction, particularly for valence-arousal estimation (CCC-V +0.058). We further show that post-hoc threshold calibration effectively recovers performance on severely imbalanced rare classes (e.g., Fear: 3.8% rightarrow 33.1%) without retraining. Combined with backbone fine-tuning and flow retuning, the final model achieves P_{MTL=1.177}, substantially outperforming the official challenge baseline of P_{MTL}=0.45.",
+            "score": 0,
+            "issue_id": 2832,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "6baff814a074aae4",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Salah Eddine Bekhouche",
+                "Abdellah Zakaria Sellam",
+                "Fadi Dornaika",
+                "Abdenour Hadid"
+            ],
+            "affiliations": [
+                "Department of Innovation Engineering, University of Salento & Institute of Applied Sciences and Intelligent Systems (CNR), Italy",
+                "Faculty of Data Science and Computing, Universiti Malaysia Kelantan, Malaysia",
+                "University of the Basque Country (UPV/EHU), Spain"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13250.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#multimodal"
+                ],
+                "emoji": "😊",
+                "ru": {
+                    "title": "Многозадачное обучение для анализа лицевых эмоций",
+                    "desc": "В статье представлена система многозадачного обучения AffectFlow-DINO для 11-го конкурса ABAW. Она использует условную архитектуру rectified-flow для моделирования неясности в лицевом поведении. Модель обучается на генеративном распределении, что позволяет делать предсказания с учетом неопределенности. Также система совместно оценивает непрерывные валентность и арousal, классифицирует восемь выражений лиц и определяет двенадцать Action Units."
+                },
+                "en": {
+                    "title": "Uncertainty-Aware Facial Emotion Recognition",
+                    "desc": "AffectFlow-DINO is a multi-task learning system designed for the 11th ABAW challenge, which enhances a standard architecture by incorporating a conditional rectified-flow head. This allows the model to handle the uncertainty in facial expressions by generating a range of possible outcomes instead of a single prediction. It simultaneously estimates continuous valence-arousal, classifies eight facial expressions, and detects twelve Action Units from static images. The model shows significant improvements in performance, particularly in valence-arousal estimation, and effectively addresses class imbalance through post-hoc calibration without needing retraining."
+                }
+            }
         }
     ],
     "link_prev": "2026-07-15.html",
@@ -999,15 +1055,15 @@
         "#rlhf": 0,
         "#rag": 0,
         "#plp": 0,
-        "#inference": 0,
+        "#inference": 1,
         "#3d": 2,
         "#audio": 0,
-        "#multimodal": 3,
+        "#multimodal": 4,
         "#math": 1,
         "#multilingual": 0,
         "#architecture": 3,
         "#healthcare": 0,
-        "#training": 8,
+        "#training": 10,
         "#robotics": 1,
         "#agi": 1,
         "#games": 3,
@@ -1017,13 +1073,13 @@
         "#graphs": 0,
         "#ethics": 1,
         "#security": 2,
-        "#optimization": 6,
+        "#optimization": 7,
         "#survey": 2,
         "#diffusion": 3,
         "#alignment": 0,
         "#story_generation": 0,
         "#hallucinations": 1,
-        "#long_context": 2,
+        "#long_context": 3,
         "#synthetic": 1,
         "#machine_translation": 0,
         "#leakage": 0,
