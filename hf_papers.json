@@ -4,17 +4,434 @@
         "en": "July 16",
         "zh": "7月16日"
     },
-    "time_utc": "2026-07-16 02:27",
+    "time_utc": "2026-07-16 05:40",
     "weekday": 3,
-    "issue_id": 2829,
+    "issue_id": 2830,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
+        {
+            "id": "https://huggingface.co/papers/2607.12395",
+            "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+            "url": "https://huggingface.co/papers/2607.12395",
+            "abstract": "Abstract  Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning. However, due to computational constraints, existing studies are largely restricted to small models, leaving the training dynamics and emergent capabilities at a large scale unexplored. To meaningfully explore this frontier, we aim to elicit high-quality reasoning behaviors from the model. However, we find that naive scaling often suffers from poor readability, token redundancy, and a lack of adaptive reasoning depth. To address these challenges, we present a stable and efficient training pipeline, incorporating algorithmic and system optimizations such as clipped importance sampling, training-inference ratio correction, and mixed-precision control. Our experiments offer three key findings that validate the \"bitter lesson\" of scaling: (1) scaling to 1T parameters significantly enhances sample efficiency and performance ceilings; (2) the training process progresses sequentially through an initial discovery phase followed by a sharpening phase; and (3) the model spontaneously develops advanced cognitive behaviors, including anthropomorphism, structured formatting, self-verification, parallel reasoning, and context anxiety, rendering hand-crafted heuristics redundant. Evaluated on seven mathematical benchmarks, Ring-2.5-1T-Zero achieves competitive performance. Additionally, to assess CoT quality beyond final-answer correctness, we propose a structured evaluation framework across three dimensions: comprehensibility, reproducibility, and efficiency, where our model demonstrates clear advantages in producing structured and concise reasoning traces. By sharing our observed emergent phenomena, we hope to provide the community with deeper insights into scaling behaviors, particularly at the 1-trillion scale.",
+            "score": 51,
+            "issue_id": 2830,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "a92fe9d1c4c7b6f7",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Xinyu Tang",
+                "Gangqiang Cao",
+                "Yurou Liu",
+                "Yuliang Zhan",
+                "Xiaochong Lan",
+                "Yifan Li",
+                "Yuchen Yan",
+                "Han Peng",
+                "Zican Dong",
+                "Zhenduo Zhang",
+                "Tianshu Wang",
+                "Xinyu Kong",
+                "Zujie Wen",
+                "Wayne Xin Zhao",
+                "Zhiqiang Zhang",
+                "Jun Zhou"
+            ],
+            "affiliations": [
+                "Ant Group",
+                "Gaoling School of Artificial Intelligence, Renmin University of China",
+                "Tsinghua University",
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12395.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#reasoning",
+                    "#benchmark",
+                    "#rl",
+                    "#optimization",
+                    "#math"
+                ],
+                "emoji": "🚀",
+                "ru": {
+                    "title": "Усиленное обучение без аннотаций: прорыв в масштабах",
+                    "desc": "Статья описывает подход усиленного обучения с проверяемыми вознаграждениями без аннотированных человеком данных, называемым нулевым RL. Исследование фокусируется на масштабировании моделей до 1 триллиона параметров, что позволяет улучшить эффективность образцов и производительность. Авторы представляют стабильный и эффективный процесс обучения с внедрением алгоритмических оптимизаций и системой управления смешанной точностью. Результаты показывают, что модель развивает сложные когнитивные способности, которые делают ручные эвристики избыточными."
+                },
+                "en": {
+                    "title": "Unlocking Advanced Reasoning with Zero RL at Scale",
+                    "desc": "This paper explores reinforcement learning without human-annotated data, known as zero RL, focusing on enhancing reasoning capabilities in large models. The authors identify challenges in scaling, such as poor readability and token redundancy, and propose a stable training pipeline with optimizations like clipped importance sampling. Their findings reveal that scaling to 1 trillion parameters improves sample efficiency and leads to the emergence of advanced cognitive behaviors. The model, Ring-2.5-1T-Zero, shows competitive performance on mathematical benchmarks and excels in structured reasoning evaluation."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12625",
+            "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
+            "url": "https://huggingface.co/papers/2607.12625",
+            "abstract": "Abstract  OpenClaw has emerged as a leading agent framework for complex task automation, yet it faces insufficient cross-platform GUI interaction support and a well-built self-evolution mechanism. These flaws limit its adaptation to diverse device ecosystems and prevent performance improvements through continuous learning from execution experience. To resolve these issues, we propose the Know Deeply, Act Perfectly paradigm for personal assistants, which holds that accumulated user interaction and task-running experience directly improve execution accuracy and efficiency, unifying cognitive comprehension and operational execution. Based on this paradigm, we introduce KnowAct-GUIClaw, a novel Know-Route-Act-Reflect framework designed to address OpenClaw's GUI manipulation deficits and break through its cross-platform and recursive self-improvement constraints. First, the host agent leverages accumulated interaction experience and task-relevant knowledge for long-horizon task decomposition and allocation (Know). Second, a pluggable GUI subagent with an experience-attributable memory system (Know) and self-evolving skill library (Act), enabling seamless cross-platform migration and fast-path integration. Especially, this framework continuously stores user profiles and feedback to improve the accuracy of task decomposition and tool calls. Extensive experiments across Android, iOS, HarmonyOS and Windows show that KnowAct-GUIClaw achieves superior efficiency, accuracy and cross-platform adaptability. Especially, the GUIClaw with open-source Kimi-2.6 models achieves the best performance (64.1%) on the long-horizon MobileWorld benchmark, beating all agentical frameworks and closed-source agentical models, e.g., Seed-2.0-Pro and GPT-5.5. Additionally, the knowledgeable memory and execution skills supported by our framework are transferable across diverse base models, improving by 8.5% with Kimi-2.6.",
+            "score": 30,
+            "issue_id": 2830,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "a48f8a343b485589",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yunxin Li",
+                "Jinchao Li",
+                "Shibo Su",
+                "Zhenran Xu",
+                "Chenrui Zhao",
+                "Tongshu Bian",
+                "Xiaoman Liang",
+                "Meishan Zhang",
+                "Baotian Hu",
+                "Min Zhang"
+            ],
+            "affiliations": [
+                "Harbin Institute of Technology",
+                "Shenzhen AI Training Platform",
+                "Shenzhen Loop Area Institute"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12625.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#memory",
+                    "#agents",
+                    "#open_source",
+                    "#transfer_learning",
+                    "#agent_memory",
+                    "#continual_learning"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Знай Досконально, Действуй Совершенно!",
+                    "desc": "Статья представляет новый подход к автоматизации сложных задач с помощью фреймворка KnowAct-GUIClaw. Он решает проблемы взаимодействия с графическими интерфейсами и самосовершенствования в OpenClaw. Новый метод позволяет усваивать опыт пользователя для повышения точности и эффективности выполнения задач. Эксперименты показывают, что KnowAct-GUIClaw превосходит конкурентов по производительности на различных платформах."
+                },
+                "en": {
+                    "title": "Empowering Agents with Knowledge and Adaptability",
+                    "desc": "The paper introduces KnowAct-GUIClaw, a new framework designed to enhance the OpenClaw agent for better cross-platform GUI interaction and self-evolution. It emphasizes the importance of learning from user interactions to improve task execution accuracy and efficiency. The framework incorporates a memory system and a skill library that evolve based on accumulated experiences, allowing for seamless adaptation across different devices. Experimental results demonstrate that KnowAct-GUIClaw outperforms existing models in efficiency and accuracy, particularly in long-horizon tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.05910",
+            "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
+            "url": "https://huggingface.co/papers/2607.05910",
+            "abstract": "Abstract  Image guardrails are typically trained and evaluated under a fixed safety policy, implicitly treating safety as an intrinsic property of an image. Real deployments are different: the same image may be allowed in one product, restricted in another, and newly disallowed when a policy boundary changes. We study policy-adaptive image guardrailing, where a model must decide whether an image violates the currently supplied policy and generalize to held-out policy definitions. We introduce PolicyShiftBench, a comprehensive benchmark with 2,000 policy-discriminative instances over 265 images, where each image is paired with 7.55 policy-conditioned prompts on average to test whether models adapt to the active policy rather than relying on image-level safety priors. We then propose PolicyShiftGuard, a compact policy-conditioned guardrail trained with a two-stage training recipe that combines Randomized Policy SFT (RP-SFT) with Boundary-Pair Policy Adaptation (BP-Adapt). BP-Adapt trains matched prompts for the same image and risk category using standard label supervision and a pairwise comparison loss that separates blocking policies from passing policies. Experiments show that existing VLMs and specialized guardrails remain brittle under policy shifts, while PolicyShiftGuard substantially improves policy-sensitive performance. The 7B model achieves SOTA performance of 76.9 Avg. F1 and 72.1 Avg. PSS on PolicyShiftBench, transfers well to UnSafeBench and SafeEditBench, and improves the latency-performance trade-off with a concise output format. Ablations confirm that matched pass/block boundary pairs are essential for stable policy adaptation.",
+            "score": 26,
+            "issue_id": 2830,
+            "pub_date": "2026-07-07",
+            "pub_date_card": {
+                "ru": "7 июля",
+                "en": "July 7",
+                "zh": "7月7日"
+            },
+            "hash": "861eeaebb01ba1b5",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Mingyang Song",
+                "Luxin Xu",
+                "Haoyu Sun",
+                "Minzhou Pan",
+                "Yu Cheng",
+                "Bo Li"
+            ],
+            "affiliations": [
+                "Fudan University",
+                "The Chinese University of Hong Kong",
+                "Tongji University",
+                "University of Chicago",
+                "University of Illinois, Urbana-Champaign",
+                "Virtue AI"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.05910.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#benchmark",
+                    "#agents",
+                    "#security",
+                    "#ethics"
+                ],
+                "emoji": "🛡️",
+                "ru": {
+                    "title": "Адаптация охраны изображений к изменяющимся условиям безопасности",
+                    "desc": "В данной статье исследуется проблема адаптации охраны изображений в соответствии с изменяющимися политиками безопасности. Авторы представляют новый бенчмарк PolicyShiftBench, который содержит 2000 случаев, позволяющих оценить, как модели способны адаптироваться к текущим политическим требованиям. Они предлагают метод PolicyShiftGuard, который использует двухступенчатую тренировку для улучшения производительности моделей несмотря на изменения в политике. Эксперименты показывают, что предложенный подход значительно улучшает адаптацию к политическим условиям в сравнении с существующими методами."
+                },
+                "en": {
+                    "title": "Adapting Image Guardrails to Dynamic Safety Policies",
+                    "desc": "This paper addresses the challenge of adapting image guardrails to changing safety policies, which is crucial for real-world applications. It introduces PolicyShiftBench, a benchmark designed to evaluate how well models can adapt to different policy definitions using a diverse set of images and prompts. The authors propose PolicyShiftGuard, a novel guardrail model that employs a two-stage training process to enhance policy-sensitive performance. Experimental results demonstrate that PolicyShiftGuard outperforms existing models in adapting to policy shifts, achieving state-of-the-art results on the benchmark."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13125",
+            "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
+            "url": "https://huggingface.co/papers/2607.13125",
+            "abstract": "Abstract  We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants. It delivers competitive performance in high-quality text-to-image generation, fast inference, instruction-based editing, and bilingual (Chinese-English) text rendering. Closed-source multimodal systems like Nano-Banana-Pro and GPT-Image-2 achieve strong performance through system-level integration rather than a single model, yet their internal practices remain largely undisclosed. In this work, we demonstrate that targeted improvements in model understanding, data quality, and training pipelines, coupled with agentic inference-time scaling, can substantially enhance generation and editing performance even under highly constrained compute budgets. Comprehensive evaluations show that Boogu-Image-0.1 consistently matches or surpasses other open-source models across standard benchmarks, and achieves results approaching leading closed-source systems. Notably, this is accomplished with only 208.62 million unique images. The base model's theoretical training cost is only approximately \\$400K. We share practical discussions that we believe are valuable to the broader research community, and release weights, code, and recipes under Apache 2.0 to advance the open ecosystem for unified multimodal understanding and generation. Our code is available here: https://github.com/Boogu-Project/Boogu-Image.",
+            "score": 22,
+            "issue_id": 2830,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "6c92b75e12628a9a",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Guoxuan Chen",
+                "Chufeng Xiao",
+                "Haoran Yang",
+                "Siyue Xie",
+                "Binxiao Huang",
+                "Ming Zhang",
+                "Cheuk Him Chau",
+                "Xinyu Fu",
+                "Yingzhao Lian",
+                "Tom S. Y. Li",
+                "Jintao Lin",
+                "Bowen Dong",
+                "Zian Qian",
+                "Yuhao Liu",
+                "Yuxuan Hu",
+                "Weikang Shi",
+                "Bin Zou",
+                "Bowen Zheng",
+                "Haoxuan Che",
+                "Chang Chen",
+                "Yuyang He",
+                "Heyang Sun",
+                "Tianyu Huang",
+                "Chong Hou Choi",
+                "Cheng Gong",
+                "Han Shi",
+                "Haoli Bai",
+                "Xihui Liu",
+                "Hongsheng Li",
+                "Qifeng Chen",
+                "Chao Huang",
+                "Rui Liu",
+                "Chenyang Lei"
+            ],
+            "affiliations": [],
+            "pdf_title_img": "assets/pdf/title_img/2607.13125.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#multimodal",
+                    "#dataset",
+                    "#benchmark",
+                    "#games",
+                    "#open_source"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Открытая многомодальная модель для генерации и понимания",
+                    "desc": "В этой работе представлен Boogu-Image-0.1 — открытый модуль для многомодального понимания и генерации изображений и текста. Модель демонстрирует высокое качество генерации изображений из текста, быструю инференцию и редактирование на основе инструкций. Кроме того, Boogu-Image-0.1 достигает конкурентоспособных результатов по сравнению с закрытыми системами, используя около 208,62 миллиона уникальных изображений и всего за примерно 400 тысяч долларов на обучение. Мы делимся кодом и весами модели под лицензией Apache 2.0 для поддержки открытого экосистемы многомодального понимания и генерации."
+                },
+                "en": {
+                    "title": "Unlocking Multimodal Potential with Boogu-Image-0.1",
+                    "desc": "Boogu-Image-0.1 is a new open-source model family designed for multimodal understanding and generation, including variants like Base and Turbo. It excels in generating high-quality images from text, performing fast edits, and rendering bilingual text in Chinese and English. The model achieves impressive results by improving understanding, data quality, and training methods, even with limited computational resources. Evaluations show that it competes well with both open-source and closed-source systems, while being accessible to the research community."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13285",
+            "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+            "url": "https://huggingface.co/papers/2607.13285",
+            "abstract": "Abstract  The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before such a change can be made, a developer or coding agent must identify all code locations that implement the target behavior. This is difficult because production harnesses are large, tightly coupled, and behaviorally distributed, while modification requests describe what the system should do and repositories are organized by files and modules. Code search, repository indexing, and long-context processing ease inspection, but still leave this behavior-to-code mapping to be recovered by hand. Behavior localization is therefore a central bottleneck in harness evolution. We introduce the Harness Handbook, a behavior-centric representation synthesized automatically from a harness codebase via static analysis and LLM-assisted structuring, linking each behavior to its corresponding source. We also introduce Behavior-Guided Progressive Disclosure (BGPD), which guides agents from high-level behaviors to relevant implementation details and verifies candidate locations against the current source. On diverse modification requests from two open-source harnesses, Handbook-Assisted planning improves behavior localization and edit-plan quality while using fewer planner tokens, with the largest gains on scattered sites, rarely executed paths, and cross-module interactions. Evolving complex agentic systems thus depends not only on generating edits, but also on determining where those edits should be made.",
+            "score": 20,
+            "issue_id": 2829,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "cea4c45deb287f98",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Ruhan Wang",
+                "Yucheng Shi",
+                "Zongxia Li",
+                "Zhongzhi Li",
+                "Yue Yu",
+                "Junyao Yang",
+                "Kishan Panaganti",
+                "Haitao Mi",
+                "Dongruo Zhou",
+                "Leoweiliang"
+            ],
+            "affiliations": [
+                "Indiana University",
+                "National University of Singapore",
+                "Tencent HY LLM Frontier",
+                "University of Georgia",
+                "University of Maryland, College Park"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13285.jpg",
+            "data": {
+                "categories": [
+                    "#prompting",
+                    "#tool_use",
+                    "#long_context",
+                    "#agents",
+                    "#agent_memory",
+                    "#open_source"
+                ],
+                "emoji": "🔧",
+                "ru": {
+                    "title": "Эволюция AI-агентов: от поведения к реализации",
+                    "desc": "Статья рассматривает важность эволюции инструментов для современных AI-агентов, включающих фреймворки и модели. Для правильно управления поведением системы необходимо выявить все места в коде, которые реализуют цель поведения, что является сложной задачей из-за большой связанности и распределенности кода. Вводится 'Harness Handbook' — представление, автоматизированное с помощью статического анализа и LLM, которое связывает поведение с его источниками. Также предлагается метод BGPD, который направляет разработчиков от высокоуровневого поведения к деталям реализации."
+                },
+                "en": {
+                    "title": "Streamlining AI Harness Evolution with Behavior-Centric Tools",
+                    "desc": "This paper discusses the importance of a harness in AI systems, which manages prompts and execution as models and requirements change. It highlights the challenge of locating code that implements specific behaviors in large and complex codebases. The authors introduce the Harness Handbook, a tool that uses static analysis and LLMs to link behaviors to their source code. Additionally, they present Behavior-Guided Progressive Disclosure (BGPD) to help developers navigate from high-level behaviors to implementation details, improving the efficiency of code modifications."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13960",
+            "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
+            "url": "https://huggingface.co/papers/2607.13960",
+            "abstract": "Abstract  World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action generation. However, a common design in existing WAMs is to explicitly generate future videos at inference time, incurring substantial computational overhead and hindering real-time closed-loop deployment. GigaWorld-Policy addresses this issue with an action-centered formulation, where future visual dynamics are used during training while action-only decoding is used at inference time. Building upon this framework, we present GigaWorld-Policy-0.5, an enhanced action-centered WAM designed for more efficient robot control. During pretraining, GigaWorld-Policy-0.5 adopts a mixed Action-Conditioned World Modeling (AC-WM) and WAM training strategy. This strengthens the coupling between visual dynamics and robot actions and improves the transferability of action representations for downstream policy learning. For efficient inference, GigaWorld-Policy-0.5 introduces a Mixture-of-Transformers architecture that separates visual dynamics modeling and action generation into specialized experts, reducing active computation during action-only inference and achieving 85 ms inference latency on a local RTX 4090 setup. In addition, we employ an agent-based AutoResearch pipeline to systematically search training configurations, enabling more efficient identification of optimal experimental setups while reducing the time and manual intervention required for hyperparameter tuning. Experiments and ablations show that GigaWorld-Policy-0.5 preserves the training benefits of future visual dynamics while improving inference efficiency for robot control.",
+            "score": 15,
+            "issue_id": 2830,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "de27433b98d9265a",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "GigaWorld Team",
+                "Angen Ye",
+                "Angyuan Ma",
+                "Boyuan Wang",
+                "Chaojun Ni",
+                "Fangzheng Ye",
+                "Guan Huang",
+                "Guo Li",
+                "Guosheng Zhao",
+                "Haodong Yan",
+                "Hengtao Li",
+                "Jiwen Lu",
+                "Kai Wang",
+                "Mingming Yu",
+                "Qitang Hu",
+                "Qiuping Deng",
+                "Songling Liu",
+                "Xiaoyu Tian",
+                "Xiaofeng Wang",
+                "Xinyu Zhou",
+                "Xiuwei Xu",
+                "Xinze Chen",
+                "Yang Wang",
+                "Yejun Zeng",
+                "Yifan Chang",
+                "Yun Ye",
+                "Zhenyu Wu",
+                "Zhanqian Wu",
+                "Zheng Zhu"
+            ],
+            "affiliations": [
+                "Tsinghua University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13960.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#agents",
+                    "#optimization",
+                    "#robotics",
+                    "#architecture",
+                    "#transfer_learning"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Эффективное управление роботами с помощью GigaWorld-Policy-0.5",
+                    "desc": "Модель GigaWorld-Policy-0.5 улучшает обучение политики роботов, эффективно комбинируя моделирование действий и будущих визуальных наблюдений. В отличие от предыдущих моделей, она использует упрощенное декодирование действий на этапе вывода, что снижает вычислительные затраты и ускоряет процесс. В ходе предварительного обучения применяется смешанная стратегия Action-Conditioned World Modeling и WAM, что укрепляет связь между визуальной динамикой и действиями робота. Также используется архитектура Mixture-of-Transformers, позволяющая снижать задержки при выводе только действий."
+                },
+                "en": {
+                    "title": "Efficient Robot Control with Action-Centered World Models",
+                    "desc": "World Action Models (WAMs) enhance how robots learn to make decisions by predicting future visual outcomes based on their actions. The GigaWorld-Policy approach reduces the computational load during inference by focusing on action-only decoding instead of generating full future videos. GigaWorld-Policy-0.5 further improves this by using a mixed training strategy that strengthens the link between visual dynamics and robot actions. It also employs a Mixture-of-Transformers architecture to optimize inference speed, achieving low latency while maintaining the benefits of future visual dynamics in training."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12000",
+            "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
+            "url": "https://huggingface.co/papers/2607.12000",
+            "abstract": "Abstract  Current visual generation models are capable of producing high-quality content, yet they lack a coherent perception of the spatial structure. Existing generative novel view synthesis methods typically introduce explicit geometry priors, which enforce spatial consistency but inherently restrict generalization in large view changes. In contrast, recent interactive generative methods favor implicit scene modeling, offering greater flexibility at the cost of precise camera control and geometry consistency. In this paper, we propose MetaView, a diffusion-based monocular novel view synthesis framework that enables rendering under large view changes from a single image. Our key insight is to combine implicit geometry modeling with minimal yet essential explicit 3D cues: we incorporate implicit geometry priors from a feed-forward geometry perception network to regularize structure without imposing restrictive reconstruction pipelines, while leveraging metric depth to anchor the generation to a metric scale. This design allows MetaView to achieve both geometry consistency and precise controllability. Extensive experiments demonstrate that, under challenging monocular large viewpoint changes, MetaView significantly outperforms existing methods and exhibits superior generalization. Our code is publicly available at https://github.com/KlingAIResearch/MetaView.",
+            "score": 14,
+            "issue_id": 2830,
+            "pub_date": "2026-07-13",
+            "pub_date_card": {
+                "ru": "13 июля",
+                "en": "July 13",
+                "zh": "7月13日"
+            },
+            "hash": "902fe93f7119794b",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yufei Cai",
+                "Xuesong Niu",
+                "Hao Lu",
+                "Kun Gai",
+                "Kai Wu",
+                "Guosheng Lin"
+            ],
+            "affiliations": [
+                "Kolors Team, Kuaishou Technology",
+                "Nanyang Technological University",
+                "The Hong Kong University of Science and Technology (Guangzhou)"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12000.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#games",
+                    "#diffusion",
+                    "#open_source",
+                    "#3d"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Новый взгляд на генерацию изображений",
+                    "desc": "В данной статье представлен новый подход к синтезу изображений под названием MetaView, который использует диффузионные модели для генерации новых видов с одного изображения. Основная идея заключается в сочетании неявного моделирования геометрии с минимальными явными 3D подсказками, что позволяет достигать согласованности геометрии и точного управления. MetaView демонстрирует высокие результаты при больших изменениях угла обзора, превосходя существующие методы. Эксперименты показывают, что этот подход обеспечивает лучшую обобщаемость и качество синтезируемого контента."
+                },
+                "en": {
+                    "title": "MetaView: Flexible and Consistent Novel View Synthesis",
+                    "desc": "This paper introduces MetaView, a novel framework for generating images from different viewpoints using a single image. It combines implicit geometry modeling with essential explicit 3D cues to maintain spatial consistency while allowing for flexibility in view changes. By using a feed-forward geometry perception network, MetaView regularizes the structure without limiting the reconstruction process. The results show that MetaView outperforms existing methods in generating high-quality images under challenging conditions."
+                }
+            }
+        },
         {
             "id": "https://huggingface.co/papers/2607.13639",
             "title": "OvisOCR2 Technical Report",
             "url": "https://huggingface.co/papers/2607.13639",
             "abstract": "Abstract  We introduce OvisOCR2, a 0.8B document parsing model. OvisOCR2 is designed as an end-to-end parser: given a document page image, it generates a Markdown representation in natural reading order, covering text, formulas, tables, and visual regions. We build a data engine that combines filtered real-document annotations with synthetic pages whose rendered images and Markdown targets are derived from the same HTML source. The training recipe includes supervised fine-tuning, reinforcement learning on a 4B branch with a multi-component reward design, on-policy distillation into the 0.8B model, and model fusion. On OmniDocBench v1.6, OvisOCR2 achieves a state-of-the-art overall score of 96.58, placing an end-to-end model at the top of this leaderboard previously dominated by pipeline methods and highlighting the potential of end-to-end document parsing. On PureDocBench, OvisOCR2 also achieves the highest Avg3 score of 75.06. Beyond these two public benchmarks, we evaluate OvisOCR2 on an in-house benchmark designed to cover a broader set of long-tail and challenging scenarios. OvisOCR2 obtains the best overall performance among the compared methods, providing further evidence of its generalization and robustness. OvisOCR2 is available at https://huggingface.co/ATH-MaaS/OvisOCR2.",
-            "score": 1,
+            "score": 11,
             "issue_id": 2829,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -25,7 +442,25 @@
             "hash": "744fcaa1a35cacc9",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Shiyin Lu",
+                "Yinglun Li",
+                "Yu Xia",
+                "Yuhui Chen",
+                "An-Yang Ji",
+                "Jun-Peng Jiang",
+                "Qing-Guo Chen",
+                "Jianshan Zhao",
+                "En Lin",
+                "Haijun Li",
+                "Cheng Qin",
+                "Zhao Xu",
+                "Weihua Luo"
+            ],
+            "affiliations": [
+                "Alibaba Group"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13639.jpg",
             "data": {
                 "categories": [
                     "#optimization",
@@ -50,39 +485,239 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.13285",
-            "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
-            "url": "https://huggingface.co/papers/2607.13285",
-            "abstract": "Abstract  The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution. As models, APIs, environments, and requirements evolve, the harness must be continually modified. Before such a change can be made, a developer or coding agent must identify all code locations that implement the target behavior. This is difficult because production harnesses are large, tightly coupled, and behaviorally distributed, while modification requests describe what the system should do and repositories are organized by files and modules. Code search, repository indexing, and long-context processing ease inspection, but still leave this behavior-to-code mapping to be recovered by hand. Behavior localization is therefore a central bottleneck in harness evolution. We introduce the Harness Handbook, a behavior-centric representation synthesized automatically from a harness codebase via static analysis and LLM-assisted structuring, linking each behavior to its corresponding source. We also introduce Behavior-Guided Progressive Disclosure (BGPD), which guides agents from high-level behaviors to relevant implementation details and verifies candidate locations against the current source. On diverse modification requests from two open-source harnesses, Handbook-Assisted planning improves behavior localization and edit-plan quality while using fewer planner tokens, with the largest gains on scattered sites, rarely executed paths, and cross-module interactions. Evolving complex agentic systems thus depends not only on generating edits, but also on determining where those edits should be made.",
-            "score": 0,
-            "issue_id": 2829,
+            "id": "https://huggingface.co/papers/2607.12752",
+            "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
+            "url": "https://huggingface.co/papers/2607.12752",
+            "abstract": "Abstract  While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading to spatial hallucinations such as duplicated structures and misaligned geometry. These issues become more severe in 4D generation, where maintaining consistency across viewpoints and temporal evolution introduces additional challenges, including jitter, identity flicker, and structural drift. We present Hallo4D, a unified and model-agnostic framework for mitigating spatiotemporal hallucinations in 3D and 4D content generation. Hallo4D introduces a generation-detection-correction paradigm that leverages large multimodal language models (LMMs) to identify and summarize spatial and temporal inconsistencies from multi-view and multi-frame renderings. These insights guide a consensus-driven image-space consistency optimization, where an LMM-based selector evaluates candidate corrections through multi-model voting, without requiring retraining or architectural modifications. To further improve temporal consistency and optimization efficiency, Hallo4D incorporates motion-aware keyframe sampling, LMM-guided initialization, and appearance alignment. We additionally introduce exposure-aware optimization and visibility pruning to enhance robustness under challenging viewpoints. Extensive experiments demonstrate that Hallo4D consistently outperforms strong baselines across diverse 3D and 4D generation settings, providing a scalable and generalizable solution for consistency-aware content generation.",
+            "score": 7,
+            "issue_id": 2830,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "06a2c7da5ca07ca9",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hongbo Wang",
+                "Huaibo Huang",
+                "Jie Cao",
+                "Jin Liu",
+                "Haoyang Tong",
+                "Ran He"
+            ],
+            "affiliations": [
+                "MAIS&NLPR, Institute of Automation, Chinese Academy of Science, Beijing, 100190, China",
+                "Shanghaitech University",
+                "University of Chinese Academy of Sciences, Beijing, 101408, China"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12752.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#diffusion",
+                    "#optimization",
+                    "#hallucinations",
+                    "#3d"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Новая эра в генерации 3D и 4D контента",
+                    "desc": "В данной статье представлен метод Hallo4D, который решает проблемы генерирования 3D и 4D контента, связанные с пространственными несоответствиями. Существующие подходы часто используют 2D диффузионное управление без учета геометрической согласованности, что приводит к артефактам, таким как дублирование объектов. Hallo4D внедряет парадигму генерации-обнаружения-исправления, используя большие мультимодальные языковые модели для определения и устранения несоответствий. Эксперименты показывают, что новый метод превосходит существующие решения по различным критериям."
+                },
+                "en": {
+                    "title": "Enhancing Consistency in 3D and 4D Generation with Hallo4D",
+                    "desc": "This paper presents Hallo4D, a framework designed to improve the consistency of 3D and 4D content generation. It addresses issues like spatial hallucinations and temporal inconsistencies that arise from using 2D diffusion supervision. By employing a generation-detection-correction approach, it utilizes large multimodal language models to identify and correct inconsistencies in generated content. The framework enhances optimization efficiency and robustness through techniques like motion-aware keyframe sampling and exposure-aware optimization."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13124",
+            "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
+            "url": "https://huggingface.co/papers/2607.13124",
+            "abstract": "Abstract  Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form generation that deployment actually requires. Two observations trace this gap. First, greedy pass@1 nearly vanishes after compression, yet pass@k recovers substantially under repeated sampling: useful generations are demoted, not erased. Second, the recoverable regime fails mainly through suffix repetition. Recovery should therefore train on the compressed model's own on-policy states with dense token-level supervision, which On-Policy Distillation (OPD) provides by reusing the pre-compression model as a frozen teacher. However, long on-policy rollouts spend early recovery budget on low-information repetitive suffixes, delaying loss descent. To mitigate this waste, we propose \\shortopd, a short-to-long OPD schedule that detects teacher-confirmed repetitive suffixes, treats the surviving prefix as each rollout's effective length, and allocates future rollout budgets to the effective lengths the policy can currently use. Across math, code, and open-ended generation, \\shortopd\\ raises the compressed model's score to about 9times its unrecovered value and 1.6--4.4times standard recovery recipes (SFT w/o KD, KD, and SeqKD), and it matches a fixed 8192-token rollout horizon within two points using a quarter of the training time (8.5 vs.\\ 35.9 hours) and 71% fewer rollout tokens. We hope this recipe helps move structured pruning beyond marginal gains on perplexity and multiple-choice benchmarks, a step closer to deployment-ready generation quality.",
+            "score": 5,
+            "issue_id": 2830,
             "pub_date": "2026-07-14",
             "pub_date_card": {
                 "ru": "14 июля",
                 "en": "July 14",
                 "zh": "7月14日"
             },
-            "hash": "cea4c45deb287f98",
+            "hash": "535642a6ab43a99e",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Qingyu Zhang",
+                "Qianhao Yuan",
+                "Hongyu Lin",
+                "Yaojie Lu",
+                "Xianpei Han",
+                "Le Sun",
+                "Xiang Li",
+                "Ming Xu",
+                "Jiarui Li",
+                "Xiuyin Zhao"
+            ],
+            "affiliations": [
+                "ByteDance",
+                "Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences",
+                "University of Chinese Academy of Sciences"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13124.jpg",
+            "data": {
+                "error": "Parsing error",
+                "raw_data": "{\n  \"desc\": \"Структурное обрезание является эффективным способом сжатия LLM, но его эффективность в задачах свободной генерации остается под вопросом. Исследование показывает, что после сжатия модель теряет способность к точному предсказанию, но может восстанавливать полезные генерации при повторном выборке. Для улучшения восстановления предлагается метод On-Policy Distillation (OPD), который использует замороженную модель до сжатия в качестве учителя. Новый подход \\shortopd позволяет значительно повысить качество сжатой модели, сокращая время обучения и количество используемых токенов.\",\n  \"emoji\": \"📉\",\n  \"title\": \"Эффективное сжатие LLM для генерации\"\n}",
+                "details": "Invalid \\escape: line 2 column 469 (char 470)"
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12747",
+            "title": "Tracing Agentic Failure from the Flow of Success",
+            "url": "https://huggingface.co/papers/2607.12747",
+            "abstract": "Abstract  Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems. Existing approaches either rely on prompting-based pipelines, which are computationally expensive, or require post-training on failure trajectories with step-level error annotations, which are costly to collect and difficult to scale. We argue that a practical failure attribution model should be lightweight and trainable without step-level supervision on failure data. To this end, we address unsupervised failure attribution, i.e., training exclusively on successful trajectories and identifying error steps at inference time given a failure trajectory. We propose OAT, which casts this problem as one-class learning with neural controlled differential equations, modeling the dynamical pattern of successful trajectories in latent space. At inference time, each step in a failure trajectory is assigned an anomaly score based on its deviation from the dynamics learned on successful trajectories, which is then used to form a set of error steps. With training on only 100 successful trajectories, experiments show that OAT is 200--5000 times faster than prompting-based baselines, and, at the same time, consistently outperforms them in both in-domain and out-of-distribution datasets with +20% and +7% F1 scores, respectively, demonstrating that OAT is a promising and efficient direction for diagnosing agentic system failures.",
+            "score": 2,
+            "issue_id": 2830,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "b4ce0409c5a93b46",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Samuel Yeh",
+                "Yiwen Zhu",
+                "Shaleen Deep",
+                "Sharon Li"
+            ],
+            "affiliations": [
+                "Department of Computer Science, University of Wisconsin-Madison",
+                "Microsoft Research"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12747.jpg",
             "data": {
                 "categories": [
-                    "#prompting",
-                    "#tool_use",
-                    "#long_context",
-                    "#agents",
+                    "#training",
+                    "#interpretability",
                     "#agent_memory",
-                    "#open_source"
+                    "#agents"
                 ],
-                "emoji": "🔧",
+                "emoji": "⚙️",
                 "ru": {
-                    "title": "Эволюция AI-агентов: от поведения к реализации",
-                    "desc": "Статья рассматривает важность эволюции инструментов для современных AI-агентов, включающих фреймворки и модели. Для правильно управления поведением системы необходимо выявить все места в коде, которые реализуют цель поведения, что является сложной задачей из-за большой связанности и распределенности кода. Вводится 'Harness Handbook' — представление, автоматизированное с помощью статического анализа и LLM, которое связывает поведение с его источниками. Также предлагается метод BGPD, который направляет разработчиков от высокоуровневого поведения к деталям реализации."
+                    "title": "Эффективная диагностика сбоев в LLM-системах",
+                    "desc": "Статья посвящена выявлению причин сбоя в системах, основанных на LLM, что критично для их отладки и улучшения. Авторы предлагают новый подход, который не требует затратных аннотаций и может тренироваться только на успешных траекториях. Метод OAT использует одноклассное обучение, чтобы моделировать успешные сценарии и выявлять ошибочные шаги в процессе работы системы. Результаты показывают, что OAT значительно быстрее существующих методов и превосходит их по метрикам качества."
                 },
                 "en": {
-                    "title": "Streamlining AI Harness Evolution with Behavior-Centric Tools",
-                    "desc": "This paper discusses the importance of a harness in AI systems, which manages prompts and execution as models and requirements change. It highlights the challenge of locating code that implements specific behaviors in large and complex codebases. The authors introduce the Harness Handbook, a tool that uses static analysis and LLMs to link behaviors to their source code. Additionally, they present Behavior-Guided Progressive Disclosure (BGPD) to help developers navigate from high-level behaviors to implementation details, improving the efficiency of code modifications."
+                    "title": "Efficient Failure Diagnosis for LLMs with OAT",
+                    "desc": "This paper presents a method for identifying the causes of failures in large language model (LLM)-based systems, which is essential for debugging. The proposed approach, called OAT, focuses on unsupervised failure attribution, allowing the model to learn from successful task trajectories without needing detailed error annotations. By using one-class learning with neural controlled differential equations, OAT efficiently detects anomalies in failure trajectories based on learned patterns from successful ones. The results show that OAT is significantly faster and more effective than existing methods, making it a valuable tool for improving agentic systems."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.07702",
+            "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+            "url": "https://huggingface.co/papers/2607.07702",
+            "abstract": "Abstract  The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally important evidence and produce misleading optimization signals. To resolve this dilemma, we introduce STRACE (Structural TRajectory Analysis and Causal Extraction), a framework that constructs high signal-noise optimization contexts for more precise and effective optimization. At the batch level, STRACE mines failure patterns to filter redundant traces and retain representative failures; within each selected trace, it performs causal localization over a textual dependency graph to remove non-causal steps and identify the true root-cause module for optimization. Empirical results demonstrate that STRACE significantly outperforms standard context-filtering baselines. Notably, on a challenging formal verification task (VeruSAGE-Bench), it successfully optimizes human-expert designed agents, delivering 1.4times success-rate improvement (42.5% to 58.5%). The code is available at https://github.com/moomight/STRACE .",
+            "score": 2,
+            "issue_id": 2830,
+            "pub_date": "2026-07-08",
+            "pub_date_card": {
+                "ru": "8 июля",
+                "en": "July 8",
+                "zh": "7月8日"
+            },
+            "hash": "18f4cc35c701c17e",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Ying Chang",
+                "Jiahang Xu",
+                "Xuan Feng",
+                "Chenyuan Yang",
+                "Peng Cheng",
+                "Yuqing Yang"
+            ],
+            "affiliations": [
+                "Microsoft Research",
+                "University of Chinese Academy of Sciences, Beijing, China"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.07702.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#long_context",
+                    "#memory",
+                    "#agents",
+                    "#games",
+                    "#optimization"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Оптимизация агентов с помощью STRACE",
+                    "desc": "В данной статье рассматривается оптимизация агентов с длинным горизонтом, использующих рефлексивные механизмы и большие языковые модели (LLM) для выявления ошибок и улучшения политик агентов. Проблема заключается в том, что реальные траектории выполнения часто содержат избыточные и неоднородные данные, что делает оптимизацию неэффективной. Авторы предлагают новый фреймворк STRACE, который анализирует траектории и извлекает причинные данные для более точной оптимизации. Результаты экспериментов показывают, что STRACE значительно превосходит стандартные методы фильтрации контекста и улучшает успех оптимизации агентов экспертов."
+                },
+                "en": {
+                    "title": "Optimizing Agents with Causal Insights",
+                    "desc": "This paper presents STRACE, a framework designed to optimize long-horizon agents using reflection-based mechanisms with large language models. STRACE addresses the challenges of using real execution traces for optimization by filtering out redundant and irrelevant steps, ensuring that only high-value failures are retained. It employs causal localization to identify the root causes of failures, enhancing the optimization process. Empirical results show that STRACE significantly improves the success rate of agent optimization tasks compared to standard methods."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.11523",
+            "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
+            "url": "https://huggingface.co/papers/2607.11523",
+            "abstract": "Abstract  When should an intelligent assistant speak up without being asked? Continuous egocentric video offers rich, evolving context that enables a new form of assistance: one that is proactive rather than merely reactive. Yet existing approaches either wait passively for user queries or treat every detected event as requiring a response, without considering the user's history, current activity, or whether assistance would actually be welcome. We reframe proactive assistance as a context-dependent decision problem: the agent must not only perceive what is happening, but reason over accumulated temporal context to determine when and whether to intervene. To this end, we present Vinci2, a proactive egocentric assistance system that advances the on-device assistant Vinci from reactive response toward proactivity. On the evaluation side, we present EgoServe, the first large-scale benchmark for proactive assistance in continuous egocentric video. EgoServe comprises over 3,000 service instances organized along 4 temporal memory horizons, ranging from immediate safety alerts to long-term habit coaching, across 10 service categories. On the modeling side, we propose EgoMemo, a training-free, memory-augmented agent that maintains three complementary memory representations: multi-scale temporal summaries, a semantic knowledge graph, and visual embedding archives. At each timestep, EgoMemo performs retrieval-augmented reasoning to determine whether assistance is warranted and, if so, produces contextually grounded responses. Experiments demonstrate that EgoMemo establishes strong baselines on EgoServe while remaining competitive on existing egocentric benchmarks. Our benchmark and code are publicly available at https://sitonggong.github.io/EgoServe-page/{Vinci2}.",
+            "score": 1,
+            "issue_id": 2830,
+            "pub_date": "2026-07-13",
+            "pub_date_card": {
+                "ru": "13 июля",
+                "en": "July 13",
+                "zh": "7月13日"
+            },
+            "hash": "27f7e95d123e6e31",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Gong Sitong",
+                "Tianyu Yan",
+                "Caixin Kang",
+                "Bo Zheng",
+                "Xiang Ruan",
+                "Huchuan Lu",
+                "Kaipeng Zhang",
+                "Yoichi Sato",
+                "Yifei Huang"
+            ],
+            "affiliations": [
+                "Alaya Lab",
+                "Dalian University of Technology",
+                "The University of Tokyo"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.11523.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#memory",
+                    "#benchmark",
+                    "#agents",
+                    "#reasoning",
+                    "#open_source",
+                    "#retrieval"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Интеллектуальный помощник: проактивный, а не реактивный",
+                    "desc": "В статье рассматривается необходимость проактивного поведения интеллектуального помощника, который должен реагировать на события без явного запроса пользователя. Проблема проактивного помощника переосмысляется как задача, зависящая от контекста, где необходимо учитывать историю пользователя и текущую активность. Представлен новый подход с использованием системы Vinci2, которая использует видео с эгоцентрической точки зрения для проактивной помощи. Также представлен EgoServe, первый крупномасштабный бенчмарк, который позволяет оценить эффективность проактивной помощи в контексте эгоцентрического видео."
+                },
+                "en": {
+                    "title": "Proactive Assistance: Anticipating User Needs with Vinci2",
+                    "desc": "This paper introduces Vinci2, a proactive egocentric assistance system that enhances user interaction by anticipating needs rather than just reacting to requests. It addresses the limitations of existing systems that either wait for user input or respond to every detected event without considering context. The authors propose EgoMemo, a memory-augmented agent that uses multiple memory representations to make informed decisions about when to provide assistance. They also present EgoServe, a large-scale benchmark for evaluating proactive assistance in continuous egocentric video, demonstrating that their approach outperforms existing methods."
                 }
             }
         }
@@ -101,58 +736,58 @@
         "zh": "7月17日"
     },
     "categories": {
-        "#dataset": 1,
+        "#dataset": 3,
         "#data": 1,
-        "#benchmark": 1,
-        "#agents": 1,
-        "#rl": 1,
+        "#benchmark": 5,
+        "#agents": 7,
+        "#rl": 2,
         "#rlhf": 0,
         "#rag": 0,
         "#plp": 0,
         "#inference": 0,
-        "#3d": 0,
+        "#3d": 2,
         "#audio": 0,
-        "#multimodal": 0,
-        "#math": 0,
+        "#multimodal": 3,
+        "#math": 1,
         "#multilingual": 0,
-        "#architecture": 1,
+        "#architecture": 2,
         "#healthcare": 0,
-        "#training": 1,
-        "#robotics": 0,
+        "#training": 8,
+        "#robotics": 1,
         "#agi": 0,
-        "#games": 0,
-        "#interpretability": 0,
-        "#reasoning": 0,
-        "#transfer_learning": 0,
+        "#games": 3,
+        "#interpretability": 1,
+        "#reasoning": 2,
+        "#transfer_learning": 2,
         "#graphs": 0,
-        "#ethics": 0,
-        "#security": 0,
-        "#optimization": 1,
+        "#ethics": 1,
+        "#security": 1,
+        "#optimization": 5,
         "#survey": 1,
-        "#diffusion": 0,
+        "#diffusion": 2,
         "#alignment": 0,
         "#story_generation": 0,
-        "#hallucinations": 0,
-        "#long_context": 1,
+        "#hallucinations": 1,
+        "#long_context": 2,
         "#synthetic": 1,
         "#machine_translation": 0,
         "#leakage": 0,
-        "#open_source": 1,
+        "#open_source": 5,
         "#small_models": 0,
         "#science": 0,
         "#low_resource": 0,
-        "#memory": 0,
-        "#retrieval": 0,
+        "#memory": 3,
+        "#retrieval": 1,
         "#prompting": 1,
         "#context_window": 0,
         "#compression": 0,
         "#memorization": 0,
-        "#continual_learning": 0,
+        "#continual_learning": 1,
         "#knowledge_graphs": 0,
         "#retrieval_eval": 0,
         "#prompt_caching": 0,
         "#session_memory": 0,
         "#tool_use": 1,
-        "#agent_memory": 1
+        "#agent_memory": 3
     }
 }
