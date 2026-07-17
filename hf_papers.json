@@ -4,131 +4,17 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-17 08:08",
+    "time_utc": "2026-07-17 10:46",
     "weekday": 4,
-    "issue_id": 2838,
+    "issue_id": 2839,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
-        {
-            "id": "https://huggingface.co/papers/2607.14777",
-            "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
-            "url": "https://huggingface.co/papers/2607.14777",
-            "abstract": "Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards offer limited guidance on intermediate decisions, leaving a supervision gap between episode-level outcomes and token-level policy learning. We propose SEED (SElf-Evolving On-Policy Distillation), a self-evolving framework that converts completed on-policy trajectories into training-time hindsight skills and distills their behavioral effect back into the policy model. SEED first fine-tunes the policy to analyze completed trajectories and generate natural-language skills that capture reusable workflows, decisive observations, or failure-avoidance rules. During RL, the current policy both collects trajectories and serves as the analyzer that extracts hindsight skills from them. Policy updates therefore improve subsequent decision making and skill analysis together, allowing hindsight supervision to evolve with the policy. SEED then re-scores the sampled actions under ordinary and skill-augmented contexts, converting the skill-induced probability shift into a dense token-level on-policy distillation signal. This signal is jointly optimized with outcome-based RL, keeping the auxiliary supervision aligned with the current trajectory distribution. Extensive experiments on text-based and vision-based agentic tasks show that SEED consistently improves performance and sample efficiency, exhibiting robust generalization to unseen scenarios. Our code is available at https://github.com/jinyangwu/SEED.",
-            "score": 50,
-            "issue_id": 2836,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "30b0dd72d53bf074",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Jinyang Wu",
-                "Shuo Yang",
-                "Zhengxi Lu",
-                "Fan Zhang",
-                "Yuhao Shen",
-                "Lang Feng",
-                "Haoran Luo",
-                "Zheng Lian",
-                "Shuai Zhang",
-                "Zhengqi Wen",
-                "Jianhua Tao"
-            ],
-            "affiliations": [
-                "Nanyang Technological University",
-                "The Chinese University of Hong Kong",
-                "Tongji University",
-                "Tsinghua University",
-                "Zhejiang University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14777.jpg",
-            "data": {
-                "categories": [
-                    "#rlhf",
-                    "#training",
-                    "#agents",
-                    "#rl",
-                    "#tool_use",
-                    "#agent_memory",
-                    "#optimization"
-                ],
-                "emoji": "🌱",
-                "ru": {
-                    "title": "SEED: Эффективное саморазвивающееся обучение",
-                    "desc": "В данной статье рассматривается метод SEED (SElf-Evolving On-Policy Distillation), который улучшает обучение ИИ с помощью саморазвивающегося анализа траекторий. Он преобразует завершенные траектории в навыки, которые затем используют для оптимизации принимаемых решений во время обучения с подкреплением (RL). Это позволяет улучшать взаимодействие агента с окружающей средой, эффективно обучая его навыкам через анализ прошедших эпизодов. Эксперименты показывают, что SEED повышает производительность и эффективность выборок, что делает его полезным для сложных задач."
-                },
-                "en": {
-                    "title": "Empowering Language Models with Self-Evolving Skills",
-                    "desc": "This paper introduces SEED, a framework that enhances reinforcement learning for large language models by converting completed interactions into useful skills. It addresses the challenge of sparse rewards in traditional RL by distilling insights from past experiences into the policy model. SEED fine-tunes the policy to generate natural-language skills that help in decision-making and avoiding failures. The approach improves both the learning process and the model's performance on various tasks by providing more frequent and relevant feedback during training."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.15257",
-            "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-            "url": "https://huggingface.co/papers/2607.15257",
-            "abstract": "Abstract  Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting search budgets and ultimately compromising the quality and completeness of the final output. We introduce SearchOS, a system-level multi-agent framework that turns fragile, implicit search progress into explicit, persistent, and shared state. First, we formulate open-domain information seeking as relational schema completion with grounded citations, where agents discover entities, populate attributes across linked tables, and anchor each value to source evidence. Then we design Search-Oriented Context Management (SOCM), which externalizes the evolving state into Frontier Task, an Evidence Graph, a Coverage Map, and Failure Memory. Built on SOCM, SearchOS applies a pipeline-parallel scheduling mechanism that overlaps the execution of sub-agents and continuously refills freed slots with tasks targeting unresolved coverage gaps to improve utilization and throughput. To schedule and control the execution of search agents, SearchOS introduces a Search Tool Middleware Harness that intercepts model and tool interactions to record grounded evidence and react to stalls or budget exhaustion, and provides a reusable hierarchical skill system comprising strategy and access skills to augment the agents' search process and avoid repeating failed search patterns across runs. On WideSearch and GISA, SearchOS leads all metrics among the evaluated single- and multi-agent baselines, paving the way toward robust information-seeking collaboration.",
-            "score": 41,
-            "issue_id": 2837,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "b1fd761244cc76a9",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yuyao Zhang",
-                "Junjie Gao",
-                "Zhengxian Wu",
-                "Jiaming Fan",
-                "Jin Zhang",
-                "Shihan Ma",
-                "Yao Yao",
-                "Weiran Qi",
-                "Chuyan Jin",
-                "Guiyu Ma",
-                "Xingzhong Xu",
-                "Kai Yang",
-                "Ji-Rong Wen",
-                "Zhicheng Dou"
-            ],
-            "affiliations": [
-                "Ant Group",
-                "Gaoling School of Artificial Intelligence, Renmin University of China"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.15257.jpg",
-            "data": {
-                "categories": [
-                    "#memory",
-                    "#agent_memory",
-                    "#tool_use",
-                    "#retrieval",
-                    "#agents"
-                ],
-                "emoji": "🔍",
-                "ru": {
-                    "title": "Улучшение поиска информации с помощью SearchOS",
-                    "desc": "В этой статье представлена система SearchOS, которая улучшает взаимодействие многоагентных моделей для поиска информации в Интернете. Она решает проблему повторяющихся попыток поиска, превращая неявный прогресс в явное состояние, которое можно совместно использовать. Система использует управление контекстом, чтобы отслеживать задачи и сохранять результаты, а также включает в себя механизмы, минимизирующие затраты на повторяющиеся поисковые операции. В конечном итоге, SearchOS демонстрирует превосходство в эффективности и качестве результатов по сравнению с существующими системами."
-                },
-                "en": {
-                    "title": "Enhancing Information-Seeking with SearchOS",
-                    "desc": "This paper presents SearchOS, a multi-agent framework designed to enhance the efficiency of information-seeking tasks by managing search progress more effectively. It addresses the issue of agents getting stuck in repetitive search loops by externalizing the search state into structured components like an Evidence Graph and Coverage Map. The framework employs a pipeline-parallel scheduling mechanism to optimize the execution of sub-agents and ensure continuous task engagement. By introducing a Search Tool Middleware Harness, SearchOS improves the agents' ability to record evidence and adapt to search challenges, leading to superior performance in information retrieval tasks."
-                }
-            }
-        },
         {
             "id": "https://huggingface.co/papers/2607.14935",
             "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
             "url": "https://huggingface.co/papers/2607.14935",
             "abstract": "Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video types, making them effective only in specific domains. High computational demands further restrict their efficiency and scalability. Moreover, most models are only partially open, with key components such as training code, strategy, or datasets unavailable, which hinders reproducibility and slows community-driven development. To address these issues, we introduce VideoChat3, a fully open, efficient, and generalist video-centric MLLM. VideoChat3 advances video understanding through two complementary designs. For efficiency, we introduce Inflated 3D Vision Transformer (I3D-ViT) and Adaptive Frame Resolution for Streaming Video Perception, which enables efficient spatiotemporal representation and reduces the cost of processing video inputs during training and inference. For effectiveness, we develop a scalable video data synthesis pipeline that curates three diverse, high-quality training datasets: VideoChat3-Academic2M, VideoChat3-LV116K, and VideoChat3-OL617K, covering general, long-form, and streaming video scenarios, improving the model's generalization across domains. By integrating these designs, VideoChat3 achieves a rare balance of broad generalization and computational efficiency. Experiments across general, long-form, and streaming benchmarks demonstrate that VideoChat3 surpasses prior open-source models with equal or larger parameter counts with only 4B parameters and higher efficiency.",
-            "score": 41,
+            "score": 68,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -194,6 +80,164 @@
                 "en": {
                     "title": "VideoChat3: Efficient and Generalist Video Understanding",
                     "desc": "This paper presents VideoChat3, a fully open and efficient video-centric machine learning model designed to improve video understanding. It addresses limitations of existing models, such as poor generalization across video types and high computational demands. VideoChat3 incorporates an Inflated 3D Vision Transformer and Adaptive Frame Resolution to enhance efficiency, while a scalable data synthesis pipeline provides diverse training datasets. The model demonstrates superior performance in various video scenarios with only 4 billion parameters, achieving a balance between generalization and computational efficiency."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.14777",
+            "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
+            "url": "https://huggingface.co/papers/2607.14777",
+            "abstract": "Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards offer limited guidance on intermediate decisions, leaving a supervision gap between episode-level outcomes and token-level policy learning. We propose SEED (SElf-Evolving On-Policy Distillation), a self-evolving framework that converts completed on-policy trajectories into training-time hindsight skills and distills their behavioral effect back into the policy model. SEED first fine-tunes the policy to analyze completed trajectories and generate natural-language skills that capture reusable workflows, decisive observations, or failure-avoidance rules. During RL, the current policy both collects trajectories and serves as the analyzer that extracts hindsight skills from them. Policy updates therefore improve subsequent decision making and skill analysis together, allowing hindsight supervision to evolve with the policy. SEED then re-scores the sampled actions under ordinary and skill-augmented contexts, converting the skill-induced probability shift into a dense token-level on-policy distillation signal. This signal is jointly optimized with outcome-based RL, keeping the auxiliary supervision aligned with the current trajectory distribution. Extensive experiments on text-based and vision-based agentic tasks show that SEED consistently improves performance and sample efficiency, exhibiting robust generalization to unseen scenarios. Our code is available at https://github.com/jinyangwu/SEED.",
+            "score": 54,
+            "issue_id": 2836,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "30b0dd72d53bf074",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Jinyang Wu",
+                "Shuo Yang",
+                "Zhengxi Lu",
+                "Fan Zhang",
+                "Yuhao Shen",
+                "Lang Feng",
+                "Haoran Luo",
+                "Zheng Lian",
+                "Shuai Zhang",
+                "Zhengqi Wen",
+                "Jianhua Tao"
+            ],
+            "affiliations": [
+                "Nanyang Technological University",
+                "The Chinese University of Hong Kong",
+                "Tongji University",
+                "Tsinghua University",
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14777.jpg",
+            "data": {
+                "categories": [
+                    "#rlhf",
+                    "#training",
+                    "#agents",
+                    "#rl",
+                    "#tool_use",
+                    "#agent_memory",
+                    "#optimization"
+                ],
+                "emoji": "🌱",
+                "ru": {
+                    "title": "SEED: Эффективное саморазвивающееся обучение",
+                    "desc": "В данной статье рассматривается метод SEED (SElf-Evolving On-Policy Distillation), который улучшает обучение ИИ с помощью саморазвивающегося анализа траекторий. Он преобразует завершенные траектории в навыки, которые затем используют для оптимизации принимаемых решений во время обучения с подкреплением (RL). Это позволяет улучшать взаимодействие агента с окружающей средой, эффективно обучая его навыкам через анализ прошедших эпизодов. Эксперименты показывают, что SEED повышает производительность и эффективность выборок, что делает его полезным для сложных задач."
+                },
+                "en": {
+                    "title": "Empowering Language Models with Self-Evolving Skills",
+                    "desc": "This paper introduces SEED, a framework that enhances reinforcement learning for large language models by converting completed interactions into useful skills. It addresses the challenge of sparse rewards in traditional RL by distilling insights from past experiences into the policy model. SEED fine-tunes the policy to generate natural-language skills that help in decision-making and avoiding failures. The approach improves both the learning process and the model's performance on various tasks by providing more frequent and relevant feedback during training."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.15257",
+            "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+            "url": "https://huggingface.co/papers/2607.15257",
+            "abstract": "Abstract  Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting search budgets and ultimately compromising the quality and completeness of the final output. We introduce SearchOS, a system-level multi-agent framework that turns fragile, implicit search progress into explicit, persistent, and shared state. First, we formulate open-domain information seeking as relational schema completion with grounded citations, where agents discover entities, populate attributes across linked tables, and anchor each value to source evidence. Then we design Search-Oriented Context Management (SOCM), which externalizes the evolving state into Frontier Task, an Evidence Graph, a Coverage Map, and Failure Memory. Built on SOCM, SearchOS applies a pipeline-parallel scheduling mechanism that overlaps the execution of sub-agents and continuously refills freed slots with tasks targeting unresolved coverage gaps to improve utilization and throughput. To schedule and control the execution of search agents, SearchOS introduces a Search Tool Middleware Harness that intercepts model and tool interactions to record grounded evidence and react to stalls or budget exhaustion, and provides a reusable hierarchical skill system comprising strategy and access skills to augment the agents' search process and avoid repeating failed search patterns across runs. On WideSearch and GISA, SearchOS leads all metrics among the evaluated single- and multi-agent baselines, paving the way toward robust information-seeking collaboration.",
+            "score": 42,
+            "issue_id": 2837,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "b1fd761244cc76a9",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yuyao Zhang",
+                "Junjie Gao",
+                "Zhengxian Wu",
+                "Jiaming Fan",
+                "Jin Zhang",
+                "Shihan Ma",
+                "Yao Yao",
+                "Weiran Qi",
+                "Chuyan Jin",
+                "Guiyu Ma",
+                "Xingzhong Xu",
+                "Kai Yang",
+                "Ji-Rong Wen",
+                "Zhicheng Dou"
+            ],
+            "affiliations": [
+                "Ant Group",
+                "Gaoling School of Artificial Intelligence, Renmin University of China"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.15257.jpg",
+            "data": {
+                "categories": [
+                    "#memory",
+                    "#agent_memory",
+                    "#tool_use",
+                    "#retrieval",
+                    "#agents"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Улучшение поиска информации с помощью SearchOS",
+                    "desc": "В этой статье представлена система SearchOS, которая улучшает взаимодействие многоагентных моделей для поиска информации в Интернете. Она решает проблему повторяющихся попыток поиска, превращая неявный прогресс в явное состояние, которое можно совместно использовать. Система использует управление контекстом, чтобы отслеживать задачи и сохранять результаты, а также включает в себя механизмы, минимизирующие затраты на повторяющиеся поисковые операции. В конечном итоге, SearchOS демонстрирует превосходство в эффективности и качестве результатов по сравнению с существующими системами."
+                },
+                "en": {
+                    "title": "Enhancing Information-Seeking with SearchOS",
+                    "desc": "This paper presents SearchOS, a multi-agent framework designed to enhance the efficiency of information-seeking tasks by managing search progress more effectively. It addresses the issue of agents getting stuck in repetitive search loops by externalizing the search state into structured components like an Evidence Graph and Coverage Map. The framework employs a pipeline-parallel scheduling mechanism to optimize the execution of sub-agents and ensure continuous task engagement. By introducing a Search Tool Middleware Harness, SearchOS improves the agents' ability to record evidence and adapt to search challenges, leading to superior performance in information retrieval tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.15207",
+            "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+            "url": "https://huggingface.co/papers/2607.15207",
+            "abstract": "Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, and safety, as a robot's action can in principle be checked against its imagined future. In this paper, we show that this assumption is fragile. We introduce BadWAM, a unified framework for modeling and evaluating World-Action Drift Attacks: a new class of WAM-specific adversarial attacks that use small visual perturbations to break the alignment between what a WAM imagines and what it executes. BadWAM characterizes this attack surface along two natural criteria: attack strength and stealthiness. When the adversary prioritizes disruption, BadWAM instantiates an action-only adversarial attack, which directly drives the model toward task-failing actions. When the adversary additionally prioritizes stealth, BadWAM instantiates an imagination-preserving adversarial attack, which seeks to induce harmful action shifts while keeping the model's predicted future close to its clean imagination. Together, these two attacks capture a spectrum of WAM-specific failures: from overt action hijacking to stealthier cases where the model appears to imagine a plausible future but executes a desynchronized action. We evaluate BadWAM across different variants of WAMs. Results show that our attacks substantially reduce task success rates under closed-loop execution. For example, our action-only attack reduces the model performance from 96.5% to 43.1% success. The results of our imagination-preserving attack further exposes a WAM-specific vulnerability: moderate future-preserving regularization can maintain strong attack performance while reducing future imagination drift.",
+            "score": 28,
+            "issue_id": 2837,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "794be9bd2a774397",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Qi Li",
+                "Xingyi Yang",
+                "Xinchao Wang"
+            ],
+            "affiliations": [
+                "National University of Singapore",
+                "The Hong Kong Polytechnic University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.15207.jpg",
+            "data": {
+                "categories": [
+                    "#security",
+                    "#alignment",
+                    "#robotics",
+                    "#agents"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Уязвимость моделей мировых действий",
+                    "desc": "Модели мировых действий (WAM) становятся основой для управления роботами, связывая генерацию действий с предсказанием будущего. Однако данная связь может быть нарушена с помощью атак, которые мы назвали BadWAM. Эти атаки используют небольшие визуальные искажения, чтобы разорвать соответствие между предсказанием модели и ее действиями. Мы показываем, что такие атаки снижают эффективность управления, и исследуем их влияние на различные варианты WAM."
+                },
+                "en": {
+                    "title": "Unveiling Vulnerabilities in World-Action Models",
+                    "desc": "This paper introduces World-Action Models (WAMs) that link action generation with future predictions, enhancing robustness and safety in robotic control. However, the authors reveal that this connection can be fragile, leading to vulnerabilities. They present BadWAM, a framework for understanding and evaluating World-Action Drift Attacks, which disrupt the alignment between a WAM's predictions and its actions through visual perturbations. The study demonstrates that these attacks can significantly decrease task success rates, highlighting the need for improved defenses against such adversarial threats."
                 }
             }
         },
@@ -269,50 +313,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.15207",
-            "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
-            "url": "https://huggingface.co/papers/2607.15207",
-            "abstract": "Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, and safety, as a robot's action can in principle be checked against its imagined future. In this paper, we show that this assumption is fragile. We introduce BadWAM, a unified framework for modeling and evaluating World-Action Drift Attacks: a new class of WAM-specific adversarial attacks that use small visual perturbations to break the alignment between what a WAM imagines and what it executes. BadWAM characterizes this attack surface along two natural criteria: attack strength and stealthiness. When the adversary prioritizes disruption, BadWAM instantiates an action-only adversarial attack, which directly drives the model toward task-failing actions. When the adversary additionally prioritizes stealth, BadWAM instantiates an imagination-preserving adversarial attack, which seeks to induce harmful action shifts while keeping the model's predicted future close to its clean imagination. Together, these two attacks capture a spectrum of WAM-specific failures: from overt action hijacking to stealthier cases where the model appears to imagine a plausible future but executes a desynchronized action. We evaluate BadWAM across different variants of WAMs. Results show that our attacks substantially reduce task success rates under closed-loop execution. For example, our action-only attack reduces the model performance from 96.5% to 43.1% success. The results of our imagination-preserving attack further exposes a WAM-specific vulnerability: moderate future-preserving regularization can maintain strong attack performance while reducing future imagination drift.",
-            "score": 26,
-            "issue_id": 2837,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "794be9bd2a774397",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Qi Li",
-                "Xingyi Yang",
-                "Xinchao Wang"
-            ],
-            "affiliations": [
-                "National University of Singapore",
-                "The Hong Kong Polytechnic University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.15207.jpg",
-            "data": {
-                "categories": [
-                    "#security",
-                    "#alignment",
-                    "#robotics",
-                    "#agents"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Уязвимость моделей мировых действий",
-                    "desc": "Модели мировых действий (WAM) становятся основой для управления роботами, связывая генерацию действий с предсказанием будущего. Однако данная связь может быть нарушена с помощью атак, которые мы назвали BadWAM. Эти атаки используют небольшие визуальные искажения, чтобы разорвать соответствие между предсказанием модели и ее действиями. Мы показываем, что такие атаки снижают эффективность управления, и исследуем их влияние на различные варианты WAM."
-                },
-                "en": {
-                    "title": "Unveiling Vulnerabilities in World-Action Models",
-                    "desc": "This paper introduces World-Action Models (WAMs) that link action generation with future predictions, enhancing robustness and safety in robotic control. However, the authors reveal that this connection can be fragile, leading to vulnerabilities. They present BadWAM, a framework for understanding and evaluating World-Action Drift Attacks, which disrupt the alignment between a WAM's predictions and its actions through visual perturbations. The study demonstrates that these attacks can significantly decrease task success rates, highlighting the need for improved defenses against such adversarial threats."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.14189",
             "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
             "url": "https://huggingface.co/papers/2607.14189",
@@ -367,6 +367,68 @@
                 "en": {
                     "title": "Advancing Multi-Reference Audio-Video Generation",
                     "desc": "This paper introduces MultiRef-Compass, a benchmark for Multi-reference-to-audio-video (MR2AV) generation, which focuses on creating synchronized audio and video content based on multiple references and textual instructions. Unlike previous benchmarks that primarily address single-reference scenarios, MR2AV requires models to effectively combine and represent multiple entities in a coherent manner. The benchmark includes 350 curated samples and evaluates models on four key dimensions: Basic Quality, Reference Consistency, Audio-Visual Consistency, and Instruction Following. The findings highlight significant areas for improvement in current MR2AV systems, establishing MultiRef-Compass as a crucial resource for advancing research in this field."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.14952",
+            "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+            "url": "https://huggingface.co/papers/2607.14952",
+            "abstract": "Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete.",
+            "score": 20,
+            "issue_id": 2839,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "3cb8bd3aa82740e4",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Changhai Zhou",
+                "Kieran Liu",
+                "Yuhua Zhou",
+                "Qian Qiao",
+                "Jun Gao",
+                "Harry Zhang",
+                "Irvine Lu",
+                "Nolan Ho",
+                "Lucian Li",
+                "Andrew Lei",
+                "Cleon Cheng",
+                "Steven Chiang",
+                "Yihang Zeng",
+                "Di Zhang",
+                "Rio Yang",
+                "Kaijie Chen",
+                "Andrew Chen",
+                "Pony Ma",
+                "Weizhong Zhang",
+                "Cheng Jin"
+            ],
+            "affiliations": [
+                "Fudan University",
+                "MindLab"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14952.jpg",
+            "data": {
+                "categories": [
+                    "#inference",
+                    "#rl",
+                    "#long_context",
+                    "#architecture",
+                    "#optimization"
+                ],
+                "emoji": "🚀",
+                "ru": {
+                    "title": "Оптимизация постобучения RL для миллиона токенов",
+                    "desc": "В данной статье рассматривается проблема разрыва между длиной контекста при выводе и постобучением в RL. Исследуется архитектура LongStraw, которая оптимизирует выполнение с использованием Group Relative Policy Optimization (GRPO) для работы с миллионом токенов. Этот метод уменьшает размер активной графа обучения за счет выполнения более коротких ответов, что позволяет эффективно использовать графический процессор. Эксперименты проводятся на моделях Qwen3.6-27B и GLM-5.2, чтобы продемонстрировать увеличение пропускной способности выполнения."
+                },
+                "en": {
+                    "title": "Bridging the Gap: Efficient Million-Token RL Post-Training",
+                    "desc": "This paper addresses the challenge of using long context lengths in reinforcement learning (RL) post-training, where current systems often fall short. It introduces LongStraw, a new architecture that efficiently manages million-token contexts while staying within GPU memory limits. LongStraw utilizes Group Relative Policy Optimization (GRPO) to optimize the execution of long prompts by minimizing the model's memory footprint during training. The results demonstrate that LongStraw can handle large token prompts effectively, paving the way for improved performance in AI agents that require extensive context for decision-making."
                 }
             }
         },
@@ -471,6 +533,57 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.12800",
+            "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
+            "url": "https://huggingface.co/papers/2607.12800",
+            "abstract": "Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At its core, UniVR features VR-GRPO, a reinforcement learning paradigm with complementary global and step-level rewards. This approach enforces logical coherence and physical consistency throughout the reasoning process without requiring task-specific heuristics or image-text pairs. To train and evaluate UniVR, we construct VR-X, a large-scale benchmark curated from 16 diverse sources spanning long-horizon manipulation, spatial puzzles, and physical reasoning. It is the first comprehensive suite to assess these heterogeneous capabilities under a purely visual protocol. Remarkably, UniVR achieves up to a 25% improvement on VR-X, and its superior visual reasoning also boosts performance on various multimodal understanding benchmarks. These findings underscore the vast potential of reasoning within visual spaces, with all code, data, and models are open-sourced for further research.",
+            "score": 15,
+            "issue_id": 2837,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "0563b75a6a643fed",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhongwei Ren",
+                "Yunchao Wei",
+                "Yao Zhao",
+                "Weibo Gong",
+                "Xiao Liu",
+                "Anran Wang",
+                "Xiangtai Li",
+                "Xiaojie Jin"
+            ],
+            "affiliations": [
+                "Beijing Jiaotong University",
+                "ByteDance"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12800.jpg",
+            "data": {
+                "categories": [
+                    "#open_source",
+                    "#reasoning",
+                    "#multimodal",
+                    "#games",
+                    "#benchmark",
+                    "#rl"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Новый уровень мышления с UniVR",
+                    "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике на основе визуальных данных. UniVR использует метод обучения с подкреплением VR-GRPO, который объединяет глобальные и локальные награды. Это позволяет достигать логической согласованности и физической последовательности в процессе рассуждения без использования специфических эвристик и пар изображений с текстом. Исследование проверяется с помощью нового бенчмарка VR-X, который оценивает разнообразные навыки в визуальной среде."
+                },
+                "en": {
+                    "title": "Unlocking Visual Intelligence with UniVR",
+                    "desc": "The paper presents UniVR, a novel approach to learning complex reasoning and physical dynamics from visual data without relying on additional text or heuristics. It utilizes a reinforcement learning method called VR-GRPO, which combines global and step-level rewards to ensure logical and physical consistency in reasoning. The authors introduce a benchmark called VR-X, which evaluates long-term planning and manipulation tasks purely through visual inputs. UniVR demonstrates significant improvements in visual reasoning capabilities, highlighting the potential of visual-based learning in machine intelligence."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.03065",
             "title": "Spectral Rewiring for Exploration, Purification, and Model Merging",
             "url": "https://huggingface.co/papers/2607.03065",
@@ -518,57 +631,6 @@
                 "en": {
                     "title": "Enhancing Reasoning in Language Models with Subspace-Aligned Rewiring",
                     "desc": "This paper introduces Subspace-Aligned Rewiring (SAR), a method that enhances the reasoning capabilities of large language models after training. SAR focuses on retaining the essential spectral components of the model while eliminating less relevant parts that can hinder performance. By doing so, it preserves over 99% of the model's effectiveness and improves its ability to handle complex tasks like mathematical reasoning and coding. The approach also facilitates better integration of multiple skills and improves cross-domain generalization, making it a significant advancement in post-training model optimization."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.12800",
-            "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
-            "url": "https://huggingface.co/papers/2607.12800",
-            "abstract": "Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At its core, UniVR features VR-GRPO, a reinforcement learning paradigm with complementary global and step-level rewards. This approach enforces logical coherence and physical consistency throughout the reasoning process without requiring task-specific heuristics or image-text pairs. To train and evaluate UniVR, we construct VR-X, a large-scale benchmark curated from 16 diverse sources spanning long-horizon manipulation, spatial puzzles, and physical reasoning. It is the first comprehensive suite to assess these heterogeneous capabilities under a purely visual protocol. Remarkably, UniVR achieves up to a 25% improvement on VR-X, and its superior visual reasoning also boosts performance on various multimodal understanding benchmarks. These findings underscore the vast potential of reasoning within visual spaces, with all code, data, and models are open-sourced for further research.",
-            "score": 13,
-            "issue_id": 2837,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "0563b75a6a643fed",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhongwei Ren",
-                "Yunchao Wei",
-                "Yao Zhao",
-                "Weibo Gong",
-                "Xiao Liu",
-                "Anran Wang",
-                "Xiangtai Li",
-                "Xiaojie Jin"
-            ],
-            "affiliations": [
-                "Beijing Jiaotong University",
-                "ByteDance"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12800.jpg",
-            "data": {
-                "categories": [
-                    "#open_source",
-                    "#reasoning",
-                    "#multimodal",
-                    "#games",
-                    "#benchmark",
-                    "#rl"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Новый уровень мышления с UniVR",
-                    "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике на основе визуальных данных. UniVR использует метод обучения с подкреплением VR-GRPO, который объединяет глобальные и локальные награды. Это позволяет достигать логической согласованности и физической последовательности в процессе рассуждения без использования специфических эвристик и пар изображений с текстом. Исследование проверяется с помощью нового бенчмарка VR-X, который оценивает разнообразные навыки в визуальной среде."
-                },
-                "en": {
-                    "title": "Unlocking Visual Intelligence with UniVR",
-                    "desc": "The paper presents UniVR, a novel approach to learning complex reasoning and physical dynamics from visual data without relying on additional text or heuristics. It utilizes a reinforcement learning method called VR-GRPO, which combines global and step-level rewards to ensure logical and physical consistency in reasoning. The authors introduce a benchmark called VR-X, which evaluates long-term planning and manipulation tasks purely through visual inputs. UniVR demonstrates significant improvements in visual reasoning capabilities, highlighting the potential of visual-based learning in machine intelligence."
                 }
             }
         },
@@ -690,7 +752,7 @@
             "title": "RoboTTT: Context Scaling for Robot Policies",
             "url": "https://huggingface.co/papers/2607.15275",
             "abstract": "Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first time, steady gains in closed-loop performance as pretraining context length scales. At its core, RoboTTT integrates Test-Time Training into robot foundation models such as Vision-Language-Action policies, yielding a sequence model whose recurrent state consists of fast weights, parameters updated by gradient descent during both training and inference, compressing histories into weight space and retrieving contextual information for long-context conditioning. To scale training context length, the recipe combines sequence action forcing with truncated backpropagation through time. On challenging real-robot manipulation tasks, RoboTTT improves overall performance by 87% over the single-step context baseline and fully completes a five-minute, ten-stage assembly task, which no baseline ever does. RoboTTT trained with 8K-timestep context outperforms the same model pretrained with 1K timesteps by 62%, suggesting context length as a new scaling axis for robot foundation models. Videos are available at https://research.nvidia.com/labs/gear/robottt/",
-            "score": 6,
+            "score": 7,
             "issue_id": 2836,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -831,62 +893,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.10463",
-            "title": "GRASP: GRanularity-Aware Search Policy for Agentic RAG",
-            "url": "https://huggingface.co/papers/2607.10463",
-            "abstract": "Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or semantic similarity, and how to control context granularity to prevent irrelevant tokens from interfering with agent reasoning. In this paper, we introduce GRASP, a reinforcement learning (RL) framework for training agents to adaptively coordinate complementary retrieval tools during multi-step reasoning. GRASP provides the agent with semantic search, keyword search, and paragraph-reading actions, enabling it to retrieve sentence-level evidence and expand further context only when needed. We train the policy with a reward that jointly accounts for answer accuracy, grounded reading, complementary search, and turn efficiency. Experiments on multi-hop reasoning benchmarks show that GRASP improves both retrieval recall and downstream question answering performance compared with single-step retrieval, prompting-based agentic RAG, and RL-based retrieval baselines. Qualitative and ablation analyses show that the learned policy develops interpretable skimming and scanning behavior: it uses semantic search for broad exploration, paragraph reading for local verification, and keyword search for entity-specific evidence. These results suggest that learning to coordinate retrieval signals and context granularity is critical for agent's correct reasoning.",
-            "score": 2,
-            "issue_id": 2838,
-            "pub_date": "2026-07-11",
-            "pub_date_card": {
-                "ru": "11 июля",
-                "en": "July 11",
-                "zh": "7月11日"
-            },
-            "hash": "181cc012cafef6c6",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Varun Gandhi",
-                "Jaewook Lee",
-                "Shantanu Todmal",
-                "Franck Dernoncourt",
-                "Ryan Rossi",
-                "Zichao Wang",
-                "Andrew Lan"
-            ],
-            "affiliations": [
-                "Adobe Research",
-                "University of Massachusetts Amherst"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.10463.jpg",
-            "data": {
-                "categories": [
-                    "#rl",
-                    "#benchmark",
-                    "#retrieval",
-                    "#rag",
-                    "#agent_memory",
-                    "#reasoning",
-                    "#agents"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Интеллектуальный поиск для правильного вывода!",
-                    "desc": "Статья описывает метод GRASP, который улучшает агентный подход к поиску и генерации ответов с помощью обучения с подкреплением. Он позволяет языковым моделям эффективно решать, когда и как использовать разные инструменты поиска для получения релевантной информации. Благодаря адаптивной координации действий, таких как семантический поиск и чтение параграфов, модель может собирать необходимые данные только в нужный момент. Эксперименты показывают, что GRASP значительно повышает точность ответов и качество поиска информации по сравнению с традиционными методами."
-                },
-                "en": {
-                    "title": "Enhancing RAG with Adaptive Retrieval Coordination",
-                    "desc": "This paper presents GRASP, a reinforcement learning framework that enhances retrieval-augmented generation (RAG) by enabling language models to reason and retrieve information iteratively. It addresses challenges in deciding when to retrieve information and how to balance lexical and semantic search methods. GRASP allows agents to use different retrieval actions, such as semantic search and paragraph reading, to gather relevant evidence effectively. The results show that GRASP improves retrieval accuracy and question answering performance by coordinating retrieval strategies and managing context granularity."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.15273",
             "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
             "url": "https://huggingface.co/papers/2607.15273",
             "abstract": "Abstract  MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific objectives. In particular, DiffusionNFT offers an efficient forward-process RL framework that does not require reverse-process trajectories or likelihood estimation. However, applying such RL methods to MeanFlow remains underexplored. DiffusionNFT optimizes instantaneous velocities, whereas MeanFlow samples with average velocities. To bridge this gap, we introduce MeanFlowNFT. Inspired by the MeanFlow identity, which bridges average and instantaneous velocities, we construct an induced instantaneous-velocity predictor. We apply the DiffusionNFT objective to this predictor, making reward optimization well-defined for MeanFlow. Sampling remains based on the average velocity, preserving MeanFlow's fast few-step generation. We further prove that MeanFlowNFT inherits DiffusionNFT's strict policy-improvement guarantee. Experiments on image and video generation show that MeanFlowNFT consistently improves baselines. Moreover, it outperforms prior state-of-the-art RL-tuned few-step generators on most metrics (6 of 8 on SD3.5-M), and can even surpass multi-step RL-tuned diffusion while using only a few sampling steps. For instance, on Wan 2.1, 4-step MeanFlowNFT reaches a VBench score of 84.33, surpassing 50-step LongCat-Video RL (82.57).",
-            "score": 1,
+            "score": 2,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -934,7 +945,7 @@
             "title": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
             "url": "https://huggingface.co/papers/2607.14660",
             "abstract": "Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assistance still remains largely underexplored. To fill this gap, we introduce VIABench, a comprehensive video benchmark specifically designed to evaluate MLLMs in Visually Impaired Assistance scenarios using first-person videos recorded or shared by VIIs themselves. VIABench defines three core tasks, each targeting a distinct requirement in visual assistance. Proactive Reminder: Assesses the model's ability to interpret ongoing video content while proactively anticipating and verbally describing upcoming navigation-critical events; Visual Question Answering (VQA): Evaluates the model's capacity to answer user-posed questions about the environment or objects within the video; Vision-Guided Interaction: Tests context-aware reasoning to accomplish intentional interactions between user and environment. To ensure a robust and fair evaluation, we propose a rigorous benchmarking pipeline that supports both online (real-time) and offline settings. Our experiments demonstrate that current MLLMs still struggle to deliver comprehensive support for VIIs, especially in the Proactive Reminder task, which demands accurate anticipation and real-time responsiveness. We hope VIABench will drive future research toward developing customized MLLMs for real-world assistance, ultimately improving navigation and interaction experiences for visually impaired individuals. Code and data will be released at https://github.com/MCG-NJU/VIABench.",
-            "score": 1,
+            "score": 2,
             "issue_id": 2838,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -978,6 +989,57 @@
                 "en": {
                     "title": "Enhancing Assistance for the Visually Impaired with VIABench",
                     "desc": "This paper addresses the challenges faced by visually impaired individuals (VIIs) in accessing visual information. It introduces VIABench, a video benchmark designed to evaluate Multimodal Large Language Models (MLLMs) in assisting VIIs using first-person videos. The benchmark includes three tasks: Proactive Reminder, Visual Question Answering (VQA), and Vision-Guided Interaction, each targeting specific needs for visual assistance. The findings reveal that current MLLMs struggle with providing effective support, particularly in anticipating navigation-critical events, highlighting the need for further research in this area."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.10463",
+            "title": "GRASP: GRanularity-Aware Search Policy for Agentic RAG",
+            "url": "https://huggingface.co/papers/2607.10463",
+            "abstract": "Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or semantic similarity, and how to control context granularity to prevent irrelevant tokens from interfering with agent reasoning. In this paper, we introduce GRASP, a reinforcement learning (RL) framework for training agents to adaptively coordinate complementary retrieval tools during multi-step reasoning. GRASP provides the agent with semantic search, keyword search, and paragraph-reading actions, enabling it to retrieve sentence-level evidence and expand further context only when needed. We train the policy with a reward that jointly accounts for answer accuracy, grounded reading, complementary search, and turn efficiency. Experiments on multi-hop reasoning benchmarks show that GRASP improves both retrieval recall and downstream question answering performance compared with single-step retrieval, prompting-based agentic RAG, and RL-based retrieval baselines. Qualitative and ablation analyses show that the learned policy develops interpretable skimming and scanning behavior: it uses semantic search for broad exploration, paragraph reading for local verification, and keyword search for entity-specific evidence. These results suggest that learning to coordinate retrieval signals and context granularity is critical for agent's correct reasoning.",
+            "score": 2,
+            "issue_id": 2838,
+            "pub_date": "2026-07-11",
+            "pub_date_card": {
+                "ru": "11 июля",
+                "en": "July 11",
+                "zh": "7月11日"
+            },
+            "hash": "181cc012cafef6c6",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Varun Gandhi",
+                "Jaewook Lee",
+                "Shantanu Todmal",
+                "Franck Dernoncourt",
+                "Ryan Rossi",
+                "Zichao Wang",
+                "Andrew Lan"
+            ],
+            "affiliations": [
+                "Adobe Research",
+                "University of Massachusetts Amherst"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.10463.jpg",
+            "data": {
+                "categories": [
+                    "#rl",
+                    "#benchmark",
+                    "#retrieval",
+                    "#rag",
+                    "#agent_memory",
+                    "#reasoning",
+                    "#agents"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Интеллектуальный поиск для правильного вывода!",
+                    "desc": "Статья описывает метод GRASP, который улучшает агентный подход к поиску и генерации ответов с помощью обучения с подкреплением. Он позволяет языковым моделям эффективно решать, когда и как использовать разные инструменты поиска для получения релевантной информации. Благодаря адаптивной координации действий, таких как семантический поиск и чтение параграфов, модель может собирать необходимые данные только в нужный момент. Эксперименты показывают, что GRASP значительно повышает точность ответов и качество поиска информации по сравнению с традиционными методами."
+                },
+                "en": {
+                    "title": "Enhancing RAG with Adaptive Retrieval Coordination",
+                    "desc": "This paper presents GRASP, a reinforcement learning framework that enhances retrieval-augmented generation (RAG) by enabling language models to reason and retrieve information iteratively. It addresses challenges in deciding when to retrieve information and how to balance lexical and semantic search methods. GRASP allows agents to use different retrieval actions, such as semantic search and paragraph reading, to gather relevant evidence effectively. The results show that GRASP improves retrieval accuracy and question answering performance by coordinating retrieval strategies and managing context granularity."
                 }
             }
         },
@@ -1068,6 +1130,56 @@
                     "desc": "This paper presents a method to enhance the performance of a frozen small language model while significantly reducing costs, without altering its weights. The approach involves storing verified knowledge as a byte-exact key-value state, which can be restored into a new inference context. The restoration process ensures that the outputs are identical to those produced by a fresh computation, achieving high accuracy and efficiency. The results demonstrate that this method can dramatically increase the model's capability and extend its usable context without additional memory requirements."
                 }
             }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.10995",
+            "title": "AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling",
+            "url": "https://huggingface.co/papers/2607.10995",
+            "abstract": "Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required for high-quality NVS; (ii) appearance learning is generally easier than geometry recovery. Motivated by these insights, we propose an asymmetric architecture that decouples geometry and appearance modeling. The geometry branch processes coarse-grained tokens with most of the parameters for multi-view reconstruction, while the appearance branch operates on fine-grained tokens to capture details using significantly fewer parameters. The two branches interact through bilateral connections, enabling mutual guidance for their respective tasks. This task-aware asymmetry reduces the computational redundancy and allocates the computation more judiciously, thereby increasing parameter efficiency and enabling smaller models to achieve strong performance. On 32-view 960P inputs, our model matches optimization-based methods while delivering nearly 800x speedup, and surpasses the zero-shot performance of state-of-the-art generalizable models with markedly fewer parameters and reduced training/inference overhead, achieving an overall efficiency improvement.",
+            "score": 1,
+            "issue_id": 2839,
+            "pub_date": "2026-07-13",
+            "pub_date_card": {
+                "ru": "13 июля",
+                "en": "July 13",
+                "zh": "7月13日"
+            },
+            "hash": "59bf2e5fceb8c056",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yingji Zhong",
+                "Dave Zhenyu Chen",
+                "Fuzhao Ou",
+                "Youyu Chen",
+                "Zhihao Li",
+                "Lanqing Hong",
+                "Dan Xu"
+            ],
+            "affiliations": [
+                "CityU",
+                "HKUST",
+                "Huawei Noahs Ark Lab"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.10995.jpg",
+            "data": {
+                "categories": [
+                    "#small_models",
+                    "#training",
+                    "#3d",
+                    "#architecture",
+                    "#optimization"
+                ],
+                "emoji": "⚙️",
+                "ru": {
+                    "title": "Эффективный синтез видов с уменьшением избыточных вычислений",
+                    "desc": "В этой статье рассматриваются новые модели 3D Gaussian Splatting для синтеза новых видов из длинных последовательностей. Проблема избыточных вычислений решается за счет разделения обработки геометрии и внешнего вида. Геометрическая ветвь обрабатывает грубые токены, а ветвь внешнего вида — тонкие токены, что позволяет сократить количество параметров. Это улучшает эффективность модели и ускоряет процесс, обеспечивая высокое качество без необходимости в сложной геометрии."
+                },
+                "en": {
+                    "title": "Efficient 3D View Synthesis through Asymmetric Modeling",
+                    "desc": "This paper presents a new approach to 3D Gaussian Splatting for novel view synthesis (NVS) that reduces redundant computations. It introduces an asymmetric architecture that separates geometry and appearance modeling, allowing for more efficient processing. The geometry branch focuses on coarse tokens for multi-view reconstruction, while the appearance branch captures finer details with fewer parameters. This design leads to significant speed improvements and better performance with smaller models, achieving a nearly 800x speedup compared to traditional methods."
+                }
+            }
         }
     ],
     "link_prev": "2026-07-16.html",
@@ -1088,19 +1200,19 @@
         "#data": 2,
         "#benchmark": 9,
         "#agents": 6,
-        "#rl": 5,
+        "#rl": 6,
         "#rlhf": 2,
         "#rag": 1,
         "#plp": 0,
-        "#inference": 3,
-        "#3d": 0,
+        "#inference": 4,
+        "#3d": 1,
         "#audio": 2,
         "#multimodal": 6,
         "#math": 1,
         "#multilingual": 1,
-        "#architecture": 2,
+        "#architecture": 4,
         "#healthcare": 1,
-        "#training": 8,
+        "#training": 9,
         "#robotics": 2,
         "#agi": 1,
         "#games": 5,
@@ -1110,18 +1222,18 @@
         "#graphs": 0,
         "#ethics": 1,
         "#security": 1,
-        "#optimization": 8,
+        "#optimization": 10,
         "#survey": 2,
         "#diffusion": 3,
         "#alignment": 1,
         "#story_generation": 0,
         "#hallucinations": 1,
-        "#long_context": 2,
+        "#long_context": 3,
         "#synthetic": 0,
         "#machine_translation": 0,
         "#leakage": 0,
         "#open_source": 3,
-        "#small_models": 1,
+        "#small_models": 2,
         "#science": 0,
         "#low_resource": 0,
         "#memory": 2,

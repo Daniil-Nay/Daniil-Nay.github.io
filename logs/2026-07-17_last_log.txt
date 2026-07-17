@@ -1,224 +1,221 @@
-[17.07.2026 05:47] Read previous papers.
-[17.07.2026 05:47] Generating top page (month).
-[17.07.2026 05:47] Writing top page (month).
-[17.07.2026 08:08] Read previous papers.
-[17.07.2026 08:08] Get feed.
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14777
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14777
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15257
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15257
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14935
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14935
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14202
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14202
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15207
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15207
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14189
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14189
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14076
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14076
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13188
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13188
-[17.07.2026 08:08] Extract page data from URL. URL: https://huggingface.co/papers/2607.03065
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12800
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12800
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13399
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13399
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15038
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15038
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15275
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15275
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14749
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14749
-[17.07.2026 08:08] Extract page data from URL. URL: https://huggingface.co/papers/2607.15277
-[17.07.2026 08:08] Extract page data from URL. URL: https://huggingface.co/papers/2607.10463
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15273
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15273
-[17.07.2026 08:08] Extract page data from URL. URL: https://huggingface.co/papers/2607.14660
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13491
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13491
-[17.07.2026 08:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14431
-[17.07.2026 08:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14431
-[17.07.2026 08:08] Updating GitHub stars.
-[17.07.2026 08:08] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[17.07.2026 08:08] No deleted papers detected.
-[17.07.2026 08:08] Downloading and parsing papers (pdf, html). Total: 20.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.14777.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.14777.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.14777.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.15257.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.15257.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.15257.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.14935.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.14935.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.14935.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.14202.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.14202.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.14202.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.15207.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.15207.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.15207.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.14189.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.14189.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.14189.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.14076.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.14076.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.14076.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.13188.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.13188.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.13188.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.03065.
-[17.07.2026 08:08] Downloading paper 2607.03065 from https://arxiv.org/pdf/2607.03065v1...
-[17.07.2026 08:08] Extracting affiliations from text.
-[17.07.2026 08:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:" 6 2 0 2 3 ] . [ 1 5 6 0 3 0 . 7 0 6 2 : r Spectral Rewiring for Exploration, Purification, and Model Merging Zhilong Zhang,1,2,, Hongli Yu1,2,, Huan-ang Gao1,2, Hanlin Wu1,2, Yuxuan Song1,2, Wei-Ying Ma1,2, Ya-Qin Zhang1,2, Hao Zhou,1,2 1SIA-Lab of Tsinghua AIR and ByteDance Seed 2Institute for AI Industry Research (AIR), Tsinghua University Equal Contribution, Corresponding Authors, Project Lead "
-[17.07.2026 08:08] Response: ```python
-["SIA-Lab of Tsinghua AIR and ByteDance Seed", "Institute for AI Industry Research (AIR), Tsinghua University"]
-```
-[17.07.2026 08:08] Deleting PDF ./assets/pdf/2607.03065.pdf.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.12800.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.12800.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.12800.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.13399.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.13399.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.13399.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.15038.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.15038.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.15038.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.15275.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.15275.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.15275.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.14749.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.14749.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.14749.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.15277.
-[17.07.2026 08:08] Downloading paper 2607.15277 from https://arxiv.org/pdf/2607.15277v1...
-[17.07.2026 08:08] Extracting affiliations from text.
-[17.07.2026 08:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models Patrik Wolf1,2,3,4, Thomas Kleine Buening2, Andreas Krause2, Celestine Mendler-Dünner1,3,4 1Max Planck Institute for Intelligent Systems, Tübingen, Germany 2ETH Zürich 3ELLIS Institute, Tübingen 4Tübingen AI Center Abstract In-context learning is commonly interpreted as form of conditional inference, in which the prompt specifies context and the models output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for "
-[17.07.2026 08:08] Response: ```python
-[
-    "Max Planck Institute for Intelligent Systems, Tübingen, Germany",
-    "ETH Zürich",
-    "ELLIS Institute, Tübingen",
-    "Tübingen AI Center"
-]
-```
-[17.07.2026 08:08] Deleting PDF ./assets/pdf/2607.15277.pdf.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.10463.
-[17.07.2026 08:08] Downloading paper 2607.10463 from https://arxiv.org/pdf/2607.10463v1...
-[17.07.2026 08:08] Extracting affiliations from text.
-[17.07.2026 08:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"GRASP: GRanularity-Aware Search Policy for Agentic RAG Varun Gandhi1,*, Jaewook Lee1,* Shantanu Todmal1, Franck Dernoncourt2, Ryan Rossi2, Zichao Wang2, Andrew Lan1, 1University of Massachusetts Amherst, 2Adobe Research *Equal contribution. Correspondence: vgandhi@umass.edu "
-[17.07.2026 08:08] Response: ```python
-["University of Massachusetts Amherst", "Adobe Research"]
-```
-[17.07.2026 08:08] Deleting PDF ./assets/pdf/2607.10463.pdf.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.15273.
-[17.07.2026 08:08] Extra JSON file exists (./assets/json/2607.15273.json), skip PDF parsing.
-[17.07.2026 08:08] Paper image links file exists (./assets/img_data/2607.15273.json), skip HTML parsing.
-[17.07.2026 08:08] Success.
-[17.07.2026 08:08] Downloading and parsing paper https://huggingface.co/papers/2607.14660.
-[17.07.2026 08:08] Downloading paper 2607.14660 from https://arxiv.org/pdf/2607.14660v1...
-[17.07.2026 08:09] Extracting affiliations from text.
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"VIABench: Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance Yunfeng Liu1,* Yuandong Yang1,* Yuqing Tang1 Xiangyu Zeng1,2 Gangshan Wu1 Jiarui Han1 Zhenpeng Huang1 Limin Wang1,2, 1Nanjing University 2Shanghai AI Laboratory "
-[17.07.2026 08:09] Response: ```python
-["Nanjing University", "Shanghai AI Laboratory"]
-```
-[17.07.2026 08:09] Deleting PDF ./assets/pdf/2607.14660.pdf.
-[17.07.2026 08:09] Success.
-[17.07.2026 08:09] Downloading and parsing paper https://huggingface.co/papers/2607.13491.
-[17.07.2026 08:09] Extra JSON file exists (./assets/json/2607.13491.json), skip PDF parsing.
-[17.07.2026 08:09] Paper image links file exists (./assets/img_data/2607.13491.json), skip HTML parsing.
-[17.07.2026 08:09] Success.
-[17.07.2026 08:09] Downloading and parsing paper https://huggingface.co/papers/2607.14431.
-[17.07.2026 08:09] Extra JSON file exists (./assets/json/2607.14431.json), skip PDF parsing.
-[17.07.2026 08:09] Paper image links file exists (./assets/img_data/2607.14431.json), skip HTML parsing.
-[17.07.2026 08:09] Success.
-[17.07.2026 08:09] Enriching papers with extra data.
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 0. Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards of...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 1. Abstract  Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- an...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 2. Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video typ...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 3. Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while m...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 4. Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, an...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 5. Abstract  Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-driven generation, single-reference subject preservation, or isolated audio-video alignment,...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 6. Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user acti...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 7. Abstract  Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to artificial systems. Masked Diffusion Models (MDMs) are ideally suited to this task, yet existi...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 8. Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when co...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 9. Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At i...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 10. Abstract  On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regulations of OPD. We first clarify the role of OPD as an exploration catalyst: it steers the...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 11. Abstract  We present Wan-Streamer v0.3, which reframes our native-streaming interaction model under a single organizing view: a video is a world plus an event stream. The world is the persistent context in which a video unfolds, including the environment, scene, subjects, ambient acoustic conditions...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 12. Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 13. Abstract  Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability remains challenging. To address these needs, we present WanSong, a simple yet powerful appro...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 14. Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic prob...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 15. Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or sema...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 16. Abstract  MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific object...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 17. Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assi...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 18. Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and ...
-[17.07.2026 08:09] ********************************************************************************
-[17.07.2026 08:09] Abstract 19. Abstract  We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposited once as a byte-exact key-value (KV) state artifact and later restored, by graft, into a fresh inference context. The resto...
 [17.07.2026 08:09] Read previous papers.
-[17.07.2026 08:09] Generating reviews via LLM API.
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#rlhf", "#training", "#agents", "#rl", "#tool_use", "#agent_memory", "#optimization"], "emoji": "🌱", "ru": {"title": "SEED: Эффективное саморазвивающееся обучение", "desc": "В данной статье рассматривается метод SEED (SElf-Evolving On-Policy Distillation), который улучшает обучение 
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#memory", "#agent_memory", "#tool_use", "#retrieval", "#agents"], "emoji": "🔍", "ru": {"title": "Улучшение поиска информации с помощью SearchOS", "desc": "В этой статье представлена система SearchOS, которая улучшает взаимодействие многоагентных моделей для поиска информации в Интер
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#transfer_learning", "#open_source", "#dataset", "#training", "#architecture", "#optimization", "#benchmark", "#data"], "emoji": "🎥", "ru": {"title": "Эффективное видео-понимание с VideoChat3", "desc": "В статье представлен VideoChat3 — полностью открытая и эффективная MLLM для пони
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#survey", "#open_source", "#multimodal", "#games", "#benchmark"], "emoji": "🎥", "ru": {"title": "Ключевые кадры для качественной генерации видео", "desc": "Статья представляет новый бенчмарк KeyFrame-Compass для оценки генерации видео на основе ключевых кадров. Этот бенчмарк включае
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#security", "#alignment", "#robotics", "#agents"], "emoji": "🤖", "ru": {"title": "Уязвимость моделей мировых действий", "desc": "Модели мировых действий (WAM) становятся основой для управления роботами, связывая генерацию действий с предсказанием будущего. Однако данная связь может 
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#survey", "#reasoning", "#multimodal", "#benchmark", "#interpretability"], "emoji": "🎥", "ru": {"title": "Новый эталон для генерации многоссылочного контента", "desc": "Генерация многоссылочного видеоаудио (MR2AV) направлена на создание согласованного контента с учетом нескольких ис
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#dataset", "#data", "#games", "#agents"], "emoji": "🎮", "ru": {"title": "Создание интерактивных игровых миров", "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и иск
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#diffusion", "#dataset", "#multimodal", "#games", "#benchmark"], "emoji": "🧠", "ru": {"title": "Объединение понимания и генерации в ИИ", "desc": "В статье рассматривается, как искусственные системы могут объединять понимание и генерацию, аналогично тому, как это делает человек. Пред
-[17.07.2026 08:09] Querying the API.
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[17.07.2026 08:09] Generating top page (month).
+[17.07.2026 08:09] Writing top page (month).
+[17.07.2026 10:46] Read previous papers.
+[17.07.2026 10:46] Get feed.
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14935
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14935
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14777
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14777
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15257
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15257
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15207
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15207
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14202
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14202
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14189
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14189
+[17.07.2026 10:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.14952
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14076
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14076
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13188
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13188
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12800
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12800
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03065
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03065
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13399
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13399
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15038
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15038
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15275
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15275
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14749
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14749
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15277
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15277
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15273
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15273
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14660
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14660
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10463
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10463
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13491
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13491
+[17.07.2026 10:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14431
+[17.07.2026 10:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14431
+[17.07.2026 10:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.10995
+[17.07.2026 10:46] Updating GitHub stars.
+[17.07.2026 10:46] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[17.07.2026 10:46] No deleted papers detected.
+[17.07.2026 10:46] Downloading and parsing papers (pdf, html). Total: 22.
+[17.07.2026 10:46] Downloading and parsing paper https://huggingface.co/papers/2607.14935.
+[17.07.2026 10:46] Extra JSON file exists (./assets/json/2607.14935.json), skip PDF parsing.
+[17.07.2026 10:46] Paper image links file exists (./assets/img_data/2607.14935.json), skip HTML parsing.
+[17.07.2026 10:46] Success.
+[17.07.2026 10:46] Downloading and parsing paper https://huggingface.co/papers/2607.14777.
+[17.07.2026 10:46] Extra JSON file exists (./assets/json/2607.14777.json), skip PDF parsing.
+[17.07.2026 10:46] Paper image links file exists (./assets/img_data/2607.14777.json), skip HTML parsing.
+[17.07.2026 10:46] Success.
+[17.07.2026 10:46] Downloading and parsing paper https://huggingface.co/papers/2607.15257.
+[17.07.2026 10:46] Extra JSON file exists (./assets/json/2607.15257.json), skip PDF parsing.
+[17.07.2026 10:46] Paper image links file exists (./assets/img_data/2607.15257.json), skip HTML parsing.
+[17.07.2026 10:46] Success.
+[17.07.2026 10:46] Downloading and parsing paper https://huggingface.co/papers/2607.15207.
+[17.07.2026 10:46] Extra JSON file exists (./assets/json/2607.15207.json), skip PDF parsing.
+[17.07.2026 10:46] Paper image links file exists (./assets/img_data/2607.15207.json), skip HTML parsing.
+[17.07.2026 10:46] Success.
+[17.07.2026 10:46] Downloading and parsing paper https://huggingface.co/papers/2607.14202.
+[17.07.2026 10:46] Extra JSON file exists (./assets/json/2607.14202.json), skip PDF parsing.
+[17.07.2026 10:46] Paper image links file exists (./assets/img_data/2607.14202.json), skip HTML parsing.
+[17.07.2026 10:46] Success.
+[17.07.2026 10:46] Downloading and parsing paper https://huggingface.co/papers/2607.14189.
+[17.07.2026 10:46] Extra JSON file exists (./assets/json/2607.14189.json), skip PDF parsing.
+[17.07.2026 10:46] Paper image links file exists (./assets/img_data/2607.14189.json), skip HTML parsing.
+[17.07.2026 10:46] Success.
+[17.07.2026 10:46] Downloading and parsing paper https://huggingface.co/papers/2607.14952.
+[17.07.2026 10:46] Downloading paper 2607.14952 from https://arxiv.org/pdf/2607.14952v1...
+[17.07.2026 10:47] Extracting affiliations from text.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when consolidating multiple capabilities through multi-domain training or model merging. We show that the reasoning-effective component of these updates is largely concentrated in the base model's spectral space, motivating Subspace-Aligned Rewiring (SAR), a post-hoc editing method that retains this spectral core while removing orthogonal components. SAR therefore preserves reasoning gains and filters residual update directions that suppress performance or amplify cross-domain interference. Across several model families and scales, SAR extracts compact reasoning cores using as little as approximately 0.58% of total parameters: it preserves over 99% of post-training performance and improves high-k exploration in mathematical reasoning, and generalizes to agentic coding by improving six of seven open benchmarks on an in-house model. SAR also purifies mixed-domain training updates by releasing suppressed coding capability while maintaining math reasoning and instruction following. It further enables model merging across experts, yielding cross-domain generalization that surpasses previous merging baselines and even the best single-domain experts. Overall, SAR shows that extracting reasoning-effective updates from parameter geometry can serve as a training-free mechanism to improve reasoning and multi-domain performance.
-[17.07.2026 08:09] Response: ```json
+Text:"LongStraw: Long-Context RL Beyond 2M Tokens under Fixed GPU Budget Changhai Zhou1,2, Kieran Liu1, Yuhua Zhou1, Qian Qiao1, Jun Gao1, Harry Zhang1, Irvine Lu1, Nolan Ho1, Lucian Li1, Andrew Lei1, Cleon Cheng1, Steven Chiang1, Yihang Zeng1, Di Zhang1, Rio Yang1, Kaijie Chen1, Andrew Chen1,, Pony Ma1,, Weizhong Zhang2, Cheng Jin2 1MindLab, 2Fudan University Abstract growing gap has emerged between the context lengths supported at inference time and those used during RL post-training. Inference systems are approaching million-token contexts, whereas post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap matters particularly for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. Unlike inference, training must score and backpropagate through multiple responses conditioned on the same history. Quadratic attention computation and long-lived backward states make GPU memory major bottleneck for extending training context. We present LongStraw, an architecture-aware execution stack for million-token RL post-training under fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). LongStraw evaluates the shared prompt once without automatic differentiation, retains only the model-specific state required by later tokens, and replays short response branches one at time under autograd. This reduces the live training graph from the full prompt and response sequence to single response branch, trading additional replay time for lower GPU memory usage. We implement LongStraw for two substantially different model families: the hybrid recurrent and full-attention Qwen3.6-27B, and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped scoring and response backward for Qwen at 2.1M positions with group sizes of 2 and 8. Increasing the group size from 2 to 8 adds only 0.21 GB of peak allocated memory. se"
+[17.07.2026 10:47] Response: ```python
+["MindLab", "Fudan University"]
+```
+[17.07.2026 10:47] Deleting PDF ./assets/pdf/2607.14952.pdf.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.14076.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.14076.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.14076.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.13188.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.13188.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.13188.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.12800.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.12800.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.12800.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.03065.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.03065.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.03065.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.13399.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.13399.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.13399.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.15038.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.15038.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.15038.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.15275.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.15275.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.15275.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.14749.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.14749.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.14749.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.15277.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.15277.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.15277.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.15273.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.15273.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.15273.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.14660.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.14660.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.14660.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.10463.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.10463.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.10463.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.13491.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.13491.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.13491.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.14431.
+[17.07.2026 10:47] Extra JSON file exists (./assets/json/2607.14431.json), skip PDF parsing.
+[17.07.2026 10:47] Paper image links file exists (./assets/img_data/2607.14431.json), skip HTML parsing.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Downloading and parsing paper https://huggingface.co/papers/2607.10995.
+[17.07.2026 10:47] Downloading paper 2607.10995 from https://arxiv.org/pdf/2607.10995v1...
+[17.07.2026 10:47] Extracting affiliations from text.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling Yingji Zhong1 Dave Zhenyu Chen2 Fuzhao Ou3 Youyu Chen2 Zhihao Li2 Lanqing Hong2 Dan Xu1 2Huawei Noahs Ark Lab 1HKUST 3CityU "
+[17.07.2026 10:47] Response: ```python
+["Huawei Noahs Ark Lab", "HKUST", "CityU"]
+```
+[17.07.2026 10:47] Deleting PDF ./assets/pdf/2607.10995.pdf.
+[17.07.2026 10:47] Success.
+[17.07.2026 10:47] Enriching papers with extra data.
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 0. Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video typ...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 1. Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards of...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 2. Abstract  Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- an...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 3. Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, an...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 4. Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while m...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 5. Abstract  Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-driven generation, single-reference subject preservation, or isolated audio-video alignment,...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 6. Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agen...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 7. Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user acti...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 8. Abstract  Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to artificial systems. Masked Diffusion Models (MDMs) are ideally suited to this task, yet existi...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 9. Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At i...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 10. Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when co...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 11. Abstract  On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regulations of OPD. We first clarify the role of OPD as an exploration catalyst: it steers the...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 12. Abstract  We present Wan-Streamer v0.3, which reframes our native-streaming interaction model under a single organizing view: a video is a world plus an event stream. The world is the persistent context in which a video unfolds, including the environment, scene, subjects, ambient acoustic conditions...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 13. Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 14. Abstract  Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability remains challenging. To address these needs, we present WanSong, a simple yet powerful appro...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 15. Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic prob...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 16. Abstract  MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific object...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 17. Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assi...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 18. Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or sema...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 19. Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and ...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 20. Abstract  We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposited once as a byte-exact key-value (KV) state artifact and later restored, by graft, into a fresh inference context. The resto...
+[17.07.2026 10:47] ********************************************************************************
+[17.07.2026 10:47] Abstract 21. Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required f...
+[17.07.2026 10:47] Read previous papers.
+[17.07.2026 10:47] Generating reviews via LLM API.
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#transfer_learning", "#open_source", "#dataset", "#training", "#architecture", "#optimization", "#benchmark", "#data"], "emoji": "🎥", "ru": {"title": "Эффективное видео-понимание с VideoChat3", "desc": "В статье представлен VideoChat3 — полностью открытая и эффективная MLLM для пони
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#rlhf", "#training", "#agents", "#rl", "#tool_use", "#agent_memory", "#optimization"], "emoji": "🌱", "ru": {"title": "SEED: Эффективное саморазвивающееся обучение", "desc": "В данной статье рассматривается метод SEED (SElf-Evolving On-Policy Distillation), который улучшает обучение 
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#memory", "#agent_memory", "#tool_use", "#retrieval", "#agents"], "emoji": "🔍", "ru": {"title": "Улучшение поиска информации с помощью SearchOS", "desc": "В этой статье представлена система SearchOS, которая улучшает взаимодействие многоагентных моделей для поиска информации в Интер
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#security", "#alignment", "#robotics", "#agents"], "emoji": "🤖", "ru": {"title": "Уязвимость моделей мировых действий", "desc": "Модели мировых действий (WAM) становятся основой для управления роботами, связывая генерацию действий с предсказанием будущего. Однако данная связь может 
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#survey", "#open_source", "#multimodal", "#games", "#benchmark"], "emoji": "🎥", "ru": {"title": "Ключевые кадры для качественной генерации видео", "desc": "Статья представляет новый бенчмарк KeyFrame-Compass для оценки генерации видео на основе ключевых кадров. Этот бенчмарк включае
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#survey", "#reasoning", "#multimodal", "#benchmark", "#interpretability"], "emoji": "🎥", "ru": {"title": "Новый эталон для генерации многоссылочного контента", "desc": "Генерация многоссылочного видеоаудио (MR2AV) направлена на создание согласованного контента с учетом нескольких ис
+[17.07.2026 10:47] Querying the API.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete.
+[17.07.2026 10:47] Response: ```json
 {
-  "desc": "Статья рассматривает методы обучения с подкреплением для больших языковых моделей, выявляя проблемы, связанные с обновлением всех параметров модели. Авторы предлагают метод Subspace-Aligned Rewiring (SAR), который сохраняет эффективность рассуждений, удаляя ортогональные компоненты обновлений. Этот метод позволяет сохранить более 99% производительности после обучения и улучшает производительность в математических рассуждениях. SAR также улучшает многодоменное обучение, позволяя моделям объединяться и демонстрируя лучшие результаты по сравнению с ранее существующими моделями.",
-  "emoji": "🤖",
-  "title": "Эффективное рассуждение с помощью SAR в обучении моделей"
+  "desc": "В данной статье рассматривается проблема разрыва между длиной контекста при выводе и постобучением в RL. Исследуется архитектура LongStraw, которая оптимизирует выполнение с использованием Group Relative Policy Optimization (GRPO) для работы с миллионом токенов. Этот метод уменьшает размер активной графа обучения за счет выполнения более коротких ответов, что позволяет эффективно использовать графический процессор. Эксперименты проводятся на моделях Qwen3.6-27B и GLM-5.2, чтобы продемонстрировать увеличение пропускной способности выполнения.",
+  "emoji": "🚀",
+  "title": "Оптимизация постобучения RL для миллиона токенов"
 }
 ```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -262,12 +259,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when consolidating multiple capabilities through multi-domain training or model merging. We show that the reasoning-effective component of these updates is largely concentrated in the base model's spectral space, motivating Subspace-Aligned Rewiring (SAR), a post-hoc editing method that retains this spectral core while removing orthogonal components. SAR therefore preserves reasoning gains and filters residual update directions that suppress performance or amplify cross-domain interference. Across several model families and scales, SAR extracts compact reasoning cores using as little as approximately 0.58% of total parameters: it preserves over 99% of post-training performance and improves high-k exploration in mathematical reasoning, and generalizes to agentic coding by improving six of seven open benchmarks on an in-house model. SAR also purifies mixed-domain training updates by releasing suppressed coding capability while maintaining math reasoning and instruction following. It further enables model merging across experts, yielding cross-domain generalization that surpasses previous merging baselines and even the best single-domain experts. Overall, SAR shows that extracting reasoning-effective updates from parameter geometry can serve as a training-free mechanism to improve reasoning and multi-domain performance."
+"Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete."
 
-[17.07.2026 08:09] Response: ```python
-['RL', 'TRAINING', 'AGENTS', 'MATH']
+[17.07.2026 10:47] Response: ```python
+["RL", "INFERENCE", "ARCHITECTURE"]
 ```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -310,37 +307,44 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when consolidating multiple capabilities through multi-domain training or model merging. We show that the reasoning-effective component of these updates is largely concentrated in the base model's spectral space, motivating Subspace-Aligned Rewiring (SAR), a post-hoc editing method that retains this spectral core while removing orthogonal components. SAR therefore preserves reasoning gains and filters residual update directions that suppress performance or amplify cross-domain interference. Across several model families and scales, SAR extracts compact reasoning cores using as little as approximately 0.58% of total parameters: it preserves over 99% of post-training performance and improves high-k exploration in mathematical reasoning, and generalizes to agentic coding by improving six of seven open benchmarks on an in-house model. SAR also purifies mixed-domain training updates by releasing suppressed coding capability while maintaining math reasoning and instruction following. It further enables model merging across experts, yielding cross-domain generalization that surpasses previous merging baselines and even the best single-domain experts. Overall, SAR shows that extracting reasoning-effective updates from parameter geometry can serve as a training-free mechanism to improve reasoning and multi-domain performance."
+"Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete."
 
-[17.07.2026 08:09] Response: ```python
-['REASONING', 'OPTIMIZATION']
+[17.07.2026 10:47] Response: ```python
+["LONG_CONTEXT", "OPTIMIZATION"]
 ```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when consolidating multiple capabilities through multi-domain training or model merging. We show that the reasoning-effective component of these updates is largely concentrated in the base model's spectral space, motivating Subspace-Aligned Rewiring (SAR), a post-hoc editing method that retains this spectral core while removing orthogonal components. SAR therefore preserves reasoning gains and filters residual update directions that suppress performance or amplify cross-domain interference. Across several model families and scales, SAR extracts compact reasoning cores using as little as approximately 0.58% of total parameters: it preserves over 99% of post-training performance and improves high-k exploration in mathematical reasoning, and generalizes to agentic coding by improving six of seven open benchmarks on an in-house model. SAR also purifies mixed-domain training updates by releasing suppressed coding capability while maintaining math reasoning and instruction following. It further enables model merging across experts, yielding cross-domain generalization that surpasses previous merging baselines and even the best single-domain experts. Overall, SAR shows that extracting reasoning-effective updates from parameter geometry can serve as a training-free mechanism to improve reasoning and multi-domain performance.
+Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[17.07.2026 08:09] Response: {
-  "desc": "This paper introduces Subspace-Aligned Rewiring (SAR), a method that enhances the reasoning capabilities of large language models after training. SAR focuses on retaining the essential spectral components of the model while eliminating less relevant parts that can hinder performance. By doing so, it preserves over 99% of the model's effectiveness and improves its ability to handle complex tasks like mathematical reasoning and coding. The approach also facilitates better integration of multiple skills and improves cross-domain generalization, making it a significant advancement in post-training model optimization.",
-  "title": "Enhancing Reasoning in Language Models with Subspace-Aligned Rewiring"
+[17.07.2026 10:47] Response: {
+  "desc": "This paper addresses the challenge of using long context lengths in reinforcement learning (RL) post-training, where current systems often fall short. It introduces LongStraw, a new architecture that efficiently manages million-token contexts while staying within GPU memory limits. LongStraw utilizes Group Relative Policy Optimization (GRPO) to optimize the execution of long prompts by minimizing the model's memory footprint during training. The results demonstrate that LongStraw can handle large token prompts effectively, paving the way for improved performance in AI agents that require extensive context for decision-making.",
+  "title": "Bridging the Gap: Efficient Million-Token RL Post-Training"
 }
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#open_source", "#reasoning", "#multimodal", "#games", "#benchmark", "#rl"], "emoji": "🧠", "ru": {"title": "Новый уровень мышления с UniVR", "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике н
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#training", "#optimization"], "emoji": "🔍", "ru": {"title": "Управление качеством сигнала в он-политической дистилляции", "desc": "Статья рассматривает метод он-политической дистилляции (OPD) в процессе дообучения LLM. Исследуются роль OPD как катализатор
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#multimodal", "#audio"], "emoji": "🎥", "ru": {"title": "Новый взгляд на взаимодействие через видео и события", "desc": "В статье представлен Wan-Streamer v0.3, который переосмысляет модель взаимодействия в режиме реального времени. Видео рассматривается как мир, полон постоянного ко
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#robotics", "#optimization", "#long_context", "#training"], "emoji": "🤖", "ru": {"title": "Роботы с новыми возможностями: учимся на длительном контексте", "desc": "В данной статье представлен новый подход к обучению роботов под названием Test-Time-Training Robot Policies (RoboTTT). 
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#audio", "#diffusion", "#multilingual", "#training", "#inference"], "emoji": "🎶", "ru": {"title": "Новая эра генерации музыки с WanSong", "desc": "В данной статье представлен новый подход к генерации музыки под названием WanSong. Этот модельный метод основан на диффузии и способен с
-[17.07.2026 08:09] Querying the API.
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#dataset", "#data", "#games", "#agents"], "emoji": "🎮", "ru": {"title": "Создание интерактивных игровых миров", "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и иск
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#diffusion", "#dataset", "#multimodal", "#games", "#benchmark"], "emoji": "🧠", "ru": {"title": "Объединение понимания и генерации в ИИ", "desc": "В статье рассматривается, как искусственные системы могут объединять понимание и генерацию, аналогично тому, как это делает человек. Пред
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#open_source", "#reasoning", "#multimodal", "#games", "#benchmark", "#rl"], "emoji": "🧠", "ru": {"title": "Новый уровень мышления с UniVR", "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике н
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#rl", "#optimization", "#training", "#math", "#reasoning", "#agents"], "emoji": "🤖", "ru": {"title": "Эффективное рассуждение с помощью SAR в обучении моделей", "desc": "Статья рассматривает методы обучения с подкреплением для больших языковых моделей, выявляя проблемы, связанные с 
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#training", "#optimization"], "emoji": "🔍", "ru": {"title": "Управление качеством сигнала в он-политической дистилляции", "desc": "Статья рассматривает метод он-политической дистилляции (OPD) в процессе дообучения LLM. Исследуются роль OPD как катализатор
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#multimodal", "#audio"], "emoji": "🎥", "ru": {"title": "Новый взгляд на взаимодействие через видео и события", "desc": "В статье представлен Wan-Streamer v0.3, который переосмысляет модель взаимодействия в режиме реального времени. Видео рассматривается как мир, полон постоянного ко
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#robotics", "#optimization", "#long_context", "#training"], "emoji": "🤖", "ru": {"title": "Роботы с новыми возможностями: учимся на длительном контексте", "desc": "В данной статье представлен новый подход к обучению роботов под названием Test-Time-Training Robot Policies (RoboTTT). 
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#audio", "#diffusion", "#multilingual", "#training", "#inference"], "emoji": "🎶", "ru": {"title": "Новая эра генерации музыки с WanSong", "desc": "В данной статье представлен новый подход к генерации музыки под названием WanSong. Этот модельный метод основан на диффузии и способен с
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#benchmark", "#hallucinations", "#prompting", "#inference"], "emoji": "🔍", "ru": {"title": "Проблема самосогласованности в оценках LLM", "desc": "В этой работе рассматривается концепция ин контекстного обучения, где LLM производит выводы на основе заданного контекста. Исследуется, н
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#agi", "#diffusion", "#rlhf", "#training", "#optimization", "#rl"], "emoji": "🎨", "ru": {"title": "Эффективная генерация с помощью MeanFlowNFT", "desc": "В статье рассматривается метод генерации изображений и видео под названием MeanFlowNFT. Он использует стратегию обучения с подкре
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#benchmark", "#healthcare", "#multimodal", "#dataset", "#ethics", "#games", "#reasoning"], "emoji": "👁️‍🗨️", "ru": {"title": "Помощь людям с нарушениями зрения с помощью MLLM", "desc": "В данной статье представлено исследование, посвященное помощи людям с нарушениями зрения с помощь
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#rl", "#benchmark", "#retrieval", "#rag", "#agent_memory", "#reasoning", "#agents"], "emoji": "🧠", "ru": {"title": "Интеллектуальный поиск для правильного вывода!", "desc": "Статья описывает метод GRASP, который улучшает агентный подход к поиску и генерации ответов с помощью обучени
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#training", "#architecture", "#optimization"], "emoji": "🔄", "ru": {"title": "Улучшение моделей с помощью зацикленных трансформеров", "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформер
+[17.07.2026 10:47] Using data from previous issue: {"categories": ["#small_models", "#compression", "#inference", "#optimization", "#memory", "#long_context"], "emoji": "🧠", "ru": {"title": "Повышение возможностей языковой модели без изменений весов", "desc": "В этой статье описывается метод повышения возможностей малой языковой модели, одновременно
+[17.07.2026 10:47] Querying the API.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition a population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals a pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for evaluating LLMs.
-[17.07.2026 08:09] Response: ```json
-{
-  "desc": "В этой работе рассматривается концепция ин контекстного обучения, где LLM производит выводы на основе заданного контекста. Исследуется, насколько оценки моделей соответствуют принципу самосогласованности, основанному на законе полной вероятности. Мы используем двоичные деревья для разбиения популяции на подпопуляции и анализируем, как модели агрегируют оценочные данные. Результаты показывают, что модели не всегда корректно учитывают информацию о подгруппах, что приводит к нарушениям основных свойств согласованности.",
-  "emoji": "🔍",
-  "title": "Проблема самосогласованности в оценках LLM"
+Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required for high-quality NVS; (ii) appearance learning is generally easier than geometry recovery. Motivated by these insights, we propose an asymmetric architecture that decouples geometry and appearance modeling. The geometry branch processes coarse-grained tokens with most of the parameters for multi-view reconstruction, while the appearance branch operates on fine-grained tokens to capture details using significantly fewer parameters. The two branches interact through bilateral connections, enabling mutual guidance for their respective tasks. This task-aware asymmetry reduces the computational redundancy and allocates the computation more judiciously, thereby increasing parameter efficiency and enabling smaller models to achieve strong performance. On 32-view 960P inputs, our model matches optimization-based methods while delivering nearly 800x speedup, and surpasses the zero-shot performance of state-of-the-art generalizable models with markedly fewer parameters and reduced training/inference overhead, achieving an overall efficiency improvement.
+[17.07.2026 10:47] Response: {
+  "desc": "В этой статье рассматриваются новые модели 3D Gaussian Splatting для синтеза новых видов из длинных последовательностей. Проблема избыточных вычислений решается за счет разделения обработки геометрии и внешнего вида. Геометрическая ветвь обрабатывает грубые токены, а ветвь внешнего вида — тонкие токены, что позволяет сократить количество параметров. Это улучшает эффективность модели и ускоряет процесс, обеспечивая высокое качество без необходимости в сложной геометрии.",
+  "emoji": "⚙️",
+  "title": "Эффективный синтез видов с уменьшением избыточных вычислений"
 }
-```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -384,12 +388,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition a population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals a pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for evaluating LLMs."
+"Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required for high-quality NVS; (ii) appearance learning is generally easier than geometry recovery. Motivated by these insights, we propose an asymmetric architecture that decouples geometry and appearance modeling. The geometry branch processes coarse-grained tokens with most of the parameters for multi-view reconstruction, while the appearance branch operates on fine-grained tokens to capture details using significantly fewer parameters. The two branches interact through bilateral connections, enabling mutual guidance for their respective tasks. This task-aware asymmetry reduces the computational redundancy and allocates the computation more judiciously, thereby increasing parameter efficiency and enabling smaller models to achieve strong performance. On 32-view 960P inputs, our model matches optimization-based methods while delivering nearly 800x speedup, and surpasses the zero-shot performance of state-of-the-art generalizable models with markedly fewer parameters and reduced training/inference overhead, achieving an overall efficiency improvement."
 
-[17.07.2026 08:09] Response: ```python
-["PROMPTING", "INFERENCE", "BENCHMARK"]
+[17.07.2026 10:47] Response: ```python
+['3D', 'ARCHITECTURE', 'SMALL_MODELS', 'TRAINING']
 ```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -432,260 +436,26 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition a population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals a pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for evaluating LLMs."
+"Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required for high-quality NVS; (ii) appearance learning is generally easier than geometry recovery. Motivated by these insights, we propose an asymmetric architecture that decouples geometry and appearance modeling. The geometry branch processes coarse-grained tokens with most of the parameters for multi-view reconstruction, while the appearance branch operates on fine-grained tokens to capture details using significantly fewer parameters. The two branches interact through bilateral connections, enabling mutual guidance for their respective tasks. This task-aware asymmetry reduces the computational redundancy and allocates the computation more judiciously, thereby increasing parameter efficiency and enabling smaller models to achieve strong performance. On 32-view 960P inputs, our model matches optimization-based methods while delivering nearly 800x speedup, and surpasses the zero-shot performance of state-of-the-art generalizable models with markedly fewer parameters and reduced training/inference overhead, achieving an overall efficiency improvement."
 
-[17.07.2026 08:09] Response: ```python
-["PROMPTING", "HALLUCINATIONS"]
+[17.07.2026 10:47] Response: ```python
+["OPTIMIZATION"]
 ```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[17.07.2026 10:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition a population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals a pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for evaluating LLMs.
+Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required for high-quality NVS; (ii) appearance learning is generally easier than geometry recovery. Motivated by these insights, we propose an asymmetric architecture that decouples geometry and appearance modeling. The geometry branch processes coarse-grained tokens with most of the parameters for multi-view reconstruction, while the appearance branch operates on fine-grained tokens to capture details using significantly fewer parameters. The two branches interact through bilateral connections, enabling mutual guidance for their respective tasks. This task-aware asymmetry reduces the computational redundancy and allocates the computation more judiciously, thereby increasing parameter efficiency and enabling smaller models to achieve strong performance. On 32-view 960P inputs, our model matches optimization-based methods while delivering nearly 800x speedup, and surpasses the zero-shot performance of state-of-the-art generalizable models with markedly fewer parameters and reduced training/inference overhead, achieving an overall efficiency improvement.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[17.07.2026 08:09] Response: {
-  "desc": "This paper explores in-context learning in large language models (LLMs) and its relationship with conditional inference. It examines whether LLM outputs align with the law of total probability, which states that conditional distributions should aggregate into overall population estimates. The authors find that LLMs often violate these consistency properties, revealing a phenomenon called the macro fallacy, where finer subpopulation estimates are more accurate than direct population-level estimates. The study suggests that while LLMs have knowledge of subpopulations, they struggle to integrate this knowledge into their overall predictions.",
-  "title": "Unveiling the Macro Fallacy in LLM Estimates"
+[17.07.2026 10:47] Response: {
+  "desc": "This paper presents a new approach to 3D Gaussian Splatting for novel view synthesis (NVS) that reduces redundant computations. It introduces an asymmetric architecture that separates geometry and appearance modeling, allowing for more efficient processing. The geometry branch focuses on coarse tokens for multi-view reconstruction, while the appearance branch captures finer details with fewer parameters. This design leads to significant speed improvements and better performance with smaller models, achieving a nearly 800x speedup compared to traditional methods.",
+  "title": "Efficient 3D View Synthesis through Asymmetric Modeling"
 }
-[17.07.2026 08:09] Querying the API.
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or semantic similarity, and how to control context granularity to prevent irrelevant tokens from interfering with agent reasoning. In this paper, we introduce GRASP, a reinforcement learning (RL) framework for training agents to adaptively coordinate complementary retrieval tools during multi-step reasoning. GRASP provides the agent with semantic search, keyword search, and paragraph-reading actions, enabling it to retrieve sentence-level evidence and expand further context only when needed. We train the policy with a reward that jointly accounts for answer accuracy, grounded reading, complementary search, and turn efficiency. Experiments on multi-hop reasoning benchmarks show that GRASP improves both retrieval recall and downstream question answering performance compared with single-step retrieval, prompting-based agentic RAG, and RL-based retrieval baselines. Qualitative and ablation analyses show that the learned policy develops interpretable skimming and scanning behavior: it uses semantic search for broad exploration, paragraph reading for local verification, and keyword search for entity-specific evidence. These results suggest that learning to coordinate retrieval signals and context granularity is critical for agent's correct reasoning.
-[17.07.2026 08:09] Response: {
-  "desc": "Статья описывает метод GRASP, который улучшает агентный подход к поиску и генерации ответов с помощью обучения с подкреплением. Он позволяет языковым моделям эффективно решать, когда и как использовать разные инструменты поиска для получения релевантной информации. Благодаря адаптивной координации действий, таких как семантический поиск и чтение параграфов, модель может собирать необходимые данные только в нужный момент. Эксперименты показывают, что GRASP значительно повышает точность ответов и качество поиска информации по сравнению с традиционными методами.",
-  "emoji": "🧠",
-  "title": "Интеллектуальный поиск для правильного вывода!"
-}
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or semantic similarity, and how to control context granularity to prevent irrelevant tokens from interfering with agent reasoning. In this paper, we introduce GRASP, a reinforcement learning (RL) framework for training agents to adaptively coordinate complementary retrieval tools during multi-step reasoning. GRASP provides the agent with semantic search, keyword search, and paragraph-reading actions, enabling it to retrieve sentence-level evidence and expand further context only when needed. We train the policy with a reward that jointly accounts for answer accuracy, grounded reading, complementary search, and turn efficiency. Experiments on multi-hop reasoning benchmarks show that GRASP improves both retrieval recall and downstream question answering performance compared with single-step retrieval, prompting-based agentic RAG, and RL-based retrieval baselines. Qualitative and ablation analyses show that the learned policy develops interpretable skimming and scanning behavior: it uses semantic search for broad exploration, paragraph reading for local verification, and keyword search for entity-specific evidence. These results suggest that learning to coordinate retrieval signals and context granularity is critical for agent's correct reasoning."
-
-[17.07.2026 08:09] Response: ```python
-['RAG', 'RL', 'AGENTS', 'RETRIEVAL', 'BENCHMARK']
-```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or semantic similarity, and how to control context granularity to prevent irrelevant tokens from interfering with agent reasoning. In this paper, we introduce GRASP, a reinforcement learning (RL) framework for training agents to adaptively coordinate complementary retrieval tools during multi-step reasoning. GRASP provides the agent with semantic search, keyword search, and paragraph-reading actions, enabling it to retrieve sentence-level evidence and expand further context only when needed. We train the policy with a reward that jointly accounts for answer accuracy, grounded reading, complementary search, and turn efficiency. Experiments on multi-hop reasoning benchmarks show that GRASP improves both retrieval recall and downstream question answering performance compared with single-step retrieval, prompting-based agentic RAG, and RL-based retrieval baselines. Qualitative and ablation analyses show that the learned policy develops interpretable skimming and scanning behavior: it uses semantic search for broad exploration, paragraph reading for local verification, and keyword search for entity-specific evidence. These results suggest that learning to coordinate retrieval signals and context granularity is critical for agent's correct reasoning."
-
-[17.07.2026 08:09] Response: ```python
-['RETRIEVAL', 'REASONING', 'AGENT_MEMORY']
-```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or semantic similarity, and how to control context granularity to prevent irrelevant tokens from interfering with agent reasoning. In this paper, we introduce GRASP, a reinforcement learning (RL) framework for training agents to adaptively coordinate complementary retrieval tools during multi-step reasoning. GRASP provides the agent with semantic search, keyword search, and paragraph-reading actions, enabling it to retrieve sentence-level evidence and expand further context only when needed. We train the policy with a reward that jointly accounts for answer accuracy, grounded reading, complementary search, and turn efficiency. Experiments on multi-hop reasoning benchmarks show that GRASP improves both retrieval recall and downstream question answering performance compared with single-step retrieval, prompting-based agentic RAG, and RL-based retrieval baselines. Qualitative and ablation analyses show that the learned policy develops interpretable skimming and scanning behavior: it uses semantic search for broad exploration, paragraph reading for local verification, and keyword search for entity-specific evidence. These results suggest that learning to coordinate retrieval signals and context granularity is critical for agent's correct reasoning.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[17.07.2026 08:09] Response: {
-  "desc": "This paper presents GRASP, a reinforcement learning framework that enhances retrieval-augmented generation (RAG) by enabling language models to reason and retrieve information iteratively. It addresses challenges in deciding when to retrieve information and how to balance lexical and semantic search methods. GRASP allows agents to use different retrieval actions, such as semantic search and paragraph reading, to gather relevant evidence effectively. The results show that GRASP improves retrieval accuracy and question answering performance by coordinating retrieval strategies and managing context granularity.",
-  "title": "Enhancing RAG with Adaptive Retrieval Coordination"
-}
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#agi", "#diffusion", "#rlhf", "#training", "#optimization", "#rl"], "emoji": "🎨", "ru": {"title": "Эффективная генерация с помощью MeanFlowNFT", "desc": "В статье рассматривается метод генерации изображений и видео под названием MeanFlowNFT. Он использует стратегию обучения с подкре
-[17.07.2026 08:09] Querying the API.
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assistance still remains largely underexplored. To fill this gap, we introduce VIABench, a comprehensive video benchmark specifically designed to evaluate MLLMs in Visually Impaired Assistance scenarios using first-person videos recorded or shared by VIIs themselves. VIABench defines three core tasks, each targeting a distinct requirement in visual assistance. Proactive Reminder: Assesses the model's ability to interpret ongoing video content while proactively anticipating and verbally describing upcoming navigation-critical events; Visual Question Answering (VQA): Evaluates the model's capacity to answer user-posed questions about the environment or objects within the video; Vision-Guided Interaction: Tests context-aware reasoning to accomplish intentional interactions between user and environment. To ensure a robust and fair evaluation, we propose a rigorous benchmarking pipeline that supports both online (real-time) and offline settings. Our experiments demonstrate that current MLLMs still struggle to deliver comprehensive support for VIIs, especially in the Proactive Reminder task, which demands accurate anticipation and real-time responsiveness. We hope VIABench will drive future research toward developing customized MLLMs for real-world assistance, ultimately improving navigation and interaction experiences for visually impaired individuals. Code and data will be released at https://github.com/MCG-NJU/VIABench.
-[17.07.2026 08:09] Response: {
-  "desc": "В данной статье представлено исследование, посвященное помощи людям с нарушениями зрения с помощью мультимодальных больших языковых моделей (MLLM). Авторы вводят новый инструмент под названием VIABench, который оценивает эффективность MLLM в реальных сценариях помощи людям с нарушениями зрения, используя видео, снятые самими пользователями. VIABench определяет три ключевых задачи, которые необходимы для визуальной помощи: проактивные напоминания, ответ на визуальные вопросы и взаимодействие с окружающей средой. Результаты показывают, что текущие MLLM имеют трудности в оказании полноценной поддержки, особенно в задаче проактивных напоминаний, что подчеркивает необходимость дальнейших исследований в этой области.",
-  "emoji": "👁️‍🗨️",
-  "title": "Помощь людям с нарушениями зрения с помощью MLLM"
-}
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assistance still remains largely underexplored. To fill this gap, we introduce VIABench, a comprehensive video benchmark specifically designed to evaluate MLLMs in Visually Impaired Assistance scenarios using first-person videos recorded or shared by VIIs themselves. VIABench defines three core tasks, each targeting a distinct requirement in visual assistance. Proactive Reminder: Assesses the model's ability to interpret ongoing video content while proactively anticipating and verbally describing upcoming navigation-critical events; Visual Question Answering (VQA): Evaluates the model's capacity to answer user-posed questions about the environment or objects within the video; Vision-Guided Interaction: Tests context-aware reasoning to accomplish intentional interactions between user and environment. To ensure a robust and fair evaluation, we propose a rigorous benchmarking pipeline that supports both online (real-time) and offline settings. Our experiments demonstrate that current MLLMs still struggle to deliver comprehensive support for VIIs, especially in the Proactive Reminder task, which demands accurate anticipation and real-time responsiveness. We hope VIABench will drive future research toward developing customized MLLMs for real-world assistance, ultimately improving navigation and interaction experiences for visually impaired individuals. Code and data will be released at https://github.com/MCG-NJU/VIABench."
-
-[17.07.2026 08:09] Response: ```python
-['DATASET', 'BENCHMARK', 'MULTIMODAL', 'HEALTHCARE']
-```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assistance still remains largely underexplored. To fill this gap, we introduce VIABench, a comprehensive video benchmark specifically designed to evaluate MLLMs in Visually Impaired Assistance scenarios using first-person videos recorded or shared by VIIs themselves. VIABench defines three core tasks, each targeting a distinct requirement in visual assistance. Proactive Reminder: Assesses the model's ability to interpret ongoing video content while proactively anticipating and verbally describing upcoming navigation-critical events; Visual Question Answering (VQA): Evaluates the model's capacity to answer user-posed questions about the environment or objects within the video; Vision-Guided Interaction: Tests context-aware reasoning to accomplish intentional interactions between user and environment. To ensure a robust and fair evaluation, we propose a rigorous benchmarking pipeline that supports both online (real-time) and offline settings. Our experiments demonstrate that current MLLMs still struggle to deliver comprehensive support for VIIs, especially in the Proactive Reminder task, which demands accurate anticipation and real-time responsiveness. We hope VIABench will drive future research toward developing customized MLLMs for real-world assistance, ultimately improving navigation and interaction experiences for visually impaired individuals. Code and data will be released at https://github.com/MCG-NJU/VIABench."
-
-[17.07.2026 08:09] Response: ```python
-['GAMES', 'REASONING', 'ETHICS']
-```
-[17.07.2026 08:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assistance still remains largely underexplored. To fill this gap, we introduce VIABench, a comprehensive video benchmark specifically designed to evaluate MLLMs in Visually Impaired Assistance scenarios using first-person videos recorded or shared by VIIs themselves. VIABench defines three core tasks, each targeting a distinct requirement in visual assistance. Proactive Reminder: Assesses the model's ability to interpret ongoing video content while proactively anticipating and verbally describing upcoming navigation-critical events; Visual Question Answering (VQA): Evaluates the model's capacity to answer user-posed questions about the environment or objects within the video; Vision-Guided Interaction: Tests context-aware reasoning to accomplish intentional interactions between user and environment. To ensure a robust and fair evaluation, we propose a rigorous benchmarking pipeline that supports both online (real-time) and offline settings. Our experiments demonstrate that current MLLMs still struggle to deliver comprehensive support for VIIs, especially in the Proactive Reminder task, which demands accurate anticipation and real-time responsiveness. We hope VIABench will drive future research toward developing customized MLLMs for real-world assistance, ultimately improving navigation and interaction experiences for visually impaired individuals. Code and data will be released at https://github.com/MCG-NJU/VIABench.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[17.07.2026 08:09] GitHub Models 429 (rate limit). Ждём 5s, попытка 1/4.
-[17.07.2026 08:09] Response: {
-  "desc": "This paper addresses the challenges faced by visually impaired individuals (VIIs) in accessing visual information. It introduces VIABench, a video benchmark designed to evaluate Multimodal Large Language Models (MLLMs) in assisting VIIs using first-person videos. The benchmark includes three tasks: Proactive Reminder, Visual Question Answering (VQA), and Vision-Guided Interaction, each targeting specific needs for visual assistance. The findings reveal that current MLLMs struggle with providing effective support, particularly in anticipating navigation-critical events, highlighting the need for further research in this area.",
-  "title": "Enhancing Assistance for the Visually Impaired with VIABench"
-}
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#training", "#architecture", "#optimization"], "emoji": "🔄", "ru": {"title": "Улучшение моделей с помощью зацикленных трансформеров", "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформер
-[17.07.2026 08:09] Using data from previous issue: {"categories": ["#small_models", "#compression", "#inference", "#optimization", "#memory", "#long_context"], "emoji": "🧠", "ru": {"title": "Повышение возможностей языковой модели без изменений весов", "desc": "В этой статье описывается метод повышения возможностей малой языковой модели, одновременно
-[17.07.2026 08:09] Renaming data file.
-[17.07.2026 08:09] Renaming previous data. hf_papers.json to ./d/2026-07-17.json
-[17.07.2026 08:09] Saving new data file.
-[17.07.2026 08:09] Generating page.
-[17.07.2026 08:09] Renaming previous page.
-[17.07.2026 08:09] Renaming previous data. index.html to ./d/2026-07-17.html
-[17.07.2026 08:09] Writing result.
-[17.07.2026 08:09] Renaming log file.
-[17.07.2026 08:09] Renaming previous data. log.txt to ./logs/2026-07-17_last_log.txt
+[17.07.2026 10:47] Renaming data file.
+[17.07.2026 10:47] Renaming previous data. hf_papers.json to ./d/2026-07-17.json
+[17.07.2026 10:47] Saving new data file.
+[17.07.2026 10:47] Generating page.
+[17.07.2026 10:47] Renaming previous page.
+[17.07.2026 10:47] Renaming previous data. index.html to ./d/2026-07-17.html
+[17.07.2026 10:47] Writing result.
+[17.07.2026 10:47] Renaming log file.
+[17.07.2026 10:47] Renaming previous data. log.txt to ./logs/2026-07-17_last_log.txt
