@@ -1,246 +1,300 @@
-[17.07.2026 13:25] Read previous papers.
-[17.07.2026 13:25] Generating top page (month).
-[17.07.2026 13:25] Writing top page (month).
 [17.07.2026 16:15] Read previous papers.
-[17.07.2026 16:15] Get feed.
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14935
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14935
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14777
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14777
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15257
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15257
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15207
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15207
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14952
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14952
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14202
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14202
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14189
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14189
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14076
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14076
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13188
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13188
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12800
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12800
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03065
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03065
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15038
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15038
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13399
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13399
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15275
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15275
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14749
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14749
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15273
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15273
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14660
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14660
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13491
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13491
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14431
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14431
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15277
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15277
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10995
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10995
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10463
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10463
-[17.07.2026 16:15] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15058
-[17.07.2026 16:15] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15058
-[17.07.2026 16:15] Extract page data from URL. URL: https://huggingface.co/papers/2607.14106
-[17.07.2026 16:15] Updating GitHub stars.
-[17.07.2026 16:15] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[17.07.2026 16:15] No deleted papers detected.
-[17.07.2026 16:15] Downloading and parsing papers (pdf, html). Total: 24.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14935.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14935.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14935.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14777.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14777.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14777.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.15257.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.15257.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.15257.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.15207.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.15207.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.15207.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14952.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14952.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14952.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14202.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14202.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14202.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14189.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14189.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14189.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14076.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14076.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14076.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.13188.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.13188.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.13188.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.12800.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.12800.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.12800.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.03065.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.03065.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.03065.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.15038.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.15038.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.15038.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.13399.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.13399.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.13399.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.15275.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.15275.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.15275.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14749.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14749.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14749.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.15273.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.15273.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.15273.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14660.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14660.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14660.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.13491.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.13491.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.13491.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14431.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.14431.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.14431.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.15277.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.15277.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.15277.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.10995.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.10995.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.10995.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.10463.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.10463.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.10463.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.15058.
-[17.07.2026 16:15] Extra JSON file exists (./assets/json/2607.15058.json), skip PDF parsing.
-[17.07.2026 16:15] Paper image links file exists (./assets/img_data/2607.15058.json), skip HTML parsing.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Downloading and parsing paper https://huggingface.co/papers/2607.14106.
-[17.07.2026 16:15] Downloading paper 2607.14106 from https://arxiv.org/pdf/2607.14106v1...
-[17.07.2026 16:15] Extracting affiliations from text.
-[17.07.2026 16:15] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[17.07.2026 16:15] Generating top page (month).
+[17.07.2026 16:15] Writing top page (month).
+[17.07.2026 19:06] Read previous papers.
+[17.07.2026 19:06] Get feed.
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14935
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14935
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14777
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14777
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15257
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15257
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15207
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15207
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14952
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14952
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14202
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14202
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14189
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14189
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14076
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14076
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13188
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13188
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12800
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12800
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.03065
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.03065
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13399
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13399
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15038
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15038
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15275
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15275
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14749
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14749
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15273
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15273
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14660
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14660
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13491
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13491
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14431
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14431
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15277
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15277
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10995
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10995
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10463
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10463
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15058
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15058
+[17.07.2026 19:06] Extract page data from URL. URL: https://huggingface.co/papers/2607.14187
+[17.07.2026 19:06] Extract page data from URL. URL: https://huggingface.co/papers/2607.15278
+[17.07.2026 19:06] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14106
+[17.07.2026 19:06] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14106
+[17.07.2026 19:06] Extract page data from URL. URL: https://huggingface.co/papers/2607.14387
+[17.07.2026 19:06] Updating GitHub stars.
+[17.07.2026 19:06] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[17.07.2026 19:06] No deleted papers detected.
+[17.07.2026 19:06] Downloading and parsing papers (pdf, html). Total: 27.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14935.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14935.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14935.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14777.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14777.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14777.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15257.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.15257.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.15257.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15207.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.15207.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.15207.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14952.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14952.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14952.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14202.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14202.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14202.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14189.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14189.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14189.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14076.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14076.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14076.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.13188.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.13188.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.13188.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.12800.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.12800.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.12800.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.03065.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.03065.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.03065.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.13399.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.13399.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.13399.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15038.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.15038.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.15038.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15275.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.15275.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.15275.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14749.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14749.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14749.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15273.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.15273.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.15273.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14660.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14660.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14660.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.13491.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.13491.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.13491.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14431.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14431.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14431.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15277.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.15277.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.15277.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.10995.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.10995.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.10995.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.10463.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.10463.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.10463.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15058.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.15058.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.15058.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14187.
+[17.07.2026 19:06] Downloading paper 2607.14187 from https://arxiv.org/pdf/2607.14187v1...
+[17.07.2026 19:06] Extracting affiliations from text.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Parikshit Bansal UT Austin Sujay Sanghavi UT Austin "
-[17.07.2026 16:15] Response: ```python
-["UT Austin"]
+Text:"RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination Tencent Robotics Team Futian Laboratory Tencent Hy Team https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0 https://github.com/Tencent-Hunyuan/Hy-Embodied-RxBrain-1. "
+[17.07.2026 19:06] Response: ```python
+["Tencent Robotics Team", "Futian Laboratory", "Tencent", "Hy Team"]
 ```
-[17.07.2026 16:15] Deleting PDF ./assets/pdf/2607.14106.pdf.
-[17.07.2026 16:15] Success.
-[17.07.2026 16:15] Enriching papers with extra data.
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 0. Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video typ...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 1. Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards of...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 2. Abstract  Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- an...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 3. Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, an...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 4. Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agen...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 5. Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while m...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 6. Abstract  Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-driven generation, single-reference subject preservation, or isolated audio-video alignment,...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 7. Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user acti...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 8. Abstract  Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to artificial systems. Masked Diffusion Models (MDMs) are ideally suited to this task, yet existi...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 9. Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At i...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 10. Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when co...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 11. Abstract  We present Wan-Streamer v0.3, which reframes our native-streaming interaction model under a single organizing view: a video is a world plus an event stream. The world is the persistent context in which a video unfolds, including the environment, scene, subjects, ambient acoustic conditions...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 12. Abstract  On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regulations of OPD. We first clarify the role of OPD as an exploration catalyst: it steers the...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 13. Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 14. Abstract  Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability remains challenging. To address these needs, we present WanSong, a simple yet powerful appro...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 15. Abstract  MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific object...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 16. Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assi...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 17. Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and ...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 18. Abstract  We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposited once as a byte-exact key-value (KV) state artifact and later restored, by graft, into a fresh inference context. The resto...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 19. Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic prob...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 20. Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required f...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 21. Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or sema...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 22. Abstract  CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero-shot methods use visual foundation models to match image regions to CAD models, yet typic...
-[17.07.2026 16:15] ********************************************************************************
-[17.07.2026 16:15] Abstract 23. Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token time...
-[17.07.2026 16:15] Read previous papers.
-[17.07.2026 16:15] Generating reviews via LLM API.
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#transfer_learning", "#open_source", "#dataset", "#training", "#architecture", "#optimization", "#benchmark", "#data"], "emoji": "🎥", "ru": {"title": "Эффективное видео-понимание с VideoChat3", "desc": "В статье представлен VideoChat3 — полностью открытая и эффективная MLLM для пони
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#rlhf", "#training", "#agents", "#rl", "#tool_use", "#agent_memory", "#optimization"], "emoji": "🌱", "ru": {"title": "SEED: Эффективное саморазвивающееся обучение", "desc": "В данной статье рассматривается метод SEED (SElf-Evolving On-Policy Distillation), который улучшает обучение 
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#memory", "#agent_memory", "#tool_use", "#retrieval", "#agents"], "emoji": "🔍", "ru": {"title": "Улучшение поиска информации с помощью SearchOS", "desc": "В этой статье представлена система SearchOS, которая улучшает взаимодействие многоагентных моделей для поиска информации в Интер
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#security", "#alignment", "#robotics", "#agents"], "emoji": "🤖", "ru": {"title": "Уязвимость моделей мировых действий", "desc": "Модели мировых действий (WAM) становятся основой для управления роботами, связывая генерацию действий с предсказанием будущего. Однако данная связь может 
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#inference", "#rl", "#long_context", "#architecture", "#optimization"], "emoji": "🚀", "ru": {"title": "Оптимизация постобучения RL для миллиона токенов", "desc": "В данной статье рассматривается проблема разрыва между длиной контекста при выводе и постобучением в RL. Исследуется арх
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#survey", "#open_source", "#multimodal", "#games", "#benchmark"], "emoji": "🎥", "ru": {"title": "Ключевые кадры для качественной генерации видео", "desc": "Статья представляет новый бенчмарк KeyFrame-Compass для оценки генерации видео на основе ключевых кадров. Этот бенчмарк включае
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#survey", "#reasoning", "#multimodal", "#benchmark", "#interpretability"], "emoji": "🎥", "ru": {"title": "Новый эталон для генерации многоссылочного контента", "desc": "Генерация многоссылочного видеоаудио (MR2AV) направлена на создание согласованного контента с учетом нескольких ис
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#dataset", "#data", "#games", "#agents"], "emoji": "🎮", "ru": {"title": "Создание интерактивных игровых миров", "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и иск
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#diffusion", "#dataset", "#multimodal", "#games", "#benchmark"], "emoji": "🧠", "ru": {"title": "Объединение понимания и генерации в ИИ", "desc": "В статье рассматривается, как искусственные системы могут объединять понимание и генерацию, аналогично тому, как это делает человек. Пред
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#open_source", "#reasoning", "#multimodal", "#games", "#benchmark", "#rl"], "emoji": "🧠", "ru": {"title": "Новый уровень мышления с UniVR", "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике н
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#rl", "#optimization", "#training", "#math", "#reasoning", "#agents"], "emoji": "🤖", "ru": {"title": "Эффективное рассуждение с помощью SAR в обучении моделей", "desc": "Статья рассматривает методы обучения с подкреплением для больших языковых моделей, выявляя проблемы, связанные с 
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#multimodal", "#audio"], "emoji": "🎥", "ru": {"title": "Новый взгляд на взаимодействие через видео и события", "desc": "В статье представлен Wan-Streamer v0.3, который переосмысляет модель взаимодействия в режиме реального времени. Видео рассматривается как мир, полон постоянного ко
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#training", "#optimization"], "emoji": "🔍", "ru": {"title": "Управление качеством сигнала в он-политической дистилляции", "desc": "Статья рассматривает метод он-политической дистилляции (OPD) в процессе дообучения LLM. Исследуются роль OPD как катализатор
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#robotics", "#optimization", "#long_context", "#training"], "emoji": "🤖", "ru": {"title": "Роботы с новыми возможностями: учимся на длительном контексте", "desc": "В данной статье представлен новый подход к обучению роботов под названием Test-Time-Training Robot Policies (RoboTTT). 
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#audio", "#diffusion", "#multilingual", "#training", "#inference"], "emoji": "🎶", "ru": {"title": "Новая эра генерации музыки с WanSong", "desc": "В данной статье представлен новый подход к генерации музыки под названием WanSong. Этот модельный метод основан на диффузии и способен с
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#agi", "#diffusion", "#rlhf", "#training", "#optimization", "#rl"], "emoji": "🎨", "ru": {"title": "Эффективная генерация с помощью MeanFlowNFT", "desc": "В статье рассматривается метод генерации изображений и видео под названием MeanFlowNFT. Он использует стратегию обучения с подкре
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#benchmark", "#healthcare", "#multimodal", "#dataset", "#ethics", "#games", "#reasoning"], "emoji": "👁️‍🗨️", "ru": {"title": "Помощь людям с нарушениями зрения с помощью MLLM", "desc": "В данной статье представлено исследование, посвященное помощи людям с нарушениями зрения с помощь
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#training", "#architecture", "#optimization"], "emoji": "🔄", "ru": {"title": "Улучшение моделей с помощью зацикленных трансформеров", "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформер
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#small_models", "#compression", "#inference", "#optimization", "#memory", "#long_context"], "emoji": "🧠", "ru": {"title": "Повышение возможностей языковой модели без изменений весов", "desc": "В этой статье описывается метод повышения возможностей малой языковой модели, одновременно
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#benchmark", "#hallucinations", "#prompting", "#inference"], "emoji": "🔍", "ru": {"title": "Проблема самосогласованности в оценках LLM", "desc": "В этой работе рассматривается концепция ин контекстного обучения, где LLM производит выводы на основе заданного контекста. Исследуется, н
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#small_models", "#training", "#3d", "#architecture", "#optimization"], "emoji": "⚙️", "ru": {"title": "Эффективный синтез видов с уменьшением избыточных вычислений", "desc": "В этой статье рассматриваются новые модели 3D Gaussian Splatting для синтеза новых видов из длинных последов
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#rl", "#benchmark", "#retrieval", "#rag", "#agent_memory", "#reasoning", "#agents"], "emoji": "🧠", "ru": {"title": "Интеллектуальный поиск для правильного вывода!", "desc": "Статья описывает метод GRASP, который улучшает агентный подход к поиску и генерации ответов с помощью обучени
-[17.07.2026 16:15] Using data from previous issue: {"categories": ["#open_source", "#3d", "#transfer_learning", "#optimization", "#dataset", "#benchmark"], "emoji": "🖼️", "ru": {"title": "Точное выравнивание CAD с помощью слабого обучения", "desc": "В статье рассматривается метод выравнивания CAD-моделей по изображениям, с помощью которого можно оце
-[17.07.2026 16:15] Querying the API.
-[17.07.2026 16:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[17.07.2026 19:06] Deleting PDF ./assets/pdf/2607.14187.pdf.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.15278.
+[17.07.2026 19:06] Downloading paper 2607.15278 from https://arxiv.org/pdf/2607.15278v1...
+[17.07.2026 19:06] Extracting affiliations from text.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well.
-[17.07.2026 16:15] Response: {
-  "desc": "В данной работе представлен новый диффузионный языковой модель — TTCD, который работает в непрерывном пространстве и детерминированно отображает гауссовский шум в окончательный токен. Модель вводит новую концепцию временных характеристик для токенов, что позволяет некоторым токенам переходить от шума к токену быстрее других. Использование непрерывного моделирования помогает TTCD избежать параллельной выборки нескольких токенов, что улучшает точность при высоких увеличениях скорости. Модель TTCD показывает лучшие результаты в условной генерации по сравнению с дискретными моделями.",
-  "emoji": "⚡",
-  "title": "Диффузионная модель для высокой скорости генерации"
+Text:"Hierarchical Denoising For Multi-Step Visual Reasoning Zezhong Qian1,6, Xiaowei Chi2,6, Chak-Wing Mak1,6, Tianze Zhou3,6, Ruibin Yuan2,5, Yuhan Rui1,6, Hengzhe Sun1, Zhuoqun Wu4, Yuming Li1, Siyuan Qian1, Sirui Han2, Shanghang Zhang1 1State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University 2The Hong Kong University of Science and Technology 3Beihang University 4Fuzhou University 5Multimodal Art Projection 6Muka Robotics "
+[17.07.2026 19:06] Response: ```python
+[
+    "State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University",
+    "The Hong Kong University of Science and Technology",
+    "Beihang University",
+    "Fuzhou University",
+    "Multimodal Art Projection",
+    "Muka Robotics"
+]
+```
+[17.07.2026 19:06] Deleting PDF ./assets/pdf/2607.15278.pdf.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14106.
+[17.07.2026 19:06] Extra JSON file exists (./assets/json/2607.14106.json), skip PDF parsing.
+[17.07.2026 19:06] Paper image links file exists (./assets/img_data/2607.14106.json), skip HTML parsing.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Downloading and parsing paper https://huggingface.co/papers/2607.14387.
+[17.07.2026 19:06] Downloading paper 2607.14387 from https://arxiv.org/pdf/2607.14387v1...
+[17.07.2026 19:06] Extracting affiliations from text.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving Yuan Gao1,, Wenting Miao1,, Mattia Piccinini1, Haoyu Wang1, Qunying Song2, Johannes Betz1 Abstract Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulationbased testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrievalbased full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrievalaugmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/ TUM-AVS/chat2scenic. I. INTRODUCTION Autonomous driving has matured significantly, with companies like Waymo deploying SAE Level 4 robotaxis [1] in urban environments, demonstrating fully-autonomous capabilities within specific Operational Design Domain (ODD). This progress requires developing and validating highly reliable Automate"
+[17.07.2026 19:06] Response: ```python
+[]
+```
+[17.07.2026 19:06] Extracting affiliations from text.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving Yuan Gao1,, Wenting Miao1,, Mattia Piccinini1, Haoyu Wang1, Qunying Song2, Johannes Betz1 Abstract Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulationbased testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrievalbased full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrievalaugmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/ TUM-AVS/chat2scenic. I. INTRODUCTION Autonomous driving has matured significantly, with companies like Waymo deploying SAE Level 4 robotaxis [1] in urban environments, demonstrating fully-autonomous capabilities within specific Operational Design Domain (ODD). This progress requires developing and validating highly reliable Automated Driving System (ADS). Traditional validation approaches depend on real-world testing, such as on-road trials [2]. However, physical testing alone cannot adequately capture the diversity of driving situations and edge cases. To overcome these limitations, researchers and industry have increasingly adopted virtual scenario-based testing, which enables cost-effective simulation of diverse and realistic driving conditions [3]. Recent advances in Large Language Models (LLMs) offer such potential: by leveraging knowledge of Domain Specific Language (DSL) syntax, they can automatically translate natural language scenario descriptions into executable scripts in DSL. Despite this progress, LLM-based generation of diverse and regulation-grounded scenarios remains challenging. As 1 Y. Gao, W. Miao, M. Piccinini, H. Wang and J. Betz are with the Professorship of Autonomous Vehicle Systems, TUM School of Engineering and Design, Technical University of Munich, 85748 Garching, Germany; Munich Institute of Robotics and Machine Intelligence (MIRMI) 2 Q. Song is with University College London, London, United Kingdom Equal contribution. Fig. 1: Comparison of DSL-based scenario generation approaches and Chat2Scenic. While prior methods assemble existing DSL components or directly generate DSL programs, Chat2Scenic iteratively generates DSL blocks that interact with the database to create complex driving scenarios. shown in Fig. 1, existing automated approaches primarily rely on simplified scenario descriptions rather than complex ADS testing regulatory specifications. Moreover, current methods face fundamental trade-offs: retrieval-assemble approaches [4][6] achieve reasonable compilation rates by assembling pre-existing DSL code snippets but lack generalizability to new scenarios, while direct generation [7] [12] offers better flexibility but suffers from low compilation success rates. This motivates us to develop framework that can handle complex ADS testing regulatory descriptions while maintaining both high compilation success and generalizability through iterative component-wise generation. A. Related Work 1) Classical Scenario Generation: Many studies have explored the generation of ADS testing scenarios for scenariobased testing. One impactful survey [13] categorizes generation methods into data-driven, adversarial, and knowledgebased approaches. In more detail, data-driven methods leverage real-world datasets to generate realistic scenarios. Adversarial approaches aim to expose ADS weaknesses by synthesizing rare but high-risk situations through techniques. Knowledge-based methods integrate domain expertise, such as traffic rules, to enhance controllability. Aligned with the ISO/WD PAS 21448 Safety of the Intended FunctionalThis work has been accepted to the IEEE IROS 2026. Copyright may be transferred without notice, after which this version may no longer be accessible. TABLE I: Comparison of LLM-based Scenario Generation with DSL format Paper UI RAG Prompting Techniques Reg. CP CoT ICL RAG-ICL 2023 TARGET [4] 2024 ChatScene [5] 2025 Text2Scenario [6] 2024 LEADE [7] 2024 LeGEND [8] 2024 ScenicNL [9] 2024 Talk2Traffic [10] 2025 Rubavicius [11] 2025 NL2Scenic [12] Ours i e C UI: User Interaction. C: Code. D: Documentation RAG. CP: Contextual Prompting. CoT: Chain of Thought. ICL: In-Context Learning. RAG-ICL: Retrieval-Augmented In-Context Learning. Reg.: Regulatory Test Specifications. - Granularity: (Full DSL), (Component-wise), (Iterative Component-wise). ity (SOTIF) standard, Schutt et al. [14] examine scenario generation across functional, logical, and concrete abstraction levels, covering machine learning-based generation, optimization-driven exploration, scenario extraction from driving data, and manual design. 2) LLM-based Scenario Generation: LLMs have emerged as powerful tools for generating scenarios directly from natural language inputs [15]. Depending on the application, the underlying simulators fall into two categories: vehiclecentric simulators (e.g., CARLA [16]) and traffic-centric simulators (e.g., SUMO [17]) for large-scale traffic generation. For traffic scenario generation, ChatSUMO [18] and OmniTester [19] leveraged LLMs to produce realistic urban traffic simulations from text, showcasing the scalability of language-driven scenario generation. Recent survey [15] shows that LLMs have been used to generate scenarios in CARLA for autonomous driving based on DSL formats like Scenic [5], [9][12] or OpenScenario"
+[17.07.2026 19:06] Response: ```python
+[
+    "Professorship of Autonomous Vehicle Systems, TUM School of Engineering and Design, Technical University of Munich, 85748 Garching, Germany",
+    "Munich Institute of Robotics and Machine Intelligence (MIRMI)",
+    "University College London, London, United Kingdom"
+]
+```
+[17.07.2026 19:06] Deleting PDF ./assets/pdf/2607.14387.pdf.
+[17.07.2026 19:06] Success.
+[17.07.2026 19:06] Enriching papers with extra data.
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 0. Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video typ...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 1. Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards of...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 2. Abstract  Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- an...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 3. Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, an...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 4. Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agen...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 5. Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while m...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 6. Abstract  Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-driven generation, single-reference subject preservation, or isolated audio-video alignment,...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 7. Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user acti...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 8. Abstract  Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to artificial systems. Masked Diffusion Models (MDMs) are ideally suited to this task, yet existi...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 9. Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At i...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 10. Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when co...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 11. Abstract  On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regulations of OPD. We first clarify the role of OPD as an exploration catalyst: it steers the...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 12. Abstract  We present Wan-Streamer v0.3, which reframes our native-streaming interaction model under a single organizing view: a video is a world plus an event stream. The world is the persistent context in which a video unfolds, including the environment, scene, subjects, ambient acoustic conditions...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 13. Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 14. Abstract  Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability remains challenging. To address these needs, we present WanSong, a simple yet powerful appro...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 15. Abstract  MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a powerful way to align diffusion and flow models with human preferences and task-specific object...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 16. Abstract  Visually impaired individuals (VIIs) encounter significant daily challenges due to limited access to visual information. Although Multimodal Large Language Models (MLLMs) have achieved impressive results on general vision and language tasks, their practical utility in real-world blind assi...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 17. Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and ...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 18. Abstract  We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposited once as a byte-exact key-value (KV) state artifact and later restored, by graft, into a fresh inference context. The resto...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 19. Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic prob...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 20. Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required f...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 21. Abstract  Agentic retrieval-augmented generation (RAG) extends static RAG by allowing language models to iteratively reason, generate search queries, retrieve evidence, and predict answers. However, it remains challenging for models to decide when to retrieve, whether to use lexical matching or sema...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 22. Abstract  CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero-shot methods use visual foundation models to match image regions to CAD models, yet typic...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 23. Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 24. Abstract  Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 25. Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token time...
+[17.07.2026 19:06] ********************************************************************************
+[17.07.2026 19:06] Abstract 26. Abstract  Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches f...
+[17.07.2026 19:06] Read previous papers.
+[17.07.2026 19:06] Generating reviews via LLM API.
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#transfer_learning", "#open_source", "#dataset", "#training", "#architecture", "#optimization", "#benchmark", "#data"], "emoji": "🎥", "ru": {"title": "Эффективное видео-понимание с VideoChat3", "desc": "В статье представлен VideoChat3 — полностью открытая и эффективная MLLM для пони
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#rlhf", "#training", "#agents", "#rl", "#tool_use", "#agent_memory", "#optimization"], "emoji": "🌱", "ru": {"title": "SEED: Эффективное саморазвивающееся обучение", "desc": "В данной статье рассматривается метод SEED (SElf-Evolving On-Policy Distillation), который улучшает обучение 
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#memory", "#agent_memory", "#tool_use", "#retrieval", "#agents"], "emoji": "🔍", "ru": {"title": "Улучшение поиска информации с помощью SearchOS", "desc": "В этой статье представлена система SearchOS, которая улучшает взаимодействие многоагентных моделей для поиска информации в Интер
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#security", "#alignment", "#robotics", "#agents"], "emoji": "🤖", "ru": {"title": "Уязвимость моделей мировых действий", "desc": "Модели мировых действий (WAM) становятся основой для управления роботами, связывая генерацию действий с предсказанием будущего. Однако данная связь может 
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#inference", "#rl", "#long_context", "#architecture", "#optimization"], "emoji": "🚀", "ru": {"title": "Оптимизация постобучения RL для миллиона токенов", "desc": "В данной статье рассматривается проблема разрыва между длиной контекста при выводе и постобучением в RL. Исследуется арх
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#survey", "#open_source", "#multimodal", "#games", "#benchmark"], "emoji": "🎥", "ru": {"title": "Ключевые кадры для качественной генерации видео", "desc": "Статья представляет новый бенчмарк KeyFrame-Compass для оценки генерации видео на основе ключевых кадров. Этот бенчмарк включае
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#survey", "#reasoning", "#multimodal", "#benchmark", "#interpretability"], "emoji": "🎥", "ru": {"title": "Новый эталон для генерации многоссылочного контента", "desc": "Генерация многоссылочного видеоаудио (MR2AV) направлена на создание согласованного контента с учетом нескольких ис
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#dataset", "#data", "#games", "#agents"], "emoji": "🎮", "ru": {"title": "Создание интерактивных игровых миров", "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и иск
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#diffusion", "#dataset", "#multimodal", "#games", "#benchmark"], "emoji": "🧠", "ru": {"title": "Объединение понимания и генерации в ИИ", "desc": "В статье рассматривается, как искусственные системы могут объединять понимание и генерацию, аналогично тому, как это делает человек. Пред
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#open_source", "#reasoning", "#multimodal", "#games", "#benchmark", "#rl"], "emoji": "🧠", "ru": {"title": "Новый уровень мышления с UniVR", "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике н
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#rl", "#optimization", "#training", "#math", "#reasoning", "#agents"], "emoji": "🤖", "ru": {"title": "Эффективное рассуждение с помощью SAR в обучении моделей", "desc": "Статья рассматривает методы обучения с подкреплением для больших языковых моделей, выявляя проблемы, связанные с 
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#training", "#optimization"], "emoji": "🔍", "ru": {"title": "Управление качеством сигнала в он-политической дистилляции", "desc": "Статья рассматривает метод он-политической дистилляции (OPD) в процессе дообучения LLM. Исследуются роль OPD как катализатор
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#multimodal", "#audio"], "emoji": "🎥", "ru": {"title": "Новый взгляд на взаимодействие через видео и события", "desc": "В статье представлен Wan-Streamer v0.3, который переосмысляет модель взаимодействия в режиме реального времени. Видео рассматривается как мир, полон постоянного ко
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#robotics", "#optimization", "#long_context", "#training"], "emoji": "🤖", "ru": {"title": "Роботы с новыми возможностями: учимся на длительном контексте", "desc": "В данной статье представлен новый подход к обучению роботов под названием Test-Time-Training Robot Policies (RoboTTT). 
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#audio", "#diffusion", "#multilingual", "#training", "#inference"], "emoji": "🎶", "ru": {"title": "Новая эра генерации музыки с WanSong", "desc": "В данной статье представлен новый подход к генерации музыки под названием WanSong. Этот модельный метод основан на диффузии и способен с
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#agi", "#diffusion", "#rlhf", "#training", "#optimization", "#rl"], "emoji": "🎨", "ru": {"title": "Эффективная генерация с помощью MeanFlowNFT", "desc": "В статье рассматривается метод генерации изображений и видео под названием MeanFlowNFT. Он использует стратегию обучения с подкре
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#benchmark", "#healthcare", "#multimodal", "#dataset", "#ethics", "#games", "#reasoning"], "emoji": "👁️‍🗨️", "ru": {"title": "Помощь людям с нарушениями зрения с помощью MLLM", "desc": "В данной статье представлено исследование, посвященное помощи людям с нарушениями зрения с помощь
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#training", "#architecture", "#optimization"], "emoji": "🔄", "ru": {"title": "Улучшение моделей с помощью зацикленных трансформеров", "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформер
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#small_models", "#compression", "#inference", "#optimization", "#memory", "#long_context"], "emoji": "🧠", "ru": {"title": "Повышение возможностей языковой модели без изменений весов", "desc": "В этой статье описывается метод повышения возможностей малой языковой модели, одновременно
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#benchmark", "#hallucinations", "#prompting", "#inference"], "emoji": "🔍", "ru": {"title": "Проблема самосогласованности в оценках LLM", "desc": "В этой работе рассматривается концепция ин контекстного обучения, где LLM производит выводы на основе заданного контекста. Исследуется, н
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#small_models", "#training", "#3d", "#architecture", "#optimization"], "emoji": "⚙️", "ru": {"title": "Эффективный синтез видов с уменьшением избыточных вычислений", "desc": "В этой статье рассматриваются новые модели 3D Gaussian Splatting для синтеза новых видов из длинных последов
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#rl", "#benchmark", "#retrieval", "#rag", "#agent_memory", "#reasoning", "#agents"], "emoji": "🧠", "ru": {"title": "Интеллектуальный поиск для правильного вывода!", "desc": "Статья описывает метод GRASP, который улучшает агентный подход к поиску и генерации ответов с помощью обучени
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#open_source", "#3d", "#transfer_learning", "#optimization", "#dataset", "#benchmark"], "emoji": "🖼️", "ru": {"title": "Точное выравнивание CAD с помощью слабого обучения", "desc": "В статье рассматривается метод выравнивания CAD-моделей по изображениям, с помощью которого можно оце
+[17.07.2026 19:06] Querying the API.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single planning sequence where language and visual imagination play complementary roles. Language provides the abstract structure of a plan, including task decomposition, planning primitives, constraints, temporal order, and decision logic, while visual imagination grounds this structure through world state prediction and joint subgoal planning, associating each planning step with intermediate and final physical states. RxBrain adopts a unified multimodal Mixture-of-Transformers architecture that supports language, image, and video understanding and generation within one model. To train this capability, we build an automatic pipeline that converts embodied videos into joint text-visual planning supervision by decomposing videos into planning steps and aligning them with visual state transitions. We further introduce RxBrain-Bench to evaluate whether models can represent embodied plans through joint textual and visual components rather than separate understanding or generation. Experiments show that RxBrain maintains embodied understanding and generation abilities, and produces plans with coupled textual reasoning, world state prediction, and joint subgoal planning. We also extend RxBrain to continuous robot action generation, where it shows promising real-robot performance without large-scale action-data pretraining. These results provide an initial step toward foundation models for embodied cognition.
+[17.07.2026 19:06] Response: {
+  "desc": "Статья представляет новый подход в области воплощённого познания с использованием модели Hy-Embodied-RxBrain, которая объединяет языковое и визуальное мышление. В отличие от традиционных моделей, которые фокусируются на понимании сцен или предсказании визуальных состояний, RxBrain предлагает интегрированный подход, где язык задаёт структуру плана, а визуальное воображение отвечает за предсказание состояний мира. Модель использует архитектуру Mixture-of-Transformers для работы с текстом, изображениями и видео в рамках одной системы. Результаты экспериментов показывают, что RxBrain может успешно генерировать планы, объединяя текстовое рассуждение, предсказание состояний и планирование подцелей.",
+  "emoji": "🤖",
+  "title": "Новый подход к воплощённому познанию с помощью модели RxBrain"
 }
-[17.07.2026 16:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -284,12 +338,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well."
+"Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single planning sequence where language and visual imagination play complementary roles. Language provides the abstract structure of a plan, including task decomposition, planning primitives, constraints, temporal order, and decision logic, while visual imagination grounds this structure through world state prediction and joint subgoal planning, associating each planning step with intermediate and final physical states. RxBrain adopts a unified multimodal Mixture-of-Transformers architecture that supports language, image, and video understanding and generation within one model. To train this capability, we build an automatic pipeline that converts embodied videos into joint text-visual planning supervision by decomposing videos into planning steps and aligning them with visual state transitions. We further introduce RxBrain-Bench to evaluate whether models can represent embodied plans through joint textual and visual components rather than separate understanding or generation. Experiments show that RxBrain maintains embodied understanding and generation abilities, and produces plans with coupled textual reasoning, world state prediction, and joint subgoal planning. We also extend RxBrain to continuous robot action generation, where it shows promising real-robot performance without large-scale action-data pretraining. These results provide an initial step toward foundation models for embodied cognition."
 
-[17.07.2026 16:15] Response: ```python
-['ARCHITECTURE', 'TRAINING']
+[17.07.2026 19:06] Response: ```python
+['AGENTS', 'MULTIMODAL', 'ARCHITECTURE', 'BENCHMARK', 'ROBOTICS']
 ```
-[17.07.2026 16:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -332,26 +386,261 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well."
+"Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single planning sequence where language and visual imagination play complementary roles. Language provides the abstract structure of a plan, including task decomposition, planning primitives, constraints, temporal order, and decision logic, while visual imagination grounds this structure through world state prediction and joint subgoal planning, associating each planning step with intermediate and final physical states. RxBrain adopts a unified multimodal Mixture-of-Transformers architecture that supports language, image, and video understanding and generation within one model. To train this capability, we build an automatic pipeline that converts embodied videos into joint text-visual planning supervision by decomposing videos into planning steps and aligning them with visual state transitions. We further introduce RxBrain-Bench to evaluate whether models can represent embodied plans through joint textual and visual components rather than separate understanding or generation. Experiments show that RxBrain maintains embodied understanding and generation abilities, and produces plans with coupled textual reasoning, world state prediction, and joint subgoal planning. We also extend RxBrain to continuous robot action generation, where it shows promising real-robot performance without large-scale action-data pretraining. These results provide an initial step toward foundation models for embodied cognition."
 
-[17.07.2026 16:15] Response: ```python
-["DIFFUSION", "OPTIMIZATION"]
+[17.07.2026 19:06] Response: ```python
+["REASONING", "GAMES"]
 ```
-[17.07.2026 16:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well.
+Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single planning sequence where language and visual imagination play complementary roles. Language provides the abstract structure of a plan, including task decomposition, planning primitives, constraints, temporal order, and decision logic, while visual imagination grounds this structure through world state prediction and joint subgoal planning, associating each planning step with intermediate and final physical states. RxBrain adopts a unified multimodal Mixture-of-Transformers architecture that supports language, image, and video understanding and generation within one model. To train this capability, we build an automatic pipeline that converts embodied videos into joint text-visual planning supervision by decomposing videos into planning steps and aligning them with visual state transitions. We further introduce RxBrain-Bench to evaluate whether models can represent embodied plans through joint textual and visual components rather than separate understanding or generation. Experiments show that RxBrain maintains embodied understanding and generation abilities, and produces plans with coupled textual reasoning, world state prediction, and joint subgoal planning. We also extend RxBrain to continuous robot action generation, where it shows promising real-robot performance without large-scale action-data pretraining. These results provide an initial step toward foundation models for embodied cognition.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[17.07.2026 16:15] Response: {
-  "desc": "This paper presents a novel diffusion language model called token time continuous diffusion (TTCD). TTCD operates in continuous space, allowing it to deterministically convert Gaussian noise into tokens without the need for sampling. It introduces the concept of per-token times, enabling some tokens to transition from noise to final output more quickly than others, which enhances conditional generation. The model demonstrates superior performance over traditional discrete models, especially at high speedups, achieving comparable quality in unconditional generation and outperforming in conditional tasks.",
-  "title": "Revolutionizing Token Generation with Continuous Diffusion"
+[17.07.2026 19:06] Response: {
+  "desc": "The paper presents Hy-Embodied-RxBrain, a foundation model designed for embodied cognition that integrates language and visual reasoning. This model uniquely combines high-level task planning with physical state predictions, allowing for a cohesive planning sequence. It utilizes a Mixture-of-Transformers architecture to process and generate language, images, and videos simultaneously. The training pipeline converts embodied videos into structured planning supervision, enabling RxBrain to effectively generate and understand embodied plans in real-world scenarios.",
+  "title": "Integrating Language and Vision for Embodied Cognition"
 }
-[17.07.2026 16:15] Renaming data file.
-[17.07.2026 16:15] Renaming previous data. hf_papers.json to ./d/2026-07-17.json
-[17.07.2026 16:15] Saving new data file.
-[17.07.2026 16:15] Generating page.
-[17.07.2026 16:15] Renaming previous page.
-[17.07.2026 16:15] Renaming previous data. index.html to ./d/2026-07-17.html
-[17.07.2026 16:15] Writing result.
-[17.07.2026 16:15] Renaming log file.
-[17.07.2026 16:15] Renaming previous data. log.txt to ./logs/2026-07-17_last_log.txt
+[17.07.2026 19:06] Querying the API.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework that integrates hierarchical latents into causal video generation for multi-step reasoning. HDR organizes video latents into a tree-structured hierarchy, enabling coarse-to-fine reasoning before streaming output. Coarse denoising layers preserve uncertain hypotheses for global planning, while finer layers progressively refine them into concrete visual states. A sparse hierarchical attention pattern (SHAP) further reduces temporal attention costs. We introduce a level-stratified multi-step video reasoning benchmark with out-of-distribution cases, covering six tasks: maze navigation, Tower of Hanoi, one-line drawing, sliding puzzle, Sokoban, and water pouring. Compared with streaming autoregressive diffusion baselines, HDR improves success from 34.22 to 60.29 (76.2% relative gain) and increases average progress from 76.00 to 89.56, demonstrating more consistent reasoning trajectories. HDR maintains low-latency streaming at 0.70 seconds per latent, achieving 54.2 times faster inference than bidirectional diffusion. It also retains 82.9% of full-data performance with only 2% training data, compared with 52.0% for bidirectional diffusion. Real-world robot experiments further demonstrate HDR's potential for physical interaction and world modeling. Project demo: https://hierarchical-diffusion-reasoning.github.io/.
+[17.07.2026 19:06] Response: ```json
+{
+  "desc": "В статье представлена новая архитектура HDR (Hierarchical Denoising for Visual Reasoning) для видеомоделей, которая улучшает многоступенчатое логическое рассуждение. HDR использует иерархическую структуру латентов, позволяя осуществлять последовательное дообучение и плавный вывод. Это позволяет достигать большей последовательности в рассуждениях с меньшими временными задержками по сравнению с существующими моделями. Эксперименты показывают значительное улучшение точности и скорости вывода, что открывает новые возможности для дальнейших исследований в области машинного обучения.",
+  "emoji": "🧠",
+  "title": "Новая эра видеомоделей: иерархическое рассуждение"
+}
+```
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework that integrates hierarchical latents into causal video generation for multi-step reasoning. HDR organizes video latents into a tree-structured hierarchy, enabling coarse-to-fine reasoning before streaming output. Coarse denoising layers preserve uncertain hypotheses for global planning, while finer layers progressively refine them into concrete visual states. A sparse hierarchical attention pattern (SHAP) further reduces temporal attention costs. We introduce a level-stratified multi-step video reasoning benchmark with out-of-distribution cases, covering six tasks: maze navigation, Tower of Hanoi, one-line drawing, sliding puzzle, Sokoban, and water pouring. Compared with streaming autoregressive diffusion baselines, HDR improves success from 34.22 to 60.29 (76.2% relative gain) and increases average progress from 76.00 to 89.56, demonstrating more consistent reasoning trajectories. HDR maintains low-latency streaming at 0.70 seconds per latent, achieving 54.2 times faster inference than bidirectional diffusion. It also retains 82.9% of full-data performance with only 2% training data, compared with 52.0% for bidirectional diffusion. Real-world robot experiments further demonstrate HDR's potential for physical interaction and world modeling. Project demo: https://hierarchical-diffusion-reasoning.github.io/."
+
+[17.07.2026 19:06] Response: ```python
+['BENCHMARK', 'ARCHITECTURE', 'RL']
+```
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework that integrates hierarchical latents into causal video generation for multi-step reasoning. HDR organizes video latents into a tree-structured hierarchy, enabling coarse-to-fine reasoning before streaming output. Coarse denoising layers preserve uncertain hypotheses for global planning, while finer layers progressively refine them into concrete visual states. A sparse hierarchical attention pattern (SHAP) further reduces temporal attention costs. We introduce a level-stratified multi-step video reasoning benchmark with out-of-distribution cases, covering six tasks: maze navigation, Tower of Hanoi, one-line drawing, sliding puzzle, Sokoban, and water pouring. Compared with streaming autoregressive diffusion baselines, HDR improves success from 34.22 to 60.29 (76.2% relative gain) and increases average progress from 76.00 to 89.56, demonstrating more consistent reasoning trajectories. HDR maintains low-latency streaming at 0.70 seconds per latent, achieving 54.2 times faster inference than bidirectional diffusion. It also retains 82.9% of full-data performance with only 2% training data, compared with 52.0% for bidirectional diffusion. Real-world robot experiments further demonstrate HDR's potential for physical interaction and world modeling. Project demo: https://hierarchical-diffusion-reasoning.github.io/."
+
+[17.07.2026 19:06] Response: ```python
+["REASONING", "DIFFUSION", "OPTIMIZATION"]
+```
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework that integrates hierarchical latents into causal video generation for multi-step reasoning. HDR organizes video latents into a tree-structured hierarchy, enabling coarse-to-fine reasoning before streaming output. Coarse denoising layers preserve uncertain hypotheses for global planning, while finer layers progressively refine them into concrete visual states. A sparse hierarchical attention pattern (SHAP) further reduces temporal attention costs. We introduce a level-stratified multi-step video reasoning benchmark with out-of-distribution cases, covering six tasks: maze navigation, Tower of Hanoi, one-line drawing, sliding puzzle, Sokoban, and water pouring. Compared with streaming autoregressive diffusion baselines, HDR improves success from 34.22 to 60.29 (76.2% relative gain) and increases average progress from 76.00 to 89.56, demonstrating more consistent reasoning trajectories. HDR maintains low-latency streaming at 0.70 seconds per latent, achieving 54.2 times faster inference than bidirectional diffusion. It also retains 82.9% of full-data performance with only 2% training data, compared with 52.0% for bidirectional diffusion. Real-world robot experiments further demonstrate HDR's potential for physical interaction and world modeling. Project demo: https://hierarchical-diffusion-reasoning.github.io/.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[17.07.2026 19:06] Response: {
+  "desc": "This paper presents HDR (Hierarchical Denoising for Visual Reasoning), a new framework that enhances video models by enabling multi-step reasoning similar to human thought processes. HDR organizes video data into a tree-like structure, allowing for a systematic approach to reasoning that starts broadly and refines details over time. It introduces a sparse hierarchical attention pattern to reduce computational costs while maintaining low-latency streaming. The framework shows significant improvements in reasoning tasks, outperforming existing models in both efficiency and accuracy, making it suitable for real-world applications like robotics.",
+  "title": "Empowering Video Models with Human-like Reasoning"
+}
+[17.07.2026 19:06] Using data from previous issue: {"categories": ["#diffusion", "#training", "#architecture", "#optimization"], "emoji": "⚡", "ru": {"title": "Диффузионная модель для высокой скорости генерации", "desc": "В данной работе представлен новый диффузионный языковой модель — TTCD, который работает в непрерывном пространстве и детерминиров
+[17.07.2026 19:06] Querying the API.
+[17.07.2026 19:06] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrieval-based full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrieval-augmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides a chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/TUM-AVS/chat2scenic.
+[17.07.2026 19:07] Response: ```json
+{
+  "desc": "Статья представляет Chat2Scenic, новый фреймворк для генерации сценариев тестирования автономных систем вождения. Он использует подход, основанный на Retrieval-augmented Generation (RAG), что позволяет создавать сценарии на основе регуляторных требований. Chat2Scenic включает интерфейс чат-бота для интерактивной доработки сценариев и достигает высокой успешности компиляции. Результаты оценок показывают, что он превосходит существующие методы по важным метрикам.",
+  "emoji": "🚗",
+  "title": "Инновации в тестировании автономного вождения"
+}
+```
+[17.07.2026 19:07] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrieval-based full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrieval-augmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides a chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/TUM-AVS/chat2scenic."
+
+[17.07.2026 19:07] Response: ```python
+['AGENTS', 'RAG', 'BENCHMARK', 'OPEN_SOURCE']
+```
+[17.07.2026 19:07] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrieval-based full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrieval-augmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides a chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/TUM-AVS/chat2scenic."
+
+[17.07.2026 19:07] Response: ```python
+['OPEN_SOURCE', 'RETRIEVAL', 'SURVEY']
+```
+[17.07.2026 19:07] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrieval-based full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrieval-augmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides a chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/TUM-AVS/chat2scenic.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[17.07.2026 19:07] Response: {
+  "desc": "This paper introduces Chat2Scenic, a novel framework for generating test scenarios for autonomous driving systems using a Domain Specific Language (DSL). It combines a chatbot interface for interactive refinement with Retrieval-augmented Generation (RAG) to ensure compliance with regulatory standards. The framework addresses the challenges of existing methods by achieving a higher Compilation Success Rate (CSR) and Framework Accuracy (FA). An open benchmark of 123 scenarios from various regulations is also provided to support future research in this area.",
+  "title": "Revolutionizing Scenario Generation for Autonomous Driving"
+}
+[17.07.2026 19:07] Renaming data file.
+[17.07.2026 19:07] Renaming previous data. hf_papers.json to ./d/2026-07-17.json
+[17.07.2026 19:07] Saving new data file.
+[17.07.2026 19:07] Generating page.
+[17.07.2026 19:07] Renaming previous page.
+[17.07.2026 19:07] Renaming previous data. index.html to ./d/2026-07-17.html
+[17.07.2026 19:07] Writing result.
+[17.07.2026 19:07] Renaming log file.
+[17.07.2026 19:07] Renaming previous data. log.txt to ./logs/2026-07-17_last_log.txt
