@@ -4,9 +4,9 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-18 13:11",
+    "time_utc": "2026-07-18 15:56",
     "weekday": 4,
-    "issue_id": 2848,
+    "issue_id": 2849,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
             "url": "https://huggingface.co/papers/2607.14952",
             "abstract": "Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete.",
-            "score": 146,
+            "score": 148,
             "issue_id": 2839,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -76,7 +76,7 @@
             "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
             "url": "https://huggingface.co/papers/2607.14935",
             "abstract": "Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video types, making them effective only in specific domains. High computational demands further restrict their efficiency and scalability. Moreover, most models are only partially open, with key components such as training code, strategy, or datasets unavailable, which hinders reproducibility and slows community-driven development. To address these issues, we introduce VideoChat3, a fully open, efficient, and generalist video-centric MLLM. VideoChat3 advances video understanding through two complementary designs. For efficiency, we introduce Inflated 3D Vision Transformer (I3D-ViT) and Adaptive Frame Resolution for Streaming Video Perception, which enables efficient spatiotemporal representation and reduces the cost of processing video inputs during training and inference. For effectiveness, we develop a scalable video data synthesis pipeline that curates three diverse, high-quality training datasets: VideoChat3-Academic2M, VideoChat3-LV116K, and VideoChat3-OL617K, covering general, long-form, and streaming video scenarios, improving the model's generalization across domains. By integrating these designs, VideoChat3 achieves a rare balance of broad generalization and computational efficiency. Experiments across general, long-form, and streaming benchmarks demonstrate that VideoChat3 surpasses prior open-source models with equal or larger parameter counts with only 4B parameters and higher efficiency.",
-            "score": 114,
+            "score": 116,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -150,7 +150,7 @@
             "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
             "url": "https://huggingface.co/papers/2607.14777",
             "abstract": "Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards offer limited guidance on intermediate decisions, leaving a supervision gap between episode-level outcomes and token-level policy learning. We propose SEED (SElf-Evolving On-Policy Distillation), a self-evolving framework that converts completed on-policy trajectories into training-time hindsight skills and distills their behavioral effect back into the policy model. SEED first fine-tunes the policy to analyze completed trajectories and generate natural-language skills that capture reusable workflows, decisive observations, or failure-avoidance rules. During RL, the current policy both collects trajectories and serves as the analyzer that extracts hindsight skills from them. Policy updates therefore improve subsequent decision making and skill analysis together, allowing hindsight supervision to evolve with the policy. SEED then re-scores the sampled actions under ordinary and skill-augmented contexts, converting the skill-induced probability shift into a dense token-level on-policy distillation signal. This signal is jointly optimized with outcome-based RL, keeping the auxiliary supervision aligned with the current trajectory distribution. Extensive experiments on text-based and vision-based agentic tasks show that SEED consistently improves performance and sample efficiency, exhibiting robust generalization to unseen scenarios. Our code is available at https://github.com/jinyangwu/SEED.",
-            "score": 77,
+            "score": 78,
             "issue_id": 2836,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -264,7 +264,7 @@
             "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
             "url": "https://huggingface.co/papers/2607.15207",
             "abstract": "Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, and safety, as a robot's action can in principle be checked against its imagined future. In this paper, we show that this assumption is fragile. We introduce BadWAM, a unified framework for modeling and evaluating World-Action Drift Attacks: a new class of WAM-specific adversarial attacks that use small visual perturbations to break the alignment between what a WAM imagines and what it executes. BadWAM characterizes this attack surface along two natural criteria: attack strength and stealthiness. When the adversary prioritizes disruption, BadWAM instantiates an action-only adversarial attack, which directly drives the model toward task-failing actions. When the adversary additionally prioritizes stealth, BadWAM instantiates an imagination-preserving adversarial attack, which seeks to induce harmful action shifts while keeping the model's predicted future close to its clean imagination. Together, these two attacks capture a spectrum of WAM-specific failures: from overt action hijacking to stealthier cases where the model appears to imagine a plausible future but executes a desynchronized action. We evaluate BadWAM across different variants of WAMs. Results show that our attacks substantially reduce task success rates under closed-loop execution. For example, our action-only attack reduces the model performance from 96.5% to 43.1% success. The results of our imagination-preserving attack further exposes a WAM-specific vulnerability: moderate future-preserving regularization can maintain strong attack performance while reducing future imagination drift.",
-            "score": 38,
+            "score": 40,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -308,7 +308,7 @@
             "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
             "url": "https://huggingface.co/papers/2607.14202",
             "abstract": "Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while maintaining overall video quality. We present KeyFrame-Compass, the first comprehensive benchmark for evaluating keyframe-conditioned video generation. The benchmark contains 386 carefully curated samples spanning three application domains, two video structures, two prompt granularities, two conditioning formats, and four keyframe densities, enabling controlled analysis under diverse generation settings. We further introduce an automated evaluation framework that jointly measures keyframe execution and overall video quality. Specifically, we decompose keyframe execution into six complementary metrics covering presence, fidelity, temporal ordering, localization, persistence, and uniqueness, while assessing overall video quality through evidence-grounded MLLM judgments augmented with specialized perception models. Experiments on nine representative video generation systems reveal several fundamental limitations. Current models exhibit a clear trade-off between faithful keyframe execution and natural video synthesis. Their performance further degrades as keyframe constraints become denser and most open-source models also fail to interpret storyboard-grid inputs as temporally ordered keyframe sequences.",
-            "score": 32,
+            "score": 33,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -480,6 +480,57 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.12800",
+            "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
+            "url": "https://huggingface.co/papers/2607.12800",
+            "abstract": "Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At its core, UniVR features VR-GRPO, a reinforcement learning paradigm with complementary global and step-level rewards. This approach enforces logical coherence and physical consistency throughout the reasoning process without requiring task-specific heuristics or image-text pairs. To train and evaluate UniVR, we construct VR-X, a large-scale benchmark curated from 16 diverse sources spanning long-horizon manipulation, spatial puzzles, and physical reasoning. It is the first comprehensive suite to assess these heterogeneous capabilities under a purely visual protocol. Remarkably, UniVR achieves up to a 25% improvement on VR-X, and its superior visual reasoning also boosts performance on various multimodal understanding benchmarks. These findings underscore the vast potential of reasoning within visual spaces, with all code, data, and models are open-sourced for further research.",
+            "score": 25,
+            "issue_id": 2837,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "0563b75a6a643fed",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhongwei Ren",
+                "Yunchao Wei",
+                "Yao Zhao",
+                "Weibo Gong",
+                "Xiao Liu",
+                "Anran Wang",
+                "Xiangtai Li",
+                "Xiaojie Jin"
+            ],
+            "affiliations": [
+                "Beijing Jiaotong University",
+                "ByteDance"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12800.jpg",
+            "data": {
+                "categories": [
+                    "#open_source",
+                    "#reasoning",
+                    "#multimodal",
+                    "#games",
+                    "#benchmark",
+                    "#rl"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Новый уровень мышления с UniVR",
+                    "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике на основе визуальных данных. UniVR использует метод обучения с подкреплением VR-GRPO, который объединяет глобальные и локальные награды. Это позволяет достигать логической согласованности и физической последовательности в процессе рассуждения без использования специфических эвристик и пар изображений с текстом. Исследование проверяется с помощью нового бенчмарка VR-X, который оценивает разнообразные навыки в визуальной среде."
+                },
+                "en": {
+                    "title": "Unlocking Visual Intelligence with UniVR",
+                    "desc": "The paper presents UniVR, a novel approach to learning complex reasoning and physical dynamics from visual data without relying on additional text or heuristics. It utilizes a reinforcement learning method called VR-GRPO, which combines global and step-level rewards to ensure logical and physical consistency in reasoning. The authors introduce a benchmark called VR-X, which evaluates long-term planning and manipulation tasks purely through visual inputs. UniVR demonstrates significant improvements in visual reasoning capabilities, highlighting the potential of visual-based learning in machine intelligence."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.13188",
             "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
             "url": "https://huggingface.co/papers/2607.13188",
@@ -529,57 +580,6 @@
                 "en": {
                     "title": "Integrating Understanding and Generation in AI",
                     "desc": "This paper presents a new approach to artificial intelligence that mimics human cognition by integrating understanding and generation across different modalities, like text and images. It introduces Self-Correcting Coupled Markov Jump Processes (SC-CMJP), which allows one modality to influence the other based on confidence scores, enhancing the interaction between them. The proposed CO_2Jump sampler enables efficient joint multimodal generation without the need for extensive training. The authors also provide large-scale datasets for evaluation, demonstrating that their method improves performance in tasks like image understanding and visual reasoning."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.12800",
-            "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
-            "url": "https://huggingface.co/papers/2607.12800",
-            "abstract": "Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At its core, UniVR features VR-GRPO, a reinforcement learning paradigm with complementary global and step-level rewards. This approach enforces logical coherence and physical consistency throughout the reasoning process without requiring task-specific heuristics or image-text pairs. To train and evaluate UniVR, we construct VR-X, a large-scale benchmark curated from 16 diverse sources spanning long-horizon manipulation, spatial puzzles, and physical reasoning. It is the first comprehensive suite to assess these heterogeneous capabilities under a purely visual protocol. Remarkably, UniVR achieves up to a 25% improvement on VR-X, and its superior visual reasoning also boosts performance on various multimodal understanding benchmarks. These findings underscore the vast potential of reasoning within visual spaces, with all code, data, and models are open-sourced for further research.",
-            "score": 24,
-            "issue_id": 2837,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "0563b75a6a643fed",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhongwei Ren",
-                "Yunchao Wei",
-                "Yao Zhao",
-                "Weibo Gong",
-                "Xiao Liu",
-                "Anran Wang",
-                "Xiangtai Li",
-                "Xiaojie Jin"
-            ],
-            "affiliations": [
-                "Beijing Jiaotong University",
-                "ByteDance"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12800.jpg",
-            "data": {
-                "categories": [
-                    "#open_source",
-                    "#reasoning",
-                    "#multimodal",
-                    "#games",
-                    "#benchmark",
-                    "#rl"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Новый уровень мышления с UniVR",
-                    "desc": "В статье представлено новое направление в обучении моделей, посвященное обучению сложному логическому мышлению и физической динамике на основе визуальных данных. UniVR использует метод обучения с подкреплением VR-GRPO, который объединяет глобальные и локальные награды. Это позволяет достигать логической согласованности и физической последовательности в процессе рассуждения без использования специфических эвристик и пар изображений с текстом. Исследование проверяется с помощью нового бенчмарка VR-X, который оценивает разнообразные навыки в визуальной среде."
-                },
-                "en": {
-                    "title": "Unlocking Visual Intelligence with UniVR",
-                    "desc": "The paper presents UniVR, a novel approach to learning complex reasoning and physical dynamics from visual data without relying on additional text or heuristics. It utilizes a reinforcement learning method called VR-GRPO, which combines global and step-level rewards to ensure logical and physical consistency in reasoning. The authors introduce a benchmark called VR-X, which evaluates long-term planning and manipulation tasks purely through visual inputs. UniVR demonstrates significant improvements in visual reasoning capabilities, highlighting the potential of visual-based learning in machine intelligence."
                 }
             }
         },
@@ -715,7 +715,7 @@
             "title": "Video = World + Event Stream",
             "url": "https://huggingface.co/papers/2607.15038",
             "abstract": "Abstract  We present Wan-Streamer v0.3, which reframes our native-streaming interaction model under a single organizing view: a video is a world plus an event stream. The world is the persistent context in which a video unfolds, including the environment, scene, subjects, ambient acoustic conditions, voice characteristics, and other relatively stable conditions. The event stream is everything that changes over time within that world, including scene or environmental changes, subject behavior, speech, and other sounds. This yields a general-purpose pretraining task over large amounts of real video: given a world and incoming input, predict how the world moves, changes, and responds in real time. The resulting competence can be specialized to a broad family of real-time downstream tasks. We instantiate it on real-time full-duplex audio-visual interaction, where the event stream is the agent's speech together with free-form behavior. Functionally, the model's multimodal understanding process is vision-language-action-like: it maps multimodal user input to language-form speech and behavior actions. Wan-Streamer v0.3 preserves the v0.2 operating point: 640x368 video at 25 FPS, a 160 ms streaming unit, approximately 200 ms model-side response latency, and approximately 550 ms total interaction latency under a 350 ms bidirectional network budget.",
-            "score": 15,
+            "score": 16,
             "issue_id": 2836,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -1366,6 +1366,60 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.12227",
+            "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+            "url": "https://huggingface.co/papers/2607.12227",
+            "abstract": "Abstract  We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit test cases to search for harness configurations and then report final performance on the same public benchmark. This protocol raises two fundamental concerns. First, harness evolution is itself an iterative search procedure that repeatedly evaluates and revises candidate harnesses using task feedback. As in agentic test-time scaling, it should therefore be compared with simple task-level search baselines under matched feedback and inference budgets to determine whether its gains arise from improved harness design or from additional search alone. Second, because the search and the final evaluation share the same benchmark, the reported gains risk overfitting to that specific task set. To address these concerns, we conduct an extensive evaluation comparing harness evolution with simple test-time scaling and discovery baselines under comparable feedback and inference budgets, and also evaluate evolved harnesses on held-out tasks to assess whether the discovered improvements generalize. Experiments on Terminal-Bench 2.1 with GPT-5.4 and Claude Opus 4.6 show that automatic harness evolution does not consistently outperform simple test-time scaling methods and exhibits limited generalization. Our results raise important questions about the effectiveness of automatic harness evolution and highlight the need for fairer evaluation protocols and benchmarks for automatic harness design. Our code is available at https://github.com/rethinking-harness-evolution.",
+            "score": 2,
+            "issue_id": 2844,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "149b4e374086b1fc",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yike Wang",
+                "Huaisheng Zhu",
+                "Zhengyu Hu",
+                "Yige Yuan",
+                "Zhengyu Chen",
+                "Shakti Senthil",
+                "Hannaneh Hajishirzi",
+                "Yulia Tsvetkov",
+                "Pradeep Dasigi",
+                "Teng Xiao"
+            ],
+            "affiliations": [
+                "Allen Institute for AI",
+                "Independent",
+                "University of Washington"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12227.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#retrieval",
+                    "#survey",
+                    "#training",
+                    "#agents",
+                    "#optimization"
+                ],
+                "emoji": "🧪",
+                "ru": {
+                    "title": "Пересмотр автоматической эволюции хранилищ для LLM агентов",
+                    "desc": "В данной работе мы пересматриваем методы оценки автоматической эволюции хранилищ для LLM агентов. Обнаружено, что существующие методы используют единичные тесты, что может привести к переобучению результатов на одинаковых наборах задач. Мы проводим обширные эксперименты, чтобы сравнить эволюцию хранилищ с простыми методами масштабирования, а также проверяем общие результаты на удерживаемых задачах. Результаты показывают, что автоматическая эволюция хранилищ не всегда превосходит простые методы и требует более справедливых протоколов оценки."
+                },
+                "en": {
+                    "title": "Rethinking Automatic Harness Evolution for LLMs",
+                    "desc": "This paper examines the effectiveness of automatic harness evolution for large language model (LLM) agents. It highlights concerns about the evaluation methods used, particularly the risk of overfitting to specific benchmarks and the need for fair comparisons with simpler task-level search methods. The authors conduct experiments to compare harness evolution with these baselines under controlled conditions and assess generalization on new tasks. The findings suggest that automatic harness evolution does not consistently outperform simpler methods and calls for improved evaluation protocols in this area."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.14106",
             "title": "Token Time Continuous Diffusion for Language Modeling",
             "url": "https://huggingface.co/papers/2607.14106",
@@ -1454,60 +1508,6 @@
                 "en": {
                     "title": "Revolutionizing Scenario Generation for Autonomous Driving",
                     "desc": "This paper introduces Chat2Scenic, a novel framework for generating test scenarios for autonomous driving systems using a Domain Specific Language (DSL). It combines a chatbot interface for interactive refinement with Retrieval-augmented Generation (RAG) to ensure compliance with regulatory standards. The framework addresses the challenges of existing methods by achieving a higher Compilation Success Rate (CSR) and Framework Accuracy (FA). An open benchmark of 123 scenarios from various regulations is also provided to support future research in this area."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.12227",
-            "title": "Rethinking the Evaluation of Harness Evolution for Agents",
-            "url": "https://huggingface.co/papers/2607.12227",
-            "abstract": "Abstract  We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit test cases to search for harness configurations and then report final performance on the same public benchmark. This protocol raises two fundamental concerns. First, harness evolution is itself an iterative search procedure that repeatedly evaluates and revises candidate harnesses using task feedback. As in agentic test-time scaling, it should therefore be compared with simple task-level search baselines under matched feedback and inference budgets to determine whether its gains arise from improved harness design or from additional search alone. Second, because the search and the final evaluation share the same benchmark, the reported gains risk overfitting to that specific task set. To address these concerns, we conduct an extensive evaluation comparing harness evolution with simple test-time scaling and discovery baselines under comparable feedback and inference budgets, and also evaluate evolved harnesses on held-out tasks to assess whether the discovered improvements generalize. Experiments on Terminal-Bench 2.1 with GPT-5.4 and Claude Opus 4.6 show that automatic harness evolution does not consistently outperform simple test-time scaling methods and exhibits limited generalization. Our results raise important questions about the effectiveness of automatic harness evolution and highlight the need for fairer evaluation protocols and benchmarks for automatic harness design. Our code is available at https://github.com/rethinking-harness-evolution.",
-            "score": 1,
-            "issue_id": 2844,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "149b4e374086b1fc",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yike Wang",
-                "Huaisheng Zhu",
-                "Zhengyu Hu",
-                "Yige Yuan",
-                "Zhengyu Chen",
-                "Shakti Senthil",
-                "Hannaneh Hajishirzi",
-                "Yulia Tsvetkov",
-                "Pradeep Dasigi",
-                "Teng Xiao"
-            ],
-            "affiliations": [
-                "Allen Institute for AI",
-                "Independent",
-                "University of Washington"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12227.jpg",
-            "data": {
-                "categories": [
-                    "#benchmark",
-                    "#retrieval",
-                    "#survey",
-                    "#training",
-                    "#agents",
-                    "#optimization"
-                ],
-                "emoji": "🧪",
-                "ru": {
-                    "title": "Пересмотр автоматической эволюции хранилищ для LLM агентов",
-                    "desc": "В данной работе мы пересматриваем методы оценки автоматической эволюции хранилищ для LLM агентов. Обнаружено, что существующие методы используют единичные тесты, что может привести к переобучению результатов на одинаковых наборах задач. Мы проводим обширные эксперименты, чтобы сравнить эволюцию хранилищ с простыми методами масштабирования, а также проверяем общие результаты на удерживаемых задачах. Результаты показывают, что автоматическая эволюция хранилищ не всегда превосходит простые методы и требует более справедливых протоколов оценки."
-                },
-                "en": {
-                    "title": "Rethinking Automatic Harness Evolution for LLMs",
-                    "desc": "This paper examines the effectiveness of automatic harness evolution for large language model (LLM) agents. It highlights concerns about the evaluation methods used, particularly the risk of overfitting to specific benchmarks and the need for fair comparisons with simpler task-level search methods. The authors conduct experiments to compare harness evolution with these baselines under controlled conditions and assess generalization on new tasks. The findings suggest that automatic harness evolution does not consistently outperform simpler methods and calls for improved evaluation protocols in this area."
                 }
             }
         },
