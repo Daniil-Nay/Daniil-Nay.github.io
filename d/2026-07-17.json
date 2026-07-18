@@ -4,9 +4,9 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-18 10:18",
+    "time_utc": "2026-07-18 13:11",
     "weekday": 4,
-    "issue_id": 2847,
+    "issue_id": 2848,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -76,7 +76,7 @@
             "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
             "url": "https://huggingface.co/papers/2607.14935",
             "abstract": "Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video types, making them effective only in specific domains. High computational demands further restrict their efficiency and scalability. Moreover, most models are only partially open, with key components such as training code, strategy, or datasets unavailable, which hinders reproducibility and slows community-driven development. To address these issues, we introduce VideoChat3, a fully open, efficient, and generalist video-centric MLLM. VideoChat3 advances video understanding through two complementary designs. For efficiency, we introduce Inflated 3D Vision Transformer (I3D-ViT) and Adaptive Frame Resolution for Streaming Video Perception, which enables efficient spatiotemporal representation and reduces the cost of processing video inputs during training and inference. For effectiveness, we develop a scalable video data synthesis pipeline that curates three diverse, high-quality training datasets: VideoChat3-Academic2M, VideoChat3-LV116K, and VideoChat3-OL617K, covering general, long-form, and streaming video scenarios, improving the model's generalization across domains. By integrating these designs, VideoChat3 achieves a rare balance of broad generalization and computational efficiency. Experiments across general, long-form, and streaming benchmarks demonstrate that VideoChat3 surpasses prior open-source models with equal or larger parameter counts with only 4B parameters and higher efficiency.",
-            "score": 112,
+            "score": 114,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -308,7 +308,7 @@
             "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
             "url": "https://huggingface.co/papers/2607.14202",
             "abstract": "Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while maintaining overall video quality. We present KeyFrame-Compass, the first comprehensive benchmark for evaluating keyframe-conditioned video generation. The benchmark contains 386 carefully curated samples spanning three application domains, two video structures, two prompt granularities, two conditioning formats, and four keyframe densities, enabling controlled analysis under diverse generation settings. We further introduce an automated evaluation framework that jointly measures keyframe execution and overall video quality. Specifically, we decompose keyframe execution into six complementary metrics covering presence, fidelity, temporal ordering, localization, persistence, and uniqueness, while assessing overall video quality through evidence-grounded MLLM judgments augmented with specialized perception models. Experiments on nine representative video generation systems reveal several fundamental limitations. Current models exhibit a clear trade-off between faithful keyframe execution and natural video synthesis. Their performance further degrades as keyframe constraints become denser and most open-source models also fail to interpret storyboard-grid inputs as temporally ordered keyframe sequences.",
-            "score": 30,
+            "score": 32,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -379,7 +379,7 @@
             "title": "MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation",
             "url": "https://huggingface.co/papers/2607.14189",
             "abstract": "Abstract  Multi-reference-to-audio-video (MR2AV) generation aims to generate coherent audio-video content conditioned on multiple references and textual instructions. Existing benchmarks mainly focus on text-driven generation, single-reference subject preservation, or isolated audio-video alignment, leaving the emerging MR2AV setting largely unexplored. Compared with these settings, MR2AV requires models to jointly reason over multiple references while generating synchronized visual and audio content. Models must not only preserve each reference faithfully but also correctly bind and compose multiple referenced entities into coherent audio-visual events. To address this gap, we introduce MultiRef-Compass, a unified benchmark for MR2AV generation. It comprises 350 carefully curated samples constructed through a scalable and controllable asset-composition pipeline, covering multi-view subject preservation, multi-entity binding, and human-object-scene composition. To provide interpretable assessment, MultiRef-Compass defines an evaluation protocol with four dimensions: Basic Quality, Reference Consistency, Audio-Visual Consistency, and Instruction Following, using 14 sub-metrics. MultiRef-Compass integrates automatic metrics with a rejudging-enhanced MLLM-as-a-Judge framework, enabling scalable and auditable evaluation of both perceptual fidelity and reference-conditioned composition. Extensive experiments on eight representative MR2AV systems reveal substantial room for improvement across multiple evaluation dimensions, underscoring the need for a comprehensive benchmark and positioning MultiRef-Compass as a foundation for future MR2AV research.",
-            "score": 29,
+            "score": 30,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -437,7 +437,7 @@
             "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
             "url": "https://huggingface.co/papers/2607.14076",
             "abstract": "Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly regarded as potential next-generation game engines. Realizing a genuinely interactive game world, however, requires interaction outcomes that follow rules over evolving game conditions, consequences that persist over long horizons, and a generation loop that operates in real time. Conventional game engines realize these properties through a recurrent action-state-observation loop, in which player actions update an explicit game state according to predefined rules and observations are rendered from the resulting state. Taking this loop as an organizing lens, this paper examines interactive game world modeling along four dimensions: player action control, game state dynamics, state-observation persistence, and real-time interactive generation. For each dimension, we start from the capabilities required by an interactive game world, group existing approaches into representative families, and discuss the strengths and trade-offs of each family. Complementing this analysis, we present a scalable data engine for Black Myth: Wukong that collects over 90 hours of gameplay with frame-aligned player actions, ground-truth game states, and visual observations, together with structured and semantic annotations, as a resource for state-aware game world modeling. We hope this paper offers a clear picture of where the field stands and fosters progress toward interactive game worlds.",
-            "score": 24,
+            "score": 25,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -476,6 +476,59 @@
                 "en": {
                     "title": "Building Real-Time Interactive Game Worlds",
                     "desc": "This paper explores the creation of interactive game worlds that respond logically to player actions using video generative models. It highlights the importance of maintaining game rules, long-term consequences, and real-time interactions in game design. The authors analyze existing methods for modeling game worlds based on four key dimensions: player action control, game state dynamics, state-observation persistence, and real-time generation. Additionally, they introduce a data engine for Black Myth: Wukong, which collects extensive gameplay data to aid in developing state-aware game world models."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13188",
+            "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
+            "url": "https://huggingface.co/papers/2607.13188",
+            "abstract": "Abstract  Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to artificial systems. Masked Diffusion Models (MDMs) are ideally suited to this task, yet existing samplers either decode text and image interleavedly or independently update them in parallel branches that share only previous-step history, but not the other modality's latest decisions within the same step; combined with MDMs' inability to remask, cross-modal contradictions are neither detected nor repaired. We introduce Self-Correcting Coupled Markov Jump Processes (SC-CMJP), a framework in which one modality's transition rates are functionals of the other modality's confidence score, as weighted by cross-modal attention. Furthermore, a remasking jump retracts commitments the moment cross-modal evidence turns against them. In conjunction with SC-CMJP, we introduce CO_2Jump (Self-text{CO}rrecting text{CO}upled text{Jump}), a novel training-free single-pass sampler for joint multimodal geneneration. For training and evaluation purposes, we have created and will release three large-scale joint multimodal generation corpora: JEdit-1M, JMaze-200K, JNono-200K, with matching in- and out-of-distribution benchmarks. CO_2Jump achieves best joint performance for image understanding and editing as well as visual reasoning (maze and nonogram solving). The performance of the sampler scales monotonically with the number of denoising steps, evidence that the benefits of cross-modal coupling compound across the trajectory. Project page: https://coupled-jump.github.io",
+            "score": 25,
+            "issue_id": 2837,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "d5c413b4755db5ec",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Minh-Quan Le",
+                "Armand Comas",
+                "Alexandros Lattas",
+                "Stylianos Moschoglou",
+                "Pedro Vélez",
+                "Amit Raj",
+                "Aaron Germuth",
+                "Thabo Beeler",
+                "Dimitris Samaras",
+                "Di Qiu"
+            ],
+            "affiliations": [
+                "Google",
+                "Google DeepMind",
+                "Stony Brook University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13188.jpg",
+            "data": {
+                "categories": [
+                    "#diffusion",
+                    "#dataset",
+                    "#multimodal",
+                    "#games",
+                    "#benchmark"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Объединение понимания и генерации в ИИ",
+                    "desc": "В статье рассматривается, как искусственные системы могут объединять понимание и генерацию, аналогично тому, как это делает человек. Предложена новая структура SC-CMJP, которая использует взаимное влияние между текстом и изображениями для улучшения результатов генерации. Разработан CO_2Jump — новый сэмплер, который не требует обучения и позволяет эффективно генерировать мультимодальные данные в одном проходе. Результаты показывают, что этот подход значительно улучшает качество понимания и редактирования изображений, а также решение задач визуального мышления."
+                },
+                "en": {
+                    "title": "Integrating Understanding and Generation in AI",
+                    "desc": "This paper presents a new approach to artificial intelligence that mimics human cognition by integrating understanding and generation across different modalities, like text and images. It introduces Self-Correcting Coupled Markov Jump Processes (SC-CMJP), which allows one modality to influence the other based on confidence scores, enhancing the interaction between them. The proposed CO_2Jump sampler enables efficient joint multimodal generation without the need for extensive training. The authors also provide large-scale datasets for evaluation, demonstrating that their method improves performance in tasks like image understanding and visual reasoning."
                 }
             }
         },
@@ -527,59 +580,6 @@
                 "en": {
                     "title": "Unlocking Visual Intelligence with UniVR",
                     "desc": "The paper presents UniVR, a novel approach to learning complex reasoning and physical dynamics from visual data without relying on additional text or heuristics. It utilizes a reinforcement learning method called VR-GRPO, which combines global and step-level rewards to ensure logical and physical consistency in reasoning. The authors introduce a benchmark called VR-X, which evaluates long-term planning and manipulation tasks purely through visual inputs. UniVR demonstrates significant improvements in visual reasoning capabilities, highlighting the potential of visual-based learning in machine intelligence."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.13188",
-            "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
-            "url": "https://huggingface.co/papers/2607.13188",
-            "abstract": "Abstract  Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to artificial systems. Masked Diffusion Models (MDMs) are ideally suited to this task, yet existing samplers either decode text and image interleavedly or independently update them in parallel branches that share only previous-step history, but not the other modality's latest decisions within the same step; combined with MDMs' inability to remask, cross-modal contradictions are neither detected nor repaired. We introduce Self-Correcting Coupled Markov Jump Processes (SC-CMJP), a framework in which one modality's transition rates are functionals of the other modality's confidence score, as weighted by cross-modal attention. Furthermore, a remasking jump retracts commitments the moment cross-modal evidence turns against them. In conjunction with SC-CMJP, we introduce CO_2Jump (Self-text{CO}rrecting text{CO}upled text{Jump}), a novel training-free single-pass sampler for joint multimodal geneneration. For training and evaluation purposes, we have created and will release three large-scale joint multimodal generation corpora: JEdit-1M, JMaze-200K, JNono-200K, with matching in- and out-of-distribution benchmarks. CO_2Jump achieves best joint performance for image understanding and editing as well as visual reasoning (maze and nonogram solving). The performance of the sampler scales monotonically with the number of denoising steps, evidence that the benefits of cross-modal coupling compound across the trajectory. Project page: https://coupled-jump.github.io",
-            "score": 24,
-            "issue_id": 2837,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "d5c413b4755db5ec",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Minh-Quan Le",
-                "Armand Comas",
-                "Alexandros Lattas",
-                "Stylianos Moschoglou",
-                "Pedro Vélez",
-                "Amit Raj",
-                "Aaron Germuth",
-                "Thabo Beeler",
-                "Dimitris Samaras",
-                "Di Qiu"
-            ],
-            "affiliations": [
-                "Google",
-                "Google DeepMind",
-                "Stony Brook University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13188.jpg",
-            "data": {
-                "categories": [
-                    "#diffusion",
-                    "#dataset",
-                    "#multimodal",
-                    "#games",
-                    "#benchmark"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Объединение понимания и генерации в ИИ",
-                    "desc": "В статье рассматривается, как искусственные системы могут объединять понимание и генерацию, аналогично тому, как это делает человек. Предложена новая структура SC-CMJP, которая использует взаимное влияние между текстом и изображениями для улучшения результатов генерации. Разработан CO_2Jump — новый сэмплер, который не требует обучения и позволяет эффективно генерировать мультимодальные данные в одном проходе. Результаты показывают, что этот подход значительно улучшает качество понимания и редактирования изображений, а также решение задач визуального мышления."
-                },
-                "en": {
-                    "title": "Integrating Understanding and Generation in AI",
-                    "desc": "This paper presents a new approach to artificial intelligence that mimics human cognition by integrating understanding and generation across different modalities, like text and images. It introduces Self-Correcting Coupled Markov Jump Processes (SC-CMJP), which allows one modality to influence the other based on confidence scores, enhancing the interaction between them. The proposed CO_2Jump sampler enables efficient joint multimodal generation without the need for extensive training. The authors also provide large-scale datasets for evaluation, demonstrating that their method improves performance in tasks like image understanding and visual reasoning."
                 }
             }
         },
@@ -639,7 +639,7 @@
             "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
             "url": "https://huggingface.co/papers/2607.14187",
             "abstract": "Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single planning sequence where language and visual imagination play complementary roles. Language provides the abstract structure of a plan, including task decomposition, planning primitives, constraints, temporal order, and decision logic, while visual imagination grounds this structure through world state prediction and joint subgoal planning, associating each planning step with intermediate and final physical states. RxBrain adopts a unified multimodal Mixture-of-Transformers architecture that supports language, image, and video understanding and generation within one model. To train this capability, we build an automatic pipeline that converts embodied videos into joint text-visual planning supervision by decomposing videos into planning steps and aligning them with visual state transitions. We further introduce RxBrain-Bench to evaluate whether models can represent embodied plans through joint textual and visual components rather than separate understanding or generation. Experiments show that RxBrain maintains embodied understanding and generation abilities, and produces plans with coupled textual reasoning, world state prediction, and joint subgoal planning. We also extend RxBrain to continuous robot action generation, where it shows promising real-robot performance without large-scale action-data pretraining. These results provide an initial step toward foundation models for embodied cognition.",
-            "score": 18,
+            "score": 19,
             "issue_id": 2842,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -925,6 +925,51 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.13491",
+            "title": "DeepLoop: Depth Scaling for Looped Transformers",
+            "url": "https://huggingface.co/papers/2607.13491",
+            "abstract": "Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and applies its own parameter update, whereas in a looped Transformer one shared update aggregates gradients from repeated visits and is read back by those same visits in the next linearized forward pass. We formalize this tied-depth effect through a first-order perturbation bound controlled by a visit-alignment coefficient κ_R. The bound recovers the DeepNorm exponent when visits decorrelate, but in the conservative aligned regime it requires the exponent to increase from 1/4 to 1/2 as loop count grows at fixed physical depth. The resulting method, DeepLoop, keeps the Post-LN DeepNorm architecture and sets α=(2N)^{1/2} and β=(8N)^{-1/2} for unrolled depth N. On GPT-style looped language models at GPT-2 small and GPT-2 medium scale, DeepLoop is neutral when no physical block is revisited and improves validation loss and downstream accuracy once recurrent depth is activated. These results show that stable recurrent depth requires residual scaling rules that account for parameter visits, not only nominal layer count.",
+            "score": 10,
+            "issue_id": 2837,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "87a8d3433bdaed78",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Shuzhen Li",
+                "Yifan Zhang",
+                "Jiacheng Guo",
+                "Quanquan Gu",
+                "Mengdi Wang"
+            ],
+            "affiliations": [
+                "Princeton University",
+                "University of California, Los Angeles"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13491.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#architecture",
+                    "#optimization"
+                ],
+                "emoji": "🔄",
+                "ru": {
+                    "title": "Улучшение моделей с помощью зацикленных трансформеров",
+                    "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформеры для улучшения последовательных вычислений. Она позволяет увеличить глубину развертки без необходимости увеличения количества хранимых параметров. Это достигается за счет совместного обновления параметров в рамках повторных обращений к одноименным блокам, что помогает решить проблему масштабирования остаточных связей. Эксперименты показывают, что этот подход улучшает точность и снижает потерю валидации при использовании повторяющихся глубин."
+                },
+                "en": {
+                    "title": "Enhancing Transformers with DeepLoop for Better Performance",
+                    "desc": "This paper introduces DeepLoop, a method that enhances Transformers by allowing them to reuse computation across multiple rounds without increasing the number of parameters. It addresses the residual-scaling issue by using a shared parameter update for all visits in a looped Transformer, which aggregates gradients more effectively. The authors formalize the impact of this approach through a visit-alignment coefficient, showing how it influences the scaling of residuals. The results demonstrate that DeepLoop improves performance in language models by stabilizing recurrent depth and optimizing residual scaling rules."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.14749",
             "title": "WanSong v1.0 Technical Report",
             "url": "https://huggingface.co/papers/2607.14749",
@@ -966,51 +1011,6 @@
                 "en": {
                     "title": "Revolutionizing Music Generation with WanSong",
                     "desc": "This paper introduces WanSong, a novel approach for generating long-form music using a diffusion-based model. Unlike traditional methods that rely on autoregressive techniques, WanSong can create high-quality, multilingual songs up to 5 minutes long in a single pass. It produces dual stems, separating vocals and background music efficiently. Additionally, the model supports faster inference and allows for easy fine-tuning and customization for various editing tasks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.13491",
-            "title": "DeepLoop: Depth Scaling for Looped Transformers",
-            "url": "https://huggingface.co/papers/2607.13491",
-            "abstract": "Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and applies its own parameter update, whereas in a looped Transformer one shared update aggregates gradients from repeated visits and is read back by those same visits in the next linearized forward pass. We formalize this tied-depth effect through a first-order perturbation bound controlled by a visit-alignment coefficient κ_R. The bound recovers the DeepNorm exponent when visits decorrelate, but in the conservative aligned regime it requires the exponent to increase from 1/4 to 1/2 as loop count grows at fixed physical depth. The resulting method, DeepLoop, keeps the Post-LN DeepNorm architecture and sets α=(2N)^{1/2} and β=(8N)^{-1/2} for unrolled depth N. On GPT-style looped language models at GPT-2 small and GPT-2 medium scale, DeepLoop is neutral when no physical block is revisited and improves validation loss and downstream accuracy once recurrent depth is activated. These results show that stable recurrent depth requires residual scaling rules that account for parameter visits, not only nominal layer count.",
-            "score": 9,
-            "issue_id": 2837,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "87a8d3433bdaed78",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Shuzhen Li",
-                "Yifan Zhang",
-                "Jiacheng Guo",
-                "Quanquan Gu",
-                "Mengdi Wang"
-            ],
-            "affiliations": [
-                "Princeton University",
-                "University of California, Los Angeles"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13491.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#architecture",
-                    "#optimization"
-                ],
-                "emoji": "🔄",
-                "ru": {
-                    "title": "Улучшение моделей с помощью зацикленных трансформеров",
-                    "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформеры для улучшения последовательных вычислений. Она позволяет увеличить глубину развертки без необходимости увеличения количества хранимых параметров. Это достигается за счет совместного обновления параметров в рамках повторных обращений к одноименным блокам, что помогает решить проблему масштабирования остаточных связей. Эксперименты показывают, что этот подход улучшает точность и снижает потерю валидации при использовании повторяющихся глубин."
-                },
-                "en": {
-                    "title": "Enhancing Transformers with DeepLoop for Better Performance",
-                    "desc": "This paper introduces DeepLoop, a method that enhances Transformers by allowing them to reuse computation across multiple rounds without increasing the number of parameters. It addresses the residual-scaling issue by using a shared parameter update for all visits in a looped Transformer, which aggregates gradients more effectively. The authors formalize the impact of this approach through a visit-alignment coefficient, showing how it influences the scaling of residuals. The results demonstrate that DeepLoop improves performance in language models by stabilizing recurrent depth and optimizing residual scaling rules."
                 }
             }
         },
@@ -1307,53 +1307,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.14106",
-            "title": "Token Time Continuous Diffusion for Language Modeling",
-            "url": "https://huggingface.co/papers/2607.14106",
-            "abstract": "Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well.",
-            "score": 2,
-            "issue_id": 2841,
-            "pub_date": "2026-05-07",
-            "pub_date_card": {
-                "ru": "7 мая",
-                "en": "May 7",
-                "zh": "5月7日"
-            },
-            "hash": "90df1c737139b742",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Parikshit Bansal",
-                "Sujay Sanghavi"
-            ],
-            "affiliations": [
-                "UT Austin"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14106.jpg",
-            "data": {
-                "categories": [
-                    "#diffusion",
-                    "#training",
-                    "#architecture",
-                    "#optimization"
-                ],
-                "emoji": "⚡",
-                "ru": {
-                    "title": "Диффузионная модель для высокой скорости генерации",
-                    "desc": "В данной работе представлен новый диффузионный языковой модель — TTCD, который работает в непрерывном пространстве и детерминированно отображает гауссовский шум в окончательный токен. Модель вводит новую концепцию временных характеристик для токенов, что позволяет некоторым токенам переходить от шума к токену быстрее других. Использование непрерывного моделирования помогает TTCD избежать параллельной выборки нескольких токенов, что улучшает точность при высоких увеличениях скорости. Модель TTCD показывает лучшие результаты в условной генерации по сравнению с дискретными моделями."
-                },
-                "en": {
-                    "title": "Revolutionizing Token Generation with Continuous Diffusion",
-                    "desc": "This paper presents a novel diffusion language model called token time continuous diffusion (TTCD). TTCD operates in continuous space, allowing it to deterministically convert Gaussian noise into tokens without the need for sampling. It introduces the concept of per-token times, enabling some tokens to transition from noise to final output more quickly than others, which enhances conditional generation. The model demonstrates superior performance over traditional discrete models, especially at high speedups, achieving comparable quality in unconditional generation and outperforming in conditional tasks."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.15278",
             "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
             "url": "https://huggingface.co/papers/2607.15278",
             "abstract": "Abstract  Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global revision with high inference costs due to dense frame-level denoising. Both paradigms struggle to achieve logical consistency and low-latency streaming for complex reasoning tasks. We propose HDR (Hierarchical Denoising for Visual Reasoning), a unified framework that integrates hierarchical latents into causal video generation for multi-step reasoning. HDR organizes video latents into a tree-structured hierarchy, enabling coarse-to-fine reasoning before streaming output. Coarse denoising layers preserve uncertain hypotheses for global planning, while finer layers progressively refine them into concrete visual states. A sparse hierarchical attention pattern (SHAP) further reduces temporal attention costs. We introduce a level-stratified multi-step video reasoning benchmark with out-of-distribution cases, covering six tasks: maze navigation, Tower of Hanoi, one-line drawing, sliding puzzle, Sokoban, and water pouring. Compared with streaming autoregressive diffusion baselines, HDR improves success from 34.22 to 60.29 (76.2% relative gain) and increases average progress from 76.00 to 89.56, demonstrating more consistent reasoning trajectories. HDR maintains low-latency streaming at 0.70 seconds per latent, achieving 54.2 times faster inference than bidirectional diffusion. It also retains 82.9% of full-data performance with only 2% training data, compared with 52.0% for bidirectional diffusion. Real-world robot experiments further demonstrate HDR's potential for physical interaction and world modeling. Project demo: https://hierarchical-diffusion-reasoning.github.io/.",
-            "score": 1,
+            "score": 2,
             "issue_id": 2842,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -1404,6 +1362,48 @@
                 "en": {
                     "title": "Empowering Video Models with Human-like Reasoning",
                     "desc": "This paper presents HDR (Hierarchical Denoising for Visual Reasoning), a new framework that enhances video models by enabling multi-step reasoning similar to human thought processes. HDR organizes video data into a tree-like structure, allowing for a systematic approach to reasoning that starts broadly and refines details over time. It introduces a sparse hierarchical attention pattern to reduce computational costs while maintaining low-latency streaming. The framework shows significant improvements in reasoning tasks, outperforming existing models in both efficiency and accuracy, making it suitable for real-world applications like robotics."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.14106",
+            "title": "Token Time Continuous Diffusion for Language Modeling",
+            "url": "https://huggingface.co/papers/2607.14106",
+            "abstract": "Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well.",
+            "score": 2,
+            "issue_id": 2841,
+            "pub_date": "2026-05-07",
+            "pub_date_card": {
+                "ru": "7 мая",
+                "en": "May 7",
+                "zh": "5月7日"
+            },
+            "hash": "90df1c737139b742",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Parikshit Bansal",
+                "Sujay Sanghavi"
+            ],
+            "affiliations": [
+                "UT Austin"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14106.jpg",
+            "data": {
+                "categories": [
+                    "#diffusion",
+                    "#training",
+                    "#architecture",
+                    "#optimization"
+                ],
+                "emoji": "⚡",
+                "ru": {
+                    "title": "Диффузионная модель для высокой скорости генерации",
+                    "desc": "В данной работе представлен новый диффузионный языковой модель — TTCD, который работает в непрерывном пространстве и детерминированно отображает гауссовский шум в окончательный токен. Модель вводит новую концепцию временных характеристик для токенов, что позволяет некоторым токенам переходить от шума к токену быстрее других. Использование непрерывного моделирования помогает TTCD избежать параллельной выборки нескольких токенов, что улучшает точность при высоких увеличениях скорости. Модель TTCD показывает лучшие результаты в условной генерации по сравнению с дискретными моделями."
+                },
+                "en": {
+                    "title": "Revolutionizing Token Generation with Continuous Diffusion",
+                    "desc": "This paper presents a novel diffusion language model called token time continuous diffusion (TTCD). TTCD operates in continuous space, allowing it to deterministically convert Gaussian noise into tokens without the need for sampling. It introduces the concept of per-token times, enabling some tokens to transition from noise to final output more quickly than others, which enhances conditional generation. The model demonstrates superior performance over traditional discrete models, especially at high speedups, achieving comparable quality in unconditional generation and outperforming in conditional tasks."
                 }
             }
         },
