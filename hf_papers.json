@@ -4,9 +4,9 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-18 19:03",
+    "time_utc": "2026-07-18 21:50",
     "weekday": 4,
-    "issue_id": 2850,
+    "issue_id": 2851,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
             "url": "https://huggingface.co/papers/2607.14952",
             "abstract": "Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete.",
-            "score": 166,
+            "score": 171,
             "issue_id": 2839,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -76,7 +76,7 @@
             "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
             "url": "https://huggingface.co/papers/2607.14935",
             "abstract": "Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video types, making them effective only in specific domains. High computational demands further restrict their efficiency and scalability. Moreover, most models are only partially open, with key components such as training code, strategy, or datasets unavailable, which hinders reproducibility and slows community-driven development. To address these issues, we introduce VideoChat3, a fully open, efficient, and generalist video-centric MLLM. VideoChat3 advances video understanding through two complementary designs. For efficiency, we introduce Inflated 3D Vision Transformer (I3D-ViT) and Adaptive Frame Resolution for Streaming Video Perception, which enables efficient spatiotemporal representation and reduces the cost of processing video inputs during training and inference. For effectiveness, we develop a scalable video data synthesis pipeline that curates three diverse, high-quality training datasets: VideoChat3-Academic2M, VideoChat3-LV116K, and VideoChat3-OL617K, covering general, long-form, and streaming video scenarios, improving the model's generalization across domains. By integrating these designs, VideoChat3 achieves a rare balance of broad generalization and computational efficiency. Experiments across general, long-form, and streaming benchmarks demonstrate that VideoChat3 surpasses prior open-source models with equal or larger parameter counts with only 4B parameters and higher efficiency.",
-            "score": 117,
+            "score": 119,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -150,7 +150,7 @@
             "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
             "url": "https://huggingface.co/papers/2607.14777",
             "abstract": "Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards offer limited guidance on intermediate decisions, leaving a supervision gap between episode-level outcomes and token-level policy learning. We propose SEED (SElf-Evolving On-Policy Distillation), a self-evolving framework that converts completed on-policy trajectories into training-time hindsight skills and distills their behavioral effect back into the policy model. SEED first fine-tunes the policy to analyze completed trajectories and generate natural-language skills that capture reusable workflows, decisive observations, or failure-avoidance rules. During RL, the current policy both collects trajectories and serves as the analyzer that extracts hindsight skills from them. Policy updates therefore improve subsequent decision making and skill analysis together, allowing hindsight supervision to evolve with the policy. SEED then re-scores the sampled actions under ordinary and skill-augmented contexts, converting the skill-induced probability shift into a dense token-level on-policy distillation signal. This signal is jointly optimized with outcome-based RL, keeping the auxiliary supervision aligned with the current trajectory distribution. Extensive experiments on text-based and vision-based agentic tasks show that SEED consistently improves performance and sample efficiency, exhibiting robust generalization to unseen scenarios. Our code is available at https://github.com/jinyangwu/SEED.",
-            "score": 79,
+            "score": 82,
             "issue_id": 2836,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -208,7 +208,7 @@
             "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
             "url": "https://huggingface.co/papers/2607.15257",
             "abstract": "Abstract  Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting search budgets and ultimately compromising the quality and completeness of the final output. We introduce SearchOS, a system-level multi-agent framework that turns fragile, implicit search progress into explicit, persistent, and shared state. First, we formulate open-domain information seeking as relational schema completion with grounded citations, where agents discover entities, populate attributes across linked tables, and anchor each value to source evidence. Then we design Search-Oriented Context Management (SOCM), which externalizes the evolving state into Frontier Task, an Evidence Graph, a Coverage Map, and Failure Memory. Built on SOCM, SearchOS applies a pipeline-parallel scheduling mechanism that overlaps the execution of sub-agents and continuously refills freed slots with tasks targeting unresolved coverage gaps to improve utilization and throughput. To schedule and control the execution of search agents, SearchOS introduces a Search Tool Middleware Harness that intercepts model and tool interactions to record grounded evidence and react to stalls or budget exhaustion, and provides a reusable hierarchical skill system comprising strategy and access skills to augment the agents' search process and avoid repeating failed search patterns across runs. On WideSearch and GISA, SearchOS leads all metrics among the evaluated single- and multi-agent baselines, paving the way toward robust information-seeking collaboration.",
-            "score": 56,
+            "score": 58,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -264,7 +264,7 @@
             "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
             "url": "https://huggingface.co/papers/2607.15207",
             "abstract": "Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, and safety, as a robot's action can in principle be checked against its imagined future. In this paper, we show that this assumption is fragile. We introduce BadWAM, a unified framework for modeling and evaluating World-Action Drift Attacks: a new class of WAM-specific adversarial attacks that use small visual perturbations to break the alignment between what a WAM imagines and what it executes. BadWAM characterizes this attack surface along two natural criteria: attack strength and stealthiness. When the adversary prioritizes disruption, BadWAM instantiates an action-only adversarial attack, which directly drives the model toward task-failing actions. When the adversary additionally prioritizes stealth, BadWAM instantiates an imagination-preserving adversarial attack, which seeks to induce harmful action shifts while keeping the model's predicted future close to its clean imagination. Together, these two attacks capture a spectrum of WAM-specific failures: from overt action hijacking to stealthier cases where the model appears to imagine a plausible future but executes a desynchronized action. We evaluate BadWAM across different variants of WAMs. Results show that our attacks substantially reduce task success rates under closed-loop execution. For example, our action-only attack reduces the model performance from 96.5% to 43.1% success. The results of our imagination-preserving attack further exposes a WAM-specific vulnerability: moderate future-preserving regularization can maintain strong attack performance while reducing future imagination drift.",
-            "score": 41,
+            "score": 44,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -308,7 +308,7 @@
             "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
             "url": "https://huggingface.co/papers/2607.14202",
             "abstract": "Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while maintaining overall video quality. We present KeyFrame-Compass, the first comprehensive benchmark for evaluating keyframe-conditioned video generation. The benchmark contains 386 carefully curated samples spanning three application domains, two video structures, two prompt granularities, two conditioning formats, and four keyframe densities, enabling controlled analysis under diverse generation settings. We further introduce an automated evaluation framework that jointly measures keyframe execution and overall video quality. Specifically, we decompose keyframe execution into six complementary metrics covering presence, fidelity, temporal ordering, localization, persistence, and uniqueness, while assessing overall video quality through evidence-grounded MLLM judgments augmented with specialized perception models. Experiments on nine representative video generation systems reveal several fundamental limitations. Current models exhibit a clear trade-off between faithful keyframe execution and natural video synthesis. Their performance further degrades as keyframe constraints become denser and most open-source models also fail to interpret storyboard-grid inputs as temporally ordered keyframe sequences.",
-            "score": 34,
+            "score": 35,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -433,6 +433,53 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.14076",
+            "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+            "url": "https://huggingface.co/papers/2607.14076",
+            "abstract": "Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly regarded as potential next-generation game engines. Realizing a genuinely interactive game world, however, requires interaction outcomes that follow rules over evolving game conditions, consequences that persist over long horizons, and a generation loop that operates in real time. Conventional game engines realize these properties through a recurrent action-state-observation loop, in which player actions update an explicit game state according to predefined rules and observations are rendered from the resulting state. Taking this loop as an organizing lens, this paper examines interactive game world modeling along four dimensions: player action control, game state dynamics, state-observation persistence, and real-time interactive generation. For each dimension, we start from the capabilities required by an interactive game world, group existing approaches into representative families, and discuss the strengths and trade-offs of each family. Complementing this analysis, we present a scalable data engine for Black Myth: Wukong that collects over 90 hours of gameplay with frame-aligned player actions, ground-truth game states, and visual observations, together with structured and semantic annotations, as a resource for state-aware game world modeling. We hope this paper offers a clear picture of where the field stands and fosters progress toward interactive game worlds.",
+            "score": 27,
+            "issue_id": 2837,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "547dde71a45f44f4",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhen Li",
+                "Zian Meng",
+                "Shuwei Shi",
+                "Mingliang Zhai",
+                "Jiaming Tan",
+                "Chuanhao Li",
+                "Kaipeng Zhang"
+            ],
+            "affiliations": [
+                "Alaya Lab"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14076.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#data",
+                    "#games",
+                    "#agents"
+                ],
+                "emoji": "🎮",
+                "ru": {
+                    "title": "Создание интерактивных игровых миров",
+                    "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и искусственного интеллекта (AI). Используя модели генерации видео, авторы предлагают способ создания динамичных игровых ситуаций, основываясь на действиях пользователей. Они анализируют четыре ключевых аспекта моделирования игровых миров: контроль действия игрока, динамика состояния игры, постоянство состояния и взаимодействие в реальном времени. Кроме того, авторы представляют масштабный датасет на основе игры Black Myth: Wukong, который может служить ресурсом для углубленного моделирования игровых миров с учетом состояния."
+                },
+                "en": {
+                    "title": "Building Real-Time Interactive Game Worlds",
+                    "desc": "This paper explores the creation of interactive game worlds that respond logically to player actions using video generative models. It highlights the importance of maintaining game rules, long-term consequences, and real-time interactions in game design. The authors analyze existing methods for modeling game worlds based on four key dimensions: player action control, game state dynamics, state-observation persistence, and real-time generation. Additionally, they introduce a data engine for Black Myth: Wukong, which collects extensive gameplay data to aid in developing state-aware game world models."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.12800",
             "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
             "url": "https://huggingface.co/papers/2607.12800",
@@ -537,58 +584,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.14076",
-            "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-            "url": "https://huggingface.co/papers/2607.14076",
-            "abstract": "Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly regarded as potential next-generation game engines. Realizing a genuinely interactive game world, however, requires interaction outcomes that follow rules over evolving game conditions, consequences that persist over long horizons, and a generation loop that operates in real time. Conventional game engines realize these properties through a recurrent action-state-observation loop, in which player actions update an explicit game state according to predefined rules and observations are rendered from the resulting state. Taking this loop as an organizing lens, this paper examines interactive game world modeling along four dimensions: player action control, game state dynamics, state-observation persistence, and real-time interactive generation. For each dimension, we start from the capabilities required by an interactive game world, group existing approaches into representative families, and discuss the strengths and trade-offs of each family. Complementing this analysis, we present a scalable data engine for Black Myth: Wukong that collects over 90 hours of gameplay with frame-aligned player actions, ground-truth game states, and visual observations, together with structured and semantic annotations, as a resource for state-aware game world modeling. We hope this paper offers a clear picture of where the field stands and fosters progress toward interactive game worlds.",
-            "score": 26,
-            "issue_id": 2837,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "547dde71a45f44f4",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhen Li",
-                "Zian Meng",
-                "Shuwei Shi",
-                "Mingliang Zhai",
-                "Jiaming Tan",
-                "Chuanhao Li",
-                "Kaipeng Zhang"
-            ],
-            "affiliations": [
-                "Alaya Lab"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14076.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#data",
-                    "#games",
-                    "#agents"
-                ],
-                "emoji": "🎮",
-                "ru": {
-                    "title": "Создание интерактивных игровых миров",
-                    "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и искусственного интеллекта (AI). Используя модели генерации видео, авторы предлагают способ создания динамичных игровых ситуаций, основываясь на действиях пользователей. Они анализируют четыре ключевых аспекта моделирования игровых миров: контроль действия игрока, динамика состояния игры, постоянство состояния и взаимодействие в реальном времени. Кроме того, авторы представляют масштабный датасет на основе игры Black Myth: Wukong, который может служить ресурсом для углубленного моделирования игровых миров с учетом состояния."
-                },
-                "en": {
-                    "title": "Building Real-Time Interactive Game Worlds",
-                    "desc": "This paper explores the creation of interactive game worlds that respond logically to player actions using video generative models. It highlights the importance of maintaining game rules, long-term consequences, and real-time interactions in game design. The authors analyze existing methods for modeling game worlds based on four key dimensions: player action control, game state dynamics, state-observation persistence, and real-time generation. Additionally, they introduce a data engine for Black Myth: Wukong, which collects extensive gameplay data to aid in developing state-aware game world models."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.03065",
             "title": "Spectral Rewiring for Exploration, Purification, and Model Merging",
             "url": "https://huggingface.co/papers/2607.03065",
             "abstract": "Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when consolidating multiple capabilities through multi-domain training or model merging. We show that the reasoning-effective component of these updates is largely concentrated in the base model's spectral space, motivating Subspace-Aligned Rewiring (SAR), a post-hoc editing method that retains this spectral core while removing orthogonal components. SAR therefore preserves reasoning gains and filters residual update directions that suppress performance or amplify cross-domain interference. Across several model families and scales, SAR extracts compact reasoning cores using as little as approximately 0.58% of total parameters: it preserves over 99% of post-training performance and improves high-k exploration in mathematical reasoning, and generalizes to agentic coding by improving six of seven open benchmarks on an in-house model. SAR also purifies mixed-domain training updates by releasing suppressed coding capability while maintaining math reasoning and instruction following. It further enables model merging across experts, yielding cross-domain generalization that surpasses previous merging baselines and even the best single-domain experts. Overall, SAR shows that extracting reasoning-effective updates from parameter geometry can serve as a training-free mechanism to improve reasoning and multi-domain performance.",
-            "score": 21,
+            "score": 22,
             "issue_id": 2838,
             "pub_date": "2026-07-03",
             "pub_date_card": {
@@ -780,7 +780,7 @@
             "title": "Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations",
             "url": "https://huggingface.co/papers/2607.13399",
             "abstract": "Abstract  On-policy distillation (OPD) has become a key paradigm in LLM post-training, yet its training dynamics remain poorly understood. We present a systematic study examining the role, pathologies, and regulations of OPD. We first clarify the role of OPD as an exploration catalyst: it steers the student toward correct reasoning paths via dense token-level guidance, without expanding capability ceiling. We confirm this by showing that prompt diversity matters more than per-problem sampling numbers, and critically, that the effectiveness of OPD hinges entirely on the quality of its guiding signal. This dependency exposes two pathologies that derail exploration. The Student-Teacher Mismatch occurs when a large teacher-student distributional gap causes the guiding signal to misalign with task correctness, steering exploration in counterproductive directions. Length Exploitation arises when the aggregated token-level objective creates length-dependent shortcuts, allowing the student to game the reward landscape through response truncation or redundant padding, exploring degenerate length modes rather than reasoning strategies. To tame these pathologies, we investigate lightweight signal regulations: advantage clipping and log-scale compression, ensuring exploration is guided by faithful signals. Experiments across seven benchmarks demonstrate that these regulations alleviate length exploitation and enable effective distillation, stably surpassing OPD variants and RLVR baselines, thereby confirming that well-regulated signal quality, rather than mere teacher scale, governs successful exploration in OPD.",
-            "score": 16,
+            "score": 17,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -828,7 +828,7 @@
             "title": "RoboTTT: Context Scaling for Robot Policies",
             "url": "https://huggingface.co/papers/2607.15275",
             "abstract": "Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first time, steady gains in closed-loop performance as pretraining context length scales. At its core, RoboTTT integrates Test-Time Training into robot foundation models such as Vision-Language-Action policies, yielding a sequence model whose recurrent state consists of fast weights, parameters updated by gradient descent during both training and inference, compressing histories into weight space and retrieving contextual information for long-context conditioning. To scale training context length, the recipe combines sequence action forcing with truncated backpropagation through time. On challenging real-robot manipulation tasks, RoboTTT improves overall performance by 87% over the single-step context baseline and fully completes a five-minute, ten-stage assembly task, which no baseline ever does. RoboTTT trained with 8K-timestep context outperforms the same model pretrained with 1K timesteps by 62%, suggesting context length as a new scaling axis for robot foundation models. Videos are available at https://research.nvidia.com/labs/gear/robottt/",
-            "score": 15,
+            "score": 16,
             "issue_id": 2836,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -929,7 +929,7 @@
             "title": "DeepLoop: Depth Scaling for Looped Transformers",
             "url": "https://huggingface.co/papers/2607.13491",
             "abstract": "Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and applies its own parameter update, whereas in a looped Transformer one shared update aggregates gradients from repeated visits and is read back by those same visits in the next linearized forward pass. We formalize this tied-depth effect through a first-order perturbation bound controlled by a visit-alignment coefficient κ_R. The bound recovers the DeepNorm exponent when visits decorrelate, but in the conservative aligned regime it requires the exponent to increase from 1/4 to 1/2 as loop count grows at fixed physical depth. The resulting method, DeepLoop, keeps the Post-LN DeepNorm architecture and sets α=(2N)^{1/2} and β=(8N)^{-1/2} for unrolled depth N. On GPT-style looped language models at GPT-2 small and GPT-2 medium scale, DeepLoop is neutral when no physical block is revisited and improves validation loss and downstream accuracy once recurrent depth is activated. These results show that stable recurrent depth requires residual scaling rules that account for parameter visits, not only nominal layer count.",
-            "score": 11,
+            "score": 12,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -974,7 +974,7 @@
             "title": "WanSong v1.0 Technical Report",
             "url": "https://huggingface.co/papers/2607.14749",
             "abstract": "Abstract  Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability remains challenging. To address these needs, we present WanSong, a simple yet powerful approach for long-form, commercial-grade song generation. Unlike autoregressive (AR) and cascaded multi-stage pipelines (\\eg, AR followed by diffusion), WanSong is a pure diffusion-based model that directly generates high-fidelity, multilingual songs up to 5 minutes and outputs dual stems (vocals and background music) in a single run. In addition, our diffusion framework enables faster inference through step-distillation, and offers an efficient pathway for fine-tuning and customization to support downstream editing tasks.",
-            "score": 10,
+            "score": 11,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -1011,6 +1011,49 @@
                 "en": {
                     "title": "Revolutionizing Music Generation with WanSong",
                     "desc": "This paper introduces WanSong, a novel approach for generating long-form music using a diffusion-based model. Unlike traditional methods that rely on autoregressive techniques, WanSong can create high-quality, multilingual songs up to 5 minutes long in a single pass. It produces dual stems, separating vocals and background music efficiently. Additionally, the model supports faster inference and allows for easy fine-tuning and customization for various editing tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.14431",
+            "title": "Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel",
+            "url": "https://huggingface.co/papers/2607.14431",
+            "abstract": "Abstract  We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposited once as a byte-exact key-value (KV) state artifact and later restored, by graft, into a fresh inference context. The restore is bit-exact: under a pinned deterministic configuration, the grafted logits are byte-for-byte identical to a fresh computation (SHA-256 equality), with zero KL divergence and 100% argmax agreement over fifty samples. We show that own-position graft is the unique numerically exact operating point on a model with floating-point rotary encoding, and we verify byte-exactness on two model scales (12B, 31B) and two GPU targets, one through a pre-registered replay. On AIME 2025, a frozen Gemma-4-12B moves from 80.0% to 93.3% once a verified solution library is grafted, above its own 77.5% and its 31B sibling's 89.2% published anchors. On the recurring case, eight problems the base model never solves within a 401,026-token budget are answered from cached verified solutions in 61 total decode tokens, a factor of 6,574 fewer tokens and about 8,700x less energy; the capability claim proper rests on held-out transfer (7 of 7 at 31B). The same byte-exact store widens usable context from 32,768 to 2,854,766 tokens at zero extra accelerator memory, and moves byte-identical between machines of the same architecture. We describe the system at the behavior level; the engine is proprietary, and every reported number is backed by committed input and output hashes so the scoring can be re-checked without it.",
+            "score": 10,
+            "issue_id": 2836,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "5a5c116838ac1b86",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Sietse Schelpe"
+            ],
+            "affiliations": [
+                "Corbenic AI"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14431.jpg",
+            "data": {
+                "categories": [
+                    "#small_models",
+                    "#compression",
+                    "#inference",
+                    "#optimization",
+                    "#memory",
+                    "#long_context"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Повышение возможностей языковой модели без изменений весов",
+                    "desc": "В этой статье описывается метод повышения возможностей малой языковой модели, одновременно снижая ее стоимость, без изменения весов. Знания закрепляются в виде точных артефактов состояния (KV) и восстанавливаются в новом контексте вывода. Восстановление является точным, где логиты идентичны свежему вычислению, подтвержденные на разных моделях и графических процессорах. Система позволяет значительно увеличивать контекст использования и требует при этом нулевой дополнительной памяти для ускорителей."
+                },
+                "en": {
+                    "title": "Boosting Language Model Efficiency with Byte-Exact Knowledge Grafting",
+                    "desc": "This paper presents a method to enhance the performance of a frozen small language model while significantly reducing costs, without altering its weights. The approach involves storing verified knowledge as a byte-exact key-value state, which can be restored into a new inference context. The restoration process ensures that the outputs are identical to those produced by a fresh computation, achieving high accuracy and efficiency. The results demonstrate that this method can dramatically increase the model's capability and extend its usable context without additional memory requirements."
                 }
             }
         },
@@ -1067,45 +1110,98 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.14431",
-            "title": "Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel",
-            "url": "https://huggingface.co/papers/2607.14431",
-            "abstract": "Abstract  We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposited once as a byte-exact key-value (KV) state artifact and later restored, by graft, into a fresh inference context. The restore is bit-exact: under a pinned deterministic configuration, the grafted logits are byte-for-byte identical to a fresh computation (SHA-256 equality), with zero KL divergence and 100% argmax agreement over fifty samples. We show that own-position graft is the unique numerically exact operating point on a model with floating-point rotary encoding, and we verify byte-exactness on two model scales (12B, 31B) and two GPU targets, one through a pre-registered replay. On AIME 2025, a frozen Gemma-4-12B moves from 80.0% to 93.3% once a verified solution library is grafted, above its own 77.5% and its 31B sibling's 89.2% published anchors. On the recurring case, eight problems the base model never solves within a 401,026-token budget are answered from cached verified solutions in 61 total decode tokens, a factor of 6,574 fewer tokens and about 8,700x less energy; the capability claim proper rests on held-out transfer (7 of 7 at 31B). The same byte-exact store widens usable context from 32,768 to 2,854,766 tokens at zero extra accelerator memory, and moves byte-identical between machines of the same architecture. We describe the system at the behavior level; the engine is proprietary, and every reported number is backed by committed input and output hashes so the scoring can be re-checked without it.",
+            "id": "https://huggingface.co/papers/2607.15277",
+            "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+            "url": "https://huggingface.co/papers/2607.15277",
+            "abstract": "Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition a population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals a pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for evaluating LLMs.",
             "score": 7,
-            "issue_id": 2836,
-            "pub_date": "2026-07-15",
+            "issue_id": 2838,
+            "pub_date": "2026-07-16",
             "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
             },
-            "hash": "5a5c116838ac1b86",
+            "hash": "3f83327f3608f430",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Sietse Schelpe"
+                "Patrik Wolf",
+                "Thomas Kleine Buening",
+                "Andreas Krause",
+                "Celestine Mendler-Dünner"
             ],
             "affiliations": [
-                "Corbenic AI"
+                "ELLIS Institute, Tübingen",
+                "ETH Zürich",
+                "Max Planck Institute for Intelligent Systems, Tübingen, Germany",
+                "Tübingen AI Center"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14431.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.15277.jpg",
             "data": {
                 "categories": [
-                    "#small_models",
-                    "#compression",
-                    "#inference",
-                    "#optimization",
-                    "#memory",
-                    "#long_context"
+                    "#benchmark",
+                    "#hallucinations",
+                    "#prompting",
+                    "#inference"
                 ],
-                "emoji": "🧠",
+                "emoji": "🔍",
                 "ru": {
-                    "title": "Повышение возможностей языковой модели без изменений весов",
-                    "desc": "В этой статье описывается метод повышения возможностей малой языковой модели, одновременно снижая ее стоимость, без изменения весов. Знания закрепляются в виде точных артефактов состояния (KV) и восстанавливаются в новом контексте вывода. Восстановление является точным, где логиты идентичны свежему вычислению, подтвержденные на разных моделях и графических процессорах. Система позволяет значительно увеличивать контекст использования и требует при этом нулевой дополнительной памяти для ускорителей."
+                    "title": "Проблема самосогласованности в оценках LLM",
+                    "desc": "В этой работе рассматривается концепция ин контекстного обучения, где LLM производит выводы на основе заданного контекста. Исследуется, насколько оценки моделей соответствуют принципу самосогласованности, основанному на законе полной вероятности. Мы используем двоичные деревья для разбиения популяции на подпопуляции и анализируем, как модели агрегируют оценочные данные. Результаты показывают, что модели не всегда корректно учитывают информацию о подгруппах, что приводит к нарушениям основных свойств согласованности."
                 },
                 "en": {
-                    "title": "Boosting Language Model Efficiency with Byte-Exact Knowledge Grafting",
-                    "desc": "This paper presents a method to enhance the performance of a frozen small language model while significantly reducing costs, without altering its weights. The approach involves storing verified knowledge as a byte-exact key-value state, which can be restored into a new inference context. The restoration process ensures that the outputs are identical to those produced by a fresh computation, achieving high accuracy and efficiency. The results demonstrate that this method can dramatically increase the model's capability and extend its usable context without additional memory requirements."
+                    "title": "Unveiling the Macro Fallacy in LLM Estimates",
+                    "desc": "This paper explores in-context learning in large language models (LLMs) and its relationship with conditional inference. It examines whether LLM outputs align with the law of total probability, which states that conditional distributions should aggregate into overall population estimates. The authors find that LLMs often violate these consistency properties, revealing a phenomenon called the macro fallacy, where finer subpopulation estimates are more accurate than direct population-level estimates. The study suggests that while LLMs have knowledge of subpopulations, they struggle to integrate this knowledge into their overall predictions."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.15058",
+            "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
+            "url": "https://huggingface.co/papers/2607.15058",
+            "abstract": "Abstract  CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero-shot methods use visual foundation models to match image regions to CAD models, yet typically their correspondences are appearance-driven and degrade under occlusion or sim-to-real domain shift. To address these limitations, we introduce SUFLECA (Scaling Up Feature LEarning for CAD Alignment), a weakly-supervised framework for zero-shot CAD alignment with two key contributions. First, SUFLECA scales up geometry-grounded feature learning from pretrained visual representations through Normalized Object Coordinates (NOCs) supervision on 674K images spanning 12 real and synthetic datasets, learning compact geometry-aware features that generalize across domains. Second, we propose a geometrically consistent matching algorithm that establishes reliable one-to-one CAD-to-image correspondences. Together, these contributions enable accurate, sub-second alignment per object instance without iterative pose refinement. On ScanNet25k, SUFLECA achieves 33.4%/42.3% category/instance accuracy, outperforming, with a smaller computational footprint, the strongest zero-shot baseline by 10.3/12.2 percentage points and, for the first time on this benchmark, even surpassing fully supervised methods. Code is available at: https://github.com/snt-arg/SUFLECA",
+            "score": 6,
+            "issue_id": 2840,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "f74cc008101e51db",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Saad Ejaz",
+                "Miguel Fernandez-Cortizas",
+                "Javier Civera",
+                "Holger Voos",
+                "Jose Luis Sanchez-Lopez"
+            ],
+            "affiliations": [
+                "Automation and Robotics Research Group, Interdisciplinary Centre for Security, Reliability, and Trust (SnT), University of Luxembourg, Luxembourg",
+                "Faculty of Science, Technology, and Medicine, University of Luxembourg, Luxembourg",
+                "I3A, Universidad de Zaragoza"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.15058.jpg",
+            "data": {
+                "categories": [
+                    "#open_source",
+                    "#3d",
+                    "#transfer_learning",
+                    "#optimization",
+                    "#dataset",
+                    "#benchmark"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Точное выравнивание CAD с помощью слабого обучения",
+                    "desc": "В статье рассматривается метод выравнивания CAD-моделей по изображениям, с помощью которого можно оценить 9D позу объекта на основе одного RGB изображения. Предложенный метод SUFLECA использует слабое обучение для выравнивания CAD без примеров, обучая компактные геометрически осведомленные функции на большом количестве изображений. Кроме того, разрабатывается алгоритм геометрически устойчивого сопоставления, который обеспечивает надежные соответствия между CAD и изображениями. Этот подход позволяет достигать высокой точности выравнивания, не требуя итеративной доработки позы."
+                },
+                "en": {
+                    "title": "Revolutionizing CAD-to-Image Alignment with SUFLECA",
+                    "desc": "This paper presents SUFLECA, a weakly-supervised framework for aligning CAD models with images to estimate an object's 9D pose. It improves upon existing zero-shot methods by incorporating geometry-grounded feature learning using Normalized Object Coordinates (NOCs) from a large dataset. SUFLECA also introduces a geometrically consistent matching algorithm to ensure reliable correspondences between CAD models and image regions. The approach achieves high accuracy in alignment while being computationally efficient, outperforming both zero-shot and fully supervised methods on the ScanNet25k benchmark."
                 }
             }
         },
@@ -1160,49 +1256,44 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.15277",
-            "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-            "url": "https://huggingface.co/papers/2607.15277",
-            "abstract": "Abstract  In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditional distribution. If this interpretation holds, then LLM estimates should satisfy basic probabilistic identities. In particular, the law of total probability asserts that prior-weighted conditional distributions aggregate into population-level marginals over any valid partition of the population. In this work, we investigate to what extent LLM estimates adhere to this self-consistency principle. We use binary trees as an evaluation scaffold to recursively partition a population into increasingly fine-grained subpopulations. We then prompt LLMs with verbalized subpopulation descriptions in context, aggregate the resulting estimates back into population-level estimates, and compare them across partitions of varying granularity. Applying this protocol across problem domains and state-of-the-art frontier models, we show widespread violations of basic consistency properties. An in-depth study of persona prompting reveals a pattern we call the macro fallacy: estimates reconstructed from more fine-grained subpopulation responses are often better aligned with human reference data than direct population-level estimates. This effect persists across variations in tree structure and estimation task, and can be partially recovered through implicit prompting. Together, these findings suggest that models possess relevant subpopulation knowledge but do not reliably propagate it into aggregate estimates. This gap establishes statistical self-consistency as an unsaturated, reference-free criterion for evaluating LLMs.",
-            "score": 5,
-            "issue_id": 2838,
-            "pub_date": "2026-07-16",
+            "id": "https://huggingface.co/papers/2607.14106",
+            "title": "Token Time Continuous Diffusion for Language Modeling",
+            "url": "https://huggingface.co/papers/2607.14106",
+            "abstract": "Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well.",
+            "score": 6,
+            "issue_id": 2841,
+            "pub_date": "2026-05-07",
             "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
+                "ru": "7 мая",
+                "en": "May 7",
+                "zh": "5月7日"
             },
-            "hash": "3f83327f3608f430",
+            "hash": "90df1c737139b742",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Patrik Wolf",
-                "Thomas Kleine Buening",
-                "Andreas Krause",
-                "Celestine Mendler-Dünner"
+                "Parikshit Bansal",
+                "Sujay Sanghavi"
             ],
             "affiliations": [
-                "ELLIS Institute, Tübingen",
-                "ETH Zürich",
-                "Max Planck Institute for Intelligent Systems, Tübingen, Germany",
-                "Tübingen AI Center"
+                "UT Austin"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.15277.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.14106.jpg",
             "data": {
                 "categories": [
-                    "#benchmark",
-                    "#hallucinations",
-                    "#prompting",
-                    "#inference"
+                    "#diffusion",
+                    "#training",
+                    "#architecture",
+                    "#optimization"
                 ],
-                "emoji": "🔍",
+                "emoji": "⚡",
                 "ru": {
-                    "title": "Проблема самосогласованности в оценках LLM",
-                    "desc": "В этой работе рассматривается концепция ин контекстного обучения, где LLM производит выводы на основе заданного контекста. Исследуется, насколько оценки моделей соответствуют принципу самосогласованности, основанному на законе полной вероятности. Мы используем двоичные деревья для разбиения популяции на подпопуляции и анализируем, как модели агрегируют оценочные данные. Результаты показывают, что модели не всегда корректно учитывают информацию о подгруппах, что приводит к нарушениям основных свойств согласованности."
+                    "title": "Диффузионная модель для высокой скорости генерации",
+                    "desc": "В данной работе представлен новый диффузионный языковой модель — TTCD, который работает в непрерывном пространстве и детерминированно отображает гауссовский шум в окончательный токен. Модель вводит новую концепцию временных характеристик для токенов, что позволяет некоторым токенам переходить от шума к токену быстрее других. Использование непрерывного моделирования помогает TTCD избежать параллельной выборки нескольких токенов, что улучшает точность при высоких увеличениях скорости. Модель TTCD показывает лучшие результаты в условной генерации по сравнению с дискретными моделями."
                 },
                 "en": {
-                    "title": "Unveiling the Macro Fallacy in LLM Estimates",
-                    "desc": "This paper explores in-context learning in large language models (LLMs) and its relationship with conditional inference. It examines whether LLM outputs align with the law of total probability, which states that conditional distributions should aggregate into overall population estimates. The authors find that LLMs often violate these consistency properties, revealing a phenomenon called the macro fallacy, where finer subpopulation estimates are more accurate than direct population-level estimates. The study suggests that while LLMs have knowledge of subpopulations, they struggle to integrate this knowledge into their overall predictions."
+                    "title": "Revolutionizing Token Generation with Continuous Diffusion",
+                    "desc": "This paper presents a novel diffusion language model called token time continuous diffusion (TTCD). TTCD operates in continuous space, allowing it to deterministically convert Gaussian noise into tokens without the need for sampling. It introduces the concept of per-token times, enabling some tokens to transition from noise to final output more quickly than others, which enhances conditional generation. The model demonstrates superior performance over traditional discrete models, especially at high speedups, achieving comparable quality in unconditional generation and outperforming in conditional tasks."
                 }
             }
         },
@@ -1258,51 +1349,52 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.15058",
-            "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
-            "url": "https://huggingface.co/papers/2607.15058",
-            "abstract": "Abstract  CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero-shot methods use visual foundation models to match image regions to CAD models, yet typically their correspondences are appearance-driven and degrade under occlusion or sim-to-real domain shift. To address these limitations, we introduce SUFLECA (Scaling Up Feature LEarning for CAD Alignment), a weakly-supervised framework for zero-shot CAD alignment with two key contributions. First, SUFLECA scales up geometry-grounded feature learning from pretrained visual representations through Normalized Object Coordinates (NOCs) supervision on 674K images spanning 12 real and synthetic datasets, learning compact geometry-aware features that generalize across domains. Second, we propose a geometrically consistent matching algorithm that establishes reliable one-to-one CAD-to-image correspondences. Together, these contributions enable accurate, sub-second alignment per object instance without iterative pose refinement. On ScanNet25k, SUFLECA achieves 33.4%/42.3% category/instance accuracy, outperforming, with a smaller computational footprint, the strongest zero-shot baseline by 10.3/12.2 percentage points and, for the first time on this benchmark, even surpassing fully supervised methods. Code is available at: https://github.com/snt-arg/SUFLECA",
+            "id": "https://huggingface.co/papers/2607.14387",
+            "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
+            "url": "https://huggingface.co/papers/2607.14387",
+            "abstract": "Abstract  Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrieval-based full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrieval-augmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides a chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/TUM-AVS/chat2scenic.",
             "score": 4,
-            "issue_id": 2840,
-            "pub_date": "2026-07-16",
+            "issue_id": 2842,
+            "pub_date": "2026-07-15",
             "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
             },
-            "hash": "f74cc008101e51db",
+            "hash": "d04051ceef91c6b6",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Saad Ejaz",
-                "Miguel Fernandez-Cortizas",
-                "Javier Civera",
-                "Holger Voos",
-                "Jose Luis Sanchez-Lopez"
+                "Yuan Gao",
+                "Wenting Miao",
+                "Mattia Piccinini",
+                "Haoyu Wang",
+                "Qunying Song",
+                "Johannes Betz"
             ],
             "affiliations": [
-                "Automation and Robotics Research Group, Interdisciplinary Centre for Security, Reliability, and Trust (SnT), University of Luxembourg, Luxembourg",
-                "Faculty of Science, Technology, and Medicine, University of Luxembourg, Luxembourg",
-                "I3A, Universidad de Zaragoza"
+                "Munich Institute of Robotics and Machine Intelligence (MIRMI)",
+                "Professorship of Autonomous Vehicle Systems, TUM School of Engineering and Design, Technical University of Munich, 85748 Garching, Germany",
+                "University College London, London, United Kingdom"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.15058.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.14387.jpg",
             "data": {
                 "categories": [
-                    "#open_source",
-                    "#3d",
-                    "#transfer_learning",
-                    "#optimization",
-                    "#dataset",
-                    "#benchmark"
+                    "#retrieval",
+                    "#rag",
+                    "#agents",
+                    "#benchmark",
+                    "#survey",
+                    "#open_source"
                 ],
-                "emoji": "🖼️",
+                "emoji": "🚗",
                 "ru": {
-                    "title": "Точное выравнивание CAD с помощью слабого обучения",
-                    "desc": "В статье рассматривается метод выравнивания CAD-моделей по изображениям, с помощью которого можно оценить 9D позу объекта на основе одного RGB изображения. Предложенный метод SUFLECA использует слабое обучение для выравнивания CAD без примеров, обучая компактные геометрически осведомленные функции на большом количестве изображений. Кроме того, разрабатывается алгоритм геометрически устойчивого сопоставления, который обеспечивает надежные соответствия между CAD и изображениями. Этот подход позволяет достигать высокой точности выравнивания, не требуя итеративной доработки позы."
+                    "title": "Инновации в тестировании автономного вождения",
+                    "desc": "Статья представляет Chat2Scenic, новый фреймворк для генерации сценариев тестирования автономных систем вождения. Он использует подход, основанный на Retrieval-augmented Generation (RAG), что позволяет создавать сценарии на основе регуляторных требований. Chat2Scenic включает интерфейс чат-бота для интерактивной доработки сценариев и достигает высокой успешности компиляции. Результаты оценок показывают, что он превосходит существующие методы по важным метрикам."
                 },
                 "en": {
-                    "title": "Revolutionizing CAD-to-Image Alignment with SUFLECA",
-                    "desc": "This paper presents SUFLECA, a weakly-supervised framework for aligning CAD models with images to estimate an object's 9D pose. It improves upon existing zero-shot methods by incorporating geometry-grounded feature learning using Normalized Object Coordinates (NOCs) from a large dataset. SUFLECA also introduces a geometrically consistent matching algorithm to ensure reliable correspondences between CAD models and image regions. The approach achieves high accuracy in alignment while being computationally efficient, outperforming both zero-shot and fully supervised methods on the ScanNet25k benchmark."
+                    "title": "Revolutionizing Scenario Generation for Autonomous Driving",
+                    "desc": "This paper introduces Chat2Scenic, a novel framework for generating test scenarios for autonomous driving systems using a Domain Specific Language (DSL). It combines a chatbot interface for interactive refinement with Retrieval-augmented Generation (RAG) to ensure compliance with regulatory standards. The framework addresses the challenges of existing methods by achieving a higher Compilation Success Rate (CSR) and Framework Accuracy (FA). An open benchmark of 123 scenarios from various regulations is also provided to support future research in this area."
                 }
             }
         },
@@ -1416,98 +1508,6 @@
                 "en": {
                     "title": "Empowering Video Models with Human-like Reasoning",
                     "desc": "This paper presents HDR (Hierarchical Denoising for Visual Reasoning), a new framework that enhances video models by enabling multi-step reasoning similar to human thought processes. HDR organizes video data into a tree-like structure, allowing for a systematic approach to reasoning that starts broadly and refines details over time. It introduces a sparse hierarchical attention pattern to reduce computational costs while maintaining low-latency streaming. The framework shows significant improvements in reasoning tasks, outperforming existing models in both efficiency and accuracy, making it suitable for real-world applications like robotics."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.14387",
-            "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
-            "url": "https://huggingface.co/papers/2607.14387",
-            "abstract": "Abstract  Validating autonomous driving systems requires diverse, regulation-compliant test scenarios. In simulation-based testing, scenarios are defined as executable scripts. Yet automatically generating such scripts from regulatory descriptions remains an open challenge, and existing approaches face fundamental trade-offs. Retrieval-assemble methods achieve reasonable compilation rates but lack scalability, whereas retrieval-based full-script generation suffers from low compilation success rates. We present Chat2Scenic, the first iterative retrieval-augmented framework to generate scenario scripts in Domain Specific Language (DSL). Specifically, Chat2Scenic provides a chatbot interface that supports interactive scenario refinement and integrates Retrieval-augmented Generation (RAG) to ground scenario generation in regulatory knowledge and DSL syntax. Furthermore, we propose an open benchmark for scenario generation comprising 123 scenarios from various regulations, including NHTSA and United Nations Vehicle Regulations, as well as other sources. Extensive evaluation with State-of-the-Art (SOTA) Large Language Models (LLMs) demonstrates that Chat2Scenic achieves 76.42% Compilation Success Rate (CSR) and 58.17% Framework Accuracy (FA), outperforming existing methods (Retrieval Assemble with 30.08% CSR, 11.03% FA and Retrieval full script generation with 16.26% CSR, 10.86% FA). To facilitate future research, we release our code as open source at https://github.com/TUM-AVS/chat2scenic.",
-            "score": 3,
-            "issue_id": 2842,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "d04051ceef91c6b6",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yuan Gao",
-                "Wenting Miao",
-                "Mattia Piccinini",
-                "Haoyu Wang",
-                "Qunying Song",
-                "Johannes Betz"
-            ],
-            "affiliations": [
-                "Munich Institute of Robotics and Machine Intelligence (MIRMI)",
-                "Professorship of Autonomous Vehicle Systems, TUM School of Engineering and Design, Technical University of Munich, 85748 Garching, Germany",
-                "University College London, London, United Kingdom"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14387.jpg",
-            "data": {
-                "categories": [
-                    "#retrieval",
-                    "#rag",
-                    "#agents",
-                    "#benchmark",
-                    "#survey",
-                    "#open_source"
-                ],
-                "emoji": "🚗",
-                "ru": {
-                    "title": "Инновации в тестировании автономного вождения",
-                    "desc": "Статья представляет Chat2Scenic, новый фреймворк для генерации сценариев тестирования автономных систем вождения. Он использует подход, основанный на Retrieval-augmented Generation (RAG), что позволяет создавать сценарии на основе регуляторных требований. Chat2Scenic включает интерфейс чат-бота для интерактивной доработки сценариев и достигает высокой успешности компиляции. Результаты оценок показывают, что он превосходит существующие методы по важным метрикам."
-                },
-                "en": {
-                    "title": "Revolutionizing Scenario Generation for Autonomous Driving",
-                    "desc": "This paper introduces Chat2Scenic, a novel framework for generating test scenarios for autonomous driving systems using a Domain Specific Language (DSL). It combines a chatbot interface for interactive refinement with Retrieval-augmented Generation (RAG) to ensure compliance with regulatory standards. The framework addresses the challenges of existing methods by achieving a higher Compilation Success Rate (CSR) and Framework Accuracy (FA). An open benchmark of 123 scenarios from various regulations is also provided to support future research in this area."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.14106",
-            "title": "Token Time Continuous Diffusion for Language Modeling",
-            "url": "https://huggingface.co/papers/2607.14106",
-            "abstract": "Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well.",
-            "score": 3,
-            "issue_id": 2841,
-            "pub_date": "2026-05-07",
-            "pub_date_card": {
-                "ru": "7 мая",
-                "en": "May 7",
-                "zh": "5月7日"
-            },
-            "hash": "90df1c737139b742",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Parikshit Bansal",
-                "Sujay Sanghavi"
-            ],
-            "affiliations": [
-                "UT Austin"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14106.jpg",
-            "data": {
-                "categories": [
-                    "#diffusion",
-                    "#training",
-                    "#architecture",
-                    "#optimization"
-                ],
-                "emoji": "⚡",
-                "ru": {
-                    "title": "Диффузионная модель для высокой скорости генерации",
-                    "desc": "В данной работе представлен новый диффузионный языковой модель — TTCD, который работает в непрерывном пространстве и детерминированно отображает гауссовский шум в окончательный токен. Модель вводит новую концепцию временных характеристик для токенов, что позволяет некоторым токенам переходить от шума к токену быстрее других. Использование непрерывного моделирования помогает TTCD избежать параллельной выборки нескольких токенов, что улучшает точность при высоких увеличениях скорости. Модель TTCD показывает лучшие результаты в условной генерации по сравнению с дискретными моделями."
-                },
-                "en": {
-                    "title": "Revolutionizing Token Generation with Continuous Diffusion",
-                    "desc": "This paper presents a novel diffusion language model called token time continuous diffusion (TTCD). TTCD operates in continuous space, allowing it to deterministically convert Gaussian noise into tokens without the need for sampling. It introduces the concept of per-token times, enabling some tokens to transition from noise to final output more quickly than others, which enhances conditional generation. The model demonstrates superior performance over traditional discrete models, especially at high speedups, achieving comparable quality in unconditional generation and outperforming in conditional tasks."
                 }
             }
         },
