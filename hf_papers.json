@@ -4,9 +4,9 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-18 21:50",
+    "time_utc": "2026-07-19 02:33",
     "weekday": 4,
-    "issue_id": 2851,
+    "issue_id": 2852,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
             "url": "https://huggingface.co/papers/2607.14952",
             "abstract": "Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete.",
-            "score": 171,
+            "score": 172,
             "issue_id": 2839,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -76,7 +76,7 @@
             "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
             "url": "https://huggingface.co/papers/2607.14935",
             "abstract": "Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video types, making them effective only in specific domains. High computational demands further restrict their efficiency and scalability. Moreover, most models are only partially open, with key components such as training code, strategy, or datasets unavailable, which hinders reproducibility and slows community-driven development. To address these issues, we introduce VideoChat3, a fully open, efficient, and generalist video-centric MLLM. VideoChat3 advances video understanding through two complementary designs. For efficiency, we introduce Inflated 3D Vision Transformer (I3D-ViT) and Adaptive Frame Resolution for Streaming Video Perception, which enables efficient spatiotemporal representation and reduces the cost of processing video inputs during training and inference. For effectiveness, we develop a scalable video data synthesis pipeline that curates three diverse, high-quality training datasets: VideoChat3-Academic2M, VideoChat3-LV116K, and VideoChat3-OL617K, covering general, long-form, and streaming video scenarios, improving the model's generalization across domains. By integrating these designs, VideoChat3 achieves a rare balance of broad generalization and computational efficiency. Experiments across general, long-form, and streaming benchmarks demonstrate that VideoChat3 surpasses prior open-source models with equal or larger parameter counts with only 4B parameters and higher efficiency.",
-            "score": 119,
+            "score": 120,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -150,7 +150,7 @@
             "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
             "url": "https://huggingface.co/papers/2607.14777",
             "abstract": "Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards offer limited guidance on intermediate decisions, leaving a supervision gap between episode-level outcomes and token-level policy learning. We propose SEED (SElf-Evolving On-Policy Distillation), a self-evolving framework that converts completed on-policy trajectories into training-time hindsight skills and distills their behavioral effect back into the policy model. SEED first fine-tunes the policy to analyze completed trajectories and generate natural-language skills that capture reusable workflows, decisive observations, or failure-avoidance rules. During RL, the current policy both collects trajectories and serves as the analyzer that extracts hindsight skills from them. Policy updates therefore improve subsequent decision making and skill analysis together, allowing hindsight supervision to evolve with the policy. SEED then re-scores the sampled actions under ordinary and skill-augmented contexts, converting the skill-induced probability shift into a dense token-level on-policy distillation signal. This signal is jointly optimized with outcome-based RL, keeping the auxiliary supervision aligned with the current trajectory distribution. Extensive experiments on text-based and vision-based agentic tasks show that SEED consistently improves performance and sample efficiency, exhibiting robust generalization to unseen scenarios. Our code is available at https://github.com/jinyangwu/SEED.",
-            "score": 82,
+            "score": 83,
             "issue_id": 2836,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -433,58 +433,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.14076",
-            "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-            "url": "https://huggingface.co/papers/2607.14076",
-            "abstract": "Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly regarded as potential next-generation game engines. Realizing a genuinely interactive game world, however, requires interaction outcomes that follow rules over evolving game conditions, consequences that persist over long horizons, and a generation loop that operates in real time. Conventional game engines realize these properties through a recurrent action-state-observation loop, in which player actions update an explicit game state according to predefined rules and observations are rendered from the resulting state. Taking this loop as an organizing lens, this paper examines interactive game world modeling along four dimensions: player action control, game state dynamics, state-observation persistence, and real-time interactive generation. For each dimension, we start from the capabilities required by an interactive game world, group existing approaches into representative families, and discuss the strengths and trade-offs of each family. Complementing this analysis, we present a scalable data engine for Black Myth: Wukong that collects over 90 hours of gameplay with frame-aligned player actions, ground-truth game states, and visual observations, together with structured and semantic annotations, as a resource for state-aware game world modeling. We hope this paper offers a clear picture of where the field stands and fosters progress toward interactive game worlds.",
-            "score": 27,
-            "issue_id": 2837,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "547dde71a45f44f4",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhen Li",
-                "Zian Meng",
-                "Shuwei Shi",
-                "Mingliang Zhai",
-                "Jiaming Tan",
-                "Chuanhao Li",
-                "Kaipeng Zhang"
-            ],
-            "affiliations": [
-                "Alaya Lab"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14076.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#data",
-                    "#games",
-                    "#agents"
-                ],
-                "emoji": "🎮",
-                "ru": {
-                    "title": "Создание интерактивных игровых миров",
-                    "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и искусственного интеллекта (AI). Используя модели генерации видео, авторы предлагают способ создания динамичных игровых ситуаций, основываясь на действиях пользователей. Они анализируют четыре ключевых аспекта моделирования игровых миров: контроль действия игрока, динамика состояния игры, постоянство состояния и взаимодействие в реальном времени. Кроме того, авторы представляют масштабный датасет на основе игры Black Myth: Wukong, который может служить ресурсом для углубленного моделирования игровых миров с учетом состояния."
-                },
-                "en": {
-                    "title": "Building Real-Time Interactive Game Worlds",
-                    "desc": "This paper explores the creation of interactive game worlds that respond logically to player actions using video generative models. It highlights the importance of maintaining game rules, long-term consequences, and real-time interactions in game design. The authors analyze existing methods for modeling game worlds based on four key dimensions: player action control, game state dynamics, state-observation persistence, and real-time generation. Additionally, they introduce a data engine for Black Myth: Wukong, which collects extensive gameplay data to aid in developing state-aware game world models."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.12800",
             "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
             "url": "https://huggingface.co/papers/2607.12800",
             "abstract": "Abstract  Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce UniVR, the first investigation into simultaneously learning complex reasoning, fine-grained physical dynamics, and long-term planning from pure visual demonstrations. At its core, UniVR features VR-GRPO, a reinforcement learning paradigm with complementary global and step-level rewards. This approach enforces logical coherence and physical consistency throughout the reasoning process without requiring task-specific heuristics or image-text pairs. To train and evaluate UniVR, we construct VR-X, a large-scale benchmark curated from 16 diverse sources spanning long-horizon manipulation, spatial puzzles, and physical reasoning. It is the first comprehensive suite to assess these heterogeneous capabilities under a purely visual protocol. Remarkably, UniVR achieves up to a 25% improvement on VR-X, and its superior visual reasoning also boosts performance on various multimodal understanding benchmarks. These findings underscore the vast potential of reasoning within visual spaces, with all code, data, and models are open-sourced for further research.",
-            "score": 27,
+            "score": 28,
             "issue_id": 2837,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -535,7 +488,7 @@
             "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes",
             "url": "https://huggingface.co/papers/2607.13188",
             "abstract": "Abstract  Human cognition does not separate understanding and generation. A teacher at a whiteboard speaks and draws together, each modality reshapes the other. In this paper, we bring this coupled loop to artificial systems. Masked Diffusion Models (MDMs) are ideally suited to this task, yet existing samplers either decode text and image interleavedly or independently update them in parallel branches that share only previous-step history, but not the other modality's latest decisions within the same step; combined with MDMs' inability to remask, cross-modal contradictions are neither detected nor repaired. We introduce Self-Correcting Coupled Markov Jump Processes (SC-CMJP), a framework in which one modality's transition rates are functionals of the other modality's confidence score, as weighted by cross-modal attention. Furthermore, a remasking jump retracts commitments the moment cross-modal evidence turns against them. In conjunction with SC-CMJP, we introduce CO_2Jump (Self-text{CO}rrecting text{CO}upled text{Jump}), a novel training-free single-pass sampler for joint multimodal geneneration. For training and evaluation purposes, we have created and will release three large-scale joint multimodal generation corpora: JEdit-1M, JMaze-200K, JNono-200K, with matching in- and out-of-distribution benchmarks. CO_2Jump achieves best joint performance for image understanding and editing as well as visual reasoning (maze and nonogram solving). The performance of the sampler scales monotonically with the number of denoising steps, evidence that the benefits of cross-modal coupling compound across the trajectory. Project page: https://coupled-jump.github.io",
-            "score": 27,
+            "score": 28,
             "issue_id": 2837,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -580,6 +533,53 @@
                 "en": {
                     "title": "Integrating Understanding and Generation in AI",
                     "desc": "This paper presents a new approach to artificial intelligence that mimics human cognition by integrating understanding and generation across different modalities, like text and images. It introduces Self-Correcting Coupled Markov Jump Processes (SC-CMJP), which allows one modality to influence the other based on confidence scores, enhancing the interaction between them. The proposed CO_2Jump sampler enables efficient joint multimodal generation without the need for extensive training. The authors also provide large-scale datasets for evaluation, demonstrating that their method improves performance in tasks like image understanding and visual reasoning."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.14076",
+            "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+            "url": "https://huggingface.co/papers/2607.14076",
+            "abstract": "Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly regarded as potential next-generation game engines. Realizing a genuinely interactive game world, however, requires interaction outcomes that follow rules over evolving game conditions, consequences that persist over long horizons, and a generation loop that operates in real time. Conventional game engines realize these properties through a recurrent action-state-observation loop, in which player actions update an explicit game state according to predefined rules and observations are rendered from the resulting state. Taking this loop as an organizing lens, this paper examines interactive game world modeling along four dimensions: player action control, game state dynamics, state-observation persistence, and real-time interactive generation. For each dimension, we start from the capabilities required by an interactive game world, group existing approaches into representative families, and discuss the strengths and trade-offs of each family. Complementing this analysis, we present a scalable data engine for Black Myth: Wukong that collects over 90 hours of gameplay with frame-aligned player actions, ground-truth game states, and visual observations, together with structured and semantic annotations, as a resource for state-aware game world modeling. We hope this paper offers a clear picture of where the field stands and fosters progress toward interactive game worlds.",
+            "score": 27,
+            "issue_id": 2837,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "547dde71a45f44f4",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhen Li",
+                "Zian Meng",
+                "Shuwei Shi",
+                "Mingliang Zhai",
+                "Jiaming Tan",
+                "Chuanhao Li",
+                "Kaipeng Zhang"
+            ],
+            "affiliations": [
+                "Alaya Lab"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14076.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#data",
+                    "#games",
+                    "#agents"
+                ],
+                "emoji": "🎮",
+                "ru": {
+                    "title": "Создание интерактивных игровых миров",
+                    "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и искусственного интеллекта (AI). Используя модели генерации видео, авторы предлагают способ создания динамичных игровых ситуаций, основываясь на действиях пользователей. Они анализируют четыре ключевых аспекта моделирования игровых миров: контроль действия игрока, динамика состояния игры, постоянство состояния и взаимодействие в реальном времени. Кроме того, авторы представляют масштабный датасет на основе игры Black Myth: Wukong, который может служить ресурсом для углубленного моделирования игровых миров с учетом состояния."
+                },
+                "en": {
+                    "title": "Building Real-Time Interactive Game Worlds",
+                    "desc": "This paper explores the creation of interactive game worlds that respond logically to player actions using video generative models. It highlights the importance of maintaining game rules, long-term consequences, and real-time interactions in game design. The authors analyze existing methods for modeling game worlds based on four key dimensions: player action control, game state dynamics, state-observation persistence, and real-time generation. Additionally, they introduce a data engine for Black Myth: Wukong, which collects extensive gameplay data to aid in developing state-aware game world models."
                 }
             }
         },
@@ -639,7 +639,7 @@
             "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
             "url": "https://huggingface.co/papers/2607.14187",
             "abstract": "Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single planning sequence where language and visual imagination play complementary roles. Language provides the abstract structure of a plan, including task decomposition, planning primitives, constraints, temporal order, and decision logic, while visual imagination grounds this structure through world state prediction and joint subgoal planning, associating each planning step with intermediate and final physical states. RxBrain adopts a unified multimodal Mixture-of-Transformers architecture that supports language, image, and video understanding and generation within one model. To train this capability, we build an automatic pipeline that converts embodied videos into joint text-visual planning supervision by decomposing videos into planning steps and aligning them with visual state transitions. We further introduce RxBrain-Bench to evaluate whether models can represent embodied plans through joint textual and visual components rather than separate understanding or generation. Experiments show that RxBrain maintains embodied understanding and generation abilities, and produces plans with coupled textual reasoning, world state prediction, and joint subgoal planning. We also extend RxBrain to continuous robot action generation, where it shows promising real-robot performance without large-scale action-data pretraining. These results provide an initial step toward foundation models for embodied cognition.",
-            "score": 20,
+            "score": 21,
             "issue_id": 2842,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -877,6 +877,51 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.13491",
+            "title": "DeepLoop: Depth Scaling for Looped Transformers",
+            "url": "https://huggingface.co/papers/2607.13491",
+            "abstract": "Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and applies its own parameter update, whereas in a looped Transformer one shared update aggregates gradients from repeated visits and is read back by those same visits in the next linearized forward pass. We formalize this tied-depth effect through a first-order perturbation bound controlled by a visit-alignment coefficient κ_R. The bound recovers the DeepNorm exponent when visits decorrelate, but in the conservative aligned regime it requires the exponent to increase from 1/4 to 1/2 as loop count grows at fixed physical depth. The resulting method, DeepLoop, keeps the Post-LN DeepNorm architecture and sets α=(2N)^{1/2} and β=(8N)^{-1/2} for unrolled depth N. On GPT-style looped language models at GPT-2 small and GPT-2 medium scale, DeepLoop is neutral when no physical block is revisited and improves validation loss and downstream accuracy once recurrent depth is activated. These results show that stable recurrent depth requires residual scaling rules that account for parameter visits, not only nominal layer count.",
+            "score": 13,
+            "issue_id": 2837,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "87a8d3433bdaed78",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Shuzhen Li",
+                "Yifan Zhang",
+                "Jiacheng Guo",
+                "Quanquan Gu",
+                "Mengdi Wang"
+            ],
+            "affiliations": [
+                "Princeton University",
+                "University of California, Los Angeles"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13491.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#architecture",
+                    "#optimization"
+                ],
+                "emoji": "🔄",
+                "ru": {
+                    "title": "Улучшение моделей с помощью зацикленных трансформеров",
+                    "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформеры для улучшения последовательных вычислений. Она позволяет увеличить глубину развертки без необходимости увеличения количества хранимых параметров. Это достигается за счет совместного обновления параметров в рамках повторных обращений к одноименным блокам, что помогает решить проблему масштабирования остаточных связей. Эксперименты показывают, что этот подход улучшает точность и снижает потерю валидации при использовании повторяющихся глубин."
+                },
+                "en": {
+                    "title": "Enhancing Transformers with DeepLoop for Better Performance",
+                    "desc": "This paper introduces DeepLoop, a method that enhances Transformers by allowing them to reuse computation across multiple rounds without increasing the number of parameters. It addresses the residual-scaling issue by using a shared parameter update for all visits in a looped Transformer, which aggregates gradients more effectively. The authors formalize the impact of this approach through a visit-alignment coefficient, showing how it influences the scaling of residuals. The results demonstrate that DeepLoop improves performance in language models by stabilizing recurrent depth and optimizing residual scaling rules."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.15273",
             "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
             "url": "https://huggingface.co/papers/2607.15273",
@@ -921,51 +966,6 @@
                 "en": {
                     "title": "Bridging Average and Instantaneous Velocities for Efficient Sampling",
                     "desc": "This paper introduces MeanFlowNFT, a novel approach that combines MeanFlow generators with reinforcement learning (RL) to enhance few-step sampling efficiency. By leveraging the MeanFlow identity, it creates an instantaneous-velocity predictor that aligns with the DiffusionNFT framework, allowing for effective reward optimization. The method maintains the fast generation capabilities of MeanFlow while improving performance metrics over existing state-of-the-art models. Experiments demonstrate that MeanFlowNFT outperforms traditional RL-tuned generators, achieving superior results with fewer sampling steps."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.13491",
-            "title": "DeepLoop: Depth Scaling for Looped Transformers",
-            "url": "https://huggingface.co/papers/2607.13491",
-            "abstract": "Abstract  Looped Transformers scale sequential computation by applying a compact stack of physical blocks for multiple rounds, increasing unrolled depth without increasing stored parameters. This reuse changes the residual-scaling problem: in an untied Transformer, each residual branch receives and applies its own parameter update, whereas in a looped Transformer one shared update aggregates gradients from repeated visits and is read back by those same visits in the next linearized forward pass. We formalize this tied-depth effect through a first-order perturbation bound controlled by a visit-alignment coefficient κ_R. The bound recovers the DeepNorm exponent when visits decorrelate, but in the conservative aligned regime it requires the exponent to increase from 1/4 to 1/2 as loop count grows at fixed physical depth. The resulting method, DeepLoop, keeps the Post-LN DeepNorm architecture and sets α=(2N)^{1/2} and β=(8N)^{-1/2} for unrolled depth N. On GPT-style looped language models at GPT-2 small and GPT-2 medium scale, DeepLoop is neutral when no physical block is revisited and improves validation loss and downstream accuracy once recurrent depth is activated. These results show that stable recurrent depth requires residual scaling rules that account for parameter visits, not only nominal layer count.",
-            "score": 12,
-            "issue_id": 2837,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "87a8d3433bdaed78",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Shuzhen Li",
-                "Yifan Zhang",
-                "Jiacheng Guo",
-                "Quanquan Gu",
-                "Mengdi Wang"
-            ],
-            "affiliations": [
-                "Princeton University",
-                "University of California, Los Angeles"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13491.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#architecture",
-                    "#optimization"
-                ],
-                "emoji": "🔄",
-                "ru": {
-                    "title": "Улучшение моделей с помощью зацикленных трансформеров",
-                    "desc": "В данной работе представлена новая архитектура моделей машинного обучения под названием DeepLoop, которая использует зацикленные трансформеры для улучшения последовательных вычислений. Она позволяет увеличить глубину развертки без необходимости увеличения количества хранимых параметров. Это достигается за счет совместного обновления параметров в рамках повторных обращений к одноименным блокам, что помогает решить проблему масштабирования остаточных связей. Эксперименты показывают, что этот подход улучшает точность и снижает потерю валидации при использовании повторяющихся глубин."
-                },
-                "en": {
-                    "title": "Enhancing Transformers with DeepLoop for Better Performance",
-                    "desc": "This paper introduces DeepLoop, a method that enhances Transformers by allowing them to reuse computation across multiple rounds without increasing the number of parameters. It addresses the residual-scaling issue by using a shared parameter update for all visits in a looped Transformer, which aggregates gradients more effectively. The authors formalize the impact of this approach through a visit-alignment coefficient, showing how it influences the scaling of residuals. The results demonstrate that DeepLoop improves performance in language models by stabilizing recurrent depth and optimizing residual scaling rules."
                 }
             }
         },
@@ -1110,6 +1110,55 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.15058",
+            "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
+            "url": "https://huggingface.co/papers/2607.15058",
+            "abstract": "Abstract  CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero-shot methods use visual foundation models to match image regions to CAD models, yet typically their correspondences are appearance-driven and degrade under occlusion or sim-to-real domain shift. To address these limitations, we introduce SUFLECA (Scaling Up Feature LEarning for CAD Alignment), a weakly-supervised framework for zero-shot CAD alignment with two key contributions. First, SUFLECA scales up geometry-grounded feature learning from pretrained visual representations through Normalized Object Coordinates (NOCs) supervision on 674K images spanning 12 real and synthetic datasets, learning compact geometry-aware features that generalize across domains. Second, we propose a geometrically consistent matching algorithm that establishes reliable one-to-one CAD-to-image correspondences. Together, these contributions enable accurate, sub-second alignment per object instance without iterative pose refinement. On ScanNet25k, SUFLECA achieves 33.4%/42.3% category/instance accuracy, outperforming, with a smaller computational footprint, the strongest zero-shot baseline by 10.3/12.2 percentage points and, for the first time on this benchmark, even surpassing fully supervised methods. Code is available at: https://github.com/snt-arg/SUFLECA",
+            "score": 7,
+            "issue_id": 2840,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "f74cc008101e51db",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Saad Ejaz",
+                "Miguel Fernandez-Cortizas",
+                "Javier Civera",
+                "Holger Voos",
+                "Jose Luis Sanchez-Lopez"
+            ],
+            "affiliations": [
+                "Automation and Robotics Research Group, Interdisciplinary Centre for Security, Reliability, and Trust (SnT), University of Luxembourg, Luxembourg",
+                "Faculty of Science, Technology, and Medicine, University of Luxembourg, Luxembourg",
+                "I3A, Universidad de Zaragoza"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.15058.jpg",
+            "data": {
+                "categories": [
+                    "#open_source",
+                    "#3d",
+                    "#transfer_learning",
+                    "#optimization",
+                    "#dataset",
+                    "#benchmark"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Точное выравнивание CAD с помощью слабого обучения",
+                    "desc": "В статье рассматривается метод выравнивания CAD-моделей по изображениям, с помощью которого можно оценить 9D позу объекта на основе одного RGB изображения. Предложенный метод SUFLECA использует слабое обучение для выравнивания CAD без примеров, обучая компактные геометрически осведомленные функции на большом количестве изображений. Кроме того, разрабатывается алгоритм геометрически устойчивого сопоставления, который обеспечивает надежные соответствия между CAD и изображениями. Этот подход позволяет достигать высокой точности выравнивания, не требуя итеративной доработки позы."
+                },
+                "en": {
+                    "title": "Revolutionizing CAD-to-Image Alignment with SUFLECA",
+                    "desc": "This paper presents SUFLECA, a weakly-supervised framework for aligning CAD models with images to estimate an object's 9D pose. It improves upon existing zero-shot methods by incorporating geometry-grounded feature learning using Normalized Object Coordinates (NOCs) from a large dataset. SUFLECA also introduces a geometrically consistent matching algorithm to ensure reliable correspondences between CAD models and image regions. The approach achieves high accuracy in alignment while being computationally efficient, outperforming both zero-shot and fully supervised methods on the ScanNet25k benchmark."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.15277",
             "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
             "url": "https://huggingface.co/papers/2607.15277",
@@ -1157,60 +1206,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.15058",
-            "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
-            "url": "https://huggingface.co/papers/2607.15058",
-            "abstract": "Abstract  CAD-to-image alignment aims to estimate an object's 9D pose (rotation, translation, and anisotropic scale) from a single RGB image, enabling applications in robotics and augmented reality. Recent zero-shot methods use visual foundation models to match image regions to CAD models, yet typically their correspondences are appearance-driven and degrade under occlusion or sim-to-real domain shift. To address these limitations, we introduce SUFLECA (Scaling Up Feature LEarning for CAD Alignment), a weakly-supervised framework for zero-shot CAD alignment with two key contributions. First, SUFLECA scales up geometry-grounded feature learning from pretrained visual representations through Normalized Object Coordinates (NOCs) supervision on 674K images spanning 12 real and synthetic datasets, learning compact geometry-aware features that generalize across domains. Second, we propose a geometrically consistent matching algorithm that establishes reliable one-to-one CAD-to-image correspondences. Together, these contributions enable accurate, sub-second alignment per object instance without iterative pose refinement. On ScanNet25k, SUFLECA achieves 33.4%/42.3% category/instance accuracy, outperforming, with a smaller computational footprint, the strongest zero-shot baseline by 10.3/12.2 percentage points and, for the first time on this benchmark, even surpassing fully supervised methods. Code is available at: https://github.com/snt-arg/SUFLECA",
-            "score": 6,
-            "issue_id": 2840,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "f74cc008101e51db",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Saad Ejaz",
-                "Miguel Fernandez-Cortizas",
-                "Javier Civera",
-                "Holger Voos",
-                "Jose Luis Sanchez-Lopez"
-            ],
-            "affiliations": [
-                "Automation and Robotics Research Group, Interdisciplinary Centre for Security, Reliability, and Trust (SnT), University of Luxembourg, Luxembourg",
-                "Faculty of Science, Technology, and Medicine, University of Luxembourg, Luxembourg",
-                "I3A, Universidad de Zaragoza"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.15058.jpg",
-            "data": {
-                "categories": [
-                    "#open_source",
-                    "#3d",
-                    "#transfer_learning",
-                    "#optimization",
-                    "#dataset",
-                    "#benchmark"
-                ],
-                "emoji": "🖼️",
-                "ru": {
-                    "title": "Точное выравнивание CAD с помощью слабого обучения",
-                    "desc": "В статье рассматривается метод выравнивания CAD-моделей по изображениям, с помощью которого можно оценить 9D позу объекта на основе одного RGB изображения. Предложенный метод SUFLECA использует слабое обучение для выравнивания CAD без примеров, обучая компактные геометрически осведомленные функции на большом количестве изображений. Кроме того, разрабатывается алгоритм геометрически устойчивого сопоставления, который обеспечивает надежные соответствия между CAD и изображениями. Этот подход позволяет достигать высокой точности выравнивания, не требуя итеративной доработки позы."
-                },
-                "en": {
-                    "title": "Revolutionizing CAD-to-Image Alignment with SUFLECA",
-                    "desc": "This paper presents SUFLECA, a weakly-supervised framework for aligning CAD models with images to estimate an object's 9D pose. It improves upon existing zero-shot methods by incorporating geometry-grounded feature learning using Normalized Object Coordinates (NOCs) from a large dataset. SUFLECA also introduces a geometrically consistent matching algorithm to ensure reliable correspondences between CAD models and image regions. The approach achieves high accuracy in alignment while being computationally efficient, outperforming both zero-shot and fully supervised methods on the ScanNet25k benchmark."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.10995",
             "title": "AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling",
             "url": "https://huggingface.co/papers/2607.10995",
             "abstract": "Abstract  Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cost of substantial redundant computation. We identify that the redundancy can be mitigated based on two observations: (i) high-precision geometry is not strictly required for high-quality NVS; (ii) appearance learning is generally easier than geometry recovery. Motivated by these insights, we propose an asymmetric architecture that decouples geometry and appearance modeling. The geometry branch processes coarse-grained tokens with most of the parameters for multi-view reconstruction, while the appearance branch operates on fine-grained tokens to capture details using significantly fewer parameters. The two branches interact through bilateral connections, enabling mutual guidance for their respective tasks. This task-aware asymmetry reduces the computational redundancy and allocates the computation more judiciously, thereby increasing parameter efficiency and enabling smaller models to achieve strong performance. On 32-view 960P inputs, our model matches optimization-based methods while delivering nearly 800x speedup, and surpasses the zero-shot performance of state-of-the-art generalizable models with markedly fewer parameters and reduced training/inference overhead, achieving an overall efficiency improvement.",
-            "score": 6,
+            "score": 7,
             "issue_id": 2839,
             "pub_date": "2026-07-13",
             "pub_date_card": {
@@ -1260,7 +1260,7 @@
             "title": "Token Time Continuous Diffusion for Language Modeling",
             "url": "https://huggingface.co/papers/2607.14106",
             "abstract": "Abstract  In this paper we introduce token time continuous diffusion (TTCD), a new diffusion language model which (a) operates in continuous space, deterministically mapping Gaussian noise to a final token canvas with no further sampling, and crucially (b) incorporates a new notion of per-token times, with some tokens proceeding from noise to token at a faster rate than others. Continuous space modeling helps TTCD avoid the parallel sampling of multiple tokens, which is a key source of inaccuracy at high speedups for models that iterate purely in discrete space. The notion of per-token times helps TTCD to better model conditional generation, allows for more sure tokens to proceed at a faster rate, and allows for differentiated inter-token influences during refinement. TTCD outperforms discrete models at high speedups. We train a 160M parameter TTCD model on OpenWebText, and then self-distill it; we find that at high speedups we are comparable in unconditional generation quality, and outperform in conditional generation, several existing models of similar size trained, on the same data, and self-distilled. We achieve similar gains in Sudoku solving as well.",
-            "score": 6,
+            "score": 7,
             "issue_id": 2841,
             "pub_date": "2026-05-07",
             "pub_date_card": {
@@ -1294,6 +1294,60 @@
                 "en": {
                     "title": "Revolutionizing Token Generation with Continuous Diffusion",
                     "desc": "This paper presents a novel diffusion language model called token time continuous diffusion (TTCD). TTCD operates in continuous space, allowing it to deterministically convert Gaussian noise into tokens without the need for sampling. It introduces the concept of per-token times, enabling some tokens to transition from noise to final output more quickly than others, which enhances conditional generation. The model demonstrates superior performance over traditional discrete models, especially at high speedups, achieving comparable quality in unconditional generation and outperforming in conditional tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12227",
+            "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+            "url": "https://huggingface.co/papers/2607.12227",
+            "abstract": "Abstract  We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit test cases to search for harness configurations and then report final performance on the same public benchmark. This protocol raises two fundamental concerns. First, harness evolution is itself an iterative search procedure that repeatedly evaluates and revises candidate harnesses using task feedback. As in agentic test-time scaling, it should therefore be compared with simple task-level search baselines under matched feedback and inference budgets to determine whether its gains arise from improved harness design or from additional search alone. Second, because the search and the final evaluation share the same benchmark, the reported gains risk overfitting to that specific task set. To address these concerns, we conduct an extensive evaluation comparing harness evolution with simple test-time scaling and discovery baselines under comparable feedback and inference budgets, and also evaluate evolved harnesses on held-out tasks to assess whether the discovered improvements generalize. Experiments on Terminal-Bench 2.1 with GPT-5.4 and Claude Opus 4.6 show that automatic harness evolution does not consistently outperform simple test-time scaling methods and exhibits limited generalization. Our results raise important questions about the effectiveness of automatic harness evolution and highlight the need for fairer evaluation protocols and benchmarks for automatic harness design. Our code is available at https://github.com/rethinking-harness-evolution.",
+            "score": 5,
+            "issue_id": 2844,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "149b4e374086b1fc",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yike Wang",
+                "Huaisheng Zhu",
+                "Zhengyu Hu",
+                "Yige Yuan",
+                "Zhengyu Chen",
+                "Shakti Senthil",
+                "Hannaneh Hajishirzi",
+                "Yulia Tsvetkov",
+                "Pradeep Dasigi",
+                "Teng Xiao"
+            ],
+            "affiliations": [
+                "Allen Institute for AI",
+                "Independent",
+                "University of Washington"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12227.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#retrieval",
+                    "#survey",
+                    "#training",
+                    "#agents",
+                    "#optimization"
+                ],
+                "emoji": "🧪",
+                "ru": {
+                    "title": "Пересмотр автоматической эволюции хранилищ для LLM агентов",
+                    "desc": "В данной работе мы пересматриваем методы оценки автоматической эволюции хранилищ для LLM агентов. Обнаружено, что существующие методы используют единичные тесты, что может привести к переобучению результатов на одинаковых наборах задач. Мы проводим обширные эксперименты, чтобы сравнить эволюцию хранилищ с простыми методами масштабирования, а также проверяем общие результаты на удерживаемых задачах. Результаты показывают, что автоматическая эволюция хранилищ не всегда превосходит простые методы и требует более справедливых протоколов оценки."
+                },
+                "en": {
+                    "title": "Rethinking Automatic Harness Evolution for LLMs",
+                    "desc": "This paper examines the effectiveness of automatic harness evolution for large language model (LLM) agents. It highlights concerns about the evaluation methods used, particularly the risk of overfitting to specific benchmarks and the need for fair comparisons with simpler task-level search methods. The authors conduct experiments to compare harness evolution with these baselines under controlled conditions and assess generalization on new tasks. The findings suggest that automatic harness evolution does not consistently outperform simpler methods and calls for improved evaluation protocols in this area."
                 }
             }
         },
@@ -1399,60 +1453,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.12227",
-            "title": "Rethinking the Evaluation of Harness Evolution for Agents",
-            "url": "https://huggingface.co/papers/2607.12227",
-            "abstract": "Abstract  We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit test cases to search for harness configurations and then report final performance on the same public benchmark. This protocol raises two fundamental concerns. First, harness evolution is itself an iterative search procedure that repeatedly evaluates and revises candidate harnesses using task feedback. As in agentic test-time scaling, it should therefore be compared with simple task-level search baselines under matched feedback and inference budgets to determine whether its gains arise from improved harness design or from additional search alone. Second, because the search and the final evaluation share the same benchmark, the reported gains risk overfitting to that specific task set. To address these concerns, we conduct an extensive evaluation comparing harness evolution with simple test-time scaling and discovery baselines under comparable feedback and inference budgets, and also evaluate evolved harnesses on held-out tasks to assess whether the discovered improvements generalize. Experiments on Terminal-Bench 2.1 with GPT-5.4 and Claude Opus 4.6 show that automatic harness evolution does not consistently outperform simple test-time scaling methods and exhibits limited generalization. Our results raise important questions about the effectiveness of automatic harness evolution and highlight the need for fairer evaluation protocols and benchmarks for automatic harness design. Our code is available at https://github.com/rethinking-harness-evolution.",
-            "score": 4,
-            "issue_id": 2844,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "149b4e374086b1fc",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yike Wang",
-                "Huaisheng Zhu",
-                "Zhengyu Hu",
-                "Yige Yuan",
-                "Zhengyu Chen",
-                "Shakti Senthil",
-                "Hannaneh Hajishirzi",
-                "Yulia Tsvetkov",
-                "Pradeep Dasigi",
-                "Teng Xiao"
-            ],
-            "affiliations": [
-                "Allen Institute for AI",
-                "Independent",
-                "University of Washington"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12227.jpg",
-            "data": {
-                "categories": [
-                    "#benchmark",
-                    "#retrieval",
-                    "#survey",
-                    "#training",
-                    "#agents",
-                    "#optimization"
-                ],
-                "emoji": "🧪",
-                "ru": {
-                    "title": "Пересмотр автоматической эволюции хранилищ для LLM агентов",
-                    "desc": "В данной работе мы пересматриваем методы оценки автоматической эволюции хранилищ для LLM агентов. Обнаружено, что существующие методы используют единичные тесты, что может привести к переобучению результатов на одинаковых наборах задач. Мы проводим обширные эксперименты, чтобы сравнить эволюцию хранилищ с простыми методами масштабирования, а также проверяем общие результаты на удерживаемых задачах. Результаты показывают, что автоматическая эволюция хранилищ не всегда превосходит простые методы и требует более справедливых протоколов оценки."
-                },
-                "en": {
-                    "title": "Rethinking Automatic Harness Evolution for LLMs",
-                    "desc": "This paper examines the effectiveness of automatic harness evolution for large language model (LLM) agents. It highlights concerns about the evaluation methods used, particularly the risk of overfitting to specific benchmarks and the need for fair comparisons with simpler task-level search methods. The authors conduct experiments to compare harness evolution with these baselines under controlled conditions and assess generalization on new tasks. The findings suggest that automatic harness evolution does not consistently outperform simpler methods and calls for improved evaluation protocols in this area."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.15278",
             "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
             "url": "https://huggingface.co/papers/2607.15278",
@@ -1516,7 +1516,7 @@
             "title": "On Locality and Length Generalization in Visual Reasoning",
             "url": "https://huggingface.co/papers/2607.09061",
             "abstract": "Abstract  A striking feature of the human visual system is that it ingests visual information through a series of local foveated glimpses, rather than a single global computation. This makes human vision distinctly different from most popular computer vision models in use today, which input images globally and in a single shot. A natural question therefore is whether local, sequential vision models may provide any fundamental computational benefits in addition to being biologically more plausible than global models. In this work, we investigate this question from the perspective of visual state tracking and length generalization. Inspired by recent studies of length generalization in language models, we study the behavior of vision models trained on simple vision tasks that require the aggregation of local information across an image. Our experiments reveal that, similar to language models, vision models can learn to exploit global shortcuts and thereby fail to generalize over task length or complexity. We also show that recurrent vision policies based on strictly local perception can mitigate these failures, thereby allowing models to generalize on these tasks. Our results show that local attention may be an essential overlooked requirement for robust compositional generalization.",
-            "score": 1,
+            "score": 2,
             "issue_id": 2844,
             "pub_date": "2026-07-10",
             "pub_date_card": {
