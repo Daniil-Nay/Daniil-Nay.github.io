@@ -4,9 +4,9 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-19 02:33",
+    "time_utc": "2026-07-19 05:52",
     "weekday": 4,
-    "issue_id": 2852,
+    "issue_id": 2853,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
             "url": "https://huggingface.co/papers/2607.14952",
             "abstract": "Abstract  A growing gap separates inference context lengths from RL post-training: inference systems are approaching million-token contexts, while post-training workloads often remain at 256K tokens or below and rely on length generalization at deployment. The gap is especially important for AI agents, whose observations, tool outputs, documents, and prior decisions accumulate over long trajectories. LongStraw is an architecture-aware execution stack for million-token RL post-training under a fixed GPU budget, instantiated with Group Relative Policy Optimization (GRPO). It evaluates the shared prompt without autograd, retains only model-specific state needed by later tokens, and replays short response branches one at a time, reducing the live training graph at the cost of additional replay time. We implement it for the hybrid recurrent and full-attention Qwen3.6-27B and the compressed-attention mixture-of-experts GLM-5.2. On eight H20 GPUs, LongStraw completes grouped Qwen scoring and response backward at 2.1M positions for groups of 2 and 8; increasing the group size adds only 0.21 GB of peak allocated memory, while a separate stress test reaches 4.46M positions. On 32 H20 GPUs, we validate the end-to-end LongStraw execution path for a 2.1M-token prompt across all 78 layers of GLM-5.2. These experiments establish execution capacity rather than complete training correctness because the captured prompt state is detached and some distributed forward and gradient composition paths remain incomplete.",
-            "score": 172,
+            "score": 174,
             "issue_id": 2839,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -76,7 +76,7 @@
             "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
             "url": "https://huggingface.co/papers/2607.14935",
             "abstract": "Abstract  Recent advances in video understanding have spanned motion, long video, and streaming interaction, driving this field toward real-world applications. Despite this progress, current open-source models remain limited in several ways. They often struggle to generalize across diverse video types, making them effective only in specific domains. High computational demands further restrict their efficiency and scalability. Moreover, most models are only partially open, with key components such as training code, strategy, or datasets unavailable, which hinders reproducibility and slows community-driven development. To address these issues, we introduce VideoChat3, a fully open, efficient, and generalist video-centric MLLM. VideoChat3 advances video understanding through two complementary designs. For efficiency, we introduce Inflated 3D Vision Transformer (I3D-ViT) and Adaptive Frame Resolution for Streaming Video Perception, which enables efficient spatiotemporal representation and reduces the cost of processing video inputs during training and inference. For effectiveness, we develop a scalable video data synthesis pipeline that curates three diverse, high-quality training datasets: VideoChat3-Academic2M, VideoChat3-LV116K, and VideoChat3-OL617K, covering general, long-form, and streaming video scenarios, improving the model's generalization across domains. By integrating these designs, VideoChat3 achieves a rare balance of broad generalization and computational efficiency. Experiments across general, long-form, and streaming benchmarks demonstrate that VideoChat3 surpasses prior open-source models with equal or larger parameter counts with only 4B parameters and higher efficiency.",
-            "score": 120,
+            "score": 123,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -433,6 +433,53 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.14076",
+            "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+            "url": "https://huggingface.co/papers/2607.14076",
+            "abstract": "Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly regarded as potential next-generation game engines. Realizing a genuinely interactive game world, however, requires interaction outcomes that follow rules over evolving game conditions, consequences that persist over long horizons, and a generation loop that operates in real time. Conventional game engines realize these properties through a recurrent action-state-observation loop, in which player actions update an explicit game state according to predefined rules and observations are rendered from the resulting state. Taking this loop as an organizing lens, this paper examines interactive game world modeling along four dimensions: player action control, game state dynamics, state-observation persistence, and real-time interactive generation. For each dimension, we start from the capabilities required by an interactive game world, group existing approaches into representative families, and discuss the strengths and trade-offs of each family. Complementing this analysis, we present a scalable data engine for Black Myth: Wukong that collects over 90 hours of gameplay with frame-aligned player actions, ground-truth game states, and visual observations, together with structured and semantic annotations, as a resource for state-aware game world modeling. We hope this paper offers a clear picture of where the field stands and fosters progress toward interactive game worlds.",
+            "score": 28,
+            "issue_id": 2837,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "547dde71a45f44f4",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhen Li",
+                "Zian Meng",
+                "Shuwei Shi",
+                "Mingliang Zhai",
+                "Jiaming Tan",
+                "Chuanhao Li",
+                "Kaipeng Zhang"
+            ],
+            "affiliations": [
+                "Alaya Lab"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14076.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#data",
+                    "#games",
+                    "#agents"
+                ],
+                "emoji": "🎮",
+                "ru": {
+                    "title": "Создание интерактивных игровых миров",
+                    "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и искусственного интеллекта (AI). Используя модели генерации видео, авторы предлагают способ создания динамичных игровых ситуаций, основываясь на действиях пользователей. Они анализируют четыре ключевых аспекта моделирования игровых миров: контроль действия игрока, динамика состояния игры, постоянство состояния и взаимодействие в реальном времени. Кроме того, авторы представляют масштабный датасет на основе игры Black Myth: Wukong, который может служить ресурсом для углубленного моделирования игровых миров с учетом состояния."
+                },
+                "en": {
+                    "title": "Building Real-Time Interactive Game Worlds",
+                    "desc": "This paper explores the creation of interactive game worlds that respond logically to player actions using video generative models. It highlights the importance of maintaining game rules, long-term consequences, and real-time interactions in game design. The authors analyze existing methods for modeling game worlds based on four key dimensions: player action control, game state dynamics, state-observation persistence, and real-time generation. Additionally, they introduce a data engine for Black Myth: Wukong, which collects extensive gameplay data to aid in developing state-aware game world models."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.12800",
             "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
             "url": "https://huggingface.co/papers/2607.12800",
@@ -537,109 +584,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.14076",
-            "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-            "url": "https://huggingface.co/papers/2607.14076",
-            "abstract": "Abstract  Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a data-driven route toward this goal by predicting future observations conditioned on user actions, and are increasingly regarded as potential next-generation game engines. Realizing a genuinely interactive game world, however, requires interaction outcomes that follow rules over evolving game conditions, consequences that persist over long horizons, and a generation loop that operates in real time. Conventional game engines realize these properties through a recurrent action-state-observation loop, in which player actions update an explicit game state according to predefined rules and observations are rendered from the resulting state. Taking this loop as an organizing lens, this paper examines interactive game world modeling along four dimensions: player action control, game state dynamics, state-observation persistence, and real-time interactive generation. For each dimension, we start from the capabilities required by an interactive game world, group existing approaches into representative families, and discuss the strengths and trade-offs of each family. Complementing this analysis, we present a scalable data engine for Black Myth: Wukong that collects over 90 hours of gameplay with frame-aligned player actions, ground-truth game states, and visual observations, together with structured and semantic annotations, as a resource for state-aware game world modeling. We hope this paper offers a clear picture of where the field stands and fosters progress toward interactive game worlds.",
-            "score": 27,
-            "issue_id": 2837,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "547dde71a45f44f4",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhen Li",
-                "Zian Meng",
-                "Shuwei Shi",
-                "Mingliang Zhai",
-                "Jiaming Tan",
-                "Chuanhao Li",
-                "Kaipeng Zhang"
-            ],
-            "affiliations": [
-                "Alaya Lab"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14076.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#data",
-                    "#games",
-                    "#agents"
-                ],
-                "emoji": "🎮",
-                "ru": {
-                    "title": "Создание интерактивных игровых миров",
-                    "desc": "В статье рассматривается создание интерактивных игровых миров, которые адекватно реагируют на действия игроков, что является целью компьютерной графики, игр и искусственного интеллекта (AI). Используя модели генерации видео, авторы предлагают способ создания динамичных игровых ситуаций, основываясь на действиях пользователей. Они анализируют четыре ключевых аспекта моделирования игровых миров: контроль действия игрока, динамика состояния игры, постоянство состояния и взаимодействие в реальном времени. Кроме того, авторы представляют масштабный датасет на основе игры Black Myth: Wukong, который может служить ресурсом для углубленного моделирования игровых миров с учетом состояния."
-                },
-                "en": {
-                    "title": "Building Real-Time Interactive Game Worlds",
-                    "desc": "This paper explores the creation of interactive game worlds that respond logically to player actions using video generative models. It highlights the importance of maintaining game rules, long-term consequences, and real-time interactions in game design. The authors analyze existing methods for modeling game worlds based on four key dimensions: player action control, game state dynamics, state-observation persistence, and real-time generation. Additionally, they introduce a data engine for Black Myth: Wukong, which collects extensive gameplay data to aid in developing state-aware game world models."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.03065",
-            "title": "Spectral Rewiring for Exploration, Purification, and Model Merging",
-            "url": "https://huggingface.co/papers/2607.03065",
-            "abstract": "Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when consolidating multiple capabilities through multi-domain training or model merging. We show that the reasoning-effective component of these updates is largely concentrated in the base model's spectral space, motivating Subspace-Aligned Rewiring (SAR), a post-hoc editing method that retains this spectral core while removing orthogonal components. SAR therefore preserves reasoning gains and filters residual update directions that suppress performance or amplify cross-domain interference. Across several model families and scales, SAR extracts compact reasoning cores using as little as approximately 0.58% of total parameters: it preserves over 99% of post-training performance and improves high-k exploration in mathematical reasoning, and generalizes to agentic coding by improving six of seven open benchmarks on an in-house model. SAR also purifies mixed-domain training updates by releasing suppressed coding capability while maintaining math reasoning and instruction following. It further enables model merging across experts, yielding cross-domain generalization that surpasses previous merging baselines and even the best single-domain experts. Overall, SAR shows that extracting reasoning-effective updates from parameter geometry can serve as a training-free mechanism to improve reasoning and multi-domain performance.",
-            "score": 22,
-            "issue_id": 2838,
-            "pub_date": "2026-07-03",
-            "pub_date_card": {
-                "ru": "3 июля",
-                "en": "July 3",
-                "zh": "7月3日"
-            },
-            "hash": "3aa05339b22cafab",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhilong Zhang",
-                "Hongli Yu",
-                "Huan-ang Gao",
-                "Hanlin Wu",
-                "Yuxuan Song",
-                "Wei-Ying Ma",
-                "Ya-Qin Zhang",
-                "Hao Zhou"
-            ],
-            "affiliations": [
-                "Institute for AI Industry Research (AIR), Tsinghua University",
-                "SIA-Lab of Tsinghua AIR and ByteDance Seed"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.03065.jpg",
-            "data": {
-                "categories": [
-                    "#rl",
-                    "#optimization",
-                    "#training",
-                    "#math",
-                    "#reasoning",
-                    "#agents"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Эффективное рассуждение с помощью SAR в обучении моделей",
-                    "desc": "Статья рассматривает методы обучения с подкреплением для больших языковых моделей, выявляя проблемы, связанные с обновлением всех параметров модели. Авторы предлагают метод Subspace-Aligned Rewiring (SAR), который сохраняет эффективность рассуждений, удаляя ортогональные компоненты обновлений. Этот метод позволяет сохранить более 99% производительности после обучения и улучшает производительность в математических рассуждениях. SAR также улучшает многодоменное обучение, позволяя моделям объединяться и демонстрируя лучшие результаты по сравнению с ранее существующими моделями."
-                },
-                "en": {
-                    "title": "Enhancing Reasoning in Language Models with Subspace-Aligned Rewiring",
-                    "desc": "This paper introduces Subspace-Aligned Rewiring (SAR), a method that enhances the reasoning capabilities of large language models after training. SAR focuses on retaining the essential spectral components of the model while eliminating less relevant parts that can hinder performance. By doing so, it preserves over 99% of the model's effectiveness and improves its ability to handle complex tasks like mathematical reasoning and coding. The approach also facilitates better integration of multiple skills and improves cross-domain generalization, making it a significant advancement in post-training model optimization."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.14187",
             "title": "RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination",
             "url": "https://huggingface.co/papers/2607.14187",
             "abstract": "Abstract  Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understanding and textual decision making, or generative world models that mainly predict future visual states, RxBrain represents embodied plans in a single planning sequence where language and visual imagination play complementary roles. Language provides the abstract structure of a plan, including task decomposition, planning primitives, constraints, temporal order, and decision logic, while visual imagination grounds this structure through world state prediction and joint subgoal planning, associating each planning step with intermediate and final physical states. RxBrain adopts a unified multimodal Mixture-of-Transformers architecture that supports language, image, and video understanding and generation within one model. To train this capability, we build an automatic pipeline that converts embodied videos into joint text-visual planning supervision by decomposing videos into planning steps and aligning them with visual state transitions. We further introduce RxBrain-Bench to evaluate whether models can represent embodied plans through joint textual and visual components rather than separate understanding or generation. Experiments show that RxBrain maintains embodied understanding and generation abilities, and produces plans with coupled textual reasoning, world state prediction, and joint subgoal planning. We also extend RxBrain to continuous robot action generation, where it shows promising real-robot performance without large-scale action-data pretraining. These results provide an initial step toward foundation models for embodied cognition.",
-            "score": 21,
+            "score": 22,
             "issue_id": 2842,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -707,6 +656,57 @@
                 "en": {
                     "title": "Integrating Language and Vision for Embodied Cognition",
                     "desc": "The paper presents Hy-Embodied-RxBrain, a foundation model designed for embodied cognition that integrates language and visual reasoning. This model uniquely combines high-level task planning with physical state predictions, allowing for a cohesive planning sequence. It utilizes a Mixture-of-Transformers architecture to process and generate language, images, and videos simultaneously. The training pipeline converts embodied videos into structured planning supervision, enabling RxBrain to effectively generate and understand embodied plans in real-world scenarios."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.03065",
+            "title": "Spectral Rewiring for Exploration, Purification, and Model Merging",
+            "url": "https://huggingface.co/papers/2607.03065",
+            "abstract": "Abstract  Reinforcement learning has become a standard post-training recipe for large language models, but dense full-parameter updates create two deployment-relevant bottlenecks: suppressed reasoning performance, often reflected by premature saturation of test-time scaling, and interference when consolidating multiple capabilities through multi-domain training or model merging. We show that the reasoning-effective component of these updates is largely concentrated in the base model's spectral space, motivating Subspace-Aligned Rewiring (SAR), a post-hoc editing method that retains this spectral core while removing orthogonal components. SAR therefore preserves reasoning gains and filters residual update directions that suppress performance or amplify cross-domain interference. Across several model families and scales, SAR extracts compact reasoning cores using as little as approximately 0.58% of total parameters: it preserves over 99% of post-training performance and improves high-k exploration in mathematical reasoning, and generalizes to agentic coding by improving six of seven open benchmarks on an in-house model. SAR also purifies mixed-domain training updates by releasing suppressed coding capability while maintaining math reasoning and instruction following. It further enables model merging across experts, yielding cross-domain generalization that surpasses previous merging baselines and even the best single-domain experts. Overall, SAR shows that extracting reasoning-effective updates from parameter geometry can serve as a training-free mechanism to improve reasoning and multi-domain performance.",
+            "score": 22,
+            "issue_id": 2838,
+            "pub_date": "2026-07-03",
+            "pub_date_card": {
+                "ru": "3 июля",
+                "en": "July 3",
+                "zh": "7月3日"
+            },
+            "hash": "3aa05339b22cafab",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhilong Zhang",
+                "Hongli Yu",
+                "Huan-ang Gao",
+                "Hanlin Wu",
+                "Yuxuan Song",
+                "Wei-Ying Ma",
+                "Ya-Qin Zhang",
+                "Hao Zhou"
+            ],
+            "affiliations": [
+                "Institute for AI Industry Research (AIR), Tsinghua University",
+                "SIA-Lab of Tsinghua AIR and ByteDance Seed"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.03065.jpg",
+            "data": {
+                "categories": [
+                    "#rl",
+                    "#optimization",
+                    "#training",
+                    "#math",
+                    "#reasoning",
+                    "#agents"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Эффективное рассуждение с помощью SAR в обучении моделей",
+                    "desc": "Статья рассматривает методы обучения с подкреплением для больших языковых моделей, выявляя проблемы, связанные с обновлением всех параметров модели. Авторы предлагают метод Subspace-Aligned Rewiring (SAR), который сохраняет эффективность рассуждений, удаляя ортогональные компоненты обновлений. Этот метод позволяет сохранить более 99% производительности после обучения и улучшает производительность в математических рассуждениях. SAR также улучшает многодоменное обучение, позволяя моделям объединяться и демонстрируя лучшие результаты по сравнению с ранее существующими моделями."
+                },
+                "en": {
+                    "title": "Enhancing Reasoning in Language Models with Subspace-Aligned Rewiring",
+                    "desc": "This paper introduces Subspace-Aligned Rewiring (SAR), a method that enhances the reasoning capabilities of large language models after training. SAR focuses on retaining the essential spectral components of the model while eliminating less relevant parts that can hinder performance. By doing so, it preserves over 99% of the model's effectiveness and improves its ability to handle complex tasks like mathematical reasoning and coding. The approach also facilitates better integration of multiple skills and improves cross-domain generalization, making it a significant advancement in post-training model optimization."
                 }
             }
         },
@@ -922,6 +922,51 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.14749",
+            "title": "WanSong v1.0 Technical Report",
+            "url": "https://huggingface.co/papers/2607.14749",
+            "abstract": "Abstract  Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability remains challenging. To address these needs, we present WanSong, a simple yet powerful approach for long-form, commercial-grade song generation. Unlike autoregressive (AR) and cascaded multi-stage pipelines (\\eg, AR followed by diffusion), WanSong is a pure diffusion-based model that directly generates high-fidelity, multilingual songs up to 5 minutes and outputs dual stems (vocals and background music) in a single run. In addition, our diffusion framework enables faster inference through step-distillation, and offers an efficient pathway for fine-tuning and customization to support downstream editing tasks.",
+            "score": 12,
+            "issue_id": 2837,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "c979599c35ccc9d1",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Binghui Chen",
+                "Pandeng Li",
+                "Yu Liu",
+                "Jingren Zhou"
+            ],
+            "affiliations": [
+                "Wan Team, Alibaba Group"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14749.jpg",
+            "data": {
+                "categories": [
+                    "#audio",
+                    "#diffusion",
+                    "#multilingual",
+                    "#training",
+                    "#inference"
+                ],
+                "emoji": "🎶",
+                "ru": {
+                    "title": "Новая эра генерации музыки с WanSong",
+                    "desc": "В данной статье представлен новый подход к генерации музыки под названием WanSong. Этот модельный метод основан на диффузии и способен создавать высококачественные многоголосые песни длительностью до 5 минут за один запуск. WanSong предлагает эффективную реализацию с использованием дистилляции шагов, что ускоряет процесс вывода. Кроме того, данная модель позволяет легко настраивать и кастомизировать результаты для последующего редактирования."
+                },
+                "en": {
+                    "title": "Revolutionizing Music Generation with WanSong",
+                    "desc": "This paper introduces WanSong, a novel approach for generating long-form music using a diffusion-based model. Unlike traditional methods that rely on autoregressive techniques, WanSong can create high-quality, multilingual songs up to 5 minutes long in a single pass. It produces dual stems, separating vocals and background music efficiently. Additionally, the model supports faster inference and allows for easy fine-tuning and customization for various editing tasks."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.15273",
             "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
             "url": "https://huggingface.co/papers/2607.15273",
@@ -966,51 +1011,6 @@
                 "en": {
                     "title": "Bridging Average and Instantaneous Velocities for Efficient Sampling",
                     "desc": "This paper introduces MeanFlowNFT, a novel approach that combines MeanFlow generators with reinforcement learning (RL) to enhance few-step sampling efficiency. By leveraging the MeanFlow identity, it creates an instantaneous-velocity predictor that aligns with the DiffusionNFT framework, allowing for effective reward optimization. The method maintains the fast generation capabilities of MeanFlow while improving performance metrics over existing state-of-the-art models. Experiments demonstrate that MeanFlowNFT outperforms traditional RL-tuned generators, achieving superior results with fewer sampling steps."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.14749",
-            "title": "WanSong v1.0 Technical Report",
-            "url": "https://huggingface.co/papers/2607.14749",
-            "abstract": "Abstract  Music generation foundation models have recently attracted significant industry attention. However, achieving efficient generation and high-fidelity long-form audio while supporting controllability remains challenging. To address these needs, we present WanSong, a simple yet powerful approach for long-form, commercial-grade song generation. Unlike autoregressive (AR) and cascaded multi-stage pipelines (\\eg, AR followed by diffusion), WanSong is a pure diffusion-based model that directly generates high-fidelity, multilingual songs up to 5 minutes and outputs dual stems (vocals and background music) in a single run. In addition, our diffusion framework enables faster inference through step-distillation, and offers an efficient pathway for fine-tuning and customization to support downstream editing tasks.",
-            "score": 11,
-            "issue_id": 2837,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "c979599c35ccc9d1",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Binghui Chen",
-                "Pandeng Li",
-                "Yu Liu",
-                "Jingren Zhou"
-            ],
-            "affiliations": [
-                "Wan Team, Alibaba Group"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14749.jpg",
-            "data": {
-                "categories": [
-                    "#audio",
-                    "#diffusion",
-                    "#multilingual",
-                    "#training",
-                    "#inference"
-                ],
-                "emoji": "🎶",
-                "ru": {
-                    "title": "Новая эра генерации музыки с WanSong",
-                    "desc": "В данной статье представлен новый подход к генерации музыки под названием WanSong. Этот модельный метод основан на диффузии и способен создавать высококачественные многоголосые песни длительностью до 5 минут за один запуск. WanSong предлагает эффективную реализацию с использованием дистилляции шагов, что ускоряет процесс вывода. Кроме того, данная модель позволяет легко настраивать и кастомизировать результаты для последующего редактирования."
-                },
-                "en": {
-                    "title": "Revolutionizing Music Generation with WanSong",
-                    "desc": "This paper introduces WanSong, a novel approach for generating long-form music using a diffusion-based model. Unlike traditional methods that rely on autoregressive techniques, WanSong can create high-quality, multilingual songs up to 5 minutes long in a single pass. It produces dual stems, separating vocals and background music efficiently. Additionally, the model supports faster inference and allows for easy fine-tuning and customization for various editing tasks."
                 }
             }
         },
