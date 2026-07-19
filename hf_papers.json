@@ -4,9 +4,9 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-19 08:15",
+    "time_utc": "2026-07-19 10:27",
     "weekday": 4,
-    "issue_id": 2854,
+    "issue_id": 2855,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -264,7 +264,7 @@
             "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
             "url": "https://huggingface.co/papers/2607.15207",
             "abstract": "Abstract  World-action models (WAMs) are emerging as a promising foundation for embodied control: rather than predicting actions alone, they learn representations that couple action generation with future world prediction. This coupling is often viewed as a source of robustness, interpretability, and safety, as a robot's action can in principle be checked against its imagined future. In this paper, we show that this assumption is fragile. We introduce BadWAM, a unified framework for modeling and evaluating World-Action Drift Attacks: a new class of WAM-specific adversarial attacks that use small visual perturbations to break the alignment between what a WAM imagines and what it executes. BadWAM characterizes this attack surface along two natural criteria: attack strength and stealthiness. When the adversary prioritizes disruption, BadWAM instantiates an action-only adversarial attack, which directly drives the model toward task-failing actions. When the adversary additionally prioritizes stealth, BadWAM instantiates an imagination-preserving adversarial attack, which seeks to induce harmful action shifts while keeping the model's predicted future close to its clean imagination. Together, these two attacks capture a spectrum of WAM-specific failures: from overt action hijacking to stealthier cases where the model appears to imagine a plausible future but executes a desynchronized action. We evaluate BadWAM across different variants of WAMs. Results show that our attacks substantially reduce task success rates under closed-loop execution. For example, our action-only attack reduces the model performance from 96.5% to 43.1% success. The results of our imagination-preserving attack further exposes a WAM-specific vulnerability: moderate future-preserving regularization can maintain strong attack performance while reducing future imagination drift.",
-            "score": 44,
+            "score": 45,
             "issue_id": 2837,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -308,7 +308,7 @@
             "title": "KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation",
             "url": "https://huggingface.co/papers/2607.14202",
             "abstract": "Abstract  Video generation increasingly relies on keyframe-based workflows, where creators specify a sequence of reference images to guide generation. Although recent models support multi-keyframe conditioning, it remains unclear whether they can faithfully reproduce the prescribed keyframes while maintaining overall video quality. We present KeyFrame-Compass, the first comprehensive benchmark for evaluating keyframe-conditioned video generation. The benchmark contains 386 carefully curated samples spanning three application domains, two video structures, two prompt granularities, two conditioning formats, and four keyframe densities, enabling controlled analysis under diverse generation settings. We further introduce an automated evaluation framework that jointly measures keyframe execution and overall video quality. Specifically, we decompose keyframe execution into six complementary metrics covering presence, fidelity, temporal ordering, localization, persistence, and uniqueness, while assessing overall video quality through evidence-grounded MLLM judgments augmented with specialized perception models. Experiments on nine representative video generation systems reveal several fundamental limitations. Current models exhibit a clear trade-off between faithful keyframe execution and natural video synthesis. Their performance further degrades as keyframe constraints become denser and most open-source models also fail to interpret storyboard-grid inputs as temporally ordered keyframe sequences.",
-            "score": 35,
+            "score": 36,
             "issue_id": 2837,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -1302,7 +1302,7 @@
             "title": "Rethinking the Evaluation of Harness Evolution for Agents",
             "url": "https://huggingface.co/papers/2607.12227",
             "abstract": "Abstract  We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit test cases to search for harness configurations and then report final performance on the same public benchmark. This protocol raises two fundamental concerns. First, harness evolution is itself an iterative search procedure that repeatedly evaluates and revises candidate harnesses using task feedback. As in agentic test-time scaling, it should therefore be compared with simple task-level search baselines under matched feedback and inference budgets to determine whether its gains arise from improved harness design or from additional search alone. Second, because the search and the final evaluation share the same benchmark, the reported gains risk overfitting to that specific task set. To address these concerns, we conduct an extensive evaluation comparing harness evolution with simple test-time scaling and discovery baselines under comparable feedback and inference budgets, and also evaluate evolved harnesses on held-out tasks to assess whether the discovered improvements generalize. Experiments on Terminal-Bench 2.1 with GPT-5.4 and Claude Opus 4.6 show that automatic harness evolution does not consistently outperform simple test-time scaling methods and exhibits limited generalization. Our results raise important questions about the effectiveness of automatic harness evolution and highlight the need for fairer evaluation protocols and benchmarks for automatic harness design. Our code is available at https://github.com/rethinking-harness-evolution.",
-            "score": 5,
+            "score": 6,
             "issue_id": 2844,
             "pub_date": "2026-07-14",
             "pub_date_card": {

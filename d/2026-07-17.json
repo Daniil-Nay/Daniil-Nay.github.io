@@ -4,9 +4,9 @@
         "en": "July 17",
         "zh": "7月17日"
     },
-    "time_utc": "2026-07-19 05:52",
+    "time_utc": "2026-07-19 08:15",
     "weekday": 4,
-    "issue_id": 2853,
+    "issue_id": 2854,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -150,7 +150,7 @@
             "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
             "url": "https://huggingface.co/papers/2607.14777",
             "abstract": "Abstract  Large language models are increasingly trained as interactive agents for long-horizon tasks involving multi-turn interaction, tool use, and environment feedback. Outcome-based reinforcement learning (RL) provides a practical optimization paradigm, but its sparse trajectory-level rewards offer limited guidance on intermediate decisions, leaving a supervision gap between episode-level outcomes and token-level policy learning. We propose SEED (SElf-Evolving On-Policy Distillation), a self-evolving framework that converts completed on-policy trajectories into training-time hindsight skills and distills their behavioral effect back into the policy model. SEED first fine-tunes the policy to analyze completed trajectories and generate natural-language skills that capture reusable workflows, decisive observations, or failure-avoidance rules. During RL, the current policy both collects trajectories and serves as the analyzer that extracts hindsight skills from them. Policy updates therefore improve subsequent decision making and skill analysis together, allowing hindsight supervision to evolve with the policy. SEED then re-scores the sampled actions under ordinary and skill-augmented contexts, converting the skill-induced probability shift into a dense token-level on-policy distillation signal. This signal is jointly optimized with outcome-based RL, keeping the auxiliary supervision aligned with the current trajectory distribution. Extensive experiments on text-based and vision-based agentic tasks show that SEED consistently improves performance and sample efficiency, exhibiting robust generalization to unseen scenarios. Our code is available at https://github.com/jinyangwu/SEED.",
-            "score": 83,
+            "score": 84,
             "issue_id": 2836,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -711,6 +711,59 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.15275",
+            "title": "RoboTTT: Context Scaling for Robot Policies",
+            "url": "https://huggingface.co/papers/2607.15275",
+            "abstract": "Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first time, steady gains in closed-loop performance as pretraining context length scales. At its core, RoboTTT integrates Test-Time Training into robot foundation models such as Vision-Language-Action policies, yielding a sequence model whose recurrent state consists of fast weights, parameters updated by gradient descent during both training and inference, compressing histories into weight space and retrieving contextual information for long-context conditioning. To scale training context length, the recipe combines sequence action forcing with truncated backpropagation through time. On challenging real-robot manipulation tasks, RoboTTT improves overall performance by 87% over the single-step context baseline and fully completes a five-minute, ten-stage assembly task, which no baseline ever does. RoboTTT trained with 8K-timestep context outperforms the same model pretrained with 1K timesteps by 62%, suggesting context length as a new scaling axis for robot foundation models. Videos are available at https://research.nvidia.com/labs/gear/robottt/",
+            "score": 18,
+            "issue_id": 2836,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "2467f8d5782eab8a",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yunfan Jiang",
+                "Yevgen Chebotar",
+                "Ruijie Zheng",
+                "Fengyuan Hu",
+                "Yunhao Ge",
+                "Jimmy Wu",
+                "Tianyuan Dai",
+                "Scott Reed",
+                "Li Fei-Fei",
+                "Yuke Zhu",
+                "Linxi \"Jim\" Fan"
+            ],
+            "affiliations": [
+                "NVIDIA",
+                "Stanford University",
+                "The University of Texas at Austin"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.15275.jpg",
+            "data": {
+                "categories": [
+                    "#robotics",
+                    "#optimization",
+                    "#long_context",
+                    "#training"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Роботы с новыми возможностями: учимся на длительном контексте",
+                    "desc": "В данной статье представлен новый подход к обучению роботов под названием Test-Time-Training Robot Policies (RoboTTT). Этот метод позволяет работать с контекстом видеомоторных действий длиной до 8000 временных шагов, что значительно превосходит предыдущие достижения в этой области. Благодаря этому роботы могут успешно имитировать действия человека с одного примера, улучшать свои стратегии и справляться с многослойными задачами. Также было обнаружено, что увеличение длины контекста в процессе предобучения приводит к постоянному улучшению производительности роботов."
+                },
+                "en": {
+                    "title": "Unlocking Robot Potential with 8K Timesteps",
+                    "desc": "This paper presents RoboTTT, a novel robot model that enhances visuomotor context to 8K timesteps, significantly surpassing existing models. By integrating Test-Time Training, RoboTTT allows for real-time policy improvements and better performance on complex tasks. The model demonstrates remarkable capabilities such as one-shot imitation from human videos and improved robustness to disturbances. Overall, RoboTTT achieves an 87% performance increase over traditional single-step contexts, highlighting the importance of context length in robot training."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.15038",
             "title": "Video = World + Event Stream",
             "url": "https://huggingface.co/papers/2607.15038",
@@ -820,59 +873,6 @@
                 "en": {
                     "title": "Enhancing Exploration in OPD through Signal Regulation",
                     "desc": "This paper investigates On-policy Distillation (OPD) in large language models (LLMs) and its training dynamics. It highlights OPD's role in guiding student models towards correct reasoning paths through effective token-level signals. The study identifies two main issues: the Student-Teacher Mismatch and Length Exploitation, which can hinder effective exploration. To address these problems, the authors propose lightweight signal regulations that improve the quality of guidance, leading to better performance in various benchmarks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.15275",
-            "title": "RoboTTT: Context Scaling for Robot Policies",
-            "url": "https://huggingface.co/papers/2607.15275",
-            "abstract": "Abstract  Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on-the-fly policy improvement, robustness to perturbations, and stronger performance on multi-stage, long-horizon tasks. We also observe, for the first time, steady gains in closed-loop performance as pretraining context length scales. At its core, RoboTTT integrates Test-Time Training into robot foundation models such as Vision-Language-Action policies, yielding a sequence model whose recurrent state consists of fast weights, parameters updated by gradient descent during both training and inference, compressing histories into weight space and retrieving contextual information for long-context conditioning. To scale training context length, the recipe combines sequence action forcing with truncated backpropagation through time. On challenging real-robot manipulation tasks, RoboTTT improves overall performance by 87% over the single-step context baseline and fully completes a five-minute, ten-stage assembly task, which no baseline ever does. RoboTTT trained with 8K-timestep context outperforms the same model pretrained with 1K timesteps by 62%, suggesting context length as a new scaling axis for robot foundation models. Videos are available at https://research.nvidia.com/labs/gear/robottt/",
-            "score": 16,
-            "issue_id": 2836,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "2467f8d5782eab8a",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yunfan Jiang",
-                "Yevgen Chebotar",
-                "Ruijie Zheng",
-                "Fengyuan Hu",
-                "Yunhao Ge",
-                "Jimmy Wu",
-                "Tianyuan Dai",
-                "Scott Reed",
-                "Li Fei-Fei",
-                "Yuke Zhu",
-                "Linxi \"Jim\" Fan"
-            ],
-            "affiliations": [
-                "NVIDIA",
-                "Stanford University",
-                "The University of Texas at Austin"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.15275.jpg",
-            "data": {
-                "categories": [
-                    "#robotics",
-                    "#optimization",
-                    "#long_context",
-                    "#training"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Роботы с новыми возможностями: учимся на длительном контексте",
-                    "desc": "В данной статье представлен новый подход к обучению роботов под названием Test-Time-Training Robot Policies (RoboTTT). Этот метод позволяет работать с контекстом видеомоторных действий длиной до 8000 временных шагов, что значительно превосходит предыдущие достижения в этой области. Благодаря этому роботы могут успешно имитировать действия человека с одного примера, улучшать свои стратегии и справляться с многослойными задачами. Также было обнаружено, что увеличение длины контекста в процессе предобучения приводит к постоянному улучшению производительности роботов."
-                },
-                "en": {
-                    "title": "Unlocking Robot Potential with 8K Timesteps",
-                    "desc": "This paper presents RoboTTT, a novel robot model that enhances visuomotor context to 8K timesteps, significantly surpassing existing models. By integrating Test-Time Training, RoboTTT allows for real-time policy improvements and better performance on complex tasks. The model demonstrates remarkable capabilities such as one-shot imitation from human videos and improved robustness to disturbances. Overall, RoboTTT achieves an 87% performance increase over traditional single-step contexts, highlighting the importance of context length in robot training."
                 }
             }
         },
