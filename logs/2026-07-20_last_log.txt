@@ -1,246 +1,268 @@
-[20.07.2026 16:24] Read previous papers.
-[20.07.2026 16:24] Generating top page (month).
-[20.07.2026 16:24] Writing top page (month).
 [20.07.2026 19:43] Read previous papers.
-[20.07.2026 19:43] Get feed.
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2606.29538
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2606.29538
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11683
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11683
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16051
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16051
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15330
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15330
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14530
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14530
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15314
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15314
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15591
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15591
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15161
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15161
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13196
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13196
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16097
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16097
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11699
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11699
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15524
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15524
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16169
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16169
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14614
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14614
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14088
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14088
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15686
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15686
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.09082
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.09082
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15901
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15901
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16107
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16107
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11498
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11498
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07690
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07690
-[20.07.2026 19:43] Get page data from previous paper. URL: https://huggingface.co/papers/2607.06815
-[20.07.2026 19:43] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.06815
-[20.07.2026 19:43] Extract page data from URL. URL: https://huggingface.co/papers/2607.11915
-[20.07.2026 19:43] Updating GitHub stars.
-[20.07.2026 19:43] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[20.07.2026 19:43] No deleted papers detected.
-[20.07.2026 19:43] Downloading and parsing papers (pdf, html). Total: 23.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2606.29538.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2606.29538.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2606.29538.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.11683.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.11683.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.11683.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.16051.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.16051.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.16051.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.15330.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.15330.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.15330.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.14530.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.14530.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.14530.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.15314.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.15314.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.15314.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.15591.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.15591.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.15591.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.15161.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.15161.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.15161.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.13196.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.13196.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.13196.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.16097.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.16097.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.16097.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.11699.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.11699.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.11699.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.15524.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.15524.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.15524.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.16169.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.16169.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.16169.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.14614.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.14614.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.14614.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.14088.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.14088.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.14088.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.15686.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.15686.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.15686.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.09082.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.09082.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.09082.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.15901.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.15901.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.15901.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.16107.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.16107.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.16107.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.11498.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.11498.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.11498.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.07690.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.07690.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.07690.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.06815.
-[20.07.2026 19:43] Extra JSON file exists (./assets/json/2607.06815.json), skip PDF parsing.
-[20.07.2026 19:43] Paper image links file exists (./assets/img_data/2607.06815.json), skip HTML parsing.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Downloading and parsing paper https://huggingface.co/papers/2607.11915.
-[20.07.2026 19:43] Downloading paper 2607.11915 from https://arxiv.org/pdf/2607.11915v1...
-[20.07.2026 19:43] Extracting affiliations from text.
-[20.07.2026 19:43] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 19:43] Generating top page (month).
+[20.07.2026 19:43] Writing top page (month).
+[20.07.2026 22:00] Read previous papers.
+[20.07.2026 22:00] Get feed.
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2606.29538
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2606.29538
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11683
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11683
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16051
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16051
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15330
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15330
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14530
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14530
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15314
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15314
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15161
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15161
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15591
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15591
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13196
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13196
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16097
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16097
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11699
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11699
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15524
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15524
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16169
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16169
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15686
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15686
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14614
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14614
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14088
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14088
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.09082
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.09082
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15901
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15901
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16107
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16107
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11498
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11498
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07690
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07690
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.06815
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.06815
+[20.07.2026 22:00] Extract page data from URL. URL: https://huggingface.co/papers/2607.15263
+[20.07.2026 22:00] Extract page data from URL. URL: https://huggingface.co/papers/2607.10966
+[20.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11915
+[20.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11915
+[20.07.2026 22:00] Updating GitHub stars.
+[20.07.2026 22:00] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[20.07.2026 22:00] No deleted papers detected.
+[20.07.2026 22:00] Downloading and parsing papers (pdf, html). Total: 25.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2606.29538.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2606.29538.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2606.29538.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.11683.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.11683.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.11683.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.16051.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.16051.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.16051.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15330.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.15330.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.15330.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.14530.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.14530.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.14530.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15314.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.15314.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.15314.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15161.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.15161.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.15161.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15591.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.15591.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.15591.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.13196.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.13196.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.13196.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.16097.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.16097.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.16097.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.11699.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.11699.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.11699.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15524.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.15524.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.15524.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.16169.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.16169.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.16169.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15686.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.15686.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.15686.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.14614.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.14614.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.14614.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.14088.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.14088.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.14088.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.09082.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.09082.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.09082.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15901.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.15901.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.15901.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.16107.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.16107.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.16107.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.11498.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.11498.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.11498.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.07690.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.07690.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.07690.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.06815.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.06815.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.06815.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.15263.
+[20.07.2026 22:00] Downloading paper 2607.15263 from https://arxiv.org/pdf/2607.15263v2...
+[20.07.2026 22:00] Extracting affiliations from text.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Benchmarking Sensor Robustness in Plasma Diagnostic Models: neerav.dgupta@gmail.com Abstract Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when plasma disruption is approaching. We present the first systematic robustness benchmark for plasma diagnostic ML using the TokaMark dataset of 11,573 MAST shots [1], evaluating XGBoost, LSTM, Transformer, and the TokaMark CNN baseline across six physicallygrounded failure scenarios and three imputation strategies. We introduce the Robustness Score (RS) for standardized cross-architecture comparison. Our central finding is that disruption-proximate sensor failurecorruption injected in the final window timestepscollapses sequence model performance (LSTM +212% NRMSE) while statistical feature model remains comparatively stable (XGBoost +37%). Forward-fill imputation eliminates nearly all degradation from random dropout for sequence models (LSTM +57% 0%), but offers little help when the end of the window is corrupted. Shot-level alarm evaluation using ground-truth disruption timestamps reveals that LSTM alarm detection collapses to TPR = 0.00 under proximate sensor failure, while mean-fill imputation recovers it to TPR = 1.00, reversal of the pattern observed in NRMSE. Plasma current emerges as the single most critical diagnostic across all architectures (+73% to +140% upon removal). Code, data, and trained checkpoints are available at https://github.com/ Neerav-Gupta/tokamark-robustness. 1 1.1 Nuclear Fusion and Tokamaks Nuclear fusion has long been considered one of the most compelling paths toward clean, abundant energy. Where fission splits heavy atoms and leaves behind radioactive byproducts, fusion joins light hydrogen isotopes (deuterium and tritium) and releases substantially more energy per reaction, with helium"
-[20.07.2026 19:43] Response: ```python
+Text:"Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents Abstract Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. We evaluate language-model security agents through this cost-success lens on offensive Cybench challenges and defensive Splunk BOTS v1 investigation challenges. Instead of reporting only best-case success, we compare models at fixed cost levels and decompose performance by inference spend and tool spend. Our results show distinct scaling regimes for redand blue-team tasks. Offensive CTF performance improves with additional test-time compute, and scaled open-weight models can approach frontier proprietary systems while remaining cost-competitive. Defensive SOC investigation does not scale in the same way: success depends more heavily on disciplined tool use, telemetry navigation, and selective enrichment than on raw reasoning budget alone. We argue that security-agent benchmarks should measure economic efficiency and operational fit alongside task success. Cost-aware, SOC-native evaluations provide clearer picture of which models are practically useful today and where defensive agents still need to improve. We present an interactive website with our results as https://evals.frontier.security. Keywords: cybersecurity benchmarks, AI agents, security operations centers, Cybench, BOTS, cost accounting 1. Introduction Security-agent evaluations often ask how far model can go when it is given generous inference budget and an offensive task: solve CTF, find vulnerability, write an exploit, or automate penetration-testing step. Recent Claude Mythos Preview evaluations exemplify this regime, combining CTF suites, multi-step cy"
+[20.07.2026 22:00] Response: ```python
 []
 ```
-[20.07.2026 19:43] Extracting affiliations from text.
-[20.07.2026 19:43] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 22:00] Extracting affiliations from text.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Benchmarking Sensor Robustness in Plasma Diagnostic Models:neerav.dgupta@gmail.com Abstract Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when plasma disruption is approaching. We present the first systematic robustness benchmark for plasma diagnostic ML using the TokaMark dataset of 11,573 MAST shots [1], evaluating XGBoost, LSTM, Transformer, and the TokaMark CNN baseline across six physicallygrounded failure scenarios and three imputation strategies. We introduce the Robustness Score (RS) for standardized cross-architecture comparison. Our central finding is that disruption-proximate sensor failurecorruption injected in the final window timestepscollapses sequence model performance (LSTM +212% NRMSE) while statistical feature model remains comparatively stable (XGBoost +37%). Forward-fill imputation eliminates nearly all degradation from random dropout for sequence models (LSTM +57% 0%), but offers little help when the end of the window is corrupted. Shot-level alarm evaluation using ground-truth disruption timestamps reveals that LSTM alarm detection collapses to TPR = 0.00 under proximate sensor failure, while mean-fill imputation recovers it to TPR = 1.00, reversal of the pattern observed in NRMSE. Plasma current emerges as the single most critical diagnostic across all architectures (+73% to +140% upon removal). Code, data, and trained checkpoints are available at https://github.com/ Neerav-Gupta/tokamark-robustness.1 1.1 Nuclear Fusion and Tokamaks Nuclear fusion has long been considered one of the most compelling paths toward clean, abundant energy. Where fission splits heavy atoms and leaves behind radioactive byproducts, fusion joins light hydrogen isotopes (deuterium and tritium) and releases substantially more energy per reaction, with helium as the main product [2]. The fuel supply is effectively inexhaustible: deuterium is extracted from seawater, and tritium can be bred from lithium. working fusion power plant would emit no carbon, produce no long-lived radioactive waste, and carry no risk of runaway reaction [3]. The central diﬀiculty is confining the fuel long enough for fusion to occur. The reaction requires temperatures above 100 million degrees Celsius, hotter than the core of the Sun, at which hydrogen exists as plasma that would instantly destroy any material it contacted. Magnetic confinement fusion (MCF) handles this by using carefully shaped magnetic fields to keep the plasma suspended away from reactor walls [2]. Among MCF concepts, the tokamak has proven the most successful, and ITER, now under construction in southern France at an estimated cost of $22 billion, is the international experiment intended to demonstrate net energy gain from fusion for the first time [4].The economic stakes are considerable. Maris et al. [6] showed that even moderate disruption rates push up the levelized cost of electricity enough to threaten the commercial viability of fusion energy. The practical response is early disruption prediction: if machines control system receives even 50100 milliseconds of warning, it can gracefully terminate the plasma before damage occurs [7]. Reliable, real-time prediction is therefore not merely performance goal; it is safety requirement for any reactor-class device.1 cal emission, X-ray cameras, microwave interferometry, and more, spanning sampling rates from 200 Hz to 500 kHz and producing inherently multi-modal, asynchronous, and noisy data [8]. Machine learning models can fuse these heterogeneous streams, respond in real time, and capture nonlinear dynamics without requiring explicit physical parameterization [9]. Progress has been rapid. Kates-Harbeck et al. [7] showed that deep recurrent networks trained on raw diagnostic time series could predict disruptions across JET and DIII-D with strong performance. Vega et al. [10] took this further, deploying an AI-based disruption prediction system at JET that matched or outperformed existing physics-based predictors. Churchill et al. [11] demonstrated that convolutional networks operating directly on high-resolution diagnostics could reliably identify pre-disruption states on DIII-D. More recently, foundation model approaches have been proposed as path toward general-purpose plasma representations: Churchill [9] laid out the theoretical case, and TokaMind [12] delivered the first open-source multi-modal transformer trained on MAST data and benchmarked on TokaMark tasks."
-[20.07.2026 19:43] Response: ```python
+Text:"Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security AgentsAbstract Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. We evaluate language-model security agents through this cost-success lens on offensive Cybench challenges and defensive Splunk BOTS v1 investigation challenges. Instead of reporting only best-case success, we compare models at fixed cost levels and decompose performance by inference spend and tool spend. Our results show distinct scaling regimes for redand blue-team tasks. Offensive CTF performance improves with additional test-time compute, and scaled open-weight models can approach frontier proprietary systems while remaining cost-competitive. Defensive SOC investigation does not scale in the same way: success depends more heavily on disciplined tool use, telemetry navigation, and selective enrichment than on raw reasoning budget alone. We argue that security-agent benchmarks should measure economic efficiency and operational fit alongside task success. Cost-aware, SOC-native evaluations provide clearer picture of which models are practically useful today and where defensive agents still need to improve. We present an interactive website with our results as https://evals.frontier.security. Keywords: cybersecurity benchmarks, AI agents, security operations centers, Cybench, BOTS, cost accounting 1. Introduction Security-agent evaluations often ask how far model can go when it is given generous inference budget and an offensive task: solve CTF, find vulnerability, write an exploit, or automate penetration-testing step. Recent Claude Mythos Preview evaluations exemplify this regime, combining CTF suites, multi-step cyber ranges, and vulnerabilitydiscovery/exploit-development evaluations with million-token budgets and attacker-directed execution access (UK AI Security Institute, 2026a; Anthropic, 2026). Those measurements are useful because they track capabilities that attackers can use. However, they are incomplete because operational security is not peak-capability exercise. Measuring capability at cost limit is much more indicative of how these measurements can be valuable in production systems. security operations center (SOC) needs agents that can navigate telemetry, choose searches, decide when enrichment is worth paying for, and return analyst-grade answers under budget. Correspondence to: pkassianik@gmail.com; Twitter: @kass_paul. 2026 P. Kassianik, B. Nelson & Y. Singer. Kassianik Nelson Singer Figure 1: Resource scaling for various models on Cybench and BOTS v1. Left: Cybench success rate versus per-sample cost budget cap: challenge counts as solved at budget only if its model-token spend was at most x. Right: BOTS v1 binary answer accuracy versus per-sample cap on tool calls, shown on symmetric-log axis. Claude Fable 5 appears only BOTS v1 due to refusals on Cybench. These GPT-5.6 and Fable runs use high reasoning effort. Offensive success climbs steadily with spend, while defensively the strongest models are near-maximal within 20 tool calls. Notably, DeepSeek v4 Flash does over 100 toolcalls to plateau lower defense tracks tool discipline, not volume. We therefore make cost the common axis for comparing offensive and defensive security agents. fixed budget turns success rate into an operational question: how much capability does model buy per dollar of inference and tooling? This framing also separates two costs that are often collapsed together. For offensive CTFs, most marginal spend is test-time reasoning and command execution. For SOC investigation, the model also spends analystfacing resources: Splunk queries, event inspection, web search, WHOIS history, and other enrichment calls. We evaluate this cost-success tradeoff on offensive Cybench challenges (Zhang et al., 2024) and defensive Splunk Boss of the SOC (BOTS) v1 investigations (Splunk, 2017) in common agent-evaluation harness. Cybench provides sandboxed CTF-style tasks with shell and Python access. BOTS v1 provides public Splunk telemetry and official competition questions with point values and hint penalties. Rather than presenting single leaderboard, we characterize operating points: model, task family, cost limit, tools, and scoring rule. We find distinct scaling regimes. On Cybench, retrospective budget caps show clear headroom for Claude Opus 4.8 and DeepSeek v4 Flash, while GPT-5.5 already solves most successful challenges below the lower cap. On BOTS v1, extra budget is less predictive: the direct DeepSeek v4 Flash cap increase produces little gain, and high tool volume often accompanies lower scores. The defensive signal is therefore not raw reasoning budget alone; it is disciplined tool use, telemetry navigation, and selective enrichment. 2 Cost-Aware Security Agent Evaluation Our contributions are as follows: cost-success comparison of shared Cybench and BOTS v1 model operating points using common harness; paired budget-headroom analysis showing where additional per-sample spend changes observed scores; Model-token plus priced-tool cost accounting for SOC investigation, including cost per 1,000 BOTS points; No-tools controls showing substantial model-dependent direct answer recovery on public BOTS v1 and therefore the need for decontamination checks before interpreting absolute scores. 2. Related Work Cybersecurity model evaluation spans knowledge tests, offensive agent tasks, defensive investigations, and benchmark-integrity work. Broad suites such as CyberSecEval 2 measure security risks and capabilities including prompt injection, code-interpreter abuse, false refusals, and exploit-generation tasks (Bhatt et al., 2024); CyberSecEval 3 extends that line toward automated social engineering and autonomous offensive operations (Wan et al., 2024). Cybersecurity-knowledge benchmarks such as SecBench scale up multi-domain question answering and short-answer grading (Jing et al., 2025). These resources are useful for measuring domain knowledge and misuse risk, but they usually do not require full investigation loop with changing evidence, paid tools, and explicit budget tradeoffs. Offensive agent benchmarks add interaction and execution. InterCode stand"
+[20.07.2026 22:00] Response: ```python
 []
 ```
-[20.07.2026 19:43] Deleting PDF ./assets/pdf/2607.11915.pdf.
-[20.07.2026 19:43] Success.
-[20.07.2026 19:43] Enriching papers with extra data.
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 0. Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 1. Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses thi...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 2. Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 3. Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with min...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 4. Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expans...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 5. Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 6. Abstract  Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinat...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 7. Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, ...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 8. Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported ...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 9. Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (mod...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 10. Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, ...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 11. Abstract  Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the qual...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 12. Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 13. Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which ...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 14. Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 15. Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 16. Abstract  Training-free in-context segmentation enables new object categories to be introduced at inference time from a single annotated reference image, eliminating the retraining and memory overhead of class-incremental learning. Recent approaches achieve this by combining vision foundation models...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 17. Abstract  Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottleneck motivates models that can anticipate the effects of data science operations before real ...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 18. Abstract  We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos. Unlike prior AV-LLMs that primarily focus on short clips, AV-Flamingo is designed for und...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 19. Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 20. Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinkin...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 21. Abstract  Autonomous negotiation agents are increasingly deployed in high-stakes settings such as insurance and procurement. While cryptographic techniques protect explicitly disclosed constraint values, they fail to address a subtler threat: behavioral privacy leakage, where an adversary infers pri...
-[20.07.2026 19:43] ********************************************************************************
-[20.07.2026 19:43] Abstract 22. Abstract  Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when a plasma disruption is app...
-[20.07.2026 19:43] Read previous papers.
-[20.07.2026 19:43] Generating reviews via LLM API.
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#retrieval", "#multimodal", "#tool_use", "#training", "#agent_memory", "#agents"], "emoji": "📚", "ru": {"title": "Преобразование знаний в навыки для агентов", "desc": "В статье представлен RESOURCE2SKILL — фреймворк, который преобразует мультимодальные ресурсы, такие как обучающие в
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#dataset", "#graphs", "#retrieval", "#rag", "#open_source"], "emoji": "🔍", "ru": {"title": "Новый подход к построению графов знаний в ML", "desc": "Статья посвящена улучшению генерации текстов с использованием структурированных знаний в большой модели языка через GraphRAG. Представл
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#architecture", "#training", "#reasoning", "#optimization"], "emoji": "🤖", "ru": {"title": "Loopie: Прорыв в трансформерах!", "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 милли
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#open_source", "#transfer_learning", "#robotics", "#training", "#agents", "#optimization", "#alignment", "#agi"], "emoji": "🤖", "ru": {"title": "Xiaomi-Robotics-1: Новая эра мобильной робототехники", "desc": "Мы представляем модель Xiaomi-Robotics-1, которая сочетает в себе возможно
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#architecture", "#training", "#optimization", "#memory"], "emoji": "🚀", "ru": {"title": "Эффективное расширение памяти в трансформерах", "desc": "Статья представляет метод xHC (Expanded Hyper-Connections), который позволяет эффективно расширять память в трансформерах. Он преодолевае
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#synthetic", "#training", "#dataset", "#healthcare", "#agents", "#reasoning", "#benchmark", "#continual_learning", "#agi"], "emoji": "🩺", "ru": {"title": "Новая эра в медицинском ИИ", "desc": "В данной статье представляется модель Cura 1T, специализированная для здравоохранения, кот
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#optimization", "#training", "#reasoning", "#agents", "#memory"], "emoji": "📊", "ru": {"title": "Революция в рекомендациях: новые подходы для лучшего понимания пользователей", "desc": "Статья описывает новый подход к рекомендательным системам с использованием больших языковых моделе
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#transfer_learning", "#reasoning", "#training", "#optimization", "#benchmark", "#rl"], "emoji": "💡", "ru": {"title": "Новая эра дистилляции в обучении с подкреплением", "desc": "Статья посвящена новому подходу к дистилляции в обучении с подкреплением, который называется On-Policy De
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#optimization", "#multimodal", "#training", "#agents", "#agent_memory", "#agi"], "emoji": "🤖", "ru": {"title": "ИИ в ревью кода: ускорение при сохранении качества", "desc": "В данной статье рассматривается влияние перехода к поддерживаемому ИИ процессу ревью кода на его эффективност
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#training", "#dataset", "#reasoning", "#games", "#rl", "#transfer_learning"], "emoji": "♟️", "ru": {"title": "Влияние предварительного обучения на обучение с подкреплением", "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкрепле
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#audio", "#music_generation", "#training", "#multilingual", "#multimodal"], "emoji": "🎶", "ru": {"title": "Создание музыки нового поколения с Qwen-Music", "desc": "В данном отчете представлен Qwen-Music, мощная модель генерации музыки, способная создавать высококачественные песни с 
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#continual_learning", "#agent_memory", "#prompting"], "emoji": "💡", "ru": {"title": "Оптимизация обучения через самоулучшение вспомогательных инструментов", "desc": "В статье рассматривается концепция сосуществования моделей и вспомогательных
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#agents", "#games"], "emoji": "🤖", "ru": {"title": "Muon: новый взгляд на обучение с частичными вознаграждениями", "desc": "В данной статье рассматривается эффективность использования метода Muon в задачах обучения с частичными вознаграждениями, 
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#benchmark", "#reasoning", "#rlhf"], "emoji": "🧠", "ru": {"title": "Новый подход к обучению с подкреплением для точного формирования преимущества", "desc": "В данной статье предложен новый подход к обучению с подкреплением с проверяемыми наградам
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#dataset", "#3d", "#architecture", "#training", "#diffusion", "#optimization"], "emoji": "🎬", "ru": {"title": "VideoRAE: новый подход к генерации видео", "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFM
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#multimodal", "#benchmark", "#architecture", "#reasoning", "#science"], "emoji": "🔬", "ru": {"title": "Единое решение для научного моделирования", "desc": "S1-Omni — это единая модель многомодального рассуждения, предназначенная для научного понимания, предсказания и генерации. Она 
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#games", "#training", "#optimization", "#dataset", "#multimodal"], "emoji": "🖼️", "ru": {"title": "Сегментация без обучения: новое слово в обрисовке объектов", "desc": "Статья представляет метод REBASE, который позволяет сегментировать объекты без необходимости в обучении. Этот мето
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset", "#reinforcement_learning", "#agents", "#agent_memory", "#rl"], "emoji": "⚙️", "ru": {"title": "Ускорение науки о данных с помощью Мировой Модели", "desc": "В статье рассматриваются автономные агенты в области науки о данных, которые использую
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#multimodal", "#training", "#dataset", "#reasoning", "#benchmark", "#audio", "#agi", "#transfer_learning", "#interpretability"], "emoji": "🎥", "ru": {"title": "AV-Flamingo: Понимание длинных аудиовизуальных потоков", "desc": "Статья представляет Audio-Visual Flamingo (AV-Flamingo) —
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#transfer_learning", "#games", "#agents", "#3d", "#training"], "emoji": "🤖", "ru": {"title": "Устранение несовпадения координат: точечные карты для роботов", "desc": "Модели, объединяющие визуальные данные, язык и действия (VLA), предсказывают действия робота на основе визуальных на
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#optimization", "#agents", "#rl", "#rlhf", "#reasoning", "#training"], "emoji": "🤖", "ru": {"title": "Обучение конкурирующих моделей для улучшения мышления", "desc": "В данной статье представлен подход к обучению с подкреплением, основанный на взаимодействии двух моделей, называемый
-[20.07.2026 19:43] Using data from previous issue: {"categories": ["#security", "#training", "#rl", "#agents", "#ethics"], "emoji": "🤝", "ru": {"title": "Защита приватности в переговорах без потери эффективности", "desc": "В статье рассматриваются автономные агенты для ведения переговоров, которые используются в ситуациях с высокими ставками, таких 
-[20.07.2026 19:43] Querying the API.
-[20.07.2026 19:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[20.07.2026 22:00] Deleting PDF ./assets/pdf/2607.15263.pdf.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.10966.
+[20.07.2026 22:00] Downloading paper 2607.10966 from https://arxiv.org/pdf/2607.10966v1...
+[20.07.2026 22:00] Extracting affiliations from text.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when a plasma disruption is approaching. We present the first systematic robustness benchmark for plasma diagnostic ML using the TokaMark dataset of 11,573 MAST shots, evaluating XGBoost, LSTM, Transformer, and the TokaMark CNN baseline across six physically-grounded failure scenarios and three imputation strategies. We introduce the Robustness Score (RS) for standardized cross-architecture comparison. Our central finding is that disruption-proximate sensor failure (corruption injected in the final window timesteps) collapses sequence model performance (LSTM +212% NRMSE) while a statistical feature model remains comparatively stable (XGBoost +37%). Forward-fill imputation eliminates nearly all degradation from random dropout for sequence models (LSTM +57% to ~0%), but offers little help when the end of the window is corrupted. Shot-level alarm evaluation using ground-truth disruption timestamps reveals that LSTM alarm detection collapses to TPR=0.00 under proximate sensor failure, while mean-fill imputation recovers it to TPR=1.00, a reversal of the pattern observed in NRMSE. Plasma current emerges as the single most critical diagnostic across all architectures (+73% to +140% upon removal). Code, data, and trained checkpoints are available at https://github.com/Neerav-Gupta/tokamark-robustness.
-[20.07.2026 19:43] Response: ```json
+Text:"Published as an arxiv pre-print SVR-R1: Bootstrapping Multi-modal Reasoning with Selfverification in Reinforcement Learning Mingyuan Wu1, Jingcheng Yang1, Shengyi Qian2, Xudong Wang2, Jize Jiang1, Qifan Wang2, Aashu Singh2, Khoi Pham2, Fei Liu2, Zhaolun Su2, Zhuokai Zhao2, Klara Nahrstedt1, Jianyu Wang2, Hanchao Yu2 1University of Illinois Urbana-Champaign, 2Meta {mw34}@illinois.edu "
+[20.07.2026 22:00] Response: ```python
+["University of Illinois Urbana-Champaign", "Meta"]
+```
+[20.07.2026 22:00] Deleting PDF ./assets/pdf/2607.10966.pdf.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Downloading and parsing paper https://huggingface.co/papers/2607.11915.
+[20.07.2026 22:00] Extra JSON file exists (./assets/json/2607.11915.json), skip PDF parsing.
+[20.07.2026 22:00] Paper image links file exists (./assets/img_data/2607.11915.json), skip HTML parsing.
+[20.07.2026 22:00] Success.
+[20.07.2026 22:00] Enriching papers with extra data.
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 0. Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 1. Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses thi...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 2. Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 3. Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with min...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 4. Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expans...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 5. Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 6. Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, ...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 7. Abstract  Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinat...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 8. Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported ...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 9. Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (mod...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 10. Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, ...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 11. Abstract  Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the qual...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 12. Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 13. Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 14. Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which ...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 15. Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 16. Abstract  Training-free in-context segmentation enables new object categories to be introduced at inference time from a single annotated reference image, eliminating the retraining and memory overhead of class-incremental learning. Recent approaches achieve this by combining vision foundation models...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 17. Abstract  Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottleneck motivates models that can anticipate the effects of data science operations before real ...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 18. Abstract  We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos. Unlike prior AV-LLMs that primarily focus on short clips, AV-Flamingo is designed for und...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 19. Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 20. Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinkin...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 21. Abstract  Autonomous negotiation agents are increasingly deployed in high-stakes settings such as insurance and procurement. While cryptographic techniques protect explicitly disclosed constraint values, they fail to address a subtler threat: behavioral privacy leakage, where an adversary infers pri...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 22. Abstract  Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning s...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 23. Abstract  We introduce Self-Verified Reasoner (SVR-R1), a multi-turn RL framework that turns a model's own verification into a learning signal for multimodal reasoning. For each query, the model proposes an answer using the same weights, and issues a binary self-verdict (Yes/No). A 'No' triggers a s...
+[20.07.2026 22:00] ********************************************************************************
+[20.07.2026 22:00] Abstract 24. Abstract  Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when a plasma disruption is app...
+[20.07.2026 22:00] Read previous papers.
+[20.07.2026 22:00] Generating reviews via LLM API.
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#retrieval", "#multimodal", "#tool_use", "#training", "#agent_memory", "#agents"], "emoji": "📚", "ru": {"title": "Преобразование знаний в навыки для агентов", "desc": "В статье представлен RESOURCE2SKILL — фреймворк, который преобразует мультимодальные ресурсы, такие как обучающие в
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#dataset", "#graphs", "#retrieval", "#rag", "#open_source"], "emoji": "🔍", "ru": {"title": "Новый подход к построению графов знаний в ML", "desc": "Статья посвящена улучшению генерации текстов с использованием структурированных знаний в большой модели языка через GraphRAG. Представл
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#architecture", "#training", "#reasoning", "#optimization"], "emoji": "🤖", "ru": {"title": "Loopie: Прорыв в трансформерах!", "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 милли
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#open_source", "#transfer_learning", "#robotics", "#training", "#agents", "#optimization", "#alignment", "#agi"], "emoji": "🤖", "ru": {"title": "Xiaomi-Robotics-1: Новая эра мобильной робототехники", "desc": "Мы представляем модель Xiaomi-Robotics-1, которая сочетает в себе возможно
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#architecture", "#training", "#optimization", "#memory"], "emoji": "🚀", "ru": {"title": "Эффективное расширение памяти в трансформерах", "desc": "Статья представляет метод xHC (Expanded Hyper-Connections), который позволяет эффективно расширять память в трансформерах. Он преодолевае
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#synthetic", "#training", "#dataset", "#healthcare", "#agents", "#reasoning", "#benchmark", "#continual_learning", "#agi"], "emoji": "🩺", "ru": {"title": "Новая эра в медицинском ИИ", "desc": "В данной статье представляется модель Cura 1T, специализированная для здравоохранения, кот
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#transfer_learning", "#reasoning", "#training", "#optimization", "#benchmark", "#rl"], "emoji": "💡", "ru": {"title": "Новая эра дистилляции в обучении с подкреплением", "desc": "Статья посвящена новому подходу к дистилляции в обучении с подкреплением, который называется On-Policy De
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#optimization", "#training", "#reasoning", "#agents", "#memory"], "emoji": "📊", "ru": {"title": "Революция в рекомендациях: новые подходы для лучшего понимания пользователей", "desc": "Статья описывает новый подход к рекомендательным системам с использованием больших языковых моделе
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#optimization", "#multimodal", "#training", "#agents", "#agent_memory", "#agi"], "emoji": "🤖", "ru": {"title": "ИИ в ревью кода: ускорение при сохранении качества", "desc": "В данной статье рассматривается влияние перехода к поддерживаемому ИИ процессу ревью кода на его эффективност
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#training", "#dataset", "#reasoning", "#games", "#rl", "#transfer_learning"], "emoji": "♟️", "ru": {"title": "Влияние предварительного обучения на обучение с подкреплением", "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкрепле
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#audio", "#music_generation", "#training", "#multilingual", "#multimodal"], "emoji": "🎶", "ru": {"title": "Создание музыки нового поколения с Qwen-Music", "desc": "В данном отчете представлен Qwen-Music, мощная модель генерации музыки, способная создавать высококачественные песни с 
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#continual_learning", "#agent_memory", "#prompting"], "emoji": "💡", "ru": {"title": "Оптимизация обучения через самоулучшение вспомогательных инструментов", "desc": "В статье рассматривается концепция сосуществования моделей и вспомогательных
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#agents", "#games"], "emoji": "🤖", "ru": {"title": "Muon: новый взгляд на обучение с частичными вознаграждениями", "desc": "В данной статье рассматривается эффективность использования метода Muon в задачах обучения с частичными вознаграждениями, 
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#multimodal", "#benchmark", "#architecture", "#reasoning", "#science"], "emoji": "🔬", "ru": {"title": "Единое решение для научного моделирования", "desc": "S1-Omni — это единая модель многомодального рассуждения, предназначенная для научного понимания, предсказания и генерации. Она 
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#benchmark", "#reasoning", "#rlhf"], "emoji": "🧠", "ru": {"title": "Новый подход к обучению с подкреплением для точного формирования преимущества", "desc": "В данной статье предложен новый подход к обучению с подкреплением с проверяемыми наградам
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#dataset", "#3d", "#architecture", "#training", "#diffusion", "#optimization"], "emoji": "🎬", "ru": {"title": "VideoRAE: новый подход к генерации видео", "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFM
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#games", "#training", "#optimization", "#dataset", "#multimodal"], "emoji": "🖼️", "ru": {"title": "Сегментация без обучения: новое слово в обрисовке объектов", "desc": "Статья представляет метод REBASE, который позволяет сегментировать объекты без необходимости в обучении. Этот мето
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset", "#reinforcement_learning", "#agents", "#agent_memory", "#rl"], "emoji": "⚙️", "ru": {"title": "Ускорение науки о данных с помощью Мировой Модели", "desc": "В статье рассматриваются автономные агенты в области науки о данных, которые использую
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#multimodal", "#training", "#dataset", "#reasoning", "#benchmark", "#audio", "#agi", "#transfer_learning", "#interpretability"], "emoji": "🎥", "ru": {"title": "AV-Flamingo: Понимание длинных аудиовизуальных потоков", "desc": "Статья представляет Audio-Visual Flamingo (AV-Flamingo) —
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#transfer_learning", "#games", "#agents", "#3d", "#training"], "emoji": "🤖", "ru": {"title": "Устранение несовпадения координат: точечные карты для роботов", "desc": "Модели, объединяющие визуальные данные, язык и действия (VLA), предсказывают действия робота на основе визуальных на
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#optimization", "#agents", "#rl", "#rlhf", "#reasoning", "#training"], "emoji": "🤖", "ru": {"title": "Обучение конкурирующих моделей для улучшения мышления", "desc": "В данной статье представлен подход к обучению с подкреплением, основанный на взаимодействии двух моделей, называемый
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#security", "#training", "#rl", "#agents", "#ethics"], "emoji": "🤝", "ru": {"title": "Защита приватности в переговорах без потери эффективности", "desc": "В статье рассматриваются автономные агенты для ведения переговоров, которые используются в ситуациях с высокими ставками, таких 
+[20.07.2026 22:00] Querying the API.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. We evaluate language-model security agents through this cost-success lens on offensive Cybench challenges and defensive Splunk BOTS v1 investigation challenges. Instead of reporting only best-case success, we compare models at fixed cost levels and decompose performance by inference spend and tool spend. Our results show distinct scalingregimes for red- and blue-team tasks. Offensive CTF performance improves with additional test-time compute, and scaled open-weight models can approach frontier proprietary systems while remaining cost-competitive. Defensive SOC investigation does not scale in the same way: success depends more heavily on disciplined tool use, telemetry navigation, and selective enrichment than on raw reasoning budget alone. We argue that security-agent benchmarks should measure economic efficiency and operational fit alongside task success. Cost-aware, SOC-native evaluations provide a clearer picture of which models are practically useful today and where defensive agents still need to improve. We present an interactive website with our results https://evals.frontier.security.
+[20.07.2026 22:00] Response: ```json
 {
-  "desc": "В данной статье рассматриваются модели диагностики плазмы для токамаков и их оценка на основе реальных данных, которые часто содержат пропуски и неисправности. Исследуются производительность различных моделей машинного обучения, таких как XGBoost, LSTM и Transformer, в условиях неполных данных. Авторы вводят метрику Robustness Score для стандартизированной оценки надежности моделей. Основной вывод заключается в том, что сбои сенсоров, происходящие близко к моменту разрушения плазмы, значительно ухудшают работу последовательностных моделей.",
-  "emoji": "⚛️",
-  "title": "Надежность диагностики плазмы при сбоях сенсоров"
+  "desc": "В данной статье рассматривается оценка агентов безопасности на основе языковых моделей с акцентом на уровень затрат и успеха выполнения задач. Мы анализируем эффективность агентов в условиях ограниченных ресурсов, сравнивая результаты в различных сценариях атак и защиты. Результаты показывают, что производительность атакующих агентов улучшается при увеличении вычислительных ресурсов, в то время как защитные агенты зависят больше от правильного использования инструментов и данных. Мы подчеркиваем важность учета экономической эффективности и операционной применимости при оценке моделей безопасности.",
+  "emoji": "💻",
+  "title": "Оценка агентов безопасности: успех и затраты"
 }
 ```
-[20.07.2026 19:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -284,12 +306,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when a plasma disruption is approaching. We present the first systematic robustness benchmark for plasma diagnostic ML using the TokaMark dataset of 11,573 MAST shots, evaluating XGBoost, LSTM, Transformer, and the TokaMark CNN baseline across six physically-grounded failure scenarios and three imputation strategies. We introduce the Robustness Score (RS) for standardized cross-architecture comparison. Our central finding is that disruption-proximate sensor failure (corruption injected in the final window timesteps) collapses sequence model performance (LSTM +212% NRMSE) while a statistical feature model remains comparatively stable (XGBoost +37%). Forward-fill imputation eliminates nearly all degradation from random dropout for sequence models (LSTM +57% to ~0%), but offers little help when the end of the window is corrupted. Shot-level alarm evaluation using ground-truth disruption timestamps reveals that LSTM alarm detection collapses to TPR=0.00 under proximate sensor failure, while mean-fill imputation recovers it to TPR=1.00, a reversal of the pattern observed in NRMSE. Plasma current emerges as the single most critical diagnostic across all architectures (+73% to +140% upon removal). Code, data, and trained checkpoints are available at https://github.com/Neerav-Gupta/tokamark-robustness."
+"Abstract  Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. We evaluate language-model security agents through this cost-success lens on offensive Cybench challenges and defensive Splunk BOTS v1 investigation challenges. Instead of reporting only best-case success, we compare models at fixed cost levels and decompose performance by inference spend and tool spend. Our results show distinct scalingregimes for red- and blue-team tasks. Offensive CTF performance improves with additional test-time compute, and scaled open-weight models can approach frontier proprietary systems while remaining cost-competitive. Defensive SOC investigation does not scale in the same way: success depends more heavily on disciplined tool use, telemetry navigation, and selective enrichment than on raw reasoning budget alone. We argue that security-agent benchmarks should measure economic efficiency and operational fit alongside task success. Cost-aware, SOC-native evaluations provide a clearer picture of which models are practically useful today and where defensive agents still need to improve. We present an interactive website with our results https://evals.frontier.security."
 
-[20.07.2026 19:43] Response: ```python
-["DATASET", "BENCHMARK", "DATA"]
+[20.07.2026 22:00] Response: ```python
+['BENCHMARK', 'AGENTS', 'INFERENCE']
 ```
-[20.07.2026 19:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -332,26 +354,144 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when a plasma disruption is approaching. We present the first systematic robustness benchmark for plasma diagnostic ML using the TokaMark dataset of 11,573 MAST shots, evaluating XGBoost, LSTM, Transformer, and the TokaMark CNN baseline across six physically-grounded failure scenarios and three imputation strategies. We introduce the Robustness Score (RS) for standardized cross-architecture comparison. Our central finding is that disruption-proximate sensor failure (corruption injected in the final window timesteps) collapses sequence model performance (LSTM +212% NRMSE) while a statistical feature model remains comparatively stable (XGBoost +37%). Forward-fill imputation eliminates nearly all degradation from random dropout for sequence models (LSTM +57% to ~0%), but offers little help when the end of the window is corrupted. Shot-level alarm evaluation using ground-truth disruption timestamps reveals that LSTM alarm detection collapses to TPR=0.00 under proximate sensor failure, while mean-fill imputation recovers it to TPR=1.00, a reversal of the pattern observed in NRMSE. Plasma current emerges as the single most critical diagnostic across all architectures (+73% to +140% upon removal). Code, data, and trained checkpoints are available at https://github.com/Neerav-Gupta/tokamark-robustness."
+"Abstract  Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. We evaluate language-model security agents through this cost-success lens on offensive Cybench challenges and defensive Splunk BOTS v1 investigation challenges. Instead of reporting only best-case success, we compare models at fixed cost levels and decompose performance by inference spend and tool spend. Our results show distinct scalingregimes for red- and blue-team tasks. Offensive CTF performance improves with additional test-time compute, and scaled open-weight models can approach frontier proprietary systems while remaining cost-competitive. Defensive SOC investigation does not scale in the same way: success depends more heavily on disciplined tool use, telemetry navigation, and selective enrichment than on raw reasoning budget alone. We argue that security-agent benchmarks should measure economic efficiency and operational fit alongside task success. Cost-aware, SOC-native evaluations provide a clearer picture of which models are practically useful today and where defensive agents still need to improve. We present an interactive website with our results https://evals.frontier.security."
 
-[20.07.2026 19:43] Response: ```python
-["SECURITY", "OPTIMIZATION"]
+[20.07.2026 22:00] Response: ```python
+["SECURITY"]
 ```
-[20.07.2026 19:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Plasma diagnostic models for tokamak fusion devices are almost universally evaluated on clean, complete sensor data. In practice, fusion diagnostics fail regularly: acquisition systems start late, individual sensors die, and signal dropouts cluster precisely when a plasma disruption is approaching. We present the first systematic robustness benchmark for plasma diagnostic ML using the TokaMark dataset of 11,573 MAST shots, evaluating XGBoost, LSTM, Transformer, and the TokaMark CNN baseline across six physically-grounded failure scenarios and three imputation strategies. We introduce the Robustness Score (RS) for standardized cross-architecture comparison. Our central finding is that disruption-proximate sensor failure (corruption injected in the final window timesteps) collapses sequence model performance (LSTM +212% NRMSE) while a statistical feature model remains comparatively stable (XGBoost +37%). Forward-fill imputation eliminates nearly all degradation from random dropout for sequence models (LSTM +57% to ~0%), but offers little help when the end of the window is corrupted. Shot-level alarm evaluation using ground-truth disruption timestamps reveals that LSTM alarm detection collapses to TPR=0.00 under proximate sensor failure, while mean-fill imputation recovers it to TPR=1.00, a reversal of the pattern observed in NRMSE. Plasma current emerges as the single most critical diagnostic across all architectures (+73% to +140% upon removal). Code, data, and trained checkpoints are available at https://github.com/Neerav-Gupta/tokamark-robustness.
+Abstract  Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but incomplete: in operational security, every reasoning step, tool call, telemetry query, and enrichment request consumes budget. We evaluate language-model security agents through this cost-success lens on offensive Cybench challenges and defensive Splunk BOTS v1 investigation challenges. Instead of reporting only best-case success, we compare models at fixed cost levels and decompose performance by inference spend and tool spend. Our results show distinct scalingregimes for red- and blue-team tasks. Offensive CTF performance improves with additional test-time compute, and scaled open-weight models can approach frontier proprietary systems while remaining cost-competitive. Defensive SOC investigation does not scale in the same way: success depends more heavily on disciplined tool use, telemetry navigation, and selective enrichment than on raw reasoning budget alone. We argue that security-agent benchmarks should measure economic efficiency and operational fit alongside task success. Cost-aware, SOC-native evaluations provide a clearer picture of which models are practically useful today and where defensive agents still need to improve. We present an interactive website with our results https://evals.frontier.security.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 19:43] Response: {
-  "desc": "This paper addresses the challenges of evaluating plasma diagnostic models for tokamak fusion devices under real-world conditions where sensor data can be incomplete or corrupted. It introduces the TokaMark dataset and benchmarks various machine learning models, including XGBoost, LSTM, and Transformer, against different failure scenarios. The study finds that sequence models like LSTM are significantly affected by sensor failures close to plasma disruptions, while statistical models like XGBoost show more stability. Additionally, the paper presents the Robustness Score for comparing model performance and highlights the importance of plasma current as a critical diagnostic feature.",
-  "title": "Enhancing Robustness of Plasma Diagnostics in Fusion Devices"
+[20.07.2026 22:00] Response: {
+  "desc": "This paper evaluates the effectiveness of security-agent models by considering the costs associated with their operations, rather than just their peak performance. It analyzes how these models perform in offensive and defensive security tasks while accounting for the resources consumed during inference. The findings reveal that offensive capabilities improve with increased computational resources, while defensive tasks rely more on strategic tool usage and data navigation. The authors advocate for a new benchmark that incorporates economic efficiency and operational relevance to better assess the practical utility of security agents.",
+  "title": "Cost-Effective Security Agents: Beyond Peak Performance"
 }
-[20.07.2026 19:43] Renaming data file.
-[20.07.2026 19:43] Renaming previous data. hf_papers.json to ./d/2026-07-20.json
-[20.07.2026 19:43] Saving new data file.
-[20.07.2026 19:43] Generating page.
-[20.07.2026 19:43] Renaming previous page.
-[20.07.2026 19:43] Renaming previous data. index.html to ./d/2026-07-20.html
-[20.07.2026 19:43] Writing result.
-[20.07.2026 19:43] Renaming log file.
-[20.07.2026 19:43] Renaming previous data. log.txt to ./logs/2026-07-20_last_log.txt
+[20.07.2026 22:00] Querying the API.
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  We introduce Self-Verified Reasoner (SVR-R1), a multi-turn RL framework that turns a model's own verification into a learning signal for multimodal reasoning. For each query, the model proposes an answer using the same weights, and issues a binary self-verdict (Yes/No). A 'No' triggers a second-chance rethink; a 'Yes,' or a turn cap, finalizes the output for computing the outcome-based reward. SVR-R1 is implemented with GRPO and an asynchronous multi-turn rollout framework and needs no external supervision or auxiliary critics. We evaluate SVR-R1 on vision-language reasoning benchmarks and show that it improves accuracy by a large margin over strong standard GRPO baselines. Training dynamics show decreasing reliance on verification-fewer verification turns, yet higher test accuracy-indicating that the gap between verification and generation narrows as the policy internalizes self-correction and chooses the most confident answer via our framework. SVR-R1 bridges the less explored intersection of inference-time self-refinement and RL training for VLMs, offering a simple yet effective recipe for bootstrapping multimodal reasoning. We will open-source SVR-R1 to facilitate future research in VLMs.
+[20.07.2026 22:00] Response: ```json
+{
+  "desc": "В статье представлен Self-Verified Reasoner (SVR-R1) — многоходовая RL-структура, которая использует собственную верификацию модели в качестве обучающего сигнала для мультимодального рассуждения. Модель генерирует ответ на запрос и выдает бинарный саморешение (Да/Нет), что позволяет пересмотреть ответ в случае отрицательного результата. SVR-R1 улучшает точность в задачах распознавания визуального и языкового контента по сравнению с обычными градиентными методами. Эта работа открывает новые возможности для самосовершенствования моделей в процессе вывода без внешнего контроля.",
+  "emoji": "🤖",
+  "title": "Самопроверка для улучшенного мультимодального рассуждения"
+}
+```
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  We introduce Self-Verified Reasoner (SVR-R1), a multi-turn RL framework that turns a model's own verification into a learning signal for multimodal reasoning. For each query, the model proposes an answer using the same weights, and issues a binary self-verdict (Yes/No). A 'No' triggers a second-chance rethink; a 'Yes,' or a turn cap, finalizes the output for computing the outcome-based reward. SVR-R1 is implemented with GRPO and an asynchronous multi-turn rollout framework and needs no external supervision or auxiliary critics. We evaluate SVR-R1 on vision-language reasoning benchmarks and show that it improves accuracy by a large margin over strong standard GRPO baselines. Training dynamics show decreasing reliance on verification-fewer verification turns, yet higher test accuracy-indicating that the gap between verification and generation narrows as the policy internalizes self-correction and chooses the most confident answer via our framework. SVR-R1 bridges the less explored intersection of inference-time self-refinement and RL training for VLMs, offering a simple yet effective recipe for bootstrapping multimodal reasoning. We will open-source SVR-R1 to facilitate future research in VLMs."
+
+[20.07.2026 22:00] Response: ```python
+['RL', 'RLHF', 'MULTIMODAL', 'TRAINING', 'OPEN_SOURCE']
+```
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  We introduce Self-Verified Reasoner (SVR-R1), a multi-turn RL framework that turns a model's own verification into a learning signal for multimodal reasoning. For each query, the model proposes an answer using the same weights, and issues a binary self-verdict (Yes/No). A 'No' triggers a second-chance rethink; a 'Yes,' or a turn cap, finalizes the output for computing the outcome-based reward. SVR-R1 is implemented with GRPO and an asynchronous multi-turn rollout framework and needs no external supervision or auxiliary critics. We evaluate SVR-R1 on vision-language reasoning benchmarks and show that it improves accuracy by a large margin over strong standard GRPO baselines. Training dynamics show decreasing reliance on verification-fewer verification turns, yet higher test accuracy-indicating that the gap between verification and generation narrows as the policy internalizes self-correction and chooses the most confident answer via our framework. SVR-R1 bridges the less explored intersection of inference-time self-refinement and RL training for VLMs, offering a simple yet effective recipe for bootstrapping multimodal reasoning. We will open-source SVR-R1 to facilitate future research in VLMs."
+
+[20.07.2026 22:00] Response: ```python
+['REASONING', 'OPTIMIZATION', 'OPEN_SOURCE']
+```
+[20.07.2026 22:00] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  We introduce Self-Verified Reasoner (SVR-R1), a multi-turn RL framework that turns a model's own verification into a learning signal for multimodal reasoning. For each query, the model proposes an answer using the same weights, and issues a binary self-verdict (Yes/No). A 'No' triggers a second-chance rethink; a 'Yes,' or a turn cap, finalizes the output for computing the outcome-based reward. SVR-R1 is implemented with GRPO and an asynchronous multi-turn rollout framework and needs no external supervision or auxiliary critics. We evaluate SVR-R1 on vision-language reasoning benchmarks and show that it improves accuracy by a large margin over strong standard GRPO baselines. Training dynamics show decreasing reliance on verification-fewer verification turns, yet higher test accuracy-indicating that the gap between verification and generation narrows as the policy internalizes self-correction and chooses the most confident answer via our framework. SVR-R1 bridges the less explored intersection of inference-time self-refinement and RL training for VLMs, offering a simple yet effective recipe for bootstrapping multimodal reasoning. We will open-source SVR-R1 to facilitate future research in VLMs.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[20.07.2026 22:00] Response: {
+  "desc": "The paper presents the Self-Verified Reasoner (SVR-R1), a multi-turn reinforcement learning framework that enhances multimodal reasoning by allowing a model to verify its own answers. The model generates an answer and then issues a binary self-verdict to determine if it should reconsider its response. If the answer is deemed correct, it finalizes the output; otherwise, it rethinks the answer, which helps in learning from its own verification process. SVR-R1 shows significant improvements in accuracy on vision-language reasoning tasks, demonstrating effective self-correction and reduced reliance on verification over time.",
+  "title": "Empowering Multimodal Reasoning through Self-Verification"
+}
+[20.07.2026 22:00] Using data from previous issue: {"categories": ["#dataset", "#data", "#security", "#optimization", "#benchmark"], "emoji": "⚛️", "ru": {"title": "Надежность диагностики плазмы при сбоях сенсоров", "desc": "В данной статье рассматриваются модели диагностики плазмы для токамаков и их оценка на основе реальных данных, которые часто с
+[20.07.2026 22:00] Renaming data file.
+[20.07.2026 22:00] Renaming previous data. hf_papers.json to ./d/2026-07-20.json
+[20.07.2026 22:00] Saving new data file.
+[20.07.2026 22:00] Generating page.
+[20.07.2026 22:00] Renaming previous page.
+[20.07.2026 22:00] Renaming previous data. index.html to ./d/2026-07-20.html
+[20.07.2026 22:00] Writing result.
+[20.07.2026 22:00] Renaming log file.
+[20.07.2026 22:00] Renaming previous data. log.txt to ./logs/2026-07-20_last_log.txt
