@@ -1,243 +1,334 @@
-[20.07.2026 02:57] Read previous papers.
-[20.07.2026 02:57] Generating top page (month).
-[20.07.2026 02:57] Writing top page (month).
-[20.07.2026 06:17] Read previous papers.
-[20.07.2026 06:17] Get feed.
-[20.07.2026 06:17] Extract page data from URL. URL: https://huggingface.co/papers/2607.15330
-[20.07.2026 06:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14530
-[20.07.2026 06:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14530
-[20.07.2026 06:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15314
-[20.07.2026 06:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15314
-[20.07.2026 06:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16051
-[20.07.2026 06:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16051
-[20.07.2026 06:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15591
-[20.07.2026 06:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15591
-[20.07.2026 06:18] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13196
-[20.07.2026 06:18] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13196
-[20.07.2026 06:18] Extract page data from URL. URL: https://huggingface.co/papers/2607.15161
-[20.07.2026 06:18] Extract page data from URL. URL: https://huggingface.co/papers/2607.11683
-[20.07.2026 06:18] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16097
-[20.07.2026 06:18] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16097
-[20.07.2026 06:18] Extract page data from URL. URL: https://huggingface.co/papers/2607.11699
-[20.07.2026 06:18] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15524
-[20.07.2026 06:18] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15524
-[20.07.2026 06:18] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15901
-[20.07.2026 06:18] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15901
-[20.07.2026 06:18] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16107
-[20.07.2026 06:18] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16107
-[20.07.2026 06:18] Extract page data from URL. URL: https://huggingface.co/papers/2607.14088
-[20.07.2026 06:18] Updating GitHub stars.
-[20.07.2026 06:18] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[20.07.2026 06:18] No deleted papers detected.
-[20.07.2026 06:18] Downloading and parsing papers (pdf, html). Total: 14.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.15330.
-[20.07.2026 06:18] Downloading paper 2607.15330 from https://arxiv.org/pdf/2607.15330v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 06:21] Read previous papers.
+[20.07.2026 06:21] Generating top page (month).
+[20.07.2026 06:21] Writing top page (month).
+[20.07.2026 11:44] Read previous papers.
+[20.07.2026 11:44] Get feed.
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11683
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11683
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15330
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15330
+[20.07.2026 11:44] Extract page data from URL. URL: https://huggingface.co/papers/2606.29538
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14530
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14530
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15314
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15314
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16051
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16051
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15591
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15591
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15161
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15161
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13196
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13196
+[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16097
+[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16097
+[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11699
+[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11699
+[20.07.2026 11:45] Extract page data from URL. URL: https://huggingface.co/papers/2607.16169
+[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15524
+[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15524
+[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16107
+[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16107
+[20.07.2026 11:45] Extract page data from URL. URL: https://huggingface.co/papers/2607.15686
+[20.07.2026 11:45] Extract page data from URL. URL: https://huggingface.co/papers/2607.14614
+[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14088
+[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14088
+[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15901
+[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15901
+[20.07.2026 11:45] Updating GitHub stars.
+[20.07.2026 11:45] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[20.07.2026 11:45] No deleted papers detected.
+[20.07.2026 11:45] Downloading and parsing papers (pdf, html). Total: 18.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.11683.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.11683.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.11683.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15330.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15330.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15330.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2606.29538.
+[20.07.2026 11:45] Downloading paper 2606.29538 from https://arxiv.org/pdf/2606.29538v4...
+[20.07.2026 11:45] Extracting affiliations from text.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories Xiaomi Robotics "
-[20.07.2026 06:18] Response: []
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories Xiaomi RoboticsWe present Xiaomi-Robotics-1, foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable actiongeneration capabilities by training on over 100k hours of real-world manipulation trajectories, collected via UMI devices across massive scale of environments and tasks. Crucially, we develop scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative task instructions that humans naturally use to prompt robots, effectively mapping descriptive state transition understanding into actionable task prompts. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where stronger pre-training model yields better out-of-the-box performance in real-robot evaluations within unseen environments. Furthermore, Xiaomi-Robotics-1 serves as strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes new state-of-the-art with 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.htmlThe remarkable capabilities of modern large models are fundamentally driven by scale, where massive and diverse training corpora have underpinned unprecedented leaps in performance for both large language models [7, 22, 27, 45] and vision-language models [1, 14, 62, 63]. Recent work on vision-language-action (VLA) models [4, 5, 24, 25, 54, 71, 76] and world-action models (WAM) [36, 81, 83] has produced increasingly promising results in robot manipulation, with early evidence that policies become more capable and generalizable as the training data grows in scale and diversity. Following the same scaling trajectory of large models is therefore natural and appealing direction for robotics. However, robotics is hindered by unique bottleneck of data. The dominant data collection paradigm, real-robot teleoperation, is slow, costly, and hardware-bound, making 1See Contributions section for full author list. Please send correspondence to mi-robotics@xiaomi.com. 1 Figure 1 Overview. Xiaomi-Robotics-1 is pre-trained on over 100k hours of real-world UMI trajectories with auto-labeled state-transition language prompts. It is then aligned to robot embodiments and imperative instruction prompts via cross-embodiment post-training. Xiaomi-Robotics-1 scales effectively with data and model size. It is able to perform multiple tasks in unseen environment out-of-the-box and learn new tasks efficiently. it difficult to scale. Furthermore, teleoperated data tends to be highly redundant, concentrated on narrow slice of tasks and environments, limiting the diversity of the data. We present Xiaomi-Robotics-1  (Fig. 1)  , foundational vision-language-action (VLA) model trained on massive scale of real-world manipulation trajectories. Drawing inspiration from the training paradigms of large language models, we propose two-stage training recipe comprising pre-training and post-training. During pre-training, we endow the model with robust and generalizable action-generation capabilities by leveraging data sources that scale readily in both volume and diversity. Specifically, we curate dataset of over 100k hours of real-world manipulation trajectories with UMI devices [17], spanning wide range of environments and tasks. Traditional trajectory labeling typically requires manual segmentation by task semantics and language annotationsa labor-intensive process that becomes prohibitive at this scale. To address this challenge, we develop scalable auto-labeling pipeline that leverages pre-trained vision-language model (VLM) [70] to annotate fixed-length trajectory segments with language descriptions detailing scene state transitions. These annotations provide precise and sufficient semantic supervision. Trained on these data, the model learns to generate actions that transform the scene from its current state to the language-specified target state  (Fig. 6)  . In the post-training phase, we utilize over 10k hours of cross-embodiment data to align the strong action-generation capabilities acquired during pre-training. This stage bridges two gaps: adapting the model from generating actions for UMI grippers to actions for robot embodiments, and transitioning from state-transition prompts to imperative instructions typically used by humans to prompt robots. After post-training, Xiaomi-Robotics-1 is able to follow instructions and perform wide range of tasks in unseen environments. Furthermore, it serves as strong robot foundation policy that can be efficiently fine-tuned to learn new tasks. We perform extensive experiments to study the scaling properties of Xiaomi-Robotics-1. Results show that Xiaomi-Robotics-1 scales effectively during the pre-training phase, achieving lower validation action errors as data and model scale up. Moreover, the scaling behavior observed in pre-training directly transfers to post-training, where stronger pre-training models yield better post-training success rates in out-of-the-box real-robot evaluation in unseen environments. These results are encouraging, as they indicate that we are able to continue improving performance as we further scale data and model size. In addition, we fine-tune the model 2 Figure 2 Model Architecture. Xiaomi-Robotics-1 adopts Mixture-of-Transformers [44] architecture that couples pre-trained VLM with DiT. The VLM encode"
-[20.07.2026 06:18] Response: ```python
-["Xiaomi Robotics"]
+Text:"May 2026 Resource2Skill: Distilling Executable Skills from Human-Created Resources for Software Agents Yijia Fan1, Zonglin Di2, Mingxi Cheng1 Qi Dai1 Ji Li1 Yue Dong1 Zimo Wen3, Yifan Yang1,+ Bei Liu1 Kai Qiu1 Chong Luo 1 Microsoft Research 2 University of California, Santa Cruz 3 Shanghai Jiao Tong University Skills are useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present Resource2Skill, framework that distills multimodal resourcestutorial videos, repositories, articles, and reference artifactsinto executable skills for software agents. Resource2Skill organizes these skills as hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, Resource2Skill improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate modeldomain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition. Code: https://aka.ms/Resource2Skill Correspondence: yifanyang@microsoft.com Equal contribution. + Corresponding author. Recent skill-based agent systems [34] have already shown that such abstractions can be highly Figure 1 Resource2Skill distills multimodal resource"
+[20.07.2026 11:45] Response: ```python
+["Microsoft Research", "University of California, Santa Cruz", "Shanghai Jiao Tong University"]
 ```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.15330.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.14530.
-[20.07.2026 06:18] Downloading paper 2607.14530 from https://arxiv.org/pdf/2607.14530v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:45] Deleting PDF ./assets/pdf/2606.29538.pdf.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.14530.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.14530.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.14530.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15314.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15314.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15314.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16051.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.16051.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.16051.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15591.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15591.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15591.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15161.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15161.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15161.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.13196.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.13196.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.13196.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16097.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.16097.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.16097.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.11699.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.11699.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.11699.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16169.
+[20.07.2026 11:45] Downloading paper 2607.16169 from https://arxiv.org/pdf/2607.16169v1...
+[20.07.2026 11:45] Extracting affiliations from text.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"xHC: Expanded Hyper-Connections Xiangdong Zhang1,2 Xiaohan Qin1,2 Sunan Zou2,4 Tuo Dai2 Xiaoming Shi2 Huaijin Wu1,2 Yebin Yang1,2 Zhuo Xia1,2 Yuliang Liu5 Yu Cheng6 Shaofeng Zhang3 Lin Yao2 Junchi Yan1 1School of AI, Shanghai Jiao Tong University 3University of Science and Technology of China 2Dots Studio, Xiaohongshu Inc. 4School of CS, Peking University 5Independent Researcher 6The Chinese University of Hong Kong "
-[20.07.2026 06:18] Response: ```python
+Text:"When Does Muon Help Agentic Reinforcement Learning? Kai Ruan1, Jinghao Lin2, Zihe Huang3 Ziqi Zhou4, Qianshan Wei5, Xuan Wang6, Hao Sun1,* 1Gaoling School of Artificial Intelligence, Renmin University of China 2Independent Researcher 3Institute of Computing Technology, Chinese Academy of Sciences 4Duke University 5Institute of Automation, Chinese Academy of Sciences 6College of Computer Science and Technology, Zhejiang University *Corresponding author "
+[20.07.2026 11:45] Response: ```python
 [
-    "School of AI, Shanghai Jiao Tong University",
-    "Dots Studio, Xiaohongshu Inc.",
-    "School of CS, Peking University",
-    "University of Science and Technology of China",
-    "The Chinese University of Hong Kong",
-    "Independent Researcher"
+    "Gaoling School of Artificial Intelligence, Renmin University of China",
+    "Independent Researcher",
+    "Institute of Computing Technology, Chinese Academy of Sciences",
+    "Duke University",
+    "Institute of Automation, Chinese Academy of Sciences",
+    "College of Computer Science and Technology, Zhejiang University"
 ]
 ```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.14530.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.15314.
-[20.07.2026 06:18] Downloading paper 2607.15314 from https://arxiv.org/pdf/2607.15314v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:45] Deleting PDF ./assets/pdf/2607.16169.pdf.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15524.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15524.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15524.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16107.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.16107.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.16107.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15686.
+[20.07.2026 11:45] Downloading paper 2607.15686 from https://arxiv.org/pdf/2607.15686v1...
+[20.07.2026 11:45] Extracting affiliations from text.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Cura 1T: Specialized Model for Agentic Healthcare actAVA AI Team "
-[20.07.2026 06:18] Response: []
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+Text:"S1-Omni: Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation ScienceOne AI Wenge AI https://huggingface.co/ScienceOne-AI https://modelscope.cn/organization/ScienceOne-AI https://github.com/ScienceOne-AI "
+[20.07.2026 11:45] Response: []
+[20.07.2026 11:45] Extracting affiliations from text.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Cura 1T: Specialized Model for Agentic Healthcare actAVA AI TeamHealthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in different ways, and narrow update for one task can degrade another. We present Cura 1T, healthcare-specialized LLM trained through human-gated self-evolution loop. In each evolution round, training agent plans target capability, trains the model, evaluates benchmark trajectories, and refines the data mixture from observed failures. This datacentered loop improves the model through targeted synthetic and curated examples rather than single generic medical-data update. Across the healthcare evaluation suite, Cura 1T ranks at or near the top among frontier baselines, while remaining competitive on out-of-domain reasoning and agentic benchmarks. Model actava.ai/cura [ Docs actava.ai/cura/docs GitHub actava-ai/Cura Figure 1 Performance of Cura 1T, frontier models, and the Kimi-K2.6 base across six healthcare benchmark panels: MedAgentBench (Jiang et al., 2025), HealthBench Professional and Hard (Arora et al., 2025; OpenAI, 2026), MedXpertQA (Zuo et al., 2025), and AgentClinic (Schmidgall et al., 2024).Frontier language models now answer difficult clinical questions (Singhal et al., 2023), but healthcare deployment requires broader and less forgiving capability profile. We focus on three use cases that recur throughout this report. Patient care requires clinicianand patient-facing responses that follow physician guidelines (Singhal et al., 2023; Arora et al., 2025; OpenAI, 2026). Clinical reasoning requires solving expert medical questions across text and images (Jin et al., 2020; Pal et al., 2022; Singhal et al., 2023; Zuo et al., 2025). Healthcare agentic tasks require multi-turn diagnostic workups, electronic-health-record tool use, and long-horizon healthcare workflows under strict task protocols (Schmidgall et al., 2024; Jiang et al., 2025; Chen et al., 2026; Liu et al., 2026b,a; HL7 International, 2019). These tasks are related, but they fail in different ways: rubric omissions, missing facts, brittle reasoning, premature diagnoses, and malformed tool calls each require different repair. Community progress has been strong on individual ingredients: medical reasoning benchmarks and multimodal expert QA (Jin et al., 2020; Pal et al., 2022; Zuo et al., 2025), rubric-graded clinical conversations (Arora et al., 2025; OpenAI, 2026), diagnosis and EHR-tool benchmarks (Schmidgall et al., 2024; Jiang et al., 2025), long-horizon healthcare-agent benchmarks (Chen et al., 2026; Liu et al., 2026b,a), and continuous-care model systems (Baichuan AI and THUBPM Group, Tsinghua University, 2026). single specialized LLM trained to serve all three use cases remains comparatively underexplored. Building such model is data-construction problem as much as model-training problem. Compared with coding or mathematics, healthcare has less abundant training signal, and its sensitivity makes high-quality supervision harder to obtain. Useful examples are fragmented across guidelines, exams, patient interactions, images, and electronic-health-record workflows; many outcomes also cannot be checked by simple executor or answer key. Because the failure modes are unevenly distributed across task categories, adding examples for one behavior can improve that behavior while eroding behavior that was already correct elsewhere. The central challenge is therefore not simply to choose training algorithm or hyperparameter configuration, but to identify the missing data in the recipe, add publicly available or synthetic surrogates, and curate mixtures that transfer across tasks without unnecessary forgetting. We build Cura 1T, healthcare-specialized LLM to resolve this challenge. Cura 1T is trained with low-rank adapters (Hu et al., 2021) through human-gated self-evolution loop. This design is also motivated by the recent shift toward recursive self-improvement and automated research workflows, enabled by stronger agentic models that can plan, execute, and inspect long technical tasks (autoresearch contributors, 2026; Yamada et al., 2025; Novikov et al., 2025). Manually running the full post-training cycleplanning run, launching training, evaluating the result, reading trajectories, diagnosing failures, and rebuilding the data mixturerequires substantial expert time and slows iteration. In each experiment, an LLM agent defines the desired behavior and acceptance criteria, trains candidate model, evaluates it under the relevant benchmarks, reads the graded trajectories, and refines the next data mixture from the observed failures. The agent uses specialized data-construction skills rather than applying single generic medical data update. We present the detailed design and implementation of this self-evolution loop in Section 3.2. Figure 1 and Table 1 summarize the main results for Cura 1T. Cura 1T is the strongest model on five of the six healthcare benchmark panels and ranks second on the remaining MedXpertQA multimodal tasks. In Table 1, the same model consistently improves over the Kimi-K2.6 base across patient-care, clinical-reasoning, and healthcare-agentic evaluations. Section 4 gives the full benchmark setup, intermediate self-evolution results, and frontier-model comparisons. In addition, we report out2 of-domain benchmark results in math, scientific reasoning, and agentic tasks. Cura 1T preserves strong performance on these benchmarks, indicating that the healthcare-focused training strategy does not obviously erode general reasoning or agentic capability under these evaluations. Table 1 Improvement of Cura 1T from the Kimi-K2.6 base. Metrics differ by benchmark (rubric score for HealthBench, exact-letter pass@1 for MedXpertQA, task success for AgentClinic and MedAgentBench). Benchmark MedAgentBench HealthBench Professional HealthBench Hard MedXpertQA AgentClinic Base 0.847 0.503 0.222 0.569 0.754 Cura 1T 0.940 0.662 0.368 0.655 0.796 +0.093 +0.159 +0.146 +0.086 +0.Healthcare AI. Healthcare language-model work now spans patient care, clinical reasoning, and agentic clinical systems. Med-PaLM showed that large models can encode enough medical knowledge to answer licensing-exam questions (Singhal et al., 2023), "
-[20.07.2026 06:18] Response: ```python
+Text:"S1-Omni: Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation ScienceOne AI Wenge AI https://huggingface.co/ScienceOne-AI https://modelscope.cn/organization/ScienceOne-AI https://github.com/ScienceOne-AIWe present S1-Omni, unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides practical path toward unified scientific modeling.In recent years, AI for Science (AI4S) has advanced along three complementary directions. The first comprises domain-specific models, represented by AlphaFold 3(Abramson et al., 2024) and ESM3 (Hayes et al., 2025), which develop high-performance capabilities for structure prediction, property prediction, or generation around specific scientific entities such as proteins, molecules, and materials. The second comprises tool-augmented general-purpose models, represented by GPT-Rosalind (OpenAI, 2026b) and Claude Science (Anthropic, 2026), which extend general language models with agents, scientific tools, and automated workflows for operating on and executing scientific tasks. The third comprises scientific language models, represented by NatureLM (Xia et al., 2025), LOGOS (Li et al., 2026a), and BioMatrix (Pei et al., 2026), which organize scientific entities such as proteins, DNA, and molecules as jointly modeled symbolic sequences or representation spaces and explore unified modeling across scientific objects. Together, these advances have driven domain modeling, scientific workflow automation, and representation learning for scientific objects, providing important foundations for unified multimodal reasoning in science. However, existing scientific intelligence remains fragmented across domain-specific models, toolaugmented LLMs, and scientific language models. Domain-specific models are typically tied to particular scientific entities and task types. Tool-augmented LLMs use external tools to complete scientific tasks. Scientific language models attempt to unify scientific knowledge within shared embedding space. However, these approaches have yet to bring knowledge from different disciplines, scientific principles, and constraints together within unified model. The key to unified scientific intelligence is therefore not merely to provide natural-language interface or to convert different scientific objects into single token representation. It requires organizing heterogeneous scientific data within the same model process, injecting scientific laws, expert heuristics, and domain-task constraints into task understanding and model reasoning through implicit representations, and producing outputs that can be verified in their corresponding native scientific forms. This work investigates how these distributed capabilities can be integrated into unified multimodal reasoning model, allowing shared backbone to develop cross-disciplinary, cross-modal, and cross-task scientific understanding and reasoning. 1 To this end, we introduce S1-Omni, unified multimodal reasoning model for scientific understanding, prediction, and generation. S1-Omni is built around three core capabilities. First, unified representation of scientific data. The model organizes natural-language instructions and diverse scientific objects into unified task representation, covering text, material CIFs, chemical SMILES, protein sequences, spectra, scientific images, and other scientific modalities. At the same time, it preserves object-type boundaries, representation structures, and necessary encoding paths rather than equating unified modeling with uniform tokenization. Second, natural-world knowledge alignment. Model training does not rely only on statistical associations between inputs and outputs, but also incorporates scientific laws and expert knowledge, together with experimental facts, into data construction, sample validation, and training, enabling the model to form intermediate judgments from scientific evidence in the current task and thereby improving scientific reasoning and interpretability. Third, decoding for domain-specific tasks. On top of shared task understanding and scientific reasoning, the model connects the appropriate output representation and decoders according to the task objective. It supports property prediction, spectrum-to-molecular generation, protein structure generation, and scientific image generation and editing, allowing unified model to produce outputs in each domains native result space. The capabilities of S1-Omni are built on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of high-quality scientific reasoning samples. During dataset construction, we use scientific laws and expert knowledge to design task-specific reasoning chains, taking into account relevant reasoning dimensions, evidence sources, and output constraints. In this way, S1-Omni learns not only surface patterns in scientific data, but also how to reason from evidence in specific task, providing an effective initial path toward scalable unified scientific"
+[20.07.2026 11:45] Response: ```python
 []
 ```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.15314.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.16051.
-[20.07.2026 06:18] Downloading paper 2607.16051 from https://arxiv.org/pdf/2607.16051v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:45] Deleting PDF ./assets/pdf/2607.15686.pdf.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.14614.
+[20.07.2026 11:45] Downloading paper 2607.14614 from https://arxiv.org/pdf/2607.14614v1...
+[20.07.2026 11:45] Extracting affiliations from text.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Loop the Loopies! IQuest Research See the full author contributions here. Models: Loopie-20B-A2B Loopie-6B-A0.6B Code: megatron-loopie vllm-loopie "
-[20.07.2026 06:18] Response: ```python
-["IQuest Research"]
+Text:"Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization Weiwen Xu1 Jia Liu2 Hou Pong Chan1 Long Li Deng Cai1 Min Chen2 Hao Zhang3 1The Chinese University of Hong Kong 2South China University of Technology 3Nanyang Technological University weiwen.xuu@gmail.com; Jialiu0330@hust.edu.cn "
+[20.07.2026 11:45] Response: ```python
+["The Chinese University of Hong Kong", "South China University of Technology", "Nanyang Technological University"]
 ```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.16051.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.15591.
-[20.07.2026 06:18] Extra JSON file exists (./assets/json/2607.15591.json), skip PDF parsing.
-[20.07.2026 06:18] Paper image links file exists (./assets/img_data/2607.15591.json), skip HTML parsing.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.13196.
-[20.07.2026 06:18] Downloading paper 2607.13196 from https://arxiv.org/pdf/2607.13196v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:45] Deleting PDF ./assets/pdf/2607.14614.pdf.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.14088.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.14088.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.14088.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15901.
+[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15901.json), skip PDF parsing.
+[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15901.json), skip HTML parsing.
+[20.07.2026 11:45] Success.
+[20.07.2026 11:45] Enriching papers with extra data.
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 0. Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses thi...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 1. Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with min...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 2. Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 3. Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expans...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 4. Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 5. Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 6. Abstract  Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinat...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 7. Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, ...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 8. Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported ...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 9. Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (mod...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 10. Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, ...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 11. Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 12. Abstract  Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the qual...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 13. Abstract  We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos. Unlike prior AV-LLMs that primarily focus on short clips, AV-Flamingo is designed for und...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 14. Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 15. Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which ...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 16. Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video...
+[20.07.2026 11:45] ********************************************************************************
+[20.07.2026 11:45] Abstract 17. Abstract  Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottleneck motivates models that can anticipate the effects of data science operations before real ...
+[20.07.2026 11:45] Read previous papers.
+[20.07.2026 11:45] Generating reviews via LLM API.
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#dataset", "#graphs", "#retrieval", "#rag", "#open_source"], "emoji": "🔍", "ru": {"title": "Новый подход к построению графов знаний в ML", "desc": "Статья посвящена улучшению генерации текстов с использованием структурированных знаний в большой модели языка через GraphRAG. Представл
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#open_source", "#transfer_learning", "#robotics", "#training", "#agents", "#optimization", "#alignment", "#agi"], "emoji": "🤖", "ru": {"title": "Xiaomi-Robotics-1: Новая эра мобильной робототехники", "desc": "Мы представляем модель Xiaomi-Robotics-1, которая сочетает в себе возможно
+[20.07.2026 11:45] Querying the API.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Text:"From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality Suzhen Zhong, Shayan Noei, Bram Adams, Ying Zou 1 AbstractCode review helps maintain software quality before code integration, but it also imposes substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from primarily human review process toward AI-supported review processes in which large language model (LLM) reviewers and AI agent reviewers participate alongside human reviewers. However, we still lack empirical evidence on how this transition affects review efficiency and review quality. In this paper, we study 1.02 million reviewed pull requests from 207 GitHub projects that transition across three code review eras: human-centric review, LLM-assisted review, and agentic code review. We identify three AI reviewer adoption practices: Gradual AI Adoption, Rapid LLM Adoption, and Rapid AI Agent Adoption. We further model pull request review discussions as reviewer interaction sequences to characterize how human, LLM, and AI agent reviewers collaborate during the review process. Our results show that agent-involved collaboration patterns, especially reviews initiated by AI agents or involving multiple AI agents, are associated with faster review decisions under Gradual AI Adoption and Rapid AI Agent Adoption. However, these efficiency gains do not translate into better review quality. We also find that review activity and pull request type remain important across eras, while human-AI collaboration patterns become the strongest explanatory factor for review efficiency once LLM and AI agent reviewers participate. These findings provide empirical guidance for designing AI-supported code review processes that improve efficiency without weakening review quality. Index TermsAgentic Code Review, Modern Code Review I. INTRODUCTION Generative AI has been rapidly integrat"
-[20.07.2026 06:18] Response: ```python
-[]
+Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition.
+[20.07.2026 11:45] Response: ```json
+{
+  "desc": "В статье представлен RESOURCE2SKILL — фреймворк, который преобразует мультимодальные ресурсы, такие как обучающие видео и статьи, в исполняемые навыки для программных агентов. Эти навыки организованы в иерархическую мультимодальную вики, где каждый элемент сочетает текст, код и визуальные примеры. Такой подход сохраняет информацию из различных источников: видео отражают временные операции, код демонстрирует исполняемые шаблоны, а статьи обеспечивают концептуальные основы. Показано, что RESOURCE2SKILL значительно улучшает производительность агентов по сравнению с теми, у кого нет навыков.",
+  "emoji": "📚",
+  "title": "Преобразование знаний в навыки для агентов"
+}
 ```
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
-Text:"From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality Suzhen Zhong, Shayan Noei, Bram Adams, Ying Zou 1 AbstractCode review helps maintain software quality before code integration, but it also imposes substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from primarily human review process toward AI-supported review processes in which large language model (LLM) reviewers and AI agent reviewers participate alongside human reviewers. However, we still lack empirical evidence on how this transition affects review efficiency and review quality. In this paper, we study 1.02 million reviewed pull requests from 207 GitHub projects that transition across three code review eras: human-centric review, LLM-assisted review, and agentic code review. We identify three AI reviewer adoption practices: Gradual AI Adoption, Rapid LLM Adoption, and Rapid AI Agent Adoption. We further model pull request review discussions as reviewer interaction sequences to characterize how human, LLM, and AI agent reviewers collaborate during the review process. Our results show that agent-involved collaboration patterns, especially reviews initiated by AI agents or involving multiple AI agents, are associated with faster review decisions under Gradual AI Adoption and Rapid AI Agent Adoption. However, these efficiency gains do not translate into better review quality. We also find that review activity and pull request type remain important across eras, while human-AI collaboration patterns become the strongest explanatory factor for review efficiency once LLM and AI agent reviewers participate. These findings provide empirical guidance for designing AI-supported code review processes that improve efficiency without weakening review quality. Index TermsAgentic Code Review, Modern Code Review I. INTRODUCTION Generative AI has been rapidly integrated into software development. For example, AI-generated code now accounts for 75% of new code at Google [1]. GitHub reports that developers pushed nearly one billion commits in 2025, while public repositories using an LLM SDK grew by 178% year over year [2]. As AI-generated code increases the volume of code changes, code review and code integration are becoming downstream bottlenecks. Recent blog posts from Google [3] and Amazon [4] warn that faster code generation can overwhelm human reviewers and delivery pipelines. With this rapid progress in generative AI, developers are increasingly adopting generative AI to write and review code Suzhen Zhong, Shayan Noei, and Ying Zou are with the Department of Electrical and Computer Engineering, Queens University, Kingston, ON K7L 3N6, Canada. E-mail: {suzhen.zhong, s.noei, ying.zou}@queensu.ca. Bram Adams is with the Maintenance, Construction and Intelligence of Software Lab (MCIS), School of Computing, Queens University, Kingston, ON K7L 3N6, Canada. E-mail: bram.adams@queensu.ca. and automate software engineering tasks [5], [6]. Initially (PreLLM era), human reviewers manually provided review feedback, potentially assisted by bots or older machine learning (ML) tools. Later (LLM era), early LLM reviewers assisted developers in generating natural-language feedback from code changes [7]. More recently (agent era), AI agent reviewers have extended the capabilities of LLMs by autonomously retrieving project context, running development tools, and verifying findings before producing feedback [8]. Across these three eras, code review shifts from human-centric process to human-AI collaboration review process in which human reviewers, LLM reviewers, and AI agent reviewers may need to collaborate to complete the code review. Prior work finds that frequent human reviews of small code changes support efficient review decisions [9], [10], while reviewer workload and patch characteristics influence review time [11], [12]. Other studies have examined review smells [13], showing that assigning unsuitable reviewers or reviewing pull requests with too many code changes at once can reduce review quality. Recent studies find that LLM-assisted review may increase review time [14]. Thus far, existing studies provide limited evidence on how code review practices and review quality evolve as teams transition from humancentric review (without generative AI participation) to LLMassisted and agentic review. Therefore, it remains unclear how projects utilize AI reviewers over time, how human, LLM, and AI agent reviewers collaborate throughout the review process, and which practices and factors are associated with review quality. To answer these questions, we analyze 1.02 million pull requests (PR) from 207 open-source projects whose code review practices have evolved from the human-centric to the LLM-assisted and agentic review eras. We aim to answer the following research questions (RQs): RQ1. What are the common AI adoption practices and how do they relate to review quality? Although LLM and AI agent reviewers are increasingly used in code review, it is unclear how projects adopt these reviewers and whether different adoption practices affect review quality. Across the 207 studied projects, we identify three AI reviewer adoption practices: (1) Gradual AI Adoption, (2) Rapid LLM Adoption, and (3) Rapid AI Agent Adoption. By comparing review efficiency and review smells across the three review eras, we find that the Rapid LLM Adoption is significantly associated with an increase in code review smell prevalence. However, Gradual AI Adoption and Rapid AI Agent Adoption practices show significantly more efficient review in the agent era. RQ2. What is the impact of human-AI collaboration patterns on code review quality? To identify which human-AI review collaboration patterns are associated with better review quality under different AI adoption practices, we examine the interactions among human, LLM, and AI agent reviewers within individual pull requests. We find that no human-AI collaboration pattern consistently outperforms human-only review in both efficiency and quality. In the agent era, reviews initiated by AI agents or involving multiple AI agents are significantly more efficient than human-only reviews in Gradual AI Adoption and Rapid AI Agent Adoption. However, most collaboration patterns involving LLM or AI agent reviewers show significantly higher review quality risk than human-only review. R"
-[20.07.2026 06:18] Response: ```python
-["Department of Electrical and Computer Engineering, Queens University, Kingston, ON K7L 3N6, Canada", "Maintenance, Construction and Intelligence of Software Lab (MCIS), School of Computing, Queens University, Kingston, ON K7L 3N6, Canada"]
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition."
+
+[20.07.2026 11:45] Response: ```python
+['AGENTS', 'MULTIMODAL', 'RETRIEVAL', 'TRAINING']
 ```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.13196.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.15161.
-[20.07.2026 06:18] Downloading paper 2607.15161 from https://arxiv.org/pdf/2607.15161v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
-Text:"On-Policy Delta Distillation "
-[20.07.2026 06:18] Response: []
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+Topics:
 
-Text:"On-Policy Delta DistillationOn-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing tokenlevel supervision from teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce new distillation reward, termed delta signal, instead of directly imitating the teachers output distribution. The delta signal is defined as the difference between the teacher model and its base model prior to instruction tuning for reasoning capability. It therefore captures the changes induced by reasoning tuning and provides more direct signal for transferring reasoning capabilities. Using extensive empirical evidence, we show that the delta signal substantially improves on-policy distillation and refer to the new distillation method as On-Policy Delta Distillation (OPD2). Experiments across mathematics, science, and code-reasoning benchmarks demonstrate that OPD2 consistently outperforms conventional on-policy distillation, enabling reasoning LLMs to achieve strong performance with only short post-training period. Code will be available at https://github.com/naver-ai/opd2.As the use of large language models (LLMs) continues to expand, the demands placed on them have become increasingly diverse, driving continuous advances in training methods. While next-token prediction [1, 2] on vast amounts of data remains promising paradigm for pre-training, posttraining processes have been extensively explored and remain key to aligning LLMs with downstream requirements. Post-training commonly involves supervised fine-tuning (SFT), which trains models on predefined desired outputs often generated by larger and stronger LLM, and reinforcement learning (RL), which evaluates the quality of model-generated responses and optimizes the model toward more favorable outputs. Recently, On-Policy Distillation (OPD) has been actively studied as an alternative to reinforcement learning. With the benefits of large, high-performing models, OPD trains the model on dense signals from model-generated responses, reducing concerns about reward design and the noisy signals RL faces. Studies show that OPD can be competitive with RL in the post-training reasoning process, with reduced computational cost and improved performance, when high-performing model is used as the teacher model. On-Policy Distillation (OPD) is variant of knowledge distillation (KD) similar to RL. Traditional KD [3] is designed to transfer outputs from high-performing teacher model to student model. It is combined with the generative nature of LLMs and splits into two sub-categories. The first way is to distill from teacher-generated sequences. This approach was originally named Sequence-KD [4] and has been generalized to Supervised Fine-Tuning (SFT) on large model-generated sequences. It is widely used for the post-training stage just before RL. The second way is the on-policy distillation of student-generated sequences. For on-policy training, it generates sequences using the student network and uses the teachers to score the sampled tokens. The generated tokens that agree with the teacher network are enhanced, while tokens with low probability on the teacher network are degraded. As in Figure 1: Comparison of On-Policy Distillation (OPD) and our OPD2. While conventional on-policy distillation trains students to follow the teachers outputs, our OPD2 utilizes the delta signal, the difference between the teacher and its base model, to focus on the knowledge of the learning trajectory required for reasoning capability. RL, the learning signal is applied only to the sampled tokens; thus, the students original knowledge and ability are preserved throughout the post-training process. There are extensive studies [5, 6, 7] that extend the OPDs learning signals beyond sampled tokens, but we will not address these variants in this paper. Despite its importance and prominence in post-training research, OPDs fundamental area remains underexplored. The rewards for OPD are simply set to log the difference in probability between the teacher and the student. Even though OPD achieves remarkable performance with the original loss function, there may be room for improvement in the fundamental design of its loss function. Among the various directions for exploration, we focus on the learning trace of reasoning tuning [8]. Most LLMs have multiple stages for training. It starts with pre-training on next-token prediction tasks using massive amounts of data. Then, tuned for reasoning and chat ability with post-training such as SFT and RL. As post-training method, OPD only requires knowledge from the post-training phase. Thus, as shown in Fig. 1, we design new loss function for on-policy distillation based on the difference between the base and the reasoning tuning model of the teacher network. Our core concept is described in Fig. 1. In OPD, the teacher model acquires reasoning ability through reasoning tuning (e.g., instruction tuning). However, the reasoning-tuned teacher also retains natural preferences and stylistic tendencies acquired before the reasoning tuning. We argue that distilling the reasoning-tuned teacher alone does not necessarily reveal the learning trajectory that led the teacher to acquire reasoning capabilities. Thus, we can provide reasoning knowledge by utilizing the delta between the reasoning-tuned teacher and the base teacher (i.e., the model before post-training). We propose On-Policy Delta Distillation (OPD2), defining the delta signal using it as the main reward for OPD. In contrast to OPD, which uses the log probability difference between teacher and student as the reward signal, OPD2 uses the difference between teacher and teacher base as the reward signal. We first conduct three analyses to show the differences and benefits of the delta signal relative to the original reward: word clouds for distillation signals, token-level visualizations, and word-level statistical analyses. These analyses highlight the differences and characteristics of , providing insight into changes in reward. Based on these analyses, we find that the delta signal offers an effective alternative distillation signal with distinct and desirable properties. Building on this observation, we introduce two reward designs: centering and joint conditioning, to effectively utilize th"
-[20.07.2026 06:18] Response: ```python
-[]
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition."
+
+[20.07.2026 11:45] Response: ```python
+["AGENT_MEMORY", "TOOL_USE", "RETRIEVAL"]
 ```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.15161.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.11683.
-[20.07.2026 06:18] Downloading paper 2607.11683 from https://arxiv.org/pdf/2607.11683v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Text:"RAGU: Multi-Step GraphRAG Engine with Compact Domain-Adapted LLM Stanislav Shtuka1,3 Oleg Sedukhin Mikhail Komarov1, Roman Shuvalov1 Yana Dementyeva2 Matvey Solovyov1 Nikolay O. Nikitin1 3Far Eastern Federal University 1ITMO University 2Novosibirsk State University Ivan Bondarenko2, Independent Researcher Equal contribution i.bondarenko@g.nsu.ru "
-[20.07.2026 06:18] Response: ```python
-["Far Eastern Federal University", "ITMO University", "Novosibirsk State University", "Independent Researcher"]
-```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.11683.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.16097.
-[20.07.2026 06:18] Extra JSON file exists (./assets/json/2607.16097.json), skip PDF parsing.
-[20.07.2026 06:18] Paper image links file exists (./assets/img_data/2607.16097.json), skip HTML parsing.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.11699.
-[20.07.2026 06:18] Downloading paper 2607.11699 from https://arxiv.org/pdf/2607.11699v1...
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition.
 
-Text:"2026-07-14 Qwen-Music Technical Report Qwen Team "
-[20.07.2026 06:18] Response: []
-[20.07.2026 06:18] Extracting affiliations from text.
-[20.07.2026 06:18] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[20.07.2026 11:45] Response: {
+  "desc": "The paper introduces RESOURCE2SKILL, a framework that transforms various multimodal resources, such as tutorial videos and articles, into executable skills for software agents. It organizes these skills in a hierarchical Skill Wiki, combining structured text, code, and visual examples to enhance learning. This approach allows agents to leverage diverse information sources, improving their performance in practical tasks. The framework demonstrates significant improvements in skill acquisition and execution, outperforming traditional methods in multiple domains.",
+  "title": "Transforming Multimodal Resources into Executable Skills"
+}
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#architecture", "#training", "#optimization", "#memory"], "emoji": "🚀", "ru": {"title": "Эффективное расширение памяти в трансформерах", "desc": "Статья представляет метод xHC (Expanded Hyper-Connections), который позволяет эффективно расширять память в трансформерах. Он преодолевае
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#synthetic", "#training", "#dataset", "#healthcare", "#agents", "#reasoning", "#benchmark", "#continual_learning", "#agi"], "emoji": "🩺", "ru": {"title": "Новая эра в медицинском ИИ", "desc": "В данной статье представляется модель Cura 1T, специализированная для здравоохранения, кот
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#architecture", "#training", "#reasoning", "#optimization"], "emoji": "🤖", "ru": {"title": "Loopie: Прорыв в трансформерах!", "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 милли
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#optimization", "#training", "#reasoning", "#agents", "#memory"], "emoji": "📊", "ru": {"title": "Революция в рекомендациях: новые подходы для лучшего понимания пользователей", "desc": "Статья описывает новый подход к рекомендательным системам с использованием больших языковых моделе
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#transfer_learning", "#reasoning", "#training", "#optimization", "#benchmark", "#rl"], "emoji": "💡", "ru": {"title": "Новая эра дистилляции в обучении с подкреплением", "desc": "Статья посвящена новому подходу к дистилляции в обучении с подкреплением, который называется On-Policy De
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#optimization", "#multimodal", "#training", "#agents", "#agent_memory", "#agi"], "emoji": "🤖", "ru": {"title": "ИИ в ревью кода: ускорение при сохранении качества", "desc": "В данной статье рассматривается влияние перехода к поддерживаемому ИИ процессу ревью кода на его эффективност
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#training", "#dataset", "#reasoning", "#games", "#rl", "#transfer_learning"], "emoji": "♟️", "ru": {"title": "Влияние предварительного обучения на обучение с подкреплением", "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкрепле
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#audio", "#music_generation", "#training", "#multilingual", "#multimodal"], "emoji": "🎶", "ru": {"title": "Создание музыки нового поколения с Qwen-Music", "desc": "В данном отчете представлен Qwen-Music, мощная модель генерации музыки, способная создавать высококачественные песни с 
+[20.07.2026 11:45] Querying the API.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Text:"2026-07-14 Qwen-Music Technical Report Qwen TeamIn this report, we introduce Qwen-Music, powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. QwenMusic supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, and musical attributes, and Cover Song Generation, which reinterprets existing songs with different styles and vocal characteristics. Architecturally, Qwen-Music integrates three core components: Qwen-Music-Tokenizer, Qwen-Music-LLM, and Qwen-Music-Render. Qwen-Music-Tokenizer compresses audio into 25 Hz single-codebook stream of Music Semantic Tokens that preserve semantic and melodic information for LLM prediction. Based on these tokens, QwenMusic-LLM performs autoregressive music semantic modeling, with key novelty being melody-token-based chain-of-thought (Melody-CoT) mechanism that plans melodies before full-song generation, improving creativity, musicality, structural coherence, and reference-audio-based melody cloning. To overcome the fidelity limitations of discrete semantic tokens, Qwen-Music-Render performs generative stereo rendering, enriching acoustic details and producing high-fidelity stereo waveforms. Finally, we train QwenMusic-LLM on more than 5 million hours of multilingual music data covering hundreds of languages. We first apply quality-aware pre-training curriculum, then use progressive post-training, comprising supervised initialization, offline DPO, and online GSPO, to further improve musicality and instruction-following ability. Across 600 Chinese and English prompts, Qwen-Music achieves state-of-the-art results in 13 of 16 objective musicality and audio-quality metrics. Professional evaluators also prefer Qwen-Music over leading proprietary systems. For cover song generation, Qwen-Music preserves reference melodies more accurately than Suno V5.5, Suno V5, and MiniMax Cover on the AI-generated reference set, and outperforms MiniMax Cover on most metrics in the real-world popular-song reference set. Figure 1: Qwen-Music is powerful and controllable music generation model capable of producing songs with complete vocal singing. It generates complete songs from text descriptions, lyrics, and musical attributes, and uses reference audio for cover song generation with different styles and vocal characteristics.Music generation has recently emerged as key challenge in generative modeling, aiming to synthesize music that is musically coherent, acoustically natural, and semantically aligned with user intent (Agostinelli et al., 2023; Schneider et al., 2023; Copet et al., 2024; Lam et al., 2024; Majumder et al., 2024; Huang et al., 2023; Chen et al., 2024). Unlike general audio generation, song generation requires the joint modeling of lyrics, melody, rhythm, vocal performance, instrumentation, and musical structure over minutes (Yang et al., 2026; Lei et al., 2026b;a; Liu et al., 2025; Gong et al., 2025; 2026; Yuan et al., 2025; Ning et al., 2025; Jiang et al., 2025; Lei et al., 2024). useful system should support open-ended song generation from text descriptions and lyrics while allowing users to control musical attributes such as genre, mood, instrumentation, and vocal timbre. It should also reinterpret existing songs by preserving reference melody while changing style or vocal characteristics. Despite rapid progress in large-scale audio generation models, generating songs with stable melodic development, clear lyric articulation, realistic singing voices, and natural instrumental accompaniment remains challenging. The central technical challenge is the mismatch between semantic composition and acoustic rendering. At the semantic level, model must plan lyrics, vocal melody, section structure, repetition, and stylistic progression over long horizons. At the acoustic level, it must render timbre, phase, stereo placement, and high-frequency detail at waveform resolution. Discrete-token language models provide scalable interface for global sequence generation, but compressed tokens lose acoustic detail (Xu et al., 2025; Défossez et al., 2022; Yang et al., 2026). Reference-guided cover song generation adds another constraint: the system must reuse the melody while allowing controllable changes to the arrangement, singing voice, and style. In this report, we introduce Qwen-Music, large-scale music generation system that separates song generation into semantic composition and acoustic rendering. Qwen-Music supports both text-to-music generation and reference-audio-based cover song generation within single framework. Given text descriptions, lyrics, musical attributes, and optional reference audio, Qwen-Music can generate complete songs with controllable genre, mood, instrumentation, vocal timbre, and vocal gender. Trained on over 5 million hours of multilingual music data, Qwen-Music generalizes strongly across diverse languages, genres, and musical styles. Figure 2: Blind A/B preference results between Qwen-Music and leading proprietary systems, including MiniMax Music 2.5+, MiniMax Music 2.6, Mureka V8, Suno V5, and Suno V5.5, judged by professional human raters. Each pair is evaluated under anonymized and randomized presentation, and values indicate the percentage of expert votes preferring each system. Qwen-Music is designed around four key principles: Composition in compact semantic music space. Instead of directly modeling waveforms, Qwen-Music represents music as 25 Hz single-codebook Music Semantic Tokens. This compact stream gives the autoregressive model tractable sequence space for full-song composition while preserving the musical semantics needed by the renderer. Explicit melody planning and control. To bridge the gap between high-level textual intent and concrete musical realization, Qwen-Music-LLM makes melody an explicit intermediate representation. For text-to-music generation, Melody-CoT plans the vocal melody before fulltoken generation. For cover generation, reference melody tokens condition the sequence so the output follows the source melody under the new style and vocal attributes. 2 Figure 3: External leaderboard result on the Artificial Analysis Music with Vocals Leaderboard. QwenMusic participated as JazzCat and ranked among the leading English vocal music generation systems. Generative acoustic rendering. Qwen-Music-Render treats Music Semantic Tokens as musical sketches for generative rendering. semantic-condit"
-[20.07.2026 06:18] Response: ```python
-[]
-```
-[20.07.2026 06:18] Deleting PDF ./assets/pdf/2607.11699.pdf.
-[20.07.2026 06:18] Success.
-[20.07.2026 06:18] Downloading and parsing paper https://huggingface.co/papers/2607.15524.
-[20.07.2026 06:18] Downloading paper 2607.15524 from https://arxiv.org/pdf/2607.15524v1...
-[20.07.2026 06:19] Extracting affiliations from text.
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"2026-7-20 Recursive Harness Self-Improvement Hyunin Lee1,2, Jinglue Xu1, Jeffrey Seely1, Donghyun Lee2, Matei Zaharia2 and Yujin Tang1 1Sakana AI, 2UC Berkeley Under modelharness co-evolution, harnesses are not merely inference-time scaffolds but datagenerating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the quality of traces used for future model training. However, continually updating provider-built scaffolds is costly and labor-intensive. We therefore investigate whether optimizing user-constructed harnesses in task-specific manner can improve execution-trace quality while remaining computationally lightweight and requiring only few update iterations. To this end, we introduce Recursive Harness Self-Improvement (RHI), which represents the harness as prompt-level specification of the agent loop and iteratively refines it using pairwise feedback over its own revision history. Across 30 synthetic machine-learning research tasks spanning quantitative finance, robotics, and pharmacy, few RHI iterations suffice to substantially raise the performance ceiling of low-reasoning-effort agents, exceeding the corresponding maximum-reasoning-effort setting while reducing inference cost by up to 60%. We show that these gains arise primarily from improved task-specific context management through more effective inter-agent information flow rather than longer reasoning traces. Finally, we formalize this behavior as an information-theoretic hypothesis for RHIs implicit optimization objective, suggesting RHI as practical algorithm for continual learning within the paradigm of modelharness co-evolution. Figure 1 Few-shot RHI raises the performance plateaus of test-time scaling. Across 30 synthetic ML research tasks, high-reasoning sonnet-4.6, opus-4.7, and opus-4.8 agents with RHI-improved harnesses achieve higher pairwise win counts than evaluated test"
-[20.07.2026 06:19] Response: ```python
-["Sakana AI", "UC Berkeley"]
-```
-[20.07.2026 06:19] Deleting PDF ./assets/pdf/2607.15524.pdf.
-[20.07.2026 06:19] Success.
-[20.07.2026 06:19] Downloading and parsing paper https://huggingface.co/papers/2607.15901.
-[20.07.2026 06:19] Downloading paper 2607.15901 from https://arxiv.org/pdf/2607.15901v1...
-[20.07.2026 06:19] Extracting affiliations from text.
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"DSWorld: Data Science World Model for Efficient Autonomous Agents Zherui Yang1, Fan Liu1, Hao Liu1* 1The Hong Kong University of Science and Technology (Guangzhou) zyang582@connect.hkust-gz.edu.cn; fliu236@connect.hkust-gz.edu.cn; liuh@ust.hk "
-[20.07.2026 06:19] Response: ```python
-["The Hong Kong University of Science and Technology (Guangzhou)"]
-```
-[20.07.2026 06:19] Deleting PDF ./assets/pdf/2607.15901.pdf.
-[20.07.2026 06:19] Success.
-[20.07.2026 06:19] Downloading and parsing paper https://huggingface.co/papers/2607.16107.
-[20.07.2026 06:19] Extra JSON file exists (./assets/json/2607.16107.json), skip PDF parsing.
-[20.07.2026 06:19] Paper image links file exists (./assets/img_data/2607.16107.json), skip HTML parsing.
-[20.07.2026 06:19] Success.
-[20.07.2026 06:19] Downloading and parsing paper https://huggingface.co/papers/2607.14088.
-[20.07.2026 06:19] Downloading paper 2607.14088 from https://arxiv.org/pdf/2607.14088v1...
-[20.07.2026 06:19] Extracting affiliations from text.
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Preprint VIDEORAE: TAMING VIDEO FOUNDATION MODELS FOR GENERATIVE MODELING VIA REPRESENTATION AUTOENCODERS Junfeng Wu2, Zhihao Xie1,2, 1 The Chinese University of Hong Kong, Shenzhen 2 Huazhong University of Science and Technology 4 University of Science and Technology of China Xinting Hu4 Junchao Huang1, Li Jiang1,3, 3 Shenzhen Loop Area Institute "
-[20.07.2026 06:19] Response: ```python
-["The Chinese University of Hong Kong, Shenzhen", "Huazhong University of Science and Technology", "University of Science and Technology of China", "Shenzhen Loop Area Institute"]
-```
-[20.07.2026 06:19] Deleting PDF ./assets/pdf/2607.14088.pdf.
-[20.07.2026 06:19] Success.
-[20.07.2026 06:19] Enriching papers with extra data.
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 0. Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with min...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 1. Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expans...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 2. Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 3. Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 4. Abstract  Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinat...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 5. Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported ...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 6. Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, ...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 7. Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses thi...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 8. Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (mod...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 9. Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, ...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 10. Abstract  Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the qual...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 11. Abstract  Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottleneck motivates models that can anticipate the effects of data science operations before real ...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 12. Abstract  We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos. Unlike prior AV-LLMs that primarily focus on short clips, AV-Flamingo is designed for und...
-[20.07.2026 06:19] ********************************************************************************
-[20.07.2026 06:19] Abstract 13. Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video...
-[20.07.2026 06:19] Read previous papers.
-[20.07.2026 06:19] Generating reviews via LLM API.
-[20.07.2026 06:19] Querying the API.
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html
-[20.07.2026 06:19] Response: {
-  "desc": "Мы представляем модель Xiaomi-Robotics-1, которая сочетает в себе возможности восприятия, языка и действий. Она может выполнять различные задачи мобильной манипуляции, следуя языковым инструкциям в новых условиях без дополнительной настройки. Модель проходит двухступенчатое обучение: предобучение на огромном количестве траекторий манипуляции и последующее обучение для адаптации к человеческим инструкциям. Эксперименты показывают, что Xiaomi-Robotics-1 превосходит современные методы и устанавливает новые рекорды в задачах робототехники.",
+Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open.
+[20.07.2026 11:45] Response: ```json
+{
+  "desc": "В данной статье рассматривается эффективность использования метода Muon в задачах обучения с частичными вознаграждениями, сравнивая его с AdamW. Эксперименты показывают, что Muon значительно улучшает успешность валидации при оптимизации политики. Интересно, что использование Muon в скрытых весах приводит к большему успеху, чем AdamW, который не показывает положительных результатов после обновлений. Результаты анализа зависят от оценщика преимущества и скорости обучения, что указывает на возможности для дальнейших исследований.",
   "emoji": "🤖",
-  "title": "Xiaomi-Robotics-1: Новая эра мобильной робототехники"
+  "title": "Muon: новый взгляд на обучение с частичными вознаграждениями"
 }
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+```
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -281,12 +372,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html"
+"Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open."
 
-[20.07.2026 06:19] Response: ```python
-['AGENTS', 'ROBOTICS', 'TRAINING']
+[20.07.2026 11:45] Response: ```python
+['RL', 'TRAINING', 'AGENTS']
 ```
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -329,38 +420,34 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html"
+"Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open."
 
-[20.07.2026 06:19] Response: ```python
-['AGI', 'TRANSFER_LEARNING', 'OPTIMIZATION', 'ALIGNMENT', 'OPEN_SOURCE']
+[20.07.2026 11:45] Response: ```python
+["OPTIMIZATION", "GAMES"]
 ```
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html
+Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 06:19] Response: {
-  "desc": "Xiaomi-Robotics-1 is a vision-language-action model designed to follow diverse language instructions for mobile manipulation tasks in new environments without prior training. It uses a two-stage training approach, first pre-training on a large dataset of real-world manipulation actions to develop general action-generation skills. The model is then fine-tuned to align its capabilities with human-like instructions for better performance. Extensive testing shows that it outperforms existing methods, achieving new records in various benchmarks.",
-  "title": "Empowering Robots with Language and Action"
+[20.07.2026 11:45] Response: {
+  "desc": "This paper investigates the performance of the Muon optimizer in reinforcement learning (RL) tasks, particularly in sparse-reward scenarios. It compares Muon with the widely used AdamW optimizer during post-training on the ALFWorld environment using the Qwen2.5-0.5B-Instruct model. The results show that Muon significantly improves validation success rates when applied to hidden weight matrices, outperforming AdamW in certain configurations. The findings suggest that the choice of optimizer, advantage estimator, and learning rate are crucial for enhancing RL performance, warranting further exploration in these areas.",
+  "title": "Muon Optimizer: A Game Changer for Reinforcement Learning"
 }
-[20.07.2026 06:19] Using data from previous issue: {"categories": ["#architecture", "#training", "#optimization", "#memory"], "emoji": "🚀", "ru": {"title": "Эффективное расширение памяти в трансформерах", "desc": "Статья представляет метод xHC (Expanded Hyper-Connections), который позволяет эффективно расширять память в трансформерах. Он преодолевае
-[20.07.2026 06:19] Using data from previous issue: {"categories": ["#synthetic", "#training", "#dataset", "#healthcare", "#agents", "#reasoning", "#benchmark", "#continual_learning", "#agi"], "emoji": "🩺", "ru": {"title": "Новая эра в медицинском ИИ", "desc": "В данной статье представляется модель Cura 1T, специализированная для здравоохранения, кот
-[20.07.2026 06:19] Using data from previous issue: {"categories": ["#architecture", "#training", "#reasoning", "#optimization"], "emoji": "🤖", "ru": {"title": "Loopie: Прорыв в трансформерах!", "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 милли
-[20.07.2026 06:19] Using data from previous issue: {"categories": ["#optimization", "#training", "#reasoning", "#agents", "#memory"], "emoji": "📊", "ru": {"title": "Революция в рекомендациях: новые подходы для лучшего понимания пользователей", "desc": "Статья описывает новый подход к рекомендательным системам с использованием больших языковых моделе
-[20.07.2026 06:19] Using data from previous issue: {"categories": ["#optimization", "#multimodal", "#training", "#agents", "#agent_memory", "#agi"], "emoji": "🤖", "ru": {"title": "ИИ в ревью кода: ускорение при сохранении качества", "desc": "В данной статье рассматривается влияние перехода к поддерживаемому ИИ процессу ревью кода на его эффективност
-[20.07.2026 06:19] Querying the API.
-[20.07.2026 06:19] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#continual_learning", "#agent_memory", "#prompting"], "emoji": "💡", "ru": {"title": "Оптимизация обучения через самоулучшение вспомогательных инструментов", "desc": "В статье рассматривается концепция сосуществования моделей и вспомогательных
+[20.07.2026 11:45] Using data from previous issue: {"categories": ["#multimodal", "#training", "#dataset", "#reasoning", "#benchmark", "#audio", "#agi", "#transfer_learning", "#interpretability"], "emoji": "🎥", "ru": {"title": "AV-Flamingo: Понимание длинных аудиовизуальных потоков", "desc": "Статья представляет Audio-Visual Flamingo (AV-Flamingo) —
+[20.07.2026 11:45] Querying the API.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce a new distillation reward, termed the delta signal, instead of directly imitating the teacher's output distribution. The delta signal is defined as the difference between the teacher model and its base model prior to instruction tuning for reasoning capability. It therefore captures the changes induced by reasoning tuning and provides a more direct signal for transferring reasoning capabilities. Using extensive empirical evidence, we show that the delta signal substantially improves on-policy distillation and refer to the new distillation method as On-Policy Delta Distillation (OPD^2). Experiments across mathematics, science, and code-reasoning benchmarks demonstrate that OPD^2 consistently outperforms conventional on-policy distillation, enabling reasoning LLMs to achieve strong performance with only a short post-training period. Code will be available at https://github.com/naver-ai/opd2
-[20.07.2026 06:19] GitHub Models 429 (rate limit). Ждём 60s, попытка 1/4.
-[20.07.2026 06:20] Response: ```json
+Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling.
+[20.07.2026 11:45] Response: ```json
 {
-  "desc": "Статья посвящена новому подходу к дистилляции в обучении с подкреплением, который называется On-Policy Delta Distillation (OPD^2). Этот метод использует «дельта-сигнал», определяемый как разница между моделью-учителем и базовой моделью, что позволяет улучшить передачу умственных способностей. Дельта-сигнал обеспечивает более точный и прямой способ для обучения моделей, используя тонкость reasoning tuning. Эксперименты показывают, что OPD^2 превосходит традиционную дистилляцию в задачах математики, науки и кодирования.",
-  "emoji": "💡",
-  "title": "Новая эра дистилляции в обучении с подкреплением"
+  "desc": "S1-Omni — это единая модель многомодального рассуждения, предназначенная для научного понимания, предсказания и генерации. Она объединяет возможности различных моделей, чтобы улучшить совместное моделирование научных данных, законов и экспертных знаний. Модель преобразует научные объекты и естественно-языковые инструкции в общую пространство представлений, что позволяет осуществлять вывод на основе научных данных. S1-Omni демонстрирует превосходство над аналогичными моделями, что делает ее шагом вперед в унифицированном научном моделировании.",
+  "emoji": "🔬",
+  "title": "Единое решение для научного моделирования"
 }
 ```
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -404,12 +491,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce a new distillation reward, termed the delta signal, instead of directly imitating the teacher's output distribution. The delta signal is defined as the difference between the teacher model and its base model prior to instruction tuning for reasoning capability. It therefore captures the changes induced by reasoning tuning and provides a more direct signal for transferring reasoning capabilities. Using extensive empirical evidence, we show that the delta signal substantially improves on-policy distillation and refer to the new distillation method as On-Policy Delta Distillation (OPD^2). Experiments across mathematics, science, and code-reasoning benchmarks demonstrate that OPD^2 consistently outperforms conventional on-policy distillation, enabling reasoning LLMs to achieve strong performance with only a short post-training period. Code will be available at https://github.com/naver-ai/opd2"
+"Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling."
 
-[20.07.2026 06:20] Response: ```python
-['RL', 'TRAINING', 'BENCHMARK']
+[20.07.2026 11:45] Response: ```python
+['MULTIMODAL', 'ARCHITECTURE', 'SCIENCE', 'BENCHMARK']
 ```
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -452,32 +539,32 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce a new distillation reward, termed the delta signal, instead of directly imitating the teacher's output distribution. The delta signal is defined as the difference between the teacher model and its base model prior to instruction tuning for reasoning capability. It therefore captures the changes induced by reasoning tuning and provides a more direct signal for transferring reasoning capabilities. Using extensive empirical evidence, we show that the delta signal substantially improves on-policy distillation and refer to the new distillation method as On-Policy Delta Distillation (OPD^2). Experiments across mathematics, science, and code-reasoning benchmarks demonstrate that OPD^2 consistently outperforms conventional on-policy distillation, enabling reasoning LLMs to achieve strong performance with only a short post-training period. Code will be available at https://github.com/naver-ai/opd2"
+"Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling."
 
-[20.07.2026 06:20] Response: ```python
-['REASONING', 'TRANSFER_LEARNING', 'OPTIMIZATION']
+[20.07.2026 11:45] Response: ```python
+['REASONING', 'SCIENCE']
 ```
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce a new distillation reward, termed the delta signal, instead of directly imitating the teacher's output distribution. The delta signal is defined as the difference between the teacher model and its base model prior to instruction tuning for reasoning capability. It therefore captures the changes induced by reasoning tuning and provides a more direct signal for transferring reasoning capabilities. Using extensive empirical evidence, we show that the delta signal substantially improves on-policy distillation and refer to the new distillation method as On-Policy Delta Distillation (OPD^2). Experiments across mathematics, science, and code-reasoning benchmarks demonstrate that OPD^2 consistently outperforms conventional on-policy distillation, enabling reasoning LLMs to achieve strong performance with only a short post-training period. Code will be available at https://github.com/naver-ai/opd2
+Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 06:20] Response: {
-  "desc": "This paper presents On-Policy Delta Distillation (OPD^2), a novel method in reinforcement learning that enhances on-policy distillation by introducing a new distillation reward called the delta signal. The delta signal measures the difference between a teacher model and its base model before instruction tuning, allowing for more effective transfer of reasoning capabilities. Through extensive experiments, OPD^2 demonstrates significant improvements over traditional on-policy distillation methods across various benchmarks in mathematics, science, and code reasoning. This approach enables large language models to achieve high performance with minimal post-training time.",
-  "title": "Enhancing Reasoning in RL with Delta Distillation"
+[20.07.2026 11:45] Response: {
+  "desc": "S1-Omni is a comprehensive multimodal reasoning model designed for scientific tasks, integrating various data types and expert knowledge. It creates a unified representation of scientific data, allowing it to process natural language instructions alongside complex scientific objects. The model incorporates scientific laws during training, enhancing its ability to reason based on evidence. S1-Omni excels in diverse applications, outperforming existing models and providing a cohesive approach to scientific understanding and prediction.",
+  "title": "Unified Scientific Reasoning with S1-Omni"
 }
-[20.07.2026 06:20] Querying the API.
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[20.07.2026 11:45] Querying the API.
+[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses this by separating extraction from consolidation: entities and relations pass through two-stage typed extraction, DBSCAN-backed deduplication, LLM summarization, and Leiden community detection. A key insight motivates a compact extractor: the skills an in-pipeline LLM needs - comprehension, extraction, reasoning over context - are language skills that grow only weakly with model size, unlike factual world knowledge. Accordingly, we train Meno-Lite-0.1, a 7B model optimized for language skills, which outperforms Qwen2.5-32B on knowledge-graph construction (+12.5% relative harmonic mean) and matches it on English GraphRAG tasks. On GraphRAG-Bench (Medical), RAGU retrieves the most complete context at every factoid level (evidence recall up to 0.84 vs. leq0.76) and overtakes HippoRAG2 on synthesis tasks; on multi-hop factoid QA, the apparent HippoRAG2 advantage is shown to be largely an answer-format artifact. RAGU is installable via pip install graph_ragu, runs on a single GPU, and is released under MIT. The source code is publicly available at https://github.com/RaguTeam/RAGU, and the Meno-Lite-0.1 model can be obtained from https://huggingface.co/bond005/meno-lite-0.1.
-[20.07.2026 06:20] Response: ```json
+Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance.
+[20.07.2026 11:46] Response: ```json
 {
-  "desc": "Статья посвящена улучшению генерации текстов с использованием структурированных знаний в большой модели языка через GraphRAG. Представлена новая система RAGU, которая разделяет процессы извлечения и консолидации данных, что позволяет избежать шума и повысить надежность. В системе обучена модель Meno-Lite-0.1, оптимизированная для языковых навыков, которая превосходит более крупные модели в построении графов знаний. RAGU показывает высокие показатели в тестах по извлечению и синтезу информации, гарантируя качество и полноту контекста.",
-  "emoji": "🔍",
-  "title": "Новый подход к построению графов знаний в ML"
+  "desc": "В данной статье предложен новый подход к обучению с подкреплением с проверяемыми наградами, называемый Contrastive Policy Optimization (CPO). Этот метод использует контрастное несогласие на уровне токенов для формирования преимущества, что позволяет лучше различать полезную неопределенность и вредную путаницу. Эксперименты показывают, что CPO значительно превосходит методы, основанные на энтропии, обеспечивая высокую обобщающую способность. Также разработанный алгоритм решает проблему нулевого преимущества, балансируя исследования и эксплуатацию.",
+  "emoji": "🧠",
+  "title": "Новый подход к обучению с подкреплением для точного формирования преимущества"
 }
 ```
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 11:46] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -521,12 +608,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses this by separating extraction from consolidation: entities and relations pass through two-stage typed extraction, DBSCAN-backed deduplication, LLM summarization, and Leiden community detection. A key insight motivates a compact extractor: the skills an in-pipeline LLM needs - comprehension, extraction, reasoning over context - are language skills that grow only weakly with model size, unlike factual world knowledge. Accordingly, we train Meno-Lite-0.1, a 7B model optimized for language skills, which outperforms Qwen2.5-32B on knowledge-graph construction (+12.5% relative harmonic mean) and matches it on English GraphRAG tasks. On GraphRAG-Bench (Medical), RAGU retrieves the most complete context at every factoid level (evidence recall up to 0.84 vs. leq0.76) and overtakes HippoRAG2 on synthesis tasks; on multi-hop factoid QA, the apparent HippoRAG2 advantage is shown to be largely an answer-format artifact. RAGU is installable via pip install graph_ragu, runs on a single GPU, and is released under MIT. The source code is publicly available at https://github.com/RaguTeam/RAGU, and the Meno-Lite-0.1 model can be obtained from https://huggingface.co/bond005/meno-lite-0.1."
+"Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance."
 
-[20.07.2026 06:20] Response: ```python
-['RAG', 'OPEN_SOURCE', 'DATASET']
+[20.07.2026 11:46] Response: ```python
+['RL', 'RLHF', 'BENCHMARK', 'TRAINING']
 ```
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 11:46] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -569,262 +656,30 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses this by separating extraction from consolidation: entities and relations pass through two-stage typed extraction, DBSCAN-backed deduplication, LLM summarization, and Leiden community detection. A key insight motivates a compact extractor: the skills an in-pipeline LLM needs - comprehension, extraction, reasoning over context - are language skills that grow only weakly with model size, unlike factual world knowledge. Accordingly, we train Meno-Lite-0.1, a 7B model optimized for language skills, which outperforms Qwen2.5-32B on knowledge-graph construction (+12.5% relative harmonic mean) and matches it on English GraphRAG tasks. On GraphRAG-Bench (Medical), RAGU retrieves the most complete context at every factoid level (evidence recall up to 0.84 vs. leq0.76) and overtakes HippoRAG2 on synthesis tasks; on multi-hop factoid QA, the apparent HippoRAG2 advantage is shown to be largely an answer-format artifact. RAGU is installable via pip install graph_ragu, runs on a single GPU, and is released under MIT. The source code is publicly available at https://github.com/RaguTeam/RAGU, and the Meno-Lite-0.1 model can be obtained from https://huggingface.co/bond005/meno-lite-0.1."
+"Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance."
 
-[20.07.2026 06:20] Response: ```python
-['GRAPHS', 'OPEN_SOURCE', 'RETRIEVAL']
+[20.07.2026 11:46] GitHub Models 429 (rate limit). Ждём 1s, попытка 1/4.
+[20.07.2026 11:46] GitHub Models 429 (rate limit). Ждём 10s, попытка 2/4.
+[20.07.2026 11:46] Response: ```python
+["OPTIMIZATION", "REASONING"]
 ```
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[20.07.2026 11:46] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses this by separating extraction from consolidation: entities and relations pass through two-stage typed extraction, DBSCAN-backed deduplication, LLM summarization, and Leiden community detection. A key insight motivates a compact extractor: the skills an in-pipeline LLM needs - comprehension, extraction, reasoning over context - are language skills that grow only weakly with model size, unlike factual world knowledge. Accordingly, we train Meno-Lite-0.1, a 7B model optimized for language skills, which outperforms Qwen2.5-32B on knowledge-graph construction (+12.5% relative harmonic mean) and matches it on English GraphRAG tasks. On GraphRAG-Bench (Medical), RAGU retrieves the most complete context at every factoid level (evidence recall up to 0.84 vs. leq0.76) and overtakes HippoRAG2 on synthesis tasks; on multi-hop factoid QA, the apparent HippoRAG2 advantage is shown to be largely an answer-format artifact. RAGU is installable via pip install graph_ragu, runs on a single GPU, and is released under MIT. The source code is publicly available at https://github.com/RaguTeam/RAGU, and the Meno-Lite-0.1 model can be obtained from https://huggingface.co/bond005/meno-lite-0.1.
+Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 06:20] Response: {
-  "desc": "The paper introduces RAGU, a modular engine for Graph retrieval-augmented generation (GraphRAG) that improves the construction of knowledge graphs. It separates the processes of entity extraction and consolidation, utilizing techniques like DBSCAN for deduplication and LLM summarization. A new model, Meno-Lite-0.1, is trained to enhance language skills, outperforming larger models in knowledge-graph construction. RAGU demonstrates superior performance in retrieving complete context and synthesis tasks, making it a valuable tool for structured knowledge integration.",
-  "title": "Enhancing Knowledge Graphs with RAGU"
+[20.07.2026 11:46] Response: {
+  "desc": "This paper introduces Contrastive Policy Optimization (CPO) as a new method for reinforcement learning with verifiable rewards. Unlike traditional entropy-based approaches, CPO uses token-level contrastive disagreement to better identify correct actions and improve advantage shaping. The method shows significant improvements in performance on various benchmarks while effectively addressing the zero-advantage problem. Additionally, the research highlights the importance of balancing exploration and exploitation to achieve optimal results.",
+  "title": "Enhancing Reinforcement Learning with Contrastive Policy Optimization"
 }
-[20.07.2026 06:20] Using data from previous issue: {"categories": ["#training", "#dataset", "#reasoning", "#games", "#rl", "#transfer_learning"], "emoji": "♟️", "ru": {"title": "Влияние предварительного обучения на обучение с подкреплением", "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкрепле
-[20.07.2026 06:20] Querying the API.
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, and musical attributes, and Cover Song Generation, which reinterprets existing songs with different styles and vocal characteristics. Architecturally, Qwen-Music integrates three core components: Qwen-Music-Tokenizer, Qwen-Music-LLM, and Qwen-Music-Render. Qwen-Music-Tokenizer compresses audio into a 25 Hz single-codebook stream of Music Semantic Tokens that preserve semantic and melodic information for LLM prediction. Based on these tokens, Qwen-Music-LLM performs autoregressive music semantic modeling, with a key novelty being a melody-token-based chain-of-thought (Melody-CoT) mechanism that plans melodies before full-song generation, improving creativity, musicality, structural coherence, and reference-audio-based melody cloning. To overcome the fidelity limitations of discrete semantic tokens, Qwen-Music-Render performs generative stereo rendering, enriching acoustic details and producing high-fidelity stereo waveforms. Finally, we train Qwen-Music-LLM on more than 5 million hours of multilingual music data covering hundreds of languages. We first apply quality-aware pre-training curriculum, then use progressive post-training, comprising supervised initialization, offline DPO, and online GSPO, to further improve musicality and instruction-following ability. Across 600 Chinese and English prompts, Qwen-Music achieves state-of-the-art results in 13 of 16 objective musicality and audio-quality metrics. Professional evaluators also prefer Qwen-Music over leading proprietary systems. For cover song generation, Qwen-Music preserves reference melodies more accurately than leading proprietary systems.
-[20.07.2026 06:20] Response: {
-  "desc": "В данном отчете представлен Qwen-Music, мощная модель генерации музыки, способная создавать высококачественные песни с полными вокальными партиями. Она поддерживает две основные задачи: генерацию музыки по тексту и создание кавер-версий существующих песен в различных стилях. Архитектура модели включает три ключевых компонента: Qwen-Music-Tokenizer, Qwen-Music-LLM и Qwen-Music-Render, которые позволяют эффективно обрабатывать и генерировать музыкальные семантические токены. Модель демонстрирует выдающиеся результаты в оценке музыкальности и качества звука, превосходя существующие системы.",
-  "emoji": "🎶",
-  "title": "Создание музыки нового поколения с Qwen-Music"
-}
-[20.07.2026 06:20] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, and musical attributes, and Cover Song Generation, which reinterprets existing songs with different styles and vocal characteristics. Architecturally, Qwen-Music integrates three core components: Qwen-Music-Tokenizer, Qwen-Music-LLM, and Qwen-Music-Render. Qwen-Music-Tokenizer compresses audio into a 25 Hz single-codebook stream of Music Semantic Tokens that preserve semantic and melodic information for LLM prediction. Based on these tokens, Qwen-Music-LLM performs autoregressive music semantic modeling, with a key novelty being a melody-token-based chain-of-thought (Melody-CoT) mechanism that plans melodies before full-song generation, improving creativity, musicality, structural coherence, and reference-audio-based melody cloning. To overcome the fidelity limitations of discrete semantic tokens, Qwen-Music-Render performs generative stereo rendering, enriching acoustic details and producing high-fidelity stereo waveforms. Finally, we train Qwen-Music-LLM on more than 5 million hours of multilingual music data covering hundreds of languages. We first apply quality-aware pre-training curriculum, then use progressive post-training, comprising supervised initialization, offline DPO, and online GSPO, to further improve musicality and instruction-following ability. Across 600 Chinese and English prompts, Qwen-Music achieves state-of-the-art results in 13 of 16 objective musicality and audio-quality metrics. Professional evaluators also prefer Qwen-Music over leading proprietary systems. For cover song generation, Qwen-Music preserves reference melodies more accurately than leading proprietary systems."
-
-[20.07.2026 06:21] Response: ```python
-['AUDIO', 'MULTIMODAL', 'TRAINING', 'MULTILINGUAL']
-```
-[20.07.2026 06:21] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, and musical attributes, and Cover Song Generation, which reinterprets existing songs with different styles and vocal characteristics. Architecturally, Qwen-Music integrates three core components: Qwen-Music-Tokenizer, Qwen-Music-LLM, and Qwen-Music-Render. Qwen-Music-Tokenizer compresses audio into a 25 Hz single-codebook stream of Music Semantic Tokens that preserve semantic and melodic information for LLM prediction. Based on these tokens, Qwen-Music-LLM performs autoregressive music semantic modeling, with a key novelty being a melody-token-based chain-of-thought (Melody-CoT) mechanism that plans melodies before full-song generation, improving creativity, musicality, structural coherence, and reference-audio-based melody cloning. To overcome the fidelity limitations of discrete semantic tokens, Qwen-Music-Render performs generative stereo rendering, enriching acoustic details and producing high-fidelity stereo waveforms. Finally, we train Qwen-Music-LLM on more than 5 million hours of multilingual music data covering hundreds of languages. We first apply quality-aware pre-training curriculum, then use progressive post-training, comprising supervised initialization, offline DPO, and online GSPO, to further improve musicality and instruction-following ability. Across 600 Chinese and English prompts, Qwen-Music achieves state-of-the-art results in 13 of 16 objective musicality and audio-quality metrics. Professional evaluators also prefer Qwen-Music over leading proprietary systems. For cover song generation, Qwen-Music preserves reference melodies more accurately than leading proprietary systems."
-
-[20.07.2026 06:21] Response: ```python
-["MUSIC_GENERATION"]
-```
-[20.07.2026 06:21] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, and musical attributes, and Cover Song Generation, which reinterprets existing songs with different styles and vocal characteristics. Architecturally, Qwen-Music integrates three core components: Qwen-Music-Tokenizer, Qwen-Music-LLM, and Qwen-Music-Render. Qwen-Music-Tokenizer compresses audio into a 25 Hz single-codebook stream of Music Semantic Tokens that preserve semantic and melodic information for LLM prediction. Based on these tokens, Qwen-Music-LLM performs autoregressive music semantic modeling, with a key novelty being a melody-token-based chain-of-thought (Melody-CoT) mechanism that plans melodies before full-song generation, improving creativity, musicality, structural coherence, and reference-audio-based melody cloning. To overcome the fidelity limitations of discrete semantic tokens, Qwen-Music-Render performs generative stereo rendering, enriching acoustic details and producing high-fidelity stereo waveforms. Finally, we train Qwen-Music-LLM on more than 5 million hours of multilingual music data covering hundreds of languages. We first apply quality-aware pre-training curriculum, then use progressive post-training, comprising supervised initialization, offline DPO, and online GSPO, to further improve musicality and instruction-following ability. Across 600 Chinese and English prompts, Qwen-Music achieves state-of-the-art results in 13 of 16 objective musicality and audio-quality metrics. Professional evaluators also prefer Qwen-Music over leading proprietary systems. For cover song generation, Qwen-Music preserves reference melodies more accurately than leading proprietary systems.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 06:21] Response: {
-  "desc": "Qwen-Music is an advanced music generation model that creates high-quality songs with vocals. It can generate new music from text descriptions and reinterpret existing songs in different styles. The model uses a unique approach called Melody-CoT to enhance creativity and coherence in music composition. Trained on a vast dataset, Qwen-Music outperforms other systems in musicality and audio quality metrics.",
-  "title": "Revolutionizing Music Creation with Qwen-Music"
-}
-[20.07.2026 06:21] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#continual_learning", "#agent_memory", "#prompting"], "emoji": "💡", "ru": {"title": "Оптимизация обучения через самоулучшение вспомогательных инструментов", "desc": "В статье рассматривается концепция сосуществования моделей и вспомогательных
-[20.07.2026 06:21] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset", "#reinforcement_learning", "#agents", "#agent_memory", "#rl"], "emoji": "⚙️", "ru": {"title": "Ускорение науки о данных с помощью Мировой Модели", "desc": "В статье рассматриваются автономные агенты в области науки о данных, которые использую
-[20.07.2026 06:21] Using data from previous issue: {"categories": ["#multimodal", "#training", "#dataset", "#reasoning", "#benchmark", "#audio", "#agi", "#transfer_learning", "#interpretability"], "emoji": "🎥", "ru": {"title": "AV-Flamingo: Понимание длинных аудиовизуальных потоков", "desc": "Статья представляет Audio-Visual Flamingo (AV-Flamingo) —
-[20.07.2026 06:21] Querying the API.
-[20.07.2026 06:21] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundation Models (VFMs) such as V-JEPA 2 and VideoMAEv2 show strong video understanding capabilities, yet whether their frozen representations can be transformed into compact, reconstruction-capable, and generation-friendly video latents remains largely unexplored. We answer this question with VideoRAE, a representation autoencoder that leverages multi-scale hierarchical features from a frozen video foundation encoder and compresses them with a lightweight 1D self-attention projector. VideoRAE supports both continuous latents for Diffusion Transformers and discrete tokens for autoregressive models via multi-codebook high-dimensional quantization. During decoding, a local-and-global representation alignment objective with the frozen VFM teacher improves semantic preservation and enables training without KL regularization. Experiments show that VideoRAE achieves strong reconstruction in both continuous and discrete regimes. On UCF-101, it obtains state-of-the-art class-to-video gFVDs of 40 and 93 with AR and DiT generators, respectively, while converging approximately 5x faster than competing autoencoder baselines. In a controlled 2B-scale text-to-video study, replacing LTX-VAE with VideoRAE leads to faster convergence under comparable settings. These results validate frozen VFM representations as versatile and generation-friendly video latents. The model and code will be released on https://zhxie0117.github.io/VideoRAE.
-[20.07.2026 06:21] Response: {
-  "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFMs) для генерации видео. Модель сочетает многоуровневые иерархические функции и сжимает их с помощью легкого проектора 1D самовнимания. VideoRAE поддерживает как непрерывные латенты для диффузионных трансформеров, так и дискретные токены для авторегрессионных моделей. В экспериментах модель продемонстрировала высокое качество реконструкции и быструю сходимость по сравнению с конкурентами.",
-  "emoji": "🎬",
-  "title": "VideoRAE: новый подход к генерации видео"
-}
-[20.07.2026 06:21] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundation Models (VFMs) such as V-JEPA 2 and VideoMAEv2 show strong video understanding capabilities, yet whether their frozen representations can be transformed into compact, reconstruction-capable, and generation-friendly video latents remains largely unexplored. We answer this question with VideoRAE, a representation autoencoder that leverages multi-scale hierarchical features from a frozen video foundation encoder and compresses them with a lightweight 1D self-attention projector. VideoRAE supports both continuous latents for Diffusion Transformers and discrete tokens for autoregressive models via multi-codebook high-dimensional quantization. During decoding, a local-and-global representation alignment objective with the frozen VFM teacher improves semantic preservation and enables training without KL regularization. Experiments show that VideoRAE achieves strong reconstruction in both continuous and discrete regimes. On UCF-101, it obtains state-of-the-art class-to-video gFVDs of 40 and 93 with AR and DiT generators, respectively, while converging approximately 5x faster than competing autoencoder baselines. In a controlled 2B-scale text-to-video study, replacing LTX-VAE with VideoRAE leads to faster convergence under comparable settings. These results validate frozen VFM representations as versatile and generation-friendly video latents. The model and code will be released on https://zhxie0117.github.io/VideoRAE."
-
-[20.07.2026 06:21] Response: ```python
-["3D", "DATASET", "ARCHITECTURE", "TRAINING"]
-```
-[20.07.2026 06:21] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundation Models (VFMs) such as V-JEPA 2 and VideoMAEv2 show strong video understanding capabilities, yet whether their frozen representations can be transformed into compact, reconstruction-capable, and generation-friendly video latents remains largely unexplored. We answer this question with VideoRAE, a representation autoencoder that leverages multi-scale hierarchical features from a frozen video foundation encoder and compresses them with a lightweight 1D self-attention projector. VideoRAE supports both continuous latents for Diffusion Transformers and discrete tokens for autoregressive models via multi-codebook high-dimensional quantization. During decoding, a local-and-global representation alignment objective with the frozen VFM teacher improves semantic preservation and enables training without KL regularization. Experiments show that VideoRAE achieves strong reconstruction in both continuous and discrete regimes. On UCF-101, it obtains state-of-the-art class-to-video gFVDs of 40 and 93 with AR and DiT generators, respectively, while converging approximately 5x faster than competing autoencoder baselines. In a controlled 2B-scale text-to-video study, replacing LTX-VAE with VideoRAE leads to faster convergence under comparable settings. These results validate frozen VFM representations as versatile and generation-friendly video latents. The model and code will be released on https://zhxie0117.github.io/VideoRAE."
-
-[20.07.2026 06:21] Response: ```python
-["DIFFUSION", "OPTIMIZATION"]
-```
-[20.07.2026 06:21] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundation Models (VFMs) such as V-JEPA 2 and VideoMAEv2 show strong video understanding capabilities, yet whether their frozen representations can be transformed into compact, reconstruction-capable, and generation-friendly video latents remains largely unexplored. We answer this question with VideoRAE, a representation autoencoder that leverages multi-scale hierarchical features from a frozen video foundation encoder and compresses them with a lightweight 1D self-attention projector. VideoRAE supports both continuous latents for Diffusion Transformers and discrete tokens for autoregressive models via multi-codebook high-dimensional quantization. During decoding, a local-and-global representation alignment objective with the frozen VFM teacher improves semantic preservation and enables training without KL regularization. Experiments show that VideoRAE achieves strong reconstruction in both continuous and discrete regimes. On UCF-101, it obtains state-of-the-art class-to-video gFVDs of 40 and 93 with AR and DiT generators, respectively, while converging approximately 5x faster than competing autoencoder baselines. In a controlled 2B-scale text-to-video study, replacing LTX-VAE with VideoRAE leads to faster convergence under comparable settings. These results validate frozen VFM representations as versatile and generation-friendly video latents. The model and code will be released on https://zhxie0117.github.io/VideoRAE.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 06:21] GitHub Models 429 (rate limit). Ждём 22s, попытка 1/4.
-[20.07.2026 06:21] GitHub Models 429 (rate limit). Ждём 10s, попытка 2/4.
-[20.07.2026 06:21] Response: {
-  "desc": "This paper introduces VideoRAE, a novel representation autoencoder that transforms frozen representations from Video Foundation Models into efficient video latents. By utilizing multi-scale hierarchical features and a lightweight self-attention projector, VideoRAE enhances both semantic preservation and reconstruction capabilities. It supports various latent formats for different generative models, achieving state-of-the-art performance in video generation tasks. The results demonstrate that VideoRAE converges faster than traditional autoencoders while maintaining high-quality video outputs.",
-  "title": "Transforming Video Understanding into Efficient Generation"
-}
-[20.07.2026 06:21] Renaming data file.
-[20.07.2026 06:21] Renaming previous data. hf_papers.json to ./d/2026-07-20.json
-[20.07.2026 06:21] Saving new data file.
-[20.07.2026 06:21] Generating page.
-[20.07.2026 06:21] Renaming previous page.
-[20.07.2026 06:21] Renaming previous data. index.html to ./d/2026-07-20.html
-[20.07.2026 06:21] Writing result.
-[20.07.2026 06:21] Renaming log file.
-[20.07.2026 06:21] Renaming previous data. log.txt to ./logs/2026-07-20_last_log.txt
+[20.07.2026 11:46] Using data from previous issue: {"categories": ["#dataset", "#3d", "#architecture", "#training", "#diffusion", "#optimization"], "emoji": "🎬", "ru": {"title": "VideoRAE: новый подход к генерации видео", "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFM
+[20.07.2026 11:46] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset", "#reinforcement_learning", "#agents", "#agent_memory", "#rl"], "emoji": "⚙️", "ru": {"title": "Ускорение науки о данных с помощью Мировой Модели", "desc": "В статье рассматриваются автономные агенты в области науки о данных, которые использую
+[20.07.2026 11:46] Renaming data file.
+[20.07.2026 11:46] Renaming previous data. hf_papers.json to ./d/2026-07-20.json
+[20.07.2026 11:46] Saving new data file.
+[20.07.2026 11:46] Generating page.
+[20.07.2026 11:46] Renaming previous page.
+[20.07.2026 11:46] Renaming previous data. index.html to ./d/2026-07-20.html
+[20.07.2026 11:46] Writing result.
+[20.07.2026 11:46] Renaming log file.
+[20.07.2026 11:46] Renaming previous data. log.txt to ./logs/2026-07-20_last_log.txt
