@@ -1,334 +1,224 @@
-[20.07.2026 06:21] Read previous papers.
-[20.07.2026 06:21] Generating top page (month).
-[20.07.2026 06:21] Writing top page (month).
-[20.07.2026 11:44] Read previous papers.
-[20.07.2026 11:44] Get feed.
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11683
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11683
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15330
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15330
-[20.07.2026 11:44] Extract page data from URL. URL: https://huggingface.co/papers/2606.29538
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14530
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14530
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15314
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15314
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16051
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16051
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15591
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15591
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15161
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15161
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13196
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13196
-[20.07.2026 11:44] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16097
-[20.07.2026 11:44] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16097
-[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11699
-[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11699
-[20.07.2026 11:45] Extract page data from URL. URL: https://huggingface.co/papers/2607.16169
-[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15524
-[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15524
-[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16107
-[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16107
-[20.07.2026 11:45] Extract page data from URL. URL: https://huggingface.co/papers/2607.15686
-[20.07.2026 11:45] Extract page data from URL. URL: https://huggingface.co/papers/2607.14614
-[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14088
-[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14088
-[20.07.2026 11:45] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15901
-[20.07.2026 11:45] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15901
-[20.07.2026 11:45] Updating GitHub stars.
-[20.07.2026 11:45] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[20.07.2026 11:45] No deleted papers detected.
-[20.07.2026 11:45] Downloading and parsing papers (pdf, html). Total: 18.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.11683.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.11683.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.11683.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15330.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15330.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15330.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2606.29538.
-[20.07.2026 11:45] Downloading paper 2606.29538 from https://arxiv.org/pdf/2606.29538v4...
-[20.07.2026 11:45] Extracting affiliations from text.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 11:46] Read previous papers.
+[20.07.2026 11:46] Generating top page (month).
+[20.07.2026 11:46] Writing top page (month).
+[20.07.2026 14:03] Read previous papers.
+[20.07.2026 14:03] Get feed.
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11683
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11683
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2606.29538
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2606.29538
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16051
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16051
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15330
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15330
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14530
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14530
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15314
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15314
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15591
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15591
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15161
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15161
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13196
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13196
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.11699
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.11699
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16097
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16097
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16169
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16169
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15524
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15524
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14088
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14088
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16107
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16107
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15686
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15686
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14614
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14614
+[20.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15901
+[20.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15901
+[20.07.2026 14:03] Extract page data from URL. URL: https://huggingface.co/papers/2607.11498
+[20.07.2026 14:03] Extract page data from URL. URL: https://huggingface.co/papers/2607.07690
+[20.07.2026 14:03] Updating GitHub stars.
+[20.07.2026 14:03] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[20.07.2026 14:03] No deleted papers detected.
+[20.07.2026 14:03] Downloading and parsing papers (pdf, html). Total: 20.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.11683.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.11683.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.11683.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2606.29538.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2606.29538.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2606.29538.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.16051.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.16051.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.16051.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.15330.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.15330.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.15330.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.14530.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.14530.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.14530.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.15314.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.15314.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.15314.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.15591.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.15591.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.15591.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.15161.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.15161.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.15161.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.13196.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.13196.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.13196.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.11699.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.11699.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.11699.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.16097.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.16097.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.16097.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.16169.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.16169.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.16169.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.15524.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.15524.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.15524.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.14088.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.14088.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.14088.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.16107.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.16107.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.16107.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.15686.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.15686.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.15686.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.14614.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.14614.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.14614.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.15901.
+[20.07.2026 14:03] Extra JSON file exists (./assets/json/2607.15901.json), skip PDF parsing.
+[20.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.15901.json), skip HTML parsing.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.11498.
+[20.07.2026 14:03] Downloading paper 2607.11498 from https://arxiv.org/pdf/2607.11498v1...
+[20.07.2026 14:03] Extracting affiliations from text.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"May 2026 Resource2Skill: Distilling Executable Skills from Human-Created Resources for Software Agents Yijia Fan1, Zonglin Di2, Mingxi Cheng1 Qi Dai1 Ji Li1 Yue Dong1 Zimo Wen3, Yifan Yang1,+ Bei Liu1 Kai Qiu1 Chong Luo 1 Microsoft Research 2 University of California, Santa Cruz 3 Shanghai Jiao Tong University Skills are useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present Resource2Skill, framework that distills multimodal resourcestutorial videos, repositories, articles, and reference artifactsinto executable skills for software agents. Resource2Skill organizes these skills as hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, Resource2Skill improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate modeldomain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition. Code: https://aka.ms/Resource2Skill Correspondence: yifanyang@microsoft.com Equal contribution. + Corresponding author. Recent skill-based agent systems [34] have already shown that such abstractions can be highly Figure 1 Resource2Skill distills multimodal resource"
-[20.07.2026 11:45] Response: ```python
-["Microsoft Research", "University of California, Santa Cruz", "Shanghai Jiao Tong University"]
+Text:"See like Robot: Robot-Centric Pointmaps for Vision-Language-Action Models Byungkun Lee1, Dongyoon Hwang1, Dongjin Kim1, Hojoon Lee2, Minho Park1, Jaegul Choo1 1KAIST AI, 2Holiday Robotics Abstract: Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robots own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating frame mismatch between where the scene is observed and where actions are defined. The mismatch is benign under fixed viewpoint, where the policy can memorize single observation-to-action mapping, but grows harder as large-scale datasets aggregate demonstrations across diverse camera setups and the policy must generalize this mapping across viewpoints. We address this mismatch with robot-centric pointmaps, images whose pixels store the 3D coordinates of scene points in the robot frame. Pointmaps provide robot-frame 3D geometry while preserving the dense grid expected by pretrained 2D VLAs, so they integrate into existing VLAs with minimal architectural change. On RoboCasa, pointmaps improve both π0.5 and SmolVLA and outperform representative camera-viewpoint and 3D-aware baselines. In real-robot experiments, their advantage over an RGB-only policy widens when the camera is moved to placement unseen during training. The project page is available here. Keywords: VLA, manipulation, 3D geometry, pointmap Vision-language-action (VLA) models learn robotic manipulation policies from large-scale datasets, predicting actions from visual observations and language instructions. These actions are commonly defined in the robots own 3D coordinate frame (e.g., task-space end-effector commands in the robot base frame), so reliable manipulation requires reasoning about where the target object lies in metric 3D coordinates relative to the robot. However, most VLAs receive observations in the camera frame, whether as RGB images or depth maps [15]. This create"
+[20.07.2026 14:03] Response: ```python
+["KAIST AI", "Holiday Robotics"]
 ```
-[20.07.2026 11:45] Deleting PDF ./assets/pdf/2606.29538.pdf.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.14530.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.14530.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.14530.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15314.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15314.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15314.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16051.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.16051.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.16051.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15591.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15591.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15591.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15161.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15161.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15161.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.13196.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.13196.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.13196.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16097.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.16097.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.16097.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.11699.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.11699.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.11699.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16169.
-[20.07.2026 11:45] Downloading paper 2607.16169 from https://arxiv.org/pdf/2607.16169v1...
-[20.07.2026 11:45] Extracting affiliations from text.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 14:03] Deleting PDF ./assets/pdf/2607.11498.pdf.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.07690.
+[20.07.2026 14:03] Downloading paper 2607.07690 from https://arxiv.org/pdf/2607.07690v1...
+[20.07.2026 14:03] Extracting affiliations from text.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"When Does Muon Help Agentic Reinforcement Learning? Kai Ruan1, Jinghao Lin2, Zihe Huang3 Ziqi Zhou4, Qianshan Wei5, Xuan Wang6, Hao Sun1,* 1Gaoling School of Artificial Intelligence, Renmin University of China 2Independent Researcher 3Institute of Computing Technology, Chinese Academy of Sciences 4Duke University 5Institute of Automation, Chinese Academy of Sciences 6College of Computer Science and Technology, Zhejiang University *Corresponding author "
-[20.07.2026 11:45] Response: ```python
-[
-    "Gaoling School of Artificial Intelligence, Renmin University of China",
-    "Independent Researcher",
-    "Institute of Computing Technology, Chinese Academy of Sciences",
-    "Duke University",
-    "Institute of Automation, Chinese Academy of Sciences",
-    "College of Computer Science and Technology, Zhejiang University"
-]
-```
-[20.07.2026 11:45] Deleting PDF ./assets/pdf/2607.16169.pdf.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15524.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15524.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15524.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.16107.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.16107.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.16107.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15686.
-[20.07.2026 11:45] Downloading paper 2607.15686 from https://arxiv.org/pdf/2607.15686v1...
-[20.07.2026 11:45] Extracting affiliations from text.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"S1-Omni: Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation ScienceOne AI Wenge AI https://huggingface.co/ScienceOne-AI https://modelscope.cn/organization/ScienceOne-AI https://github.com/ScienceOne-AI "
-[20.07.2026 11:45] Response: []
-[20.07.2026 11:45] Extracting affiliations from text.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"S1-Omni: Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation ScienceOne AI Wenge AI https://huggingface.co/ScienceOne-AI https://modelscope.cn/organization/ScienceOne-AI https://github.com/ScienceOne-AIWe present S1-Omni, unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides practical path toward unified scientific modeling.In recent years, AI for Science (AI4S) has advanced along three complementary directions. The first comprises domain-specific models, represented by AlphaFold 3(Abramson et al., 2024) and ESM3 (Hayes et al., 2025), which develop high-performance capabilities for structure prediction, property prediction, or generation around specific scientific entities such as proteins, molecules, and materials. The second comprises tool-augmented general-purpose models, represented by GPT-Rosalind (OpenAI, 2026b) and Claude Science (Anthropic, 2026), which extend general language models with agents, scientific tools, and automated workflows for operating on and executing scientific tasks. The third comprises scientific language models, represented by NatureLM (Xia et al., 2025), LOGOS (Li et al., 2026a), and BioMatrix (Pei et al., 2026), which organize scientific entities such as proteins, DNA, and molecules as jointly modeled symbolic sequences or representation spaces and explore unified modeling across scientific objects. Together, these advances have driven domain modeling, scientific workflow automation, and representation learning for scientific objects, providing important foundations for unified multimodal reasoning in science. However, existing scientific intelligence remains fragmented across domain-specific models, toolaugmented LLMs, and scientific language models. Domain-specific models are typically tied to particular scientific entities and task types. Tool-augmented LLMs use external tools to complete scientific tasks. Scientific language models attempt to unify scientific knowledge within shared embedding space. However, these approaches have yet to bring knowledge from different disciplines, scientific principles, and constraints together within unified model. The key to unified scientific intelligence is therefore not merely to provide natural-language interface or to convert different scientific objects into single token representation. It requires organizing heterogeneous scientific data within the same model process, injecting scientific laws, expert heuristics, and domain-task constraints into task understanding and model reasoning through implicit representations, and producing outputs that can be verified in their corresponding native scientific forms. This work investigates how these distributed capabilities can be integrated into unified multimodal reasoning model, allowing shared backbone to develop cross-disciplinary, cross-modal, and cross-task scientific understanding and reasoning. 1 To this end, we introduce S1-Omni, unified multimodal reasoning model for scientific understanding, prediction, and generation. S1-Omni is built around three core capabilities. First, unified representation of scientific data. The model organizes natural-language instructions and diverse scientific objects into unified task representation, covering text, material CIFs, chemical SMILES, protein sequences, spectra, scientific images, and other scientific modalities. At the same time, it preserves object-type boundaries, representation structures, and necessary encoding paths rather than equating unified modeling with uniform tokenization. Second, natural-world knowledge alignment. Model training does not rely only on statistical associations between inputs and outputs, but also incorporates scientific laws and expert knowledge, together with experimental facts, into data construction, sample validation, and training, enabling the model to form intermediate judgments from scientific evidence in the current task and thereby improving scientific reasoning and interpretability. Third, decoding for domain-specific tasks. On top of shared task understanding and scientific reasoning, the model connects the appropriate output representation and decoders according to the task objective. It supports property prediction, spectrum-to-molecular generation, protein structure generation, and scientific image generation and editing, allowing unified model to produce outputs in each domains native result space. The capabilities of S1-Omni are built on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of high-quality scientific reasoning samples. During dataset construction, we use scientific laws and expert knowledge to design task-specific reasoning chains, taking into account relevant reasoning dimensions, evidence sources, and output constraints. In this way, S1-Omni learns not only surface patterns in scientific data, but also how to reason from evidence in specific task, providing an effective initial path toward scalable unified scientific"
-[20.07.2026 11:45] Response: ```python
+Text:"Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning Vladislav Beliaev Independent Researcher belyaev.vladislav.nw@gmail.com thinkdense.ai Abstract Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind todays reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each others graders. Both attempt the same problem; in alternating roles, one drafts solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, model must out-reason rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, twostage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPOs pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space. Reinforcement learning from verifiable rewards has become the standard tool for sharpening the reasoning of large language models (LLMs) on tasks such as mathematics and code [Guo et al., 2025, Shao et al., 2024]. The dominant recipe is on-policy and outcome-based: sample group of rollouts from the current policy, score each by whether its final answer is correct, and update with group-relative advantages, as in GRPO [Shao et al., 2024]. The reward is attached to the answ"
+[20.07.2026 14:03] Response: ```python
 []
 ```
-[20.07.2026 11:45] Deleting PDF ./assets/pdf/2607.15686.pdf.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.14614.
-[20.07.2026 11:45] Downloading paper 2607.14614 from https://arxiv.org/pdf/2607.14614v1...
-[20.07.2026 11:45] Extracting affiliations from text.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[20.07.2026 14:03] Extracting affiliations from text.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization Weiwen Xu1 Jia Liu2 Hou Pong Chan1 Long Li Deng Cai1 Min Chen2 Hao Zhang3 1The Chinese University of Hong Kong 2South China University of Technology 3Nanyang Technological University weiwen.xuu@gmail.com; Jialiu0330@hust.edu.cn "
-[20.07.2026 11:45] Response: ```python
-["The Chinese University of Hong Kong", "South China University of Technology", "Nanyang Technological University"]
+Text:"Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning Vladislav Beliaev Independent Researcher belyaev.vladislav.nw@gmail.com thinkdense.ai Abstract Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind todays reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each others graders. Both attempt the same problem; in alternating roles, one drafts solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, model must out-reason rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, twostage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPOs pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space.Reinforcement learning from verifiable rewards has become the standard tool for sharpening the reasoning of large language models (LLMs) on tasks such as mathematics and code [Guo et al., 2025, Shao et al., 2024]. The dominant recipe is on-policy and outcome-based: sample group of rollouts from the current policy, score each by whether its final answer is correct, and update with group-relative advantages, as in GRPO [Shao et al., 2024]. The reward is attached to the answer; the chain of thought that produced it is never graded. On problems the model can already partly solve this is benign, but on hard problems it creates strong incentive to write more: longer chain affords more chances to stumble onto the right answer, so additional text is the cheapest way to raise expected reward. The trace inflates with hedging and backtracking (hmm, wait, let me reconsider), and accuracy grows far slower than length (accuracy rises only modestly while length inflates by an order of magnitude [Aggarwal & Welleck, 2025]). The model ends up producing more reasoning per problem without producing better reasoning per token. The obvious fix, grading the reasoning directly, is intractable. There is no ground truth for good thinking: no label says which step was the insight and which was filler, and learned process reward model is expensive, brittle, and itself unverifiable [Lightman et al., 2023]. So the trace stays unscored, and the length pathology persists. We ask instead: can second model supply the missing signal? If different policy attempts the same problem and we reward each model for out-reasoning the other, then the trace is graded implicitly by the rival, without any process labels. step that leads to win is reinforced; filler that the opponent exploits is punished. The grader must be different model, and the game must be competitive. Post-training RL is, by construction, self-improvement: the policy is optimized on signal it generates itself, which reinforces the very blind spots that created its errors: model auditing its own work tends to plateau [Huang et al., 2024]. second model with different failure modes breaks this closed loop. But merely having two models is not 1 ) % ( 1 @ p h - M D 80 60 20 0 23 30 34 61 Zero-shot GRPO MoA Coop Agon Figure 1: From answer-grading to rival-grading. On hard-math held-out set, vanilla GRPO lifts Qwen3 model only modestly over zero-shot, and an untrained Mixture-of-Agents pass (MoA, no train), two models cross-refining at inference, adds small bump. Training the same two-model setup competitively (Agon) reaches roughly 2 GRPOs and 1.8 the untrained MoAs pass@1 at the same two-pass inference budget  (Table 3)  . Intermediate ablations appear in Section 5. enough. Naively averaging or letting models agree, as in self-consistency and mixture-of-agents [Wang et al., 2023, 2024], tends to regress toward consensus and can dilute quality when the models differ in strength [Li et al., 2025], while two near-identical models gain little from one another. The combination that works is pair of comparable strength hypothesized to have different blind spots, placed under competitive pressure: each model must not only solve the problem but beat peer that sees its work, so the objective rewards out-reasoning the peer rather than agreeing with it. Under this pressure the pair co-improves: each win raises the bar for the other on the next step, and both models end up past the ceiling where single self-graded policy plateaus. We instantiate this as Agon (Greek agon, contest). Two distinct policies are trained head-to-head: drafter produces candidate solutions; challenger reads an opponents worked solution and is rewarded for solving correctly and beating it; roles rotate every step so both models learn both roles, and at inference the pair deploys the same way, one model drafting and the other answering after reading the draft. In principle the recipe applies to any pair of comparably strong models; for efficiency we realize the pair as two low-rank adapters over one frozen base (2% memory overhead, not 2), kept divergent by different initialization and update streams. In this work the exchange happens in text: we first establish that the cross-model signal is useful before optimizing the channel (latent-space exchange; Section 6). We test two claims under matched generation budget: that cross-model information exchange raises accuracy (the exchange claim), and that adversarial pressure raises it further than cooperation (the competition claim), using 2 2 design that crosses competition with exchange (one cell of which is provably inert under grouprelative normalization; Section 4.4), plus single-model self-refinement control, zero-training orchestration control, and budget-matched GRPO self-cascade control. Contributions. We reframe reasoning quality as an implicit reward that competing peer model can supply, turning the unlabeled good thinking problem into head-to-head"
+[20.07.2026 14:03] Response: ```python
+[]
 ```
-[20.07.2026 11:45] Deleting PDF ./assets/pdf/2607.14614.pdf.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.14088.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.14088.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.14088.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Downloading and parsing paper https://huggingface.co/papers/2607.15901.
-[20.07.2026 11:45] Extra JSON file exists (./assets/json/2607.15901.json), skip PDF parsing.
-[20.07.2026 11:45] Paper image links file exists (./assets/img_data/2607.15901.json), skip HTML parsing.
-[20.07.2026 11:45] Success.
-[20.07.2026 11:45] Enriching papers with extra data.
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 0. Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses thi...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 1. Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with min...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 2. Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 3. Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expans...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 4. Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 5. Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 6. Abstract  Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinat...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 7. Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, ...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 8. Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported ...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 9. Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (mod...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 10. Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, ...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 11. Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 12. Abstract  Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the qual...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 13. Abstract  We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos. Unlike prior AV-LLMs that primarily focus on short clips, AV-Flamingo is designed for und...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 14. Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 15. Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which ...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 16. Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video...
-[20.07.2026 11:45] ********************************************************************************
-[20.07.2026 11:45] Abstract 17. Abstract  Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottleneck motivates models that can anticipate the effects of data science operations before real ...
-[20.07.2026 11:45] Read previous papers.
-[20.07.2026 11:45] Generating reviews via LLM API.
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#dataset", "#graphs", "#retrieval", "#rag", "#open_source"], "emoji": "🔍", "ru": {"title": "Новый подход к построению графов знаний в ML", "desc": "Статья посвящена улучшению генерации текстов с использованием структурированных знаний в большой модели языка через GraphRAG. Представл
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#open_source", "#transfer_learning", "#robotics", "#training", "#agents", "#optimization", "#alignment", "#agi"], "emoji": "🤖", "ru": {"title": "Xiaomi-Robotics-1: Новая эра мобильной робототехники", "desc": "Мы представляем модель Xiaomi-Robotics-1, которая сочетает в себе возможно
-[20.07.2026 11:45] Querying the API.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[20.07.2026 14:03] Deleting PDF ./assets/pdf/2607.07690.pdf.
+[20.07.2026 14:03] Success.
+[20.07.2026 14:03] Enriching papers with extra data.
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 0. Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses thi...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 1. Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 2. Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 3. Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with min...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 4. Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expans...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 5. Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 6. Abstract  Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinat...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 7. Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, ...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 8. Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported ...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 9. Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, ...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 10. Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (mod...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 11. Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 12. Abstract  Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the qual...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 13. Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 14. Abstract  We present Audio-Visual Flamingo (AV-Flamingo), a fully open state-of-the-art audio-visual large language model (AV-LLM) for joint understanding and reasoning over audio, images, and long-form videos. Unlike prior AV-LLMs that primarily focus on short clips, AV-Flamingo is designed for und...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 15. Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 16. Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which ...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 17. Abstract  Despite strong capabilities in data understanding and decision-making, autonomous data science agents still heavily rely on trial-and-error workflows that involve expensive computation. This bottleneck motivates models that can anticipate the effects of data science operations before real ...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 18. Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed...
+[20.07.2026 14:03] ********************************************************************************
+[20.07.2026 14:03] Abstract 19. Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinkin...
+[20.07.2026 14:03] Read previous papers.
+[20.07.2026 14:03] Generating reviews via LLM API.
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#dataset", "#graphs", "#retrieval", "#rag", "#open_source"], "emoji": "🔍", "ru": {"title": "Новый подход к построению графов знаний в ML", "desc": "Статья посвящена улучшению генерации текстов с использованием структурированных знаний в большой модели языка через GraphRAG. Представл
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#retrieval", "#multimodal", "#tool_use", "#training", "#agent_memory", "#agents"], "emoji": "📚", "ru": {"title": "Преобразование знаний в навыки для агентов", "desc": "В статье представлен RESOURCE2SKILL — фреймворк, который преобразует мультимодальные ресурсы, такие как обучающие в
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#architecture", "#training", "#reasoning", "#optimization"], "emoji": "🤖", "ru": {"title": "Loopie: Прорыв в трансформерах!", "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 милли
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#open_source", "#transfer_learning", "#robotics", "#training", "#agents", "#optimization", "#alignment", "#agi"], "emoji": "🤖", "ru": {"title": "Xiaomi-Robotics-1: Новая эра мобильной робототехники", "desc": "Мы представляем модель Xiaomi-Robotics-1, которая сочетает в себе возможно
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#architecture", "#training", "#optimization", "#memory"], "emoji": "🚀", "ru": {"title": "Эффективное расширение памяти в трансформерах", "desc": "Статья представляет метод xHC (Expanded Hyper-Connections), который позволяет эффективно расширять память в трансформерах. Он преодолевае
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#synthetic", "#training", "#dataset", "#healthcare", "#agents", "#reasoning", "#benchmark", "#continual_learning", "#agi"], "emoji": "🩺", "ru": {"title": "Новая эра в медицинском ИИ", "desc": "В данной статье представляется модель Cura 1T, специализированная для здравоохранения, кот
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#optimization", "#training", "#reasoning", "#agents", "#memory"], "emoji": "📊", "ru": {"title": "Революция в рекомендациях: новые подходы для лучшего понимания пользователей", "desc": "Статья описывает новый подход к рекомендательным системам с использованием больших языковых моделе
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#transfer_learning", "#reasoning", "#training", "#optimization", "#benchmark", "#rl"], "emoji": "💡", "ru": {"title": "Новая эра дистилляции в обучении с подкреплением", "desc": "Статья посвящена новому подходу к дистилляции в обучении с подкреплением, который называется On-Policy De
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#optimization", "#multimodal", "#training", "#agents", "#agent_memory", "#agi"], "emoji": "🤖", "ru": {"title": "ИИ в ревью кода: ускорение при сохранении качества", "desc": "В данной статье рассматривается влияние перехода к поддерживаемому ИИ процессу ревью кода на его эффективност
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#audio", "#music_generation", "#training", "#multilingual", "#multimodal"], "emoji": "🎶", "ru": {"title": "Создание музыки нового поколения с Qwen-Music", "desc": "В данном отчете представлен Qwen-Music, мощная модель генерации музыки, способная создавать высококачественные песни с 
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#training", "#dataset", "#reasoning", "#games", "#rl", "#transfer_learning"], "emoji": "♟️", "ru": {"title": "Влияние предварительного обучения на обучение с подкреплением", "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкрепле
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#agents", "#games"], "emoji": "🤖", "ru": {"title": "Muon: новый взгляд на обучение с частичными вознаграждениями", "desc": "В данной статье рассматривается эффективность использования метода Muon в задачах обучения с частичными вознаграждениями, 
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#continual_learning", "#agent_memory", "#prompting"], "emoji": "💡", "ru": {"title": "Оптимизация обучения через самоулучшение вспомогательных инструментов", "desc": "В статье рассматривается концепция сосуществования моделей и вспомогательных
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#dataset", "#3d", "#architecture", "#training", "#diffusion", "#optimization"], "emoji": "🎬", "ru": {"title": "VideoRAE: новый подход к генерации видео", "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFM
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#multimodal", "#training", "#dataset", "#reasoning", "#benchmark", "#audio", "#agi", "#transfer_learning", "#interpretability"], "emoji": "🎥", "ru": {"title": "AV-Flamingo: Понимание длинных аудиовизуальных потоков", "desc": "Статья представляет Audio-Visual Flamingo (AV-Flamingo) —
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#multimodal", "#benchmark", "#architecture", "#reasoning", "#science"], "emoji": "🔬", "ru": {"title": "Единое решение для научного моделирования", "desc": "S1-Omni — это единая модель многомодального рассуждения, предназначенная для научного понимания, предсказания и генерации. Она 
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#benchmark", "#reasoning", "#rlhf"], "emoji": "🧠", "ru": {"title": "Новый подход к обучению с подкреплением для точного формирования преимущества", "desc": "В данной статье предложен новый подход к обучению с подкреплением с проверяемыми наградам
+[20.07.2026 14:03] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset", "#reinforcement_learning", "#agents", "#agent_memory", "#rl"], "emoji": "⚙️", "ru": {"title": "Ускорение науки о данных с помощью Мировой Модели", "desc": "В статье рассматриваются автономные агенты в области науки о данных, которые использую
+[20.07.2026 14:03] Querying the API.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition.
-[20.07.2026 11:45] Response: ```json
+Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed and where actions are defined. The mismatch is benign under a fixed viewpoint, where the policy can memorize a single observation-to-action mapping, but grows harder as large-scale datasets aggregate demonstrations across diverse camera setups and the policy must generalize this mapping across viewpoints. We address this mismatch with robot-centric pointmaps, images whose pixels store the 3D coordinates of scene points in the robot frame. Pointmaps provide robot-frame 3D geometry while preserving the dense H x W grid expected by pretrained 2D VLAs, so they integrate into existing VLAs with minimal architectural change. On RoboCasa, pointmaps improve both pi0.5 and SmolVLA and outperform representative camera-viewpoint and 3D-aware baselines. In real-robot experiments, their advantage over an RGB-only policy widens when the camera is moved to a placement unseen during training.
+[20.07.2026 14:03] Response: ```json
 {
-  "desc": "В статье представлен RESOURCE2SKILL — фреймворк, который преобразует мультимодальные ресурсы, такие как обучающие видео и статьи, в исполняемые навыки для программных агентов. Эти навыки организованы в иерархическую мультимодальную вики, где каждый элемент сочетает текст, код и визуальные примеры. Такой подход сохраняет информацию из различных источников: видео отражают временные операции, код демонстрирует исполняемые шаблоны, а статьи обеспечивают концептуальные основы. Показано, что RESOURCE2SKILL значительно улучшает производительность агентов по сравнению с теми, у кого нет навыков.",
-  "emoji": "📚",
-  "title": "Преобразование знаний в навыки для агентов"
-}
-```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition."
-
-[20.07.2026 11:45] Response: ```python
-['AGENTS', 'MULTIMODAL', 'RETRIEVAL', 'TRAINING']
-```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition."
-
-[20.07.2026 11:45] Response: ```python
-["AGENT_MEMORY", "TOOL_USE", "RETRIEVAL"]
-```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 11:45] Response: {
-  "desc": "The paper introduces RESOURCE2SKILL, a framework that transforms various multimodal resources, such as tutorial videos and articles, into executable skills for software agents. It organizes these skills in a hierarchical Skill Wiki, combining structured text, code, and visual examples to enhance learning. This approach allows agents to leverage diverse information sources, improving their performance in practical tasks. The framework demonstrates significant improvements in skill acquisition and execution, outperforming traditional methods in multiple domains.",
-  "title": "Transforming Multimodal Resources into Executable Skills"
-}
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#architecture", "#training", "#optimization", "#memory"], "emoji": "🚀", "ru": {"title": "Эффективное расширение памяти в трансформерах", "desc": "Статья представляет метод xHC (Expanded Hyper-Connections), который позволяет эффективно расширять память в трансформерах. Он преодолевае
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#synthetic", "#training", "#dataset", "#healthcare", "#agents", "#reasoning", "#benchmark", "#continual_learning", "#agi"], "emoji": "🩺", "ru": {"title": "Новая эра в медицинском ИИ", "desc": "В данной статье представляется модель Cura 1T, специализированная для здравоохранения, кот
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#architecture", "#training", "#reasoning", "#optimization"], "emoji": "🤖", "ru": {"title": "Loopie: Прорыв в трансформерах!", "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 милли
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#optimization", "#training", "#reasoning", "#agents", "#memory"], "emoji": "📊", "ru": {"title": "Революция в рекомендациях: новые подходы для лучшего понимания пользователей", "desc": "Статья описывает новый подход к рекомендательным системам с использованием больших языковых моделе
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#transfer_learning", "#reasoning", "#training", "#optimization", "#benchmark", "#rl"], "emoji": "💡", "ru": {"title": "Новая эра дистилляции в обучении с подкреплением", "desc": "Статья посвящена новому подходу к дистилляции в обучении с подкреплением, который называется On-Policy De
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#optimization", "#multimodal", "#training", "#agents", "#agent_memory", "#agi"], "emoji": "🤖", "ru": {"title": "ИИ в ревью кода: ускорение при сохранении качества", "desc": "В данной статье рассматривается влияние перехода к поддерживаемому ИИ процессу ревью кода на его эффективност
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#training", "#dataset", "#reasoning", "#games", "#rl", "#transfer_learning"], "emoji": "♟️", "ru": {"title": "Влияние предварительного обучения на обучение с подкреплением", "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкрепле
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#audio", "#music_generation", "#training", "#multilingual", "#multimodal"], "emoji": "🎶", "ru": {"title": "Создание музыки нового поколения с Qwen-Music", "desc": "В данном отчете представлен Qwen-Music, мощная модель генерации музыки, способная создавать высококачественные песни с 
-[20.07.2026 11:45] Querying the API.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open.
-[20.07.2026 11:45] Response: ```json
-{
-  "desc": "В данной статье рассматривается эффективность использования метода Muon в задачах обучения с частичными вознаграждениями, сравнивая его с AdamW. Эксперименты показывают, что Muon значительно улучшает успешность валидации при оптимизации политики. Интересно, что использование Muon в скрытых весах приводит к большему успеху, чем AdamW, который не показывает положительных результатов после обновлений. Результаты анализа зависят от оценщика преимущества и скорости обучения, что указывает на возможности для дальнейших исследований.",
+  "desc": "Модели, объединяющие визуальные данные, язык и действия (VLA), предсказывают действия робота на основе визуальных наблюдений и языковых инструкций. В данной статье рассматривается проблема несовпадения координатных систем робота и камеры, которое затрудняет обобщение действий при различных ракурсах. Для решения этой проблемы используются точечные карты, которые представляют собой изображения, хранящие 3D-координаты точек сцены в системе координат робота. Результаты опытов показывают, что точечные карты значительно улучшают производительность по сравнению с традиционными методами, особенно при изменении положения камеры.",
   "emoji": "🤖",
-  "title": "Muon: новый взгляд на обучение с частичными вознаграждениями"
+  "title": "Устранение несовпадения координат: точечные карты для роботов"
 }
 ```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -372,12 +262,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open."
+"Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed and where actions are defined. The mismatch is benign under a fixed viewpoint, where the policy can memorize a single observation-to-action mapping, but grows harder as large-scale datasets aggregate demonstrations across diverse camera setups and the policy must generalize this mapping across viewpoints. We address this mismatch with robot-centric pointmaps, images whose pixels store the 3D coordinates of scene points in the robot frame. Pointmaps provide robot-frame 3D geometry while preserving the dense H x W grid expected by pretrained 2D VLAs, so they integrate into existing VLAs with minimal architectural change. On RoboCasa, pointmaps improve both pi0.5 and SmolVLA and outperform representative camera-viewpoint and 3D-aware baselines. In real-robot experiments, their advantage over an RGB-only policy widens when the camera is moved to a placement unseen during training."
 
-[20.07.2026 11:45] Response: ```python
-['RL', 'TRAINING', 'AGENTS']
+[20.07.2026 14:03] Response: ```python
+['3D', 'AGENTS', 'TRAINING']
 ```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -420,34 +310,30 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open."
+"Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed and where actions are defined. The mismatch is benign under a fixed viewpoint, where the policy can memorize a single observation-to-action mapping, but grows harder as large-scale datasets aggregate demonstrations across diverse camera setups and the policy must generalize this mapping across viewpoints. We address this mismatch with robot-centric pointmaps, images whose pixels store the 3D coordinates of scene points in the robot frame. Pointmaps provide robot-frame 3D geometry while preserving the dense H x W grid expected by pretrained 2D VLAs, so they integrate into existing VLAs with minimal architectural change. On RoboCasa, pointmaps improve both pi0.5 and SmolVLA and outperform representative camera-viewpoint and 3D-aware baselines. In real-robot experiments, their advantage over an RGB-only policy widens when the camera is moved to a placement unseen during training."
 
-[20.07.2026 11:45] Response: ```python
-["OPTIMIZATION", "GAMES"]
+[20.07.2026 14:03] Response: ```python
+["GAMES", "TRANSFER_LEARNING"]
 ```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open.
+Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed and where actions are defined. The mismatch is benign under a fixed viewpoint, where the policy can memorize a single observation-to-action mapping, but grows harder as large-scale datasets aggregate demonstrations across diverse camera setups and the policy must generalize this mapping across viewpoints. We address this mismatch with robot-centric pointmaps, images whose pixels store the 3D coordinates of scene points in the robot frame. Pointmaps provide robot-frame 3D geometry while preserving the dense H x W grid expected by pretrained 2D VLAs, so they integrate into existing VLAs with minimal architectural change. On RoboCasa, pointmaps improve both pi0.5 and SmolVLA and outperform representative camera-viewpoint and 3D-aware baselines. In real-robot experiments, their advantage over an RGB-only policy widens when the camera is moved to a placement unseen during training.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 11:45] Response: {
-  "desc": "This paper investigates the performance of the Muon optimizer in reinforcement learning (RL) tasks, particularly in sparse-reward scenarios. It compares Muon with the widely used AdamW optimizer during post-training on the ALFWorld environment using the Qwen2.5-0.5B-Instruct model. The results show that Muon significantly improves validation success rates when applied to hidden weight matrices, outperforming AdamW in certain configurations. The findings suggest that the choice of optimizer, advantage estimator, and learning rate are crucial for enhancing RL performance, warranting further exploration in these areas.",
-  "title": "Muon Optimizer: A Game Changer for Reinforcement Learning"
+[20.07.2026 14:03] Response: {
+  "desc": "This paper introduces vision-language-action (VLA) models that enable robots to perform actions based on visual inputs and language commands. A key challenge is the mismatch between the robot's 3D action space and the 2D camera frame used for observation. The authors propose robot-centric pointmaps, which represent 3D scene points in the robot's coordinate system while maintaining a 2D grid format. Their approach enhances performance on the RoboCasa dataset, demonstrating improved generalization across different camera viewpoints compared to traditional methods.",
+  "title": "Bridging the Frame Gap for Robot Actions"
 }
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#continual_learning", "#agent_memory", "#prompting"], "emoji": "💡", "ru": {"title": "Оптимизация обучения через самоулучшение вспомогательных инструментов", "desc": "В статье рассматривается концепция сосуществования моделей и вспомогательных
-[20.07.2026 11:45] Using data from previous issue: {"categories": ["#multimodal", "#training", "#dataset", "#reasoning", "#benchmark", "#audio", "#agi", "#transfer_learning", "#interpretability"], "emoji": "🎥", "ru": {"title": "AV-Flamingo: Понимание длинных аудиовизуальных потоков", "desc": "Статья представляет Audio-Visual Flamingo (AV-Flamingo) —
-[20.07.2026 11:45] Querying the API.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[20.07.2026 14:03] Querying the API.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling.
-[20.07.2026 11:45] Response: ```json
-{
-  "desc": "S1-Omni — это единая модель многомодального рассуждения, предназначенная для научного понимания, предсказания и генерации. Она объединяет возможности различных моделей, чтобы улучшить совместное моделирование научных данных, законов и экспертных знаний. Модель преобразует научные объекты и естественно-языковые инструкции в общую пространство представлений, что позволяет осуществлять вывод на основе научных данных. S1-Omni демонстрирует превосходство над аналогичными моделями, что делает ее шагом вперед в унифицированном научном моделировании.",
-  "emoji": "🔬",
-  "title": "Единое решение для научного моделирования"
+Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, a two-stage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPO's pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space.
+[20.07.2026 14:03] Response: {
+  "desc": "В данной статье представлен подход к обучению с подкреплением, основанный на взаимодействии двух моделей, называемый Agon. Каждая модель решает одну и ту же задачу, чередуя роли: одна составляет решение, а другая его считывает и сопоставляет. Это позволяет моделям оценивать друг друга, что обеспечивает более качественное мышление вместо простого написания ответов. В результате такая стратегия увеличивает точность и эффективность, показывая значительное улучшение на сложных задачах, таких как DeepMath.",
+  "emoji": "🤖",
+  "title": "Обучение конкурирующих моделей для улучшения мышления"
 }
-```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -491,12 +377,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling."
+"Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, a two-stage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPO's pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space."
 
-[20.07.2026 11:45] Response: ```python
-['MULTIMODAL', 'ARCHITECTURE', 'SCIENCE', 'BENCHMARK']
+[20.07.2026 14:03] Response: ```python
+['RL', 'RLHF', 'AGENTS', 'TRAINING']
 ```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -539,147 +425,26 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling."
+"Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, a two-stage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPO's pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space."
 
-[20.07.2026 11:45] Response: ```python
-['REASONING', 'SCIENCE']
+[20.07.2026 14:03] Response: ```python
+["REASONING", "OPTIMIZATION"]
 ```
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[20.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. AI for Science (AI4S) has advanced significantly through domain-specific models, tool-augmented LLMs, and scientific language models. However, model capabilities remain highly fragmented, limiting the joint modeling of heterogeneous data, scientific laws, and expert knowledge. S1-Omni addresses this gap by consolidating these capabilities into a single, coherent scientific reasoning model. The architecture of S1-Omni is built upon three core components: unified representation of scientific data, natural-world knowledge alignment, and decoding for domain-specific tasks. First, S1-Omni maps natural-language instructions and scientific objects, including CIF, SMILES, protein sequences, spectra, and scientific images, into a shared representation space. Second, it incorporates scientific laws and expert knowledge into data construction and training, enabling the model to reason from scientific evidence. Third, it performs task-specific decoding to support a broad range of applications, including property prediction, spectrum-to-molecular generation, protein site and structure prediction, and scientific image generation and editing. S1-Omni is trained on S1-Omni-Corpus, which covers 200 scientific tasks and contains millions of reasoning samples, and is evaluated on over 60 scientific benchmarks. It outperforms GPT-5.5 and Gemini-3.1-Pro on most benchmarks and matches or surpasses domain-specific models on several benchmarks. Overall, S1-Omni provides a practical path toward unified scientific modeling.
+Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, a two-stage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPO's pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 11:45] Response: {
-  "desc": "S1-Omni is a comprehensive multimodal reasoning model designed for scientific tasks, integrating various data types and expert knowledge. It creates a unified representation of scientific data, allowing it to process natural language instructions alongside complex scientific objects. The model incorporates scientific laws during training, enhancing its ability to reason based on evidence. S1-Omni excels in diverse applications, outperforming existing models and providing a cohesive approach to scientific understanding and prediction.",
-  "title": "Unified Scientific Reasoning with S1-Omni"
+[20.07.2026 14:03] Response: {
+  "desc": "This paper introduces Agon, a novel approach to reinforcement learning where two models compete against each other to improve reasoning skills. Instead of grading only the final answer, both models draft solutions and evaluate each other's work, promoting implicit reasoning during training. This method allows models to face progressively stronger opponents, enhancing their problem-solving abilities without needing explicit process labels. The results show significant improvements in performance on challenging tasks, demonstrating the effectiveness of this competitive training framework.",
+  "title": "Agon: Competing Models for Enhanced Reasoning in Reinforcement Learning"
 }
-[20.07.2026 11:45] Querying the API.
-[20.07.2026 11:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance.
-[20.07.2026 11:46] Response: ```json
-{
-  "desc": "В данной статье предложен новый подход к обучению с подкреплением с проверяемыми наградами, называемый Contrastive Policy Optimization (CPO). Этот метод использует контрастное несогласие на уровне токенов для формирования преимущества, что позволяет лучше различать полезную неопределенность и вредную путаницу. Эксперименты показывают, что CPO значительно превосходит методы, основанные на энтропии, обеспечивая высокую обобщающую способность. Также разработанный алгоритм решает проблему нулевого преимущества, балансируя исследования и эксплуатацию.",
-  "emoji": "🧠",
-  "title": "Новый подход к обучению с подкреплением для точного формирования преимущества"
-}
-```
-[20.07.2026 11:46] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance."
-
-[20.07.2026 11:46] Response: ```python
-['RL', 'RLHF', 'BENCHMARK', 'TRAINING']
-```
-[20.07.2026 11:46] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance."
-
-[20.07.2026 11:46] GitHub Models 429 (rate limit). Ждём 1s, попытка 1/4.
-[20.07.2026 11:46] GitHub Models 429 (rate limit). Ждём 10s, попытка 2/4.
-[20.07.2026 11:46] Response: ```python
-["OPTIMIZATION", "REASONING"]
-```
-[20.07.2026 11:46] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[20.07.2026 11:46] Response: {
-  "desc": "This paper introduces Contrastive Policy Optimization (CPO) as a new method for reinforcement learning with verifiable rewards. Unlike traditional entropy-based approaches, CPO uses token-level contrastive disagreement to better identify correct actions and improve advantage shaping. The method shows significant improvements in performance on various benchmarks while effectively addressing the zero-advantage problem. Additionally, the research highlights the importance of balancing exploration and exploitation to achieve optimal results.",
-  "title": "Enhancing Reinforcement Learning with Contrastive Policy Optimization"
-}
-[20.07.2026 11:46] Using data from previous issue: {"categories": ["#dataset", "#3d", "#architecture", "#training", "#diffusion", "#optimization"], "emoji": "🎬", "ru": {"title": "VideoRAE: новый подход к генерации видео", "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFM
-[20.07.2026 11:46] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset", "#reinforcement_learning", "#agents", "#agent_memory", "#rl"], "emoji": "⚙️", "ru": {"title": "Ускорение науки о данных с помощью Мировой Модели", "desc": "В статье рассматриваются автономные агенты в области науки о данных, которые использую
-[20.07.2026 11:46] Renaming data file.
-[20.07.2026 11:46] Renaming previous data. hf_papers.json to ./d/2026-07-20.json
-[20.07.2026 11:46] Saving new data file.
-[20.07.2026 11:46] Generating page.
-[20.07.2026 11:46] Renaming previous page.
-[20.07.2026 11:46] Renaming previous data. index.html to ./d/2026-07-20.html
-[20.07.2026 11:46] Writing result.
-[20.07.2026 11:46] Renaming log file.
-[20.07.2026 11:46] Renaming previous data. log.txt to ./logs/2026-07-20_last_log.txt
+[20.07.2026 14:03] Renaming data file.
+[20.07.2026 14:03] Renaming previous data. hf_papers.json to ./d/2026-07-20.json
+[20.07.2026 14:03] Saving new data file.
+[20.07.2026 14:03] Generating page.
+[20.07.2026 14:03] Renaming previous page.
+[20.07.2026 14:03] Renaming previous data. index.html to ./d/2026-07-20.html
+[20.07.2026 14:03] Writing result.
+[20.07.2026 14:03] Renaming log file.
+[20.07.2026 14:03] Renaming previous data. log.txt to ./logs/2026-07-20_last_log.txt

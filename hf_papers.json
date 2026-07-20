@@ -4,9 +4,9 @@
         "en": "July 20",
         "zh": "7月20日"
     },
-    "time_utc": "2026-07-20 11:44",
+    "time_utc": "2026-07-20 14:03",
     "weekday": 0,
-    "issue_id": 2862,
+    "issue_id": 2863,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
             "url": "https://huggingface.co/papers/2607.11683",
             "abstract": "Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses this by separating extraction from consolidation: entities and relations pass through two-stage typed extraction, DBSCAN-backed deduplication, LLM summarization, and Leiden community detection. A key insight motivates a compact extractor: the skills an in-pipeline LLM needs - comprehension, extraction, reasoning over context - are language skills that grow only weakly with model size, unlike factual world knowledge. Accordingly, we train Meno-Lite-0.1, a 7B model optimized for language skills, which outperforms Qwen2.5-32B on knowledge-graph construction (+12.5% relative harmonic mean) and matches it on English GraphRAG tasks. On GraphRAG-Bench (Medical), RAGU retrieves the most complete context at every factoid level (evidence recall up to 0.84 vs. leq0.76) and overtakes HippoRAG2 on synthesis tasks; on multi-hop factoid QA, the apparent HippoRAG2 advantage is shown to be largely an answer-format artifact. RAGU is installable via pip install graph_ragu, runs on a single GPU, and is released under MIT. The source code is publicly available at https://github.com/RaguTeam/RAGU, and the Meno-Lite-0.1 model can be obtained from https://huggingface.co/bond005/meno-lite-0.1.",
-            "score": 40,
+            "score": 65,
             "issue_id": 2861,
             "pub_date": "2026-07-13",
             "pub_date_card": {
@@ -62,11 +62,113 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2606.29538",
+            "title": "RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources",
+            "url": "https://huggingface.co/papers/2606.29538",
+            "abstract": "Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition.",
+            "score": 60,
+            "issue_id": 2862,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "422642d8c73cd277",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yijia Fan",
+                "Zonglin Di",
+                "Zimo Wen",
+                "Yifan Yang",
+                "Mingxi Cheng",
+                "Qi Dai",
+                "Bei Liu",
+                "Kai Qiu",
+                "Yue Dong",
+                "Ji Li",
+                "Chong Luo"
+            ],
+            "affiliations": [
+                "Microsoft Research",
+                "Shanghai Jiao Tong University",
+                "University of California, Santa Cruz"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2606.29538.jpg",
+            "data": {
+                "categories": [
+                    "#retrieval",
+                    "#multimodal",
+                    "#tool_use",
+                    "#training",
+                    "#agent_memory",
+                    "#agents"
+                ],
+                "emoji": "📚",
+                "ru": {
+                    "title": "Преобразование знаний в навыки для агентов",
+                    "desc": "В статье представлен RESOURCE2SKILL — фреймворк, который преобразует мультимодальные ресурсы, такие как обучающие видео и статьи, в исполняемые навыки для программных агентов. Эти навыки организованы в иерархическую мультимодальную вики, где каждый элемент сочетает текст, код и визуальные примеры. Такой подход сохраняет информацию из различных источников: видео отражают временные операции, код демонстрирует исполняемые шаблоны, а статьи обеспечивают концептуальные основы. Показано, что RESOURCE2SKILL значительно улучшает производительность агентов по сравнению с теми, у кого нет навыков."
+                },
+                "en": {
+                    "title": "Transforming Multimodal Resources into Executable Skills",
+                    "desc": "The paper introduces RESOURCE2SKILL, a framework that transforms various multimodal resources, such as tutorial videos and articles, into executable skills for software agents. It organizes these skills in a hierarchical Skill Wiki, combining structured text, code, and visual examples to enhance learning. This approach allows agents to leverage diverse information sources, improving their performance in practical tasks. The framework demonstrates significant improvements in skill acquisition and execution, outperforming traditional methods in multiple domains."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.16051",
+            "title": "Loop the Loopies!",
+            "url": "https://huggingface.co/papers/2607.16051",
+            "abstract": "Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N-fold increase in pre-training compute, increasing the parameter count by a factor of N usually outperforms looping a model N times. Loopie addresses this challenge. Extensive ablation studies, including comparisons with a vanilla 30B-A3B model, show that Loopie substantially outperforms vanilla Transformer baselines trained with the same compute budget. Our novel post-training pipeline equips Loopie with strong reasoning abilities. At the 2025 IMO and IPhO, Loopie achieves gold-medal performance without tools.",
+            "score": 47,
+            "issue_id": 2860,
+            "pub_date": "2026-07-17",
+            "pub_date_card": {
+                "ru": "17 июля",
+                "en": "July 17",
+                "zh": "7月17日"
+            },
+            "hash": "2e709d98c4009b6f",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zitian Gao",
+                "Yilong Chen",
+                "Yihao Xiao",
+                "Xinyu Yang",
+                "Ran Tao",
+                "Joey Zhou",
+                "Bryan Dai"
+            ],
+            "affiliations": [
+                "IQuest Research"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.16051.jpg",
+            "data": {
+                "categories": [
+                    "#architecture",
+                    "#training",
+                    "#reasoning",
+                    "#optimization"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Loopie: Прорыв в трансформерах!",
+                    "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 миллиардами параметров и 6 миллиардами параметров, каждая из которых имеет активные параметры для эффективной работы. Loopie решает проблему, когда увеличение количества параметров не всегда приводит к лучшему качеству в сравнении с увеличением вычислительных мощностей. Проведенные исследования показывают, что Loopie значительно превышает производительность традиционных трансформеров при одинаковом бюджете вычислений и обладает отличными способностями к рассуждению."
+                },
+                "en": {
+                    "title": "Loopie: Revolutionizing Looped Transformers with MoE",
+                    "desc": "Loopie is a new type of looped Transformer that improves on previous models by using a Mixture-of-Experts (MoE) approach. It includes two models with different parameter sizes, allowing for efficient computation while maintaining high performance. Loopie overcomes the limitations of traditional looping by demonstrating that it can outperform models with a higher parameter count when trained with the same resources. Its advanced post-training techniques enhance its reasoning capabilities, leading to exceptional results in competitive settings."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.15330",
             "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
             "url": "https://huggingface.co/papers/2607.15330",
             "abstract": "Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-            "score": 39,
+            "score": 44,
             "issue_id": 2861,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -140,66 +242,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2606.29538",
-            "title": "RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources",
-            "url": "https://huggingface.co/papers/2606.29538",
-            "abstract": "Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition.",
-            "score": 39,
-            "issue_id": 2862,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "422642d8c73cd277",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yijia Fan",
-                "Zonglin Di",
-                "Zimo Wen",
-                "Yifan Yang",
-                "Mingxi Cheng",
-                "Qi Dai",
-                "Bei Liu",
-                "Kai Qiu",
-                "Yue Dong",
-                "Ji Li",
-                "Chong Luo"
-            ],
-            "affiliations": [
-                "Microsoft Research",
-                "Shanghai Jiao Tong University",
-                "University of California, Santa Cruz"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2606.29538.jpg",
-            "data": {
-                "categories": [
-                    "#retrieval",
-                    "#multimodal",
-                    "#tool_use",
-                    "#training",
-                    "#agent_memory",
-                    "#agents"
-                ],
-                "emoji": "📚",
-                "ru": {
-                    "title": "Преобразование знаний в навыки для агентов",
-                    "desc": "В статье представлен RESOURCE2SKILL — фреймворк, который преобразует мультимодальные ресурсы, такие как обучающие видео и статьи, в исполняемые навыки для программных агентов. Эти навыки организованы в иерархическую мультимодальную вики, где каждый элемент сочетает текст, код и визуальные примеры. Такой подход сохраняет информацию из различных источников: видео отражают временные операции, код демонстрирует исполняемые шаблоны, а статьи обеспечивают концептуальные основы. Показано, что RESOURCE2SKILL значительно улучшает производительность агентов по сравнению с теми, у кого нет навыков."
-                },
-                "en": {
-                    "title": "Transforming Multimodal Resources into Executable Skills",
-                    "desc": "The paper introduces RESOURCE2SKILL, a framework that transforms various multimodal resources, such as tutorial videos and articles, into executable skills for software agents. It organizes these skills in a hierarchical Skill Wiki, combining structured text, code, and visual examples to enhance learning. This approach allows agents to leverage diverse information sources, improving their performance in practical tasks. The framework demonstrates significant improvements in skill acquisition and execution, outperforming traditional methods in multiple domains."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.14530",
             "title": "xHC: Expanded Hyper-Connections",
             "url": "https://huggingface.co/papers/2607.14530",
             "abstract": "Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expansion as a promising scaling axis. However, existing HC-family methods typically stop at N{=}4. Our experiments reveal why: scaling mHC beyond this point yields diminishing performance gains and rapidly increasing training cost. We attribute this limitation to two bottlenecks: insufficient write-back information for an expanding number of streams and residual-mixing generation whose cost scales cubically with N. To address both bottlenecks, we propose xHC (Expanded Hyper-Connections), the first HC-family method to achieve meaningful expansion beyond N{=}4. xHC combines temporal feature augmentation for richer write-back with a sparse residual-stream architecture that updates only k=4 of the N=16 streams while retaining dense access to the full residual state. Across 18B and 28B MoE models, xHC delivers strong and consistent downstream improvements. On an 18B MoE model, xHC improves the average downstream score by 4.0 points over mHC, while adding only modest training FLOPs over the vanilla baseline. Scaling-law experiments show that the vanilla and mHC require 1.50times and 1.19times the compute of xHC, respectively, to reach the same loss. Practical large-N training also requires controlling memory traffic from the expanded residual state. We therefore introduce xHC-Flash, which reduces the per-sublayer memory traffic from 73.5C to 40C, comparable to the 34C required by mHC at N{=}4, while retaining the gains of full xHC. Together, xHC and xHC-Flash make large-N residual-stream expansion effective and practical for LLM pre-training.",
-            "score": 37,
+            "score": 44,
             "issue_id": 2860,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -257,7 +304,7 @@
             "title": "Cura 1T: Specialized Model for Agentic Healthcare",
             "url": "https://huggingface.co/papers/2607.15314",
             "abstract": "Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in different ways, and a narrow update for one task can degrade another. We present Cura 1T, a healthcare-specialized LLM trained through a human-gated self-evolution loop. In each evolution round, a training agent plans a target capability, trains the model, evaluates benchmark trajectories, and refines the data mixture from observed failures. This data-centered loop improves the model through targeted synthetic and curated examples rather than a single generic medical-data update. Across the healthcare evaluation suite, Cura 1T ranks at or near the top among frontier baselines, while remaining competitive on out-of-domain reasoning and agentic benchmarks.",
-            "score": 34,
+            "score": 36,
             "issue_id": 2860,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -304,53 +351,6 @@
                 "en": {
                     "title": "Cura 1T: Evolving Healthcare Intelligence",
                     "desc": "This paper introduces Cura 1T, a specialized large language model (LLM) designed for healthcare applications. It addresses the challenges of patient consultation, clinical reasoning, and the use of electronic health records by employing a unique human-gated self-evolution loop for training. This approach allows the model to improve iteratively by focusing on specific capabilities and refining its training data based on observed failures. As a result, Cura 1T demonstrates superior performance in healthcare evaluations while maintaining competitiveness in broader reasoning tasks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.16051",
-            "title": "Loop the Loopies!",
-            "url": "https://huggingface.co/papers/2607.16051",
-            "abstract": "Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N-fold increase in pre-training compute, increasing the parameter count by a factor of N usually outperforms looping a model N times. Loopie addresses this challenge. Extensive ablation studies, including comparisons with a vanilla 30B-A3B model, show that Loopie substantially outperforms vanilla Transformer baselines trained with the same compute budget. Our novel post-training pipeline equips Loopie with strong reasoning abilities. At the 2025 IMO and IPhO, Loopie achieves gold-medal performance without tools.",
-            "score": 33,
-            "issue_id": 2860,
-            "pub_date": "2026-07-17",
-            "pub_date_card": {
-                "ru": "17 июля",
-                "en": "July 17",
-                "zh": "7月17日"
-            },
-            "hash": "2e709d98c4009b6f",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zitian Gao",
-                "Yilong Chen",
-                "Yihao Xiao",
-                "Xinyu Yang",
-                "Ran Tao",
-                "Joey Zhou",
-                "Bryan Dai"
-            ],
-            "affiliations": [
-                "IQuest Research"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.16051.jpg",
-            "data": {
-                "categories": [
-                    "#architecture",
-                    "#training",
-                    "#reasoning",
-                    "#optimization"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Loopie: Прорыв в трансформерах!",
-                    "desc": "Статья представляет Loopie, самый мощный трансформер с петлями на сегодняшний день. Серия Loopie включает модели Mixture-of-Experts (MoE) с 20 миллиардами параметров и 6 миллиардами параметров, каждая из которых имеет активные параметры для эффективной работы. Loopie решает проблему, когда увеличение количества параметров не всегда приводит к лучшему качеству в сравнении с увеличением вычислительных мощностей. Проведенные исследования показывают, что Loopie значительно превышает производительность традиционных трансформеров при одинаковом бюджете вычислений и обладает отличными способностями к рассуждению."
-                },
-                "en": {
-                    "title": "Loopie: Revolutionizing Looped Transformers with MoE",
-                    "desc": "Loopie is a new type of looped Transformer that improves on previous models by using a Mixture-of-Experts (MoE) approach. It includes two models with different parameter sizes, allowing for efficient computation while maintaining high performance. Loopie overcomes the limitations of traditional looping by demonstrating that it can outperform models with a higher parameter count when trained with the same resources. Its advanced post-training techniques enhance its reasoning capabilities, leading to exceptional results in competitive settings."
                 }
             }
         },
@@ -468,7 +468,7 @@
             "title": "From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality",
             "url": "https://huggingface.co/papers/2607.13196",
             "abstract": "Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported review processes in which large language model (LLM) reviewers and AI agent reviewers participate alongside human reviewers. However, we still lack empirical evidence on how this transition affects review efficiency and review quality. In this paper, we study 1.02 million reviewed pull requests from 207 GitHub projects that transition across three code review eras: human-centric review, LLM-assisted review, and agentic code review. We identify three AI reviewer adoption practices: Gradual AI Adoption, Rapid LLM Adoption, and Rapid AI Agent Adoption. We further model pull request review discussions as reviewer interaction sequences to characterize how human, LLM, and AI agent reviewers collaborate during the review process. Our results show that agent-involved collaboration patterns, especially reviews initiated by AI agents or involving multiple AI agents, are associated with faster review decisions under Gradual AI Adoption and Rapid AI Agent Adoption. However, these efficiency gains do not translate into better review quality. We also find that review activity and pull request type remain important across eras, while human-AI collaboration patterns become the strongest explanatory factor for review efficiency once LLM and AI agent reviewers participate. These findings provide empirical guidance for designing AI-supported code review processes that improve efficiency without weakening review quality.",
-            "score": 19,
+            "score": 21,
             "issue_id": 2860,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -511,63 +511,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.16097",
-            "title": "Understanding Reasoning from Pretraining to Post-Training",
-            "url": "https://huggingface.co/papers/2607.16097",
-            "abstract": "Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (model size, data) shape the returns to RL compute, and (2) what does RL actually do to the model? These questions are difficult to study in the standard LLM setting: pretraining corpora are vast and uncontrolled, making it hard to attribute behaviors to pretraining versus RL, and systematic compute sweeps across both stages are prohibitively expensive. To address these challenges, we use chess as a controlled testbed for studying reasoning across the full pretraining-to-post-training pipeline. We follow the standard LLM training pipeline by pretraining language models from 5M to 1B parameters on human chess games, supervised fine-tuning on synthetic reasoning traces, and running RL on chess puzzles with verifiable rewards. Using this framework, we find that the post-RL performance at given RL compute level is well-predicted from the pretraining loss, and slope of the RL reward curves improves approximately linearly with the pretraining tokens. Beyond scaling, we find that RL does not simply sharpen the SFT policy: on easy puzzles it amplifies correct moves the SFT policy already preferred, while on hard puzzles it surfaces correct moves that were nearly absent under SFT. We further test whether our findings transfer beyond chess by training a 1B language model on math-domain text, where the same predictive pattern emerges: longer-pretrained checkpoints reach higher post-RL performance and improve faster under RL. In sum, we provide a quantitative account of the pretraining-to-RL interface and a controlled testbed for studying the science of reasoning across the full pretraining-to-post-training pipeline.",
-            "score": 13,
-            "issue_id": 2860,
-            "pub_date": "2026-07-17",
-            "pub_date_card": {
-                "ru": "17 июля",
-                "en": "July 17",
-                "zh": "7月17日"
-            },
-            "hash": "0f89244ec60354e4",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Jingyan Shen",
-                "Ang Li",
-                "Salman Rahman",
-                "Yifan Sun",
-                "Micah Goldblum",
-                "Matus Telgarsky",
-                "Pavel Izmailov"
-            ],
-            "affiliations": [
-                "Columbia University",
-                "New York University",
-                "University of California, Los Angeles",
-                "University of Illinois Urbana-Champaign"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.16097.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#dataset",
-                    "#reasoning",
-                    "#games",
-                    "#rl",
-                    "#transfer_learning"
-                ],
-                "emoji": "♟️",
-                "ru": {
-                    "title": "Влияние предварительного обучения на обучение с подкреплением",
-                    "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкреплением (RL) больших языковых моделей (LLM) в задачах сложного рассуждения. Авторы экспериментируют на шахматах, чтобы проанализировать, как различные параметры предварительного обучения (размер модели, данные) влияют на эффективность RL. Они находят, что производительность после обучения с подкреплением можно предсказать на основе потерь предварительного обучения. Также выясняется, что RL не просто улучшает уже существующую стратегию, а открывает новые эффективные ходы для сложных задач."
-                },
-                "en": {
-                    "title": "Unlocking the Power of Pretraining for Reinforcement Learning in Language Models",
-                    "desc": "This paper explores how pretraining choices affect the performance of reinforcement learning (RL) in large language models (LLMs) using chess as a testbed. It investigates the relationship between pretraining loss and post-RL performance, finding that better pretraining leads to improved RL outcomes. The study reveals that RL not only enhances the model's existing preferences but also uncovers new correct moves in challenging scenarios. Additionally, similar patterns are observed when applying the findings to math-domain text, indicating a broader applicability of the results."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.11699",
             "title": "Qwen-Music Technical Report",
             "url": "https://huggingface.co/papers/2607.11699",
             "abstract": "Abstract  In this report, we introduce Qwen-Music, a powerful music generation model capable of producing highly musical and high-fidelity songs with complete vocal singing. Qwen-Music supports two core tasks: Text to Music Generation, which create entirely new songs from text descriptions, lyrics, and musical attributes, and Cover Song Generation, which reinterprets existing songs with different styles and vocal characteristics. Architecturally, Qwen-Music integrates three core components: Qwen-Music-Tokenizer, Qwen-Music-LLM, and Qwen-Music-Render. Qwen-Music-Tokenizer compresses audio into a 25 Hz single-codebook stream of Music Semantic Tokens that preserve semantic and melodic information for LLM prediction. Based on these tokens, Qwen-Music-LLM performs autoregressive music semantic modeling, with a key novelty being a melody-token-based chain-of-thought (Melody-CoT) mechanism that plans melodies before full-song generation, improving creativity, musicality, structural coherence, and reference-audio-based melody cloning. To overcome the fidelity limitations of discrete semantic tokens, Qwen-Music-Render performs generative stereo rendering, enriching acoustic details and producing high-fidelity stereo waveforms. Finally, we train Qwen-Music-LLM on more than 5 million hours of multilingual music data covering hundreds of languages. We first apply quality-aware pre-training curriculum, then use progressive post-training, comprising supervised initialization, offline DPO, and online GSPO, to further improve musicality and instruction-following ability. Across 600 Chinese and English prompts, Qwen-Music achieves state-of-the-art results in 13 of 16 objective musicality and audio-quality metrics. Professional evaluators also prefer Qwen-Music over leading proprietary systems. For cover song generation, Qwen-Music preserves reference melodies more accurately than leading proprietary systems.",
-            "score": 13,
+            "score": 15,
             "issue_id": 2861,
             "pub_date": "2026-07-13",
             "pub_date_card": {
@@ -625,6 +573,58 @@
                 "en": {
                     "title": "Revolutionizing Music Creation with Qwen-Music",
                     "desc": "Qwen-Music is an advanced music generation model that creates high-quality songs with vocals. It can generate new music from text descriptions and reinterpret existing songs in different styles. The model uses a unique approach called Melody-CoT to enhance creativity and coherence in music composition. Trained on a vast dataset, Qwen-Music outperforms other systems in musicality and audio quality metrics."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.16097",
+            "title": "Understanding Reasoning from Pretraining to Post-Training",
+            "url": "https://huggingface.co/papers/2607.16097",
+            "abstract": "Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (model size, data) shape the returns to RL compute, and (2) what does RL actually do to the model? These questions are difficult to study in the standard LLM setting: pretraining corpora are vast and uncontrolled, making it hard to attribute behaviors to pretraining versus RL, and systematic compute sweeps across both stages are prohibitively expensive. To address these challenges, we use chess as a controlled testbed for studying reasoning across the full pretraining-to-post-training pipeline. We follow the standard LLM training pipeline by pretraining language models from 5M to 1B parameters on human chess games, supervised fine-tuning on synthetic reasoning traces, and running RL on chess puzzles with verifiable rewards. Using this framework, we find that the post-RL performance at given RL compute level is well-predicted from the pretraining loss, and slope of the RL reward curves improves approximately linearly with the pretraining tokens. Beyond scaling, we find that RL does not simply sharpen the SFT policy: on easy puzzles it amplifies correct moves the SFT policy already preferred, while on hard puzzles it surfaces correct moves that were nearly absent under SFT. We further test whether our findings transfer beyond chess by training a 1B language model on math-domain text, where the same predictive pattern emerges: longer-pretrained checkpoints reach higher post-RL performance and improve faster under RL. In sum, we provide a quantitative account of the pretraining-to-RL interface and a controlled testbed for studying the science of reasoning across the full pretraining-to-post-training pipeline.",
+            "score": 13,
+            "issue_id": 2860,
+            "pub_date": "2026-07-17",
+            "pub_date_card": {
+                "ru": "17 июля",
+                "en": "July 17",
+                "zh": "7月17日"
+            },
+            "hash": "0f89244ec60354e4",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Jingyan Shen",
+                "Ang Li",
+                "Salman Rahman",
+                "Yifan Sun",
+                "Micah Goldblum",
+                "Matus Telgarsky",
+                "Pavel Izmailov"
+            ],
+            "affiliations": [
+                "Columbia University",
+                "New York University",
+                "University of California, Los Angeles",
+                "University of Illinois Urbana-Champaign"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.16097.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#dataset",
+                    "#reasoning",
+                    "#games",
+                    "#rl",
+                    "#transfer_learning"
+                ],
+                "emoji": "♟️",
+                "ru": {
+                    "title": "Влияние предварительного обучения на обучение с подкреплением",
+                    "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкреплением (RL) больших языковых моделей (LLM) в задачах сложного рассуждения. Авторы экспериментируют на шахматах, чтобы проанализировать, как различные параметры предварительного обучения (размер модели, данные) влияют на эффективность RL. Они находят, что производительность после обучения с подкреплением можно предсказать на основе потерь предварительного обучения. Также выясняется, что RL не просто улучшает уже существующую стратегию, а открывает новые эффективные ходы для сложных задач."
+                },
+                "en": {
+                    "title": "Unlocking the Power of Pretraining for Reinforcement Learning in Language Models",
+                    "desc": "This paper explores how pretraining choices affect the performance of reinforcement learning (RL) in large language models (LLMs) using chess as a testbed. It investigates the relationship between pretraining loss and post-RL performance, finding that better pretraining leads to improved RL outcomes. The study reveals that RL not only enhances the model's existing preferences but also uncovers new correct moves in challenging scenarios. Additionally, similar patterns are observed when applying the findings to math-domain text, indicating a broader applicability of the results."
                 }
             }
         },
@@ -727,6 +727,56 @@
                 "en": {
                     "title": "Optimizing Harnesses for Better Learning Efficiency",
                     "desc": "This paper introduces a new approach called Recursive Harness Self-Improvement (RHI) that optimizes harnesses, which are tools that help improve machine learning models. RHI focuses on enhancing the quality of execution traces generated during the learning process while minimizing computational costs. By using pairwise feedback and refining the harness iteratively, RHI can significantly boost the performance of agents across various tasks. The results show that RHI improves task-specific context management and reduces inference costs, making it a valuable method for continual learning in model-harness co-evolution."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.14088",
+            "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+            "url": "https://huggingface.co/papers/2607.14088",
+            "abstract": "Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundation Models (VFMs) such as V-JEPA 2 and VideoMAEv2 show strong video understanding capabilities, yet whether their frozen representations can be transformed into compact, reconstruction-capable, and generation-friendly video latents remains largely unexplored. We answer this question with VideoRAE, a representation autoencoder that leverages multi-scale hierarchical features from a frozen video foundation encoder and compresses them with a lightweight 1D self-attention projector. VideoRAE supports both continuous latents for Diffusion Transformers and discrete tokens for autoregressive models via multi-codebook high-dimensional quantization. During decoding, a local-and-global representation alignment objective with the frozen VFM teacher improves semantic preservation and enables training without KL regularization. Experiments show that VideoRAE achieves strong reconstruction in both continuous and discrete regimes. On UCF-101, it obtains state-of-the-art class-to-video gFVDs of 40 and 93 with AR and DiT generators, respectively, while converging approximately 5x faster than competing autoencoder baselines. In a controlled 2B-scale text-to-video study, replacing LTX-VAE with VideoRAE leads to faster convergence under comparable settings. These results validate frozen VFM representations as versatile and generation-friendly video latents. The model and code will be released on https://zhxie0117.github.io/VideoRAE.",
+            "score": 7,
+            "issue_id": 2861,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "de6230c2d5688641",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhihao Xie",
+                "Junfeng Wu",
+                "Xinting Hu",
+                "Junchao Huang",
+                "Li Jiang"
+            ],
+            "affiliations": [
+                "Huazhong University of Science and Technology",
+                "Shenzhen Loop Area Institute",
+                "The Chinese University of Hong Kong, Shenzhen",
+                "University of Science and Technology of China"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14088.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#3d",
+                    "#architecture",
+                    "#training",
+                    "#diffusion",
+                    "#optimization"
+                ],
+                "emoji": "🎬",
+                "ru": {
+                    "title": "VideoRAE: новый подход к генерации видео",
+                    "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFMs) для генерации видео. Модель сочетает многоуровневые иерархические функции и сжимает их с помощью легкого проектора 1D самовнимания. VideoRAE поддерживает как непрерывные латенты для диффузионных трансформеров, так и дискретные токены для авторегрессионных моделей. В экспериментах модель продемонстрировала высокое качество реконструкции и быструю сходимость по сравнению с конкурентами."
+                },
+                "en": {
+                    "title": "Transforming Video Understanding into Efficient Generation",
+                    "desc": "This paper introduces VideoRAE, a novel representation autoencoder that transforms frozen representations from Video Foundation Models into efficient video latents. By utilizing multi-scale hierarchical features and a lightweight self-attention projector, VideoRAE enhances both semantic preservation and reconstruction capabilities. It supports various latent formats for different generative models, achieving state-of-the-art performance in video generation tasks. The results demonstrate that VideoRAE converges faster than traditional autoencoders while maintaining high-quality video outputs."
                 }
             }
         },
@@ -911,56 +961,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.14088",
-            "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
-            "url": "https://huggingface.co/papers/2607.14088",
-            "abstract": "Abstract  Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can limit the semantic and spatio-temporal structure captured by their latents. Meanwhile, Video Foundation Models (VFMs) such as V-JEPA 2 and VideoMAEv2 show strong video understanding capabilities, yet whether their frozen representations can be transformed into compact, reconstruction-capable, and generation-friendly video latents remains largely unexplored. We answer this question with VideoRAE, a representation autoencoder that leverages multi-scale hierarchical features from a frozen video foundation encoder and compresses them with a lightweight 1D self-attention projector. VideoRAE supports both continuous latents for Diffusion Transformers and discrete tokens for autoregressive models via multi-codebook high-dimensional quantization. During decoding, a local-and-global representation alignment objective with the frozen VFM teacher improves semantic preservation and enables training without KL regularization. Experiments show that VideoRAE achieves strong reconstruction in both continuous and discrete regimes. On UCF-101, it obtains state-of-the-art class-to-video gFVDs of 40 and 93 with AR and DiT generators, respectively, while converging approximately 5x faster than competing autoencoder baselines. In a controlled 2B-scale text-to-video study, replacing LTX-VAE with VideoRAE leads to faster convergence under comparable settings. These results validate frozen VFM representations as versatile and generation-friendly video latents. The model and code will be released on https://zhxie0117.github.io/VideoRAE.",
-            "score": 5,
-            "issue_id": 2861,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "de6230c2d5688641",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhihao Xie",
-                "Junfeng Wu",
-                "Xinting Hu",
-                "Junchao Huang",
-                "Li Jiang"
-            ],
-            "affiliations": [
-                "Huazhong University of Science and Technology",
-                "Shenzhen Loop Area Institute",
-                "The Chinese University of Hong Kong, Shenzhen",
-                "University of Science and Technology of China"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14088.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#3d",
-                    "#architecture",
-                    "#training",
-                    "#diffusion",
-                    "#optimization"
-                ],
-                "emoji": "🎬",
-                "ru": {
-                    "title": "VideoRAE: новый подход к генерации видео",
-                    "desc": "В данной статье представлена модель VideoRAE, которая использует замороженные представления Video Foundation Models (VFMs) для генерации видео. Модель сочетает многоуровневые иерархические функции и сжимает их с помощью легкого проектора 1D самовнимания. VideoRAE поддерживает как непрерывные латенты для диффузионных трансформеров, так и дискретные токены для авторегрессионных моделей. В экспериментах модель продемонстрировала высокое качество реконструкции и быструю сходимость по сравнению с конкурентами."
-                },
-                "en": {
-                    "title": "Transforming Video Understanding into Efficient Generation",
-                    "desc": "This paper introduces VideoRAE, a novel representation autoencoder that transforms frozen representations from Video Foundation Models into efficient video latents. By utilizing multi-scale hierarchical features and a lightweight self-attention projector, VideoRAE enhances both semantic preservation and reconstruction capabilities. It supports various latent formats for different generative models, achieving state-of-the-art performance in video generation tasks. The results demonstrate that VideoRAE converges faster than traditional autoencoders while maintaining high-quality video outputs."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.15901",
             "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
             "url": "https://huggingface.co/papers/2607.15901",
@@ -1005,6 +1005,95 @@
                     "desc": "This paper presents a new approach to improve the efficiency of autonomous data science agents by predicting the outcomes of data science operations before they are executed. It introduces the Data Science World Model, which anticipates changes in the data science environment based on current workflows and potential actions. The proposed DSWorld framework integrates structured state construction and a lightweight simulator to enhance decision-making while reducing computational costs. Experiments demonstrate that DSWorld significantly speeds up training and inference processes while outperforming existing models in transition prediction tasks."
                 }
             }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.11498",
+            "title": "See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models",
+            "url": "https://huggingface.co/papers/2607.11498",
+            "abstract": "Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed and where actions are defined. The mismatch is benign under a fixed viewpoint, where the policy can memorize a single observation-to-action mapping, but grows harder as large-scale datasets aggregate demonstrations across diverse camera setups and the policy must generalize this mapping across viewpoints. We address this mismatch with robot-centric pointmaps, images whose pixels store the 3D coordinates of scene points in the robot frame. Pointmaps provide robot-frame 3D geometry while preserving the dense H x W grid expected by pretrained 2D VLAs, so they integrate into existing VLAs with minimal architectural change. On RoboCasa, pointmaps improve both pi0.5 and SmolVLA and outperform representative camera-viewpoint and 3D-aware baselines. In real-robot experiments, their advantage over an RGB-only policy widens when the camera is moved to a placement unseen during training.",
+            "score": 1,
+            "issue_id": 2863,
+            "pub_date": "2026-07-13",
+            "pub_date_card": {
+                "ru": "13 июля",
+                "en": "July 13",
+                "zh": "7月13日"
+            },
+            "hash": "8bd1d85cb87c09ba",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Byungkun Lee",
+                "Dongyoon Hwang",
+                "Dongjin Kim",
+                "Hojoon Lee",
+                "Minho Park",
+                "Jaegul Choo"
+            ],
+            "affiliations": [
+                "Holiday Robotics",
+                "KAIST AI"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.11498.jpg",
+            "data": {
+                "categories": [
+                    "#transfer_learning",
+                    "#games",
+                    "#agents",
+                    "#3d",
+                    "#training"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Устранение несовпадения координат: точечные карты для роботов",
+                    "desc": "Модели, объединяющие визуальные данные, язык и действия (VLA), предсказывают действия робота на основе визуальных наблюдений и языковых инструкций. В данной статье рассматривается проблема несовпадения координатных систем робота и камеры, которое затрудняет обобщение действий при различных ракурсах. Для решения этой проблемы используются точечные карты, которые представляют собой изображения, хранящие 3D-координаты точек сцены в системе координат робота. Результаты опытов показывают, что точечные карты значительно улучшают производительность по сравнению с традиционными методами, особенно при изменении положения камеры."
+                },
+                "en": {
+                    "title": "Bridging the Frame Gap for Robot Actions",
+                    "desc": "This paper introduces vision-language-action (VLA) models that enable robots to perform actions based on visual inputs and language commands. A key challenge is the mismatch between the robot's 3D action space and the 2D camera frame used for observation. The authors propose robot-centric pointmaps, which represent 3D scene points in the robot's coordinate system while maintaining a 2D grid format. Their approach enhances performance on the RoboCasa dataset, demonstrating improved generalization across different camera viewpoints compared to traditional methods."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.07690",
+            "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+            "url": "https://huggingface.co/papers/2607.07690",
+            "abstract": "Abstract  Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, a two-stage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPO's pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space.",
+            "score": 1,
+            "issue_id": 2863,
+            "pub_date": "2026-07-08",
+            "pub_date_card": {
+                "ru": "8 июля",
+                "en": "July 8",
+                "zh": "7月8日"
+            },
+            "hash": "220fb5efc7fb0d71",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Vladislav Beliaev"
+            ],
+            "affiliations": [],
+            "pdf_title_img": "assets/pdf/title_img/2607.07690.jpg",
+            "data": {
+                "categories": [
+                    "#optimization",
+                    "#agents",
+                    "#rl",
+                    "#rlhf",
+                    "#reasoning",
+                    "#training"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Обучение конкурирующих моделей для улучшения мышления",
+                    "desc": "В данной статье представлен подход к обучению с подкреплением, основанный на взаимодействии двух моделей, называемый Agon. Каждая модель решает одну и ту же задачу, чередуя роли: одна составляет решение, а другая его считывает и сопоставляет. Это позволяет моделям оценивать друг друга, что обеспечивает более качественное мышление вместо простого написания ответов. В результате такая стратегия увеличивает точность и эффективность, показывая значительное улучшение на сложных задачах, таких как DeepMath."
+                },
+                "en": {
+                    "title": "Agon: Competing Models for Enhanced Reasoning in Reinforcement Learning",
+                    "desc": "This paper introduces Agon, a novel approach to reinforcement learning where two models compete against each other to improve reasoning skills. Instead of grading only the final answer, both models draft solutions and evaluate each other's work, promoting implicit reasoning during training. This method allows models to face progressively stronger opponents, enhancing their problem-solving abilities without needing explicit process labels. The results show significant improvements in performance on challenging tasks, demonstrating the effectiveness of this competitive training framework."
+                }
+            }
         }
     ],
     "link_prev": "2026-07-17.html",
@@ -1024,30 +1113,30 @@
         "#dataset": 6,
         "#data": 0,
         "#benchmark": 5,
-        "#agents": 8,
-        "#rl": 5,
-        "#rlhf": 1,
+        "#agents": 10,
+        "#rl": 6,
+        "#rlhf": 2,
         "#rag": 1,
         "#plp": 0,
         "#inference": 0,
-        "#3d": 1,
+        "#3d": 2,
         "#audio": 2,
         "#multimodal": 5,
         "#math": 0,
         "#multilingual": 1,
         "#architecture": 4,
         "#healthcare": 1,
-        "#training": 16,
+        "#training": 18,
         "#robotics": 1,
         "#agi": 4,
-        "#games": 2,
+        "#games": 3,
         "#interpretability": 1,
-        "#reasoning": 8,
-        "#transfer_learning": 4,
+        "#reasoning": 9,
+        "#transfer_learning": 5,
         "#graphs": 1,
         "#ethics": 0,
         "#security": 0,
-        "#optimization": 11,
+        "#optimization": 12,
         "#survey": 0,
         "#diffusion": 1,
         "#alignment": 1,
