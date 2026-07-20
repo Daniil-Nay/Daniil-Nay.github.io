@@ -4,9 +4,9 @@
         "en": "July 20",
         "zh": "7月20日"
     },
-    "time_utc": "2026-07-20 14:03",
+    "time_utc": "2026-07-20 16:24",
     "weekday": 0,
-    "issue_id": 2863,
+    "issue_id": 2864,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
             "url": "https://huggingface.co/papers/2607.11683",
             "abstract": "Abstract  Graph retrieval-augmented generation (GraphRAG) enhances large language models with structured knowledge, yet existing systems construct knowledge graphs in a single extraction pass, producing noisy entities and brittle retrieval. RAGU, an open-source modular GraphRAG engine, addresses this by separating extraction from consolidation: entities and relations pass through two-stage typed extraction, DBSCAN-backed deduplication, LLM summarization, and Leiden community detection. A key insight motivates a compact extractor: the skills an in-pipeline LLM needs - comprehension, extraction, reasoning over context - are language skills that grow only weakly with model size, unlike factual world knowledge. Accordingly, we train Meno-Lite-0.1, a 7B model optimized for language skills, which outperforms Qwen2.5-32B on knowledge-graph construction (+12.5% relative harmonic mean) and matches it on English GraphRAG tasks. On GraphRAG-Bench (Medical), RAGU retrieves the most complete context at every factoid level (evidence recall up to 0.84 vs. leq0.76) and overtakes HippoRAG2 on synthesis tasks; on multi-hop factoid QA, the apparent HippoRAG2 advantage is shown to be largely an answer-format artifact. RAGU is installable via pip install graph_ragu, runs on a single GPU, and is released under MIT. The source code is publicly available at https://github.com/RaguTeam/RAGU, and the Meno-Lite-0.1 model can be obtained from https://huggingface.co/bond005/meno-lite-0.1.",
-            "score": 65,
+            "score": 100,
             "issue_id": 2861,
             "pub_date": "2026-07-13",
             "pub_date_card": {
@@ -66,7 +66,7 @@
             "title": "RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources",
             "url": "https://huggingface.co/papers/2606.29538",
             "abstract": "Abstract  Skills are a useful abstraction for software agents, turning human and agent experience into reusable procedural knowledge. Yet existing skill libraries are mostly hand-written, text-centric, or derived from agent traces, leaving tutorial videos and other multimodal human resources largely underused. We present RESOURCE2SKILL, a framework that distills multimodal resources, including tutorial videos, repositories, articles, and reference artifacts, into executable skills for software agents. RESOURCE2SKILL organizes these skills as a hierarchical multimodal Skill Wiki, where each entry combines structured text, code, visual examples, metadata, and provenance. This design preserves complementary signals from different resources: videos capture temporal operations and visual effects, code captures executable tool patterns, and articles or artifacts provide conceptual and stylistic grounding. At inference time, agents retrieve and compose relevant skills from the wiki; when coverage is insufficient, the same construction operator can acquire new skills online. Across seven practical authoring domains, RESOURCE2SKILL improves average overall score by +11.9 percentage points over no-skill agents and outperforms strong harness baselines in 26 of 28 main-aggregate model-domain cells. Ablations confirm the value of multimodal skill format, hierarchical organization, source diversity, selection strategy, and online acquisition.",
-            "score": 60,
+            "score": 87,
             "issue_id": 2862,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -121,7 +121,7 @@
             "title": "Loop the Loopies!",
             "url": "https://huggingface.co/papers/2607.16051",
             "abstract": "Abstract  We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N-fold increase in pre-training compute, increasing the parameter count by a factor of N usually outperforms looping a model N times. Loopie addresses this challenge. Extensive ablation studies, including comparisons with a vanilla 30B-A3B model, show that Loopie substantially outperforms vanilla Transformer baselines trained with the same compute budget. Our novel post-training pipeline equips Loopie with strong reasoning abilities. At the 2025 IMO and IPhO, Loopie achieves gold-medal performance without tools.",
-            "score": 47,
+            "score": 51,
             "issue_id": 2860,
             "pub_date": "2026-07-17",
             "pub_date_card": {
@@ -168,7 +168,7 @@
             "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
             "url": "https://huggingface.co/papers/2607.15330",
             "abstract": "Abstract  We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-tuning data. We propose a two-stage training recipe consisting of pre-training and post-training. During pre-training, we imbue the model with broad and generalizable action-generation capabilities by training on over 100k hours of real-world manipulation trajectories collected via UMI devices. Crucially, we develop a scalable auto-labeling pipeline that annotates trajectory clips with natural languages describing scene state transitions, providing rich and precise conditioning for action learning. During post-training, we aim to align these capabilities with robot embodiments and imperative instructions that humans naturally use to prompt robots. Extensive experiments demonstrate strong scaling behavior. Xiaomi-Robotics-1 consistently improves with increased data scales and model sizes during pre-training. This scaling behavior directly transfers to post-training, where a stronger pre-training model yields better out-of-the-box real-robot performance in unseen environments. Furthermore, Xiaomi-Robotics-1 serves as a strong robot foundation policy that can be efficiently fine-tuned on complex, dexterous tasks with high data efficiency. Across multiple simulation benchmarks, Xiaomi-Robotics-1 outperforms state-of-the-art methods. Notably, it establishes a new state-of-the-art with a 57.6% success rate on RoboCasa365, surpassing the previous best of 46.6%. Furthermore, it achieves an average score of 20.07 on RoboDojo, significantly outperforming the prior state-of-the-art (13.07). Code and model checkpoints will be released. Project page: https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-            "score": 44,
+            "score": 50,
             "issue_id": 2861,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -246,7 +246,7 @@
             "title": "xHC: Expanded Hyper-Connections",
             "url": "https://huggingface.co/papers/2607.14530",
             "abstract": "Abstract  Hyper-Connections (HC) expand the residual stream of Transformers into N parallel streams, providing a form of memory scaling beyond model width and depth. Manifold-Constrained HC (mHC) stabilizes this formulation at scale. The large gains from N{=}1 to N{=}4 suggest residual-stream expansion as a promising scaling axis. However, existing HC-family methods typically stop at N{=}4. Our experiments reveal why: scaling mHC beyond this point yields diminishing performance gains and rapidly increasing training cost. We attribute this limitation to two bottlenecks: insufficient write-back information for an expanding number of streams and residual-mixing generation whose cost scales cubically with N. To address both bottlenecks, we propose xHC (Expanded Hyper-Connections), the first HC-family method to achieve meaningful expansion beyond N{=}4. xHC combines temporal feature augmentation for richer write-back with a sparse residual-stream architecture that updates only k=4 of the N=16 streams while retaining dense access to the full residual state. Across 18B and 28B MoE models, xHC delivers strong and consistent downstream improvements. On an 18B MoE model, xHC improves the average downstream score by 4.0 points over mHC, while adding only modest training FLOPs over the vanilla baseline. Scaling-law experiments show that the vanilla and mHC require 1.50times and 1.19times the compute of xHC, respectively, to reach the same loss. Practical large-N training also requires controlling memory traffic from the expanded residual state. We therefore introduce xHC-Flash, which reduces the per-sublayer memory traffic from 73.5C to 40C, comparable to the 34C required by mHC at N{=}4, while retaining the gains of full xHC. Together, xHC and xHC-Flash make large-N residual-stream expansion effective and practical for LLM pre-training.",
-            "score": 44,
+            "score": 45,
             "issue_id": 2860,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -304,7 +304,7 @@
             "title": "Cura 1T: Specialized Model for Agentic Healthcare",
             "url": "https://huggingface.co/papers/2607.15314",
             "abstract": "Abstract  Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in different ways, and a narrow update for one task can degrade another. We present Cura 1T, a healthcare-specialized LLM trained through a human-gated self-evolution loop. In each evolution round, a training agent plans a target capability, trains the model, evaluates benchmark trajectories, and refines the data mixture from observed failures. This data-centered loop improves the model through targeted synthetic and curated examples rather than a single generic medical-data update. Across the healthcare evaluation suite, Cura 1T ranks at or near the top among frontier baselines, while remaining competitive on out-of-domain reasoning and agentic benchmarks.",
-            "score": 36,
+            "score": 38,
             "issue_id": 2860,
             "pub_date": "2026-07-15",
             "pub_date_card": {
@@ -359,7 +359,7 @@
             "title": "RecGPT-V3 Technical Report",
             "url": "https://huggingface.co/papers/2607.15591",
             "abstract": "Abstract  Large language models (LLMs) are transforming recommender systems from matching co-occurrence patterns in historical behavior toward reasoning about the intent that drives it. RecGPT-V1 pioneered this paradigm on Taobao by centering user understanding, and RecGPT-V2 scaled it via coordinated multi-agent reasoning; both are deployed in production with consistent gains in user experience and commercial outcomes. However, operating RecGPT at scale reveals three challenges: (1) stateless behavior modeling, where each request reprocesses full user history, wasting computation and discarding prior analysis; (2) a tag-to-item information bottleneck, where natural-language tags form a lossy channel between user understanding and item grounding; and (3) inefficient explicit reasoning, whose lengthy chain-of-thought incurs untenable latency and compute overhead.   We present RecGPT-V3, a stateful, hybrid-modal recommender that reasons over natural language for open-world knowledge and Semantic IDs (SIDs) for concrete item grounding. A Memory Hub maintains structured, continually evolving user memory that distills long-horizon behavior into condensed units, cutting user-modeling computation by 55.8%. A Hybrid-modal Foundation Model allows the LLM jointly reason over text tags and SIDs, opening a high-bandwidth channel into the item space. Latent Intent Reasoning internalizes verbose rationales into compact learnable latent tokens that remain decodable into readable explanations, lowering output token cost by 200x. Deployed in Taobao's \"Guess What You Like\" feed, RecGPT-V3 achieves consistent gains in large-scale online A/B tests: IPV +1.28%, CTR +1.00%, TC +1.97%, GMV +3.97%, while cutting end-to-end serving resource consumption by 52.4%.",
-            "score": 23,
+            "score": 24,
             "issue_id": 2860,
             "pub_date": "2026-07-17",
             "pub_date_card": {
@@ -424,7 +424,7 @@
             "title": "On-Policy Delta Distillation",
             "url": "https://huggingface.co/papers/2607.15161",
             "abstract": "Abstract  On-policy distillation is an alternative post-training method in reinforcement learning that alleviates the constraints imposed by reward models by providing token-level supervision from a teacher model. Although on-policy distillation has been studied and applied across various settings, its fundamental design remains underexplored. In this paper, we introduce a new distillation reward, termed the delta signal, instead of directly imitating the teacher's output distribution. The delta signal is defined as the difference between the teacher model and its base model prior to instruction tuning for reasoning capability. It therefore captures the changes induced by reasoning tuning and provides a more direct signal for transferring reasoning capabilities. Using extensive empirical evidence, we show that the delta signal substantially improves on-policy distillation and refer to the new distillation method as On-Policy Delta Distillation (OPD^2). Experiments across mathematics, science, and code-reasoning benchmarks demonstrate that OPD^2 consistently outperforms conventional on-policy distillation, enabling reasoning LLMs to achieve strong performance with only a short post-training period. Code will be available at https://github.com/naver-ai/opd2",
-            "score": 21,
+            "score": 24,
             "issue_id": 2861,
             "pub_date": "2026-07-16",
             "pub_date_card": {
@@ -468,7 +468,7 @@
             "title": "From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality",
             "url": "https://huggingface.co/papers/2607.13196",
             "abstract": "Abstract  Code review helps maintain software quality before code integration, but it also imposes a substantial workload on human reviewers. As generative artificial intelligence becomes part of software development, code review is shifting from a primarily human review process toward AI-supported review processes in which large language model (LLM) reviewers and AI agent reviewers participate alongside human reviewers. However, we still lack empirical evidence on how this transition affects review efficiency and review quality. In this paper, we study 1.02 million reviewed pull requests from 207 GitHub projects that transition across three code review eras: human-centric review, LLM-assisted review, and agentic code review. We identify three AI reviewer adoption practices: Gradual AI Adoption, Rapid LLM Adoption, and Rapid AI Agent Adoption. We further model pull request review discussions as reviewer interaction sequences to characterize how human, LLM, and AI agent reviewers collaborate during the review process. Our results show that agent-involved collaboration patterns, especially reviews initiated by AI agents or involving multiple AI agents, are associated with faster review decisions under Gradual AI Adoption and Rapid AI Agent Adoption. However, these efficiency gains do not translate into better review quality. We also find that review activity and pull request type remain important across eras, while human-AI collaboration patterns become the strongest explanatory factor for review efficiency once LLM and AI agent reviewers participate. These findings provide empirical guidance for designing AI-supported code review processes that improve efficiency without weakening review quality.",
-            "score": 21,
+            "score": 23,
             "issue_id": 2860,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -507,6 +507,58 @@
                 "en": {
                     "title": "Enhancing Code Review Efficiency with AI: A Double-Edged Sword",
                     "desc": "This paper explores the transition of code review processes from human-centric methods to AI-supported approaches involving large language models (LLMs) and AI agents. By analyzing over a million pull requests from GitHub, the authors identify three adoption practices for AI reviewers and model the interactions between human and AI reviewers. The study finds that while AI involvement can speed up review decisions, it does not necessarily improve the quality of the reviews. The results highlight the importance of human-AI collaboration patterns in enhancing review efficiency, suggesting that careful design of AI-supported processes is crucial for maintaining software quality."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.16097",
+            "title": "Understanding Reasoning from Pretraining to Post-Training",
+            "url": "https://huggingface.co/papers/2607.16097",
+            "abstract": "Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (model size, data) shape the returns to RL compute, and (2) what does RL actually do to the model? These questions are difficult to study in the standard LLM setting: pretraining corpora are vast and uncontrolled, making it hard to attribute behaviors to pretraining versus RL, and systematic compute sweeps across both stages are prohibitively expensive. To address these challenges, we use chess as a controlled testbed for studying reasoning across the full pretraining-to-post-training pipeline. We follow the standard LLM training pipeline by pretraining language models from 5M to 1B parameters on human chess games, supervised fine-tuning on synthetic reasoning traces, and running RL on chess puzzles with verifiable rewards. Using this framework, we find that the post-RL performance at given RL compute level is well-predicted from the pretraining loss, and slope of the RL reward curves improves approximately linearly with the pretraining tokens. Beyond scaling, we find that RL does not simply sharpen the SFT policy: on easy puzzles it amplifies correct moves the SFT policy already preferred, while on hard puzzles it surfaces correct moves that were nearly absent under SFT. We further test whether our findings transfer beyond chess by training a 1B language model on math-domain text, where the same predictive pattern emerges: longer-pretrained checkpoints reach higher post-RL performance and improve faster under RL. In sum, we provide a quantitative account of the pretraining-to-RL interface and a controlled testbed for studying the science of reasoning across the full pretraining-to-post-training pipeline.",
+            "score": 17,
+            "issue_id": 2860,
+            "pub_date": "2026-07-17",
+            "pub_date_card": {
+                "ru": "17 июля",
+                "en": "July 17",
+                "zh": "7月17日"
+            },
+            "hash": "0f89244ec60354e4",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Jingyan Shen",
+                "Ang Li",
+                "Salman Rahman",
+                "Yifan Sun",
+                "Micah Goldblum",
+                "Matus Telgarsky",
+                "Pavel Izmailov"
+            ],
+            "affiliations": [
+                "Columbia University",
+                "New York University",
+                "University of California, Los Angeles",
+                "University of Illinois Urbana-Champaign"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.16097.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#dataset",
+                    "#reasoning",
+                    "#games",
+                    "#rl",
+                    "#transfer_learning"
+                ],
+                "emoji": "♟️",
+                "ru": {
+                    "title": "Влияние предварительного обучения на обучение с подкреплением",
+                    "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкреплением (RL) больших языковых моделей (LLM) в задачах сложного рассуждения. Авторы экспериментируют на шахматах, чтобы проанализировать, как различные параметры предварительного обучения (размер модели, данные) влияют на эффективность RL. Они находят, что производительность после обучения с подкреплением можно предсказать на основе потерь предварительного обучения. Также выясняется, что RL не просто улучшает уже существующую стратегию, а открывает новые эффективные ходы для сложных задач."
+                },
+                "en": {
+                    "title": "Unlocking the Power of Pretraining for Reinforcement Learning in Language Models",
+                    "desc": "This paper explores how pretraining choices affect the performance of reinforcement learning (RL) in large language models (LLMs) using chess as a testbed. It investigates the relationship between pretraining loss and post-RL performance, finding that better pretraining leads to improved RL outcomes. The study reveals that RL not only enhances the model's existing preferences but also uncovers new correct moves in challenging scenarios. Additionally, similar patterns are observed when applying the findings to math-domain text, indicating a broader applicability of the results."
                 }
             }
         },
@@ -577,63 +629,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.16097",
-            "title": "Understanding Reasoning from Pretraining to Post-Training",
-            "url": "https://huggingface.co/papers/2607.16097",
-            "abstract": "Abstract  Reinforcement learning (RL) has become central to improving large language models (LLMs) on complex reasoning tasks, yet RL post-training is largely studied in isolation from the pretraining that precedes it. As a result, two basic questions remain open: (1) how do pretraining choices (model size, data) shape the returns to RL compute, and (2) what does RL actually do to the model? These questions are difficult to study in the standard LLM setting: pretraining corpora are vast and uncontrolled, making it hard to attribute behaviors to pretraining versus RL, and systematic compute sweeps across both stages are prohibitively expensive. To address these challenges, we use chess as a controlled testbed for studying reasoning across the full pretraining-to-post-training pipeline. We follow the standard LLM training pipeline by pretraining language models from 5M to 1B parameters on human chess games, supervised fine-tuning on synthetic reasoning traces, and running RL on chess puzzles with verifiable rewards. Using this framework, we find that the post-RL performance at given RL compute level is well-predicted from the pretraining loss, and slope of the RL reward curves improves approximately linearly with the pretraining tokens. Beyond scaling, we find that RL does not simply sharpen the SFT policy: on easy puzzles it amplifies correct moves the SFT policy already preferred, while on hard puzzles it surfaces correct moves that were nearly absent under SFT. We further test whether our findings transfer beyond chess by training a 1B language model on math-domain text, where the same predictive pattern emerges: longer-pretrained checkpoints reach higher post-RL performance and improve faster under RL. In sum, we provide a quantitative account of the pretraining-to-RL interface and a controlled testbed for studying the science of reasoning across the full pretraining-to-post-training pipeline.",
-            "score": 13,
-            "issue_id": 2860,
-            "pub_date": "2026-07-17",
-            "pub_date_card": {
-                "ru": "17 июля",
-                "en": "July 17",
-                "zh": "7月17日"
-            },
-            "hash": "0f89244ec60354e4",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Jingyan Shen",
-                "Ang Li",
-                "Salman Rahman",
-                "Yifan Sun",
-                "Micah Goldblum",
-                "Matus Telgarsky",
-                "Pavel Izmailov"
-            ],
-            "affiliations": [
-                "Columbia University",
-                "New York University",
-                "University of California, Los Angeles",
-                "University of Illinois Urbana-Champaign"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.16097.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#dataset",
-                    "#reasoning",
-                    "#games",
-                    "#rl",
-                    "#transfer_learning"
-                ],
-                "emoji": "♟️",
-                "ru": {
-                    "title": "Влияние предварительного обучения на обучение с подкреплением",
-                    "desc": "В данной статье рассматривается влияние предварительного обучения на результаты обучения с подкреплением (RL) больших языковых моделей (LLM) в задачах сложного рассуждения. Авторы экспериментируют на шахматах, чтобы проанализировать, как различные параметры предварительного обучения (размер модели, данные) влияют на эффективность RL. Они находят, что производительность после обучения с подкреплением можно предсказать на основе потерь предварительного обучения. Также выясняется, что RL не просто улучшает уже существующую стратегию, а открывает новые эффективные ходы для сложных задач."
-                },
-                "en": {
-                    "title": "Unlocking the Power of Pretraining for Reinforcement Learning in Language Models",
-                    "desc": "This paper explores how pretraining choices affect the performance of reinforcement learning (RL) in large language models (LLMs) using chess as a testbed. It investigates the relationship between pretraining loss and post-RL performance, finding that better pretraining leads to improved RL outcomes. The study reveals that RL not only enhances the model's existing preferences but also uncovers new correct moves in challenging scenarios. Additionally, similar patterns are observed when applying the findings to math-domain text, indicating a broader applicability of the results."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.16169",
             "title": "When Does Muon Help Agentic Reinforcement Learning?",
             "url": "https://huggingface.co/papers/2607.16169",
             "abstract": "Abstract  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vanilla Muon in sparse-reward agentic RL through matched single-seed comparisons with AdamW on ALFWorld using Qwen2.5-0.5B-Instruct. Under Group-in-Group Policy Optimization (GiGPO), applying Muon only to hidden weight matrices raises final-window validation success from 0.290 to 0.546 (+88%); high-rate AdamW controls retain no post-update success. The effect depends on the advantage estimator and learning rate. At 3e-5, Muon improves GRPO from 0.161 to 0.268, whereas GraphGPO's late-window gap narrows near saturation. At 1e-5, GraphGPO Muon reaches 0.901, raises normalized validation AUC from 0.399 to 0.556, and reaches 0.5 and 0.75 success 30 and 60 updates earlier, respectively. These exploratory results show that Muon can benefit agentic RL and motivate studying the policy optimizer, advantage estimator, and learning rate jointly. Multi-seed and cross-task validation remain open.",
-            "score": 9,
+            "score": 11,
             "issue_id": 2862,
             "pub_date": "2026-07-17",
             "pub_date_card": {
@@ -686,7 +686,7 @@
             "title": "Recursive Harness Self-Improvement",
             "url": "https://huggingface.co/papers/2607.15524",
             "abstract": "Abstract  Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models. This motivates harness-in-the-loop learning: optimizing harnesses for both immediate agent performance and the quality of traces used for future model training. However, continually updating provider-built scaffolds is costly and labor-intensive. We therefore investigate whether optimizing user-constructed harnesses in a task-specific manner can improve execution-trace quality while remaining computationally lightweight and requiring only a few update iterations. To this end, we introduce Recursive Harness Self-Improvement (RHI), which represents the harness as a prompt-level specification of the agent loop and iteratively refines it using pairwise feedback over its own revision history. Across 30 synthetic machine-learning research tasks spanning quantitative finance, robotics, and pharmacy, a few RHI iterations suffice to substantially raise the performance ceiling of low-reasoning-effort agents, exceeding the corresponding maximum-reasoning-effort setting while reducing inference cost by up to 60%. We show that these gains arise primarily from improved task-specific context management through more effective inter-agent information flow rather than longer reasoning traces. Finally, we formalize this behavior as an information-theoretic hypothesis for RHI's implicit optimization objective, suggesting RHI as a practical algorithm for continual learning within the paradigm of model--harness co-evolution.",
-            "score": 9,
+            "score": 10,
             "issue_id": 2860,
             "pub_date": "2026-07-17",
             "pub_date_card": {
@@ -727,6 +727,57 @@
                 "en": {
                     "title": "Optimizing Harnesses for Better Learning Efficiency",
                     "desc": "This paper introduces a new approach called Recursive Harness Self-Improvement (RHI) that optimizes harnesses, which are tools that help improve machine learning models. RHI focuses on enhancing the quality of execution traces generated during the learning process while minimizing computational costs. By using pairwise feedback and refining the harness iteratively, RHI can significantly boost the performance of agents across various tasks. The results show that RHI improves task-specific context management and reduces inference costs, making it a valuable method for continual learning in model-harness co-evolution."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.14614",
+            "title": "Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization",
+            "url": "https://huggingface.co/papers/2607.14614",
+            "abstract": "Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance.",
+            "score": 7,
+            "issue_id": 2862,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "55633b53f48f79cd",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Weiwen Xu",
+                "Jia Liu",
+                "Hou Pong Chan",
+                "Long Li",
+                "Deng Cai",
+                "Min Chen",
+                "Hao Zhang"
+            ],
+            "affiliations": [
+                "Nanyang Technological University",
+                "South China University of Technology",
+                "The Chinese University of Hong Kong"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.14614.jpg",
+            "data": {
+                "categories": [
+                    "#optimization",
+                    "#rl",
+                    "#training",
+                    "#benchmark",
+                    "#reasoning",
+                    "#rlhf"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Новый подход к обучению с подкреплением для точного формирования преимущества",
+                    "desc": "В данной статье предложен новый подход к обучению с подкреплением с проверяемыми наградами, называемый Contrastive Policy Optimization (CPO). Этот метод использует контрастное несогласие на уровне токенов для формирования преимущества, что позволяет лучше различать полезную неопределенность и вредную путаницу. Эксперименты показывают, что CPO значительно превосходит методы, основанные на энтропии, обеспечивая высокую обобщающую способность. Также разработанный алгоритм решает проблему нулевого преимущества, балансируя исследования и эксплуатацию."
+                },
+                "en": {
+                    "title": "Enhancing Reinforcement Learning with Contrastive Policy Optimization",
+                    "desc": "This paper introduces Contrastive Policy Optimization (CPO) as a new method for reinforcement learning with verifiable rewards. Unlike traditional entropy-based approaches, CPO uses token-level contrastive disagreement to better identify correct actions and improve advantage shaping. The method shows significant improvements in performance on various benchmarks while effectively addressing the zero-advantage problem. Additionally, the research highlights the importance of balancing exploration and exploitation to achieve optimal results."
                 }
             }
         },
@@ -910,57 +961,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.14614",
-            "title": "Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization",
-            "url": "https://huggingface.co/papers/2607.14614",
-            "abstract": "Abstract  Reinforcement learning with verifiable rewards (RLVR) commonly uses entropy for advantage shaping. However, entropy cannot distinguish useful uncertainty from detrimental confusion, limiting its effectiveness as a correctness signal. We propose Contrastive Policy Optimization (CPO), which uses token-level contrastive disagreement between reference-guided and vanilla generation distributions for correctness-aware advantage shaping. Both theoretical and empirical results show that this disagreement reliably indicates token-level correctness. We further show that On-policy Distillation is a special case of CPO, where the posterior distribution is instantiated by an external teacher model. CPO also resolves the zero-advantage problem. Experiments on in-domain and out-of-domain benchmarks demonstrate that CPO substantially outperforms entropy-based RLVR methods while maintaining strong generalization. Further analysis shows that correct and incorrect responses naturally support exploration and exploitation respectively, and balancing both leads to the best performance.",
-            "score": 5,
-            "issue_id": 2862,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "55633b53f48f79cd",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Weiwen Xu",
-                "Jia Liu",
-                "Hou Pong Chan",
-                "Long Li",
-                "Deng Cai",
-                "Min Chen",
-                "Hao Zhang"
-            ],
-            "affiliations": [
-                "Nanyang Technological University",
-                "South China University of Technology",
-                "The Chinese University of Hong Kong"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.14614.jpg",
-            "data": {
-                "categories": [
-                    "#optimization",
-                    "#rl",
-                    "#training",
-                    "#benchmark",
-                    "#reasoning",
-                    "#rlhf"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Новый подход к обучению с подкреплением для точного формирования преимущества",
-                    "desc": "В данной статье предложен новый подход к обучению с подкреплением с проверяемыми наградами, называемый Contrastive Policy Optimization (CPO). Этот метод использует контрастное несогласие на уровне токенов для формирования преимущества, что позволяет лучше различать полезную неопределенность и вредную путаницу. Эксперименты показывают, что CPO значительно превосходит методы, основанные на энтропии, обеспечивая высокую обобщающую способность. Также разработанный алгоритм решает проблему нулевого преимущества, балансируя исследования и эксплуатацию."
-                },
-                "en": {
-                    "title": "Enhancing Reinforcement Learning with Contrastive Policy Optimization",
-                    "desc": "This paper introduces Contrastive Policy Optimization (CPO) as a new method for reinforcement learning with verifiable rewards. Unlike traditional entropy-based approaches, CPO uses token-level contrastive disagreement to better identify correct actions and improve advantage shaping. The method shows significant improvements in performance on various benchmarks while effectively addressing the zero-advantage problem. Additionally, the research highlights the importance of balancing exploration and exploitation to achieve optimal results."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.15901",
             "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
             "url": "https://huggingface.co/papers/2607.15901",
@@ -1007,11 +1007,58 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.09082",
+            "title": "REBASE: Reference-Background Subspace Elimination for Training-Free In-Context Segmentation",
+            "url": "https://huggingface.co/papers/2607.09082",
+            "abstract": "Abstract  Training-free in-context segmentation enables new object categories to be introduced at inference time from a single annotated reference image, eliminating the retraining and memory overhead of class-incremental learning. Recent approaches achieve this by combining vision foundation models for semantic correspondence with promptable segmentation networks like SAM. However, their performance is fundamentally limited by the quality of the cross-image similarity map; shared contextual backgrounds between the reference and query systematically elevate similarity in non-target regions, degrading prompt localization. We present REBASE, a training-free framework that explicitly suppresses these spurious contextual correspondences. Our method identifies the low-rank background feature subspace from the reference image and project the reference and query features onto its orthogonal complement in closed form, yielding cleaner semantic matching. We then generate positive point prompts using similarity-weighted farthest-point sampling, paired with a refined dense similarity prior. Without any training or parameter updates, our approach establishes a new state of the art among training-free methods on PACO-Part, FSS-1000, and cross-domain datasets such as ISIC2018, demonstrating that explicit background subspace removal is a highly effective principle for one-shot localization.",
+            "score": 3,
+            "issue_id": 2864,
+            "pub_date": "2026-07-10",
+            "pub_date_card": {
+                "ru": "10 июля",
+                "en": "July 10",
+                "zh": "7月10日"
+            },
+            "hash": "aad14eb1c0a75f5d",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Mantha Sai Gopal",
+                "Jaison Saji Chacko",
+                "Harsh Nandwana",
+                "Sandesh Hegde",
+                "Debarshi Banerjee",
+                "Uma Mahesh"
+            ],
+            "affiliations": [
+                "CamCom Technologies Private Limited"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.09082.jpg",
+            "data": {
+                "categories": [
+                    "#games",
+                    "#training",
+                    "#optimization",
+                    "#dataset",
+                    "#multimodal"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Сегментация без обучения: новое слово в обрисовке объектов",
+                    "desc": "Статья представляет метод REBASE, который позволяет сегментировать объекты без необходимости в обучении. Этот метод использует одно аннотированное изображение для идентификации новых категорий объектов во время вывода. REBASE решает проблемы, связанные с шумными контекстными соответствиями, улучшая качество семантического сопоставления. Новый подход демонстрирует высокую эффективность на различных наборах данных, устанавливая рекорды среди методов без обучения."
+                },
+                "en": {
+                    "title": "REBASE: Revolutionizing One-Shot Segmentation Without Training",
+                    "desc": "This paper introduces REBASE, a training-free method for in-context segmentation that allows new object categories to be identified using just one annotated image. It addresses the limitations of previous approaches by reducing the impact of shared backgrounds that can confuse the model during segmentation. By projecting features onto a background subspace, REBASE enhances the accuracy of semantic matching between reference and query images. The method achieves state-of-the-art results on various datasets without requiring any training or parameter updates."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.11498",
             "title": "See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models",
             "url": "https://huggingface.co/papers/2607.11498",
             "abstract": "Abstract  Vision-language-action (VLA) models predict robot actions from visual observations and language instructions. These actions are defined in the robot's own 3D coordinate frame, yet most VLAs observe the scene in the camera frame, creating a frame mismatch between where the scene is observed and where actions are defined. The mismatch is benign under a fixed viewpoint, where the policy can memorize a single observation-to-action mapping, but grows harder as large-scale datasets aggregate demonstrations across diverse camera setups and the policy must generalize this mapping across viewpoints. We address this mismatch with robot-centric pointmaps, images whose pixels store the 3D coordinates of scene points in the robot frame. Pointmaps provide robot-frame 3D geometry while preserving the dense H x W grid expected by pretrained 2D VLAs, so they integrate into existing VLAs with minimal architectural change. On RoboCasa, pointmaps improve both pi0.5 and SmolVLA and outperform representative camera-viewpoint and 3D-aware baselines. In real-robot experiments, their advantage over an RGB-only policy widens when the camera is moved to a placement unseen during training.",
-            "score": 1,
+            "score": 2,
             "issue_id": 2863,
             "pub_date": "2026-07-13",
             "pub_date_card": {
@@ -1094,6 +1141,48 @@
                     "desc": "This paper introduces Agon, a novel approach to reinforcement learning where two models compete against each other to improve reasoning skills. Instead of grading only the final answer, both models draft solutions and evaluate each other's work, promoting implicit reasoning during training. This method allows models to face progressively stronger opponents, enhancing their problem-solving abilities without needing explicit process labels. The results show significant improvements in performance on challenging tasks, demonstrating the effectiveness of this competitive training framework."
                 }
             }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.06815",
+            "title": "Behavioral Privacy Leakage in Agentic Negotiation: Formalizing and Mitigating Inference Attacks via Randomized Policies",
+            "url": "https://huggingface.co/papers/2607.06815",
+            "abstract": "Abstract  Autonomous negotiation agents are increasingly deployed in high-stakes settings such as insurance and procurement. While cryptographic techniques protect explicitly disclosed constraint values, they fail to address a subtler threat: behavioral privacy leakage, where an adversary infers private constraints from observable negotiation dynamics such as concession trajectories, timing, and convergence patterns. This paper investigates behavioral differential privacy in multi-round negotiation protocols. We design an adaptive stochastic negotiation policy that jointly guarantees (varepsilon, δ)-differential privacy, almost-sure convergence of the offer sequence (reaching agreement when the counterparty's reservation value permits), and high negotiation utility. Evaluated on 3,000 synthetic bilateral negotiations, our mechanism reduces adversarial inference accuracy by 43-50% while maintaining a negotiation success rate and utility above 90%, demonstrating that strong privacy guarantees can be achieved without significant loss of performance.",
+            "score": 1,
+            "issue_id": 2864,
+            "pub_date": "2026-07-07",
+            "pub_date_card": {
+                "ru": "7 июля",
+                "en": "July 7",
+                "zh": "7月7日"
+            },
+            "hash": "8614405b46a6fb2f",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Barkha Rani"
+            ],
+            "affiliations": [
+                "Apple Inc."
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.06815.jpg",
+            "data": {
+                "categories": [
+                    "#security",
+                    "#training",
+                    "#rl",
+                    "#agents",
+                    "#ethics"
+                ],
+                "emoji": "🤝",
+                "ru": {
+                    "title": "Защита приватности в переговорах без потери эффективности",
+                    "desc": "В статье рассматриваются автономные агенты для ведения переговоров, которые используются в ситуациях с высокими ставками, таких как страхование и закупки. Основное внимание уделяется утечке информации о поведении, когда противник может сделать выводы о частных ограничениях, наблюдая за динамикой переговоров. Авторы предлагают адаптивную стохастическую политику ведения переговоров, которая обеспечивает дифференциальную приватность и высокую степень успеха в достижении соглашений. Эксперименты показывают, что предложенный механизм может существенно снизить точность враждебного анализа, при этом сохраняя высокий уровень успеха переговоров."
+                },
+                "en": {
+                    "title": "Enhancing Privacy in Negotiation Without Sacrificing Performance",
+                    "desc": "This paper addresses the issue of behavioral privacy leakage in autonomous negotiation agents, which can occur in high-stakes environments like insurance and procurement. It introduces a novel adaptive stochastic negotiation policy that ensures (varepsilon, δ)-differential privacy while also achieving almost-sure convergence of offers. The proposed mechanism significantly reduces the ability of adversaries to infer private constraints from negotiation behaviors by 43-50%. Importantly, it maintains a high success rate and utility in negotiations, demonstrating that privacy can be enhanced without sacrificing performance."
+                }
+            }
         }
     ],
     "link_prev": "2026-07-17.html",
@@ -1110,33 +1199,33 @@
         "zh": "7月21日"
     },
     "categories": {
-        "#dataset": 6,
+        "#dataset": 7,
         "#data": 0,
         "#benchmark": 5,
-        "#agents": 10,
-        "#rl": 6,
+        "#agents": 11,
+        "#rl": 7,
         "#rlhf": 2,
         "#rag": 1,
         "#plp": 0,
         "#inference": 0,
         "#3d": 2,
         "#audio": 2,
-        "#multimodal": 5,
+        "#multimodal": 6,
         "#math": 0,
         "#multilingual": 1,
         "#architecture": 4,
         "#healthcare": 1,
-        "#training": 18,
+        "#training": 20,
         "#robotics": 1,
         "#agi": 4,
-        "#games": 3,
+        "#games": 4,
         "#interpretability": 1,
         "#reasoning": 9,
         "#transfer_learning": 5,
         "#graphs": 1,
-        "#ethics": 0,
-        "#security": 0,
-        "#optimization": 12,
+        "#ethics": 1,
+        "#security": 1,
+        "#optimization": 13,
         "#survey": 0,
         "#diffusion": 1,
         "#alignment": 1,
