@@ -4,9 +4,9 @@
         "en": "July 21",
         "zh": "7月21日"
     },
-    "time_utc": "2026-07-21 08:26",
+    "time_utc": "2026-07-21 11:07",
     "weekday": 1,
-    "issue_id": 2869,
+    "issue_id": 2870,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
             "url": "https://huggingface.co/papers/2607.18213",
             "abstract": "Abstract  Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of code context when reading tool output. Based on this finding, we propose SWE-Pruner Pro, which prunes tool outputs directly inside the agent. Concretely, a small head turns the agent's own internal representations into a keep-or-prune label for each line, with a length-aware embedding keyed to each tool output's line count. Across two open-weight backbones and four multi-turn benchmarks, SWE-Pruner Pro saves up to 39% of prompt and completion tokens while preserving task quality, with bounded inference overhead. Notably, on MiMo-V2-Flash SWE-Pruner Pro additionally raises the SWE-Bench Verified resolve rate by +3.8% and the long-context Oolong accuracy by +2.2 points.",
-            "score": 49,
+            "score": 59,
             "issue_id": 2868,
             "pub_date": "2026-07-20",
             "pub_date_card": {
@@ -62,63 +62,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.17250",
-            "title": "EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World",
-            "url": "https://huggingface.co/papers/2607.17250",
-            "abstract": "Abstract  This paper introduces EvolvingWorld, a framework and benchmark for character and world co-evolution in interactive literary worlds. Existing systems either treat interactive literary simulation as static persona imitation or isolated scene generation, failing to capture how characters and worlds evolve together over time. To address this, EvolvingWorld models literary simulation as a long-horizon process where characters interact, scenes progress, and character and world states are persistently updated. Unlike prior systems relying on fixed schemas, EvolvingWorld adopts an open-schema framework to support simulation across diverse literary worlds. The framework consists of two coupled modules: a Character Agent for multi-character role-play and persistent profile evolution, and an LLM-based World Model for global and location/entity-level state maintenance and scene progression. Based on this architecture, we formulate 7 trainable tasks for scene initialization, interaction generation, and state update. We construct a dataset from 57 books, producing 138,596 supervised training samples and 222 snapshots for testing. Furthermore, we introduce a trajectory-level LLM-as-Judge evaluation protocol spanning 10 dimensions and 20 metrics. Experiments show that EvolvingWorld can improve long-horizon simulation by effectively maintaining persistent, coherent character and world development.",
-            "score": 48,
-            "issue_id": 2868,
-            "pub_date": "2026-07-19",
-            "pub_date_card": {
-                "ru": "19 июля",
-                "en": "July 19",
-                "zh": "7月19日"
-            },
-            "hash": "c48e2a0e2f0baf1a",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Qing Zong",
-                "Yue Guo",
-                "Mengxin Yang",
-                "Yiwen Guo",
-                "Yangqiu Song"
-            ],
-            "affiliations": [
-                "Hong Kong University of Science and Technology",
-                "Huazhong University of Science and Technology",
-                "Independent Researcher",
-                "LIGHTSPEED"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.17250.jpg",
-            "data": {
-                "categories": [
-                    "#multimodal",
-                    "#benchmark",
-                    "#long_context",
-                    "#architecture",
-                    "#dataset",
-                    "#story_generation",
-                    "#training",
-                    "#agents"
-                ],
-                "emoji": "📖",
-                "ru": {
-                    "title": "Эволюция персонажей и миров в интерактивной литературе",
-                    "desc": "Статья представляет EvolvingWorld, новую структуру и бенчмарк для совместной эволюции персонажей и миров в интерактивных литературных системах. В отличие от существующих систем, которые ограничены статичным имитированием персонажей или изолированным созданием сцен, EvolvingWorld рассматривает литературную симуляцию как длинный процесс, где персонажи взаимодействуют и развиваются. Эта структура включает два связанных модуля: Агент Персонажа для многоперсонажной игры и эволюции профиля, а также Модель Мира на основе LLM для поддержания состояния и прогрессии сцен. Результаты показывают, что EvolvingWorld значительно улучшает долгосрочную симуляцию, обеспечивая согласованное развитие как персонажей, так и миров."
-                },
-                "en": {
-                    "title": "Evolving Characters and Worlds Together",
-                    "desc": "This paper presents EvolvingWorld, a framework designed for the co-evolution of characters and worlds in interactive literary simulations. Unlike previous systems that treat characters and scenes as static or isolated, EvolvingWorld models the simulation as a dynamic process where both characters and worlds evolve together over time. It features two main components: a Character Agent for role-playing and character development, and an LLM-based World Model for maintaining the state of the world and progressing scenes. The framework includes seven trainable tasks and is evaluated using a comprehensive protocol, demonstrating improved long-term simulation capabilities."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.17423",
             "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
             "url": "https://huggingface.co/papers/2607.17423",
             "abstract": "Abstract  Video multimodal large language models (MLLMs) can describe what happens in a video, but rarely identify when the supporting evidence occurs. We study generalist video temporal grounding, in which one model predicts a variable-cardinality set of evidence intervals across video lengths, domains, query forms, and viewpoints. Existing training strategies are misaligned with this set-valued task: long-video labels often rely on brittle one-pass annotation, while reinforcement-learning rewards either fail to distinguish non-overlapping predictions or require fragile segment matching. TimeLens2 treats temporal evidence as an interval set throughout supervision and optimization. TimeLens2-93K constructs reliable multi-span supervision through caption-derived proposals, independent localization, cross-agent consensus, semantic verification, and boundary refinement. Our temporal Wasserstein reward computes exact one-dimensional \\(W_1\\) between uniform distributions over merged interval supports, providing dense, matching-free feedback under unequal cardinalities and equivalent fragmentation; temporal IoU complements it with precise-overlap feedback. Across seven benchmarks, TimeLens2-2B outperforms all size-matched baselines on every benchmark, while the 4B and 8B variants achieve state-of-the-art performance, surpassing open-source models with up to 397B parameters. The 2B, 4B, and 8B variants improve over their Qwen3-VL backbones by 14.2, 13.0, and 18.1 mIoU points, respectively.",
-            "score": 37,
+            "score": 59,
             "issue_id": 2869,
             "pub_date": "2026-07-19",
             "pub_date_card": {
@@ -177,11 +125,166 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.17250",
+            "title": "EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World",
+            "url": "https://huggingface.co/papers/2607.17250",
+            "abstract": "Abstract  This paper introduces EvolvingWorld, a framework and benchmark for character and world co-evolution in interactive literary worlds. Existing systems either treat interactive literary simulation as static persona imitation or isolated scene generation, failing to capture how characters and worlds evolve together over time. To address this, EvolvingWorld models literary simulation as a long-horizon process where characters interact, scenes progress, and character and world states are persistently updated. Unlike prior systems relying on fixed schemas, EvolvingWorld adopts an open-schema framework to support simulation across diverse literary worlds. The framework consists of two coupled modules: a Character Agent for multi-character role-play and persistent profile evolution, and an LLM-based World Model for global and location/entity-level state maintenance and scene progression. Based on this architecture, we formulate 7 trainable tasks for scene initialization, interaction generation, and state update. We construct a dataset from 57 books, producing 138,596 supervised training samples and 222 snapshots for testing. Furthermore, we introduce a trajectory-level LLM-as-Judge evaluation protocol spanning 10 dimensions and 20 metrics. Experiments show that EvolvingWorld can improve long-horizon simulation by effectively maintaining persistent, coherent character and world development.",
+            "score": 57,
+            "issue_id": 2868,
+            "pub_date": "2026-07-19",
+            "pub_date_card": {
+                "ru": "19 июля",
+                "en": "July 19",
+                "zh": "7月19日"
+            },
+            "hash": "c48e2a0e2f0baf1a",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Qing Zong",
+                "Yue Guo",
+                "Mengxin Yang",
+                "Yiwen Guo",
+                "Yangqiu Song"
+            ],
+            "affiliations": [
+                "Hong Kong University of Science and Technology",
+                "Huazhong University of Science and Technology",
+                "Independent Researcher",
+                "LIGHTSPEED"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.17250.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#benchmark",
+                    "#long_context",
+                    "#architecture",
+                    "#dataset",
+                    "#story_generation",
+                    "#training",
+                    "#agents"
+                ],
+                "emoji": "📖",
+                "ru": {
+                    "title": "Эволюция персонажей и миров в интерактивной литературе",
+                    "desc": "Статья представляет EvolvingWorld, новую структуру и бенчмарк для совместной эволюции персонажей и миров в интерактивных литературных системах. В отличие от существующих систем, которые ограничены статичным имитированием персонажей или изолированным созданием сцен, EvolvingWorld рассматривает литературную симуляцию как длинный процесс, где персонажи взаимодействуют и развиваются. Эта структура включает два связанных модуля: Агент Персонажа для многоперсонажной игры и эволюции профиля, а также Модель Мира на основе LLM для поддержания состояния и прогрессии сцен. Результаты показывают, что EvolvingWorld значительно улучшает долгосрочную симуляцию, обеспечивая согласованное развитие как персонажей, так и миров."
+                },
+                "en": {
+                    "title": "Evolving Characters and Worlds Together",
+                    "desc": "This paper presents EvolvingWorld, a framework designed for the co-evolution of characters and worlds in interactive literary simulations. Unlike previous systems that treat characters and scenes as static or isolated, EvolvingWorld models the simulation as a dynamic process where both characters and worlds evolve together over time. It features two main components: a Character Agent for role-playing and character development, and an LLM-based World Model for maintaining the state of the world and progressing scenes. The framework includes seven trainable tasks and is evaluated using a comprehensive protocol, demonstrating improved long-term simulation capabilities."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.07820",
+            "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
+            "url": "https://huggingface.co/papers/2607.07820",
+            "abstract": "Abstract  Training tool-use agents to improve from their own experience remains challenging, as supervised fine-tuning relies on fixed teacher-distilled trajectories, while sparse-reward reinforcement learning provides weak supervision for long-horizon interactions. We present DeepSearch-Evolve, a self-distillation framework for web agents built on DeepSearch-World, a deterministic and verifiable environment with reproducible search and page-reading tools. DeepSearch-World contains 420K multi-hop QA tasks constructed from entity-level random walks and supports key agentic cognitive behaviors useful for self-evolving, including progress verification, grounded reflection, and failure recovery. DeepSearch-Evolve iteratively performs trajectory generation, filtering, data mixing, and fine-tuning to train stronger agents. Without distillation from more capable models, DeepSearch-World-9B achieves competitive performance compared with open-source agents, reaching 31.2% on BrowseComp, 61.5% on GAIA, and 93.4% on HotpotQA, showing that verifiable environments enable scalable self-evolution for long-horizon web agents. We will release the environment, 420K training pool, validation set, model, and code to facilitate future research on self-improving deep search agents.",
+            "score": 56,
+            "issue_id": 2869,
+            "pub_date": "2026-07-08",
+            "pub_date_card": {
+                "ru": "8 июля",
+                "en": "July 8",
+                "zh": "7月8日"
+            },
+            "hash": "4bb9fa77853f6bb5",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Xinyu Geng",
+                "Xuanhua He",
+                "Sixiang Chen",
+                "Yanjing Xiao",
+                "Fan Zhang",
+                "Shijue Huang",
+                "Haitao Mi",
+                "Zhenwen Liang",
+                "Tianqing Fang",
+                "Yi R. Fung"
+            ],
+            "affiliations": [
+                "HKUST",
+                "HKUST(GZ)",
+                "Tencent"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.07820.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#agents",
+                    "#open_source",
+                    "#agent_memory",
+                    "#tool_use",
+                    "#rl"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Самообучение агентов для веб-поиска",
+                    "desc": "Статья описывает DeepSearch-Evolve, новую методику обучения агентов для использования инструментов в веб-среде. Она основана на среде DeepSearch-World, которая предоставляет детерминированные и проверяемые условия для выполнения многоходовых задач. В рамках этого подхода агенты учатся через самодистилляцию, путем создания, фильтрации и смешивания траекторий. Результаты показывают, что без учителей более мощных моделей агенты могут достигать конкурентоспособных показателей в различных задачах."
+                },
+                "en": {
+                    "title": "Empowering Web Agents to Self-Evolve through DeepSearch",
+                    "desc": "This paper introduces DeepSearch-Evolve, a framework designed to help web agents learn from their own experiences without relying on fixed teacher models. It utilizes DeepSearch-World, a controlled environment that allows agents to perform multi-hop question answering and develop cognitive skills like progress verification and failure recovery. The framework iteratively generates and refines training data to enhance agent performance over time. Results show that agents trained in this environment can compete effectively with existing models, demonstrating the potential for self-evolution in long-horizon tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.18217",
+            "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+            "url": "https://huggingface.co/papers/2607.18217",
+            "abstract": "Abstract  Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and accurate interaction patterns between humans and diverse objects, especially when objects represent abstract concepts such as logos. Second, while intra-subject references (e.g., OCR maps, multi-view inputs) are expected to enhance subject fidelity, most existing works lack mechanisms to understand such latent correspondence. To address both challenges, we propose HOMIE, an HOCVP framework that tackles both inter- and intra-subject input settings in a unified manner. Compared to previous approaches, HOMIE proposes a better MLLM integration strategy to extract knowledge of reference-level relationships without compromising the controllability of text encoders or incurring costly re-alignment. Specifically, we introduce global multimodal guidance within self-attention to better align MLLM-derived semantic features with VAE tokens. Furthermore, we propose modality-reference embedding to differentiate tokens from MLLM features and VAE tokens and associate intra-subject reference image tokens. Extensive experiments validate that our method achieves state-of-the-art performance across various HOCVP tasks. Project Page: https://yiyangcai.github.io/homie-page.github.io/",
+            "score": 39,
+            "issue_id": 2868,
+            "pub_date": "2026-07-20",
+            "pub_date_card": {
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
+            },
+            "hash": "d405dcee42656b65",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yiyang Cai",
+                "Nan Chen",
+                "Rongchang Xie",
+                "Junwen Pan",
+                "Chunyang Jiang",
+                "Cheng Chen",
+                "Wen Zhou",
+                "Zhenbang Sun",
+                "Wei Xue",
+                "Wenhan Luo",
+                "Yike Guo"
+            ],
+            "affiliations": [
+                "Hong Kong University of Science and Technology"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.18217.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#3d"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Персонализация видео с HOMIE: новое слово в HOCVP",
+                    "desc": "Статья представляет новую рамочную концепцию HOMIE для персонализации видео, ориентированную на человека и объекты. Основное внимание уделяется улучшению точности взаимодействия между людьми и разнообразными объектами, включая абстрактные концепции, такие как логотипы. HOMIE объединяет подходы к меж- и внутричеловеческой персонализации, используя эффективные стратегии интеграции MLLM для извлечения знаний. Эксперименты показывают, что HOMIE показывает лучшие результаты по сравнению с предыдущими методами в различных задачах HOCVP."
+                },
+                "en": {
+                    "title": "HOMIE: Unifying Human-Object Video Personalization",
+                    "desc": "The paper introduces HOMIE, a framework for human-object centric video personalization (HOCVP) that addresses challenges in both inter-subject and intra-subject personalization. It improves the balance between subject fidelity and accurate interactions with diverse objects, including abstract concepts like logos. HOMIE employs a novel integration strategy for multimodal large language models (MLLM) to enhance the understanding of reference-level relationships without losing control over text encoders. The framework also utilizes global multimodal guidance and modality-reference embedding to effectively align semantic features with video tokens, achieving state-of-the-art results in HOCVP tasks."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.17977",
             "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
             "url": "https://huggingface.co/papers/2607.17977",
             "abstract": "Abstract  We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports embodied perception, spatial reasoning, localization, and planning. Compared with RynnBrain 1.0, it further introduces contact-point prediction across the model family and native 3D grounding for the 2B and 9B models, yielding representations and outputs that are more directly aligned with robot manipulation. We also develop RynnBrain-VLA with a unified cross-embodiment action space and embodiment-specific masking, and deploy it on Unitree G1, Astribot-S1, and Tianji-Wuji. RynnBrain 1.1 achieves strong results on embodied cognition, localization, and 3D grounding, with the 122B-A10B model outperforming all evaluated proprietary and open-source models on VSI-Bench, MMSI, and RefSpatial-Bench. Real-robot experiments show that RynnBrain-initialized policies outperform Qwen-based and representative generalist VLAs, while joint multi-task and multi-embodiment training improves process scores and success rates over per-task training.",
-            "score": 27,
+            "score": 30,
             "issue_id": 2868,
             "pub_date": "2026-07-20",
             "pub_date_card": {
@@ -251,60 +354,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.18217",
-            "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
-            "url": "https://huggingface.co/papers/2607.18217",
-            "abstract": "Abstract  Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and accurate interaction patterns between humans and diverse objects, especially when objects represent abstract concepts such as logos. Second, while intra-subject references (e.g., OCR maps, multi-view inputs) are expected to enhance subject fidelity, most existing works lack mechanisms to understand such latent correspondence. To address both challenges, we propose HOMIE, an HOCVP framework that tackles both inter- and intra-subject input settings in a unified manner. Compared to previous approaches, HOMIE proposes a better MLLM integration strategy to extract knowledge of reference-level relationships without compromising the controllability of text encoders or incurring costly re-alignment. Specifically, we introduce global multimodal guidance within self-attention to better align MLLM-derived semantic features with VAE tokens. Furthermore, we propose modality-reference embedding to differentiate tokens from MLLM features and VAE tokens and associate intra-subject reference image tokens. Extensive experiments validate that our method achieves state-of-the-art performance across various HOCVP tasks. Project Page: https://yiyangcai.github.io/homie-page.github.io/",
-            "score": 27,
-            "issue_id": 2868,
-            "pub_date": "2026-07-20",
-            "pub_date_card": {
-                "ru": "20 июля",
-                "en": "July 20",
-                "zh": "7月20日"
-            },
-            "hash": "d405dcee42656b65",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yiyang Cai",
-                "Nan Chen",
-                "Rongchang Xie",
-                "Junwen Pan",
-                "Chunyang Jiang",
-                "Cheng Chen",
-                "Wen Zhou",
-                "Zhenbang Sun",
-                "Wei Xue",
-                "Wenhan Luo",
-                "Yike Guo"
-            ],
-            "affiliations": [
-                "Hong Kong University of Science and Technology"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.18217.jpg",
-            "data": {
-                "categories": [
-                    "#multimodal",
-                    "#3d"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Персонализация видео с HOMIE: новое слово в HOCVP",
-                    "desc": "Статья представляет новую рамочную концепцию HOMIE для персонализации видео, ориентированную на человека и объекты. Основное внимание уделяется улучшению точности взаимодействия между людьми и разнообразными объектами, включая абстрактные концепции, такие как логотипы. HOMIE объединяет подходы к меж- и внутричеловеческой персонализации, используя эффективные стратегии интеграции MLLM для извлечения знаний. Эксперименты показывают, что HOMIE показывает лучшие результаты по сравнению с предыдущими методами в различных задачах HOCVP."
-                },
-                "en": {
-                    "title": "HOMIE: Unifying Human-Object Video Personalization",
-                    "desc": "The paper introduces HOMIE, a framework for human-object centric video personalization (HOCVP) that addresses challenges in both inter-subject and intra-subject personalization. It improves the balance between subject fidelity and accurate interactions with diverse objects, including abstract concepts like logos. HOMIE employs a novel integration strategy for multimodal large language models (MLLM) to enhance the understanding of reference-level relationships without losing control over text encoders. The framework also utilizes global multimodal guidance and modality-reference embedding to effectively align semantic features with video tokens, achieving state-of-the-art results in HOCVP tasks."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.16401",
             "title": "Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence",
             "url": "https://huggingface.co/papers/2607.16401",
             "abstract": "Abstract  Modern video generation models are increasingly hailed as emerging world models with an internalized grasp of physical law. Yet existing benchmarks largely evaluate physical plausibility only at the output level, without verifying whether the model arrives there through a faithful, law-grounded reasoning process. We introduce Apple-PI, the first benchmark that anchors video-model evaluation explicitly in physical laws. Apple-PI comprises three components. 1) Orchard: a dataset of 400 videos covering ten canonical tasks in classical mechanics. It separates single-law tasks for confounder-free diagnosis from multi-law tasks for probing generalization. 2) Benchmark Protocol: a three-stage protocol based on scientific reasoning, including Perception, Formulation, and Deduction. It uses chain-of-frames prompting on infographic-annotated first frames, treating the generated video as the model's visible reasoning trace. 3) Evaluation Suite: a hybrid evaluation suite that combines MLLM-based subjective scoring with physics-law-grounded objective measures. This enables stage-resolved diagnosis of not only whether a model fails, but where it fails. Benchmarking 11 models shows that current video models remain far from reliable law-grounded world simulators, with the best video model scoring only 0.473. Our stage-, pillar-, and source-resolved analyses further expose a Perception-to-Formulation-to-Deduction bottleneck, weak multi-law state transfer, and a persistent Sim-to-Real gap. These findings position Apple-PI as a diagnostic foundation for guiding future video models toward world models with law-grounded physical intelligence.",
-            "score": 25,
+            "score": 26,
             "issue_id": 2869,
             "pub_date": "2026-07-17",
             "pub_date_card": {
@@ -351,6 +405,53 @@
                 "en": {
                     "title": "Apple-PI: Benchmarking Video Models with Physical Laws",
                     "desc": "This paper introduces Apple-PI, a new benchmark for evaluating video generation models based on physical laws. It includes a dataset of 400 videos that test models on both single and multi-law tasks in classical mechanics. The evaluation process is structured into three stages: Perception, Formulation, and Deduction, allowing for detailed analysis of model reasoning. Results show that current models struggle with law-grounded reasoning, highlighting areas for improvement in future video generation systems."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.16850",
+            "title": "Group Entropy-Controlled Policy Optimization",
+            "url": "https://huggingface.co/papers/2607.16850",
+            "abstract": "Abstract  Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradigm is often conducted on mixtures of heterogeneous tasks, which induce distinct entropy regimes under the same policy, making global or token-level entropy regulation insufficient to corresponding heterogeneous needs of exploration. This heterogeneity further makes GRPO-style normalized advantages induce an entropy-dependent bias, making advantage signals across prompt groups statistically non-comparable. To address this issue, we propose Group Entropy-Controlled Policy Optimization (GEPO), a lightweight extension to GRPO that uses group entropy, estimated from existing grouped samples to perform entropy-conditioned asymmetric advantage shaping. GEPO attenuates positive advantages in low-entropy groups to reduce over-exploitation, and negative advantages in high-entropy groups to preserve exploration, with adaptive thresholds derived from historical entropy statistics. Extensive experiments on two base models across thirteen benchmarks spanning mathematics, physics, science, code generation, and instruction following show that GEPO consistently outperforms GRPO and recent entropy-controlled methods, delivering balanced cross-task improvements while preserving task-specific exploration levels throughout training.",
+            "score": 20,
+            "issue_id": 2868,
+            "pub_date": "2026-07-18",
+            "pub_date_card": {
+                "ru": "18 июля",
+                "en": "July 18",
+                "zh": "7月18日"
+            },
+            "hash": "dc06f63146e22554",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Guangran Cheng",
+                "Chengqi Lyu",
+                "Songyang Gao",
+                "Wenwei Zhang",
+                "Kai Chen"
+            ],
+            "affiliations": [
+                "Shanghai AI Laboratory"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.16850.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#reasoning",
+                    "#rl",
+                    "#optimization",
+                    "#rlhf",
+                    "#training"
+                ],
+                "emoji": "⚖️",
+                "ru": {
+                    "title": "Оптимизация с контролем энтропии для эффективного обучения",
+                    "desc": "В данной статье рассматривается использование контроля энтропии в обучении с подкреплением (RL) для больших языковых моделей (LLM). Авторы предлагают метод Group Entropy-Controlled Policy Optimization (GEPO), который адаптирует преимущества для разных групп задач, учитывая их уникальные уровни энтропии. Этот подход помогает сбалансировать исследование и эксплуатацию, уменьшая влияние наивысших положительных преимуществ в группах с низкой энтропией и отрицательных в группах с высокой энтропией. Эксперименты показывают, что GEPO превышает результаты существующих методов и обеспечивает баланс между задачами, сохраняя уровни исследования."
+                },
+                "en": {
+                    "title": "Balancing Exploration and Exploitation with GEPO",
+                    "desc": "This paper introduces Group Entropy-Controlled Policy Optimization (GEPO), a method designed to improve reinforcement learning in large language models by managing exploration and exploitation. It addresses the challenges posed by heterogeneous tasks that require different levels of entropy regulation, which traditional methods struggle to handle. GEPO adapts advantage signals based on group entropy, reducing over-exploitation in low-entropy groups and encouraging exploration in high-entropy groups. Experimental results demonstrate that GEPO outperforms existing methods, achieving better performance across various tasks while maintaining appropriate exploration levels."
                 }
             }
         },
@@ -411,49 +512,101 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.16850",
-            "title": "Group Entropy-Controlled Policy Optimization",
-            "url": "https://huggingface.co/papers/2607.16850",
-            "abstract": "Abstract  Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradigm is often conducted on mixtures of heterogeneous tasks, which induce distinct entropy regimes under the same policy, making global or token-level entropy regulation insufficient to corresponding heterogeneous needs of exploration. This heterogeneity further makes GRPO-style normalized advantages induce an entropy-dependent bias, making advantage signals across prompt groups statistically non-comparable. To address this issue, we propose Group Entropy-Controlled Policy Optimization (GEPO), a lightweight extension to GRPO that uses group entropy, estimated from existing grouped samples to perform entropy-conditioned asymmetric advantage shaping. GEPO attenuates positive advantages in low-entropy groups to reduce over-exploitation, and negative advantages in high-entropy groups to preserve exploration, with adaptive thresholds derived from historical entropy statistics. Extensive experiments on two base models across thirteen benchmarks spanning mathematics, physics, science, code generation, and instruction following show that GEPO consistently outperforms GRPO and recent entropy-controlled methods, delivering balanced cross-task improvements while preserving task-specific exploration levels throughout training.",
-            "score": 18,
-            "issue_id": 2868,
-            "pub_date": "2026-07-18",
+            "id": "https://huggingface.co/papers/2607.10371",
+            "title": "GigaAM Multilingual: Foundation Model for Underrepresented Languages",
+            "url": "https://huggingface.co/papers/2607.10371",
+            "abstract": "Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). We present GigaAM Multilingual, a Conformer encoder pre-trained on 2M hours of audio using a HuBERT-style objective. Crucially, we introduce a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to mitigate head-language dominance. In controlled comparisons, our approach outperforms strong open pretrained encoders (Whisper Large v3, Omnilingual-1B) on target languages, achieving significant gains on spontaneous speech while maintaining efficiency. We release the foundation encoder and ASR model, offering a proven recipe for effective multilingual adaptation under realistic data imbalance.",
+            "score": 17,
+            "issue_id": 2870,
+            "pub_date": "2026-07-11",
             "pub_date_card": {
-                "ru": "18 июля",
-                "en": "July 18",
-                "zh": "7月18日"
+                "ru": "11 июля",
+                "en": "July 11",
+                "zh": "7月11日"
             },
-            "hash": "dc06f63146e22554",
+            "hash": "4e38e98d793afb18",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Guangran Cheng",
-                "Chengqi Lyu",
-                "Songyang Gao",
-                "Wenwei Zhang",
-                "Kai Chen"
+                "Andrei Kuzmenko",
+                "Alexandr Maximenko",
+                "Aleksandr Kutsakov",
+                "Georgii Gospodinov",
+                "Dmitrii Bolotov",
+                "Oleg Kutuzov",
+                "Pavel Bogomolov",
+                "Fyodor Minkin"
             ],
             "affiliations": [
-                "Shanghai AI Laboratory"
+                "SaluteDevices, Russia"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.16850.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.10371.jpg",
             "data": {
                 "categories": [
-                    "#benchmark",
-                    "#reasoning",
-                    "#rl",
-                    "#optimization",
-                    "#rlhf",
-                    "#training"
+                    "#training",
+                    "#dataset",
+                    "#multilingual",
+                    "#open_source",
+                    "#data",
+                    "#low_resource"
                 ],
-                "emoji": "⚖️",
+                "emoji": "🌍",
                 "ru": {
-                    "title": "Оптимизация с контролем энтропии для эффективного обучения",
-                    "desc": "В данной статье рассматривается использование контроля энтропии в обучении с подкреплением (RL) для больших языковых моделей (LLM). Авторы предлагают метод Group Entropy-Controlled Policy Optimization (GEPO), который адаптирует преимущества для разных групп задач, учитывая их уникальные уровни энтропии. Этот подход помогает сбалансировать исследование и эксплуатацию, уменьшая влияние наивысших положительных преимуществ в группах с низкой энтропией и отрицательных в группах с высокой энтропией. Эксперименты показывают, что GEPO превышает результаты существующих методов и обеспечивает баланс между задачами, сохраняя уровни исследования."
+                    "title": "Улучшение распознавания речи для малоизвестных языков",
+                    "desc": "В данной статье рассматривается проблема неравномерной работы многоязычных ASR систем, особенно для малоизвестных языков Центральной Азии, таких как казахский, киргизский и узбекский. Авторы предлагают модель GigaAM Multilingual, которая использует предобучение на 2 миллионах часов аудиоданных с целью улучшить качество распознавания. Для борьбы с преобладанием 'главных' языков внедряются стратегия балансировки данных на уровне кластеров и метод выборки на основе осведомленности о домене. Это позволяет модели значительно улучшить результаты для целевых языков, сохраняя при этом эффективность."
                 },
                 "en": {
-                    "title": "Balancing Exploration and Exploitation with GEPO",
-                    "desc": "This paper introduces Group Entropy-Controlled Policy Optimization (GEPO), a method designed to improve reinforcement learning in large language models by managing exploration and exploitation. It addresses the challenges posed by heterogeneous tasks that require different levels of entropy regulation, which traditional methods struggle to handle. GEPO adapts advantage signals based on group entropy, reducing over-exploitation in low-entropy groups and encouraging exploration in high-entropy groups. Experimental results demonstrate that GEPO outperforms existing methods, achieving better performance across various tasks while maintaining appropriate exploration levels."
+                    "title": "Empowering Underrepresented Languages in ASR",
+                    "desc": "This paper focuses on improving automatic speech recognition (ASR) for underrepresented Central Asian languages like Kazakh, Kyrgyz, and Uzbek, which often lack sufficient training data. The authors introduce GigaAM Multilingual, a Conformer encoder pre-trained on a large dataset of 2 million hours of audio using a HuBERT-style objective. They implement a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to reduce the dominance of more common languages. The results show that their approach significantly outperforms existing models on these target languages, especially in recognizing spontaneous speech, while also being efficient."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.10387",
+            "title": "GigaChat Audio: Time-aware Large Audio Language Model",
+            "url": "https://huggingface.co/papers/2607.10387",
+            "abstract": "Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-scale synthetic supervision from a cascaded pipeline. Our model achieves strong temporal-grounding accuracy on short and long benchmarks and supports time-anchored fragment descriptions and summaries. Extensive ablations examine how time representation, marker frequency, tokenization, and duration-mixture design affect accuracy and computational cost. We release model weights and datasets to support further research on time-aware audio understanding, available at https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B.",
+            "score": 17,
+            "issue_id": 2870,
+            "pub_date": "2026-07-11",
+            "pub_date_card": {
+                "ru": "11 июля",
+                "en": "July 11",
+                "zh": "7月11日"
+            },
+            "hash": "b5854adca1ee7d83",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Aleksandr Kutsakov",
+                "Mariia Sadovina",
+                "Georgii Gospodinov",
+                "Alexandr Maximenko",
+                "Oleg Kutuzov",
+                "Pavel Bogomolov",
+                "Fyodor Minkin"
+            ],
+            "affiliations": [
+                "SaluteDevices, Russia"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.10387.jpg",
+            "data": {
+                "categories": [
+                    "#long_context",
+                    "#dataset",
+                    "#synthetic",
+                    "#benchmark",
+                    "#audio",
+                    "#open_source"
+                ],
+                "emoji": "🕒",
+                "ru": {
+                    "title": "Временные метки для аудио: новый уровень понимания!",
+                    "desc": "В данной статье рассматривается задача временной привязки в длительных аудиозаписях для LLM, работающих с аудиоданными. Мы представляем временно-осведомлённую аудиомодель LLM, которая отвечает на вопросы с указанием явных временных меток на основе аудиовходов продолжительностью до 120 минут. Наш подход сочетает периодические временные маркеры с непрерывными аудиотокенами, используя масштабное синтетическое обучение. Модель демонстрирует высокую точность временной привязки на различных тестах и поддерживает описание и резюме фрагментов с временной привязкой."
+                },
+                "en": {
+                    "title": "Revolutionizing Audio Understanding with Time Awareness",
+                    "desc": "This paper introduces a time-aware audio language model (LLM) that can answer questions with specific timestamps from long audio recordings. The model processes up to 120 minutes of audio by combining periodic time markers with continuous audio tokens, utilizing large-scale synthetic supervision. It demonstrates high accuracy in temporal grounding for both short and long audio benchmarks, enabling detailed time-anchored descriptions and summaries. The study also explores various factors affecting model performance, such as time representation and tokenization, and provides resources for further research in this area."
                 }
             }
         },
@@ -462,7 +615,7 @@
             "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
             "url": "https://huggingface.co/papers/2607.16900",
             "abstract": "Abstract  Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data at scale typically requires fully implemented environments with executable APIs and realistic, pre-populated backend databases, creating a major bottleneck for scalability. To overcome this, we propose an environment-free synthetic data generation approach that leverages LLMs as on-the-fly digital world models. Given only API specifications, our method generates trajectories mimicking interactions between an agent and a stateful environment. Specifically, an LLM first generates diverse tasks solvable with the provided APIs. A teacher agent then iteratively solves each task while an LLM simulator generates coherent synthetic API responses conditioned on the task context and simulation history. Finally, an LLM judge filters the trajectories to ensure the quality of the resulting dataset. We evaluate our approach on the challenging AppWorld and OfficeBench benchmarks, which include both information-retrieval and state-changing tasks. Fine-tuning models on our synthetic data yields significant performance gains, demonstrating that effective supervision for API-calling agents can be generated without any executable environment. Our results establish LLM-based API simulation as a practical, scalable solution for training agents across diverse API ecosystems.",
-            "score": 10,
+            "score": 12,
             "issue_id": 2868,
             "pub_date": "2026-07-18",
             "pub_date_card": {
@@ -505,6 +658,90 @@
                 "en": {
                     "title": "Synthetic Data Generation for Scalable API-Calling Agents",
                     "desc": "This paper presents a novel method for generating synthetic training data for API-calling large language model (LLM) agents without needing fully implemented environments. By using LLMs as digital world models, the approach creates realistic trajectories based on API specifications, allowing for scalable data collection. A teacher agent solves tasks while an LLM simulator generates context-aware API responses, and a judge LLM ensures the quality of the data. The method shows significant performance improvements when fine-tuning models on the synthetic data, proving its effectiveness in training agents across various API ecosystems."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.18227",
+            "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+            "url": "https://huggingface.co/papers/2607.18227",
+            "abstract": "Abstract  In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated procedures--involving object mask annotation, the use of error-introducing pair synthesis via I2V model and ControlNet-like guidance, and VLM-based quality filtering or refinement--and demonstrate limited task scalability. As a result, the diversity of editing tasks remains substantially narrower than that available for image editing models. We develop a pixel-pair temporal warped flow field that can directly generate corresponding video editing samples in real time from image editing samples, and we demonstrate across multiple levels of video editing tasks that a model can learn video editing using only such data. We regard the image modality as a particular form of the video modality. Accordingly, we design a modality mimic generation loss and a modality mimic editing loss to relatively align the capabilities--and thereby the output distributions--of the two modalities through mutual imitation. Moreover, language-based visual editing entails the comprehension of the editing instruction and the reference visual content, the localization of the region corresponding to that instruction within the reference visual contents, and the modification of that region alone. Existing approaches predominantly rely on external aids, such as fine-tuning an additional MLLM or explicitly supplying a mask sequence as auxiliary input during inference. In contrast, we aspire for the model to internalize this capability. To that end, we introduce sense-related tasks--for instance, referring expression segmentation--along with corresponding editing-region-aware latent-level loss and attention-level loss.",
+            "score": 9,
+            "issue_id": 2869,
+            "pub_date": "2026-07-20",
+            "pub_date_card": {
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
+            },
+            "hash": "be2441ba7a1924ff",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Dingyun Zhang",
+                "Lixue Gong",
+                "Wei Liu"
+            ],
+            "affiliations": [
+                "ByteDance"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.18227.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#multimodal",
+                    "#data"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Интеграция редактирования видео и изображений в одной модели",
+                    "desc": "В данной статье рассматривается интеграция возможностей генерации и редактирования для видео и изображений в одной модели. Исследования показывают, что существующие методы сбора данных для редактирования видео требуют много времени и усилий, что ограничивает разнообразие задач редактирования. Мы разработали метод, который позволяет модели генерировать видео в реальном времени, используя только данные редактирования изображений. Также предлагаются новые задачи и потери, которые помогают модели лучше воспринимать инструкции для редактирования и осуществлять соответствующие изменения."
+                },
+                "en": {
+                    "title": "Unifying Video Generation and Editing in a Single Model",
+                    "desc": "This paper presents a unified model that integrates both video generation and editing capabilities, addressing the limitations of current video editing data collection methods. By developing a pixel-pair temporal warped flow field, the model can generate video editing samples in real time from image editing samples, enhancing task scalability. The authors introduce modality mimic generation and editing losses to align the output distributions of image and video modalities through mutual imitation. Additionally, the model aims to internalize language-based visual editing tasks without relying on external aids, using sense-related tasks to improve its understanding and execution of editing instructions."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13365",
+            "title": "DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation",
+            "url": "https://huggingface.co/papers/2607.13365",
+            "abstract": "Abstract  Existing 3D generative models predominantly rely on implicit volumetric representations, which enforce watertight topology and struggle to represent thin-shell and non-manifold geometries such as garments. Geometry image-based approaches offer a surface-centric alternative, but existing methods rely on discrete binary occupancy maps whose resolution-dependent boundary encoding causes staircase artifacts and information loss upon downsampling, while surface reconstruction remains a non-differentiable post-processing step disconnected from the learning pipeline. To address this, we propose Differentiable Geometry Image (DiffGI), an end-to-end 3D-to-2D mapping framework that seamlessly integrates surface representation and geometric optimization. DiffGI replaces binary maps with a continuous 2D Truncated Signed Distance Function (TSDF), which encodes boundary position at subpixel precision within a fixed grid resolution, eliminating resolution-dependent staircase artifacts even under aggressive downsampling. Building on this continuous field, we introduce a differentiable Marching Squares algorithm based on analytical linear interpolation, allowing gradients from 3D surface losses to propagate back to the 2D latent space. Leveraging this differentiable pipeline, we train a DiffGI-VAE augmented with a geometry-aware normal rendering loss to compress complex 3D surfaces into an ultra-compact 32X32 latent space, and instantiate a transformer-based latent diffusion model with a flow-matching objective on top of this space for conditional 3D generation. Extensive experiments on garment and object datasets demonstrate that our method achieves superior reconstruction fidelity and boundary precision compared to prior geometry-image and voxel-based approaches, while requiring significantly fewer computational resources.",
+            "score": 8,
+            "issue_id": 2867,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "5b908a79d7ac6d23",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Eungjune Shim",
+                "Hansol Lee",
+                "Eunjung Ju"
+            ],
+            "affiliations": [
+                "CLO Virtual Fashion Inc., South Korea"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13365.jpg",
+            "data": {
+                "categories": [
+                    "#3d",
+                    "#diffusion",
+                    "#optimization"
+                ],
+                "emoji": "🧵",
+                "ru": {
+                    "title": "Новая эпоха в 3D-генерации с использованием дифференцируемых методов",
+                    "desc": "В статье представлена новая модель генерации 3D-объектов под названием Differentiable Geometry Image (DiffGI), которая улучшает представление геометрии. Она заменяет бинарные карты на непрерывную 2D Функцию Объема (TSDF), что устраняет артефакты при понижении разрешения. Также разработан дифференцируемый алгоритм Marching Squares для улучшения обучения и восстановления поверхности. Результаты показывают, что метод обеспечивает более высокую точность реконструкции при меньших вычислительных затратах по сравнению с предыдущими подходами."
+                },
+                "en": {
+                    "title": "Revolutionizing 3D Surface Representation with Differentiable Geometry Images",
+                    "desc": "This paper introduces Differentiable Geometry Image (DiffGI), a novel framework for 3D-to-2D mapping that enhances surface representation and geometric optimization. Unlike traditional methods that use binary occupancy maps, DiffGI employs a continuous 2D Truncated Signed Distance Function (TSDF) to achieve high precision in boundary encoding. The framework includes a differentiable Marching Squares algorithm, allowing gradients to flow from 3D surface losses back to the 2D latent space, facilitating end-to-end training. Experiments show that DiffGI outperforms existing geometry-image and voxel-based methods in reconstruction fidelity and boundary precision while being more computationally efficient."
                 }
             }
         },
@@ -560,95 +797,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.13365",
-            "title": "DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation",
-            "url": "https://huggingface.co/papers/2607.13365",
-            "abstract": "Abstract  Existing 3D generative models predominantly rely on implicit volumetric representations, which enforce watertight topology and struggle to represent thin-shell and non-manifold geometries such as garments. Geometry image-based approaches offer a surface-centric alternative, but existing methods rely on discrete binary occupancy maps whose resolution-dependent boundary encoding causes staircase artifacts and information loss upon downsampling, while surface reconstruction remains a non-differentiable post-processing step disconnected from the learning pipeline. To address this, we propose Differentiable Geometry Image (DiffGI), an end-to-end 3D-to-2D mapping framework that seamlessly integrates surface representation and geometric optimization. DiffGI replaces binary maps with a continuous 2D Truncated Signed Distance Function (TSDF), which encodes boundary position at subpixel precision within a fixed grid resolution, eliminating resolution-dependent staircase artifacts even under aggressive downsampling. Building on this continuous field, we introduce a differentiable Marching Squares algorithm based on analytical linear interpolation, allowing gradients from 3D surface losses to propagate back to the 2D latent space. Leveraging this differentiable pipeline, we train a DiffGI-VAE augmented with a geometry-aware normal rendering loss to compress complex 3D surfaces into an ultra-compact 32X32 latent space, and instantiate a transformer-based latent diffusion model with a flow-matching objective on top of this space for conditional 3D generation. Extensive experiments on garment and object datasets demonstrate that our method achieves superior reconstruction fidelity and boundary precision compared to prior geometry-image and voxel-based approaches, while requiring significantly fewer computational resources.",
-            "score": 6,
-            "issue_id": 2867,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "5b908a79d7ac6d23",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Eungjune Shim",
-                "Hansol Lee",
-                "Eunjung Ju"
-            ],
-            "affiliations": [
-                "CLO Virtual Fashion Inc., South Korea"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13365.jpg",
-            "data": {
-                "categories": [
-                    "#3d",
-                    "#diffusion",
-                    "#optimization"
-                ],
-                "emoji": "🧵",
-                "ru": {
-                    "title": "Новая эпоха в 3D-генерации с использованием дифференцируемых методов",
-                    "desc": "В статье представлена новая модель генерации 3D-объектов под названием Differentiable Geometry Image (DiffGI), которая улучшает представление геометрии. Она заменяет бинарные карты на непрерывную 2D Функцию Объема (TSDF), что устраняет артефакты при понижении разрешения. Также разработан дифференцируемый алгоритм Marching Squares для улучшения обучения и восстановления поверхности. Результаты показывают, что метод обеспечивает более высокую точность реконструкции при меньших вычислительных затратах по сравнению с предыдущими подходами."
-                },
-                "en": {
-                    "title": "Revolutionizing 3D Surface Representation with Differentiable Geometry Images",
-                    "desc": "This paper introduces Differentiable Geometry Image (DiffGI), a novel framework for 3D-to-2D mapping that enhances surface representation and geometric optimization. Unlike traditional methods that use binary occupancy maps, DiffGI employs a continuous 2D Truncated Signed Distance Function (TSDF) to achieve high precision in boundary encoding. The framework includes a differentiable Marching Squares algorithm, allowing gradients to flow from 3D surface losses back to the 2D latent space, facilitating end-to-end training. Experiments show that DiffGI outperforms existing geometry-image and voxel-based methods in reconstruction fidelity and boundary precision while being more computationally efficient."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.18227",
-            "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
-            "url": "https://huggingface.co/papers/2607.18227",
-            "abstract": "Abstract  In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated procedures--involving object mask annotation, the use of error-introducing pair synthesis via I2V model and ControlNet-like guidance, and VLM-based quality filtering or refinement--and demonstrate limited task scalability. As a result, the diversity of editing tasks remains substantially narrower than that available for image editing models. We develop a pixel-pair temporal warped flow field that can directly generate corresponding video editing samples in real time from image editing samples, and we demonstrate across multiple levels of video editing tasks that a model can learn video editing using only such data. We regard the image modality as a particular form of the video modality. Accordingly, we design a modality mimic generation loss and a modality mimic editing loss to relatively align the capabilities--and thereby the output distributions--of the two modalities through mutual imitation. Moreover, language-based visual editing entails the comprehension of the editing instruction and the reference visual content, the localization of the region corresponding to that instruction within the reference visual contents, and the modification of that region alone. Existing approaches predominantly rely on external aids, such as fine-tuning an additional MLLM or explicitly supplying a mask sequence as auxiliary input during inference. In contrast, we aspire for the model to internalize this capability. To that end, we introduce sense-related tasks--for instance, referring expression segmentation--along with corresponding editing-region-aware latent-level loss and attention-level loss.",
-            "score": 5,
-            "issue_id": 2869,
-            "pub_date": "2026-07-20",
-            "pub_date_card": {
-                "ru": "20 июля",
-                "en": "July 20",
-                "zh": "7月20日"
-            },
-            "hash": "be2441ba7a1924ff",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Dingyun Zhang",
-                "Lixue Gong",
-                "Wei Liu"
-            ],
-            "affiliations": [
-                "ByteDance"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.18227.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#multimodal",
-                    "#data"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Интеграция редактирования видео и изображений в одной модели",
-                    "desc": "В данной статье рассматривается интеграция возможностей генерации и редактирования для видео и изображений в одной модели. Исследования показывают, что существующие методы сбора данных для редактирования видео требуют много времени и усилий, что ограничивает разнообразие задач редактирования. Мы разработали метод, который позволяет модели генерировать видео в реальном времени, используя только данные редактирования изображений. Также предлагаются новые задачи и потери, которые помогают модели лучше воспринимать инструкции для редактирования и осуществлять соответствующие изменения."
-                },
-                "en": {
-                    "title": "Unifying Video Generation and Editing in a Single Model",
-                    "desc": "This paper presents a unified model that integrates both video generation and editing capabilities, addressing the limitations of current video editing data collection methods. By developing a pixel-pair temporal warped flow field, the model can generate video editing samples in real time from image editing samples, enhancing task scalability. The authors introduce modality mimic generation and editing losses to align the output distributions of image and video modalities through mutual imitation. Additionally, the model aims to internalize language-based visual editing tasks without relying on external aids, using sense-related tasks to improve its understanding and execution of editing instructions."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.17097",
             "title": "HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis",
             "url": "https://huggingface.co/papers/2607.17097",
             "abstract": "Abstract  Hand-Object Interaction (HOI) synthesis is a cornerstone for animation production and embodied AI. Despite the strong priors of video foundation models, multi-view consistent HOI synthesis remains challenging due to complex hand motions and occlusions. We present HarmoHOI, a unified diffusion framework that jointly and harmoniously generates synchronized multi-view HOI videos and globally aligned 3D point tracks. Our core insight is that robust multi-view consistency fundamentally requires globally aligned 3D geometry and motion. To this end, we propose a Mixture of Multi-view Diffusion Transformer that co-models RGB videos and 3D point tracks. By representing point tracks as pseudo-videos, we align 3D geometric signals with the 2D latent space of foundation models, thereby minimizing the domain gap and easing adaptation of priors. To further ensure geometry consistency, we introduce Global Motion Aligning Diffusion, which refines coarse point tracks into metric-scale, globally aligned 3D trajectories. HarmoHOI enables on-the-fly co-evolution of 2D appearance and 3D motion during denoising. To overcome the scarcity of multi-view HOI data, we employ a hybrid data curriculum learning strategy that successfully transfers generic priors from single-view data to synchronized multi-view generation. Experimental results show that HarmoHOI achieves state-of-the-art performance in visual quality, motion plausibility, and multi-view geometric consistency. Project page available at https://droliven.github.io/HarmoHOI_project.",
-            "score": 5,
+            "score": 6,
             "issue_id": 2869,
             "pub_date": "2026-07-19",
             "pub_date_card": {
@@ -692,60 +845,6 @@
                 "en": {
                     "title": "HarmoHOI: Harmonizing 2D and 3D for Realistic Hand-Object Interactions",
                     "desc": "The paper introduces HarmoHOI, a novel framework for generating synchronized multi-view videos of hand-object interactions (HOI). It addresses challenges like complex hand motions and occlusions by ensuring multi-view consistency through globally aligned 3D geometry and motion. The framework utilizes a Mixture of Multi-view Diffusion Transformer to co-model RGB videos and 3D point tracks, effectively bridging the gap between 2D and 3D representations. HarmoHOI also employs a hybrid data curriculum learning strategy to enhance performance, achieving state-of-the-art results in visual quality and motion plausibility."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.07820",
-            "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
-            "url": "https://huggingface.co/papers/2607.07820",
-            "abstract": "Abstract  Training tool-use agents to improve from their own experience remains challenging, as supervised fine-tuning relies on fixed teacher-distilled trajectories, while sparse-reward reinforcement learning provides weak supervision for long-horizon interactions. We present DeepSearch-Evolve, a self-distillation framework for web agents built on DeepSearch-World, a deterministic and verifiable environment with reproducible search and page-reading tools. DeepSearch-World contains 420K multi-hop QA tasks constructed from entity-level random walks and supports key agentic cognitive behaviors useful for self-evolving, including progress verification, grounded reflection, and failure recovery. DeepSearch-Evolve iteratively performs trajectory generation, filtering, data mixing, and fine-tuning to train stronger agents. Without distillation from more capable models, DeepSearch-World-9B achieves competitive performance compared with open-source agents, reaching 31.2% on BrowseComp, 61.5% on GAIA, and 93.4% on HotpotQA, showing that verifiable environments enable scalable self-evolution for long-horizon web agents. We will release the environment, 420K training pool, validation set, model, and code to facilitate future research on self-improving deep search agents.",
-            "score": 5,
-            "issue_id": 2869,
-            "pub_date": "2026-07-08",
-            "pub_date_card": {
-                "ru": "8 июля",
-                "en": "July 8",
-                "zh": "7月8日"
-            },
-            "hash": "4bb9fa77853f6bb5",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Xinyu Geng",
-                "Xuanhua He",
-                "Sixiang Chen",
-                "Yanjing Xiao",
-                "Fan Zhang",
-                "Shijue Huang",
-                "Haitao Mi",
-                "Zhenwen Liang",
-                "Tianqing Fang",
-                "Yi R. Fung"
-            ],
-            "affiliations": [
-                "HKUST",
-                "HKUST(GZ)",
-                "Tencent"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.07820.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#agents",
-                    "#open_source",
-                    "#agent_memory",
-                    "#tool_use",
-                    "#rl"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Самообучение агентов для веб-поиска",
-                    "desc": "Статья описывает DeepSearch-Evolve, новую методику обучения агентов для использования инструментов в веб-среде. Она основана на среде DeepSearch-World, которая предоставляет детерминированные и проверяемые условия для выполнения многоходовых задач. В рамках этого подхода агенты учатся через самодистилляцию, путем создания, фильтрации и смешивания траекторий. Результаты показывают, что без учителей более мощных моделей агенты могут достигать конкурентоспособных показателей в различных задачах."
-                },
-                "en": {
-                    "title": "Empowering Web Agents to Self-Evolve through DeepSearch",
-                    "desc": "This paper introduces DeepSearch-Evolve, a framework designed to help web agents learn from their own experiences without relying on fixed teacher models. It utilizes DeepSearch-World, a controlled environment that allows agents to perform multi-hop question answering and develop cognitive skills like progress verification and failure recovery. The framework iteratively generates and refines training data to enhance agent performance over time. Results show that agents trained in this environment can compete effectively with existing models, demonstrating the potential for self-evolution in long-horizon tasks."
                 }
             }
         },
@@ -803,6 +902,48 @@
                 "en": {
                     "title": "Enhancing Knowledge Transfer with Distilled Reinforcement Learning",
                     "desc": "This paper introduces Distilled Reinforcement Learning (Distilled RL), a novel approach that enhances the post-training of large language models (LLMs) by integrating teacher supervision into the reinforcement learning framework. Unlike traditional methods that struggle with credit assignment and knowledge transfer, Distilled RL offers fine-grained guidance, allowing for selective knowledge transfer without unconditional imitation. The method includes components like reverse importance sampling, negative sample reset, and sequence-level geometric normalization to improve performance. Experimental results show that Distilled RL significantly outperforms existing techniques in both within-family and cross-family distillation tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.17146",
+            "title": "The Geometry of Semantic Space: A Continuous Geometric Framework for the Transformer Architecture",
+            "url": "https://huggingface.co/papers/2607.17146",
+            "abstract": "Abstract  We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = calM times R^d. Beginning from a single geometric axiom -- that the token sequence forms a discrete 1-manifold equipped with a canonical measure lattice -- we translate every core component of the modern Transformer (RMSNorm, RoPE, Softmax Attention, FFN, Residual Stream, SGD, Weight Decay) into a cohesive vocabulary of differential geometry, measure theory, and stochastic calculus. The resulting framework yields quantitative predictions spanning entropic optimal transport (Attention as a Schrödinger bridge) and non-equilibrium thermodynamics (SGD as Itô diffusion violating detailed balance). We conduct a six-part experimental campaign across five architectures (Qwen3, LLaMA\\nobreakdash-3.1, Gemma\\nobreakdash-3, GPT-2, Mistral) spanning 124M to 8B parameters. The empirical observables are quantitatively consistent with the geometric predictions: the ε^{-1/2} Lipschitz scaling calibration at machine precision (R^2 = 1.000), the Lie--Trotter operator-splitting torsion, the symmetric ablation instability confirming the Dual-Law of Topological Stability, the calO(1/k) thermodynamic suppression of Poincaré recurrence on the RoPE torus, the thermodynamic context-limit phase transition, and the Non-Equilibrium Steady State parameter vortex -- verified across two optimizers (AdamW and Pure SGD) to exclude momentum artifacts. The results demonstrate that analyzing Transformers through the lens of continuous stochastic differential geometry provides a predictive descriptive vocabulary for the stability limits, context bounds, and optimization dynamics of Large Language Models.",
+            "score": 3,
+            "issue_id": 2870,
+            "pub_date": "2026-07-19",
+            "pub_date_card": {
+                "ru": "19 июля",
+                "en": "July 19",
+                "zh": "7月19日"
+            },
+            "hash": "53b0b662b188a409",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhihua Liang"
+            ],
+            "affiliations": [
+                "INFN, Sezione di Cagliari, I-09042 Monserrato (CA), Italy"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.17146.jpg",
+            "data": {
+                "categories": [
+                    "#architecture",
+                    "#training",
+                    "#math",
+                    "#agi",
+                    "#optimization"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Геометрический подход к архитектуре Transformer",
+                    "desc": "В данной статье представлен непрерывный геометрический подход, который моделирует дискретные алгебраические операции архитектуры Transformer как интегро-дифференциальное уравнение на семантическом волокне. Основываясь на одном геометрическом аксиоме, статья переводит ключевые компоненты современного Transformer в словарь дифференциальной геометрии и стохастического анализа. Результирующая структура позволяет делать количественные предсказания и предлагает новую перспективу для анализа стабильности и динамики оптимизации больших языковых моделей. Проводимые эксперименты подтверждают соответствие эмпирических наблюдений с геометрическими предсказаниями."
+                },
+                "en": {
+                    "title": "Transforming Transformers: A Geometric Approach",
+                    "desc": "This paper introduces a continuous geometric framework that interprets the operations of the Transformer architecture as an integro-differential equation. By treating the token sequence as a discrete 1-manifold, the authors translate key components of Transformers into terms from differential geometry and stochastic calculus. The framework allows for predictions related to optimal transport and thermodynamics, validated through extensive experiments on various architectures. The findings suggest that this geometric perspective can effectively describe the stability and optimization dynamics of Large Language Models."
                 }
             }
         },
@@ -1183,9 +1324,9 @@
         "zh": "7月22日"
     },
     "categories": {
-        "#dataset": 6,
-        "#data": 2,
-        "#benchmark": 7,
+        "#dataset": 8,
+        "#data": 3,
+        "#benchmark": 8,
         "#agents": 11,
         "#rl": 6,
         "#rlhf": 4,
@@ -1193,15 +1334,15 @@
         "#plp": 0,
         "#inference": 3,
         "#3d": 4,
-        "#audio": 0,
+        "#audio": 1,
         "#multimodal": 6,
-        "#math": 0,
-        "#multilingual": 0,
-        "#architecture": 1,
+        "#math": 1,
+        "#multilingual": 1,
+        "#architecture": 2,
         "#healthcare": 0,
-        "#training": 15,
+        "#training": 17,
         "#robotics": 1,
-        "#agi": 3,
+        "#agi": 4,
         "#games": 1,
         "#interpretability": 1,
         "#reasoning": 4,
@@ -1209,20 +1350,20 @@
         "#graphs": 0,
         "#ethics": 0,
         "#security": 1,
-        "#optimization": 11,
+        "#optimization": 12,
         "#survey": 1,
         "#diffusion": 3,
         "#alignment": 1,
         "#story_generation": 1,
         "#hallucinations": 0,
-        "#long_context": 3,
-        "#synthetic": 2,
+        "#long_context": 4,
+        "#synthetic": 3,
         "#machine_translation": 1,
         "#leakage": 0,
-        "#open_source": 3,
+        "#open_source": 5,
         "#small_models": 0,
         "#science": 0,
-        "#low_resource": 0,
+        "#low_resource": 1,
         "#memory": 2,
         "#retrieval": 0,
         "#prompting": 1,

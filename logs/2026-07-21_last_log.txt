@@ -1,254 +1,336 @@
-[21.07.2026 08:30] Read previous papers.
-[21.07.2026 08:30] Generating top page (month).
-[21.07.2026 08:30] Writing top page (month).
-[21.07.2026 11:07] Read previous papers.
-[21.07.2026 11:07] Get feed.
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18213
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18213
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17423
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17423
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17250
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17250
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07820
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07820
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18217
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18217
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17977
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17977
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16401
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16401
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16850
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16850
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.09759
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.09759
-[21.07.2026 11:07] Extract page data from URL. URL: https://huggingface.co/papers/2607.10371
-[21.07.2026 11:07] Extract page data from URL. URL: https://huggingface.co/papers/2607.10387
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16900
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16900
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18227
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18227
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13365
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13365
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18110
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18110
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17097
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17097
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17247
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17247
-[21.07.2026 11:07] Extract page data from URL. URL: https://huggingface.co/papers/2607.17146
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16074
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16074
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17986
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17986
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.09655
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.09655
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17524
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17524
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18171
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18171
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17972
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17972
-[21.07.2026 11:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18084
-[21.07.2026 11:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18084
-[21.07.2026 11:07] Updating GitHub stars.
-[21.07.2026 11:07] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[21.07.2026 11:07] No deleted papers detected.
-[21.07.2026 11:07] Downloading and parsing papers (pdf, html). Total: 25.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.18213.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.18213.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.18213.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.17423.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.17423.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.17423.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.17250.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.17250.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.17250.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.07820.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.07820.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.07820.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.18217.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.18217.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.18217.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.17977.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.17977.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.17977.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.16401.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.16401.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.16401.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.16850.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.16850.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.16850.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.09759.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.09759.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.09759.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.10371.
-[21.07.2026 11:07] Downloading paper 2607.10371 from https://arxiv.org/pdf/2607.10371v1...
-[21.07.2026 11:07] Extracting affiliations from text.
-[21.07.2026 11:07] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[21.07.2026 11:10] Read previous papers.
+[21.07.2026 11:10] Generating top page (month).
+[21.07.2026 11:10] Writing top page (month).
+[21.07.2026 13:46] Read previous papers.
+[21.07.2026 13:46] Get feed.
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17423
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17423
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17250
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17250
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.07820
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.07820
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18213
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18213
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18217
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18217
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16401
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16401
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17977
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17977
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.09759
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.09759
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16850
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16850
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10371
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10371
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10387
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10387
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18227
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18227
+[21.07.2026 13:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.14183
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16900
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16900
+[21.07.2026 13:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.18144
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13365
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13365
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18110
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18110
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17097
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17097
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17247
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17247
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17146
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17146
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17986
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17986
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16074
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16074
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18084
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18084
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17524
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17524
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18171
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18171
+[21.07.2026 13:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.17675
+[21.07.2026 13:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.07050
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.09655
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.09655
+[21.07.2026 13:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.17790
+[21.07.2026 13:46] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17972
+[21.07.2026 13:46] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17972
+[21.07.2026 13:46] Extract page data from URL. URL: https://huggingface.co/papers/2607.16609
+[21.07.2026 13:46] Updating GitHub stars.
+[21.07.2026 13:46] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[21.07.2026 13:46] No deleted papers detected.
+[21.07.2026 13:46] Downloading and parsing papers (pdf, html). Total: 31.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17423.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17423.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17423.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17250.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17250.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17250.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.07820.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.07820.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.07820.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.18213.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.18213.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.18213.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.18217.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.18217.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.18217.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.16401.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.16401.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.16401.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17977.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17977.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17977.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.09759.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.09759.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.09759.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.16850.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.16850.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.16850.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.10371.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.10371.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.10371.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.10387.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.10387.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.10387.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.18227.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.18227.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.18227.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.14183.
+[21.07.2026 13:46] Downloading paper 2607.14183 from https://arxiv.org/pdf/2607.14183v2...
+[21.07.2026 13:46] Extracting affiliations from text.
+[21.07.2026 13:46] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"GigaAM Multilingual: Foundation Model for Underrepresented Languages Andrei Kuzmenko1,, Alexandr Maximenko1,, Aleksandr Kutsakov1, Georgii Gospodinov1,, Dmitrii Bolotov1, Oleg Kutuzov1, Pavel Bogomolov1, Fyodor Minkin1 1 SaluteDevices, Russia {andrey.kuzmenko2907, ae.maximenko, askutsakov, georgygospodinov, bolotovdm, olegkutuzov01, bobrosoft98, minkin.fyodor}@gmail.com Abstract Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). We present GigaAM Multilingual, Conformer encoder pretrained on 2M hours of audio using HuBERT-style objective. Crucially, we introduce cluster-level data balancing strategy during pre-training and domain-aware sampling method during fine-tuning to mitigate head-language dominance. In controlled comparisons, our approach outperforms strong open pretrained encoders (Whisper Large v3, Omnilingual-1B) on target languages, achieving significant gains on spontaneous speech while maintaining efficiency. We release the foundation encoder and ASR model, offering proven recipe for effective multilingual adaptation under realistic data imbalance. Index Terms: multilingual, low-resource languages speech recognition, self-supervised learning, 1. Introduction Recent years have seen rapid progress in multilingual automatic speech recognition (ASR), driven by scaling data, model capacity, and weakly-supervised and self-supervised training objectives [1, 2, 3, 4]. Despite these advances, recognition quality remains highly uneven across languages: performance on highresource languages is strong, while many low-resource and long-tail languages still exhibit error rates that are prohibitive for downstream applications [5]. major contributor to this disparity is data imbalance [6]: empirical data distribution favors head langua"
-[21.07.2026 11:07] Response: ```python
-["SaluteDevices, Russia"]
+Text:"Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning Ant Digital Technologies, Ant Group   Abstract Egocentric videos of human manipulation provide scalable supervision for embodied intelligence, yet existing resources rarely combine low-cost continuous capture, manipulation-level structured annotations, and reusable tools for robot learning. We present Open-AoE, an open, community-oriented egocentric manipulation dataset and toolchain spanning the full pipeline from smartphone capture to model training. Its first release contains approximately 2,000 hours of manipulation video collected in natural environments by 500+ contributors using 400+ smartphones. The dataset provides text annotations, MANO-based hand poses, camera trajectories, and temporally localized atomic actions. Open-AoE further includes data processing pipeline that transforms raw recordings into structured samples through temporal action segmentation, semantic annotation, hand reconstruction, and camera trajectory reconstruction. Meanwhile, we provide separate downstream toolchain supports visualization, cross-embodiment retargeting, model-specific data conversion, and training recipes for VLA policies, WAMs, and World Models. By integrating scalable capture, structured processing, and downstream adaptation, Open-AoE reduces the barriers to both data contribution and reuse, providing practical open infrastructure for embodied model training, human-to-robot transfer, and world modeling. Figure 1: Overview of Open-AoE. Open-AoE provides independent modules for smartphone capture, structured data processing, and downstream robot learning, supporting 2,000 hours of data across 500+ contributors, 400+ device types, 400+ scenes, and 8,000+ tasks. 1 Table 1: Comparison of egocentric manipulation datasets. Capture devices are reported as device models or camera types only when explicitly documented by the source; aggregated corpora without verifiable model inventory are mark"
+[21.07.2026 13:46] Response: ```python
+["Ant Digital Technologies, Ant Group"]
 ```
-[21.07.2026 11:07] Deleting PDF ./assets/pdf/2607.10371.pdf.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.10387.
-[21.07.2026 11:07] Downloading paper 2607.10387 from https://arxiv.org/pdf/2607.10387v1...
-[21.07.2026 11:07] Extracting affiliations from text.
-[21.07.2026 11:07] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[21.07.2026 13:46] Deleting PDF ./assets/pdf/2607.14183.pdf.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.16900.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.16900.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.16900.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.18144.
+[21.07.2026 13:46] Downloading paper 2607.18144 from https://arxiv.org/pdf/2607.18144v1...
+[21.07.2026 13:46] Extracting affiliations from text.
+[21.07.2026 13:46] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"GigaChat Audio: Time-aware Large Audio Language Model Aleksandr Kutsakov1, Mariia Sadovina1, Georgii Gospodinov1, Alexandr Maximenko1, Oleg Kutuzov1, Pavel Bogomolov1, Fyodor Minkin1 1 SaluteDevices, Russia {askutsakov, sadovinama, georgygospodinov, ae.maximenko, olegkutuzov01, bobrosoft98, minkin.fyodor}@gmail.com "
-[21.07.2026 11:07] Response: ```python
-["SaluteDevices, Russia"]
+Text:"Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints Thomas MacDougall1 Maksim Kuznetsov1 Roman Schutski3 Rim Shayakhmetov2 Maxim Malkov2 Vladimir Aladinskiy2 Alex Aliper2 Alex Zhavoronkov1,2,3 1Insilico Medicine Canada Inc. 2Insilico Medicine AI Limited 3Insilico Medicine Hong Kong Ltd. "
+[21.07.2026 13:46] Response: ```python
+["Insilico Medicine Canada Inc.", "Insilico Medicine AI Limited", "Insilico Medicine Hong Kong Ltd."]
 ```
-[21.07.2026 11:07] Deleting PDF ./assets/pdf/2607.10387.pdf.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.16900.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.16900.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.16900.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.18227.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.18227.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.18227.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.13365.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.13365.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.13365.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.18110.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.18110.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.18110.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.17097.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.17097.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.17097.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.17247.
-[21.07.2026 11:07] Extra JSON file exists (./assets/json/2607.17247.json), skip PDF parsing.
-[21.07.2026 11:07] Paper image links file exists (./assets/img_data/2607.17247.json), skip HTML parsing.
-[21.07.2026 11:07] Success.
-[21.07.2026 11:07] Downloading and parsing paper https://huggingface.co/papers/2607.17146.
-[21.07.2026 11:07] Downloading paper 2607.17146 from https://arxiv.org/pdf/2607.17146v1...
-[21.07.2026 11:08] Extracting affiliations from text.
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[21.07.2026 13:46] Deleting PDF ./assets/pdf/2607.18144.pdf.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.13365.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.13365.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.13365.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.18110.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.18110.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.18110.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17097.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17097.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17097.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17247.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17247.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17247.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17146.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17146.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17146.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17986.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17986.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17986.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.16074.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.16074.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.16074.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.18084.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.18084.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.18084.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17524.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.17524.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.17524.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.18171.
+[21.07.2026 13:46] Extra JSON file exists (./assets/json/2607.18171.json), skip PDF parsing.
+[21.07.2026 13:46] Paper image links file exists (./assets/img_data/2607.18171.json), skip HTML parsing.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.17675.
+[21.07.2026 13:46] Downloading paper 2607.17675 from https://arxiv.org/pdf/2607.17675v1...
+[21.07.2026 13:46] Extracting affiliations from text.
+[21.07.2026 13:46] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"The Geometry of Semantic Space: Continuous Geometric Framework for the Transformer Architecture Zhihua Liang1, 1INFN, Sezione di Cagliari, I-09042 Monserrato (CA), Italy (Dated: July 21, 2026) We present continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on semantic fiber bundle = Rd. Beginning from single geometric axiomthat the token sequence forms discrete 1-manifold equipped with canonical measure latticewe translate every core component of the modern Transformer (RMSNorm, RoPE, Softmax Attention, FFN, Residual Stream, SGD, Weight Decay) into cohesive vocabulary of differential geometry, measure theory, and stochastic calculus. The resulting framework yields quantitative predictions spanning entropic optimal transport (Attention as Schrodinger bridge) and non-equilibrium thermodynamics (SGD as Itˆo diffusion violating detailed balance). We conduct six-part experimental campaign across five architectures (Qwen3, LLaMA-3.1, Gemma-3, GPT-2, Mistral) spanning 124M to 8B parameters. The empirical observables are quantitatively consistent with the geometric predictions: the ϵ1/2 Lipschitz scaling calibration at machine precision (R2 = 1.000), the LieTrotter operator-splitting torsion, k) the symmetric ablation instability confirming the Dual-Law of Topological Stability, the O(1/ thermodynamic suppression of Poincare recurrence on the RoPE torus, the thermodynamic contextlimit phase transition, and the Non-Equilibrium Steady State parameter vortexverified across two optimizers (AdamW and Pure SGD) to exclude momentum artifacts. The results demonstrate that analyzing Transformers through the lens of continuous stochastic differential geometry provides predictive descriptive vocabulary for the stability limits, context bounds, and optimization dynamics of Large Language Models. I. INTRODUCTION Analyzing deep learning through the lens of continuous dynamical systems has su"
-[21.07.2026 11:08] Response: ```python
-["INFN, Sezione di Cagliari, I-09042 Monserrato (CA), Italy"]
+Text:"ShotPlan: Cinematic Video Generation with Learnable Planning Token Su Guo*,1,2 Guangce Liu*,1 Haosen Yang Jiepeng Wang1 Cong Liu1 Junqi Liu1 Haibin Huang1 Hongxun Yao(cid:66),2 Chi Zhang1 Xuelong Li(cid:66),1 1Institute of Artificial Intelligence (TeleAI), China Telecom 2Harbin Institute of Technology guosu0930@gmail.com h.yao@hit.edu.cn xuelong li@chinatelecom.cn Project page: https://pensioner-11.github.io/ShotPlan/ Figure 1. ShotPlan enables controllable multi-shot video generation within single sequence. (Top) Given user-specified timestamps, the model produces accurate hard cuts while preserving character identity and scene consistency across shots. (Middle) The same framework (Bottom) As byproduct, our approach can be extended to also supports gradual transitions (e.g., cross-fades) in unified manner. temporally localized camera motion control (e.g., circle-left), demonstrating its generality. "
+[21.07.2026 13:46] Response: ```python
+["Institute of Artificial Intelligence (TeleAI), China Telecom", "Harbin Institute of Technology"]
 ```
-[21.07.2026 11:08] Deleting PDF ./assets/pdf/2607.17146.pdf.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.16074.
-[21.07.2026 11:08] Extra JSON file exists (./assets/json/2607.16074.json), skip PDF parsing.
-[21.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.16074.json), skip HTML parsing.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.17986.
-[21.07.2026 11:08] Extra JSON file exists (./assets/json/2607.17986.json), skip PDF parsing.
-[21.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.17986.json), skip HTML parsing.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.09655.
-[21.07.2026 11:08] Extra JSON file exists (./assets/json/2607.09655.json), skip PDF parsing.
-[21.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.09655.json), skip HTML parsing.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.17524.
-[21.07.2026 11:08] Extra JSON file exists (./assets/json/2607.17524.json), skip PDF parsing.
-[21.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.17524.json), skip HTML parsing.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.18171.
-[21.07.2026 11:08] Extra JSON file exists (./assets/json/2607.18171.json), skip PDF parsing.
-[21.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.18171.json), skip HTML parsing.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.17972.
-[21.07.2026 11:08] Extra JSON file exists (./assets/json/2607.17972.json), skip PDF parsing.
-[21.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.17972.json), skip HTML parsing.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.18084.
-[21.07.2026 11:08] Extra JSON file exists (./assets/json/2607.18084.json), skip PDF parsing.
-[21.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.18084.json), skip HTML parsing.
-[21.07.2026 11:08] Success.
-[21.07.2026 11:08] Enriching papers with extra data.
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 0. Abstract  Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the rele...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 1. Abstract  Video multimodal large language models (MLLMs) can describe what happens in a video, but rarely identify when the supporting evidence occurs. We study generalist video temporal grounding, in which one model predicts a variable-cardinality set of evidence intervals across video lengths, dom...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 2. Abstract  This paper introduces EvolvingWorld, a framework and benchmark for character and world co-evolution in interactive literary worlds. Existing systems either treat interactive literary simulation as static persona imitation or isolated scene generation, failing to capture how characters and ...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 3. Abstract  Training tool-use agents to improve from their own experience remains challenging, as supervised fine-tuning relies on fixed teacher-distilled trajectories, while sparse-reward reinforcement learning provides weak supervision for long-horizon interactions. We present DeepSearch-Evolve, a s...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 4. Abstract  Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fide...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 5. Abstract  We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports embodied perception, spatial reasoning, localization, and planning. Compared with RynnBra...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 6. Abstract  Modern video generation models are increasingly hailed as emerging world models with an internalized grasp of physical law. Yet existing benchmarks largely evaluate physical plausibility only at the output level, without verifying whether the model arrives there through a faithful, law-gro...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 7. Abstract  Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradigm is often conducted on mixtures of heterogeneous tasks, which induce distinct entropy re...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 8. Abstract  Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted increasing interest. Unfortunately, existi...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 9. Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). W...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 10. Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-s...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 11. Abstract  Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data at scale typically requires fully implemented environments with executable APIs and realistic, pre-populated backend databases, creating a major bottle...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 12. Abstract  In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming cu...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 13. Abstract  Existing 3D generative models predominantly rely on implicit volumetric representations, which enforce watertight topology and struggle to represent thin-shell and non-manifold geometries such as garments. Geometry image-based approaches offer a surface-centric alternative, but existing me...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 14. Abstract  Reinforcement learning (RL) on open-ended tasks compresses an LLM's rubric-based evaluation into a scalar reward, discarding rich textual feedback and conflating responses with distinct quality profiles. We propose Experiential Learning (EL), which repurposes the feedback model from an LLM...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 15. Abstract  Hand-Object Interaction (HOI) synthesis is a cornerstone for animation production and embodied AI. Despite the strong priors of video foundation models, multi-view consistent HOI synthesis remains challenging due to complex hand motions and occlusions. We present HarmoHOI, a unified diffus...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 16. Abstract  Large language model (LLM) post-training is essential for improving reasoning, adaptation, and alignment. Existing methods mainly follow two paradigms: reinforcement learning (RL) and on-policy distillation (OPD). However, RL relies on coarse-grained outcome supervision, resulting in diffi...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 17. Abstract  We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = calM times R^d. Beginning from a single geometric axiom -- that the token sequence forms a d...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 18. Abstract  The post-training of Vision-Language-Action (VLA) models is essential due to the diversity of simulators, robot embodiments, and task objectives. Existing compute services, whether offered as direct accelerator rental or batch-workload submission, typically allocate an exclusive set of GPU...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 19. Abstract  Self-hosted AI agents read and write their own memory and configuration files to function. An agent may get compromised via corruption of its own state -- a compromise realized via legitimate OS system call invocation. We refer to this class of threats as self-state attacks. In this paper,...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 20. Abstract  Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events remain underutilized when collected from heterogeneous sources. Specifically, diverse but...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 21. Abstract  We propose Token-Level Off-Policy Labeling (TOPL), an off-policy training paradigm that reframes post-training as a token-level correctness prediction task. Our key intuition is that by training the model to distinguish good and bad tokens in a response, we naturally guide the model toward...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 22. Abstract  Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisions about placement, streaming, and intra-model parallelism. Existing serving systems and a...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 23. Abstract  The prevailing inference framework for diffusion models formulates generation fundamentally as a problem of numerical integration. This perspective casts the model as an exact estimator, neglecting the inherent statistical uncertainty of the denoising process. In this work, we propose Forw...
-[21.07.2026 11:08] ********************************************************************************
-[21.07.2026 11:08] Abstract 24. Abstract  Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCupArena, a dynamic benchmark for language models and deep-research agents. The 2026 FIFA Wo...
-[21.07.2026 11:08] Read previous papers.
-[21.07.2026 11:08] Generating reviews via LLM API.
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#long_context", "#optimization", "#training", "#inference", "#agents", "#prompting"], "emoji": "🪄", "ru": {"title": "Оптимизация контекста с помощью SWE-Pruner Pro", "desc": "Статья обсуждает метод сокращения контекста для агентов, работающих с кодом, с целью повышения эффективности
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#benchmark", "#agi", "#multimodal", "#rl"], "emoji": "⏳", "ru": {"title": "Точное определение временных интервалов в видео", "desc": "В данной статье исследуются мультимодальные большие языковые модели видео (MLLM), которые могут описывать со
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#multimodal", "#benchmark", "#long_context", "#architecture", "#dataset", "#story_generation", "#training", "#agents"], "emoji": "📖", "ru": {"title": "Эволюция персонажей и миров в интерактивной литературе", "desc": "Статья представляет EvolvingWorld, новую структуру и бенчмарк для 
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#training", "#agents", "#open_source", "#agent_memory", "#tool_use", "#rl"], "emoji": "🧠", "ru": {"title": "Самообучение агентов для веб-поиска", "desc": "Статья описывает DeepSearch-Evolve, новую методику обучения агентов для использования инструментов в веб-среде. Она основана на 
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#multimodal", "#3d"], "emoji": "🎥", "ru": {"title": "Персонализация видео с HOMIE: новое слово в HOCVP", "desc": "Статья представляет новую рамочную концепцию HOMIE для персонализации видео, ориентированную на человека и объекты. Основное внимание уделяется улучшению точности взаимо
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#benchmark", "#3d", "#reasoning", "#optimization", "#agi", "#training", "#agents", "#robotics"], "emoji": "🤖", "ru": {"title": "Эволюция моделей с телесным воплощением", "desc": "В статье представлен RynnBrain 1.1 — семейство моделей с телесным воплощением, охватывающее масштабы от 
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#reasoning", "#benchmark", "#dataset", "#survey"], "emoji": "🎥", "ru": {"title": "Новый стандарт оценки видео-моделей через призму физических законов", "desc": "В данной статье представлено новое направление в оценке моделей генерации видео, основанное на физических законах. Мы разр
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#rl", "#optimization", "#rlhf", "#training"], "emoji": "⚖️", "ru": {"title": "Оптимизация с контролем энтропии для эффективного обучения", "desc": "В данной статье рассматривается использование контроля энтропии в обучении с подкреплением (RL) для больших
-[21.07.2026 11:08] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#agent_memory", "#retrieval_eval", "#session_memory", "#training", "#agents", "#continual_learning", "#memory"], "emoji": "🧠", "ru": {"title": "Новая эра многомодальной памяти для видео", "desc": "В данной статье представлена система многомодальной па
-[21.07.2026 11:08] Querying the API.
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[21.07.2026 13:46] Deleting PDF ./assets/pdf/2607.17675.pdf.
+[21.07.2026 13:46] Success.
+[21.07.2026 13:46] Downloading and parsing paper https://huggingface.co/papers/2607.07050.
+[21.07.2026 13:47] Downloading paper 2607.07050 from https://arxiv.org/pdf/2607.07050v2...
+[21.07.2026 13:47] Extracting affiliations from text.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). We present GigaAM Multilingual, a Conformer encoder pre-trained on 2M hours of audio using a HuBERT-style objective. Crucially, we introduce a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to mitigate head-language dominance. In controlled comparisons, our approach outperforms strong open pretrained encoders (Whisper Large v3, Omnilingual-1B) on target languages, achieving significant gains on spontaneous speech while maintaining efficiency. We release the foundation encoder and ASR model, offering a proven recipe for effective multilingual adaptation under realistic data imbalance.
-[21.07.2026 11:08] Response: ```json
+Text:"Diagnosing and Calibrating Tool-Call Boundary Drift in Multi-Teacher On-Policy Distillation Jiabin Shen1, Guang Chen2, and Chengjun Mao3 1tjusjb@gmail.com 2cg234573@antgroup.com 3chengjun.mcj@antgroup.com Abstract Agentic language models must learn when to call tools and when to answer directly. Multi-teacher onpolicy distillation is attractive because different teachers can specialize in tool calls and direct responses. We show that this strategy can shift the students tool-call boundary in way that aggregate losses miss. In two-teacher tool-use setting, vanilla generalized knowledge distillation improves tool-call recall but also increases tool-call entry on examples that should be answered directly. Training logs do not support the simplest explanation: tool-call samples receive neither more token exposure nor larger full-sequence per-token divergence. We therefore study the problem as behavior-boundary calibration and compare hard clipping, global reweighting, localized soft compression, and validation-tuned inference-time entry bias. We introduce Soft Clamp as the localized training-time option, which compresses extreme token-level Jensen-Shannon divergence while preserving nonzero gradients. On an APIGen-MT-derived decision set, Soft Clamp reduces over-calling from 14.22.1% to 9.00.2% while maintaining comparable decision accuracy and retaining much of the call-recall gain over SFT. Global Reweight is strong comparator, and no strategy dominates every metric and scale. validation-tuned entry bias reproduces most strict-decoder call-frequency and loop reduction, but only part of the joint call-recall, non-tool-final, and invalid-call profile. These results frame multi-teacher OPD as behavior-boundary calibration problem: practitioners should monitor where teacher signals act and choose calibration strategies according to locality, observed variability, recall, and deployment trade-offs. Agentic language models often act through interleaved dialogue and tool-use"
+[21.07.2026 13:47] Response: ```python
+[]
+```
+[21.07.2026 13:47] Extracting affiliations from text.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Diagnosing and Calibrating Tool-Call Boundary Drift in Multi-Teacher On-Policy Distillation Jiabin Shen1, Guang Chen2, and Chengjun Mao3 1tjusjb@gmail.com 2cg234573@antgroup.com 3chengjun.mcj@antgroup.com Abstract Agentic language models must learn when to call tools and when to answer directly. Multi-teacher onpolicy distillation is attractive because different teachers can specialize in tool calls and direct responses. We show that this strategy can shift the students tool-call boundary in way that aggregate losses miss. In two-teacher tool-use setting, vanilla generalized knowledge distillation improves tool-call recall but also increases tool-call entry on examples that should be answered directly. Training logs do not support the simplest explanation: tool-call samples receive neither more token exposure nor larger full-sequence per-token divergence. We therefore study the problem as behavior-boundary calibration and compare hard clipping, global reweighting, localized soft compression, and validation-tuned inference-time entry bias. We introduce Soft Clamp as the localized training-time option, which compresses extreme token-level Jensen-Shannon divergence while preserving nonzero gradients. On an APIGen-MT-derived decision set, Soft Clamp reduces over-calling from 14.22.1% to 9.00.2% while maintaining comparable decision accuracy and retaining much of the call-recall gain over SFT. Global Reweight is strong comparator, and no strategy dominates every metric and scale. validation-tuned entry bias reproduces most strict-decoder call-frequency and loop reduction, but only part of the joint call-recall, non-tool-final, and invalid-call profile. These results frame multi-teacher OPD as behavior-boundary calibration problem: practitioners should monitor where teacher signals act and choose calibration strategies according to locality, observed variability, recall, and deployment trade-offs.Agentic language models often act through interleaved dialogue and tool-use trajectories, such as System User ToolCall1 ToolResponse1 ToolCall2 ToolResponse2 Response1 User . Along such trajectories, the model must decide not only how to use tool, but also whether to use one and when to stop using tools. This decision is brittle in multi-turn systems. model that overuses tools increases latency and cost, and it can enter repeated tool-call loops after receiving observations. model that underuses tools fails tasks that require external information or actions. Multi-teacher on-policy distillation (MOPD) appears well matched to this problem [11]. tool-call teacher can specialize in structured function calls; response teacher can specialize in direct natural-language answers. The student then learns from teacher distributions on its own rollouts, as in generalized knowledge distillation (GKD) [1]. This setup offers specialization without manually merging heterogeneous behaviors. This paper makes simple point: multi-teacher OPD can bend behavior boundary while aggregate loss looks benign. In our APIGen-MT tool-use setting, vanilla GKD improves decision accuracy and tool-call recall, but it also raises over-calling. The model becomes better at calling tools when tools are needed, yet it becomes more likely to call tools when direct answer is appropriate. 1 Several aggregate explanations are not supported by the training logs. Tool-call samples do not dominate token exposure. Full-sequence per-token Jensen-Shannon divergence (JSD) and squared-divergence proxy are not larger for the tool-call teacher. In several runs, response tokens receive more exposure and larger aggregate divergence. The final behavior therefore cannot be explained by sample count, token count, or total divergence alone. We argue that one missing variable is behavior leverage imbalance. token-level learning signal matters not only by its magnitude, but also by where it lands in the generation process. In tool-use model, modeentry tokens such as <tool call>, function names, and structural markers expose the boundary between direct answers and tool-call trajectories. Natural-language response signals are often spread across many content tokens. This makes multi-teacher OPD vulnerable to boundary bending: small amount of local signal can redirect the future trajectory. Targeted-clamp diagnostics refine this view. The benefit of Soft Clamp is not reproduced by clamping only the first few entry tokens, so high-leverage signals can also appear at later structural or teacher-dispreferred trajectory positions. We treat this as diagnostic interpretation, not as complete causal decomposition. This observation leads to calibration comparison. We study hard clipping, Global Reweight, Soft Clamp, and inference-time entry bias as different ways to counter tool-call boundary shift. Soft Clamp is our localized training-time option. For each token divergence di, it uses detached batch threshold and leaves tokens below it unchanged. Tokens above the threshold are scaled by detached factor, which caps their forward contribution and scales their gradient without dropping it. Unlike hard clipping, Soft Clamp retains learning signal for difficult tokens. Unlike global reweighting, it acts only on extremes. Unlike inference-time entry bias, it does not require per-checkpoint validation tuning at deployment. Our contributions are: Failure discovery. We identify reproducible tool-call boundary drift in multi-teacher OPD: vanilla GKD improves should-call recall but also increases tool-call entry on should-respond examples. Diagnostic framework. We connect aggregate training statistics, sparse token-level divergence concentration, response-side entry pressure, full-generation decisions, and multi-turn loop behavior. These diagnostics support behavior-leverage interpretation without claiming complete causal decomposition. Calibration comparison. We compare hard clipping, global reweighting, localized soft compression, and validation-tuned inference-time entry bias, exposing trade-offs in gradient preservation, locality, observed seed variability, call recall, and deployment requirements. Localized training-time option. We introduce Soft Clamp, lightweight per-token divergence calibration method that preserves gradients while compressing extreme token-level signals. It provides strong 9B calibration with lower observed standard deviation across the three evaluated seeds, remains competitive at 4B, and requires no per-checkpoint inference-time bias selection"
+[21.07.2026 13:47] Response: ```python
+[]
+```
+[21.07.2026 13:47] Deleting PDF ./assets/pdf/2607.07050.pdf.
+[21.07.2026 13:47] Success.
+[21.07.2026 13:47] Downloading and parsing paper https://huggingface.co/papers/2607.09655.
+[21.07.2026 13:47] Extra JSON file exists (./assets/json/2607.09655.json), skip PDF parsing.
+[21.07.2026 13:47] Paper image links file exists (./assets/img_data/2607.09655.json), skip HTML parsing.
+[21.07.2026 13:47] Success.
+[21.07.2026 13:47] Downloading and parsing paper https://huggingface.co/papers/2607.17790.
+[21.07.2026 13:47] Downloading paper 2607.17790 from https://arxiv.org/pdf/2607.17790v1...
+[21.07.2026 13:47] Extracting affiliations from text.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video Xiaozhong Lyu1 , Gen Li1 , Zhiyin Qian1 , Xucong Zhang1,2 , Marc Pollefeys1,3 , and Siyu Tang1 1 ETH Zurich, Switzerland 2 Delft University of Technology, Netherlands 3 Microsoft, Switzerland Abstract. Egocentric devices, such as wearable front-facing cameras, provide unique perspective for capturing the continuous interaction between human viewer and the surrounding environment. holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore highly desirable. However, existing approaches often rely on auxiliary inputs such as pre-computed camera trajectories, treat scene perception and human ego-motion modeling as separate problems despite their strong interdependency, and suffer from slow inference time. To address these limitations, we present ReViV, the first unified framework for holistic egocentric 4D reconstruction that extracts both viewer and view dynamics from single monocular RGB video. We formulate the task as learning the full joint probability distribution over multimodal signals, including RGB video, camera trajectory, gaze direction, full-body motion, hand motion, and depth. Powered by Masked Generative Egocentric Transformer, ReViV operates within single feed-forward architecture to simultaneously reconstruct the temporally consistent 4D reconstruction across the viewer and the view with fast inference speed. Extensive experiments on diverse benchmarks, including HoloAssist, HOT3D, ARCTIC, Aria Digital Twin, and TACO, demonstrate that ReViV achieves state-of-the-art accuracy and efficiency across holistic ego-body, hand, and gaze reconstruction, camera tracking, while maintaining highly competitive egocentric depth estimation, without relying on heavy task-specific priors. Code and models are fully open-sourced: https://reviv4d.github.io/. Keywords: Egocentric Vision 4D Reconstruction Human Motion Egocentric vision lies at the co"
+[21.07.2026 13:47] Response: ```python
+["ETH Zurich, Switzerland", "Delft University of Technology, Netherlands", "Microsoft, Switzerland"]
+```
+[21.07.2026 13:47] Deleting PDF ./assets/pdf/2607.17790.pdf.
+[21.07.2026 13:47] Success.
+[21.07.2026 13:47] Downloading and parsing paper https://huggingface.co/papers/2607.17972.
+[21.07.2026 13:47] Extra JSON file exists (./assets/json/2607.17972.json), skip PDF parsing.
+[21.07.2026 13:47] Paper image links file exists (./assets/img_data/2607.17972.json), skip HTML parsing.
+[21.07.2026 13:47] Success.
+[21.07.2026 13:47] Downloading and parsing paper https://huggingface.co/papers/2607.16609.
+[21.07.2026 13:47] Downloading paper 2607.16609 from https://arxiv.org/pdf/2607.16609v1...
+[21.07.2026 13:47] Extracting affiliations from text.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Can Multimodal Large Language Models Understand OCT? Baochen Fu1,2, Wenzhi Deng1, Baihao Jin1, Yang Li4, Zihan Nie1, Kailin Jiang5, Yuntao Du1,2,3, Weiye Song1 1Shandong University 2Joint SDU-NTU Centre for Artificial Intelligence Research 3State Key Laboratory for Novel Software Technology 4Shandong Provincial Qianfoshan Hospital 5University of Science and Technology of China Abstract Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential in medical image analysis, existing benchmarks largely reduce OCT understanding to coarsegrained disease classification or isolated visual question answering, leaving the complete cognitive process from visual perception to clinical reasoning insufficiently evaluated. To address this limitation, we introduce OCT-Bench, comprehensive benchmark dedicated to OCT image understanding. OCT-Bench comprises 10,076 high-quality multiple-choice questions constructed from 4,137 OCT images across seven public datasets. Following the real-world clinical interpretation workflow, we establish hierarchical capability taxonomy consisting of 20 fine-grained tasks across three dimensions: Perception, Cognition, and Reasoning. These tasks cover broad range of capabilities, including imaging attributes, retinal anatomy, lesion characteristics, spatial relationships, disease assessment, therapeutic decision-making, and prognostic management. We systematically evaluate 20 representative MLLMs, including proprietary models, opensource general-purpose models, and medical-domain models. Experimental results demonstrate that current models remain substantially short of reliable OCT understanding. Moreover, neither medical-domain adaptation nor increased model scale consistently improves performance across capability levels. OCT-Bench enables comprehensive and fine-grained evaluation of MLLMs, providing foundation f"
+[21.07.2026 13:47] Response: ```python
+[
+    "Shandong University",
+    "Joint SDU-NTU Centre for Artificial Intelligence Research",
+    "State Key Laboratory for Novel Software Technology",
+    "Shandong Provincial Qianfoshan Hospital",
+    "University of Science and Technology of China"
+]
+```
+[21.07.2026 13:47] Deleting PDF ./assets/pdf/2607.16609.pdf.
+[21.07.2026 13:47] Success.
+[21.07.2026 13:47] Enriching papers with extra data.
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 0. Abstract  Video multimodal large language models (MLLMs) can describe what happens in a video, but rarely identify when the supporting evidence occurs. We study generalist video temporal grounding, in which one model predicts a variable-cardinality set of evidence intervals across video lengths, dom...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 1. Abstract  This paper introduces EvolvingWorld, a framework and benchmark for character and world co-evolution in interactive literary worlds. Existing systems either treat interactive literary simulation as static persona imitation or isolated scene generation, failing to capture how characters and ...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 2. Abstract  Training tool-use agents to improve from their own experience remains challenging, as supervised fine-tuning relies on fixed teacher-distilled trajectories, while sparse-reward reinforcement learning provides weak supervision for long-horizon interactions. We present DeepSearch-Evolve, a s...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 3. Abstract  Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the rele...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 4. Abstract  Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fide...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 5. Abstract  Modern video generation models are increasingly hailed as emerging world models with an internalized grasp of physical law. Yet existing benchmarks largely evaluate physical plausibility only at the output level, without verifying whether the model arrives there through a faithful, law-gro...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 6. Abstract  We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports embodied perception, spatial reasoning, localization, and planning. Compared with RynnBra...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 7. Abstract  Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted increasing interest. Unfortunately, existi...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 8. Abstract  Entropy control has become an effective tool in reinforcement learning (RL) of large language models (LLMs), helping balance exploration-exploitation trade-off during alignment process. Such RL paradigm is often conducted on mixtures of heterogeneous tasks, which induce distinct entropy re...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 9. Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). W...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 10. Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-s...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 11. Abstract  In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming cu...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 12. Abstract  Egocentric videos of human manipulation provide scalable supervision for embodied intelligence, yet existing resources rarely combine low-cost continuous capture, manipulation-level structured annotations, and reusable tools for robot learning. We present Open-AoE, an open, community-orien...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 13. Abstract  Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data at scale typically requires fully implemented environments with executable APIs and realistic, pre-populated backend databases, creating a major bottle...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 14. Abstract  Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 15. Abstract  Existing 3D generative models predominantly rely on implicit volumetric representations, which enforce watertight topology and struggle to represent thin-shell and non-manifold geometries such as garments. Geometry image-based approaches offer a surface-centric alternative, but existing me...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 16. Abstract  Reinforcement learning (RL) on open-ended tasks compresses an LLM's rubric-based evaluation into a scalar reward, discarding rich textual feedback and conflating responses with distinct quality profiles. We propose Experiential Learning (EL), which repurposes the feedback model from an LLM...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 17. Abstract  Hand-Object Interaction (HOI) synthesis is a cornerstone for animation production and embodied AI. Despite the strong priors of video foundation models, multi-view consistent HOI synthesis remains challenging due to complex hand motions and occlusions. We present HarmoHOI, a unified diffus...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 18. Abstract  Large language model (LLM) post-training is essential for improving reasoning, adaptation, and alignment. Existing methods mainly follow two paradigms: reinforcement learning (RL) and on-policy distillation (OPD). However, RL relies on coarse-grained outcome supervision, resulting in diffi...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 19. Abstract  We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = calM times R^d. Beginning from a single geometric axiom -- that the token sequence forms a d...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 20. Abstract  Self-hosted AI agents read and write their own memory and configuration files to function. An agent may get compromised via corruption of its own state -- a compromise realized via legitimate OS system call invocation. We refer to this class of threats as self-state attacks. In this paper,...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 21. Abstract  The post-training of Vision-Language-Action (VLA) models is essential due to the diversity of simulators, robot embodiments, and task objectives. Existing compute services, whether offered as direct accelerator rental or batch-workload submission, typically allocate an exclusive set of GPU...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 22. Abstract  Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCupArena, a dynamic benchmark for language models and deep-research agents. The 2026 FIFA Wo...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 23. Abstract  We propose Token-Level Off-Policy Labeling (TOPL), an off-policy training paradigm that reframes post-training as a token-level correctness prediction task. Our key intuition is that by training the model to distinguish good and bad tokens in a response, we naturally guide the model toward...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 24. Abstract  Real-time multimodal applications, including voice agents and interactive video generation, compose heterogeneous models into pipelines whose efficient deployment requires application-specific decisions about placement, streaming, and intra-model parallelism. Existing serving systems and a...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 25. Abstract  Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition require explicit shot planning. To address this challenge, we propose ShotPlan, a framework...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 26. Abstract  Agentic language models must learn when to call tools, when to consume tool responses, and when to answer directly. This makes multi-teacher on-policy distillation a natural training strategy: one teacher can specialize in tool calls, another in direct responses, and the student can learn ...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 27. Abstract  Scaling robust driving policies is fundamentally bottlenecked by the scarcity of edge cases in curated datasets. While the real world continuously captures these critical events, such long-tail events remain underutilized when collected from heterogeneous sources. Specifically, diverse but...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 28. Abstract  Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore h...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 29. Abstract  The prevailing inference framework for diffusion models formulates generation fundamentally as a problem of numerical integration. This perspective casts the model as an exact estimator, neglecting the inherent statistical uncertainty of the denoising process. In this work, we propose Forw...
+[21.07.2026 13:47] ********************************************************************************
+[21.07.2026 13:47] Abstract 30. Abstract  Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential in medical image analysis, existing benchmarks largely reduce OCT understanding to coarse-...
+[21.07.2026 13:47] Read previous papers.
+[21.07.2026 13:47] Generating reviews via LLM API.
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#optimization", "#training", "#agents", "#benchmark", "#agi", "#multimodal", "#rl"], "emoji": "⏳", "ru": {"title": "Точное определение временных интервалов в видео", "desc": "В данной статье исследуются мультимодальные большие языковые модели видео (MLLM), которые могут описывать со
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#multimodal", "#benchmark", "#long_context", "#architecture", "#dataset", "#story_generation", "#training", "#agents"], "emoji": "📖", "ru": {"title": "Эволюция персонажей и миров в интерактивной литературе", "desc": "Статья представляет EvolvingWorld, новую структуру и бенчмарк для 
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#training", "#agents", "#open_source", "#agent_memory", "#tool_use", "#rl"], "emoji": "🧠", "ru": {"title": "Самообучение агентов для веб-поиска", "desc": "Статья описывает DeepSearch-Evolve, новую методику обучения агентов для использования инструментов в веб-среде. Она основана на 
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#long_context", "#optimization", "#training", "#inference", "#agents", "#prompting"], "emoji": "🪄", "ru": {"title": "Оптимизация контекста с помощью SWE-Pruner Pro", "desc": "Статья обсуждает метод сокращения контекста для агентов, работающих с кодом, с целью повышения эффективности
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#multimodal", "#3d"], "emoji": "🎥", "ru": {"title": "Персонализация видео с HOMIE: новое слово в HOCVP", "desc": "Статья представляет новую рамочную концепцию HOMIE для персонализации видео, ориентированную на человека и объекты. Основное внимание уделяется улучшению точности взаимо
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#reasoning", "#benchmark", "#dataset", "#survey"], "emoji": "🎥", "ru": {"title": "Новый стандарт оценки видео-моделей через призму физических законов", "desc": "В данной статье представлено новое направление в оценке моделей генерации видео, основанное на физических законах. Мы разр
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#benchmark", "#3d", "#reasoning", "#optimization", "#agi", "#training", "#agents", "#robotics"], "emoji": "🤖", "ru": {"title": "Эволюция моделей с телесным воплощением", "desc": "В статье представлен RynnBrain 1.1 — семейство моделей с телесным воплощением, охватывающее масштабы от 
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#agent_memory", "#retrieval_eval", "#session_memory", "#training", "#agents", "#continual_learning", "#memory"], "emoji": "🧠", "ru": {"title": "Новая эра многомодальной памяти для видео", "desc": "В данной статье представлена система многомодальной па
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#rl", "#optimization", "#rlhf", "#training"], "emoji": "⚖️", "ru": {"title": "Оптимизация с контролем энтропии для эффективного обучения", "desc": "В данной статье рассматривается использование контроля энтропии в обучении с подкреплением (RL) для больших
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#training", "#dataset", "#multilingual", "#open_source", "#data", "#low_resource"], "emoji": "🌍", "ru": {"title": "Улучшение распознавания речи для малоизвестных языков", "desc": "В данной статье рассматривается проблема неравномерной работы многоязычных ASR систем, особенно для мал
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#long_context", "#dataset", "#synthetic", "#benchmark", "#audio", "#open_source"], "emoji": "🕒", "ru": {"title": "Временные метки для аудио: новый уровень понимания!", "desc": "В данной статье рассматривается задача временной привязки в длительных аудиозаписях для LLM, работающих с 
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#training", "#multimodal", "#data"], "emoji": "🎥", "ru": {"title": "Интеграция редактирования видео и изображений в одной модели", "desc": "В данной статье рассматривается интеграция возможностей генерации и редактирования для видео и изображений в одной модели. Исследования показыв
+[21.07.2026 13:47] Querying the API.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Egocentric videos of human manipulation provide scalable supervision for embodied intelligence, yet existing resources rarely combine low-cost continuous capture, manipulation-level structured annotations, and reusable tools for robot learning. We present Open-AoE, an open, community-oriented egocentric manipulation dataset and toolchain spanning the full pipeline from smartphone capture to model training. Its first release contains approximately 2,000 hours of manipulation video collected in natural environments by 500+ contributors using 400+ smartphones. The dataset provides text annotations, MANO-based hand poses, camera trajectories, and temporally localized atomic actions. Open-AoE further includes a data processing pipeline that transforms raw recordings into structured samples through temporal action segmentation, semantic annotation, hand reconstruction, and camera trajectory reconstruction. Meanwhile, we provide a separate downstream toolchain supports visualization, cross-embodiment retargeting, model-specific data conversion, and training recipes for VLA policies, WAMs, and World Models. By integrating scalable capture, structured processing, and downstream adaptation, Open-AoE reduces the barriers to both data contribution and reuse, providing practical open infrastructure for embodied model training, human-to-robot transfer, and world modeling.
+[21.07.2026 13:47] Response: ```json
 {
-  "desc": "В данной статье рассматривается проблема неравномерной работы многоязычных ASR систем, особенно для малоизвестных языков Центральной Азии, таких как казахский, киргизский и узбекский. Авторы предлагают модель GigaAM Multilingual, которая использует предобучение на 2 миллионах часов аудиоданных с целью улучшить качество распознавания. Для борьбы с преобладанием 'главных' языков внедряются стратегия балансировки данных на уровне кластеров и метод выборки на основе осведомленности о домене. Это позволяет модели значительно улучшить результаты для целевых языков, сохраняя при этом эффективность.",
-  "emoji": "🌍",
-  "title": "Улучшение распознавания речи для малоизвестных языков"
+  "desc": "В статье представляется Open-AoE — открытый набор данных и инструментарий для изучения манипуляций в эгоцентрических видео. Набор содержит около 2000 часов видео, зафиксированного 500 участниками с помощью более 400 смартфонов в естественных условиях. Он включает текстовые аннотации, позы рук и траектории камеры, что позволяет эффективно обучать модели. Open-AoE облегчает сбор данных и их повторное использование, предоставляя необходимую инфраструктуру для обучения моделей и переноса знаний от человека к роботу.",
+  "emoji": "🤖",
+  "title": "Открытые данные для обучения манипуляциям роботов"
 }
 ```
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -292,12 +374,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). We present GigaAM Multilingual, a Conformer encoder pre-trained on 2M hours of audio using a HuBERT-style objective. Crucially, we introduce a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to mitigate head-language dominance. In controlled comparisons, our approach outperforms strong open pretrained encoders (Whisper Large v3, Omnilingual-1B) on target languages, achieving significant gains on spontaneous speech while maintaining efficiency. We release the foundation encoder and ASR model, offering a proven recipe for effective multilingual adaptation under realistic data imbalance."
+"Abstract  Egocentric videos of human manipulation provide scalable supervision for embodied intelligence, yet existing resources rarely combine low-cost continuous capture, manipulation-level structured annotations, and reusable tools for robot learning. We present Open-AoE, an open, community-oriented egocentric manipulation dataset and toolchain spanning the full pipeline from smartphone capture to model training. Its first release contains approximately 2,000 hours of manipulation video collected in natural environments by 500+ contributors using 400+ smartphones. The dataset provides text annotations, MANO-based hand poses, camera trajectories, and temporally localized atomic actions. Open-AoE further includes a data processing pipeline that transforms raw recordings into structured samples through temporal action segmentation, semantic annotation, hand reconstruction, and camera trajectory reconstruction. Meanwhile, we provide a separate downstream toolchain supports visualization, cross-embodiment retargeting, model-specific data conversion, and training recipes for VLA policies, WAMs, and World Models. By integrating scalable capture, structured processing, and downstream adaptation, Open-AoE reduces the barriers to both data contribution and reuse, providing practical open infrastructure for embodied model training, human-to-robot transfer, and world modeling."
 
-[21.07.2026 11:08] Response: ```python
-['MULTILINGUAL', 'DATASET', 'DATA', 'TRAINING', 'OPEN_SOURCE']
+[21.07.2026 13:47] Response: ```python
+["DATASET", "DATA", "OPEN_SOURCE"]
 ```
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -340,30 +422,33 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). We present GigaAM Multilingual, a Conformer encoder pre-trained on 2M hours of audio using a HuBERT-style objective. Crucially, we introduce a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to mitigate head-language dominance. In controlled comparisons, our approach outperforms strong open pretrained encoders (Whisper Large v3, Omnilingual-1B) on target languages, achieving significant gains on spontaneous speech while maintaining efficiency. We release the foundation encoder and ASR model, offering a proven recipe for effective multilingual adaptation under realistic data imbalance."
+"Abstract  Egocentric videos of human manipulation provide scalable supervision for embodied intelligence, yet existing resources rarely combine low-cost continuous capture, manipulation-level structured annotations, and reusable tools for robot learning. We present Open-AoE, an open, community-oriented egocentric manipulation dataset and toolchain spanning the full pipeline from smartphone capture to model training. Its first release contains approximately 2,000 hours of manipulation video collected in natural environments by 500+ contributors using 400+ smartphones. The dataset provides text annotations, MANO-based hand poses, camera trajectories, and temporally localized atomic actions. Open-AoE further includes a data processing pipeline that transforms raw recordings into structured samples through temporal action segmentation, semantic annotation, hand reconstruction, and camera trajectory reconstruction. Meanwhile, we provide a separate downstream toolchain supports visualization, cross-embodiment retargeting, model-specific data conversion, and training recipes for VLA policies, WAMs, and World Models. By integrating scalable capture, structured processing, and downstream adaptation, Open-AoE reduces the barriers to both data contribution and reuse, providing practical open infrastructure for embodied model training, human-to-robot transfer, and world modeling."
 
-[21.07.2026 11:08] Response: ```python
-["LOW_RESOURCE", "OPEN_SOURCE"]
+[21.07.2026 13:47] Response: ```python
+['OPEN_SOURCE', 'TRANSFER_LEARNING', 'GAMES']
 ```
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). We present GigaAM Multilingual, a Conformer encoder pre-trained on 2M hours of audio using a HuBERT-style objective. Crucially, we introduce a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to mitigate head-language dominance. In controlled comparisons, our approach outperforms strong open pretrained encoders (Whisper Large v3, Omnilingual-1B) on target languages, achieving significant gains on spontaneous speech while maintaining efficiency. We release the foundation encoder and ASR model, offering a proven recipe for effective multilingual adaptation under realistic data imbalance.
+Abstract  Egocentric videos of human manipulation provide scalable supervision for embodied intelligence, yet existing resources rarely combine low-cost continuous capture, manipulation-level structured annotations, and reusable tools for robot learning. We present Open-AoE, an open, community-oriented egocentric manipulation dataset and toolchain spanning the full pipeline from smartphone capture to model training. Its first release contains approximately 2,000 hours of manipulation video collected in natural environments by 500+ contributors using 400+ smartphones. The dataset provides text annotations, MANO-based hand poses, camera trajectories, and temporally localized atomic actions. Open-AoE further includes a data processing pipeline that transforms raw recordings into structured samples through temporal action segmentation, semantic annotation, hand reconstruction, and camera trajectory reconstruction. Meanwhile, we provide a separate downstream toolchain supports visualization, cross-embodiment retargeting, model-specific data conversion, and training recipes for VLA policies, WAMs, and World Models. By integrating scalable capture, structured processing, and downstream adaptation, Open-AoE reduces the barriers to both data contribution and reuse, providing practical open infrastructure for embodied model training, human-to-robot transfer, and world modeling.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[21.07.2026 11:08] Response: {
-  "desc": "This paper focuses on improving automatic speech recognition (ASR) for underrepresented Central Asian languages like Kazakh, Kyrgyz, and Uzbek, which often lack sufficient training data. The authors introduce GigaAM Multilingual, a Conformer encoder pre-trained on a large dataset of 2 million hours of audio using a HuBERT-style objective. They implement a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to reduce the dominance of more common languages. The results show that their approach significantly outperforms existing models on these target languages, especially in recognizing spontaneous speech, while also being efficient.",
-  "title": "Empowering Underrepresented Languages in ASR"
+[21.07.2026 13:47] Response: {
+  "desc": "Open-AoE is a new dataset and toolchain designed for egocentric videos of human manipulation, which helps in training robots. It includes around 2,000 hours of video collected from over 500 contributors using smartphones, making it a large and diverse resource. The dataset features structured annotations like hand poses and camera trajectories, along with a processing pipeline for transforming raw data into usable samples. This initiative aims to simplify data contribution and reuse, enhancing the development of embodied intelligence and facilitating human-to-robot learning.",
+  "title": "Empowering Robot Learning with Open-AoE Dataset"
 }
-[21.07.2026 11:08] Querying the API.
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#benchmark", "#agent_memory", "#dataset", "#synthetic", "#training", "#agents", "#data"], "emoji": "🤖", "ru": {"title": "Синтетические данные для обучения агентов без физического окружения", "desc": "В данной работе обсуждается метод генерации синтетических данных для обучения агент
+[21.07.2026 13:47] Querying the API.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-scale synthetic supervision from a cascaded pipeline. Our model achieves strong temporal-grounding accuracy on short and long benchmarks and supports time-anchored fragment descriptions and summaries. Extensive ablations examine how time representation, marker frequency, tokenization, and duration-mixture design affect accuracy and computational cost. We release model weights and datasets to support further research on time-aware audio understanding, available at https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B.
-[21.07.2026 11:08] Response: {
-  "desc": "В данной статье рассматривается задача временной привязки в длительных аудиозаписях для LLM, работающих с аудиоданными. Мы представляем временно-осведомлённую аудиомодель LLM, которая отвечает на вопросы с указанием явных временных меток на основе аудиовходов продолжительностью до 120 минут. Наш подход сочетает периодические временные маркеры с непрерывными аудиотокенами, используя масштабное синтетическое обучение. Модель демонстрирует высокую точность временной привязки на различных тестах и поддерживает описание и резюме фрагментов с временной привязкой.",
-  "emoji": "🕒",
-  "title": "Временные метки для аудио: новый уровень понимания!"
+Abstract  Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods are rapidly emerging in molecular design and have shown competitive performance in pocket-conditioned molecular generation. However, their ability to reason about physics and 3D spatial environments is largely underexplored. In this work, we systematically analyze whether current general-purpose LLMs are capable of navigating complex 3D constraints compared to established baselines such as specialized diffusion models. We consider 3D ligand generation conditioned on protein pockets together with ligand- and interaction-derived spatial constraints, including anchor fragments, pharmacophore points, and mandatory pocket-ligand interactions. To enable this evaluation, we introduce 3D-Fit - a token-efficient benchmarking strategy for assessing LLM performance on multi-conditioned spatial molecule generation. Our findings reveal a clear pattern in LLM spatial capabilities: while they still lag behind state-of-the-art approaches, they are promising and can handle multiple spatial constraints simultaneously, enabling scaling to heterogeneous setups.
+[21.07.2026 13:47] Response: ```json
+{
+  "desc": "Статья исследует применение LLM в области дизайна молекул на основе 3D структуры белков. Конкретно, авторы анализируют, как эти модели могут справляться с сложными пространственными ограничениями, сравнивая их с современными моделями диффузии. Результаты показывают, что, хотя LLM все еще уступают в качестве, они способны обрабатывать несколько пространственных условий одновременно. В статье также представлено новое средство оценки производительности LLM для генерации молекул с многими условиями.",
+  "emoji": "🔬",
+  "title": "LLM: Новые горизонты в дизайне молекул"
 }
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+```
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -407,12 +492,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-scale synthetic supervision from a cascaded pipeline. Our model achieves strong temporal-grounding accuracy on short and long benchmarks and supports time-anchored fragment descriptions and summaries. Extensive ablations examine how time representation, marker frequency, tokenization, and duration-mixture design affect accuracy and computational cost. We release model weights and datasets to support further research on time-aware audio understanding, available at https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B."
+"Abstract  Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods are rapidly emerging in molecular design and have shown competitive performance in pocket-conditioned molecular generation. However, their ability to reason about physics and 3D spatial environments is largely underexplored. In this work, we systematically analyze whether current general-purpose LLMs are capable of navigating complex 3D constraints compared to established baselines such as specialized diffusion models. We consider 3D ligand generation conditioned on protein pockets together with ligand- and interaction-derived spatial constraints, including anchor fragments, pharmacophore points, and mandatory pocket-ligand interactions. To enable this evaluation, we introduce 3D-Fit - a token-efficient benchmarking strategy for assessing LLM performance on multi-conditioned spatial molecule generation. Our findings reveal a clear pattern in LLM spatial capabilities: while they still lag behind state-of-the-art approaches, they are promising and can handle multiple spatial constraints simultaneously, enabling scaling to heterogeneous setups."
 
-[21.07.2026 11:08] Response: ```python
-['AUDIO', 'DATASET', 'BENCHMARK']
+[21.07.2026 13:47] Response: ```python
+['3D', 'BENCHMARK', 'DATASET']
 ```
-[21.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -455,37 +540,41 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-scale synthetic supervision from a cascaded pipeline. Our model achieves strong temporal-grounding accuracy on short and long benchmarks and supports time-anchored fragment descriptions and summaries. Extensive ablations examine how time representation, marker frequency, tokenization, and duration-mixture design affect accuracy and computational cost. We release model weights and datasets to support further research on time-aware audio understanding, available at https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B."
+"Abstract  Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods are rapidly emerging in molecular design and have shown competitive performance in pocket-conditioned molecular generation. However, their ability to reason about physics and 3D spatial environments is largely underexplored. In this work, we systematically analyze whether current general-purpose LLMs are capable of navigating complex 3D constraints compared to established baselines such as specialized diffusion models. We consider 3D ligand generation conditioned on protein pockets together with ligand- and interaction-derived spatial constraints, including anchor fragments, pharmacophore points, and mandatory pocket-ligand interactions. To enable this evaluation, we introduce 3D-Fit - a token-efficient benchmarking strategy for assessing LLM performance on multi-conditioned spatial molecule generation. Our findings reveal a clear pattern in LLM spatial capabilities: while they still lag behind state-of-the-art approaches, they are promising and can handle multiple spatial constraints simultaneously, enabling scaling to heterogeneous setups."
 
-[21.07.2026 11:08] GitHub Models 429 (rate limit). Ждём 60s, попытка 1/4.
-[21.07.2026 11:09] Response: ```python
-["LONG_CONTEXT", "SYNTHETIC", "OPEN_SOURCE"]
+[21.07.2026 13:47] Response: ```python
+['DIFFUSION', 'REASONING', 'OPTIMIZATION']
 ```
-[21.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-scale synthetic supervision from a cascaded pipeline. Our model achieves strong temporal-grounding accuracy on short and long benchmarks and supports time-anchored fragment descriptions and summaries. Extensive ablations examine how time representation, marker frequency, tokenization, and duration-mixture design affect accuracy and computational cost. We release model weights and datasets to support further research on time-aware audio understanding, available at https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B.
+Abstract  Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods are rapidly emerging in molecular design and have shown competitive performance in pocket-conditioned molecular generation. However, their ability to reason about physics and 3D spatial environments is largely underexplored. In this work, we systematically analyze whether current general-purpose LLMs are capable of navigating complex 3D constraints compared to established baselines such as specialized diffusion models. We consider 3D ligand generation conditioned on protein pockets together with ligand- and interaction-derived spatial constraints, including anchor fragments, pharmacophore points, and mandatory pocket-ligand interactions. To enable this evaluation, we introduce 3D-Fit - a token-efficient benchmarking strategy for assessing LLM performance on multi-conditioned spatial molecule generation. Our findings reveal a clear pattern in LLM spatial capabilities: while they still lag behind state-of-the-art approaches, they are promising and can handle multiple spatial constraints simultaneously, enabling scaling to heterogeneous setups.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[21.07.2026 11:09] Response: {
-  "desc": "This paper introduces a time-aware audio language model (LLM) that can answer questions with specific timestamps from long audio recordings. The model processes up to 120 minutes of audio by combining periodic time markers with continuous audio tokens, utilizing large-scale synthetic supervision. It demonstrates high accuracy in temporal grounding for both short and long audio benchmarks, enabling detailed time-anchored descriptions and summaries. The study also explores various factors affecting model performance, such as time representation and tokenization, and provides resources for further research in this area.",
-  "title": "Revolutionizing Audio Understanding with Time Awareness"
+[21.07.2026 13:47] Response: {
+  "desc": "This paper explores the use of large language models (LLMs) in structure-based drug design (SBDD) for generating 3D molecules. It compares the performance of LLMs with established diffusion models, particularly in generating ligands conditioned on protein pockets and various spatial constraints. The authors introduce a new benchmarking strategy called 3D-Fit to evaluate the ability of LLMs to navigate complex 3D environments. The results indicate that while LLMs are not yet as effective as diffusion models, they show potential in handling multiple spatial constraints simultaneously.",
+  "title": "Unlocking 3D Molecular Design with LLMs"
 }
-[21.07.2026 11:09] Using data from previous issue: {"categories": ["#benchmark", "#agent_memory", "#dataset", "#synthetic", "#training", "#agents", "#data"], "emoji": "🤖", "ru": {"title": "Синтетические данные для обучения агентов без физического окружения", "desc": "В данной работе обсуждается метод генерации синтетических данных для обучения агент
-[21.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#multimodal", "#data"], "emoji": "🎥", "ru": {"title": "Интеграция редактирования видео и изображений в одной модели", "desc": "В данной статье рассматривается интеграция возможностей генерации и редактирования для видео и изображений в одной модели. Исследования показыв
-[21.07.2026 11:09] Using data from previous issue: {"categories": ["#3d", "#diffusion", "#optimization"], "emoji": "🧵", "ru": {"title": "Новая эпоха в 3D-генерации с использованием дифференцируемых методов", "desc": "В статье представлена новая модель генерации 3D-объектов под названием Differentiable Geometry Image (DiffGI), которая улучшает предст
-[21.07.2026 11:09] Using data from previous issue: {"categories": ["#transfer_learning", "#rl", "#optimization", "#rlhf", "#training", "#reinforcement_learning"], "emoji": "🤖", "ru": {"title": "Опытное обучение для повышения качества обратной связи", "desc": "В данной статье обсуждается подход к обучению с подкреплением (RL), который улучшает оценку
-[21.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#3d", "#transfer_learning", "#diffusion", "#dataset"], "emoji": "🖐️", "ru": {"title": "Синхронизация движений рук и объектов в видео", "desc": "Статья описывает HarmoHOI, новую диффузионную модель для синтеза взаимодействия объектов с руками в нескольких перспективах. П
-[21.07.2026 11:09] Using data from previous issue: {"categories": ["#transfer_learning", "#reasoning", "#rl", "#optimization", "#alignment", "#rlhf", "#agi", "#training"], "emoji": "📚", "ru": {"title": "Постобучение LLM с помощью Distilled RL", "desc": "В статье рассматривается метод постобучения больших языковых моделей (LLM), называемый Distilled 
-[21.07.2026 11:09] Querying the API.
-[21.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#3d", "#diffusion", "#optimization"], "emoji": "🧵", "ru": {"title": "Новая эпоха в 3D-генерации с использованием дифференцируемых методов", "desc": "В статье представлена новая модель генерации 3D-объектов под названием Differentiable Geometry Image (DiffGI), которая улучшает предст
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#transfer_learning", "#rl", "#optimization", "#rlhf", "#training", "#reinforcement_learning"], "emoji": "🤖", "ru": {"title": "Опытное обучение для повышения качества обратной связи", "desc": "В данной статье обсуждается подход к обучению с подкреплением (RL), который улучшает оценку
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#training", "#3d", "#transfer_learning", "#diffusion", "#dataset"], "emoji": "🖐️", "ru": {"title": "Синхронизация движений рук и объектов в видео", "desc": "Статья описывает HarmoHOI, новую диффузионную модель для синтеза взаимодействия объектов с руками в нескольких перспективах. П
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#transfer_learning", "#reasoning", "#rl", "#optimization", "#alignment", "#rlhf", "#agi", "#training"], "emoji": "📚", "ru": {"title": "Постобучение LLM с помощью Distilled RL", "desc": "В статье рассматривается метод постобучения больших языковых моделей (LLM), называемый Distilled 
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#architecture", "#training", "#math", "#agi", "#optimization"], "emoji": "🔍", "ru": {"title": "Геометрический подход к архитектуре Transformer", "desc": "В данной статье представлен непрерывный геометрический подход, который моделирует дискретные алгебраические операции архитектуры 
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#security", "#agents", "#memory", "#agent_memory"], "emoji": "🔒", "ru": {"title": "Новые угрозы для самохостящихся AI-агентов", "desc": "В данной статье исследуются уязвимости самохостящихся AI-агентов, которые могут быть компрометированы через коррупцию своего состояния. Авторы вво
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#agents", "#rl", "#training", "#optimization"], "emoji": "🤖", "ru": {"title": "Эффективное совместное обучение для моделей VLA", "desc": "Статья описывает JoyNexus, унифицированный сервис для совместной настройки моделей Vision-Language-Action (VLA). Он позволяет нескольким арендато
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#games", "#benchmark", "#dataset", "#open_source"], "emoji": "⚽", "ru": {"title": "Новая эра предсказаний футбольных матчей", "desc": "Статья описывает WorldCupArena, динамическую платформу для оценки языковых моделей и глубоких аналитических агентов в предсказании результатов футбо
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#transfer_learning", "#machine_translation", "#rlhf", "#training", "#interpretability"], "emoji": "📄", "ru": {"title": "Умное обучение на уровне токенов для лучших результатов", "desc": "В статье предлагается новый подход к обучению моделей машинного обучения под названием Token-Lev
+[21.07.2026 13:47] Using data from previous issue: {"categories": ["#multimodal", "#optimization", "#agent_memory", "#training", "#inference", "#agents"], "emoji": "🚀", "ru": {"title": "Оптимизация многомодальных приложений с помощью FlashRT", "desc": "Статья представляет FlashRT, инструмент для оптимизации многомодальных приложений, таких как голос
+[21.07.2026 13:47] Querying the API.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = calM times R^d. Beginning from a single geometric axiom -- that the token sequence forms a discrete 1-manifold equipped with a canonical measure lattice -- we translate every core component of the modern Transformer (RMSNorm, RoPE, Softmax Attention, FFN, Residual Stream, SGD, Weight Decay) into a cohesive vocabulary of differential geometry, measure theory, and stochastic calculus. The resulting framework yields quantitative predictions spanning entropic optimal transport (Attention as a Schrödinger bridge) and non-equilibrium thermodynamics (SGD as Itô diffusion violating detailed balance). We conduct a six-part experimental campaign across five architectures (Qwen3, LLaMA\nobreakdash-3.1, Gemma\nobreakdash-3, GPT-2, Mistral) spanning 124M to 8B parameters. The empirical observables are quantitatively consistent with the geometric predictions: the ε^{-1/2} Lipschitz scaling calibration at machine precision (R^2 = 1.000), the Lie--Trotter operator-splitting torsion, the symmetric ablation instability confirming the Dual-Law of Topological Stability, the calO(1/k) thermodynamic suppression of Poincaré recurrence on the RoPE torus, the thermodynamic context-limit phase transition, and the Non-Equilibrium Steady State parameter vortex -- verified across two optimizers (AdamW and Pure SGD) to exclude momentum artifacts. The results demonstrate that analyzing Transformers through the lens of continuous stochastic differential geometry provides a predictive descriptive vocabulary for the stability limits, context bounds, and optimization dynamics of Large Language Models.
-[21.07.2026 11:10] Response: {
-  "desc": "В данной статье представлен непрерывный геометрический подход, который моделирует дискретные алгебраические операции архитектуры Transformer как интегро-дифференциальное уравнение на семантическом волокне. Основываясь на одном геометрическом аксиоме, статья переводит ключевые компоненты современного Transformer в словарь дифференциальной геометрии и стохастического анализа. Результирующая структура позволяет делать количественные предсказания и предлагает новую перспективу для анализа стабильности и динамики оптимизации больших языковых моделей. Проводимые эксперименты подтверждают соответствие эмпирических наблюдений с геометрическими предсказаниями.",
-  "emoji": "🔍",
-  "title": "Геометрический подход к архитектуре Transformer"
+Abstract  Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition require explicit shot planning. To address this challenge, we propose ShotPlan, a framework for explicit multi-shot cinematic video generation built upon a video diffusion foundation model. Our method introduces learnable planning tokens that capture shot-level transition cues and can be seamlessly integrated with the original video generation tokens to control transition timestamps. Unlike standard video generation tokens, the proposed planning tokens are equipped with Fractional Temporal Rotary Position Embedding (FRoPE), enabling shot transitions to be modeled at the frame level. Experiments demonstrate that ShotPlan significantly outperforms existing cinematic video generation methods, offering more flexible shot management and stronger inter-shot consistency.
+[21.07.2026 13:47] GitHub Models 429 (rate limit). Ждём 11s, попытка 1/4.
+[21.07.2026 13:47] Response: {
+  "desc": "В статье представлена новая модель ShotPlan для генерации киношных видео с помощью многосъемочных планов. Основная innovation заключается в использовании обучаемых токенов планирования, которые помогают управлять переходами между кадрами. Эти токены используют встроенное позиционное кодирование, позволяющее моделировать переходы на уровне кадров. Эксперименты показывают, что ShotPlan значительно превосходит существующие методы генерации видео, обеспечивая лучшую согласованность между сценами.",
+  "emoji": "🎥",
+  "title": "Новая эра генерации киношных видео!"
 }
-[21.07.2026 11:10] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -529,12 +618,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = calM times R^d. Beginning from a single geometric axiom -- that the token sequence forms a discrete 1-manifold equipped with a canonical measure lattice -- we translate every core component of the modern Transformer (RMSNorm, RoPE, Softmax Attention, FFN, Residual Stream, SGD, Weight Decay) into a cohesive vocabulary of differential geometry, measure theory, and stochastic calculus. The resulting framework yields quantitative predictions spanning entropic optimal transport (Attention as a Schrödinger bridge) and non-equilibrium thermodynamics (SGD as Itô diffusion violating detailed balance). We conduct a six-part experimental campaign across five architectures (Qwen3, LLaMA\nobreakdash-3.1, Gemma\nobreakdash-3, GPT-2, Mistral) spanning 124M to 8B parameters. The empirical observables are quantitatively consistent with the geometric predictions: the ε^{-1/2} Lipschitz scaling calibration at machine precision (R^2 = 1.000), the Lie--Trotter operator-splitting torsion, the symmetric ablation instability confirming the Dual-Law of Topological Stability, the calO(1/k) thermodynamic suppression of Poincaré recurrence on the RoPE torus, the thermodynamic context-limit phase transition, and the Non-Equilibrium Steady State parameter vortex -- verified across two optimizers (AdamW and Pure SGD) to exclude momentum artifacts. The results demonstrate that analyzing Transformers through the lens of continuous stochastic differential geometry provides a predictive descriptive vocabulary for the stability limits, context bounds, and optimization dynamics of Large Language Models."
+"Abstract  Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition require explicit shot planning. To address this challenge, we propose ShotPlan, a framework for explicit multi-shot cinematic video generation built upon a video diffusion foundation model. Our method introduces learnable planning tokens that capture shot-level transition cues and can be seamlessly integrated with the original video generation tokens to control transition timestamps. Unlike standard video generation tokens, the proposed planning tokens are equipped with Fractional Temporal Rotary Position Embedding (FRoPE), enabling shot transitions to be modeled at the frame level. Experiments demonstrate that ShotPlan significantly outperforms existing cinematic video generation methods, offering more flexible shot management and stronger inter-shot consistency."
 
-[21.07.2026 11:10] Response: ```python
-["MATH", "ARCHITECTURE", "TRAINING"]
+[21.07.2026 13:47] Response: ```python
+["3D"]
 ```
-[21.07.2026 11:10] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -577,33 +666,381 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = calM times R^d. Beginning from a single geometric axiom -- that the token sequence forms a discrete 1-manifold equipped with a canonical measure lattice -- we translate every core component of the modern Transformer (RMSNorm, RoPE, Softmax Attention, FFN, Residual Stream, SGD, Weight Decay) into a cohesive vocabulary of differential geometry, measure theory, and stochastic calculus. The resulting framework yields quantitative predictions spanning entropic optimal transport (Attention as a Schrödinger bridge) and non-equilibrium thermodynamics (SGD as Itô diffusion violating detailed balance). We conduct a six-part experimental campaign across five architectures (Qwen3, LLaMA\nobreakdash-3.1, Gemma\nobreakdash-3, GPT-2, Mistral) spanning 124M to 8B parameters. The empirical observables are quantitatively consistent with the geometric predictions: the ε^{-1/2} Lipschitz scaling calibration at machine precision (R^2 = 1.000), the Lie--Trotter operator-splitting torsion, the symmetric ablation instability confirming the Dual-Law of Topological Stability, the calO(1/k) thermodynamic suppression of Poincaré recurrence on the RoPE torus, the thermodynamic context-limit phase transition, and the Non-Equilibrium Steady State parameter vortex -- verified across two optimizers (AdamW and Pure SGD) to exclude momentum artifacts. The results demonstrate that analyzing Transformers through the lens of continuous stochastic differential geometry provides a predictive descriptive vocabulary for the stability limits, context bounds, and optimization dynamics of Large Language Models."
+"Abstract  Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition require explicit shot planning. To address this challenge, we propose ShotPlan, a framework for explicit multi-shot cinematic video generation built upon a video diffusion foundation model. Our method introduces learnable planning tokens that capture shot-level transition cues and can be seamlessly integrated with the original video generation tokens to control transition timestamps. Unlike standard video generation tokens, the proposed planning tokens are equipped with Fractional Temporal Rotary Position Embedding (FRoPE), enabling shot transitions to be modeled at the frame level. Experiments demonstrate that ShotPlan significantly outperforms existing cinematic video generation methods, offering more flexible shot management and stronger inter-shot consistency."
 
-[21.07.2026 11:10] Response: ```python
-["OPTIMIZATION", "AGI"]
+[21.07.2026 13:47] Response: ```python
+["DIFFUSION", "GAMES"]
 ```
-[21.07.2026 11:10] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  We present a continuous geometric framework that models the discrete algebraic operations of the Transformer architecture as an integro-differential equation (IDE) on a semantic fiber bundle calE = calM times R^d. Beginning from a single geometric axiom -- that the token sequence forms a discrete 1-manifold equipped with a canonical measure lattice -- we translate every core component of the modern Transformer (RMSNorm, RoPE, Softmax Attention, FFN, Residual Stream, SGD, Weight Decay) into a cohesive vocabulary of differential geometry, measure theory, and stochastic calculus. The resulting framework yields quantitative predictions spanning entropic optimal transport (Attention as a Schrödinger bridge) and non-equilibrium thermodynamics (SGD as Itô diffusion violating detailed balance). We conduct a six-part experimental campaign across five architectures (Qwen3, LLaMA\nobreakdash-3.1, Gemma\nobreakdash-3, GPT-2, Mistral) spanning 124M to 8B parameters. The empirical observables are quantitatively consistent with the geometric predictions: the ε^{-1/2} Lipschitz scaling calibration at machine precision (R^2 = 1.000), the Lie--Trotter operator-splitting torsion, the symmetric ablation instability confirming the Dual-Law of Topological Stability, the calO(1/k) thermodynamic suppression of Poincaré recurrence on the RoPE torus, the thermodynamic context-limit phase transition, and the Non-Equilibrium Steady State parameter vortex -- verified across two optimizers (AdamW and Pure SGD) to exclude momentum artifacts. The results demonstrate that analyzing Transformers through the lens of continuous stochastic differential geometry provides a predictive descriptive vocabulary for the stability limits, context bounds, and optimization dynamics of Large Language Models.
+Abstract  Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition require explicit shot planning. To address this challenge, we propose ShotPlan, a framework for explicit multi-shot cinematic video generation built upon a video diffusion foundation model. Our method introduces learnable planning tokens that capture shot-level transition cues and can be seamlessly integrated with the original video generation tokens to control transition timestamps. Unlike standard video generation tokens, the proposed planning tokens are equipped with Fractional Temporal Rotary Position Embedding (FRoPE), enabling shot transitions to be modeled at the frame level. Experiments demonstrate that ShotPlan significantly outperforms existing cinematic video generation methods, offering more flexible shot management and stronger inter-shot consistency.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[21.07.2026 11:10] Response: {
-  "desc": "This paper introduces a continuous geometric framework that interprets the operations of the Transformer architecture as an integro-differential equation. By treating the token sequence as a discrete 1-manifold, the authors translate key components of Transformers into terms from differential geometry and stochastic calculus. The framework allows for predictions related to optimal transport and thermodynamics, validated through extensive experiments on various architectures. The findings suggest that this geometric perspective can effectively describe the stability and optimization dynamics of Large Language Models.",
-  "title": "Transforming Transformers: A Geometric Approach"
+[21.07.2026 13:47] Response: {
+  "desc": "This paper presents ShotPlan, a new framework for generating cinematic videos that require careful planning of multiple shots. It builds on a video diffusion model and introduces learnable planning tokens to manage transitions between shots effectively. These tokens use a technique called Fractional Temporal Rotary Position Embedding (FRoPE) to enhance the modeling of transitions at the frame level. The results show that ShotPlan outperforms existing methods by providing better control over shot management and improving the consistency between shots.",
+  "title": "Revolutionizing Cinematic Video Generation with Shot Planning"
 }
-[21.07.2026 11:10] Using data from previous issue: {"categories": ["#agents", "#rl", "#training", "#optimization"], "emoji": "🤖", "ru": {"title": "Эффективное совместное обучение для моделей VLA", "desc": "Статья описывает JoyNexus, унифицированный сервис для совместной настройки моделей Vision-Language-Action (VLA). Он позволяет нескольким арендато
-[21.07.2026 11:10] Using data from previous issue: {"categories": ["#security", "#agents", "#memory", "#agent_memory"], "emoji": "🔒", "ru": {"title": "Новые угрозы для самохостящихся AI-агентов", "desc": "В данной статье исследуются уязвимости самохостящихся AI-агентов, которые могут быть компрометированы через коррупцию своего состояния. Авторы вво
-[21.07.2026 11:10] Using data from previous issue: {"categories": ["#optimization", "#open_source", "#synthetic", "#dataset", "#agents"], "emoji": "🚗", "ru": {"title": "Повышение надежности автономного вождения с помощью OpenLongTail", "desc": "Статья обсуждает проблему нехватки крайних случаев в отборных наборах данных для обучения автономного вожд
-[21.07.2026 11:10] Using data from previous issue: {"categories": ["#transfer_learning", "#machine_translation", "#rlhf", "#training", "#interpretability"], "emoji": "📄", "ru": {"title": "Умное обучение на уровне токенов для лучших результатов", "desc": "В статье предлагается новый подход к обучению моделей машинного обучения под названием Token-Lev
-[21.07.2026 11:10] Using data from previous issue: {"categories": ["#multimodal", "#optimization", "#agent_memory", "#training", "#inference", "#agents"], "emoji": "🚀", "ru": {"title": "Оптимизация многомодальных приложений с помощью FlashRT", "desc": "Статья представляет FlashRT, инструмент для оптимизации многомодальных приложений, таких как голос
-[21.07.2026 11:10] Using data from previous issue: {"categories": ["#optimization", "#inference", "#diffusion"], "emoji": "✨", "ru": {"title": "Улучшение качества генерации с DiFA", "desc": "В данной статье представлено новое решение для улучшения качества генерации данных с помощью диффузионных моделей, называемое DiFA. Этот подход рассматривает пр
-[21.07.2026 11:10] Using data from previous issue: {"categories": ["#games", "#benchmark", "#dataset", "#open_source"], "emoji": "⚽", "ru": {"title": "Новая эра предсказаний футбольных матчей", "desc": "Статья описывает WorldCupArena, динамическую платформу для оценки языковых моделей и глубоких аналитических агентов в предсказании результатов футбо
-[21.07.2026 11:10] Renaming data file.
-[21.07.2026 11:10] Renaming previous data. hf_papers.json to ./d/2026-07-21.json
-[21.07.2026 11:10] Saving new data file.
-[21.07.2026 11:10] Generating page.
-[21.07.2026 11:10] Renaming previous page.
-[21.07.2026 11:10] Renaming previous data. index.html to ./d/2026-07-21.html
-[21.07.2026 11:10] Writing result.
-[21.07.2026 11:10] Renaming log file.
-[21.07.2026 11:10] Renaming previous data. log.txt to ./logs/2026-07-21_last_log.txt
+[21.07.2026 13:47] Querying the API.
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Agentic language models must learn when to call tools, when to consume tool responses, and when to answer directly. This makes multi-teacher on-policy distillation a natural training strategy: one teacher can specialize in tool calls, another in direct responses, and the student can learn from both on   its own generated distribution. We show that this strategy can induce a behavior shift that is invisible from aggregate losses alone. In a two-teacher tool-use setting, vanilla generalized knowledge distillation improves tool-call recall but also moves the model toward over-calling, where it calls tools   on examples that should be answered directly. Aggregate explanations are insufficient: tool-call samples do not receive more token exposure, and full-sequence per-token divergence is not larger for the tool-call teacher. We instead analyze behavior leverage imbalance: local token-level signals at mode-   entry and structural positions, such as <tool_call> and function names, can have disproportionate control over the global generation mode. We propose Soft Clamp, a per-token divergence calibration method that dynamically compresses extreme token-level Jensen-Shannon divergence while preserving nonzero   gradients. On APIGen-MT, Soft Clamp reduces over-calling from 13.7% to 9.0% relative to vanilla GKD while matching its decision accuracy. In a BFCL multi-turn diagnostic, it also lowers tool-call loops and repeated calls among GKD variants. These results suggest that multi-teacher OPD should monitor   where teacher signals act, not only how large they are in aggregate.
+[21.07.2026 13:47] Response: ```json
+{
+  "desc": "В этой статье рассматривается обучение агентов с использованием языковых моделей через многовчительскую дистилляцию. Один учитель обучает модель делать вызовы к инструментам, а другой - давать прямые ответы. Этот подход позволяет улучшить запоминание вызовов инструментов, но может привести к избыточным вызовам, когда модель использует инструменты там, где можно дать прямой ответ. Мы предлагаем метод Soft Clamp, который помогает избежать избыточных вызовов, сохраняя при этом точность решений модели.",
+  "emoji": "🤖",
+  "title": "Умное использование инструментов в языковых моделях"
+}
+```
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Agentic language models must learn when to call tools, when to consume tool responses, and when to answer directly. This makes multi-teacher on-policy distillation a natural training strategy: one teacher can specialize in tool calls, another in direct responses, and the student can learn from both on   its own generated distribution. We show that this strategy can induce a behavior shift that is invisible from aggregate losses alone. In a two-teacher tool-use setting, vanilla generalized knowledge distillation improves tool-call recall but also moves the model toward over-calling, where it calls tools   on examples that should be answered directly. Aggregate explanations are insufficient: tool-call samples do not receive more token exposure, and full-sequence per-token divergence is not larger for the tool-call teacher. We instead analyze behavior leverage imbalance: local token-level signals at mode-   entry and structural positions, such as <tool_call> and function names, can have disproportionate control over the global generation mode. We propose Soft Clamp, a per-token divergence calibration method that dynamically compresses extreme token-level Jensen-Shannon divergence while preserving nonzero   gradients. On APIGen-MT, Soft Clamp reduces over-calling from 13.7% to 9.0% relative to vanilla GKD while matching its decision accuracy. In a BFCL multi-turn diagnostic, it also lowers tool-call loops and repeated calls among GKD variants. These results suggest that multi-teacher OPD should monitor   where teacher signals act, not only how large they are in aggregate."
+
+[21.07.2026 13:47] Response: ```python
+['AGENTS', 'TRAINING', 'TOOL_USE']
+```
+[21.07.2026 13:47] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Agentic language models must learn when to call tools, when to consume tool responses, and when to answer directly. This makes multi-teacher on-policy distillation a natural training strategy: one teacher can specialize in tool calls, another in direct responses, and the student can learn from both on   its own generated distribution. We show that this strategy can induce a behavior shift that is invisible from aggregate losses alone. In a two-teacher tool-use setting, vanilla generalized knowledge distillation improves tool-call recall but also moves the model toward over-calling, where it calls tools   on examples that should be answered directly. Aggregate explanations are insufficient: tool-call samples do not receive more token exposure, and full-sequence per-token divergence is not larger for the tool-call teacher. We instead analyze behavior leverage imbalance: local token-level signals at mode-   entry and structural positions, such as <tool_call> and function names, can have disproportionate control over the global generation mode. We propose Soft Clamp, a per-token divergence calibration method that dynamically compresses extreme token-level Jensen-Shannon divergence while preserving nonzero   gradients. On APIGen-MT, Soft Clamp reduces over-calling from 13.7% to 9.0% relative to vanilla GKD while matching its decision accuracy. In a BFCL multi-turn diagnostic, it also lowers tool-call loops and repeated calls among GKD variants. These results suggest that multi-teacher OPD should monitor   where teacher signals act, not only how large they are in aggregate."
+
+[21.07.2026 13:48] Response: ```python
+["TOOL_USE", "AGENT_MEMORY", "OPTIMIZATION"]
+```
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Agentic language models must learn when to call tools, when to consume tool responses, and when to answer directly. This makes multi-teacher on-policy distillation a natural training strategy: one teacher can specialize in tool calls, another in direct responses, and the student can learn from both on   its own generated distribution. We show that this strategy can induce a behavior shift that is invisible from aggregate losses alone. In a two-teacher tool-use setting, vanilla generalized knowledge distillation improves tool-call recall but also moves the model toward over-calling, where it calls tools   on examples that should be answered directly. Aggregate explanations are insufficient: tool-call samples do not receive more token exposure, and full-sequence per-token divergence is not larger for the tool-call teacher. We instead analyze behavior leverage imbalance: local token-level signals at mode-   entry and structural positions, such as <tool_call> and function names, can have disproportionate control over the global generation mode. We propose Soft Clamp, a per-token divergence calibration method that dynamically compresses extreme token-level Jensen-Shannon divergence while preserving nonzero   gradients. On APIGen-MT, Soft Clamp reduces over-calling from 13.7% to 9.0% relative to vanilla GKD while matching its decision accuracy. In a BFCL multi-turn diagnostic, it also lowers tool-call loops and repeated calls among GKD variants. These results suggest that multi-teacher OPD should monitor   where teacher signals act, not only how large they are in aggregate.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[21.07.2026 13:48] Response: {
+  "desc": "This paper discusses how agentic language models can effectively learn to use tools by employing a multi-teacher on-policy distillation approach. One teacher focuses on making tool calls while another specializes in providing direct answers, allowing the student model to learn from both. The study reveals that simply looking at overall performance metrics can be misleading, as it may not reflect the model's tendency to over-call tools. To address this, the authors introduce Soft Clamp, a method that fine-tunes the model's responses to reduce unnecessary tool calls while maintaining accuracy.",
+  "title": "Optimizing Tool Use in Language Models with Multi-Teacher Learning"
+}
+[21.07.2026 13:48] Using data from previous issue: {"categories": ["#optimization", "#open_source", "#synthetic", "#dataset", "#agents"], "emoji": "🚗", "ru": {"title": "Повышение надежности автономного вождения с помощью OpenLongTail", "desc": "Статья обсуждает проблему нехватки крайних случаев в отборных наборах данных для обучения автономного вожд
+[21.07.2026 13:48] Querying the API.
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore highly desirable. However, existing approaches often rely on auxiliary inputs such as pre-computed camera trajectories, treat scene perception and human ego-motion modeling as separate problems despite their strong interdependency, and suffer from slow inference time. To address these limitations, we present ReViV, the first unified framework for holistic egocentric 4D reconstruction that extracts both viewer and view dynamics from a single monocular RGB video. We formulate the task as learning the full joint probability distribution over multimodal signals, including RGB video, camera trajectory, gaze direction, full-body motion, hand motion, and depth. Powered by a Masked Generative Egocentric Transformer, ReViV operates within a single feed-forward architecture to simultaneously reconstruct the temporally consistent 4D reconstruction across the viewer and the view with fast inference speed. Extensive experiments on diverse benchmarks, including HoloAssist, HOT3D, ARCTIC, Aria Digital Twin, and TACO, demonstrate that ReViV achieves state-of-the-art accuracy and efficiency across holistic ego-body, hand, and gaze reconstruction, camera tracking, while maintaining highly competitive egocentric depth estimation without relying on heavy task-specific priors. Code and models are fully open-sourced: https://reviv4d.github.io/.
+[21.07.2026 13:48] Response: ```json
+{
+  "desc": "В статье представлен новый подход к 4D-реконструкции с использованием егоцентрических устройств, таких как носимые камеры. Модель ReViV объединяет в себе анализ видео, траектории камеры и движение наблюдателя, что позволяет эффективно взаимодействовать с окружающей средой. Благодаря архитектуре Masked Generative Egocentric Transformer, она обеспечивает быструю обработку и высокую точность результатов. Эксперименты показывают, что ReViV достигает передового уровня точности в сравнении с существующими методами.",
+  "emoji": "👁️",
+  "title": "Новая эра егоцентрической 4D-реконструкции"
+}
+```
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore highly desirable. However, existing approaches often rely on auxiliary inputs such as pre-computed camera trajectories, treat scene perception and human ego-motion modeling as separate problems despite their strong interdependency, and suffer from slow inference time. To address these limitations, we present ReViV, the first unified framework for holistic egocentric 4D reconstruction that extracts both viewer and view dynamics from a single monocular RGB video. We formulate the task as learning the full joint probability distribution over multimodal signals, including RGB video, camera trajectory, gaze direction, full-body motion, hand motion, and depth. Powered by a Masked Generative Egocentric Transformer, ReViV operates within a single feed-forward architecture to simultaneously reconstruct the temporally consistent 4D reconstruction across the viewer and the view with fast inference speed. Extensive experiments on diverse benchmarks, including HoloAssist, HOT3D, ARCTIC, Aria Digital Twin, and TACO, demonstrate that ReViV achieves state-of-the-art accuracy and efficiency across holistic ego-body, hand, and gaze reconstruction, camera tracking, while maintaining highly competitive egocentric depth estimation without relying on heavy task-specific priors. Code and models are fully open-sourced: https://reviv4d.github.io/."
+
+[21.07.2026 13:48] Response: ```python
+['MULTIMODAL', 'ARCHITECTURE', 'BENCHMARK', 'OPEN_SOURCE']
+```
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore highly desirable. However, existing approaches often rely on auxiliary inputs such as pre-computed camera trajectories, treat scene perception and human ego-motion modeling as separate problems despite their strong interdependency, and suffer from slow inference time. To address these limitations, we present ReViV, the first unified framework for holistic egocentric 4D reconstruction that extracts both viewer and view dynamics from a single monocular RGB video. We formulate the task as learning the full joint probability distribution over multimodal signals, including RGB video, camera trajectory, gaze direction, full-body motion, hand motion, and depth. Powered by a Masked Generative Egocentric Transformer, ReViV operates within a single feed-forward architecture to simultaneously reconstruct the temporally consistent 4D reconstruction across the viewer and the view with fast inference speed. Extensive experiments on diverse benchmarks, including HoloAssist, HOT3D, ARCTIC, Aria Digital Twin, and TACO, demonstrate that ReViV achieves state-of-the-art accuracy and efficiency across holistic ego-body, hand, and gaze reconstruction, camera tracking, while maintaining highly competitive egocentric depth estimation without relying on heavy task-specific priors. Code and models are fully open-sourced: https://reviv4d.github.io/."
+
+[21.07.2026 13:48] Response: ```python
+['OPEN_SOURCE']
+```
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Egocentric devices, such as wearable front-facing cameras, provide a unique perspective for capturing the continuous interaction between a human viewer and the surrounding environment. A holistic and efficient multimodal model capable of reconstructing this 4D representation is therefore highly desirable. However, existing approaches often rely on auxiliary inputs such as pre-computed camera trajectories, treat scene perception and human ego-motion modeling as separate problems despite their strong interdependency, and suffer from slow inference time. To address these limitations, we present ReViV, the first unified framework for holistic egocentric 4D reconstruction that extracts both viewer and view dynamics from a single monocular RGB video. We formulate the task as learning the full joint probability distribution over multimodal signals, including RGB video, camera trajectory, gaze direction, full-body motion, hand motion, and depth. Powered by a Masked Generative Egocentric Transformer, ReViV operates within a single feed-forward architecture to simultaneously reconstruct the temporally consistent 4D reconstruction across the viewer and the view with fast inference speed. Extensive experiments on diverse benchmarks, including HoloAssist, HOT3D, ARCTIC, Aria Digital Twin, and TACO, demonstrate that ReViV achieves state-of-the-art accuracy and efficiency across holistic ego-body, hand, and gaze reconstruction, camera tracking, while maintaining highly competitive egocentric depth estimation without relying on heavy task-specific priors. Code and models are fully open-sourced: https://reviv4d.github.io/.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[21.07.2026 13:48] Response: {
+  "desc": "This paper introduces ReViV, a novel framework for egocentric 4D reconstruction using a single monocular RGB video. It effectively combines the tasks of scene perception and human motion modeling into a unified model, addressing the limitations of previous methods that treated these as separate problems. ReViV leverages a Masked Generative Egocentric Transformer to achieve fast inference while maintaining high accuracy in reconstructing viewer dynamics and environmental interactions. Extensive experiments show that ReViV outperforms existing approaches in accuracy and efficiency across various benchmarks.",
+  "title": "ReViV: Unified 4D Reconstruction from Egocentric Video"
+}
+[21.07.2026 13:48] Using data from previous issue: {"categories": ["#optimization", "#inference", "#diffusion"], "emoji": "✨", "ru": {"title": "Улучшение качества генерации с DiFA", "desc": "В данной статье представлено новое решение для улучшения качества генерации данных с помощью диффузионных моделей, называемое DiFA. Этот подход рассматривает пр
+[21.07.2026 13:48] Querying the API.
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential in medical image analysis, existing benchmarks largely reduce OCT understanding to coarse-grained disease classification or isolated visual question answering, leaving the complete cognitive process from visual perception to clinical reasoning insufficiently evaluated. To address this limitation, we introduce OCT-Bench, a comprehensive benchmark dedicated to OCT image understanding. OCT-Bench comprises 10,076 high-quality multiple-choice questions constructed from 4,137 OCT images across seven public datasets. Following the real-world clinical interpretation workflow, we establish a hierarchical capability taxonomy consisting of 20 fine-grained tasks across three dimensions: Perception, Cognition, and Reasoning. These tasks cover a broad range of capabilities, including imaging attributes, retinal anatomy, lesion characteristics, spatial relationships, disease assessment, therapeutic decision-making, and prognostic management. We systematically evaluate 20 representative MLLMs, including proprietary models, open-source general-purpose models, and medical-domain models. Experimental results demonstrate that current models remain substantially short of reliable OCT understanding. Moreover, neither medical-domain adaptation nor increased model scale consistently improves performance across capability levels. OCT-Bench enables comprehensive and fine-grained evaluation of MLLMs, providing a foundation for identifying capability bottlenecks and advancing clinically grounded OCT understanding.
+[21.07.2026 13:48] Response: ```json
+{
+  "desc": "Статья описывает OCT-Bench, новый комплексный бенчмарк для понимания изображений оптической когерентной томографии (OCT). Он включает 10,076 качественных вопросов на выбор, основанных на 4,137 изображениях OCT из семи публичных наборов данных. Бенчмарк охватывает три уровня оценки: восприятие, когниция и рассуждение, включая задачи по характеристикам изображений, анатомии сетчатки и оценке заболеваний. Результаты показывают, что текущие модели многомодальных языковых моделей (MLLMs) недостаточно развиты для надежного понимания OCT.",
+  "emoji": "🩺",
+  "title": "Новый бенчмарк для глубокого понимания OCT"
+}
+```
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential in medical image analysis, existing benchmarks largely reduce OCT understanding to coarse-grained disease classification or isolated visual question answering, leaving the complete cognitive process from visual perception to clinical reasoning insufficiently evaluated. To address this limitation, we introduce OCT-Bench, a comprehensive benchmark dedicated to OCT image understanding. OCT-Bench comprises 10,076 high-quality multiple-choice questions constructed from 4,137 OCT images across seven public datasets. Following the real-world clinical interpretation workflow, we establish a hierarchical capability taxonomy consisting of 20 fine-grained tasks across three dimensions: Perception, Cognition, and Reasoning. These tasks cover a broad range of capabilities, including imaging attributes, retinal anatomy, lesion characteristics, spatial relationships, disease assessment, therapeutic decision-making, and prognostic management. We systematically evaluate 20 representative MLLMs, including proprietary models, open-source general-purpose models, and medical-domain models. Experimental results demonstrate that current models remain substantially short of reliable OCT understanding. Moreover, neither medical-domain adaptation nor increased model scale consistently improves performance across capability levels. OCT-Bench enables comprehensive and fine-grained evaluation of MLLMs, providing a foundation for identifying capability bottlenecks and advancing clinically grounded OCT understanding."
+
+[21.07.2026 13:48] Response: ```python
+['BENCHMARK', 'MULTIMODAL', 'HEALTHCARE']
+```
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential in medical image analysis, existing benchmarks largely reduce OCT understanding to coarse-grained disease classification or isolated visual question answering, leaving the complete cognitive process from visual perception to clinical reasoning insufficiently evaluated. To address this limitation, we introduce OCT-Bench, a comprehensive benchmark dedicated to OCT image understanding. OCT-Bench comprises 10,076 high-quality multiple-choice questions constructed from 4,137 OCT images across seven public datasets. Following the real-world clinical interpretation workflow, we establish a hierarchical capability taxonomy consisting of 20 fine-grained tasks across three dimensions: Perception, Cognition, and Reasoning. These tasks cover a broad range of capabilities, including imaging attributes, retinal anatomy, lesion characteristics, spatial relationships, disease assessment, therapeutic decision-making, and prognostic management. We systematically evaluate 20 representative MLLMs, including proprietary models, open-source general-purpose models, and medical-domain models. Experimental results demonstrate that current models remain substantially short of reliable OCT understanding. Moreover, neither medical-domain adaptation nor increased model scale consistently improves performance across capability levels. OCT-Bench enables comprehensive and fine-grained evaluation of MLLMs, providing a foundation for identifying capability bottlenecks and advancing clinically grounded OCT understanding."
+
+[21.07.2026 13:48] Response: ```python
+['REASONING', 'SURVEY', 'SCIENCE']
+```
+[21.07.2026 13:48] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Optical coherence tomography (OCT) imaging is essential for the diagnosis and treatment of retinal diseases. Although multimodal large language models (MLLMs) have demonstrated considerable potential in medical image analysis, existing benchmarks largely reduce OCT understanding to coarse-grained disease classification or isolated visual question answering, leaving the complete cognitive process from visual perception to clinical reasoning insufficiently evaluated. To address this limitation, we introduce OCT-Bench, a comprehensive benchmark dedicated to OCT image understanding. OCT-Bench comprises 10,076 high-quality multiple-choice questions constructed from 4,137 OCT images across seven public datasets. Following the real-world clinical interpretation workflow, we establish a hierarchical capability taxonomy consisting of 20 fine-grained tasks across three dimensions: Perception, Cognition, and Reasoning. These tasks cover a broad range of capabilities, including imaging attributes, retinal anatomy, lesion characteristics, spatial relationships, disease assessment, therapeutic decision-making, and prognostic management. We systematically evaluate 20 representative MLLMs, including proprietary models, open-source general-purpose models, and medical-domain models. Experimental results demonstrate that current models remain substantially short of reliable OCT understanding. Moreover, neither medical-domain adaptation nor increased model scale consistently improves performance across capability levels. OCT-Bench enables comprehensive and fine-grained evaluation of MLLMs, providing a foundation for identifying capability bottlenecks and advancing clinically grounded OCT understanding.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[21.07.2026 13:48] GitHub Models 429 (rate limit). Ждём 26s, попытка 1/4.
+[21.07.2026 13:48] GitHub Models 429 (rate limit). Ждём 10s, попытка 2/4.
+[21.07.2026 13:49] Response: {
+  "desc": "This paper introduces OCT-Bench, a new benchmark for evaluating the understanding of optical coherence tomography (OCT) images in medical contexts. It addresses the limitations of existing models by providing a comprehensive set of 10,076 multiple-choice questions based on 4,137 OCT images. The benchmark includes a hierarchical taxonomy of 20 tasks that assess perception, cognition, and reasoning related to retinal diseases. The evaluation of 20 different multimodal large language models (MLLMs) reveals that current models struggle with reliable OCT understanding, highlighting the need for further advancements in this area.",
+  "title": "Advancing OCT Understanding with OCT-Bench"
+}
+[21.07.2026 13:49] Renaming data file.
+[21.07.2026 13:49] Renaming previous data. hf_papers.json to ./d/2026-07-21.json
+[21.07.2026 13:49] Saving new data file.
+[21.07.2026 13:49] Generating page.
+[21.07.2026 13:49] Renaming previous page.
+[21.07.2026 13:49] Renaming previous data. index.html to ./d/2026-07-21.html
+[21.07.2026 13:49] Writing result.
+[21.07.2026 13:49] Renaming log file.
+[21.07.2026 13:49] Renaming previous data. log.txt to ./logs/2026-07-21_last_log.txt
