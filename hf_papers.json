@@ -4,9 +4,9 @@
         "en": "July 21",
         "zh": "7月21日"
     },
-    "time_utc": "2026-07-21 19:20",
+    "time_utc": "2026-07-21 22:03",
     "weekday": 1,
-    "issue_id": 2873,
+    "issue_id": 2874,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -77,7 +77,7 @@
             "title": "EvolvingWorld: An Open-Schema Framework for Co-Evolving Role-Play Agents and World Model in Interactive Literary World",
             "url": "https://huggingface.co/papers/2607.17250",
             "abstract": "Abstract  This paper introduces EvolvingWorld, a framework and benchmark for character and world co-evolution in interactive literary worlds. Existing systems either treat interactive literary simulation as static persona imitation or isolated scene generation, failing to capture how characters and worlds evolve together over time. To address this, EvolvingWorld models literary simulation as a long-horizon process where characters interact, scenes progress, and character and world states are persistently updated. Unlike prior systems relying on fixed schemas, EvolvingWorld adopts an open-schema framework to support simulation across diverse literary worlds. The framework consists of two coupled modules: a Character Agent for multi-character role-play and persistent profile evolution, and an LLM-based World Model for global and location/entity-level state maintenance and scene progression. Based on this architecture, we formulate 7 trainable tasks for scene initialization, interaction generation, and state update. We construct a dataset from 57 books, producing 138,596 supervised training samples and 222 snapshots for testing. Furthermore, we introduce a trajectory-level LLM-as-Judge evaluation protocol spanning 10 dimensions and 20 metrics. Experiments show that EvolvingWorld can improve long-horizon simulation by effectively maintaining persistent, coherent character and world development.",
-            "score": 72,
+            "score": 73,
             "issue_id": 2868,
             "pub_date": "2026-07-19",
             "pub_date_card": {
@@ -129,7 +129,7 @@
             "title": "DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment",
             "url": "https://huggingface.co/papers/2607.07820",
             "abstract": "Abstract  Training tool-use agents to improve from their own experience remains challenging, as supervised fine-tuning relies on fixed teacher-distilled trajectories, while sparse-reward reinforcement learning provides weak supervision for long-horizon interactions. We present DeepSearch-Evolve, a self-distillation framework for web agents built on DeepSearch-World, a deterministic and verifiable environment with reproducible search and page-reading tools. DeepSearch-World contains 420K multi-hop QA tasks constructed from entity-level random walks and supports key agentic cognitive behaviors useful for self-evolving, including progress verification, grounded reflection, and failure recovery. DeepSearch-Evolve iteratively performs trajectory generation, filtering, data mixing, and fine-tuning to train stronger agents. Without distillation from more capable models, DeepSearch-World-9B achieves competitive performance compared with open-source agents, reaching 31.2% on BrowseComp, 61.5% on GAIA, and 93.4% on HotpotQA, showing that verifiable environments enable scalable self-evolution for long-horizon web agents. We will release the environment, 420K training pool, validation set, model, and code to facilitate future research on self-improving deep search agents.",
-            "score": 69,
+            "score": 71,
             "issue_id": 2869,
             "pub_date": "2026-07-08",
             "pub_date_card": {
@@ -284,7 +284,7 @@
             "title": "Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence",
             "url": "https://huggingface.co/papers/2607.16401",
             "abstract": "Abstract  Modern video generation models are increasingly hailed as emerging world models with an internalized grasp of physical law. Yet existing benchmarks largely evaluate physical plausibility only at the output level, without verifying whether the model arrives there through a faithful, law-grounded reasoning process. We introduce Apple-PI, the first benchmark that anchors video-model evaluation explicitly in physical laws. Apple-PI comprises three components. 1) Orchard: a dataset of 400 videos covering ten canonical tasks in classical mechanics. It separates single-law tasks for confounder-free diagnosis from multi-law tasks for probing generalization. 2) Benchmark Protocol: a three-stage protocol based on scientific reasoning, including Perception, Formulation, and Deduction. It uses chain-of-frames prompting on infographic-annotated first frames, treating the generated video as the model's visible reasoning trace. 3) Evaluation Suite: a hybrid evaluation suite that combines MLLM-based subjective scoring with physics-law-grounded objective measures. This enables stage-resolved diagnosis of not only whether a model fails, but where it fails. Benchmarking 11 models shows that current video models remain far from reliable law-grounded world simulators, with the best video model scoring only 0.473. Our stage-, pillar-, and source-resolved analyses further expose a Perception-to-Formulation-to-Deduction bottleneck, weak multi-law state transfer, and a persistent Sim-to-Real gap. These findings position Apple-PI as a diagnostic foundation for guiding future video models toward world models with law-grounded physical intelligence.",
-            "score": 36,
+            "score": 37,
             "issue_id": 2869,
             "pub_date": "2026-07-17",
             "pub_date_card": {
@@ -339,7 +339,7 @@
             "title": "RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model",
             "url": "https://huggingface.co/papers/2607.17977",
             "abstract": "Abstract  We present RynnBrain 1.1, a family of embodied foundation models spanning 2B, 9B, and 122B-A10B scales. Trained with a unified spatio-temporal and physically grounded framework, RynnBrain 1.1 supports embodied perception, spatial reasoning, localization, and planning. Compared with RynnBrain 1.0, it further introduces contact-point prediction across the model family and native 3D grounding for the 2B and 9B models, yielding representations and outputs that are more directly aligned with robot manipulation. We also develop RynnBrain-VLA with a unified cross-embodiment action space and embodiment-specific masking, and deploy it on Unitree G1, Astribot-S1, and Tianji-Wuji. RynnBrain 1.1 achieves strong results on embodied cognition, localization, and 3D grounding, with the 122B-A10B model outperforming all evaluated proprietary and open-source models on VSI-Bench, MMSI, and RefSpatial-Bench. Real-robot experiments show that RynnBrain-initialized policies outperform Qwen-based and representative generalist VLAs, while joint multi-task and multi-embodiment training improves process scores and success rates over per-task training.",
-            "score": 31,
+            "score": 32,
             "issue_id": 2868,
             "pub_date": "2026-07-20",
             "pub_date_card": {
@@ -413,7 +413,7 @@
             "title": "GigaChat Audio: Time-aware Large Audio Language Model",
             "url": "https://huggingface.co/papers/2607.10387",
             "abstract": "Abstract  Temporal grounding in long recordings remains challenging for audio-conditioned LLMs. We present a time-aware audio LLM that answers questions with explicit timestamps over up to 120 minutes of input. Our approach interleaves periodic time markers with continuous audio tokens using large-scale synthetic supervision from a cascaded pipeline. Our model achieves strong temporal-grounding accuracy on short and long benchmarks and supports time-anchored fragment descriptions and summaries. Extensive ablations examine how time representation, marker frequency, tokenization, and duration-mixture design affect accuracy and computational cost. We release model weights and datasets to support further research on time-aware audio understanding, available at https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B.",
-            "score": 29,
+            "score": 30,
             "issue_id": 2870,
             "pub_date": "2026-07-11",
             "pub_date_card": {
@@ -462,7 +462,7 @@
             "title": "GigaAM Multilingual: Foundation Model for Underrepresented Languages",
             "url": "https://huggingface.co/papers/2607.10371",
             "abstract": "Abstract  Despite recent scaling successes, multilingual ASR performance remains highly uneven, with long-tail languages suffering from severe data scarcity. This work addresses the challenge of building robust foundation models for underrepresented Central Asian languages (Kazakh, Kyrgyz, Uzbek). We present GigaAM Multilingual, a Conformer encoder pre-trained on 2M hours of audio using a HuBERT-style objective. Crucially, we introduce a cluster-level data balancing strategy during pre-training and a domain-aware sampling method during fine-tuning to mitigate head-language dominance. In controlled comparisons, our approach outperforms strong open pretrained encoders (Whisper Large v3, Omnilingual-1B) on target languages, achieving significant gains on spontaneous speech while maintaining efficiency. We release the foundation encoder and ASR model, offering a proven recipe for effective multilingual adaptation under realistic data imbalance.",
-            "score": 27,
+            "score": 28,
             "issue_id": 2870,
             "pub_date": "2026-07-11",
             "pub_date_card": {
@@ -581,6 +581,62 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.09759",
+            "title": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams",
+            "url": "https://huggingface.co/papers/2607.09759",
+            "abstract": "Abstract  Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted increasing interest. Unfortunately, existing systems either keep their memory inside the model context or in a flat feature store, and organize it around frames rather than around the persistent entities a stream is really about, which confines them to bounded videos and weakens their ability to track who and what reappears over time. In this paper, we propose ReflectWorld-MM, an entity-oriented multimodal memory system for open-ended video streams. It consists of three parts. The first is a perception front-end that turns an audiovisual stream into entity-resolved observations under a bounded short-term memory. The second is a hierarchical long-term memory, grounded in human memory theory, that couples a multi-scale episodic memory, an evolving entity-centric semantic memory, and a procedural memory. The third is a complete realization, built for real-world operation, that ingests arbitrary streams and plugs into off-the-shelf assistants. Across six long-video and lifelong-memory benchmarks, ReflectWorld-MM achieves the best accuracy on all six, outperforming strong memory agents and a frontier model.",
+            "score": 24,
+            "issue_id": 2868,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "636c03e62b0c977d",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Xiaokang Ma",
+                "Yifan Sun",
+                "Zhihong Jin",
+                "Jie Gu",
+                "Yudong Luo",
+                "Shenyi Shao",
+                "Chu Tang",
+                "Jingmin Chen",
+                "Li Pu"
+            ],
+            "affiliations": [
+                "Hangzhou Institute for Advanced Study, UCAS",
+                "Rightly Robotics",
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.09759.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#long_context",
+                    "#agent_memory",
+                    "#retrieval_eval",
+                    "#session_memory",
+                    "#training",
+                    "#agents",
+                    "#continual_learning",
+                    "#memory"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Новая эра многомодальной памяти для видео",
+                    "desc": "В данной статье представлена система многомодальной памяти ReflectWorld-MM, которая предназначена для обработки открытых видеопотоков. Она включает в себя компоненты, которые обеспечивают преобразование аудиовизуального потока в наблюдения, ориентированные на сущности, и организуют долгосрочную память, основанную на теории человеческой памяти. Система сочетает в себе эпизодическую, семантическую и процедурную память, что помогает отслеживать сущности во времени. Результаты показывают превышение точности по сравнению с другими памятью и моделями."
+                },
+                "en": {
+                    "title": "Revolutionizing Video Memory with Entity-Centric Tracking",
+                    "desc": "This paper introduces ReflectWorld-MM, a multimodal memory system designed for processing open-ended video streams. Unlike existing systems that store memory in a flat structure, ReflectWorld-MM organizes memory around persistent entities, enhancing its ability to track and reason about them over time. The system features a perception front-end for entity-resolved observations, a hierarchical long-term memory inspired by human memory theory, and a practical implementation for real-world applications. It demonstrates superior performance across multiple benchmarks, outperforming other memory agents and advanced models."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.18227",
             "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
             "url": "https://huggingface.co/papers/2607.18227",
@@ -670,62 +726,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.09759",
-            "title": "ReflectWorld-MM: An Entity-Oriented Multimodal Memory System for Open-Ended Video Streams",
-            "url": "https://huggingface.co/papers/2607.09759",
-            "abstract": "Abstract  Building assistants that can continually watch the world, remember what they see, and reason over their accumulated experience is a long-standing goal, and recently multimodal agents equipped with long-term memory over video streams have attracted increasing interest. Unfortunately, existing systems either keep their memory inside the model context or in a flat feature store, and organize it around frames rather than around the persistent entities a stream is really about, which confines them to bounded videos and weakens their ability to track who and what reappears over time. In this paper, we propose ReflectWorld-MM, an entity-oriented multimodal memory system for open-ended video streams. It consists of three parts. The first is a perception front-end that turns an audiovisual stream into entity-resolved observations under a bounded short-term memory. The second is a hierarchical long-term memory, grounded in human memory theory, that couples a multi-scale episodic memory, an evolving entity-centric semantic memory, and a procedural memory. The third is a complete realization, built for real-world operation, that ingests arbitrary streams and plugs into off-the-shelf assistants. Across six long-video and lifelong-memory benchmarks, ReflectWorld-MM achieves the best accuracy on all six, outperforming strong memory agents and a frontier model.",
-            "score": 23,
-            "issue_id": 2868,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "636c03e62b0c977d",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Xiaokang Ma",
-                "Yifan Sun",
-                "Zhihong Jin",
-                "Jie Gu",
-                "Yudong Luo",
-                "Shenyi Shao",
-                "Chu Tang",
-                "Jingmin Chen",
-                "Li Pu"
-            ],
-            "affiliations": [
-                "Hangzhou Institute for Advanced Study, UCAS",
-                "Rightly Robotics",
-                "Zhejiang University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.09759.jpg",
-            "data": {
-                "categories": [
-                    "#multimodal",
-                    "#long_context",
-                    "#agent_memory",
-                    "#retrieval_eval",
-                    "#session_memory",
-                    "#training",
-                    "#agents",
-                    "#continual_learning",
-                    "#memory"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Новая эра многомодальной памяти для видео",
-                    "desc": "В данной статье представлена система многомодальной памяти ReflectWorld-MM, которая предназначена для обработки открытых видеопотоков. Она включает в себя компоненты, которые обеспечивают преобразование аудиовизуального потока в наблюдения, ориентированные на сущности, и организуют долгосрочную память, основанную на теории человеческой памяти. Система сочетает в себе эпизодическую, семантическую и процедурную память, что помогает отслеживать сущности во времени. Результаты показывают превышение точности по сравнению с другими памятью и моделями."
-                },
-                "en": {
-                    "title": "Revolutionizing Video Memory with Entity-Centric Tracking",
-                    "desc": "This paper introduces ReflectWorld-MM, a multimodal memory system designed for processing open-ended video streams. Unlike existing systems that store memory in a flat structure, ReflectWorld-MM organizes memory around persistent entities, enhancing its ability to track and reason about them over time. The system features a perception front-end for entity-resolved observations, a hierarchical long-term memory inspired by human memory theory, and a practical implementation for real-world applications. It demonstrates superior performance across multiple benchmarks, outperforming other memory agents and advanced models."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.16900",
             "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
             "url": "https://huggingface.co/papers/2607.16900",
@@ -781,7 +781,7 @@
             "title": "Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints",
             "url": "https://huggingface.co/papers/2607.18144",
             "abstract": "Abstract  Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. While diffusion models have dominated as a leading paradigm for high-quality 3D molecule generation, LLM-based methods are rapidly emerging in molecular design and have shown competitive performance in pocket-conditioned molecular generation. However, their ability to reason about physics and 3D spatial environments is largely underexplored. In this work, we systematically analyze whether current general-purpose LLMs are capable of navigating complex 3D constraints compared to established baselines such as specialized diffusion models. We consider 3D ligand generation conditioned on protein pockets together with ligand- and interaction-derived spatial constraints, including anchor fragments, pharmacophore points, and mandatory pocket-ligand interactions. To enable this evaluation, we introduce 3D-Fit - a token-efficient benchmarking strategy for assessing LLM performance on multi-conditioned spatial molecule generation. Our findings reveal a clear pattern in LLM spatial capabilities: while they still lag behind state-of-the-art approaches, they are promising and can handle multiple spatial constraints simultaneously, enabling scaling to heterogeneous setups.",
-            "score": 11,
+            "score": 12,
             "issue_id": 2871,
             "pub_date": "2026-07-20",
             "pub_date_card": {
@@ -1118,6 +1118,55 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.18084",
+            "title": "WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting",
+            "url": "https://huggingface.co/papers/2607.18084",
+            "abstract": "Abstract  Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCupArena, a dynamic benchmark for language models and deep-research agents. The 2026 FIFA World Cup is its first evaluation, and the same process can be reused for future leagues and cups. Before each match, a model either receives a common evidence package or searches for information itself. It predicts the result and score, likely players and events, match statistics, and the outcome of the competition. After the match, these predictions are compared with the recorded result. We report result accuracy, exact-score accuracy, and a scoreline score that gives some credit when a predicted score is close but not exact, together with scores for the other prediction tasks. Across 104 matches and 13 systems, models with similar result accuracy differ more clearly on detailed predictions. Compared with betting-market and human-fan baselines, the best system shows only small gains in result and exact-score accuracy, but a clearer gain in Scoreline. New schedules can be added as they begin, allowing the benchmark to evaluate future models without using outcomes that are already known. Code, prompts, predictions, and evaluation scripts are open sourced at https://github.com/wzk1015/WorldCupArena.",
+            "score": 3,
+            "issue_id": 2869,
+            "pub_date": "2026-07-20",
+            "pub_date_card": {
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
+            },
+            "hash": "27a68ae5db247970",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhaokai Wang",
+                "Tianlin Gui",
+                "Jiayuan Rao",
+                "Shangzhe Di",
+                "Yihong Tang",
+                "Dingli Liang"
+            ],
+            "affiliations": [
+                "McGill University, Montreal, Canada",
+                "Nanjing University, Shanghai, China",
+                "Shanghai Jiao Tong University, Shanghai, China",
+                "University College London, London, UK"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.18084.jpg",
+            "data": {
+                "categories": [
+                    "#games",
+                    "#benchmark",
+                    "#dataset",
+                    "#open_source"
+                ],
+                "emoji": "⚽",
+                "ru": {
+                    "title": "Новая эра предсказаний футбольных матчей",
+                    "desc": "Статья описывает WorldCupArena, динамическую платформу для оценки языковых моделей и глубоких аналитических агентов в предсказании результатов футбольных матчей. Модель использует изменяющуюся информацию для предсказания результата, статистики матча и вероятных событий до начала игры. В рамках эксперимента сравниваются предсказания моделей с реальными результатами матчей, что позволяет оценить их точность. WorldCupArena также предоставляет возможность добавления новых турниров и лиг, что делает его актуальным инструментом для будущих исследований."
+                },
+                "en": {
+                    "title": "Dynamic Predictions for Football Matches",
+                    "desc": "This paper introduces WorldCupArena, a dynamic benchmark designed for evaluating language models and deep learning agents in predicting football match outcomes. It emphasizes the importance of using real-time information to make predictions before the match starts. The benchmark was first tested during the 2026 FIFA World Cup and can be adapted for future sporting events. The results show that while some models have similar overall accuracy, they differ significantly in their detailed predictions, particularly in scoreline accuracy."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.17986",
             "title": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?",
             "url": "https://huggingface.co/papers/2607.17986",
@@ -1208,6 +1257,56 @@
                 "en": {
                     "title": "Optimizing Multimodal Applications with FlashRT",
                     "desc": "This paper introduces FlashRT, a system designed to optimize the deployment of multimodal applications by transforming simple reference implementations into efficient multi-GPU setups. It utilizes a chain-of-program paradigm where a coding agent iteratively refines the implementation through a multi-pass transformation process, focusing on metrics like latency and throughput. FlashRT captures data dependencies and validates intermediate representations to ensure effective optimization. The results show significant performance improvements, achieving up to 70x latency reduction and 3.6x throughput enhancement on various GPU platforms."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.17675",
+            "title": "ShotPlan: Cinematic Video Generation with Learnable Planning Token",
+            "url": "https://huggingface.co/papers/2607.17675",
+            "abstract": "Abstract  Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition require explicit shot planning. To address this challenge, we propose ShotPlan, a framework for explicit multi-shot cinematic video generation built upon a video diffusion foundation model. Our method introduces learnable planning tokens that capture shot-level transition cues and can be seamlessly integrated with the original video generation tokens to control transition timestamps. Unlike standard video generation tokens, the proposed planning tokens are equipped with Fractional Temporal Rotary Position Embedding (FRoPE), enabling shot transitions to be modeled at the frame level. Experiments demonstrate that ShotPlan significantly outperforms existing cinematic video generation methods, offering more flexible shot management and stronger inter-shot consistency.",
+            "score": 3,
+            "issue_id": 2871,
+            "pub_date": "2026-07-20",
+            "pub_date_card": {
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
+            },
+            "hash": "795ed3668c2ba983",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Su Guo",
+                "Guangce Liu",
+                "Haosen Yang",
+                "Jiepeng Wang",
+                "Cong Liu",
+                "Junqi Liu",
+                "Haibin Huang",
+                "Hongxun Yao",
+                "Chi Zhang",
+                "Xuelong Li"
+            ],
+            "affiliations": [
+                "Harbin Institute of Technology",
+                "Institute of Artificial Intelligence (TeleAI), China Telecom"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.17675.jpg",
+            "data": {
+                "categories": [
+                    "#3d",
+                    "#games",
+                    "#diffusion"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Новая эра генерации киношных видео!",
+                    "desc": "В статье представлена новая модель ShotPlan для генерации киношных видео с помощью многосъемочных планов. Основная innovation заключается в использовании обучаемых токенов планирования, которые помогают управлять переходами между кадрами. Эти токены используют встроенное позиционное кодирование, позволяющее моделировать переходы на уровне кадров. Эксперименты показывают, что ShotPlan значительно превосходит существующие методы генерации видео, обеспечивая лучшую согласованность между сценами."
+                },
+                "en": {
+                    "title": "Revolutionizing Cinematic Video Generation with Shot Planning",
+                    "desc": "This paper presents ShotPlan, a new framework for generating cinematic videos that require careful planning of multiple shots. It builds on a video diffusion model and introduces learnable planning tokens to manage transitions between shots effectively. These tokens use a technique called Fractional Temporal Rotary Position Embedding (FRoPE) to enhance the modeling of transitions at the frame level. The results show that ShotPlan outperforms existing methods by providing better control over shot management and improving the consistency between shots."
                 }
             }
         },
@@ -1412,55 +1511,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.18084",
-            "title": "WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting",
-            "url": "https://huggingface.co/papers/2607.18084",
-            "abstract": "Abstract  Predicting a football match before kickoff requires more than knowing past results: a model must use changing information and make a clear prediction before the answer is available. We present WorldCupArena, a dynamic benchmark for language models and deep-research agents. The 2026 FIFA World Cup is its first evaluation, and the same process can be reused for future leagues and cups. Before each match, a model either receives a common evidence package or searches for information itself. It predicts the result and score, likely players and events, match statistics, and the outcome of the competition. After the match, these predictions are compared with the recorded result. We report result accuracy, exact-score accuracy, and a scoreline score that gives some credit when a predicted score is close but not exact, together with scores for the other prediction tasks. Across 104 matches and 13 systems, models with similar result accuracy differ more clearly on detailed predictions. Compared with betting-market and human-fan baselines, the best system shows only small gains in result and exact-score accuracy, but a clearer gain in Scoreline. New schedules can be added as they begin, allowing the benchmark to evaluate future models without using outcomes that are already known. Code, prompts, predictions, and evaluation scripts are open sourced at https://github.com/wzk1015/WorldCupArena.",
-            "score": 2,
-            "issue_id": 2869,
-            "pub_date": "2026-07-20",
-            "pub_date_card": {
-                "ru": "20 июля",
-                "en": "July 20",
-                "zh": "7月20日"
-            },
-            "hash": "27a68ae5db247970",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhaokai Wang",
-                "Tianlin Gui",
-                "Jiayuan Rao",
-                "Shangzhe Di",
-                "Yihong Tang",
-                "Dingli Liang"
-            ],
-            "affiliations": [
-                "McGill University, Montreal, Canada",
-                "Nanjing University, Shanghai, China",
-                "Shanghai Jiao Tong University, Shanghai, China",
-                "University College London, London, UK"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.18084.jpg",
-            "data": {
-                "categories": [
-                    "#games",
-                    "#benchmark",
-                    "#dataset",
-                    "#open_source"
-                ],
-                "emoji": "⚽",
-                "ru": {
-                    "title": "Новая эра предсказаний футбольных матчей",
-                    "desc": "Статья описывает WorldCupArena, динамическую платформу для оценки языковых моделей и глубоких аналитических агентов в предсказании результатов футбольных матчей. Модель использует изменяющуюся информацию для предсказания результата, статистики матча и вероятных событий до начала игры. В рамках эксперимента сравниваются предсказания моделей с реальными результатами матчей, что позволяет оценить их точность. WorldCupArena также предоставляет возможность добавления новых турниров и лиг, что делает его актуальным инструментом для будущих исследований."
-                },
-                "en": {
-                    "title": "Dynamic Predictions for Football Matches",
-                    "desc": "This paper introduces WorldCupArena, a dynamic benchmark designed for evaluating language models and deep learning agents in predicting football match outcomes. It emphasizes the importance of using real-time information to make predictions before the match starts. The benchmark was first tested during the 2026 FIFA World Cup and can be adapted for future sporting events. The results show that while some models have similar overall accuracy, they differ significantly in their detailed predictions, particularly in scoreline accuracy."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.17972",
             "title": "DiFA: Inference-Time Forward-Process Alignment for Diffusion Models",
             "url": "https://huggingface.co/papers/2607.17972",
@@ -1499,56 +1549,6 @@
                 "en": {
                     "title": "Enhancing Diffusion Models with Forward-Process Alignment",
                     "desc": "This paper introduces a new approach called Forward-Process Aligned Diffusion prediction (DiFA) for improving the generation of data using diffusion models. Instead of treating the generation process as a simple numerical integration, DiFA views it as a sequential state estimation problem, which allows for better handling of statistical uncertainty. By leveraging past predictions as correlated observations, DiFA creates a consensus that enhances the quality of generated outputs. The method also includes a deviation guidance mechanism to maintain important details, leading to significant improvements in generative performance on datasets like CIFAR-10 and ImageNet."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.17675",
-            "title": "ShotPlan: Cinematic Video Generation with Learnable Planning Token",
-            "url": "https://huggingface.co/papers/2607.17675",
-            "abstract": "Abstract  Current video generation models achieve impressive results in single-shot generation, yet remain limited in cinematic video generation, where coherent narratives and effective multi-shot composition require explicit shot planning. To address this challenge, we propose ShotPlan, a framework for explicit multi-shot cinematic video generation built upon a video diffusion foundation model. Our method introduces learnable planning tokens that capture shot-level transition cues and can be seamlessly integrated with the original video generation tokens to control transition timestamps. Unlike standard video generation tokens, the proposed planning tokens are equipped with Fractional Temporal Rotary Position Embedding (FRoPE), enabling shot transitions to be modeled at the frame level. Experiments demonstrate that ShotPlan significantly outperforms existing cinematic video generation methods, offering more flexible shot management and stronger inter-shot consistency.",
-            "score": 2,
-            "issue_id": 2871,
-            "pub_date": "2026-07-20",
-            "pub_date_card": {
-                "ru": "20 июля",
-                "en": "July 20",
-                "zh": "7月20日"
-            },
-            "hash": "795ed3668c2ba983",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Su Guo",
-                "Guangce Liu",
-                "Haosen Yang",
-                "Jiepeng Wang",
-                "Cong Liu",
-                "Junqi Liu",
-                "Haibin Huang",
-                "Hongxun Yao",
-                "Chi Zhang",
-                "Xuelong Li"
-            ],
-            "affiliations": [
-                "Harbin Institute of Technology",
-                "Institute of Artificial Intelligence (TeleAI), China Telecom"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.17675.jpg",
-            "data": {
-                "categories": [
-                    "#3d",
-                    "#games",
-                    "#diffusion"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Новая эра генерации киношных видео!",
-                    "desc": "В статье представлена новая модель ShotPlan для генерации киношных видео с помощью многосъемочных планов. Основная innovation заключается в использовании обучаемых токенов планирования, которые помогают управлять переходами между кадрами. Эти токены используют встроенное позиционное кодирование, позволяющее моделировать переходы на уровне кадров. Эксперименты показывают, что ShotPlan значительно превосходит существующие методы генерации видео, обеспечивая лучшую согласованность между сценами."
-                },
-                "en": {
-                    "title": "Revolutionizing Cinematic Video Generation with Shot Planning",
-                    "desc": "This paper presents ShotPlan, a new framework for generating cinematic videos that require careful planning of multiple shots. It builds on a video diffusion model and introduces learnable planning tokens to manage transitions between shots effectively. These tokens use a technique called Fractional Temporal Rotary Position Embedding (FRoPE) to enhance the modeling of transitions at the frame level. The results show that ShotPlan outperforms existing methods by providing better control over shot management and improving the consistency between shots."
                 }
             }
         },
