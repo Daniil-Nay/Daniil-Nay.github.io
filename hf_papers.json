@@ -4,9 +4,9 @@
         "en": "July 22",
         "zh": "7月22日"
     },
-    "time_utc": "2026-07-22 16:20",
+    "time_utc": "2026-07-22 19:16",
     "weekday": 2,
-    "issue_id": 2880,
+    "issue_id": 2881,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
             "url": "https://huggingface.co/papers/2607.19191",
             "abstract": "Abstract  We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.",
-            "score": 111,
+            "score": 150,
             "issue_id": 2876,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -99,7 +99,7 @@
             "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
             "url": "https://huggingface.co/papers/2607.16617",
             "abstract": "Abstract  Large language models (LLMs) are increasingly used to automate data-processing workflows, yet coding agents typically produce scripts that are not automatically materialized as persistent, editable platform artifacts. We call this disconnect the NL2Pipeline gap. To bridge it, we introduce DataFlow-Harness, a platform that guides an LLM agent to construct platform-native directed acyclic graphs (DAGs) through typed, incremental mutations rather than free-form scripts. The platform combines DataFlow-Skills for procedural guidance, a Model Context Protocol (MCP) layer that exposes the live operator registry and current pipeline state, and DataFlow-WebUI, which synchronizes conversational authoring with a visual DAG editor. On a 12-task data-engineering benchmark, DataFlow-Harness achieves a 93.3\\% observed end-to-end pass rate. Relative to Vanilla Claude Code, it reduces measured monetary cost by 72.5\\% and generation latency by 49.9\\%; its observed pass rate is within 0.9 percentage points of the Context-Aware Claude Code baseline while its cost is 42.8\\% lower. Per-task analysis indicates that Skills are most useful when construction depends on implicit procedural knowledge. These results show that live platform grounding can produce persistent, editable workflow artifacts with an observed reliability close to script-generation baselines and with lower measured construction cost and latency.",
-            "score": 102,
+            "score": 106,
             "issue_id": 2876,
             "pub_date": "2026-07-18",
             "pub_date_card": {
@@ -320,7 +320,7 @@
             "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
             "url": "https://huggingface.co/papers/2607.18367",
             "abstract": "Abstract  Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments from user inputs instantly. It enable us to create customized, explorable, and continuously evolving virtual world from text, an image, or video. Realizing this vision requires four tightly coupled capabilities: interaction, persistent spatiotemporal consistency, stable long-horizon generation, and efficient response. We present AlayaWorld, an interactive long-horizon video world model that generates 24-fps video at 540p and 720p. Built on a 15B video diffusion transformer, AlayaWorld generates short latent chunks autoregressively under camera trajectories and switchable text prompts. Its bounded visual context combines a persistent sink frame, compressed temporal history, geometry-aligned spatial memory, and recent-frame conditioning. To reduce long-term drift, the model is trained with corrupted histories and prediction residuals collected from its own roll-outs. We further introduce a discrete autoregressive distillation formulation that combines distribution-matching distillation, self-forcing++, and consistency distillation, reducing inference from approximately 30 sampling steps to four steps per chunk. On iWorld-Bench, AlayaWorld achieves the best performance over long-horizon generation. Conceived as a full-stack, open-source, and long-term project, AlayaWorld is intended to provide an extensible foundation for future research on interactive video world models.",
-            "score": 44,
+            "score": 45,
             "issue_id": 2876,
             "pub_date": "2026-07-20",
             "pub_date_card": {
@@ -381,7 +381,7 @@
             "title": "Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning",
             "url": "https://huggingface.co/papers/2607.18722",
             "abstract": "Abstract  Asynchronous reinforcement learning improves throughput by decoupling rollout generation from optimization, but staleness is an inevitable byproduct compounded by policy lag, engine delays, and mixture-of-experts routing. From a trust-region perspective, this mismatch is critical: training-inference divergence governs approximation error in finite-horizon bounds, whereas PPO clipping only gates sampled outward updates, acting as a sampled surrogate rather than a full-policy constraint. As a result, high-staleness updates remain weakly controlled in the asynchronous regime where stale rollouts matter most.   We introduce the Staleness-Adaptive Trust Region (SAT), which uses the detached sampled log-ratio as a practical staleness proxy, identifies high-mismatch tails within each batch via staleness-based kernel scaling, and contracts only the sign-selected endpoint of the nominal PPO interval. This preserves baseline behavior on ordinary tokens while enforcing more conservative updates on newly intercepted outward bands. We prove local interval containment and pointwise pessimism relative to PPO, showing how the adaptive rule reshapes update geometry under heterogeneous staleness.   We evaluate SAT in a decoupled asynchronous RL setup built on Qwen3-30B-A3B-Base, using SGLang as the inference engine and Megatron for training. In this setting, SAT-GSPO w/ R3 achieves the best observed AIME24 avg@8, reaching 35.83 at lag 1 and 34.79 at lag 8, while SAT-GSPO reaches 34.17 at lag 1. Adaptive clipping and routing replay act as complementary stabilizers targeting mismatch tails and routing inconsistency, respectively. Overall, aligning clip intervals with staleness heterogeneity effectively stabilizes asynchronous RL.",
-            "score": 28,
+            "score": 29,
             "issue_id": 2876,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -638,11 +638,65 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.01774",
+            "title": "Subliminal Clocks: Latent Time Modelling in Diffusion Language Models",
+            "url": "https://huggingface.co/papers/2607.01774",
+            "abstract": "Abstract  Diffusion Language Models (DLMs) have recently emerged as a promising alternative to autoregressive models. Unlike standard diffusion-based approaches, DLMs are not explicitly conditioned on a timestep, raising a natural question: do these models internally represent denoising progress, and how is such information used downstream? In this work, we show that DLMs do in fact encode a latent representation related to the diffusion timestep within their residual streams. We find that this signal can be reliably extracted using probes across layers, indicating that denoising progress is decodable from internal activations. We further demonstrate that steering the model along a low-dimensional subspace associated with the inferred timestep allows us to systematically modulate its notion of denoising progress, leading to predictable changes in model confidence and entropy. Finally, we analyse the geometry of the identified representation, showing that it exhibits structured and interpretable properties in activation space, and shedding light on how such a signal is processed by these models.",
+            "score": 6,
+            "issue_id": 2881,
+            "pub_date": "2026-07-20",
+            "pub_date_card": {
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
+            },
+            "hash": "ab66c30bc63edc17",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Maximo Eduardo Rulli",
+                "Thomas Vaitses Fontanari",
+                "Simone Petruzzi",
+                "Federico Alvetreti",
+                "Giorgio Strano",
+                "Donato Crisostomi",
+                "Giorgos Nikolaou",
+                "Tommaso Mencattini",
+                "Andrea Santilli",
+                "Emanuele Rodolà",
+                "Simone Scardapane",
+                "Alessio Devoto"
+            ],
+            "affiliations": [
+                "1",
+                "2",
+                "3"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.01774.jpg",
+            "data": {
+                "categories": [
+                    "#architecture",
+                    "#diffusion",
+                    "#interpretability",
+                    "#training"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Исследование внутреннего представления модели диффузии языка",
+                    "desc": "Модель диффузии языка (DLM) представляет собой перспективную альтернативу авторегрессионным моделям. В отличие от стандартных подходов, DLM не зависит явно от временного шага, что вызывает вопрос о том, как они воспринимают процесс денойзинга. В этой работе мы показываем, что DLM действительно кодирует латентное представление, связанное с временным шагом, в своих остаточных потоках. Также мы демонстрируем, что можно управлять моделью, изменяя представление, связанное с денойзингом, что приводит к предсказуемым изменениям уверенности модели и энтропии."
+                },
+                "en": {
+                    "title": "Unlocking the Secrets of Diffusion Language Models",
+                    "desc": "Diffusion Language Models (DLMs) offer a new approach to language modeling that differs from traditional autoregressive methods. This study reveals that DLMs internally represent information about the denoising process, even though they are not explicitly conditioned on time. By using probes, we can extract this latent representation from the model's layers, which helps us understand how denoising progress is encoded. Additionally, we show that manipulating this representation can influence the model's confidence and output, providing insights into the model's internal workings."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.19331",
             "title": "ISO: An RLVR-Native Optimization Stack",
             "url": "https://huggingface.co/papers/2607.19331",
             "abstract": "Abstract  Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood. Building on our prior analysis (Zhu et al., 2025), we study this missing layer through the singular structure of model weights and identify spectral inheritance: RLVR can reuse the base model's weight spectra while acquiring new behavior through changes in the associated input and output singular frames.   We operationalize spectral inheritance as Isospectral Optimization (ISO), an RLVR-native, fixed-spectrum optimization framework with complementary offline and online instantiations. Offline, ISO-Merger combines the frame changes of shared-base specialists into a single fixed-spectrum model, requiring no post-merge data, rollouts, gradient updates, or on-policy distillation (OPD). It recovers complementary specialist capabilities and achieves the strongest aggregate performance among the compared data-free merging methods. Online, ISO-Optimizer applies a chosen base optimizer, including AdamW and Muon, to the frame variables while keeping the base spectra fixed. Across reasoning and coding tasks ranging from 1.5B to 8B parameters, ISO-Optimizer improves accuracy in the reported runs and reaches matched scores with substantially fewer training steps. On Qwen3-8B-Base, AdamW reaches an aggregate accuracy of 0.495 after 270 training steps. ISO-AdamW reaches the same accuracy after only 100 training steps and improves further to 0.509 after 210 training steps. Together, ISO offers a concrete answer to RLVR's missing optimization layer: rather than inheriting pre-training optimization wholesale, design post-training around the structure of reward-driven adaptation: inherit the spectrum, optimize the frames.",
-            "score": 3,
+            "score": 4,
             "issue_id": 2876,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -698,7 +752,7 @@
             "title": "Transcription Policy as a Latent Variable: Activating Controllable Verbatim ASR with Word-Level Timing",
             "url": "https://huggingface.co/papers/2607.18934",
             "abstract": "Abstract  Modern ASR models trained on heterogeneously annotated data treat transcription style (verbatim vs. intended) as an uncontrolled latent variable, causing measurable decoding instability, evaluation confounding (up to 60% of reported WER attributable to style mismatch), and unreliable word-level timing. We show that models already encode both styles; the challenge is controlled activation. Using coverage-aware decoder task tokens trained on parallel verbatim/intended transcript pairs, we raise German disfluency F1 from 10% to 79% zero-shot, despite English-only training. Full English-only fine-tuning surpasses all baselines in verbatim accuracy, disfluency detection, and intended-mode quality across both languages. We further introduce supervised cross-attention fine-tuning that improves word-level timestamps on disfluent speech beyond forced-alignment baselines. Finally, we propose verbatimize, a new task enabling scalable creation and enrichment of speech corpora with high-quality canonical verbatim transcriptions.",
-            "score": 3,
+            "score": 4,
             "issue_id": 2879,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -742,7 +796,7 @@
             "title": "Masked Visual Actions for Unified World Modeling",
             "url": "https://huggingface.co/papers/2607.19343",
             "abstract": "Abstract  Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned these interaction priors, yet still grounded in physical manipulation. We introduce Masked Visual Actions, a pixel-space control interface that expresses action as a partially revealed trajectory of an arbitrary entity in a video. Revealing robot motion makes the model act as a forward dynamics model that predicts the scene's response to low-level robot actions, while revealing desired object motion makes the same model recover robot behavior consistent with that outcome. Finetuned with only 15 hours of masked examples from real videos and simulation, a single checkpoint achieves strong visual fidelity and controllability across diverse scenes and multiple embodiments. In downstream manipulation settings, the model produces imagined rollouts whose outcomes correlate with real-world execution for policy evaluation, improves decision making by ranking candidate futures in model-based planning, and supports inverse modeling by synthesizing robot motion from desired object motion.",
-            "score": 3,
+            "score": 4,
             "issue_id": 2875,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -794,7 +848,7 @@
             "title": "H^2SD: Hybrid Hindsight Self-Distillation",
             "url": "https://huggingface.co/papers/2607.18955",
             "abstract": "Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved the reasoning capabilities of large language models on tasks such as mathematical reasoning and code generation. However, most RLVR methods assign a scalar outcome reward to an entire trajectory, resulting in sparse supervision and limited token-level credit assignment. On-policy distillation (OPD) provides denser supervision by distilling token-level distributions from a stronger teacher model, but requires an additional teacher and typically assumes a shared vocabulary. On-policy self-distillation (OPSD) removes this dependency by conditioning the same model on privileged information to construct a teacher policy. However, directly matching the teacher distribution may cause information leakage and unstable optimization. RLSD avoids direct matching by using the teacher signal only to modulate update magnitudes, but it cannot provide an explicit correction direction when the sampled reasoning fails. To address this tradeoff, we introduce H^{2}SD, a hybrid hindsight self distillation framework that uses the teacher differently according to trajectory correctness. For successful trajectories, the teacher receives the student response confirmed as correct together with a rephrasing instruction, and its probabilities on the original response tokens are used to modulate update magnitudes without changing the direction determined by the reward. For failed trajectories, we condition the teacher on a reference hint containing key reasoning steps and a verified answer, and minimize the reverse KL divergence from the student to the teacher. Experiments on multiple challenging reasoning benchmarks show that H^2SD consistently outperforms representative RLVR, OPSD, and RLSD baselines while maintaining stable optimization and favorable generation efficiency.",
-            "score": 3,
+            "score": 4,
             "issue_id": 2875,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -840,6 +894,44 @@
                 "en": {
                     "title": "Enhancing Reasoning in Language Models with H^{2}SD",
                     "desc": "This paper presents H^{2}SD, a novel hybrid hindsight self-distillation framework that enhances reinforcement learning with verifiable rewards (RLVR) for large language models. It improves reasoning tasks by using a teacher model to guide updates based on the correctness of trajectories, allowing for better token-level credit assignment. For successful trajectories, it modulates update magnitudes without altering the direction of the reward, while for failed ones, it minimizes divergence from a teacher conditioned on key reasoning steps. Experiments demonstrate that H^{2}SD outperforms existing methods, achieving stable optimization and efficient generation."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.19058",
+            "title": "Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training",
+            "url": "https://huggingface.co/papers/2607.19058",
+            "abstract": "Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoE - the dense backbone, the experts, and the router - differ enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus a factored second moment for the backbone (5% of parameters), a factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamW's, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of a 40 GB accelerator. In a controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: a tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracy; the accuracy comes from keeping momentum, which a uniform optimizer shares too. Sweeping the baselines' learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is.",
+            "score": 4,
+            "issue_id": 2877,
+            "pub_date": "2026-07-21",
+            "pub_date_card": {
+                "ru": "21 июля",
+                "en": "July 21",
+                "zh": "7月21日"
+            },
+            "hash": "d2e3a678cdd46587",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Nuemaan Malik"
+            ],
+            "affiliations": [],
+            "pdf_title_img": "assets/pdf/title_img/2607.19058.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#optimization",
+                    "#memory"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Оптимизация памяти для лучших результатов в MoE",
+                    "desc": "В статье рассматривается оптимизация состояния оптимизатора в процессе тренировки моделей смешанных экспертов (MoE). Авторы предлагают новый оптимизатор SkewAdam, который учитывает различия в размерах и градиентной статистике между тремя группами параметров MoE. SkewAdam значительно уменьшает использование памяти, сохраняя только 1.29 ГБ состояния при этом достигая более низкой перплексии валидирования по сравнению с AdamW. Результаты показывают, что распределение состояния оптимизатора не менее важно, чем его объем для достижения высокой точности."
+                },
+                "en": {
+                    "title": "SkewAdam: Optimizing Memory for Mixture-of-Experts Training",
+                    "desc": "This paper introduces SkewAdam, a new optimizer designed for mixture-of-experts (MoE) models that significantly reduces memory usage during training. By recognizing that different parameter groups in MoE have distinct characteristics, SkewAdam allocates optimizer states differently for the backbone, experts, and router components. This approach decreases the memory footprint from 50.6 GB to just 1.29 GB while maintaining high accuracy, achieving better validation perplexity than traditional optimizers like AdamW. The findings suggest that the organization of optimizer state is crucial for efficient training in large-scale models."
                 }
             }
         },
@@ -895,44 +987,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.19058",
-            "title": "Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training",
-            "url": "https://huggingface.co/papers/2607.19058",
-            "abstract": "Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoE - the dense backbone, the experts, and the router - differ enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus a factored second moment for the backbone (5% of parameters), a factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamW's, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of a 40 GB accelerator. In a controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: a tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracy; the accuracy comes from keeping momentum, which a uniform optimizer shares too. Sweeping the baselines' learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is.",
-            "score": 3,
-            "issue_id": 2877,
-            "pub_date": "2026-07-21",
-            "pub_date_card": {
-                "ru": "21 июля",
-                "en": "July 21",
-                "zh": "7月21日"
-            },
-            "hash": "d2e3a678cdd46587",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Nuemaan Malik"
-            ],
-            "affiliations": [],
-            "pdf_title_img": "assets/pdf/title_img/2607.19058.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#optimization",
-                    "#memory"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Оптимизация памяти для лучших результатов в MoE",
-                    "desc": "В статье рассматривается оптимизация состояния оптимизатора в процессе тренировки моделей смешанных экспертов (MoE). Авторы предлагают новый оптимизатор SkewAdam, который учитывает различия в размерах и градиентной статистике между тремя группами параметров MoE. SkewAdam значительно уменьшает использование памяти, сохраняя только 1.29 ГБ состояния при этом достигая более низкой перплексии валидирования по сравнению с AdamW. Результаты показывают, что распределение состояния оптимизатора не менее важно, чем его объем для достижения высокой точности."
-                },
-                "en": {
-                    "title": "SkewAdam: Optimizing Memory for Mixture-of-Experts Training",
-                    "desc": "This paper introduces SkewAdam, a new optimizer designed for mixture-of-experts (MoE) models that significantly reduces memory usage during training. By recognizing that different parameter groups in MoE have distinct characteristics, SkewAdam allocates optimizer states differently for the backbone, experts, and router components. This approach decreases the memory footprint from 50.6 GB to just 1.29 GB while maintaining high accuracy, achieving better validation perplexity than traditional optimizers like AdamW. The findings suggest that the organization of optimizer state is crucial for efficient training in large-scale models."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.18529",
             "title": "EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration",
             "url": "https://huggingface.co/papers/2607.18529",
@@ -978,6 +1032,51 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.15491",
+            "title": "Trajectory-aware Cross-view Geo-localization with Sequential Observations",
+            "url": "https://huggingface.co/papers/2607.15491",
+            "abstract": "Abstract  Cross-view geo-localization matches ground-level observations against geo-tagged satellite imagery. Recent methods show that sequential queries such as video clips yield richer spatiotemporal cues than single images, yet they overlook a complementary sequential modality: route descriptions -- which capture the same trajectory at a higher level of abstraction and are often the only input available (e.g., a user directing an autonomous vehicle to a pickup point). To bridge this gap, we introduce SeqGeo-VL, a dataset of sim39K video-text-satellite triplets, and TrajLoc, a unified framework capable of processing both video clips and route descriptions. By leveraging both dense visual and abstract linguistic semantics, TrajLoc enables these modalities to mutually reinforce cross-view matching. We further propose TrajMod, a lightweight module that conditions query embeddings on trajectory geometry, yielding spatially-aware representations. Experiments show that TrajLoc achieves substantial gains over state-of-the-art methods on both video and text geo-localization. The project page is available at https://humblegamer.github.io/trajloc/.",
+            "score": 3,
+            "issue_id": 2876,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "d8abfc387c26561b",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Tianyi Gao",
+                "Jiayu Lin",
+                "Danielle Beaulieu",
+                "Nathan Jacobs"
+            ],
+            "affiliations": [
+                "Washington University in St. Louis, St. Louis, MO 63130, USA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.15491.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#transfer_learning",
+                    "#multimodal",
+                    "#dataset",
+                    "#games"
+                ],
+                "emoji": "🛰️",
+                "ru": {
+                    "title": "Новый уровень геолокации: видео и описания маршрутов",
+                    "desc": "В данной работе рассматривается задача кросс-вижуальной геолокации, которая сопоставляет наземные наблюдения с геометками спутниковых изображений. Авторы представляют новый подход SeqGeo-VL, который включает набор данных из 39 000 триплетов видео-текст-спутниковые изображения, а также унифицированную рамочную структуру TrajLoc. Эта структура обрабатывает как видеофрагменты, так и описания маршрутов, позволяя им взаимно усиливать сопоставление. Эксперименты показывают, что TrajLoc значительно превосходит существующие методы в области геолокации как видео, так и текста."
+                },
+                "en": {
+                    "title": "Bridging Ground and Sky: Enhanced Geo-Localization with Video and Route Descriptions",
+                    "desc": "This paper presents a new approach to cross-view geo-localization by matching ground-level observations with geo-tagged satellite images. It introduces SeqGeo-VL, a dataset containing video-text-satellite triplets, and TrajLoc, a framework that processes both video clips and route descriptions. By combining visual data and abstract language, TrajLoc enhances the matching process between different views. The authors also propose TrajMod, a module that improves query embeddings based on trajectory geometry, leading to better performance in geo-localization tasks."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.19344",
             "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
             "url": "https://huggingface.co/papers/2607.19344",
@@ -1019,51 +1118,6 @@
                 "en": {
                     "title": "Precise Control in Image Generation with Appearance Pointers",
                     "desc": "This paper addresses the challenge of controllable image generation, which is important for creative professionals needing specific control over image elements. The authors introduce Diffusion Transformers (DiTs) enhanced with appearance pointers, which are tokens that help guide the model in generating images based on user-defined spatial cues. These pointers are created through a region correspondence network and refined to manage multiple regional inputs efficiently. The proposed method allows for precise multimodal control without the need to retrain the model, achieving performance that meets or exceeds existing specialized methods."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.15491",
-            "title": "Trajectory-aware Cross-view Geo-localization with Sequential Observations",
-            "url": "https://huggingface.co/papers/2607.15491",
-            "abstract": "Abstract  Cross-view geo-localization matches ground-level observations against geo-tagged satellite imagery. Recent methods show that sequential queries such as video clips yield richer spatiotemporal cues than single images, yet they overlook a complementary sequential modality: route descriptions -- which capture the same trajectory at a higher level of abstraction and are often the only input available (e.g., a user directing an autonomous vehicle to a pickup point). To bridge this gap, we introduce SeqGeo-VL, a dataset of sim39K video-text-satellite triplets, and TrajLoc, a unified framework capable of processing both video clips and route descriptions. By leveraging both dense visual and abstract linguistic semantics, TrajLoc enables these modalities to mutually reinforce cross-view matching. We further propose TrajMod, a lightweight module that conditions query embeddings on trajectory geometry, yielding spatially-aware representations. Experiments show that TrajLoc achieves substantial gains over state-of-the-art methods on both video and text geo-localization. The project page is available at https://humblegamer.github.io/trajloc/.",
-            "score": 2,
-            "issue_id": 2876,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "d8abfc387c26561b",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Tianyi Gao",
-                "Jiayu Lin",
-                "Danielle Beaulieu",
-                "Nathan Jacobs"
-            ],
-            "affiliations": [
-                "Washington University in St. Louis, St. Louis, MO 63130, USA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.15491.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#transfer_learning",
-                    "#multimodal",
-                    "#dataset",
-                    "#games"
-                ],
-                "emoji": "🛰️",
-                "ru": {
-                    "title": "Новый уровень геолокации: видео и описания маршрутов",
-                    "desc": "В данной работе рассматривается задача кросс-вижуальной геолокации, которая сопоставляет наземные наблюдения с геометками спутниковых изображений. Авторы представляют новый подход SeqGeo-VL, который включает набор данных из 39 000 триплетов видео-текст-спутниковые изображения, а также унифицированную рамочную структуру TrajLoc. Эта структура обрабатывает как видеофрагменты, так и описания маршрутов, позволяя им взаимно усиливать сопоставление. Эксперименты показывают, что TrajLoc значительно превосходит существующие методы в области геолокации как видео, так и текста."
-                },
-                "en": {
-                    "title": "Bridging Ground and Sky: Enhanced Geo-Localization with Video and Route Descriptions",
-                    "desc": "This paper presents a new approach to cross-view geo-localization by matching ground-level observations with geo-tagged satellite images. It introduces SeqGeo-VL, a dataset containing video-text-satellite triplets, and TrajLoc, a framework that processes both video clips and route descriptions. By combining visual data and abstract language, TrajLoc enhances the matching process between different views. The authors also propose TrajMod, a module that improves query embeddings based on trajectory geometry, leading to better performance in geo-localization tasks."
                 }
             }
         },
@@ -1193,13 +1247,13 @@
         "#multimodal": 7,
         "#math": 0,
         "#multilingual": 0,
-        "#architecture": 3,
+        "#architecture": 4,
         "#healthcare": 0,
-        "#training": 16,
+        "#training": 17,
         "#robotics": 1,
         "#agi": 0,
         "#games": 6,
-        "#interpretability": 3,
+        "#interpretability": 4,
         "#reasoning": 5,
         "#transfer_learning": 2,
         "#graphs": 0,
@@ -1207,7 +1261,7 @@
         "#security": 0,
         "#optimization": 10,
         "#survey": 1,
-        "#diffusion": 4,
+        "#diffusion": 5,
         "#alignment": 1,
         "#story_generation": 0,
         "#hallucinations": 1,
