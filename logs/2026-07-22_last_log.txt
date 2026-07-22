@@ -1,203 +1,226 @@
-[22.07.2026 05:54] Read previous papers.
-[22.07.2026 05:54] Generating top page (month).
-[22.07.2026 05:54] Writing top page (month).
 [22.07.2026 08:27] Read previous papers.
-[22.07.2026 08:27] Get feed.
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16617
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16617
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18703
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18703
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19139
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19139
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19064
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19064
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18367
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18367
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18722
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18722
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18091
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18091
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18754
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18754
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19191
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19191
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18839
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18839
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19322
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19322
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19331
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19331
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18529
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18529
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19343
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19343
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18955
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18955
-[22.07.2026 08:27] Extract page data from URL. URL: https://huggingface.co/papers/2607.19058
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15491
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15491
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19344
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19344
-[22.07.2026 08:27] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17599
-[22.07.2026 08:27] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17599
-[22.07.2026 08:27] Updating GitHub stars.
-[22.07.2026 08:27] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[22.07.2026 08:27] No deleted papers detected.
-[22.07.2026 08:27] Downloading and parsing papers (pdf, html). Total: 19.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.16617.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.16617.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.16617.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18703.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18703.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18703.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19139.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.19139.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.19139.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19064.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.19064.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.19064.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18367.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18367.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18367.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18722.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18722.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18722.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18091.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18091.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18091.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18754.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18754.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18754.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19191.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.19191.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.19191.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18839.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18839.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18839.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19322.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.19322.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.19322.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19331.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.19331.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.19331.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18529.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18529.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18529.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19343.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.19343.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.19343.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.18955.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.18955.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.18955.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19058.
-[22.07.2026 08:27] Downloading paper 2607.19058 from https://arxiv.org/pdf/2607.19058v1...
-[22.07.2026 08:27] Extracting affiliations from text.
-[22.07.2026 08:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[22.07.2026 08:27] Generating top page (month).
+[22.07.2026 08:27] Writing top page (month).
+[22.07.2026 11:09] Read previous papers.
+[22.07.2026 11:09] Get feed.
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18703
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18703
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16617
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16617
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19139
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19139
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18367
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18367
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19064
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19064
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18722
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18722
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18091
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18091
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19191
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19191
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18754
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18754
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18839
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18839
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19322
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19322
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19331
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19331
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18529
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18529
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19343
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19343
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19344
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19344
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18955
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18955
+[22.07.2026 11:09] Extract page data from URL. URL: https://huggingface.co/papers/2607.19069
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19058
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19058
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.15491
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.15491
+[22.07.2026 11:09] Extract page data from URL. URL: https://huggingface.co/papers/2607.19011
+[22.07.2026 11:09] Get page data from previous paper. URL: https://huggingface.co/papers/2607.17599
+[22.07.2026 11:09] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.17599
+[22.07.2026 11:09] Updating GitHub stars.
+[22.07.2026 11:09] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[22.07.2026 11:09] No deleted papers detected.
+[22.07.2026 11:09] Downloading and parsing papers (pdf, html). Total: 21.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18703.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18703.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18703.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.16617.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.16617.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.16617.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19139.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19139.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19139.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18367.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18367.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18367.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19064.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19064.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19064.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18722.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18722.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18722.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18091.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18091.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18091.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19191.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19191.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19191.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18754.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18754.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18754.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18839.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18839.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18839.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19322.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19322.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19322.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19331.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19331.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19331.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18529.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18529.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18529.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19343.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19343.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19343.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19344.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19344.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19344.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.18955.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.18955.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.18955.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19069.
+[22.07.2026 11:09] Downloading paper 2607.19069 from https://arxiv.org/pdf/2607.19069v1...
+[22.07.2026 11:09] Extracting affiliations from text.
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training Nuemaan Malik Independent Researcher nuemaan.research@gmail.com "
-[22.07.2026 08:27] Response: []
-[22.07.2026 08:27] Extracting affiliations from text.
-[22.07.2026 08:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient Mixture-of-Experts Training Nuemaan Malik Independent Researcher nuemaan.research@gmail.comOptimizer state is the largest single line item in the memory budget of mixtureof-experts (MoE) training: on 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoEthe dense backbone, the experts, and the routerdiffer enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus factored second moment for the backbone (5% of parameters), factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamWs, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of 40 GB accelerator. In controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracythe accuracy comes from keeping momentum, which uniform optimizer shares too. Sweeping the baselines learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is.Sparse mixture-of-experts (MoE) architectures decouple parameter count from per-token compute [Shazeer et al., 2017, Fedus et al., 2022, Jiang et al., 2024]: the 6.78B-parameter model we study activates roughly 440M parameters per token. Optimizer state enjoys no such discount. AdamW [Kingma and Ba, 2015, Loshchilov and Hutter, 2019] keeps two float32 moments for every parameter 8 bytes of state shadowing every 2-byte bfloat16 weightso our model carries 50.6 GB of optimizer state on top of 12.6 GB of weights, and training peaks at 81.4 GB.1 The component that owns most of those parameters, the expert bank, is also the one whose individual parameters are touched least often. Memory-efficient optimizers exist, but they treat the network as homogeneous block. Lion [Chen et al., 2023] keeps one momentum buffer and updates with its sign, halving state but discarding gradient magnitude everywhere, including in the router, where relative magnitudes carry the loadbalancing signal. Muon [Jordan et al., 2024] also keeps single buffer and orthogonalizes each 1Throughout, GB denotes GiB (230 bytes), matching torch.cuda.max_memory_allocated. Preprint. Backbone 341M (5.0%) embeddings, attention, dense FFN m: fp32 1.27 GB : factored 0.7 MB Experts 128 SwiGLU experts 6,442M (95.0%) Router top-2 gate, fp32 0.5M (0.008%) m: none : factored 12.6 MB m: none : full fp32 2.1 MB Total optimizer state: 1.29 GB 2.6% of AdamWs 50.55 GB on the same model. Figure 1: Tiered state allocation on our 6.78B-parameter MoE (m: momentum buffer, : secondmoment estimate). Each ingredient of Adam is kept only where it earns its memory: momentum where gradients are dense, factored variance where parameters are plentiful but sparsely excited, and exact variance where 2 MB buys per-logit adaptivity for the gate. update by NewtonSchulz iteration, structural prior designed for dense hidden layers. Adafactor [Shazeer and Stern, 2018] factors the second moment into row and column statistics, which suits 16.8M-parameter expert matrix well but applies the same recipe to the 0.5M-parameter router that decides where every token goes. None of these methods asks whether different parts of an MoE deserve different state. SkewAdam does. It allocates optimizer state by tier (Figure 1). The dense backboneembeddings, attention, the dense feed-forward blockholds 5% of parameters and sees every token, so float32 momentum is cheap there and earns its keep; it also gets factored second moment. The experts hold 95% of parameters, but under top-2 routing over 128 experts each one processes on average 1/64 of the tokens; they keep only factored second moment, which removes the single largest state cost in the model. The router keeps an exact, unfactored second moment: per-logit adaptivity costs 2 MB and steers all the traffic. The name is the designthe state budget is skewed toward where it pays. We make three contributions. First, we describe the tiered allocation policy and its closed-form memory model: 1.29 GB of optimizer state on 6.78B-parameter MoE, with peak training memory of 31.3 GB. Second, we run controlled single-GPU comparison against AdamW, Lion, and Muon identical initialization, identical data order, and an identical bfloat16 weight-update path with dithered stochastic rounding for all fourin which SkewAdam attains the best validation perplexity (108.4) at throughput within 1.5% of the fastest baseline; same-protocol follow-ups on two further GPUs add Adafactor and GaLore-style baseline, ablate the policys tiers, and sweep the baselines learning rates: the policy matches full-momentum perplexity at twentieth of the state, and its lead over the baselines survives their tuning. Third, we analyze routing stability by measuring the load-balancing loss against its analytic floor, finding that Lions magnitude-blind updates cost perplexity rather than balance, and that Muon drifts away from balance late in training.Memory-efficient optimizers. Adafactor [Shazeer and Stern, 2018] is the closest relative of this work. The factored estimator inside SkewAdam is Adafactors nonnegative rank-one estimator written with row and column means instead of sums, and the update-RMS clipping is Adafactors as well; we claim no novelty for either. What we take up is the allocation question that uniform recipes leave open: Adafactor either drops momentum everywhere or keeps it everywhere, and factors every matrix regardless of its role. SM3 [Anil et al., 2019] and 8-bit optimizers [Dettmers et al., 2022] compress state by other means, and ZeRO [Rajbhandari et al., 2020] shards it across devices rather than shrinking it; all are compatible with, and orthogonal to, tiered policy. GaLore [Zh"
-[22.07.2026 08:27] Response: ```python
-[]
+Text:"Delineate Anything v2: Global Foundation Model for Field Delineation Mykola Lavreniuk1*,2[0000000321838833], Nataliia Kussul3[0000000297049702], Andrii Shelestov2,4[0000000192564097], Yevhenii Salii2,4[0009000603958099], Volodymyr Kuzin2,4[0009000710770382], Charlotte Julia Li-Xing Wang1*[0009000702703470], and Zoltan Szantoi1[0000000325804382] 1 European Space Agency, Frascati, Italy 2 Space Research Institute NASU-SSAU, Kyiv, Ukraine 3 University of Maryland, College Park, Maryland, USA 4 National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute, Kyiv, Ukraine Abstract. Accurate agricultural field boundary delineation at large scale is foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topological complexity, cropland texturing patterns, and lack of physical scale awareness. In this work, we introduce Delineate Anything v2, globally scalable foundation model designed specifically for wide-area field boundary mapping. We construct FBIS-73M, 73million-instance multi-resolution dataset spanning 61 countries. To address the pervasive issue of multi-field administrative parcel merging, we introduce resolution-specific data curation pipeline that leverages topological image-space adaptation to homogenize merged parcels and strengthen weak physical boundaries. Furthermore, we establish novel, manually curated evaluation benchmark covering 100 countries to assess independent zero-shot generalization. Our results show that Delineate Anything v2 surpasses the current state-of-the-art, including the Delineate Anything framework, by 0.284 mAP@0.5 (+103.3% relative gain), while maintaining execution speeds suitable for rapid nationaland global-scale deployment, as demonstrated by nationwide mapping of Ukraine (603,000 km2) in 5.4 hours on consumer-grade workstation. Code, pre-trained weight"
+[22.07.2026 11:09] Response: ```python
+[
+    "European Space Agency, Frascati, Italy",
+    "Space Research Institute NASU-SSAU, Kyiv, Ukraine",
+    "University of Maryland, College Park, Maryland, USA",
+    "National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute, Kyiv, Ukraine"
+]
 ```
-[22.07.2026 08:27] Deleting PDF ./assets/pdf/2607.19058.pdf.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.15491.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.15491.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.15491.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.19344.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.19344.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.19344.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Downloading and parsing paper https://huggingface.co/papers/2607.17599.
-[22.07.2026 08:27] Extra JSON file exists (./assets/json/2607.17599.json), skip PDF parsing.
-[22.07.2026 08:27] Paper image links file exists (./assets/img_data/2607.17599.json), skip HTML parsing.
-[22.07.2026 08:27] Success.
-[22.07.2026 08:27] Enriching papers with extra data.
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 0. Abstract  Large language models (LLMs) are increasingly used to automate data-processing workflows, yet coding agents typically produce scripts that are not automatically materialized as persistent, editable platform artifacts. We call this disconnect the NL2Pipeline gap. To bridge it, we introduce ...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 1. Abstract  Generative world renderer AlayaRenderer receives structured world states exported from physics engines and synthesizes RGB frames. Unlike models that generate frames from text/control-hints prompts, AlayaRenderer preserves scene structure without altering the underlying world dynamics. Thi...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 2. Abstract  Text-to-image diffusion transformers (DiTs) jointly process text and image tokens, yet their internal computation during denoising remains poorly understood. We introduce a causal interpretability framework for modern large-scale DiTs that combines attention decomposition with targeted int...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 3. Abstract  Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mag...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 4. Abstract  Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments from user inputs instantly. It enable us to create customized, explorable, and continuously ...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 5. Abstract  Asynchronous reinforcement learning improves throughput by decoupling rollout generation from optimization, but staleness is an inevitable byproduct compounded by policy lag, engine delays, and mixture-of-experts routing. From a trust-region perspective, this mismatch is critical: training...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 6. Abstract  Structural fidelity is essential to scientific methodology diagrams. To communicate research logic, these diagrams must faithfully render components, directional relations, and textual annotations. Since a single error, such as a reversed arrow or an unreadable equation, can invalidate the...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 7. Abstract  LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support for identifying the root cause or translating diagnosis into recovery. We present AgentDeb...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 8. Abstract  We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs age...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 9. Abstract  Efficient teamwork typically combines global coordination with parallel execution, a principle not yet fully reflected in unified Vision-Language Model (VLM)-based document parsers. Existing unified parsers process an entire page jointly but generate its output through a single token-by-to...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 10. Abstract  Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches incorrect claims well but says little about whether a response contains all the informati...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 11. Abstract  Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood. Building on our prior analysis (Zhu et al., 2025), we stud...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 12. Abstract  Teaching videos are becoming a major medium for education, creating a growing need for scalable evaluation of their pedagogical quality. Existing automatic judges do not fully address this setting because teaching quality depends on multimodal evidence and should be evaluated with respect ...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 13. Abstract  Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned ...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 14. Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved the reasoning capabilities of large language models on tasks such as mathematical reasoning and code generation. However, most RLVR methods assign a scalar outcome reward to an entire trajectory, resulting in ...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 15. Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observatio...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 16. Abstract  Cross-view geo-localization matches ground-level observations against geo-tagged satellite imagery. Recent methods show that sequential queries such as video clips yield richer spatiotemporal cues than single images, yet they overlook a complementary sequential modality: route descriptions...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 17. Abstract  Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ing...
-[22.07.2026 08:27] ********************************************************************************
-[22.07.2026 08:27] Abstract 18. Abstract  Video spatial reasoning is essential for navigation-oriented perception and long-video question answering, where models must infer spatial relations across long horizons under changing viewpoints. However, existing multimodal large language models (MLLMs) remain largely semantic-centric, a...
-[22.07.2026 08:27] Read previous papers.
-[22.07.2026 08:27] Generating reviews via LLM API.
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#training", "#data", "#benchmark", "#agents", "#agent_memory", "#games"], "emoji": "🛠️", "ru": {"title": "Мост между языковыми моделями и рабочими процессами", "desc": "В данной работе рассматривается проблема NL2Pipeline, связанная с тем, что агенты, использующие большие языковые м
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#3d", "#training", "#inference", "#optimization", "#games"], "emoji": "🌍", "ru": {"title": "Динамичный рендеринг миров в реальном времени", "desc": "AlayaRenderer — это генеративный рендерер мира, который получает структурированные состояния мира из физических движков и создает RGB-
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#architecture", "#diffusion", "#training", "#interpretability"], "emoji": "🎨", "ru": {"title": "Понимание внутренней работы трансформеров для генерации изображений", "desc": "В данной статье рассматриваются трансформеры для генерации изображений по текстовым описаниям (DiTs) и их вн
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#architecture", "#training", "#inference", "#multimodal", "#optimization", "#dataset", "#diffusion"], "emoji": "🎨", "ru": {"title": "Эффективная генерация и редактирование изображений с Mage-Flow", "desc": "В статье представлен Mage-Flow, компактная генеративная модель для эффективн
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#3d", "#training", "#open_source", "#agents", "#long_context", "#diffusion", "#games"], "emoji": "🌍", "ru": {"title": "Создание интерактивных видео миров с AlayaWorld", "desc": "Статья описывает AlayaWorld, интерактивную модель видео миров, которая мгновенно генерирует виртуальные с
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#reasoning"], "emoji": "📈", "ru": {"title": "Адаптация к устареванию для улучшения асинхронного обучения с подкреплением", "desc": "Статья описывает новый подход в асинхронном обучении с подкреплением, который называется Staleness-Adaptive Trust 
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#training", "#open_source", "#data", "#benchmark", "#optimization", "#dataset", "#science"], "emoji": "📊", "ru": {"title": "Создание научных схем с высокой точностью!", "desc": "Статья посвящена созданию SciForma, фреймворка для генерации схем научных методологий с высокой структурн
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#session_memory", "#memory", "#inference", "#open_source", "#agents", "#agent_memory"], "emoji": "🔧", "ru": {"title": "Инновационный подход к отладке LLM агентов", "desc": "Статья описывает AgentDebugX, открытый фреймворк для отладки LLM агентов. Основная идея заключается в организа
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#training", "#memory", "#inference", "#agents", "#optimization", "#dataset", "#long_context", "#games"], "emoji": "🎮", "ru": {"title": "Управление игровым миром в реальном времени", "desc": "В статье представлен ABot-World-0 - модель видеомира, которая позволяет взаимодействовать с 
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#optimization", "#architecture", "#benchmark", "#training"], "emoji": "📄", "ru": {"title": "Эффективная обработка документов с HPD-Parsing", "desc": "Статья обсуждает новую методику обработки документов под названием HPD-Parsing, которая сочетает глобальную координацию и параллельно
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#benchmark", "#interpretability", "#evaluation", "#multimodal", "#hallucinations"], "emoji": "📝", "ru": {"title": "Оценка фактической полноты в долгих текстах", "desc": "В данной статье рассматривается оценка фактической полноты долгих текстов, что является важной частью анализа маш
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#optimization", "#reasoning", "#rl", "#training"], "emoji": "🔍", "ru": {"title": "Оптимизация спектров для достижения новых высот в RLVR", "desc": "Данная статья посвящена изучению оптимизационного слоя в обучении с подкреплением с проверяемыми наградами (RLVR). Авторы вводят концеп
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#training", "#education", "#interpretability", "#agents", "#multimodal"], "emoji": "📚", "ru": {"title": "EduPanel: новый уровень оценки образовательных видео", "desc": "В статье представлено решение проблемы оценки качества образовательных видео, которое становится всё более актуаль
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#robotics", "#agents", "#training"], "emoji": "🤖", "ru": {"title": "Интеллектуальное управление роботами через видео-модели", "desc": "В данной статье представлена новая модель, которая позволяет роботам взаимодействовать с видео-контентом для обучения манипуляциям. Используя интерф
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#optimization", "#rl", "#reasoning", "#training", "#benchmark"], "emoji": "🧠", "ru": {"title": "Гибридное самодистиллирование для улучшения моделей!", "desc": "В статье рассматривается новая гибридная структура H^{2}SD для обучения с подкреплением с проверяемыми наградами (RLVR). Он
-[22.07.2026 08:27] Querying the API.
-[22.07.2026 08:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[22.07.2026 11:09] Deleting PDF ./assets/pdf/2607.19069.pdf.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19058.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.19058.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.19058.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.15491.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.15491.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.15491.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.19011.
+[22.07.2026 11:09] Downloading paper 2607.19011 from https://arxiv.org/pdf/2607.19011v1...
+[22.07.2026 11:09] Extracting affiliations from text.
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoE - the dense backbone, the experts, and the router - differ enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus a factored second moment for the backbone (5% of parameters), a factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamW's, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of a 40 GB accelerator. In a controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: a tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracy; the accuracy comes from keeping momentum, which a uniform optimizer shares too. Sweeping the baselines' learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is.
-[22.07.2026 08:27] Response: {
-  "desc": "В статье рассматривается оптимизация состояния оптимизатора в процессе тренировки моделей смешанных экспертов (MoE). Авторы предлагают новый оптимизатор SkewAdam, который учитывает различия в размерах и градиентной статистике между тремя группами параметров MoE. SkewAdam значительно уменьшает использование памяти, сохраняя только 1.29 ГБ состояния при этом достигая более низкой перплексии валидирования по сравнению с AdamW. Результаты показывают, что распределение состояния оптимизатора не менее важно, чем его объем для достижения высокой точности.",
-  "emoji": "🧠",
-  "title": "Оптимизация памяти для лучших результатов в MoE"
+Text:"Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges Tuo Liang1,, Zhe Hu2,, Disheng Liu1, Jing Li2, Yu Yin1, 1Case Western Reserve University, 2The Hong Kong Polytechnic University Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in singleimage and multi-panel artifacts, while treating humor generation as an emerging downstream frontier. We position the literature against prior humor, sarcasm, and general MLLM surveys and organize it using capability-centric hierarchy spanning recognition, interpretation and reasoning, and generation. Under this lens, we synthesize benchmark design, evaluation protocols, and modeling paradigms, tracing the fields shift from task-specific fusion models to large-model approaches based on multimodal alignment, evidence-grounded reasoning, and controlled generation. We conclude by highlighting the main barriers to progress: shortcut-prone evaluation, limited cultural and narrative coverage, weak evidence grounding, and unresolved safety and ownership concerns. Recent advances in AI have enabled models to jointly process text and images with unprecedented scale and performance. Multimodal Large Language Models (MLLMs) now achieve strong results on tasks such as image captioning, visual question answering, and cross-modal retrieval Yin et al. (2024); Comanici et al. (2025); Bai et al. (2025), which primarily emphasize the recognition, grounding, and reasoning of explicit visual and textual content. However, this paradigm remains limited when handling content whose meaning extends beyond literal perception Hwang & Shwartz (2023); Chen et al. (2024a); Nayak et al. (2024); Xu et al. (2025). Human communication frequently relies on expressive artifacts such as memes, comics, cart"
+[22.07.2026 11:09] Response: ```python
+["Case Western Reserve University", "The Hong Kong Polytechnic University"]
+```
+[22.07.2026 11:09] Deleting PDF ./assets/pdf/2607.19011.pdf.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Downloading and parsing paper https://huggingface.co/papers/2607.17599.
+[22.07.2026 11:09] Extra JSON file exists (./assets/json/2607.17599.json), skip PDF parsing.
+[22.07.2026 11:09] Paper image links file exists (./assets/img_data/2607.17599.json), skip HTML parsing.
+[22.07.2026 11:09] Success.
+[22.07.2026 11:09] Enriching papers with extra data.
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 0. Abstract  Generative world renderer AlayaRenderer receives structured world states exported from physics engines and synthesizes RGB frames. Unlike models that generate frames from text/control-hints prompts, AlayaRenderer preserves scene structure without altering the underlying world dynamics. Thi...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 1. Abstract  Large language models (LLMs) are increasingly used to automate data-processing workflows, yet coding agents typically produce scripts that are not automatically materialized as persistent, editable platform artifacts. We call this disconnect the NL2Pipeline gap. To bridge it, we introduce ...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 2. Abstract  Text-to-image diffusion transformers (DiTs) jointly process text and image tokens, yet their internal computation during denoising remains poorly understood. We introduce a causal interpretability framework for modern large-scale DiTs that combines attention decomposition with targeted int...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 3. Abstract  Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments from user inputs instantly. It enable us to create customized, explorable, and continuously ...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 4. Abstract  Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mag...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 5. Abstract  Asynchronous reinforcement learning improves throughput by decoupling rollout generation from optimization, but staleness is an inevitable byproduct compounded by policy lag, engine delays, and mixture-of-experts routing. From a trust-region perspective, this mismatch is critical: training...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 6. Abstract  Structural fidelity is essential to scientific methodology diagrams. To communicate research logic, these diagrams must faithfully render components, directional relations, and textual annotations. Since a single error, such as a reversed arrow or an unreadable equation, can invalidate the...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 7. Abstract  We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs age...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 8. Abstract  LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support for identifying the root cause or translating diagnosis into recovery. We present AgentDeb...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 9. Abstract  Efficient teamwork typically combines global coordination with parallel execution, a principle not yet fully reflected in unified Vision-Language Model (VLM)-based document parsers. Existing unified parsers process an entire page jointly but generate its output through a single token-by-to...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 10. Abstract  Evaluating the factuality of long-form generations has focused predominantly on precision, measuring whether the claims a model makes are correct. The dominant decompose-search-verify pipeline catches incorrect claims well but says little about whether a response contains all the informati...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 11. Abstract  Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood. Building on our prior analysis (Zhu et al., 2025), we stud...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 12. Abstract  Teaching videos are becoming a major medium for education, creating a growing need for scalable evaluation of their pedagogical quality. Existing automatic judges do not fully address this setting because teaching quality depends on multimodal evidence and should be evaluated with respect ...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 13. Abstract  Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned ...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 14. Abstract  Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ing...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 15. Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved the reasoning capabilities of large language models on tasks such as mathematical reasoning and code generation. However, most RLVR methods assign a scalar outcome reward to an entire trajectory, resulting in ...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 16. Abstract  Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topo...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 17. Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observatio...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 18. Abstract  Cross-view geo-localization matches ground-level observations against geo-tagged satellite imagery. Recent methods show that sequential queries such as video clips yield richer spatiotemporal cues than single images, yet they overlook a complementary sequential modality: route descriptions...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 19. Abstract  Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in singl...
+[22.07.2026 11:09] ********************************************************************************
+[22.07.2026 11:09] Abstract 20. Abstract  Video spatial reasoning is essential for navigation-oriented perception and long-video question answering, where models must infer spatial relations across long horizons under changing viewpoints. However, existing multimodal large language models (MLLMs) remain largely semantic-centric, a...
+[22.07.2026 11:09] Read previous papers.
+[22.07.2026 11:09] Generating reviews via LLM API.
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#3d", "#training", "#inference", "#optimization", "#games"], "emoji": "🌍", "ru": {"title": "Динамичный рендеринг миров в реальном времени", "desc": "AlayaRenderer — это генеративный рендерер мира, который получает структурированные состояния мира из физических движков и создает RGB-
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#data", "#benchmark", "#agents", "#agent_memory", "#games"], "emoji": "🛠️", "ru": {"title": "Мост между языковыми моделями и рабочими процессами", "desc": "В данной работе рассматривается проблема NL2Pipeline, связанная с тем, что агенты, использующие большие языковые м
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#architecture", "#diffusion", "#training", "#interpretability"], "emoji": "🎨", "ru": {"title": "Понимание внутренней работы трансформеров для генерации изображений", "desc": "В данной статье рассматриваются трансформеры для генерации изображений по текстовым описаниям (DiTs) и их вн
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#3d", "#training", "#open_source", "#agents", "#long_context", "#diffusion", "#games"], "emoji": "🌍", "ru": {"title": "Создание интерактивных видео миров с AlayaWorld", "desc": "Статья описывает AlayaWorld, интерактивную модель видео миров, которая мгновенно генерирует виртуальные с
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#architecture", "#training", "#inference", "#multimodal", "#optimization", "#dataset", "#diffusion"], "emoji": "🎨", "ru": {"title": "Эффективная генерация и редактирование изображений с Mage-Flow", "desc": "В статье представлен Mage-Flow, компактная генеративная модель для эффективн
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#optimization", "#rl", "#training", "#reasoning"], "emoji": "📈", "ru": {"title": "Адаптация к устареванию для улучшения асинхронного обучения с подкреплением", "desc": "Статья описывает новый подход в асинхронном обучении с подкреплением, который называется Staleness-Adaptive Trust 
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#open_source", "#data", "#benchmark", "#optimization", "#dataset", "#science"], "emoji": "📊", "ru": {"title": "Создание научных схем с высокой точностью!", "desc": "Статья посвящена созданию SciForma, фреймворка для генерации схем научных методологий с высокой структурн
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#memory", "#inference", "#agents", "#optimization", "#dataset", "#long_context", "#games"], "emoji": "🎮", "ru": {"title": "Управление игровым миром в реальном времени", "desc": "В статье представлен ABot-World-0 - модель видеомира, которая позволяет взаимодействовать с 
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#session_memory", "#memory", "#inference", "#open_source", "#agents", "#agent_memory"], "emoji": "🔧", "ru": {"title": "Инновационный подход к отладке LLM агентов", "desc": "Статья описывает AgentDebugX, открытый фреймворк для отладки LLM агентов. Основная идея заключается в организа
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#optimization", "#architecture", "#benchmark", "#training"], "emoji": "📄", "ru": {"title": "Эффективная обработка документов с HPD-Parsing", "desc": "Статья обсуждает новую методику обработки документов под названием HPD-Parsing, которая сочетает глобальную координацию и параллельно
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#benchmark", "#interpretability", "#evaluation", "#multimodal", "#hallucinations"], "emoji": "📝", "ru": {"title": "Оценка фактической полноты в долгих текстах", "desc": "В данной статье рассматривается оценка фактической полноты долгих текстов, что является важной частью анализа маш
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#optimization", "#reasoning", "#rl", "#training"], "emoji": "🔍", "ru": {"title": "Оптимизация спектров для достижения новых высот в RLVR", "desc": "Данная статья посвящена изучению оптимизационного слоя в обучении с подкреплением с проверяемыми наградами (RLVR). Авторы вводят концеп
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#education", "#interpretability", "#agents", "#multimodal"], "emoji": "📚", "ru": {"title": "EduPanel: новый уровень оценки образовательных видео", "desc": "В статье представлено решение проблемы оценки качества образовательных видео, которое становится всё более актуаль
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#robotics", "#agents", "#training"], "emoji": "🤖", "ru": {"title": "Интеллектуальное управление роботами через видео-модели", "desc": "В данной статье представлена новая модель, которая позволяет роботам взаимодействовать с видео-контентом для обучения манипуляциям. Используя интерф
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#diffusion", "#3d", "#multimodal"], "emoji": "🎨", "ru": {"title": "Точный контроль генерации изображений для творцов", "desc": "В данной статье рассматривается задача управления генерацией изображений для творческих профессионалов, которым необходима точная региональная контроль над
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#optimization", "#rl", "#reasoning", "#training", "#benchmark"], "emoji": "🧠", "ru": {"title": "Гибридное самодистиллирование для улучшения моделей!", "desc": "В статье рассматривается новая гибридная структура H^{2}SD для обучения с подкреплением с проверяемыми наградами (RLVR). Он
+[22.07.2026 11:09] Querying the API.
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topological complexity, cropland texturing patterns, and a lack of physical scale awareness. In this work, we introduce Delineate Anything v2, a globally scalable foundation model designed specifically for wide-area field boundary mapping. We construct FBIS-73M, a 73-million-instance multi-resolution dataset spanning 61 countries. To address the pervasive issue of multi-field administrative parcel merging, we introduce a resolution-specific data curation pipeline that leverages topological image-space adaptation to homogenize merged parcels and strengthen weak physical boundaries. Furthermore, we establish a novel, manually curated evaluation benchmark covering 100 countries to assess independent zero-shot generalization. Our results show that Delineate Anything v2 surpasses the current state-of-the-art, including the Delineate Anything framework, by 0.284 mAP@0.5 (+103.3% relative gain), while maintaining execution speeds suitable for rapid national- and global-scale deployment, as demonstrated by nationwide mapping of Ukraine (603,000 km^2) in 5.4 hours on a consumer-grade workstation. Code, pre-trained weights, the FBIS-73M dataset, and ready-to-use national-scale vector boundary products are publicly available at https://github.com/Lavreniuk/Delineate-Anything.
+[22.07.2026 11:09] Response: {
+  "desc": "Данная статья представляет новый модельный подход для точного определения границ сельскохозяйственных полей в больших масштабах. Модель Delineate Anything v2 использует уникальный датасет FBIS-73M, состоящий из 73 миллионов экземпляров и охватывающий 61 страну. Авторы впровадили новый процесс обработки данных, который улучшает определение границ, учитывая топологические особенности. Результаты показывают, что новая модель превышает существующие аналоги по эффективности, обеспечивая быстрое выполнение задач на глобальном уровне.",
+  "emoji": "🌾",
+  "title": "Новая модель для определения границ сельскохозяйственных полей"
 }
-[22.07.2026 08:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -241,12 +264,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoE - the dense backbone, the experts, and the router - differ enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus a factored second moment for the backbone (5% of parameters), a factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamW's, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of a 40 GB accelerator. In a controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: a tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracy; the accuracy comes from keeping momentum, which a uniform optimizer shares too. Sweeping the baselines' learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is."
+"Abstract  Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topological complexity, cropland texturing patterns, and a lack of physical scale awareness. In this work, we introduce Delineate Anything v2, a globally scalable foundation model designed specifically for wide-area field boundary mapping. We construct FBIS-73M, a 73-million-instance multi-resolution dataset spanning 61 countries. To address the pervasive issue of multi-field administrative parcel merging, we introduce a resolution-specific data curation pipeline that leverages topological image-space adaptation to homogenize merged parcels and strengthen weak physical boundaries. Furthermore, we establish a novel, manually curated evaluation benchmark covering 100 countries to assess independent zero-shot generalization. Our results show that Delineate Anything v2 surpasses the current state-of-the-art, including the Delineate Anything framework, by 0.284 mAP@0.5 (+103.3% relative gain), while maintaining execution speeds suitable for rapid national- and global-scale deployment, as demonstrated by nationwide mapping of Ukraine (603,000 km^2) in 5.4 hours on a consumer-grade workstation. Code, pre-trained weights, the FBIS-73M dataset, and ready-to-use national-scale vector boundary products are publicly available at https://github.com/Lavreniuk/Delineate-Anything."
 
-[22.07.2026 08:27] Response: ```python
-["TRAINING", "MEMORY"]
+[22.07.2026 11:09] Response: ```python
+['DATASET', 'DATA', 'BENCHMARK']
 ```
-[22.07.2026 08:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -289,29 +312,145 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoE - the dense backbone, the experts, and the router - differ enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus a factored second moment for the backbone (5% of parameters), a factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamW's, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of a 40 GB accelerator. In a controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: a tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracy; the accuracy comes from keeping momentum, which a uniform optimizer shares too. Sweeping the baselines' learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is."
+"Abstract  Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topological complexity, cropland texturing patterns, and a lack of physical scale awareness. In this work, we introduce Delineate Anything v2, a globally scalable foundation model designed specifically for wide-area field boundary mapping. We construct FBIS-73M, a 73-million-instance multi-resolution dataset spanning 61 countries. To address the pervasive issue of multi-field administrative parcel merging, we introduce a resolution-specific data curation pipeline that leverages topological image-space adaptation to homogenize merged parcels and strengthen weak physical boundaries. Furthermore, we establish a novel, manually curated evaluation benchmark covering 100 countries to assess independent zero-shot generalization. Our results show that Delineate Anything v2 surpasses the current state-of-the-art, including the Delineate Anything framework, by 0.284 mAP@0.5 (+103.3% relative gain), while maintaining execution speeds suitable for rapid national- and global-scale deployment, as demonstrated by nationwide mapping of Ukraine (603,000 km^2) in 5.4 hours on a consumer-grade workstation. Code, pre-trained weights, the FBIS-73M dataset, and ready-to-use national-scale vector boundary products are publicly available at https://github.com/Lavreniuk/Delineate-Anything."
 
-[22.07.2026 08:27] Response: ```python
-["OPTIMIZATION"]
+[22.07.2026 11:09] Response: ```python
+['SCIENCE', 'OPEN_SOURCE']
 ```
-[22.07.2026 08:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Optimizer state is the largest single line item in the memory budget of mixture-of-experts (MoE) training: on a 6.78B-parameter MoE language model, AdamW keeps 50.6 GB of first and second moments to update 12.6 GB of bfloat16 weights. We study SkewAdam, an optimizer built on the observation that the three parameter populations of an MoE - the dense backbone, the experts, and the router - differ enough in size and gradient statistics that they should not receive the same state. SkewAdam keeps float32 momentum plus a factored second moment for the backbone (5% of parameters), a factored second moment alone for the experts (95%), and an exact second moment for the router (<0.01%). The resulting state occupies 1.29 GB, 2.6% of AdamW's, and peak training memory falls from 81.4 GB to 31.3 GB, within the budget of a 40 GB accelerator. In a controlled comparison from identical initializations over 82M tokens, SkewAdam reaches validation perplexity 108.4, ahead of AdamW (126.8), Muon (120.2), and Lion (393.7), and settles router load balance to within 1% of its uniform floor. The allocation is not what earns that perplexity: a tier ablation matches it with twenty times the state, and Adafactor, which shares the factored estimator but drops momentum, plateaus 40 points behind. The tiers buy memory at no cost to accuracy; the accuracy comes from keeping momentum, which a uniform optimizer shares too. Sweeping the baselines' learning rates narrows but does not close the gap: the best tuned AdamW reaches 118.5, tuned Adafactor 139.7. Where optimizer state lives, these results suggest, matters at least as much as how much of it there is.
+Abstract  Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topological complexity, cropland texturing patterns, and a lack of physical scale awareness. In this work, we introduce Delineate Anything v2, a globally scalable foundation model designed specifically for wide-area field boundary mapping. We construct FBIS-73M, a 73-million-instance multi-resolution dataset spanning 61 countries. To address the pervasive issue of multi-field administrative parcel merging, we introduce a resolution-specific data curation pipeline that leverages topological image-space adaptation to homogenize merged parcels and strengthen weak physical boundaries. Furthermore, we establish a novel, manually curated evaluation benchmark covering 100 countries to assess independent zero-shot generalization. Our results show that Delineate Anything v2 surpasses the current state-of-the-art, including the Delineate Anything framework, by 0.284 mAP@0.5 (+103.3% relative gain), while maintaining execution speeds suitable for rapid national- and global-scale deployment, as demonstrated by nationwide mapping of Ukraine (603,000 km^2) in 5.4 hours on a consumer-grade workstation. Code, pre-trained weights, the FBIS-73M dataset, and ready-to-use national-scale vector boundary products are publicly available at https://github.com/Lavreniuk/Delineate-Anything.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[22.07.2026 08:27] Response: {
-  "desc": "This paper introduces SkewAdam, a new optimizer designed for mixture-of-experts (MoE) models that significantly reduces memory usage during training. By recognizing that different parameter groups in MoE have distinct characteristics, SkewAdam allocates optimizer states differently for the backbone, experts, and router components. This approach decreases the memory footprint from 50.6 GB to just 1.29 GB while maintaining high accuracy, achieving better validation perplexity than traditional optimizers like AdamW. The findings suggest that the organization of optimizer state is crucial for efficient training in large-scale models.",
-  "title": "SkewAdam: Optimizing Memory for Mixture-of-Experts Training"
+[22.07.2026 11:09] Response: {
+  "desc": "This paper presents Delineate Anything v2, a foundation model tailored for accurately mapping agricultural field boundaries on a large scale. It addresses challenges faced by existing models, such as topological complexity and the merging of multi-field parcels, by introducing a specialized dataset called FBIS-73M and a resolution-specific data curation pipeline. The model demonstrates significant improvements in performance, achieving a 0.284 mAP@0.5 increase over previous state-of-the-art methods. Additionally, it showcases rapid execution speeds, enabling efficient nationwide mapping, exemplified by a comprehensive mapping of Ukraine in just 5.4 hours.",
+  "title": "Revolutionizing Agricultural Mapping with Delineate Anything v2"
 }
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#training", "#transfer_learning", "#multimodal", "#dataset", "#games"], "emoji": "🛰️", "ru": {"title": "Новый уровень геолокации: видео и описания маршрутов", "desc": "В данной работе рассматривается задача кросс-вижуальной геолокации, которая сопоставляет наземные наблюдения с геом
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#diffusion", "#3d", "#multimodal"], "emoji": "🎨", "ru": {"title": "Точный контроль генерации изображений для творцов", "desc": "В данной статье рассматривается задача управления генерацией изображений для творческих профессионалов, которым необходима точная региональная контроль над
-[22.07.2026 08:27] Using data from previous issue: {"categories": ["#multimodal", "#continual_learning", "#rl", "#memory", "#reasoning", "#benchmark"], "emoji": "🎥", "ru": {"title": "Геометрическая согласованность для пространственного рассуждения в видео", "desc": "В данной статье рассматривается пространственное рассуждение в видео, необходимое дл
-[22.07.2026 08:27] Renaming data file.
-[22.07.2026 08:27] Renaming previous data. hf_papers.json to ./d/2026-07-22.json
-[22.07.2026 08:27] Saving new data file.
-[22.07.2026 08:27] Generating page.
-[22.07.2026 08:27] Renaming previous page.
-[22.07.2026 08:27] Renaming previous data. index.html to ./d/2026-07-22.html
-[22.07.2026 08:27] Writing result.
-[22.07.2026 08:27] Renaming log file.
-[22.07.2026 08:27] Renaming previous data. log.txt to ./logs/2026-07-22_last_log.txt
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#optimization", "#memory"], "emoji": "🧠", "ru": {"title": "Оптимизация памяти для лучших результатов в MoE", "desc": "В статье рассматривается оптимизация состояния оптимизатора в процессе тренировки моделей смешанных экспертов (MoE). Авторы предлагают новый оптимизатор
+[22.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#transfer_learning", "#multimodal", "#dataset", "#games"], "emoji": "🛰️", "ru": {"title": "Новый уровень геолокации: видео и описания маршрутов", "desc": "В данной работе рассматривается задача кросс-вижуальной геолокации, которая сопоставляет наземные наблюдения с геом
+[22.07.2026 11:09] Querying the API.
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in single-image and multi-panel artifacts, while treating humor generation as an emerging downstream frontier. We position the literature against prior humor, sarcasm, and general MLLM surveys and organize it using a capability-centric hierarchy spanning recognition, interpretation and reasoning, and generation. Under this lens, we synthesize benchmark design, evaluation protocols, and modeling paradigms, tracing the field's shift from task-specific fusion models to large-model approaches based on multimodal alignment, evidence-grounded reasoning, and controlled generation. We conclude by highlighting the main barriers to progress: shortcut-prone evaluation, limited cultural and narrative coverage, weak evidence grounding, and unresolved safety and ownership concerns.
+[22.07.2026 11:09] Response: {
+  "desc": "В этой статье рассматривается понимание многомодального юмора в мемах, карикатурах и комиксах, что представляет трудности для систем AI. Авторы изучают, как переданное значение зависит от культурных знаний и намерений, а не только от буквального описания сцены. Работа организована вокруг способностей, таких как распознавание, интерпретация и генерация юмора. В заключение подчеркиваются основные препятствия на пути прогресса, включая проблему оценки и недостаточное охват культурных и нарративных аспектов.",
+  "emoji": "😂",
+  "title": "Понимание многомодального юмора в AI"
+}
+[22.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in single-image and multi-panel artifacts, while treating humor generation as an emerging downstream frontier. We position the literature against prior humor, sarcasm, and general MLLM surveys and organize it using a capability-centric hierarchy spanning recognition, interpretation and reasoning, and generation. Under this lens, we synthesize benchmark design, evaluation protocols, and modeling paradigms, tracing the field's shift from task-specific fusion models to large-model approaches based on multimodal alignment, evidence-grounded reasoning, and controlled generation. We conclude by highlighting the main barriers to progress: shortcut-prone evaluation, limited cultural and narrative coverage, weak evidence grounding, and unresolved safety and ownership concerns."
+
+[22.07.2026 11:10] GitHub Models ошибка (попытка 1/4): HTTPSConnectionPool(host='models.github.ai', port=443): Read timed out. (read timeout=60)
+[22.07.2026 11:10] Response: ```python
+['MULTIMODAL', 'BENCHMARK']
+```
+[22.07.2026 11:10] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in single-image and multi-panel artifacts, while treating humor generation as an emerging downstream frontier. We position the literature against prior humor, sarcasm, and general MLLM surveys and organize it using a capability-centric hierarchy spanning recognition, interpretation and reasoning, and generation. Under this lens, we synthesize benchmark design, evaluation protocols, and modeling paradigms, tracing the field's shift from task-specific fusion models to large-model approaches based on multimodal alignment, evidence-grounded reasoning, and controlled generation. We conclude by highlighting the main barriers to progress: shortcut-prone evaluation, limited cultural and narrative coverage, weak evidence grounding, and unresolved safety and ownership concerns."
+
+[22.07.2026 11:10] Response: ```python
+['SURVEY', 'REASONING', 'ALIGNMENT', 'GAMES']
+```
+[22.07.2026 11:10] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in single-image and multi-panel artifacts, while treating humor generation as an emerging downstream frontier. We position the literature against prior humor, sarcasm, and general MLLM surveys and organize it using a capability-centric hierarchy spanning recognition, interpretation and reasoning, and generation. Under this lens, we synthesize benchmark design, evaluation protocols, and modeling paradigms, tracing the field's shift from task-specific fusion models to large-model approaches based on multimodal alignment, evidence-grounded reasoning, and controlled generation. We conclude by highlighting the main barriers to progress: shortcut-prone evaluation, limited cultural and narrative coverage, weak evidence grounding, and unresolved safety and ownership concerns.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[22.07.2026 11:10] Response: {
+  "desc": "This paper explores the challenges AI faces in understanding humor in visual formats like memes and comics, where meaning often relies on cultural context and intent rather than just images. It reviews existing literature on humor recognition, interpretation, and generation, organizing it into a framework that highlights different capabilities. The authors discuss the evolution of methods from specific models to larger, multimodal approaches that align various data types for better understanding. They also identify key obstacles in the field, such as evaluation methods, cultural limitations, and safety issues.",
+  "title": "Unlocking AI's Sense of Humor"
+}
+[22.07.2026 11:10] Using data from previous issue: {"categories": ["#multimodal", "#continual_learning", "#rl", "#memory", "#reasoning", "#benchmark"], "emoji": "🎥", "ru": {"title": "Геометрическая согласованность для пространственного рассуждения в видео", "desc": "В данной статье рассматривается пространственное рассуждение в видео, необходимое дл
+[22.07.2026 11:10] Renaming data file.
+[22.07.2026 11:10] Renaming previous data. hf_papers.json to ./d/2026-07-22.json
+[22.07.2026 11:10] Saving new data file.
+[22.07.2026 11:10] Generating page.
+[22.07.2026 11:10] Renaming previous page.
+[22.07.2026 11:10] Renaming previous data. index.html to ./d/2026-07-22.html
+[22.07.2026 11:10] Writing result.
+[22.07.2026 11:10] Renaming log file.
+[22.07.2026 11:10] Renaming previous data. log.txt to ./logs/2026-07-22_last_log.txt

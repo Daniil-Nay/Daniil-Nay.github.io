@@ -4,17 +4,65 @@
         "en": "July 22",
         "zh": "7月22日"
     },
-    "time_utc": "2026-07-22 08:27",
+    "time_utc": "2026-07-22 11:09",
     "weekday": 2,
-    "issue_id": 2877,
+    "issue_id": 2878,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
+        {
+            "id": "https://huggingface.co/papers/2607.18703",
+            "title": "Generative World Renderer at the Speed of Play",
+            "url": "https://huggingface.co/papers/2607.18703",
+            "abstract": "Abstract  Generative world renderer AlayaRenderer receives structured world states exported from physics engines and synthesizes RGB frames. Unlike models that generate frames from text/control-hints prompts, AlayaRenderer preserves scene structure without altering the underlying world dynamics. This demonstrates an alternative path toward interactive world modeling and user-controllable play. However, the original AlayaRenderer is too computationally expensive for real-time deployment. This technical report introduces AlayaRenderer-Flash, a real-time-oriented generative forward world renderer that pushes AlayaRenderer from 0.56 FPS to 31.54 FPS, reaching the speed of play. AlayaRenderer-Flash reformulates the original renderer as a few-step autoregressive streaming model and introduces lightweight distilled codecs for efficient latent encoding and frame reconstruction. It retains the teacher model's G-buffer and text-prompt interfaces while enabling continuous rendering over input streams of unbounded length. We evaluate AlayaRenderer-Flash on G-buffer streams across content preservation, temporal consistency, cross-window stability, prompt controllability, and runtime efficiency. Our results show that AlayaRenderer-Flash substantially reduces inference cost while preserving the core rendering capabilities of the teacher model. By integrating AlayaRenderer-Flash with a physics engine, we build a fully playable generative world running at 30 FPS.",
+            "score": 53,
+            "issue_id": 2876,
+            "pub_date": "2026-07-21",
+            "pub_date_card": {
+                "ru": "21 июля",
+                "en": "July 21",
+                "zh": "7月21日"
+            },
+            "hash": "8bbce9ed72c262fe",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Guixu Lin",
+                "Zheng-Hui Huang",
+                "Siqi Yang",
+                "Ming-Hsuan Yang",
+                "Kaipeng Zhang",
+                "Zhixiang Wang"
+            ],
+            "affiliations": [
+                "Alaya Lab",
+                "University of California, Merced"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.18703.jpg",
+            "data": {
+                "categories": [
+                    "#3d",
+                    "#training",
+                    "#inference",
+                    "#optimization",
+                    "#games"
+                ],
+                "emoji": "🌍",
+                "ru": {
+                    "title": "Динамичный рендеринг миров в реальном времени",
+                    "desc": "AlayaRenderer — это генеративный рендерер мира, который получает структурированные состояния мира из физических движков и создает RGB-кадры. В отличие от моделей, которые генерируют кадры на основе текстовых подсказок, AlayaRenderer сохраняет структуру сцены и динамику мира. Однако оригинальная версия требует слишком много вычислительных ресурсов для работы в реальном времени. AlayaRenderer-Flash улучшает производительность, достигая 31.54 FPS, сохраняя при этом основные возможности оригинальной модели."
+                },
+                "en": {
+                    "title": "Real-Time Generative World Rendering Revolutionized",
+                    "desc": "AlayaRenderer is a generative model that creates RGB frames from structured world states provided by physics engines, maintaining the scene's structure and dynamics. The original version was too slow for real-time use, operating at only 0.56 frames per second (FPS). The new AlayaRenderer-Flash improves this speed to 31.54 FPS by using a few-step autoregressive streaming model and lightweight codecs for efficient processing. This allows for continuous rendering and integration with physics engines, enabling interactive and controllable gameplay while preserving the quality of the original model."
+                }
+            }
+        },
         {
             "id": "https://huggingface.co/papers/2607.16617",
             "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
             "url": "https://huggingface.co/papers/2607.16617",
             "abstract": "Abstract  Large language models (LLMs) are increasingly used to automate data-processing workflows, yet coding agents typically produce scripts that are not automatically materialized as persistent, editable platform artifacts. We call this disconnect the NL2Pipeline gap. To bridge it, we introduce DataFlow-Harness, a platform that guides an LLM agent to construct platform-native directed acyclic graphs (DAGs) through typed, incremental mutations rather than free-form scripts. The platform combines DataFlow-Skills for procedural guidance, a Model Context Protocol (MCP) layer that exposes the live operator registry and current pipeline state, and DataFlow-WebUI, which synchronizes conversational authoring with a visual DAG editor. On a 12-task data-engineering benchmark, DataFlow-Harness achieves a 93.3\\% observed end-to-end pass rate. Relative to Vanilla Claude Code, it reduces measured monetary cost by 72.5\\% and generation latency by 49.9\\%; its observed pass rate is within 0.9 percentage points of the Context-Aware Claude Code baseline while its cost is 42.8\\% lower. Per-task analysis indicates that Skills are most useful when construction depends on implicit procedural knowledge. These results show that live platform grounding can produce persistent, editable workflow artifacts with an observed reliability close to script-generation baselines and with lower measured construction cost and latency.",
-            "score": 49,
+            "score": 53,
             "issue_id": 2876,
             "pub_date": "2026-07-18",
             "pub_date_card": {
@@ -61,59 +109,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.18703",
-            "title": "Generative World Renderer at the Speed of Play",
-            "url": "https://huggingface.co/papers/2607.18703",
-            "abstract": "Abstract  Generative world renderer AlayaRenderer receives structured world states exported from physics engines and synthesizes RGB frames. Unlike models that generate frames from text/control-hints prompts, AlayaRenderer preserves scene structure without altering the underlying world dynamics. This demonstrates an alternative path toward interactive world modeling and user-controllable play. However, the original AlayaRenderer is too computationally expensive for real-time deployment. This technical report introduces AlayaRenderer-Flash, a real-time-oriented generative forward world renderer that pushes AlayaRenderer from 0.56 FPS to 31.54 FPS, reaching the speed of play. AlayaRenderer-Flash reformulates the original renderer as a few-step autoregressive streaming model and introduces lightweight distilled codecs for efficient latent encoding and frame reconstruction. It retains the teacher model's G-buffer and text-prompt interfaces while enabling continuous rendering over input streams of unbounded length. We evaluate AlayaRenderer-Flash on G-buffer streams across content preservation, temporal consistency, cross-window stability, prompt controllability, and runtime efficiency. Our results show that AlayaRenderer-Flash substantially reduces inference cost while preserving the core rendering capabilities of the teacher model. By integrating AlayaRenderer-Flash with a physics engine, we build a fully playable generative world running at 30 FPS.",
-            "score": 47,
-            "issue_id": 2876,
-            "pub_date": "2026-07-21",
-            "pub_date_card": {
-                "ru": "21 июля",
-                "en": "July 21",
-                "zh": "7月21日"
-            },
-            "hash": "8bbce9ed72c262fe",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Guixu Lin",
-                "Zheng-Hui Huang",
-                "Siqi Yang",
-                "Ming-Hsuan Yang",
-                "Kaipeng Zhang",
-                "Zhixiang Wang"
-            ],
-            "affiliations": [
-                "Alaya Lab",
-                "University of California, Merced"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.18703.jpg",
-            "data": {
-                "categories": [
-                    "#3d",
-                    "#training",
-                    "#inference",
-                    "#optimization",
-                    "#games"
-                ],
-                "emoji": "🌍",
-                "ru": {
-                    "title": "Динамичный рендеринг миров в реальном времени",
-                    "desc": "AlayaRenderer — это генеративный рендерер мира, который получает структурированные состояния мира из физических движков и создает RGB-кадры. В отличие от моделей, которые генерируют кадры на основе текстовых подсказок, AlayaRenderer сохраняет структуру сцены и динамику мира. Однако оригинальная версия требует слишком много вычислительных ресурсов для работы в реальном времени. AlayaRenderer-Flash улучшает производительность, достигая 31.54 FPS, сохраняя при этом основные возможности оригинальной модели."
-                },
-                "en": {
-                    "title": "Real-Time Generative World Rendering Revolutionized",
-                    "desc": "AlayaRenderer is a generative model that creates RGB frames from structured world states provided by physics engines, maintaining the scene's structure and dynamics. The original version was too slow for real-time use, operating at only 0.56 frames per second (FPS). The new AlayaRenderer-Flash improves this speed to 31.54 FPS by using a few-step autoregressive streaming model and lightweight codecs for efficient processing. This allows for continuous rendering and integration with physics engines, enabling interactive and controllable gameplay while preserving the quality of the original model."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.19139",
             "title": "Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers",
             "url": "https://huggingface.co/papers/2607.19139",
             "abstract": "Abstract  Text-to-image diffusion transformers (DiTs) jointly process text and image tokens, yet their internal computation during denoising remains poorly understood. We introduce a causal interpretability framework for modern large-scale DiTs that combines attention decomposition with targeted interventions across token spans, heads, and layers. Using it to separate prompt-content tokens from structural template tokens, we find that the structural tokens carry little prompt-specific information at the encoder output. Yet surprisingly, they emerge as dominant image-to-text attention sinks and causally maintain object identity inside the DiT, acting as implicit semantic registers. We show that they acquire this identity indirectly, with prompt semantics first injected into the image latents and then read back into the template tokens rather than transferred directly from the prompt tokens. Inspired by the above findings, we design a training-free pruning rule for DiTs. Heads that attend most strongly to prompt tokens are dispensable, and pruning them removes 20% of attention FLOPs with only a 1.4-point drop on GenEval. We further reveal how generative computation in DiTs is organized across heads and depth, separating semantic routing from visual synthesis and progressing from identity formation to propagation and refinement. Our work not only reveals that the tokens encoding semantics at input need not be those that maintain it during generation, but also provides a causal view of internal mechanisms in DiTs.",
-            "score": 44,
+            "score": 47,
             "issue_id": 2876,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -164,11 +164,72 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.18367",
+            "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
+            "url": "https://huggingface.co/papers/2607.18367",
+            "abstract": "Abstract  Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments from user inputs instantly. It enable us to create customized, explorable, and continuously evolving virtual world from text, an image, or video. Realizing this vision requires four tightly coupled capabilities: interaction, persistent spatiotemporal consistency, stable long-horizon generation, and efficient response. We present AlayaWorld, an interactive long-horizon video world model that generates 24-fps video at 540p and 720p. Built on a 15B video diffusion transformer, AlayaWorld generates short latent chunks autoregressively under camera trajectories and switchable text prompts. Its bounded visual context combines a persistent sink frame, compressed temporal history, geometry-aligned spatial memory, and recent-frame conditioning. To reduce long-term drift, the model is trained with corrupted histories and prediction residuals collected from its own roll-outs. We further introduce a discrete autoregressive distillation formulation that combines distribution-matching distillation, self-forcing++, and consistency distillation, reducing inference from approximately 30 sampling steps to four steps per chunk. On iWorld-Bench, AlayaWorld achieves the best performance over long-horizon generation. Conceived as a full-stack, open-source, and long-term project, AlayaWorld is intended to provide an extensible foundation for future research on interactive video world models.",
+            "score": 39,
+            "issue_id": 2876,
+            "pub_date": "2026-07-20",
+            "pub_date_card": {
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
+            },
+            "hash": "8d94dbbca630f047",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "AlayaWorld Team",
+                "Kaipeng Zhang",
+                "Chuanhao Li",
+                "Yifan Zhan",
+                "Yongtao Ge",
+                "Yuanyang Yin",
+                "Jiaming Tan",
+                "Kang He",
+                "Liaoyuan Fan",
+                "Mingliang Zhai",
+                "Ruicong Liu",
+                "Xiaojie Xu",
+                "Xuangeng Chu",
+                "Zhen Li",
+                "Zhengyuan Lin",
+                "Zhixiang Wang",
+                "Zian Meng",
+                "Zihui Gao"
+            ],
+            "affiliations": [
+                "Alaya Lab"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.18367.jpg",
+            "data": {
+                "categories": [
+                    "#3d",
+                    "#training",
+                    "#open_source",
+                    "#agents",
+                    "#long_context",
+                    "#diffusion",
+                    "#games"
+                ],
+                "emoji": "🌍",
+                "ru": {
+                    "title": "Создание интерактивных видео миров с AlayaWorld",
+                    "desc": "Статья описывает AlayaWorld, интерактивную модель видео миров, которая мгновенно генерирует виртуальные среды из пользовательских вводов. Модель использует архитектуру диффузионного трансформера для создания видео с частотой 24 кадра в секунду. Она сочетает в себе несколько возможностей, таких как взаимодействие и долговременная стабильность генерации. AlayaWorld также предлагает улучшенную эффективность вывода, сокращая количество шагов до всего четырех для генерации фрагментов видео."
+                },
+                "en": {
+                    "title": "Revolutionizing Interactive Video Worlds with AlayaWorld",
+                    "desc": "This paper presents AlayaWorld, an innovative interactive video world model that generates dynamic virtual environments based on user inputs like text, images, or videos. It leverages a 15B video diffusion transformer to produce 24-fps video at resolutions of 540p and 720p, ensuring persistent spatiotemporal consistency and stable long-horizon generation. The model incorporates advanced techniques such as autoregressive generation and a unique distillation approach to enhance efficiency, reducing the number of sampling steps significantly. AlayaWorld aims to serve as a foundational tool for future research in interactive video world models, promoting customization and exploration in virtual spaces."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.19064",
             "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
             "url": "https://huggingface.co/papers/2607.19064",
             "abstract": "Abstract  Large-scale visual generators are increasingly capable but costly to train, fine-tune, and deploy. We introduce Mage-Flow, a compact 4B-scale generative stack for efficient text-to-image generation and instruction-based image editing. The stack is built from two co-designed components: Mage-VAE, a lightweight high-fidelity latent tokenizer, and a Native-Resolution Multimodal Diffusion Transformer trained with rectified flow matching. Mage-VAE uses one-step diffusion-style encoding and decoding with anchor-latent regularization, preserving the reconstruction quality of strong public VAEs while reducing tokenization cost by more than an order of magnitude. Together with native-resolution packing and stack-level CUDA kernel fusion, the stack supports flexible-resolution training and improves end-to-end training throughput by about 2.5times. Built on this foundation, we develop a complete model family with Base, RL-aligned, and Turbo variants for both generation and editing. Diffusion-NFT improves prompt following, text rendering, aesthetic quality, and editing fidelity, while few-step distillation with adversarial perceptual guidance produces 4-step Turbo models for low-latency inference. Despite its compact scale, Mage-Flow and Mage-Flow-Edit achieves competitive performance across standard generation and editing benchmarks. More importantly, the Turbo variants make high-resolution generation and editing practical for interactive use: at 1024^2 resolution on a single NVIDIA A100 GPU, Mage-Flow-Turbo generates an image in 0.59s, and Mage-Flow-Edit-Turbo edits an image in 1.02s, while maintaining a small memory footprint. These results show that careful tokenizer--backbone--system co-design can deliver strong high-resolution generation and editing within an efficient 4B model family.",
-            "score": 35,
+            "score": 37,
             "issue_id": 2876,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -231,67 +292,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.18367",
-            "title": "AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report",
-            "url": "https://huggingface.co/papers/2607.18367",
-            "abstract": "Abstract  Unlike conventional video game development, which relies on labor-intensive pipelines for asset production, animation, physics, and programming, video world models generate interactive environments from user inputs instantly. It enable us to create customized, explorable, and continuously evolving virtual world from text, an image, or video. Realizing this vision requires four tightly coupled capabilities: interaction, persistent spatiotemporal consistency, stable long-horizon generation, and efficient response. We present AlayaWorld, an interactive long-horizon video world model that generates 24-fps video at 540p and 720p. Built on a 15B video diffusion transformer, AlayaWorld generates short latent chunks autoregressively under camera trajectories and switchable text prompts. Its bounded visual context combines a persistent sink frame, compressed temporal history, geometry-aligned spatial memory, and recent-frame conditioning. To reduce long-term drift, the model is trained with corrupted histories and prediction residuals collected from its own roll-outs. We further introduce a discrete autoregressive distillation formulation that combines distribution-matching distillation, self-forcing++, and consistency distillation, reducing inference from approximately 30 sampling steps to four steps per chunk. On iWorld-Bench, AlayaWorld achieves the best performance over long-horizon generation. Conceived as a full-stack, open-source, and long-term project, AlayaWorld is intended to provide an extensible foundation for future research on interactive video world models.",
-            "score": 34,
-            "issue_id": 2876,
-            "pub_date": "2026-07-20",
-            "pub_date_card": {
-                "ru": "20 июля",
-                "en": "July 20",
-                "zh": "7月20日"
-            },
-            "hash": "8d94dbbca630f047",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "AlayaWorld Team",
-                "Kaipeng Zhang",
-                "Chuanhao Li",
-                "Yifan Zhan",
-                "Yongtao Ge",
-                "Yuanyang Yin",
-                "Jiaming Tan",
-                "Kang He",
-                "Liaoyuan Fan",
-                "Mingliang Zhai",
-                "Ruicong Liu",
-                "Xiaojie Xu",
-                "Xuangeng Chu",
-                "Zhen Li",
-                "Zhengyuan Lin",
-                "Zhixiang Wang",
-                "Zian Meng",
-                "Zihui Gao"
-            ],
-            "affiliations": [
-                "Alaya Lab"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.18367.jpg",
-            "data": {
-                "categories": [
-                    "#3d",
-                    "#training",
-                    "#open_source",
-                    "#agents",
-                    "#long_context",
-                    "#diffusion",
-                    "#games"
-                ],
-                "emoji": "🌍",
-                "ru": {
-                    "title": "Создание интерактивных видео миров с AlayaWorld",
-                    "desc": "Статья описывает AlayaWorld, интерактивную модель видео миров, которая мгновенно генерирует виртуальные среды из пользовательских вводов. Модель использует архитектуру диффузионного трансформера для создания видео с частотой 24 кадра в секунду. Она сочетает в себе несколько возможностей, таких как взаимодействие и долговременная стабильность генерации. AlayaWorld также предлагает улучшенную эффективность вывода, сокращая количество шагов до всего четырех для генерации фрагментов видео."
-                },
-                "en": {
-                    "title": "Revolutionizing Interactive Video Worlds with AlayaWorld",
-                    "desc": "This paper presents AlayaWorld, an innovative interactive video world model that generates dynamic virtual environments based on user inputs like text, images, or videos. It leverages a 15B video diffusion transformer to produce 24-fps video at resolutions of 540p and 720p, ensuring persistent spatiotemporal consistency and stable long-horizon generation. The model incorporates advanced techniques such as autoregressive generation and a unique distillation approach to enhance efficiency, reducing the number of sampling steps significantly. AlayaWorld aims to serve as a foundational tool for future research in interactive video world models, promoting customization and exploration in virtual spaces."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.18722",
             "title": "Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning",
             "url": "https://huggingface.co/papers/2607.18722",
@@ -349,7 +349,7 @@
             "title": "SciForma: Structure-Faithful Generation of Scientific Diagrams",
             "url": "https://huggingface.co/papers/2607.18091",
             "abstract": "Abstract  Structural fidelity is essential to scientific methodology diagrams. To communicate research logic, these diagrams must faithfully render components, directional relations, and textual annotations. Since a single error, such as a reversed arrow or an unreadable equation, can invalidate the entire figure, structural fidelity is inherently conjunctive: correctness on one axis cannot compensate for failure on another. Current open-source models fail to satisfy this criterion. Supervised fine-tuning (SFT) learns plausible layouts but cannot reliably ensure structural correctness, while scalar reward-based post-training obscures which structural dimension has failed. To address this, we introduce SciForma, a framework for the structure faithful generation of scientific methodology diagrams. Specifically, SciForma decomposes diagram quality into three structural axes: Component, Arrow, and Text, guided by a structural inventory. Built on this foundation, we curate SciFormaData-700K for structured training and SciFormaBench-2K for logic-verified evaluation. To close the gap left by SFT, we develop Multi-Dimensional Conjunctive Preference Optimization (M-DPO), which enforces simultaneous correctness across all axes and adaptively routes gradients to the most deficient dimension in post-training. The same structural inventory also enables iterative editing at inference time to correct residual errors. This combination allows SciForma-9B to exceed all open-source baselines and GPT-Image-1.5 on both SciFormaBench-2K and AIBench, bringing open scientific diagram generation close to proprietary-level structural fidelity. Our code and data will be available at: https://github.com/microsoft/SciForma.",
-            "score": 11,
+            "score": 14,
             "issue_id": 2876,
             "pub_date": "2026-07-20",
             "pub_date_card": {
@@ -396,68 +396,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.18754",
-            "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
-            "url": "https://huggingface.co/papers/2607.18754",
-            "abstract": "Abstract  LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support for identifying the root cause or translating diagnosis into recovery. We present AgentDebugX, an open-source debugging framework that organizes debugging as a closed loop of Detect, Attribute, Recover, and Rerun. At its core, DeepDebug performs multi-turn root-cause diagnosis through global trajectory understanding, structure-guided investigation, and cross-examination. On the Who and When benchmark, DeepDebug achieves the best strict attribution accuracy among the evaluated methods on both tested open-weight backbones, reaching 28.8 percent exact agent-and-step accuracy on qwen3.5-9b versus 21.7 percent for the strongest single-pass baseline. On GAIA, DeepDebug repairs 13 of 73 failed tasks in a single rerun, compared with 4 to 6 for three decoupled self-correction baselines, improving overall accuracy from 55.8 percent to 63.6 percent. AgentDebugX exposes this workflow through a Python library, CLI, web console, and installable agentic skill, and provides an opt-in Error Hub for sharing scrubbed failure-diagnosis-repair bundles and reusing them as debugging memory.",
-            "score": 9,
-            "issue_id": 2876,
-            "pub_date": "2026-07-21",
-            "pub_date_card": {
-                "ru": "21 июля",
-                "en": "July 21",
-                "zh": "7月21日"
-            },
-            "hash": "109038f38ebe92b6",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Kunlun Zhu",
-                "Xuyan Ye",
-                "Zhiguang Han",
-                "Yuchen Zhao",
-                "Bingxuan Li",
-                "Weijia Zhang",
-                "Muxin Tian",
-                "Xiangru Tang",
-                "Pan Lu",
-                "James Zou",
-                "Jiaxuan You",
-                "Heng Ji"
-            ],
-            "affiliations": [
-                "Google",
-                "Stanford University",
-                "University of Illinois Urbana-Champaign",
-                "University of Toronto"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.18754.jpg",
-            "data": {
-                "categories": [
-                    "#session_memory",
-                    "#memory",
-                    "#inference",
-                    "#open_source",
-                    "#agents",
-                    "#agent_memory"
-                ],
-                "emoji": "🔧",
-                "ru": {
-                    "title": "Инновационный подход к отладке LLM агентов",
-                    "desc": "Статья описывает AgentDebugX, открытый фреймворк для отладки LLM агентов. Основная идея заключается в организации процесса отладки как замкнутого цикла, включающего обнаружение, атрибуцию, восстановление и повторный запуск. DeepDebug, центральный компонент AgentDebugX, использует многократную диагностику коренной причины на основе глобального понимания траектории и структурного руководства. Эксперименты показывают, что DeepDebug значительно превосходит существующие методы в точности и эффективности восстановления задач."
-                },
-                "en": {
-                    "title": "Revolutionizing LLM Debugging with AgentDebugX",
-                    "desc": "The paper introduces AgentDebugX, a debugging framework designed to address the challenges of diagnosing failures in LLM agents. It organizes the debugging process into a closed loop of Detect, Attribute, Recover, and Rerun, enhancing the ability to identify root causes of errors. The core component, DeepDebug, utilizes multi-turn root-cause diagnosis and global trajectory understanding to improve accuracy in fault attribution. Experimental results show that DeepDebug significantly outperforms existing methods in both attribution accuracy and task recovery, providing a comprehensive tool for debugging LLM agents."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.19191",
             "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
             "url": "https://huggingface.co/papers/2607.19191",
             "abstract": "Abstract  We present ABot-World-0, an action-conditioned video world model for real-time, long-horizon closed-loop interaction, supported by a multi-source data infrastructure spanning AAA games, simulation engines, and internet videos to learn controllable world dynamics. WorldExplorer performs agent-driven collection guided by training feedback, while a unified pipeline applies 14 deterministic quality checks, VLM-based assessment, and synchronized action and text annotation. We progressively distill a bidirectional action-conditioned teacher into a causal student through teacher forcing and ODE distillation, and introduce LongForcing to align long student self-rollouts with an extended-horizon teacher, mitigating accumulated distribution shift and autoregressive drift. Raw keyboard actions provide a unified control interface for scene roaming and third-person character interaction, while reference-character memory provides persistent appearance cues for identity consistency during third-person rollouts. For deployment, we co-design a streaming inference stack with a lightweight VAE decoder, efficient attention, memory-aware scheduling, and low-bit DiT inference. Across optimized low-bit configurations, ABot-World-0 streams 720P video at up to 16 FPS on a single NVIDIA RTX 5090 desktop GPU, with 1.2s action-to-first-frame latency and approximately 19GiB peak VRAM. Experiments on WorldRoamBench and extended interactive rollouts demonstrate competitive controllability and coherent long-horizon world evolution.",
-            "score": 6,
+            "score": 9,
             "issue_id": 2876,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -534,6 +477,63 @@
                 "en": {
                     "title": "Real-Time Control in Dynamic Video Worlds",
                     "desc": "The paper introduces ABot-World-0, a video world model that allows for real-time interactions in complex environments using action conditioning. It leverages diverse data sources, including video games and simulations, to learn how to control world dynamics effectively. The model employs a unique training approach that includes teacher forcing and ODE distillation to improve long-term decision-making. Additionally, it features a streamlined inference system that enables efficient video streaming and interaction, demonstrating strong performance in maintaining coherence over extended periods."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.18754",
+            "title": "AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents",
+            "url": "https://huggingface.co/papers/2607.18754",
+            "abstract": "Abstract  LLM agent failures are difficult to debug because the step where an error surfaces is often not the one that caused it. Existing observability tools replay execution traces but provide little support for identifying the root cause or translating diagnosis into recovery. We present AgentDebugX, an open-source debugging framework that organizes debugging as a closed loop of Detect, Attribute, Recover, and Rerun. At its core, DeepDebug performs multi-turn root-cause diagnosis through global trajectory understanding, structure-guided investigation, and cross-examination. On the Who and When benchmark, DeepDebug achieves the best strict attribution accuracy among the evaluated methods on both tested open-weight backbones, reaching 28.8 percent exact agent-and-step accuracy on qwen3.5-9b versus 21.7 percent for the strongest single-pass baseline. On GAIA, DeepDebug repairs 13 of 73 failed tasks in a single rerun, compared with 4 to 6 for three decoupled self-correction baselines, improving overall accuracy from 55.8 percent to 63.6 percent. AgentDebugX exposes this workflow through a Python library, CLI, web console, and installable agentic skill, and provides an opt-in Error Hub for sharing scrubbed failure-diagnosis-repair bundles and reusing them as debugging memory.",
+            "score": 9,
+            "issue_id": 2876,
+            "pub_date": "2026-07-21",
+            "pub_date_card": {
+                "ru": "21 июля",
+                "en": "July 21",
+                "zh": "7月21日"
+            },
+            "hash": "109038f38ebe92b6",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Kunlun Zhu",
+                "Xuyan Ye",
+                "Zhiguang Han",
+                "Yuchen Zhao",
+                "Bingxuan Li",
+                "Weijia Zhang",
+                "Muxin Tian",
+                "Xiangru Tang",
+                "Pan Lu",
+                "James Zou",
+                "Jiaxuan You",
+                "Heng Ji"
+            ],
+            "affiliations": [
+                "Google",
+                "Stanford University",
+                "University of Illinois Urbana-Champaign",
+                "University of Toronto"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.18754.jpg",
+            "data": {
+                "categories": [
+                    "#session_memory",
+                    "#memory",
+                    "#inference",
+                    "#open_source",
+                    "#agents",
+                    "#agent_memory"
+                ],
+                "emoji": "🔧",
+                "ru": {
+                    "title": "Инновационный подход к отладке LLM агентов",
+                    "desc": "Статья описывает AgentDebugX, открытый фреймворк для отладки LLM агентов. Основная идея заключается в организации процесса отладки как замкнутого цикла, включающего обнаружение, атрибуцию, восстановление и повторный запуск. DeepDebug, центральный компонент AgentDebugX, использует многократную диагностику коренной причины на основе глобального понимания траектории и структурного руководства. Эксперименты показывают, что DeepDebug значительно превосходит существующие методы в точности и эффективности восстановления задач."
+                },
+                "en": {
+                    "title": "Revolutionizing LLM Debugging with AgentDebugX",
+                    "desc": "The paper introduces AgentDebugX, a debugging framework designed to address the challenges of diagnosing failures in LLM agents. It organizes the debugging process into a closed loop of Detect, Attribute, Recover, and Rerun, enhancing the ability to identify root causes of errors. The core component, DeepDebug, utilizes multi-turn root-cause diagnosis and global trajectory understanding to improve accuracy in fault attribution. Experimental results show that DeepDebug significantly outperforms existing methods in both attribution accuracy and task recovery, providing a comprehensive tool for debugging LLM agents."
                 }
             }
         },
@@ -791,6 +791,51 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.19344",
+            "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+            "url": "https://huggingface.co/papers/2607.19344",
+            "abstract": "Abstract  Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens stemming from texts and images, but they lack mechanisms for determining where and how these tokens should influence the output. We introduce appearance pointers, compact tokens that guide DiTs toward the correct appearance cues at the correct spatial locations by aligning text or image inputs with user-specified masks. Appearance pointers are produced by a region correspondence network and refined through a spatial aggregation mechanism, enabling the model to handle multiple regional descriptions without significantly increasing token load. Our approach introduces the first modality-agnostic interface for localized multimodal control in a DiT without retraining the base model from scratch. Across a range of metrics, our single model reaches or surpasses the performance of modality-specific state of the art methods, offering a simple and extensible path toward precise, region-aware, multimodal guidance in generative image synthesis.",
+            "score": 1,
+            "issue_id": 2875,
+            "pub_date": "2026-07-21",
+            "pub_date_card": {
+                "ru": "21 июля",
+                "en": "July 21",
+                "zh": "7月21日"
+            },
+            "hash": "13b17fdede50f456",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Rahul Sajnani",
+                "Yulia Gryaditskaya",
+                "Radomír Měch",
+                "Srinath Sridhar",
+                "Matheus Gadelha"
+            ],
+            "affiliations": [
+                "Adobe Research",
+                "Brown University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.19344.jpg",
+            "data": {
+                "categories": [
+                    "#diffusion",
+                    "#3d",
+                    "#multimodal"
+                ],
+                "emoji": "🎨",
+                "ru": {
+                    "title": "Точный контроль генерации изображений для творцов",
+                    "desc": "В данной статье рассматривается задача управления генерацией изображений для творческих профессионалов, которым необходима точная региональная контроль над материалами и объектами. Авторы предлагают новую технологию под названием 'appearance pointers', которая направляет модели Diffusion Transformers на правильные визуальные подсказки с учетом пространственных местоположений. Эта система позволяет обрабатывать различные региональные описания, не увеличивая при этом нагрузку на токены. Новый подход обеспечивает простой и расширяемый способ для достижения точного многомодального управления в генеративной синтезе изображений."
+                },
+                "en": {
+                    "title": "Precise Control in Image Generation with Appearance Pointers",
+                    "desc": "This paper addresses the challenge of controllable image generation, which is important for creative professionals needing specific control over image elements. The authors introduce Diffusion Transformers (DiTs) enhanced with appearance pointers, which are tokens that help guide the model in generating images based on user-defined spatial cues. These pointers are created through a region correspondence network and refined to manage multiple regional inputs efficiently. The proposed method allows for precise multimodal control without the need to retrain the model, achieving performance that meets or exceeds existing specialized methods."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.18955",
             "title": "H^2SD: Hybrid Hindsight Self-Distillation",
             "url": "https://huggingface.co/papers/2607.18955",
@@ -841,6 +886,57 @@
                 "en": {
                     "title": "Enhancing Reasoning in Language Models with H^{2}SD",
                     "desc": "This paper presents H^{2}SD, a novel hybrid hindsight self-distillation framework that enhances reinforcement learning with verifiable rewards (RLVR) for large language models. It improves reasoning tasks by using a teacher model to guide updates based on the correctness of trajectories, allowing for better token-level credit assignment. For successful trajectories, it modulates update magnitudes without altering the direction of the reward, while for failed ones, it minimizes divergence from a teacher conditioned on key reasoning steps. Experiments demonstrate that H^{2}SD outperforms existing methods, achieving stable optimization and efficient generation."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.19069",
+            "title": "Delineate Anything v2: A Global Foundation Model for Field Delineation",
+            "url": "https://huggingface.co/papers/2607.19069",
+            "abstract": "Abstract  Accurate agricultural field boundary delineation at large scale is a foundational task for food security, supply chain transparency, and carbon accounting. While vision foundation models like SAM show remarkable zero-shot capabilities, they frequently fail in geospatial domains due to topological complexity, cropland texturing patterns, and a lack of physical scale awareness. In this work, we introduce Delineate Anything v2, a globally scalable foundation model designed specifically for wide-area field boundary mapping. We construct FBIS-73M, a 73-million-instance multi-resolution dataset spanning 61 countries. To address the pervasive issue of multi-field administrative parcel merging, we introduce a resolution-specific data curation pipeline that leverages topological image-space adaptation to homogenize merged parcels and strengthen weak physical boundaries. Furthermore, we establish a novel, manually curated evaluation benchmark covering 100 countries to assess independent zero-shot generalization. Our results show that Delineate Anything v2 surpasses the current state-of-the-art, including the Delineate Anything framework, by 0.284 mAP@0.5 (+103.3% relative gain), while maintaining execution speeds suitable for rapid national- and global-scale deployment, as demonstrated by nationwide mapping of Ukraine (603,000 km^2) in 5.4 hours on a consumer-grade workstation. Code, pre-trained weights, the FBIS-73M dataset, and ready-to-use national-scale vector boundary products are publicly available at https://github.com/Lavreniuk/Delineate-Anything.",
+            "score": 1,
+            "issue_id": 2878,
+            "pub_date": "2026-07-21",
+            "pub_date_card": {
+                "ru": "21 июля",
+                "en": "July 21",
+                "zh": "7月21日"
+            },
+            "hash": "c679fb5365b6330a",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Mykola Lavreniuk",
+                "Nataliia Kussul",
+                "Andrii Shelestov",
+                "Yevhenii Salii",
+                "Volodymyr Kuzin",
+                "Charlotte Julia Li-Xing Wang",
+                "Zoltan Szantoi"
+            ],
+            "affiliations": [
+                "European Space Agency, Frascati, Italy",
+                "National Technical University of Ukraine Igor Sikorsky Kyiv Polytechnic Institute, Kyiv, Ukraine",
+                "Space Research Institute NASU-SSAU, Kyiv, Ukraine",
+                "University of Maryland, College Park, Maryland, USA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.19069.jpg",
+            "data": {
+                "categories": [
+                    "#open_source",
+                    "#benchmark",
+                    "#dataset",
+                    "#data",
+                    "#science"
+                ],
+                "emoji": "🌾",
+                "ru": {
+                    "title": "Новая модель для определения границ сельскохозяйственных полей",
+                    "desc": "Данная статья представляет новый модельный подход для точного определения границ сельскохозяйственных полей в больших масштабах. Модель Delineate Anything v2 использует уникальный датасет FBIS-73M, состоящий из 73 миллионов экземпляров и охватывающий 61 страну. Авторы впровадили новый процесс обработки данных, который улучшает определение границ, учитывая топологические особенности. Результаты показывают, что новая модель превышает существующие аналоги по эффективности, обеспечивая быстрое выполнение задач на глобальном уровне."
+                },
+                "en": {
+                    "title": "Revolutionizing Agricultural Mapping with Delineate Anything v2",
+                    "desc": "This paper presents Delineate Anything v2, a foundation model tailored for accurately mapping agricultural field boundaries on a large scale. It addresses challenges faced by existing models, such as topological complexity and the merging of multi-field parcels, by introducing a specialized dataset called FBIS-73M and a resolution-specific data curation pipeline. The model demonstrates significant improvements in performance, achieving a 0.284 mAP@0.5 increase over previous state-of-the-art methods. Additionally, it showcases rapid execution speeds, enabling efficient nationwide mapping, exemplified by a comprehensive mapping of Ukraine in just 5.4 hours."
                 }
             }
         },
@@ -928,47 +1024,50 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.19344",
-            "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
-            "url": "https://huggingface.co/papers/2607.19344",
-            "abstract": "Abstract  Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reliably achieved through text prompting alone. Diffusion Transformers (DiTs) can natively ingest heterogeneous tokens stemming from texts and images, but they lack mechanisms for determining where and how these tokens should influence the output. We introduce appearance pointers, compact tokens that guide DiTs toward the correct appearance cues at the correct spatial locations by aligning text or image inputs with user-specified masks. Appearance pointers are produced by a region correspondence network and refined through a spatial aggregation mechanism, enabling the model to handle multiple regional descriptions without significantly increasing token load. Our approach introduces the first modality-agnostic interface for localized multimodal control in a DiT without retraining the base model from scratch. Across a range of metrics, our single model reaches or surpasses the performance of modality-specific state of the art methods, offering a simple and extensible path toward precise, region-aware, multimodal guidance in generative image synthesis.",
+            "id": "https://huggingface.co/papers/2607.19011",
+            "title": "Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges",
+            "url": "https://huggingface.co/papers/2607.19011",
+            "abstract": "Abstract  Multimodal humor in memes, cartoons, and comics remains difficult for AI systems because intended meaning depends on non-literal mechanisms, shared cultural knowledge, and communicative intent rather than literal scene description. This survey focuses on visual humor understanding in single-image and multi-panel artifacts, while treating humor generation as an emerging downstream frontier. We position the literature against prior humor, sarcasm, and general MLLM surveys and organize it using a capability-centric hierarchy spanning recognition, interpretation and reasoning, and generation. Under this lens, we synthesize benchmark design, evaluation protocols, and modeling paradigms, tracing the field's shift from task-specific fusion models to large-model approaches based on multimodal alignment, evidence-grounded reasoning, and controlled generation. We conclude by highlighting the main barriers to progress: shortcut-prone evaluation, limited cultural and narrative coverage, weak evidence grounding, and unresolved safety and ownership concerns.",
             "score": 0,
-            "issue_id": 2875,
+            "issue_id": 2878,
             "pub_date": "2026-07-21",
             "pub_date_card": {
                 "ru": "21 июля",
                 "en": "July 21",
                 "zh": "7月21日"
             },
-            "hash": "13b17fdede50f456",
+            "hash": "6b1b0357831863c5",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Rahul Sajnani",
-                "Yulia Gryaditskaya",
-                "Radomír Měch",
-                "Srinath Sridhar",
-                "Matheus Gadelha"
+                "Tuo Liang",
+                "Zhe Hu",
+                "Disheng Liu",
+                "Jing Li",
+                "Yu Yin"
             ],
             "affiliations": [
-                "Adobe Research",
-                "Brown University"
+                "Case Western Reserve University",
+                "The Hong Kong Polytechnic University"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.19344.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.19011.jpg",
             "data": {
                 "categories": [
-                    "#diffusion",
-                    "#3d",
-                    "#multimodal"
+                    "#alignment",
+                    "#survey",
+                    "#multimodal",
+                    "#benchmark",
+                    "#reasoning",
+                    "#games"
                 ],
-                "emoji": "🎨",
+                "emoji": "😂",
                 "ru": {
-                    "title": "Точный контроль генерации изображений для творцов",
-                    "desc": "В данной статье рассматривается задача управления генерацией изображений для творческих профессионалов, которым необходима точная региональная контроль над материалами и объектами. Авторы предлагают новую технологию под названием 'appearance pointers', которая направляет модели Diffusion Transformers на правильные визуальные подсказки с учетом пространственных местоположений. Эта система позволяет обрабатывать различные региональные описания, не увеличивая при этом нагрузку на токены. Новый подход обеспечивает простой и расширяемый способ для достижения точного многомодального управления в генеративной синтезе изображений."
+                    "title": "Понимание многомодального юмора в AI",
+                    "desc": "В этой статье рассматривается понимание многомодального юмора в мемах, карикатурах и комиксах, что представляет трудности для систем AI. Авторы изучают, как переданное значение зависит от культурных знаний и намерений, а не только от буквального описания сцены. Работа организована вокруг способностей, таких как распознавание, интерпретация и генерация юмора. В заключение подчеркиваются основные препятствия на пути прогресса, включая проблему оценки и недостаточное охват культурных и нарративных аспектов."
                 },
                 "en": {
-                    "title": "Precise Control in Image Generation with Appearance Pointers",
-                    "desc": "This paper addresses the challenge of controllable image generation, which is important for creative professionals needing specific control over image elements. The authors introduce Diffusion Transformers (DiTs) enhanced with appearance pointers, which are tokens that help guide the model in generating images based on user-defined spatial cues. These pointers are created through a region correspondence network and refined to manage multiple regional inputs efficiently. The proposed method allows for precise multimodal control without the need to retrain the model, achieving performance that meets or exceeds existing specialized methods."
+                    "title": "Unlocking AI's Sense of Humor",
+                    "desc": "This paper explores the challenges AI faces in understanding humor in visual formats like memes and comics, where meaning often relies on cultural context and intent rather than just images. It reviews existing literature on humor recognition, interpretation, and generation, organizing it into a framework that highlights different capabilities. The authors discuss the evolution of methods from specific models to larger, multimodal approaches that align various data types for better understanding. They also identify key obstacles in the field, such as evaluation methods, cultural limitations, and safety issues."
                 }
             }
         },
@@ -1036,9 +1135,9 @@
         "zh": "7月23日"
     },
     "categories": {
-        "#dataset": 4,
-        "#data": 2,
-        "#benchmark": 6,
+        "#dataset": 5,
+        "#data": 3,
+        "#benchmark": 8,
         "#agents": 6,
         "#rl": 4,
         "#rlhf": 0,
@@ -1047,7 +1146,7 @@
         "#inference": 4,
         "#3d": 3,
         "#audio": 0,
-        "#multimodal": 6,
+        "#multimodal": 7,
         "#math": 0,
         "#multilingual": 0,
         "#architecture": 3,
@@ -1055,26 +1154,26 @@
         "#training": 15,
         "#robotics": 1,
         "#agi": 0,
-        "#games": 5,
+        "#games": 6,
         "#interpretability": 3,
-        "#reasoning": 4,
+        "#reasoning": 5,
         "#transfer_learning": 1,
         "#graphs": 0,
         "#ethics": 0,
         "#security": 0,
         "#optimization": 9,
-        "#survey": 0,
+        "#survey": 1,
         "#diffusion": 4,
-        "#alignment": 0,
+        "#alignment": 1,
         "#story_generation": 0,
         "#hallucinations": 1,
         "#long_context": 2,
         "#synthetic": 0,
         "#machine_translation": 0,
         "#leakage": 0,
-        "#open_source": 3,
+        "#open_source": 4,
         "#small_models": 0,
-        "#science": 1,
+        "#science": 2,
         "#low_resource": 0,
         "#memory": 4,
         "#retrieval": 0,
