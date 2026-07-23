@@ -1,163 +1,165 @@
-[23.07.2026 08:28] Read previous papers.
-[23.07.2026 08:28] Generating top page (month).
-[23.07.2026 08:28] Writing top page (month).
-[23.07.2026 11:08] Read previous papers.
-[23.07.2026 11:08] Get feed.
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20145
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20145
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20368
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20368
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19747
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19747
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16165
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16165
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19604
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19604
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10169
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10169
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13429
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13429
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16190
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16190
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19790
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19790
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19691
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19691
-[23.07.2026 11:08] Extract page data from URL. URL: https://huggingface.co/papers/2607.19865
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20379
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20379
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19942
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19942
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20207
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20207
-[23.07.2026 11:08] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20417
-[23.07.2026 11:08] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20417
-[23.07.2026 11:08] Updating GitHub stars.
-[23.07.2026 11:08] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[23.07.2026 11:08] No deleted papers detected.
-[23.07.2026 11:08] Downloading and parsing papers (pdf, html). Total: 15.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.20145.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.20145.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.20145.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.20368.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.20368.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.20368.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.19747.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.19747.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.19747.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.16165.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.16165.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.16165.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.19604.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.19604.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.19604.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.10169.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.10169.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.10169.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.13429.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.13429.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.13429.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.16190.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.16190.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.16190.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.19790.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.19790.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.19790.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.19691.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.19691.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.19691.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.19865.
-[23.07.2026 11:08] Downloading paper 2607.19865 from https://arxiv.org/pdf/2607.19865v1...
-[23.07.2026 11:08] Extracting affiliations from text.
-[23.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.07.2026 11:09] Read previous papers.
+[23.07.2026 11:09] Generating top page (month).
+[23.07.2026 11:09] Writing top page (month).
+[23.07.2026 13:54] Read previous papers.
+[23.07.2026 13:54] Get feed.
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20145
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20145
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20368
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20368
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19747
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19747
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16165
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16165
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19604
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19604
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10169
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10169
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.13429
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.13429
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16190
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16190
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19790
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19790
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19865
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19865
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19691
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19691
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19942
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19942
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20379
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20379
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20417
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20417
+[23.07.2026 13:54] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20207
+[23.07.2026 13:54] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20207
+[23.07.2026 13:54] Extract page data from URL. URL: https://huggingface.co/papers/2607.17699
+[23.07.2026 13:54] Updating GitHub stars.
+[23.07.2026 13:54] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[23.07.2026 13:54] No deleted papers detected.
+[23.07.2026 13:54] Downloading and parsing papers (pdf, html). Total: 16.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.20145.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.20145.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.20145.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.20368.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.20368.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.20368.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.19747.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.19747.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.19747.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.16165.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.16165.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.16165.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.19604.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.19604.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.19604.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.10169.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.10169.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.10169.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.13429.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.13429.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.13429.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.16190.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.16190.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.16190.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.19790.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.19790.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.19790.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.19865.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.19865.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.19865.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.19691.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.19691.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.19691.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.19942.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.19942.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.19942.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.20379.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.20379.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.20379.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.20417.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.20417.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.20417.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.20207.
+[23.07.2026 13:54] Extra JSON file exists (./assets/json/2607.20207.json), skip PDF parsing.
+[23.07.2026 13:54] Paper image links file exists (./assets/img_data/2607.20207.json), skip HTML parsing.
+[23.07.2026 13:54] Success.
+[23.07.2026 13:54] Downloading and parsing paper https://huggingface.co/papers/2607.17699.
+[23.07.2026 13:56] Failed to download and parse paper https://huggingface.co/papers/2607.17699: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2607.17699&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[23.07.2026 13:56] Enriching papers with extra data.
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 0. Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM tra...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 1. Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future fram...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 2. Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-docum...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 3. Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 4. Abstract  Injecting factual knowledge into large language models (LLMs) reliably and at scale remains an open challenge. Hypernetworks provide a promising solution to large-scale knowledge injection. Although hypernetworks are typically applied for test-time adaptation, we explore their use in train...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 5. Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's fai...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 6. Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic ge...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 7. Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parall...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 8. Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 9. Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation fr...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 10. Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 11. Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and hig...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 12. Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction,...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 13. Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which ...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 14. Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp direc...
+[23.07.2026 13:56] ********************************************************************************
+[23.07.2026 13:56] Abstract 15. Abstract  Simultaneous localization and mapping (SLAM) is one of the fundamental problems in robotics, as it enables autonomous operations in real-world scenarios. Under low illumination, reduced contrast, sensor noise, and motion blur degrade both feature extraction and feature matching, while comp...
+[23.07.2026 13:56] Read previous papers.
+[23.07.2026 13:56] Generating reviews via LLM API.
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#dataset", "#continual_learning", "#optimization", "#math", "#synthetic", "#training", "#reasoning", "#inference"], "emoji": "🚀", "ru": {"title": "Эффективная тренировка триллионных моделей для сложного размышления", "desc": "В данной работе рассматриваются проблемы, связанные с пос
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#training", "#diffusion", "#optimization", "#open_source", "#agent_memory", "#long_context", "#memory"], "emoji": "🎥", "ru": {"title": "Улучшение генерации видео с помощью Self Gradient Forcing", "desc": "В данной статье рассматриваются методы диффузии видео на основе автогрессии с 
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#retrieval_eval", "#optimization", "#benchmark", "#evaluation"], "emoji": "📄", "ru": {"title": "Оптимизация оценки наборов документов для ИИ", "desc": "В статье рассматривается влияние качества наборов документов на эффективность генерации с использованием больших языковых моделей и
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#multimodal", "#training", "#benchmark", "#architecture", "#interpretability", "#reasoning"], "emoji": "👁️", "ru": {"title": "Обнаружение недостатков в активном восприятии мультимодальных моделей", "desc": "В данной статье обсуждается, как современные мультимодальные большие языковы
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#training", "#reasoning", "#optimization", "#architecture", "#dataset", "#transfer_learning"], "emoji": "📚", "ru": {"title": "Гиперсети для внедрения знаний в языковые модели", "desc": "В данной работе рассматривается использование гиперсетей для внедрения фактических знаний в больш
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#training", "#rl", "#benchmark", "#optimization", "#rlhf", "#reasoning"], "emoji": "🎮", "ru": {"title": "Оптимизация политики с учетом геометрии", "desc": "В данной статье рассматриваются ограничения алгоритмов обучения с подкреплением (RL) на основе метода PPO-Clip, которые могут п
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#agi", "#training", "#optimization", "#agents", "#robotics"], "emoji": "🤖", "ru": {"title": "Новая эра взаимодействия: улучшение робототехники через Anchor-Align", "desc": "Статья предлагает метод Anchor-Align для улучшения работы модели, связывающей визуальные и языковые данные с д
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#training", "#inference", "#optimization", "#architecture", "#diffusion"], "emoji": "🎥", "ru": {"title": "Эффективное воспроизведение видео с помощью Sparse-Attention", "desc": "Статья обсуждает систему Sparse-Attention для эффективной генерации видео, которая использует адаптивное 
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#rl", "#transfer_learning", "#benchmark", "#dataset", "#reasoning"], "emoji": "🖼️", "ru": {"title": "Новая эволюция визуального рассуждения", "desc": "В данной статье представлено новое окружение для многодоменного визуального рассуждения, называемое Trace. Оно разделяет построение 
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#benchmark", "#agent_memory", "#long_context", "#agi", "#agents"], "emoji": "📄", "ru": {"title": "DocOps: новые горизонты для автономных агентов", "desc": "В статье представлена концепция DocOps, которая служит основой для оценки операций с документами в автономных агентах. DocOps п
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#rlhf", "#rl", "#optimization", "#training", "#reasoning"], "emoji": "🧠", "ru": {"title": "Оптимизация скрытых моделей для повышения точности!", "desc": "В данной статье обсуждается использование обучения с подкреплением (RL) с проверяемыми наградами для улучшения работы систем, осн
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#dataset", "#transfer_learning", "#synthetic", "#open_source", "#benchmark"], "emoji": "🛩️", "ru": {"title": "G-MAD: новый подход к аэродинамическому обнаружению объектов", "desc": "В данной работе представлен G-MAD, открытый фреймворк, который использует Arma3 для генерации синхрон
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#training", "#inference", "#data", "#hallucinations", "#interpretability", "#ethics", "#agents"], "emoji": "🔍", "ru": {"title": "Объяснения в автоэнкодерах: истинность под угрозой", "desc": "В данной статье рассматривается использование автоэнкодеров на естественном языке для оценки
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#3d"], "emoji": "🌌", "ru": {"title": "Эффективный 3D-синтез с адаптивными токенами", "desc": "Статья представляет новый метод под названием ATSplat для синтеза новых видов 3D-графики с использованием адаптивных 3D-токенов. Этот подход улучшает традиционный метод 3D Gaussian Splattin
+[23.07.2026 13:56] Using data from previous issue: {"categories": ["#architecture", "#agents", "#alignment", "#dataset", "#robotics", "#open_source", "#reasoning"], "emoji": "🤖", "ru": {"title": "Эффективный захват объектов с SeededGrasp", "desc": "В статье представлена новая схема SeededGrasp, которая улучшает захват объектов роботами в сложных сце
+[23.07.2026 13:56] Querying the API.
+[23.07.2026 13:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Text:"DOCOPS: Verifiable Benchmark for Autonomous Agents in Complex Document Operations Jiazhen Jiang1,2 Boxi Cao1 Lingyong Yan3 Yaojie Lu1 Hongyu Lin1 Shuaiqiang Wang3 Dawei Yin3 Xianpei Han1 Le Sun1 1Chinese Information Processing Laboratory Institute of Software, Chinese Academy of Sciences 2University of Chinese Academy of Sciences 3Baidu Inc. {jiangjiazhen2025, caoboxi}@iscas.ac.cn (cid:18) https://docopsbench.github.io "
-[23.07.2026 11:08] Response: ```python
-["Chinese Information Processing Laboratory Institute of Software, Chinese Academy of Sciences", "University of Chinese Academy of Sciences", "Baidu Inc."]
-```
-[23.07.2026 11:08] Deleting PDF ./assets/pdf/2607.19865.pdf.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.20379.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.20379.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.20379.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.19942.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.19942.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.19942.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.20207.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.20207.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.20207.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Downloading and parsing paper https://huggingface.co/papers/2607.20417.
-[23.07.2026 11:08] Extra JSON file exists (./assets/json/2607.20417.json), skip PDF parsing.
-[23.07.2026 11:08] Paper image links file exists (./assets/img_data/2607.20417.json), skip HTML parsing.
-[23.07.2026 11:08] Success.
-[23.07.2026 11:08] Enriching papers with extra data.
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 0. Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM tra...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 1. Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future fram...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 2. Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-docum...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 3. Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 4. Abstract  Injecting factual knowledge into large language models (LLMs) reliably and at scale remains an open challenge. Hypernetworks provide a promising solution to large-scale knowledge injection. Although hypernetworks are typically applied for test-time adaptation, we explore their use in train...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 5. Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's fai...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 6. Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic ge...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 7. Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parall...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 8. Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 9. Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 10. Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation fr...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 11. Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction,...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 12. Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and hig...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 13. Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp direc...
-[23.07.2026 11:08] ********************************************************************************
-[23.07.2026 11:08] Abstract 14. Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which ...
-[23.07.2026 11:08] Read previous papers.
-[23.07.2026 11:08] Generating reviews via LLM API.
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#dataset", "#continual_learning", "#optimization", "#math", "#synthetic", "#training", "#reasoning", "#inference"], "emoji": "🚀", "ru": {"title": "Эффективная тренировка триллионных моделей для сложного размышления", "desc": "В данной работе рассматриваются проблемы, связанные с пос
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#training", "#diffusion", "#optimization", "#open_source", "#agent_memory", "#long_context", "#memory"], "emoji": "🎥", "ru": {"title": "Улучшение генерации видео с помощью Self Gradient Forcing", "desc": "В данной статье рассматриваются методы диффузии видео на основе автогрессии с 
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#retrieval_eval", "#optimization", "#benchmark", "#evaluation"], "emoji": "📄", "ru": {"title": "Оптимизация оценки наборов документов для ИИ", "desc": "В статье рассматривается влияние качества наборов документов на эффективность генерации с использованием больших языковых моделей и
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#multimodal", "#training", "#benchmark", "#architecture", "#interpretability", "#reasoning"], "emoji": "👁️", "ru": {"title": "Обнаружение недостатков в активном восприятии мультимодальных моделей", "desc": "В данной статье обсуждается, как современные мультимодальные большие языковы
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#training", "#reasoning", "#optimization", "#architecture", "#dataset", "#transfer_learning"], "emoji": "📚", "ru": {"title": "Гиперсети для внедрения знаний в языковые модели", "desc": "В данной работе рассматривается использование гиперсетей для внедрения фактических знаний в больш
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#training", "#rl", "#benchmark", "#optimization", "#rlhf", "#reasoning"], "emoji": "🎮", "ru": {"title": "Оптимизация политики с учетом геометрии", "desc": "В данной статье рассматриваются ограничения алгоритмов обучения с подкреплением (RL) на основе метода PPO-Clip, которые могут п
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#agi", "#training", "#optimization", "#agents", "#robotics"], "emoji": "🤖", "ru": {"title": "Новая эра взаимодействия: улучшение робототехники через Anchor-Align", "desc": "Статья предлагает метод Anchor-Align для улучшения работы модели, связывающей визуальные и языковые данные с д
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#training", "#inference", "#optimization", "#architecture", "#diffusion"], "emoji": "🎥", "ru": {"title": "Эффективное воспроизведение видео с помощью Sparse-Attention", "desc": "Статья обсуждает систему Sparse-Attention для эффективной генерации видео, которая использует адаптивное 
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#rl", "#transfer_learning", "#benchmark", "#dataset", "#reasoning"], "emoji": "🖼️", "ru": {"title": "Новая эволюция визуального рассуждения", "desc": "В данной статье представлено новое окружение для многодоменного визуального рассуждения, называемое Trace. Оно разделяет построение 
-[23.07.2026 11:08] Using data from previous issue: {"categories": ["#rlhf", "#rl", "#optimization", "#training", "#reasoning"], "emoji": "🧠", "ru": {"title": "Оптимизация скрытых моделей для повышения точности!", "desc": "В данной статье обсуждается использование обучения с подкреплением (RL) с проверяемыми наградами для улучшения работы систем, осн
-[23.07.2026 11:08] Querying the API.
-[23.07.2026 11:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workflow complexities. Based on DocOps, we systematically evaluate representative closed- and open-source models across various agentic harnesses, revealing that even the most advanced frontier configurations still exhibit profound limitations when handling highly coupled, long-range tasks. Furthermore, a fine-grained analysis of existing agents' manipulation behaviors uncovers 3 key failure modes: long-term state tracking collapse, shallow semantic verification, and destructive editing of structural metadata. Ultimately, our work exposes the capability boundaries of agents in maintaining global document consistency, shedding light on the future design of robust, non-destructive agents for complex digital ecosystems.
-[23.07.2026 11:09] Response: ```json
-{
-  "desc": "В статье представлена концепция DocOps, которая служит основой для оценки операций с документами в автономных агентах. DocOps помогает разбить сложные задачи на более простые элементы, вдохновленные реальными практиками. Исследование показывает, что даже самые современные модели имеют значительные ограничения при выполнении сложных долгосрочных задач. Работа подчеркивает важность повышения надежности агентов для поддержания целостности документов в цифровых экосистемах.",
-  "emoji": "📄",
-  "title": "DocOps: новые горизонты для автономных агентов"
+Abstract  Simultaneous localization and mapping (SLAM) is one of the fundamental problems in robotics, as it enables autonomous operations in real-world scenarios. Under low illumination, reduced contrast, sensor noise, and motion blur degrade both feature extraction and feature matching, while compensating with LiDAR, depth, or thermal sensors raises cost, power draw, and integration complexity. Existing benchmarks remain dominated by well-lit indoor or daylight sequences, leaving open how far SLAM with standard RGB cameras can be pushed in the dark. We benchmark six systems spanning the feature-based, direct, filter-based, and learning-based paradigms - ORB-SLAM3, DSO, Kimera-VIO, OpenVINS, DPVO, and DPV-SLAM - on five LaMARia sequences of varying difficulty and illumination, reporting absolute and relative pose error alongside control-point recall. Kimera-VIO is the only system to track all five sequences to completion, combining the lowest relative pose error with steadily growing absolute error due to the absence of loop closure; DPVO and DPV-SLAM never lose tracking but incur absolute errors of roughly 100 m under low light; and the classical monocular pipelines (ORB-SLAM3, DSO) together with the filter-based OpenVINS fail outright or diverge on most of the harder and low-light sequences. The results suggest that RGB-only SLAM maintains stable low-light tracking only when both inertial fusion and global optimization are present. Closing the remaining gap will likely require low-light-specific learned front-ends or a return to complementary sensing.
+[23.07.2026 13:56] Response: {
+  "desc": "В данной статье рассматривается задача одновременной локализации и картографирования (SLAM), особенно в условиях плохого освещения. Авторы протестировали шесть систем SLAM, таких как ORB-SLAM3 и Kimera-VIO, на последовательностях с различными уровнями освещенности. Результаты показывают, что для стабильного отслеживания в условиях низкой освещенности необходимо комбинировать инерциальную интеграцию и глобальную оптимизацию. Заключение подразумевает необходимость использования обучаемых решений для улучшения SLAM в условиях темноты.",
+  "emoji": "🌑",
+  "title": "SLAM в темноте: вызовы и решения"
 }
-```
-[23.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 13:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -201,12 +203,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workflow complexities. Based on DocOps, we systematically evaluate representative closed- and open-source models across various agentic harnesses, revealing that even the most advanced frontier configurations still exhibit profound limitations when handling highly coupled, long-range tasks. Furthermore, a fine-grained analysis of existing agents' manipulation behaviors uncovers 3 key failure modes: long-term state tracking collapse, shallow semantic verification, and destructive editing of structural metadata. Ultimately, our work exposes the capability boundaries of agents in maintaining global document consistency, shedding light on the future design of robust, non-destructive agents for complex digital ecosystems."
+"Abstract  Simultaneous localization and mapping (SLAM) is one of the fundamental problems in robotics, as it enables autonomous operations in real-world scenarios. Under low illumination, reduced contrast, sensor noise, and motion blur degrade both feature extraction and feature matching, while compensating with LiDAR, depth, or thermal sensors raises cost, power draw, and integration complexity. Existing benchmarks remain dominated by well-lit indoor or daylight sequences, leaving open how far SLAM with standard RGB cameras can be pushed in the dark. We benchmark six systems spanning the feature-based, direct, filter-based, and learning-based paradigms - ORB-SLAM3, DSO, Kimera-VIO, OpenVINS, DPVO, and DPV-SLAM - on five LaMARia sequences of varying difficulty and illumination, reporting absolute and relative pose error alongside control-point recall. Kimera-VIO is the only system to track all five sequences to completion, combining the lowest relative pose error with steadily growing absolute error due to the absence of loop closure; DPVO and DPV-SLAM never lose tracking but incur absolute errors of roughly 100 m under low light; and the classical monocular pipelines (ORB-SLAM3, DSO) together with the filter-based OpenVINS fail outright or diverge on most of the harder and low-light sequences. The results suggest that RGB-only SLAM maintains stable low-light tracking only when both inertial fusion and global optimization are present. Closing the remaining gap will likely require low-light-specific learned front-ends or a return to complementary sensing."
 
-[23.07.2026 11:09] Response: ```python
-['AGENTS', 'BENCHMARK']
+[23.07.2026 13:56] Response: ```python
+["ROBOTICS", "BENCHMARK"]
 ```
-[23.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 13:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -249,30 +251,24 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workflow complexities. Based on DocOps, we systematically evaluate representative closed- and open-source models across various agentic harnesses, revealing that even the most advanced frontier configurations still exhibit profound limitations when handling highly coupled, long-range tasks. Furthermore, a fine-grained analysis of existing agents' manipulation behaviors uncovers 3 key failure modes: long-term state tracking collapse, shallow semantic verification, and destructive editing of structural metadata. Ultimately, our work exposes the capability boundaries of agents in maintaining global document consistency, shedding light on the future design of robust, non-destructive agents for complex digital ecosystems."
+"Abstract  Simultaneous localization and mapping (SLAM) is one of the fundamental problems in robotics, as it enables autonomous operations in real-world scenarios. Under low illumination, reduced contrast, sensor noise, and motion blur degrade both feature extraction and feature matching, while compensating with LiDAR, depth, or thermal sensors raises cost, power draw, and integration complexity. Existing benchmarks remain dominated by well-lit indoor or daylight sequences, leaving open how far SLAM with standard RGB cameras can be pushed in the dark. We benchmark six systems spanning the feature-based, direct, filter-based, and learning-based paradigms - ORB-SLAM3, DSO, Kimera-VIO, OpenVINS, DPVO, and DPV-SLAM - on five LaMARia sequences of varying difficulty and illumination, reporting absolute and relative pose error alongside control-point recall. Kimera-VIO is the only system to track all five sequences to completion, combining the lowest relative pose error with steadily growing absolute error due to the absence of loop closure; DPVO and DPV-SLAM never lose tracking but incur absolute errors of roughly 100 m under low light; and the classical monocular pipelines (ORB-SLAM3, DSO) together with the filter-based OpenVINS fail outright or diverge on most of the harder and low-light sequences. The results suggest that RGB-only SLAM maintains stable low-light tracking only when both inertial fusion and global optimization are present. Closing the remaining gap will likely require low-light-specific learned front-ends or a return to complementary sensing."
 
-[23.07.2026 11:09] Response: ```python
-["AGI", "AGENT_MEMORY", "LONG_CONTEXT"]
-```
-[23.07.2026 11:09] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[23.07.2026 13:56] Response: []
+[23.07.2026 13:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workflow complexities. Based on DocOps, we systematically evaluate representative closed- and open-source models across various agentic harnesses, revealing that even the most advanced frontier configurations still exhibit profound limitations when handling highly coupled, long-range tasks. Furthermore, a fine-grained analysis of existing agents' manipulation behaviors uncovers 3 key failure modes: long-term state tracking collapse, shallow semantic verification, and destructive editing of structural metadata. Ultimately, our work exposes the capability boundaries of agents in maintaining global document consistency, shedding light on the future design of robust, non-destructive agents for complex digital ecosystems.
+Abstract  Simultaneous localization and mapping (SLAM) is one of the fundamental problems in robotics, as it enables autonomous operations in real-world scenarios. Under low illumination, reduced contrast, sensor noise, and motion blur degrade both feature extraction and feature matching, while compensating with LiDAR, depth, or thermal sensors raises cost, power draw, and integration complexity. Existing benchmarks remain dominated by well-lit indoor or daylight sequences, leaving open how far SLAM with standard RGB cameras can be pushed in the dark. We benchmark six systems spanning the feature-based, direct, filter-based, and learning-based paradigms - ORB-SLAM3, DSO, Kimera-VIO, OpenVINS, DPVO, and DPV-SLAM - on five LaMARia sequences of varying difficulty and illumination, reporting absolute and relative pose error alongside control-point recall. Kimera-VIO is the only system to track all five sequences to completion, combining the lowest relative pose error with steadily growing absolute error due to the absence of loop closure; DPVO and DPV-SLAM never lose tracking but incur absolute errors of roughly 100 m under low light; and the classical monocular pipelines (ORB-SLAM3, DSO) together with the filter-based OpenVINS fail outright or diverge on most of the harder and low-light sequences. The results suggest that RGB-only SLAM maintains stable low-light tracking only when both inertial fusion and global optimization are present. Closing the remaining gap will likely require low-light-specific learned front-ends or a return to complementary sensing.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[23.07.2026 11:09] Response: {
-  "desc": "This paper presents DocOps, a framework for evaluating how well autonomous agents can handle digital documents. It breaks down document operations into simpler parts and assesses various AI models to identify their weaknesses. The study finds that even advanced models struggle with complex tasks, revealing issues like poor long-term tracking and incorrect editing. The findings highlight the need for better-designed agents that can maintain document consistency in complex environments.",
-  "title": "Enhancing Document Handling in AI Agents"
+[23.07.2026 13:56] Response: {
+  "desc": "This paper addresses the challenges of simultaneous localization and mapping (SLAM) in low-light conditions, which can hinder feature extraction and matching. It evaluates six SLAM systems, including both traditional and learning-based approaches, on various sequences with different illumination levels. The findings reveal that Kimera-VIO performs best in low-light scenarios, while other systems struggle with tracking and pose accuracy. The study suggests that improving RGB-only SLAM in darkness may require advanced learned techniques or additional sensor integration.",
+  "title": "Enhancing SLAM Performance in Low-Light Conditions"
 }
-[23.07.2026 11:09] Using data from previous issue: {"categories": ["#training", "#inference", "#data", "#hallucinations", "#interpretability", "#ethics", "#agents"], "emoji": "🔍", "ru": {"title": "Объяснения в автоэнкодерах: истинность под угрозой", "desc": "В данной статье рассматривается использование автоэнкодеров на естественном языке для оценки
-[23.07.2026 11:09] Using data from previous issue: {"categories": ["#dataset", "#transfer_learning", "#synthetic", "#open_source", "#benchmark"], "emoji": "🛩️", "ru": {"title": "G-MAD: новый подход к аэродинамическому обнаружению объектов", "desc": "В данной работе представлен G-MAD, открытый фреймворк, который использует Arma3 для генерации синхрон
-[23.07.2026 11:09] Using data from previous issue: {"categories": ["#architecture", "#agents", "#alignment", "#dataset", "#robotics", "#open_source", "#reasoning"], "emoji": "🤖", "ru": {"title": "Эффективный захват объектов с SeededGrasp", "desc": "В статье представлена новая схема SeededGrasp, которая улучшает захват объектов роботами в сложных сце
-[23.07.2026 11:09] Using data from previous issue: {"categories": ["#3d"], "emoji": "🌌", "ru": {"title": "Эффективный 3D-синтез с адаптивными токенами", "desc": "Статья представляет новый метод под названием ATSplat для синтеза новых видов 3D-графики с использованием адаптивных 3D-токенов. Этот подход улучшает традиционный метод 3D Gaussian Splattin
-[23.07.2026 11:09] Renaming data file.
-[23.07.2026 11:09] Renaming previous data. hf_papers.json to ./d/2026-07-23.json
-[23.07.2026 11:09] Saving new data file.
-[23.07.2026 11:09] Generating page.
-[23.07.2026 11:09] Renaming previous page.
-[23.07.2026 11:09] Renaming previous data. index.html to ./d/2026-07-23.html
-[23.07.2026 11:09] Writing result.
-[23.07.2026 11:09] Renaming log file.
-[23.07.2026 11:09] Renaming previous data. log.txt to ./logs/2026-07-23_last_log.txt
+[23.07.2026 13:56] Renaming data file.
+[23.07.2026 13:56] Renaming previous data. hf_papers.json to ./d/2026-07-23.json
+[23.07.2026 13:56] Saving new data file.
+[23.07.2026 13:56] Generating page.
+[23.07.2026 13:56] Renaming previous page.
+[23.07.2026 13:56] Renaming previous data. index.html to ./d/2026-07-23.html
+[23.07.2026 13:56] Writing result.
+[23.07.2026 13:56] Renaming log file.
+[23.07.2026 13:56] Renaming previous data. log.txt to ./logs/2026-07-23_last_log.txt
