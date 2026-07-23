@@ -4,9 +4,9 @@
         "en": "July 23",
         "zh": "7月23日"
     },
-    "time_utc": "2026-07-23 02:35",
+    "time_utc": "2026-07-23 05:53",
     "weekday": 3,
-    "issue_id": 2883,
+    "issue_id": 2884,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
             "url": "https://huggingface.co/papers/2607.20145",
             "abstract": "Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.",
-            "score": 9,
+            "score": 28,
             "issue_id": 2883,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -25,7 +25,77 @@
             "hash": "bc7808635b7611bf",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Dongfang Li",
+                "Xiaodong Luo",
+                "Ruoyu Sun",
+                "Xuhui Chen",
+                "Linyuan Qiu",
+                "Jian Meng",
+                "Zhengxuan Lu",
+                "Yiting Wang",
+                "Yucheng Xie",
+                "Tao Guo",
+                "Tianxiang Fang",
+                "Jing Li",
+                "Sihang Chen",
+                "Shihao Hong",
+                "Chang Liu",
+                "Weihua Dai",
+                "Zirong Zeng",
+                "Ziwei Zhu",
+                "Zhuohan Wang",
+                "Zhengjun Yue",
+                "Igor Vasilyev",
+                "Min Liu",
+                "Weijian Sun",
+                "Xin Chen",
+                "Yingmeng Gao",
+                "Jinhua Zhou",
+                "Taolue Chen",
+                "Chenwei Wu",
+                "Dong Zhang",
+                "Wenlong Jin",
+                "Jinmin Xiang",
+                "Barkova Maria",
+                "Ushakov Anton",
+                "Xianfei Jin",
+                "Tian Ding",
+                "Zhihang Lin",
+                "Qian Chen",
+                "Linxin Yang",
+                "Mingzhe Yang",
+                "Bingwei Zhang",
+                "Hongzhang Yang",
+                "Fangxue Zhang",
+                "Shijun Qin",
+                "Jie Yu",
+                "Cuihua Hu",
+                "Tolstykh Vasiliy",
+                "Nosov Ivan",
+                "Abdullin Amir",
+                "Zhichen Zhou",
+                "Xin Zhang",
+                "Zhixiong Ning",
+                "Xutong Zhao",
+                "Junjie Huang",
+                "Jiajun Liu",
+                "Weiyan Kong",
+                "Zheng Zhang",
+                "Wenhan Luo",
+                "Lin Hu",
+                "Yangbo Guo",
+                "Li Zeng",
+                "Shihao Zeng",
+                "Baotian Hu",
+                "Min Zhang",
+                "Haizhou Li",
+                "Zhiquan Luo"
+            ],
+            "affiliations": [
+                "Shenzhen Loop Area Institute"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20145.jpg",
             "data": {
                 "categories": [
                     "#dataset",
@@ -49,6 +119,365 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.20368",
+            "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+            "url": "https://huggingface.co/papers/2607.20368",
+            "abstract": "Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.",
+            "score": 19,
+            "issue_id": 2884,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "ddf5613f128c3fe8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Junhao Zhuang",
+                "Shiyi Zhang",
+                "Yuxuan Bian",
+                "Yaowei Li",
+                "Yawen Luo",
+                "Yijun Liu",
+                "Weiyang Jin",
+                "Songchun Zhang",
+                "Xianglong He",
+                "Xuying Zhang",
+                "Haoran Li",
+                "Haoyang Huang",
+                "Zeyue Xue",
+                "Nan Duan"
+            ],
+            "affiliations": [
+                "Joy Future Academy, JD"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20368.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#diffusion",
+                    "#optimization",
+                    "#open_source",
+                    "#agent_memory",
+                    "#long_context",
+                    "#memory"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Улучшение генерации видео с помощью Self Gradient Forcing",
+                    "desc": "В данной статье рассматриваются методы диффузии видео на основе автогрессии с использованием концепции Self Forcing. Авторы предлагают новый подход под названием Self Gradient Forcing (SGF), который улучшает обучение, устраняя недостаток в сигнале супервизии, связанный с историческим градиентом контекста. SGF позволяет более эффективно записывать контекст в память при создании видео, что улучшает качество генерации. В результате, метод SGF демонстрирует лучшие результаты в экстраполяции видео продолжительностью до нескольких минут с использованием всего 5-секундного окна обучения."
+                },
+                "en": {
+                    "title": "Enhancing Video Generation with Self Gradient Forcing",
+                    "desc": "This paper introduces Self Gradient Forcing (SGF), a new training method for autoregressive video generation that addresses the historical context-gradient gap. SGF enhances the training process by allowing the model to learn from its own generated context without needing to backpropagate through the entire video sequence. The method consists of two passes: the first generates video frames while recording key information, and the second reconstructs context to improve future frame generation. Experiments show that SGF outperforms previous methods, achieving better consistency and stability in long videos with minimal training data."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.19747",
+            "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+            "url": "https://huggingface.co/papers/2607.19747",
+            "abstract": "Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization.",
+            "score": 4,
+            "issue_id": 2884,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "afa8ec3af1011b9f",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Kailin Jiang",
+                "Lei Liu",
+                "Jian Xi",
+                "Hui Xu",
+                "Junlin Liu",
+                "Baochen Fu",
+                "Shaoqing Ren",
+                "Bin Li",
+                "Vichwang",
+                "Yu Lu",
+                "Haibo Shi"
+            ],
+            "affiliations": [
+                "Shandong University",
+                "University of Chinese Academy of Sciences",
+                "University of Science and Technology of China",
+                "Yuanbao Team, Tencent"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.19747.jpg",
+            "data": {
+                "categories": [
+                    "#retrieval_eval",
+                    "#optimization",
+                    "#benchmark",
+                    "#evaluation"
+                ],
+                "emoji": "📄",
+                "ru": {
+                    "title": "Оптимизация оценки наборов документов для ИИ",
+                    "desc": "В статье рассматривается влияние качества наборов документов на эффективность генерации с использованием больших языковых моделей и агентов ИИ. Авторы предлагают новую структуру для оценки, диагностики и оптимизации наборов документов, включая систему SetwiseEvalKit с около 28 тысячами оценочных критериев. Проведенные эксперименты показывают, что существующие методы повторной сортировки не достигают высоких результатов в оценке взаимодействия между документами. В качестве решения предлагается метод Rubric4Setwise, который преобразует оценочные критерии в сигналы для выбора наборов документов, достигая наилучших результатов генерации при меньших объемах данных."
+                },
+                "en": {
+                    "title": "Revolutionizing Document Set Evaluation for AI",
+                    "desc": "This paper addresses the limitations of current document set evaluation methods in machine learning, particularly for large language models and AI agents. It introduces a new framework called SetwiseEvalKit, which evaluates document sets based on inter-document interactions and provides a comprehensive benchmark with 28K evaluation rubrics. The authors evaluate various reranking methods and find that existing techniques struggle with cross-document coordination. They propose Rubric4Setwise, a novel approach that translates evaluation criteria into effective document selection signals, achieving superior performance in generating results with fewer documents."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.16165",
+            "title": "An Exam for Active Observers",
+            "url": "https://huggingface.co/papers/2607.16165",
+            "abstract": "Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than a single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code: such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perception-reasoning loop.",
+            "score": 4,
+            "issue_id": 2884,
+            "pub_date": "2026-07-17",
+            "pub_date_card": {
+                "ru": "17 июля",
+                "en": "July 17",
+                "zh": "7月17日"
+            },
+            "hash": "93b4c215b5567e95",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Jiarui Zhang",
+                "Muzi Tao",
+                "Shangshang Wang",
+                "Ollie Liu",
+                "Xuezhe Ma",
+                "Willie Neiswanger"
+            ],
+            "affiliations": [
+                "University of Southern California"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.16165.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#training",
+                    "#benchmark",
+                    "#architecture",
+                    "#interpretability",
+                    "#reasoning"
+                ],
+                "emoji": "👁️",
+                "ru": {
+                    "title": "Обнаружение недостатков в активном восприятии мультимодальных моделей",
+                    "desc": "В данной статье обсуждается, как современные мультимодальные большие языковые модели (MLLM) осуществляют активное наблюдение, которое является важным аспектом человеческого зрения. Исследователи предлагают новый бенчмарк под названием ActiveVision, позволяющий измерить активное наблюдение, который включает 17 задач в 3 категориях. Текущие модели не справляются с задачами ActiveVision, что указывает на недостатки их способности к активному восприятию. Результаты показывают, что MLLM требуют доработки архитектуры и целей обучения для улучшения процесса восприятия и рассуждения."
+                },
+                "en": {
+                    "title": "Bridging the Gap: Enhancing MLLMs with Active Visual Observation",
+                    "desc": "This paper explores the concept of active observation in human vision and its implications for multimodal large language models (MLLMs). It introduces ActiveVision, a benchmark designed to measure how well MLLMs can perform tasks that require repeated visual perception rather than relying on a single static view. The results show that leading MLLMs, including GPT-5.5 and Claude Fable 5, struggle significantly with these tasks, achieving low success rates compared to human participants. The findings suggest that current MLLMs do not effectively incorporate active visual observation, highlighting the need for new architectures and training methods to enhance their perception-reasoning capabilities."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.10169",
+            "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
+            "url": "https://huggingface.co/papers/2607.10169",
+            "abstract": "Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves a favorable bias-variance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24).",
+            "score": 4,
+            "issue_id": 2884,
+            "pub_date": "2026-07-11",
+            "pub_date_card": {
+                "ru": "11 июля",
+                "en": "July 11",
+                "zh": "7月11日"
+            },
+            "hash": "31eb03acae9ac278",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhicheng Cai",
+                "Xinyuan Guo",
+                "Hanlin Wu",
+                "Mingxuan Wang",
+                "Wei-Ying Ma",
+                "Ya-Qin Zhang",
+                "Hao Zhou"
+            ],
+            "affiliations": [
+                "ByteDance Seed",
+                "Institute for AI Industry Research (AIR), Tsinghua University",
+                "SIA-Lab of Tsinghua AIR and ByteDance Seed"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.10169.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#rl",
+                    "#benchmark",
+                    "#optimization",
+                    "#rlhf",
+                    "#reasoning"
+                ],
+                "emoji": "🎮",
+                "ru": {
+                    "title": "Оптимизация политики с учетом геометрии",
+                    "desc": "В данной статье рассматриваются ограничения алгоритмов обучения с подкреплением (RL) на основе метода PPO-Clip, которые могут приводить к исчезновению исследований. Основная причина неэффективности заключается в том, что PPO-Clip использует евклидMetric для измерения различий в политике, что несовместимо с геометрией римановой многообразия. В результате этого возникает избыточная консервативность обновлений в областях с низкой вероятностью. Авторы предлагают метод Riemannian Isometric Policy Optimization (RIPO), который обеспечивает изометрические обновления политики и улучшает баланс между исследованием и эксплуатацией."
+                },
+                "en": {
+                    "title": "RIPO: Balancing Exploration and Exploitation in RL for LLMs",
+                    "desc": "This paper addresses the limitations of reinforcement learning (RL) algorithms, specifically PPO-Clip, in enhancing the reasoning capabilities of large language models (LLMs). It identifies a fundamental flaw in PPO-Clip's approach to measuring policy discrepancy, which leads to ineffective exploration strategies. The authors propose a new method called Riemannian Isometric Policy Optimization (RIPO) that corrects this flaw by ensuring policy updates are consistent with the geometry of the policy space. RIPO not only stabilizes optimization but also significantly improves performance on various benchmarks compared to existing RL algorithms."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.13429",
+            "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
+            "url": "https://huggingface.co/papers/2607.13429",
+            "abstract": "Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io",
+            "score": 3,
+            "issue_id": 2884,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "4871e1e4a56a25da",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Dwip Dalal",
+                "Shivansh Patel",
+                "Chahit Jain",
+                "Jeonghwan Kim",
+                "Utkarsh Mishra",
+                "Alex Baratian",
+                "Hyeonjeong Ha",
+                "Heng Ji",
+                "Svetlana Lazebnik",
+                "Unnat Jain"
+            ],
+            "affiliations": [
+                "Texas A&M University",
+                "University of California, Irvine",
+                "University of Illinois Urbana-Champaign"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13429.jpg",
+            "data": {
+                "categories": [
+                    "#agi",
+                    "#training",
+                    "#optimization",
+                    "#agents",
+                    "#robotics"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новая эра взаимодействия: улучшение робототехники через Anchor-Align",
+                    "desc": "Статья предлагает метод Anchor-Align для улучшения работы модели, связывающей визуальные и языковые данные с действиями робота. Этот подход предотвращает ухудшение предварительно обученных представлений, которое наблюдается при использовании традиционного обучения на демонстрациях робота. Anchor-Align использует две цели: якорную привязку визуально-языковых данных и согласование языковых действий, что позволяет совместно обучать предсказание действий и языка. В результате на физическом роботе xArm7 наблюдаются значительные улучшения в успехе выполнения задач."
+                },
+                "en": {
+                    "title": "Aligning Vision and Action for Better Robot Learning",
+                    "desc": "This paper introduces Anchor-Align, a method to improve the finetuning of vision-language models (VLMs) for robot demonstrations using behavior cloning (BC). The authors highlight that traditional BC can overwrite important pretrained representations, leading to misalignment between language and actions. Anchor-Align addresses this by using Vision-Language Anchoring to maintain layer-wise representations and Language-Action Alignment to train language and action predictions together. The results show significant improvements in real-robot success rates and robustness in various scenarios, indicating that effective action learning can coexist with preserving pretrained knowledge."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.19790",
+            "title": "Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning",
+            "url": "https://huggingface.co/papers/2607.19790",
+            "abstract": "Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a taxonomy-guided environment for multidomain visual reasoning. Trace factorizes task construction into a scene grammar and an executable task program, separating visual realization from answer computation. A shared semantic state determines the rendered image, prompt, typed answer, verifier state, and replayable instance trace. The resulting environment comprises 1,000 tasks over 277 scene grammars and 11 visual domains, with controlled semantic and visual variation. RLVR on 64,000 Trace instances improves the macro-average across 24 external benchmarks by 3.51 percentage points for Qwen2.5-VL-3B and 4.06 points for Qwen2.5-VL-7B, providing evidence that broad procedural training can transfer beyond the generated task distributions. Project page: https://maveryn.github.io/trace/.",
+            "score": 2,
+            "issue_id": 2884,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "9494143857512c8c",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Md Tanvirul Alam"
+            ],
+            "affiliations": [
+                "Rochester Institute of Technology, Rochester, NY, USA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.19790.jpg",
+            "data": {
+                "categories": [
+                    "#rl",
+                    "#transfer_learning",
+                    "#benchmark",
+                    "#dataset",
+                    "#reasoning"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Новая эволюция визуального рассуждения",
+                    "desc": "В данной статье представлено новое окружение для многодоменного визуального рассуждения, называемое Trace. Оно разделяет построение задач на грамматику сцен и исполняемую программу задач, что позволяет отделить визуализацию от вычисления ответов. Окружение включает 1000 задач, основанных на 277 грамматиках сцен и 11 визуальных доменах, с контролируемыми семантическими и визуальными вариациями. Использование RLVR на 64,000 экземплярах Trace улучшает результаты на 24 внешних бенчмарках для моделей Qwen2.5-VL-3B и Qwen2.5-VL-7B."
+                },
+                "en": {
+                    "title": "Enhancing Visual Reasoning with Trace: A New Approach",
+                    "desc": "This paper presents Trace, a new environment designed for improving visual reasoning in language models using reinforcement learning with verifiable rewards (RLVR). Trace organizes tasks using a scene grammar and an executable task program, which helps separate how images are created from how answers are computed. The environment includes 1,000 tasks across various visual domains, allowing for controlled variations in both semantics and visuals. The results show that training on Trace significantly enhances performance on external benchmarks for language models, demonstrating the effectiveness of broad procedural training."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.16190",
+            "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+            "url": "https://huggingface.co/papers/2607.16190",
+            "abstract": "Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present , a training-free sparse-attention system that improves the distributed execution efficiency of adaptive sparse attention under multi-GPU sequence parallelism.  uses Top-p routing, a Top-k safety floor, and video-aware block organization as the sparse-routing frontend, then repairs the materialized mask at runtime. Runtime Load Balancing migrates a small number of heavy heads via P2P communication to shorten the current critical path. Slack-Aware Sparse Augmentation fills residual non-critical-rank slack with additional high-value blocks, while overlap hides scheduling and migration overhead behind existing computation. On step-distilled Wan2.2 I2V,  reduces average load imbalance from 1.34 to 1.08 and delivers a 4.41times attention speedup over FlashAttention, while achieving a 2.02--2.11times DiT inference speedup with competitive video quality.",
+            "score": 2,
+            "issue_id": 2884,
+            "pub_date": "2026-07-17",
+            "pub_date_card": {
+                "ru": "17 июля",
+                "en": "July 17",
+                "zh": "7月17日"
+            },
+            "hash": "d5b70ab333257c89",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hao Liu",
+                "Chenghuan Huang",
+                "Ye Huang",
+                "Zhiying Wen",
+                "Hao Liu",
+                "Mohan Zhang",
+                "Chen Li",
+                "Ziyang Ma",
+                "Jing Lyu",
+                "Jiangsu Du"
+            ],
+            "affiliations": [
+                "Peking University",
+                "Sun Yat-sen University",
+                "WeChat HPC, Tencent Inc.",
+                "WeChat Vision, Tencent Inc."
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.16190.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#inference",
+                    "#optimization",
+                    "#architecture",
+                    "#diffusion"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Эффективное воспроизведение видео с помощью Sparse-Attention",
+                    "desc": "Статья обсуждает систему Sparse-Attention для эффективной генерации видео, которая использует адаптивное маршрутизирование Top-p. Данная система уменьшает неравномерность нагрузки при работе с многими графическими процессорами, что является проблемой для высокоразрешенных видео. Также внедряются механизмы сбалансировки нагрузки и выделения ресурсов для ускорения вычислений. В результате достигается значительное улучшение скорости обработки с конкурентным качеством видео."
+                },
+                "en": {
+                    "title": "Boosting Video Generation Efficiency with Sparse Attention",
+                    "desc": "This paper introduces a new system for improving the efficiency of sparse attention in video generation using multi-GPU setups. It addresses the issue of uneven workloads caused by adaptive Top-p routing, which can lead to delays in processing. The proposed method includes techniques like runtime load balancing and slack-aware sparse augmentation to optimize performance. As a result, the system achieves significant speedups in attention processing while maintaining high video quality."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.19691",
             "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
             "url": "https://huggingface.co/papers/2607.19691",
@@ -64,7 +493,17 @@
             "hash": "9a63b0bf74a588d4",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Runyang You",
+                "Zhiyuan Liu",
+                "Yongqi Li",
+                "Wenjie Li"
+            ],
+            "affiliations": [
+                "Sichuan University",
+                "The Hong Kong Polytechnic University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.19691.jpg",
             "data": {
                 "categories": [
                     "#rlhf",
@@ -85,6 +524,50 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.20379",
+            "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+            "url": "https://huggingface.co/papers/2607.20379",
+            "abstract": "Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51).",
+            "score": 0,
+            "issue_id": 2884,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "efa55585842de96c",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hiskias Dingeto"
+            ],
+            "affiliations": [
+                "StackOne Technologies"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20379.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#inference",
+                    "#data",
+                    "#hallucinations",
+                    "#interpretability",
+                    "#ethics",
+                    "#agents"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Объяснения в автоэнкодерах: истинность под угрозой",
+                    "desc": "В данной статье рассматривается использование автоэнкодеров на естественном языке для оценки объяснений скрытых активаций через реконструкцию. Объяснение считается достоверным, если активация может быть восстановлена из него. Однако, исследование показывает, что данный тест не всегда выявляет недостоверные утверждения, и большинство из них не штрафуется. Для повышения интерпретируемости и безопасности ИИ предложены новые протоколы аудита и метод RECAP, позволяющий независимо проверять внутреннее содержимое модели."
+                },
+                "en": {
+                    "title": "Enhancing AI Interpretability and Safety with RECAP",
+                    "desc": "This paper discusses the limitations of natural-language autoencoders in providing faithful explanations of hidden activations through reconstruction. It reveals that the current scoring method can overlook inaccuracies in individual claims, as it focuses on the overall gist rather than specific details. The authors introduce two new audit protocols and a method called RECAP, which improves the decodability of designated content while maintaining model integrity. Ultimately, RECAP enhances interpretability and AI safety by allowing independent verification of internal content against probes, effectively identifying false claims."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.19942",
             "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
             "url": "https://huggingface.co/papers/2607.19942",
@@ -100,7 +583,18 @@
             "hash": "c22e769cf0337a14",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Yechan Kim",
+                "JongHyun Park",
+                "Dongho Yoon",
+                "Namhoon Jung",
+                "Moongu Jeon"
+            ],
+            "affiliations": [
+                "GIST Republic of Korea",
+                "LIG Defense&Aerospace Republic of Korea"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.19942.jpg",
             "data": {
                 "categories": [
                     "#dataset",
@@ -136,7 +630,21 @@
             "hash": "5cb9b4ddfac1bcee",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Yang Xu",
+                "Gurpreet Singh Mukker",
+                "Raymond Wang",
+                "Jasper Gerigk",
+                "Maria Attarian",
+                "Igor Gilitschenski"
+            ],
+            "affiliations": [
+                "Google Deepmind",
+                "University of British Columbia",
+                "University of Toronto",
+                "Vector Institute"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20207.jpg",
             "data": {
                 "categories": [
                     "#architecture",
@@ -174,7 +682,18 @@
             "hash": "97d0a8fcbf369b7a",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Cho In",
+                "Jeonghwan Cho",
+                "Mijin Yoo",
+                "Gim Hee Lee",
+                "Seon Joo Kim"
+            ],
+            "affiliations": [
+                "National University of Singapore, Singapore",
+                "Yonsei University, South Korea"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20417.jpg",
             "data": {
                 "categories": [
                     "#3d"
@@ -205,47 +724,47 @@
         "zh": "7月24日"
     },
     "categories": {
-        "#dataset": 3,
-        "#data": 0,
-        "#benchmark": 1,
-        "#agents": 1,
-        "#rl": 1,
-        "#rlhf": 1,
+        "#dataset": 4,
+        "#data": 1,
+        "#benchmark": 5,
+        "#agents": 3,
+        "#rl": 3,
+        "#rlhf": 2,
         "#rag": 0,
         "#plp": 0,
-        "#inference": 1,
+        "#inference": 3,
         "#3d": 1,
         "#audio": 0,
-        "#multimodal": 0,
+        "#multimodal": 1,
         "#math": 1,
         "#multilingual": 0,
-        "#architecture": 1,
+        "#architecture": 3,
         "#healthcare": 0,
-        "#training": 2,
-        "#robotics": 1,
-        "#agi": 0,
+        "#training": 8,
+        "#robotics": 2,
+        "#agi": 1,
         "#games": 0,
-        "#interpretability": 0,
-        "#reasoning": 3,
-        "#transfer_learning": 1,
+        "#interpretability": 2,
+        "#reasoning": 6,
+        "#transfer_learning": 2,
         "#graphs": 0,
-        "#ethics": 0,
+        "#ethics": 1,
         "#security": 0,
-        "#optimization": 2,
+        "#optimization": 7,
         "#survey": 0,
-        "#diffusion": 0,
+        "#diffusion": 2,
         "#alignment": 1,
         "#story_generation": 0,
-        "#hallucinations": 0,
-        "#long_context": 0,
+        "#hallucinations": 1,
+        "#long_context": 1,
         "#synthetic": 2,
         "#machine_translation": 0,
         "#leakage": 0,
-        "#open_source": 2,
+        "#open_source": 3,
         "#small_models": 0,
         "#science": 0,
         "#low_resource": 0,
-        "#memory": 0,
+        "#memory": 1,
         "#retrieval": 0,
         "#prompting": 0,
         "#context_window": 0,
@@ -253,10 +772,11 @@
         "#memorization": 0,
         "#continual_learning": 1,
         "#knowledge_graphs": 0,
-        "#retrieval_eval": 0,
+        "#retrieval_eval": 1,
         "#prompt_caching": 0,
         "#session_memory": 0,
         "#tool_use": 0,
-        "#agent_memory": 0
+        "#agent_memory": 1,
+        "#evaluation": 1
     }
 }
