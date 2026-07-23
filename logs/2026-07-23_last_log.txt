@@ -1,51 +1,244 @@
-[22.07.2026 22:04] Read previous papers.
-[22.07.2026 22:04] Generating top page (month).
-[22.07.2026 22:04] Writing top page (month).
-[23.07.2026 02:35] Read previous papers.
-[23.07.2026 02:35] Get feed.
-[23.07.2026 02:35] Extract page data from URL. URL: https://huggingface.co/papers/2607.20145
-[23.07.2026 02:35] Extract page data from URL. URL: https://huggingface.co/papers/2607.19691
-[23.07.2026 02:35] Extract page data from URL. URL: https://huggingface.co/papers/2607.19942
-[23.07.2026 02:35] Extract page data from URL. URL: https://huggingface.co/papers/2607.20207
-[23.07.2026 02:35] Extract page data from URL. URL: https://huggingface.co/papers/2607.20417
-[23.07.2026 02:35] Updating GitHub stars.
-[23.07.2026 02:35] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[23.07.2026 02:35] Downloading and parsing papers (pdf, html). Total: 5.
-[23.07.2026 02:35] Downloading and parsing paper https://huggingface.co/papers/2607.20145.
-[23.07.2026 02:37] Failed to download and parse paper https://huggingface.co/papers/2607.20145: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2607.20145&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
-[23.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.19691.
-[23.07.2026 02:40] Failed to download and parse paper https://huggingface.co/papers/2607.19691: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2607.19691&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
-[23.07.2026 02:40] Downloading and parsing paper https://huggingface.co/papers/2607.19942.
-[23.07.2026 02:42] Failed to download and parse paper https://huggingface.co/papers/2607.19942: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2607.19942&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
-[23.07.2026 02:42] Downloading and parsing paper https://huggingface.co/papers/2607.20207.
-[23.07.2026 02:43] Failed to download and parse paper https://huggingface.co/papers/2607.20207: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2607.20207&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
-[23.07.2026 02:43] Downloading and parsing paper https://huggingface.co/papers/2607.20417.
-[23.07.2026 02:43] Failed to download and parse paper https://huggingface.co/papers/2607.20417: 
-[23.07.2026 02:43] Enriching papers with extra data.
-[23.07.2026 02:43] ********************************************************************************
-[23.07.2026 02:43] Abstract 0. Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM tra...
-[23.07.2026 02:43] ********************************************************************************
-[23.07.2026 02:43] Abstract 1. Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning...
-[23.07.2026 02:43] ********************************************************************************
-[23.07.2026 02:43] Abstract 2. Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and hig...
-[23.07.2026 02:43] ********************************************************************************
-[23.07.2026 02:43] Abstract 3. Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp direc...
-[23.07.2026 02:43] ********************************************************************************
-[23.07.2026 02:43] Abstract 4. Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which ...
-[23.07.2026 02:43] Read previous papers.
-[23.07.2026 02:43] Generating reviews via LLM API.
-[23.07.2026 02:43] Querying the API.
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.07.2026 02:44] Read previous papers.
+[23.07.2026 02:44] Generating top page (month).
+[23.07.2026 02:44] Writing top page (month).
+[23.07.2026 05:53] Read previous papers.
+[23.07.2026 05:53] Get feed.
+[23.07.2026 05:53] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20145
+[23.07.2026 05:53] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20145
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.20368
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.19747
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.16165
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.10169
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.13429
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.19790
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.16190
+[23.07.2026 05:53] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19691
+[23.07.2026 05:53] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19691
+[23.07.2026 05:53] Extract page data from URL. URL: https://huggingface.co/papers/2607.20379
+[23.07.2026 05:53] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19942
+[23.07.2026 05:53] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19942
+[23.07.2026 05:53] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20207
+[23.07.2026 05:53] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20207
+[23.07.2026 05:53] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20417
+[23.07.2026 05:53] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20417
+[23.07.2026 05:53] Updating GitHub stars.
+[23.07.2026 05:53] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[23.07.2026 05:53] No deleted papers detected.
+[23.07.2026 05:53] Downloading and parsing papers (pdf, html). Total: 13.
+[23.07.2026 05:53] Downloading and parsing paper https://huggingface.co/papers/2607.20145.
+[23.07.2026 05:53] Downloading paper 2607.20145 from https://arxiv.org/pdf/2607.20145v1...
+[23.07.2026 05:53] Extracting affiliations from text.
+[23.07.2026 05:53] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.
-[23.07.2026 02:43] Response: ```json
-{
-  "desc": "В данной работе рассматриваются проблемы, связанные с пост-тренировкой моделей MoE на триллионных параметрах. Авторы разработали иерархическую оптимизационную структуру для повышения эффективности распределенного обучения на NPU, что позволяет значительно улучшить использование вычислительных ресурсов. Применение системы SLAI T-Rex в задачах Операционных Исследований позволяет создавать высококачественные наборы данных и тренировать специализированные модели. Итоговые результаты показывают, что новый подход обеспечивает лучшие показатели точности по сравнению с существующими моделями.",
-  "emoji": "🚀",
-  "title": "Эффективная тренировка триллионных моделей для сложного размышления"
-}
+Text:"SLAI2 Training Platform Technical Report (Part I) SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD AI Training Platform Team, Shenzhen Loop Area Institute Models Codes "
+[23.07.2026 05:53] Response: []
+[23.07.2026 05:53] Extracting affiliations from text.
+[23.07.2026 05:53] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"SLAI2 Training Platform Technical Report (Part I) SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD AI Training Platform Team, Shenzhen Loop Area Institute Models CodesFull-parameter post-training of trillion-parameter-scale Mixture-of-Experts (MoE) models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop hierarchical optimization framework spanning model-level parallelism, computationcommunication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with 2.93 improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish Continued Pre-Training (CPT) and Supervised Fine-Tuning (SFT) workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex, which couples full-stack Ascend SuperPOD optimization with solver-grounded CPT-SFT specialization. OR modeling is selected as the target domain because it jointly requires mathematical formulation, structured reasoning, and code generation. Using DeepSeek-V4-Flash as the specialization platform, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Further evaluation indicates that CPT establishes transferable OR-domain modeling priors, improving both solver-facing feasibility and structural equivalence after SFT. Overall, this work demonstrates full-stack pathway from efficient trillion-parameter model post-training on Ascend infrastructure to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning. Figure 1: (a) MFU improvements during DeepSeek-V4-Pro (1.6T) training on Ascend SuperPOD. Starting from open-sourced recipes, optimized parallelism, NPU-CPU co-optimization, and kernel optimization increase MFU from 11.67% to 34.22%. (b) Overall accuracy, computed as the mean of NL4OPT (Ramamonjison et al., 2022), OptiBench (Yang et al., 2025c), Bench4Opt (B4O) -Feasible (Wang et al., 2025b), and Bench4Opt (B4O)-ORGEval (Wang et al., 2025b). SLAI TRex achieves the highest overall score while using smaller disclosed activated-parameter budget. CONTENTS1 Introduction 2 Training Infrastructure on Ascend CloudMatrix384 SuperPOD 2.1 Bottlenecks of Training Trillion-parameter LLM on Ascend SuperPOD . . . . . . . . 2.2 Optimizing Trillion-parameter LLM Training System on Ascend SuperPOD . . . . . 2.3 Kernel Optimization for Accelerated LLM Training . . . . . . . . . . . . . . . . . . . 2.3.1 Bottleneck Kernel Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.3.2 AuraKernel: Performance Optimization Agent for Complex Ascend Kernels 2.3.3 Ascend NPU-aware Kernel Fusion and Rewrite . . . . . . . . . . . . . . . . . 3 OR-Oriented Post-Training Workflow 3.1 Capability Boundary Analysis of the Original Checkpoint . . . . . . . . . . . . . . . . 3.1.1 Benchmark-Level Signal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.1.2 Error Spectrum Across Settings . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.1.3 Inference-Setting Shift . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.1.4 Two-Stage Training Adaptation: Why Both CPT and SFT . . . . . . . . . . . . 3.2 OR-Oriented Continued Pre-Training . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.2.1 OR-CPT Data Construction and Domain-Dominant Mixture . . . . . . . . . . 3.2.2 Training Execution in the Ascend Ecosystem . . . . . . . . . . . . . . . . . . . 3.2.3 Checkpoint Selection and CPT-to-SFT Transfer Validation . . . . . . . . . . . 3.3 Data-Efficient Supervised Fine-Tuning for Operations Research . . . . . . . . . . . . 3.3.1 Solver-Oriented SFT Objective . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.3. Self-Distilled OR Modeling Data Flywheel . . . . . . . . . . . . . . . . . . . . 3.3.3 Contract-Aware Cleaning and CoT Enhancement . . . . . . . . . . . . . . . . 3.3.4 Progressive SFT with General Capability Anchoring . . . . . . . . . . . . . . . 3.4 AI-Assisted Data Construction and Refinement . . . . . . . . . . . . . . . . . . . . . .4.1 Efficient Kernels via AuraKernel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.2 Performance Improvements from Kernel Fusion . . . . . . . . . . . . . . . . . . . . . 4.3 Long-term Training Stability with Ascend SuperPOD . . . . . . . . . . . . . . . . . . 4.4 SFT Scaling and Cleaning Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.5 Effect of CPT Initialization under Matched SFT Conditions . . . . . . . . . . . . . . . 4.6 Performance of the Proposed Post-Training Pipeline . . . . . . . . . . . . . . . . . . . 5 Conclusion, Limitations, and Future Directions References Appendix 2 5 6 8 11 11 18 23 24 24 25 27 28 28 30 30 31 32 33 34 34 36 38 41 41 43 46 47 59 CONTENTS Author List Post-training Recipe Details Solver-Verified OR-CPT Data Synthesis: Engine Design and Illustrative Cases C.1 Role in the post-training workflow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C.2 End-to-end engine architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C.3 Mathematical seeds and domain contracts . . . . . . . . . . . . . . . . . . . . . . . . . C.4 Prompt-controlled bidirectional synthesis . . . . . . . . . . . . . . . . . . . . . . . . . C.5 Controlled scenarios and CPT rendering . . . . . . . . . . . . . . . . . . . . . . . . . . C.6 Illustrative case I: capacitated facility location . . . . . . . . . . . . . . . . . . . . . . . C.7 Illustrative case II: executable but structurally wrong models . . . . . . . . . . . . "
+[23.07.2026 05:53] Response: ```python
+["Shenzhen Loop Area Institute"]
 ```
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 05:53] Deleting PDF ./assets/pdf/2607.20145.pdf.
+[23.07.2026 05:53] Success.
+[23.07.2026 05:53] Downloading and parsing paper https://huggingface.co/papers/2607.20368.
+[23.07.2026 05:53] Downloading paper 2607.20368 from https://arxiv.org/pdf/2607.20368v1...
+[23.07.2026 05:53] Extracting affiliations from text.
+[23.07.2026 05:53] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"SELF GRADIENT FORCING: NATIVE LONG VIDEO EXTRAPOLATION Joy Future Academy, JD "
+[23.07.2026 05:53] Response: ```python
+["Joy Future Academy, JD"]
+```
+[23.07.2026 05:53] Deleting PDF ./assets/pdf/2607.20368.pdf.
+[23.07.2026 05:53] Success.
+[23.07.2026 05:53] Downloading and parsing paper https://huggingface.co/papers/2607.19747.
+[23.07.2026 05:53] Downloading paper 2607.19747 from https://arxiv.org/pdf/2607.19747v1...
+[23.07.2026 05:53] Extracting affiliations from text.
+[23.07.2026 05:53] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking Kailin Jiang1,2,* Lei Liu1, Jian Xi2 Hui Xu2 Junlin Liu3 Baochen Fu Shaoqing Ren1 Bin Li1 Vichwang2 Yu Lu2 Haibo Shi2 1University of Science and Technology of China 3University of Chinese Academy of Sciences 2Yuanbao Team, Tencent 4Shandong University "
+[23.07.2026 05:53] Response: ```python
+["University of Science and Technology of China", "University of Chinese Academy of Sciences", "Yuanbao Team, Tencent", "Shandong University"]
+```
+[23.07.2026 05:53] Deleting PDF ./assets/pdf/2607.19747.pdf.
+[23.07.2026 05:53] Success.
+[23.07.2026 05:53] Downloading and parsing paper https://huggingface.co/papers/2607.16165.
+[23.07.2026 05:53] Downloading paper 2607.16165 from https://arxiv.org/pdf/2607.16165v1...
+[23.07.2026 05:53] Extracting affiliations from text.
+[23.07.2026 05:53] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Jiarui Zhang*, Muzi Tao*, Shangshang Wang*, Ollie Liu, Xuezhe Ma, Willie Neiswanger University of Southern California *Equal contribution Human vision is closed loop: gaze is continuously redirected by intermediate hypotheses rather than single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for wide range of tasks. Whether todays multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code. Such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perceptionreasoning loop. Website GitHub Dataset Figure 1: Seeing is not always single-glance task. Many visual problems require an observer to coordinate attention and memory across an image: scanning exhaustively for distributed evidence, following connected structures without losing track, and comparing fine-grained attributes across distant regions. ActiveVision turns these abilities into controlled test of whether MLLMs can keep visual evidence in the reasoning loop. 1. Introduction Try the th"
+[23.07.2026 05:54] Response: ```python
+["University of Southern California"]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.16165.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.10169.
+[23.07.2026 05:54] Downloading paper 2607.10169 from https://arxiv.org/pdf/2607.10169v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization Zhicheng Cai 1 2 3 Xinyuan Guo 1 3 Hanlin Wu 1 2 3 Mingxuan Wang 2 3 Wei-Ying Ma 1 3 Ya-Qin Zhang 1 3 Hao Zhou 1 3 * "
+[23.07.2026 05:54] Response: []
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization Zhicheng Cai 1 2 3 Xinyuan Guo 1 3 Hanlin Wu 1 2 3 Mingxuan Wang 2 3 Wei-Ying Ma 1 3 Ya-Qin Zhang 1 3 Hao Zhou 1 3 *Reinforcement learning (RL) has become dominant paradigm for enhancing LLMs reasoning capabilities. However, RL algorithms with PPOClip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clips failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves favorable biasvariance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24). 1. Introduction Reinforcement learning (RL) has emerged as central paradigm for enhancing the reasoning capabilities of large language models (LLMs) (Guo et al., 2025; Comanici et al., 2025; OpenAI, 2024). It has demonstrated remarkable success in domains requiring long-horizon decision-making, such as mathematical reasoning (Shao et al., 2024; Wang 1Institute for AI Industry Research (AIR), Tsinghua University 2ByteDance Seed 3SIA-Lab of Tsinghua AIR and ByteDance Seed. Correspondence to: Hao Zhou <zhouhao@air.tsinghua.edu.cn>. Proceedings of the 43 rd International Conference on Machine Learning, Seoul, South Korea. PMLR 306, 2026. Copyright 2026 by the author(s). et al., 2024; Luo et al., 2025), and so on (OpenAI, 2025; Jin et al., 2025; Dou et al., 2024; Anthropic, 2024). Despite these advances, the PPO-Clip (Schulman et al., 2017) used in modern LLM RL algorithms (Guo et al., 2025) incurs critical issue: exploration collapse (Yu et al., 2025). Specifically, PPO-Clip makes the policy rapidly concentrates on narrow set of high-probability actions during training, thus rare but vital actions are unexplored, severely suppressing model performance. This is especially devastating in long-horizon reasoning tasks, where the stateaction space is extremely vast, thus extensive exploration is indispensable to discover feasible solution. Ultimately, exploration collapse hinders further scaling progress of RL, stifling the potential in increasingly challenging tasks. Subsequent works (Yang et al., 2025b; Zheng et al., 2025) provide symptomatic fixes without identifying the root cause of PPO-Clips failure. For example, DAPO (Yu et al., 2025) raises the clipping boundary to encourage exploration. While yielding empirical gains, they remain heuristic within the PPO-Clip framework, offering limited theoretical understanding and leaving exploration collapse unresolved. In this work, we discover the fundamental flaw of PPO-Clip lies in the geometric mismatch between Euclidean metric and Riemannian manifold. Specifically, PPO-Clip implicitly measures policy discrepancy using Euclidean metric on the importance ratio, treating equal ratio deviations as equal policy changes. However, the intrinsic discrepancy between policies is governed by the Kullback-Leibler (KL) divergence (Schulman et al., 2015), which induces Riemannian geometry on the statistical manifold of policies. This geometric mismatch leads to pathological update behavior: updates for low-probability actions consume almost no KL budget thus become overly conservative, while updates for high-probability actions are disproportionately aggressive. Consequently, rare but informative actions are systematically under-updated, causing premature policy concentration and eventual exploration collapse. To correct the mismatch, we propose Riemannian Isometric Policy Optimization (RIPO), theoretically grounded RL algorithm that fundamentally reinterprets policy updates on Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization the Riemannian manifold. By dynamically adapting the clipping boundary to the local Riemannian geometry, RIPO permits larger updates for low-probability actions while constraining updates for high-probability actions. This isometric policy update balances exploration and exploitation, significantly improving the model performance, particularly in long-horizon tasks that require sustained exploration. In addition, such geometric isometry induces statistical homoscedasticity, leading to favorable biasvariance tradeoff and enabling more stable policy optimization. In summary, our contributions are threefold: We identify fundamental geometric mismatch of PPOClip, showing that its Euclidean clipping is incompatible with the intrinsic Riemannian manifold, leading to pathological updates and exploration collapse. We propose Riemannian Isometric Policy Optimization (RIPO), theoretically grounded RL algorithm that enforces isometric updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO induces favorable bias variance trade-off. We conduct extensive experiments across various LLMs and competition-level benchmarks. RIPO significantly outperforms existing RL algorithms, achieving up to 60% relative improvement over GRPO on AIME24, demonstrating its superiority and efficacy in enhancing reasoning performance. 2. Preliminary 2.1. Trust Region Policy Optimization Trust Region Policy Optimization (TRPO) (Schulman et al., 2015) theoretically establishes that optimizing the surrogate objective under KL-divergence constraint (the trust region) between the target policy πθ and the behavior policy πθold guarantees monotonic policy improvement. Specifically, Esρθold ,aπθold (cid:20) πθ(as) πθold(as) [DKL(πθold (s)πθ(s))] δ (cid:21) ˆA(s, a) max θ s.t. Esρθold (1) where ˆA is the estimated advantage and δ is the trust-region radius. Despite its solid theoretical guarantees and appealing empirical performance, such constrained optimization incurs sign"
+[23.07.2026 05:54] Response: ```python
+[
+    "Institute for AI Industry Research (AIR), Tsinghua University",
+    "ByteDance Seed",
+    "SIA-Lab of Tsinghua AIR and ByteDance Seed"
+]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.10169.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.13429.
+[23.07.2026 05:54] Downloading paper 2607.13429 from https://arxiv.org/pdf/2607.13429v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment Dwip Dalal1, Shivansh Patel1, Chahit Jain1, Jeonghwan Kim1, Utkarsh Mishra2, Alex Baratian1, Hyeonjeong Ha1, Heng Ji1, Svetlana Lazebnik1*, Unnat Jain3 1University of Illinois Urbana-Champaign 2Texas A&M University 3University of California, Irvine Abstract: Finetuning pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-languageaction (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Cotraining on web image-text data, common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: VisionLanguage Anchoring distills layer-wise representations from frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% 54% and 37% 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and longhorizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io Keywords: Vision-Language-Action Models, Robot Manipulation, Catastrophic Forgetting, Language-Action Alignment, Out-of-Distribution Generalization Vision-Language-Action (VLA) models have become popular approach for learning robot manipulation policies [3, 4, 6, 18, 20, 36, 37, 40, 4"
+[23.07.2026 05:54] Response: ```python
+[
+    "University of Illinois Urbana-Champaign",
+    "Texas A&M University",
+    "University of California, Irvine"
+]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.13429.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.19790.
+[23.07.2026 05:54] Downloading paper 2607.19790 from https://arxiv.org/pdf/2607.19790v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Trace: Taxonomy-Guided Environment for Multidomain Visual Reasoning Md Tanvirul Alam Rochester Institute of Technology Rochester, NY, USA ma8235@rit.edu https://maveryn.github.io/trace/ "
+[23.07.2026 05:54] Response: ```python
+["Rochester Institute of Technology, Rochester, NY, USA"]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.19790.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.16190.
+[23.07.2026 05:54] Downloading paper 2607.16190 from https://arxiv.org/pdf/2607.16190v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation Hao Liu1,2 Chenghuan Huang2 Ye Huang4 Zhiying Wen1 Hao Liu3 Ziyang Ma2 Mohan Zhang3 Chen Li3 Jiangsu Du1 Jing Lyu3 1Sun Yat-sen University 2WeChat HPC, Tencent Inc. 3WeChat Vision, Tencent Inc. {liuh393,wenzhy35}@mail2.sysu.edu.cn 4Peking University {dujiangsu}@mail.sysu.edu.cn {huangye26}@stu.pku.edu.cn {bighhliu,caderhuang,leweshaoliu,zeromhzhang,chaselli,ziyangma,eckolv}@tencent.com "
+[23.07.2026 05:54] Response: ```python
+[
+    "Sun Yat-sen University",
+    "WeChat HPC, Tencent Inc.",
+    "WeChat Vision, Tencent Inc.",
+    "Peking University"
+]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.16190.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.19691.
+[23.07.2026 05:54] Downloading paper 2607.19691 from https://arxiv.org/pdf/2607.19691v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"2026-07- Scaling Latent Reasoning via Surrogate Policy Runyang You1* Zhiyuan Liu2* Yongqi Li1 Wenjie Li1 1 The Hong Kong Polytechnic University 2 Sichuan University runyang.y@outlook.com, liyongqi0@gmail.com Abstract Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and correctness-supervised stopping head that outcome-reward optimization refines into variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@𝑘 under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy. Keywords: latent reasoning, reinforcement learning, test-time scaling Project Page: https://github.com/ModalityDance/SLPO Latent Reasoning SLPO Latent Test-Time Scaling Figure 1: SLPO brings outcome-reward RL to latent reasoning and enables latent test-time scaling. Large language models have demonstrated strong performance on complex reasoning tasks with chain-ofthought (CoT) reasoning [1, 2]. By eliciting intermediate steps in natural language, CoT decomposes difficult Equal contribution. Corresponding auth"
+[23.07.2026 05:54] Response: ```python
+["The Hong Kong Polytechnic University", "Sichuan University"]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.19691.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.20379.
+[23.07.2026 05:54] Downloading paper 2607.20379 from https://arxiv.org/pdf/2607.20379v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations Hiskias Dingeto StackOne Technologies hiskias@stackone.com Abstract Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while as few as 2% of their specific claims are reconstruction-dependent, so the score tracks the inputs gist, not its specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at +0.001-nat cost. This replicates on pretrained Pythia-160M under target-design rule we identify: the content becomes reliably probe-decodable, though fresh verbalizer conveys it only in part (truth 0.440.46 against near-zero control). For interpretability, the audit sets claim-level standard of evidence for activation explanations: high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by verbalizer prose that model can learn to game: on the pretrained model, an independent probe reliably scores the verbalizers true claims above its false ones (AUC 0.96, versus"
+[23.07.2026 05:54] Response: ```python
+["StackOne Technologies"]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.20379.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.19942.
+[23.07.2026 05:54] Downloading paper 2607.19942 from https://arxiv.org/pdf/2607.19942v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"G-MAD: Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection Yechan Kim JongHyun Park LIG Defense&Aerospace Republic of Korea GIST Republic of Korea Dongho Yoon Namhoon Jung Moongu Jeon {yechan.kim26,namhoon.jung}@ligdna.com {citizen135,gidong76}@gm.gist.ac.kr,mgjeon@gist.ac.kr Figure 1: The overall architecture of G-MAD. Abstract This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multiview camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project. CCS Concepts Computing methodologies Object detection. Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or fee. Request permissions from permissions@acm.org. MM 26, Rio de Janeiro, Brazil 2026 Copyright held by the owner/author(s). Publication rights licensed to ACM. ACM "
+[23.07.2026 05:54] Response: ```python
+["LIG Defense&Aerospace Republic of Korea", "GIST Republic of Korea"]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.19942.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.20207.
+[23.07.2026 05:54] Downloading paper 2607.20207 from https://arxiv.org/pdf/2607.20207v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments Yang Xu1,2,, Gurpreet Singh Mukker1,, Raymond Wang3, Igor Gilitschenski1,2 Jasper Gerigk1,2, Maria Attarian1,2,4, 1University of Toronto 2Vector Institute 3University of British Columbia 4Google Deepmind Figure 1: Example grasps and performance summary of our proposed method, SeededGrasp. Abstract: Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer natural way to specify these requirements using language, but existing approaches either use VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires significantly more data and compute. These limitations impede performance and have prevented scaling to multiple embodiments in complex scenes. We address this by proposing SeededGrasp, novel data-efficient framework that enables VLM to predict seed point to be used as conditioning for subsequent lightweight grasp-generation model. Our architecture decouples highlevel semantic reasoning from low-level geometric execution, enabling multiembodiment support while bypassing the need for expensive end-to-end training. To enable training such models, we release the first multi-embodiment tabletop grasping dataset comprising over 2.5M grasps in cluttered scenes. Experimental results demonstrate that our approach outperforms existing baselines, achieving 72% success in simulation and 78% in real-world grasping experiments. See our project site for data and code: https://uoft-isl.github.io/seeded-grasp/. Keywords: Dexterous Grasping, Natural Language, Multi-Embodiment Dexterous grasping is fundamental requirement for general manipulation but remains challenging task. To act effectively in the physical world, robot must make contact with objects in manner that is precise, stable, and task-aware. Additionally, in contact-"
+[23.07.2026 05:54] Response: ```python
+[
+    "University of Toronto",
+    "Vector Institute",
+    "University of British Columbia",
+    "Google Deepmind"
+]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.20207.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Downloading and parsing paper https://huggingface.co/papers/2607.20417.
+[23.07.2026 05:54] Downloading paper 2607.20417 from https://arxiv.org/pdf/2607.20417v1...
+[23.07.2026 05:54] Extracting affiliations from text.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion IN CHO, Yonsei University, South Korea JEONGHWAN CHO, Yonsei University, South Korea MIJIN YOO, Yonsei University, South Korea GIM HEE LEE, National University of Singapore, Singapore SEON JOO KIM, Yonsei University, South Korea Fig. 1. ATSplat reconstructs compact 3D Gaussians from multi-view captures in single forward pass. Unlike dense pixel-aligned feed-forward methods that place Gaussians according to input image grids, ATSplat starts from sparse 3D anchor tokens and adaptively expands tokens associated with challenging regions. This sparse-to-adaptive allocation concentrates representational capacity according to scene complexity, enabling high-quality novel-view rendering with only 311K Gaussians. With 12 images at 512 960 resolution, ATSplat completes reconstruction in less than second, which can be rendered at 1136 FPS. 3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixelaligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts Authors Contact Information: In Cho, Yonsei University, South Korea; Jeonghwan Cho, Yonsei University, South Korea; Mijin Yoo, Yonsei University, South Korea; Gim Hee Lee, National University of Singapore, Singapore; Seon Joo Kim, Yonsei University, South Korea. coarse patch-level depth and camera cues into sparse 3D anchor tokens, form"
+[23.07.2026 05:54] Response: ```python
+[
+    "Yonsei University, South Korea",
+    "National University of Singapore, Singapore"
+]
+```
+[23.07.2026 05:54] Deleting PDF ./assets/pdf/2607.20417.pdf.
+[23.07.2026 05:54] Success.
+[23.07.2026 05:54] Enriching papers with extra data.
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 0. Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM tra...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 1. Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future fram...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 2. Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-docum...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 3. Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 4. Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's fai...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 5. Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic ge...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 6. Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 7. Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parall...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 8. Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 9. Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction,...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 10. Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and hig...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 11. Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp direc...
+[23.07.2026 05:54] ********************************************************************************
+[23.07.2026 05:54] Abstract 12. Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which ...
+[23.07.2026 05:54] Read previous papers.
+[23.07.2026 05:54] Generating reviews via LLM API.
+[23.07.2026 05:54] Using data from previous issue: {"categories": ["#dataset", "#continual_learning", "#optimization", "#math", "#synthetic", "#training", "#reasoning", "#inference"], "emoji": "🚀", "ru": {"title": "Эффективная тренировка триллионных моделей для сложного размышления", "desc": "В данной работе рассматриваются проблемы, связанные с пос
+[23.07.2026 05:54] Querying the API.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.
+[23.07.2026 05:54] Response: {
+  "desc": "В данной статье рассматриваются методы диффузии видео на основе автогрессии с использованием концепции Self Forcing. Авторы предлагают новый подход под названием Self Gradient Forcing (SGF), который улучшает обучение, устраняя недостаток в сигнале супервизии, связанный с историческим градиентом контекста. SGF позволяет более эффективно записывать контекст в память при создании видео, что улучшает качество генерации. В результате, метод SGF демонстрирует лучшие результаты в экстраполяции видео продолжительностью до нескольких минут с использованием всего 5-секундного окна обучения.",
+  "emoji": "🎥",
+  "title": "Улучшение генерации видео с помощью Self Gradient Forcing"
+}
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -89,12 +282,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning."
+"Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation."
 
-[23.07.2026 02:43] Response: ```python
-["DATASET", "INFERENCE", "TRAINING", "MATH"]
+[23.07.2026 05:54] Response: ```python
+["TRAINING", "MEMORY", "AGENT_MEMORY"]
 ```
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -137,30 +330,32 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning."
+"Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation."
 
-[23.07.2026 02:43] Response: ```python
-['OPTIMIZATION', 'CONTINUAL_LEARNING', 'SYNTHETIC', 'REASONING']
+[23.07.2026 05:54] Response: ```python
+["DIFFUSION", "MEMORY", "LONG_CONTEXT", "OPTIMIZATION", "OPEN_SOURCE"]
 ```
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.
+Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[23.07.2026 02:43] Response: {
-  "desc": "This paper addresses the challenges of training trillion-parameter MoE models, focusing on memory pressure and communication inefficiencies. It introduces an optimization framework for the Ascend NPU SuperPOD, achieving significant improvements in Model FLOPs Utilization. The framework supports complex Operations Research tasks through a specialized data pipeline, resulting in high-quality training samples. The optimized model outperforms existing models, showcasing advancements in reasoning capabilities for large-scale machine learning systems.",
-  "title": "Optimizing Trillion-Parameter Models for Complex Reasoning"
+[23.07.2026 05:54] Response: {
+  "desc": "This paper introduces Self Gradient Forcing (SGF), a new training method for autoregressive video generation that addresses the historical context-gradient gap. SGF enhances the training process by allowing the model to learn from its own generated context without needing to backpropagate through the entire video sequence. The method consists of two passes: the first generates video frames while recording key information, and the second reconstructs context to improve future frame generation. Experiments show that SGF outperforms previous methods, achieving better consistency and stability in long videos with minimal training data.",
+  "title": "Enhancing Video Generation with Self Gradient Forcing"
 }
-[23.07.2026 02:43] Querying the API.
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.07.2026 05:54] Querying the API.
+[23.07.2026 05:54] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack a tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and a correctness-supervised stopping head that outcome-reward optimization refines into a variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@k under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy.
-[23.07.2026 02:43] Response: {
-  "desc": "В данной статье обсуждается использование обучения с подкреплением (RL) с проверяемыми наградами для улучшения работы систем, основанных на цепочках размышлений (CoT). Авторы предлагают новый подход под названием Surrogate Latent Policy Optimization (SLPO), который позволяет использовать награды за результаты для управления скрытыми расследованиями. Это решение помогает сократить вычислительные затраты и улучшить точность моделей. В результате, SLPO демонстрирует лучшие результаты по сравнению с традиционными методами на задачах с различной сложностью.",
-  "emoji": "🧠",
-  "title": "Оптимизация скрытых моделей для повышения точности!"
+Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization.
+[23.07.2026 05:55] Response: ```json
+{
+  "desc": "В статье рассматривается влияние качества наборов документов на эффективность генерации с использованием больших языковых моделей и агентов ИИ. Авторы предлагают новую структуру для оценки, диагностики и оптимизации наборов документов, включая систему SetwiseEvalKit с около 28 тысячами оценочных критериев. Проведенные эксперименты показывают, что существующие методы повторной сортировки не достигают высоких результатов в оценке взаимодействия между документами. В качестве решения предлагается метод Rubric4Setwise, который преобразует оценочные критерии в сигналы для выбора наборов документов, достигая наилучших результатов генерации при меньших объемах данных.",
+  "emoji": "📄",
+  "title": "Оптимизация оценки наборов документов для ИИ"
 }
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+```
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -204,12 +399,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack a tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and a correctness-supervised stopping head that outcome-reward optimization refines into a variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@k under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy."
+"Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization."
 
-[23.07.2026 02:43] Response: ```python
-['RL', 'RLHF', 'TRAINING']
+[23.07.2026 05:55] Response: ```python
+['BENCHMARK', 'RETRIEVAL_EVAL']
 ```
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -252,145 +447,263 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack a tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and a correctness-supervised stopping head that outcome-reward optimization refines into a variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@k under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy."
+"Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization."
 
-[23.07.2026 02:43] Response: ```python
+[23.07.2026 05:55] Response: ```python
+["EVALUATION", "OPTIMIZATION"]
+```
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[23.07.2026 05:55] Response: {
+  "desc": "This paper addresses the limitations of current document set evaluation methods in machine learning, particularly for large language models and AI agents. It introduces a new framework called SetwiseEvalKit, which evaluates document sets based on inter-document interactions and provides a comprehensive benchmark with 28K evaluation rubrics. The authors evaluate various reranking methods and find that existing techniques struggle with cross-document coordination. They propose Rubric4Setwise, a novel approach that translates evaluation criteria into effective document selection signals, achieving superior performance in generating results with fewer documents.",
+  "title": "Revolutionizing Document Set Evaluation for AI"
+}
+[23.07.2026 05:55] Querying the API.
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than a single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code: such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perception-reasoning loop.
+[23.07.2026 05:55] Response: ```json
+{
+  "desc": "В данной статье обсуждается, как современные мультимодальные большие языковые модели (MLLM) осуществляют активное наблюдение, которое является важным аспектом человеческого зрения. Исследователи предлагают новый бенчмарк под названием ActiveVision, позволяющий измерить активное наблюдение, который включает 17 задач в 3 категориях. Текущие модели не справляются с задачами ActiveVision, что указывает на недостатки их способности к активному восприятию. Результаты показывают, что MLLM требуют доработки архитектуры и целей обучения для улучшения процесса восприятия и рассуждения.",
+  "emoji": "👁️",
+  "title": "Обнаружение недостатков в активном восприятии мультимодальных моделей"
+}
+```
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than a single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code: such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perception-reasoning loop."
+
+[23.07.2026 05:55] Response: ```python
+['BENCHMARK', 'MULTIMODAL', 'ARCHITECTURE', 'TRAINING']
+```
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than a single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code: such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perception-reasoning loop."
+
+[23.07.2026 05:55] Response: ```python
+["REASONING", "INTERPRETABILITY"]
+```
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than a single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code: such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perception-reasoning loop.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[23.07.2026 05:55] Response: {
+  "desc": "This paper explores the concept of active observation in human vision and its implications for multimodal large language models (MLLMs). It introduces ActiveVision, a benchmark designed to measure how well MLLMs can perform tasks that require repeated visual perception rather than relying on a single static view. The results show that leading MLLMs, including GPT-5.5 and Claude Fable 5, struggle significantly with these tasks, achieving low success rates compared to human participants. The findings suggest that current MLLMs do not effectively incorporate active visual observation, highlighting the need for new architectures and training methods to enhance their perception-reasoning capabilities.",
+  "title": "Bridging the Gap: Enhancing MLLMs with Active Visual Observation"
+}
+[23.07.2026 05:55] Querying the API.
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves a favorable bias-variance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24).
+[23.07.2026 05:55] Response: {
+  "desc": "В данной статье рассматриваются ограничения алгоритмов обучения с подкреплением (RL) на основе метода PPO-Clip, которые могут приводить к исчезновению исследований. Основная причина неэффективности заключается в том, что PPO-Clip использует евклидMetric для измерения различий в политике, что несовместимо с геометрией римановой многообразия. В результате этого возникает избыточная консервативность обновлений в областях с низкой вероятностью. Авторы предлагают метод Riemannian Isometric Policy Optimization (RIPO), который обеспечивает изометрические обновления политики и улучшает баланс между исследованием и эксплуатацией.",
+  "emoji": "🎮",
+  "title": "Оптимизация политики с учетом геометрии"
+}
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves a favorable bias-variance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24)."
+
+[23.07.2026 05:55] Response: ```python
+['RL', 'RLHF', 'BENCHMARK', 'TRAINING']
+```
+[23.07.2026 05:55] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves a favorable bias-variance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24)."
+
+[23.07.2026 05:55] GitHub Models 429 (rate limit). Ждём 60s, попытка 1/4.
+[23.07.2026 05:56] Response: ```python
 ["REASONING", "OPTIMIZATION"]
 ```
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack a tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and a correctness-supervised stopping head that outcome-reward optimization refines into a variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@k under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[23.07.2026 02:43] Response: {
-  "desc": "This paper presents Surrogate Latent Policy Optimization (SLPO), a method that enhances reinforcement learning for latent reasoning models. Unlike traditional Chain-of-Thought (CoT) approaches that require decoding each step as a language token, SLPO uses continuous vectors for intermediate computations, making it more efficient. The method introduces a surrogate policy for better credit assignment and a stopping mechanism that adapts based on the complexity of the task. As a result, SLPO achieves improved performance in generating accurate outputs while managing computational resources effectively.",
-  "title": "Optimizing Latent Reasoning with Surrogate Policies"
-}
-[23.07.2026 02:43] Querying the API.
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project.
-[23.07.2026 02:43] Response: {
-  "desc": "В данной работе представлен G-MAD, открытый фреймворк, который использует Arma3 для генерации синхронизированных многовидовых RGB-T данных для аэродинамического обнаружения объектов. G-MAD решает ключевые проблемы создания реальных аэродинамических наборов данных, такие как ограниченный контроль за точками зрения и высокая стоимость аннотирования. Фреймворк поддерживает спецификацию сценариев, контролируемое размещение камер и автоматическую аннотацию ограничивающих рамок. Используя G-MAD, мы также создали и выпустили AMOD, новый масштабный эталон для обнаружения объектов в многовидовом аэродинамическом RGB-T.",
-  "emoji": "🛩️",
-  "title": "G-MAD: новый подход к аэродинамическому обнаружению объектов"
-}
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project."
-
-[23.07.2026 02:43] Response: ```python
-['DATASET', 'BENCHMARK', 'OPEN_SOURCE']
-```
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project."
-
-[23.07.2026 02:43] Response: ```python
-['OPEN_SOURCE', 'SYNTHETIC', 'TRANSFER_LEARNING']
-```
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project.
+Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves a favorable bias-variance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24).
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[23.07.2026 02:43] Response: {
-  "desc": "This paper presents G-MAD, an open-source framework designed for generating synchronized multi-view RGB-T data to improve aerial object detection. It overcomes challenges in creating real-world datasets, such as controlling viewpoints, aligning RGB and thermal images, and reducing annotation costs. G-MAD allows for structured scenario creation, precise camera placement, and automatic bounding box annotations using geometric data. Additionally, it introduces AMOD, a new large-scale benchmark for multi-view aerial RGB-T object detection, enhancing research in this area.",
-  "title": "G-MAD: Revolutionizing Aerial Object Detection with Multi-View Data"
+[23.07.2026 05:56] Response: {
+  "desc": "This paper addresses the limitations of reinforcement learning (RL) algorithms, specifically PPO-Clip, in enhancing the reasoning capabilities of large language models (LLMs). It identifies a fundamental flaw in PPO-Clip's approach to measuring policy discrepancy, which leads to ineffective exploration strategies. The authors propose a new method called Riemannian Isometric Policy Optimization (RIPO) that corrects this flaw by ensuring policy updates are consistent with the geometry of the policy space. RIPO not only stabilizes optimization but also significantly improves performance on various benchmarks compared to existing RL algorithms.",
+  "title": "RIPO: Balancing Exploration and Exploitation in RL for LLMs"
 }
-[23.07.2026 02:43] Querying the API.
-[23.07.2026 02:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.07.2026 05:56] Querying the API.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires significantly more data and compute. These limitations impede performance and have prevented scaling to multiple embodiments in complex scenes. We address this by proposing SeededGrasp, a novel data-efficient framework that enables a VLM to predict a seed point to be used as conditioning for a subsequent lightweight grasp-generation model. Our architecture decouples high-level semantic reasoning from low-level geometric execution, enabling multi-embodiment support while bypassing the need for expensive end-to-end training. To enable training such models, we release the first multi-embodiment tabletop grasping dataset comprising over 2.5M grasps in cluttered scenes. Experimental results demonstrate that our approach outperforms existing baselines, achieving 72% success in simulation and 78% in real-world grasping experiments. See our project site for data and code: https://uoft-isl.github.io/seeded-grasp/
-[23.07.2026 02:44] Response: {
-  "desc": "В статье представлена новая схема SeededGrasp, которая улучшает захват объектов роботами в сложных сценах. Она использует модели, объединяющие визуальные данные и язык, чтобы предсказать начальную точку захвата, что позволяет снизить требования к вычислительным ресурсам. Разделение семантического анализа и геометрической реализации позволяет поддерживать несколько вариантов захвата без необходимости дорогостоящего обучения от начала до конца. Для тренировки модели представлен новый набор данных с более чем 2,5 миллионами захватов в загроможденных сценах.",
+Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io
+[23.07.2026 05:56] Response: {
+  "desc": "Статья предлагает метод Anchor-Align для улучшения работы модели, связывающей визуальные и языковые данные с действиями робота. Этот подход предотвращает ухудшение предварительно обученных представлений, которое наблюдается при использовании традиционного обучения на демонстрациях робота. Anchor-Align использует две цели: якорную привязку визуально-языковых данных и согласование языковых действий, что позволяет совместно обучать предсказание действий и языка. В результате на физическом роботе xArm7 наблюдаются значительные улучшения в успехе выполнения задач.",
   "emoji": "🤖",
-  "title": "Эффективный захват объектов с SeededGrasp"
+  "title": "Новая эра взаимодействия: улучшение робототехники через Anchor-Align"
 }
-[23.07.2026 02:44] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -434,12 +747,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires significantly more data and compute. These limitations impede performance and have prevented scaling to multiple embodiments in complex scenes. We address this by proposing SeededGrasp, a novel data-efficient framework that enables a VLM to predict a seed point to be used as conditioning for a subsequent lightweight grasp-generation model. Our architecture decouples high-level semantic reasoning from low-level geometric execution, enabling multi-embodiment support while bypassing the need for expensive end-to-end training. To enable training such models, we release the first multi-embodiment tabletop grasping dataset comprising over 2.5M grasps in cluttered scenes. Experimental results demonstrate that our approach outperforms existing baselines, achieving 72% success in simulation and 78% in real-world grasping experiments. See our project site for data and code: https://uoft-isl.github.io/seeded-grasp/"
+"Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io"
 
-[23.07.2026 02:44] Response: ```python
-['DATASET', 'AGENTS', 'ARCHITECTURE', 'ROBOTICS']
+[23.07.2026 05:56] Response: ```python
+['AGENTS', 'ROBOTICS', 'TRAINING']
 ```
-[23.07.2026 02:44] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -482,32 +795,30 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires significantly more data and compute. These limitations impede performance and have prevented scaling to multiple embodiments in complex scenes. We address this by proposing SeededGrasp, a novel data-efficient framework that enables a VLM to predict a seed point to be used as conditioning for a subsequent lightweight grasp-generation model. Our architecture decouples high-level semantic reasoning from low-level geometric execution, enabling multi-embodiment support while bypassing the need for expensive end-to-end training. To enable training such models, we release the first multi-embodiment tabletop grasping dataset comprising over 2.5M grasps in cluttered scenes. Experimental results demonstrate that our approach outperforms existing baselines, achieving 72% success in simulation and 78% in real-world grasping experiments. See our project site for data and code: https://uoft-isl.github.io/seeded-grasp/"
+"Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io"
 
-[23.07.2026 02:44] Response: ```python
-['REASONING', 'ALIGNMENT', 'OPEN_SOURCE']
+[23.07.2026 05:56] Response: ```python
+["AGI", "OPTIMIZATION"]
 ```
-[23.07.2026 02:44] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires significantly more data and compute. These limitations impede performance and have prevented scaling to multiple embodiments in complex scenes. We address this by proposing SeededGrasp, a novel data-efficient framework that enables a VLM to predict a seed point to be used as conditioning for a subsequent lightweight grasp-generation model. Our architecture decouples high-level semantic reasoning from low-level geometric execution, enabling multi-embodiment support while bypassing the need for expensive end-to-end training. To enable training such models, we release the first multi-embodiment tabletop grasping dataset comprising over 2.5M grasps in cluttered scenes. Experimental results demonstrate that our approach outperforms existing baselines, achieving 72% success in simulation and 78% in real-world grasping experiments. See our project site for data and code: https://uoft-isl.github.io/seeded-grasp/
+Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[23.07.2026 02:44] GitHub Models 429 (rate limit). Ждём 25s, попытка 1/4.
-[23.07.2026 02:44] GitHub Models 429 (rate limit). Ждём 10s, попытка 2/4.
-[23.07.2026 02:44] Response: {
-  "desc": "This paper presents SeededGrasp, a framework that enhances robotic grasping in complex environments by combining vision-language models (VLMs) with a lightweight grasp-generation model. Instead of directly predicting grasps, SeededGrasp predicts a seed point that guides the grasping process, allowing for better spatial reasoning and task alignment. The approach separates high-level semantic understanding from low-level geometric actions, making it more efficient and scalable across different robotic embodiments. The authors also introduce a new dataset with over 2.5 million grasps to support training, demonstrating significant improvements in grasping success rates in both simulations and real-world scenarios.",
-  "title": "Efficient Robotic Grasping with SeededGrasp"
+[23.07.2026 05:56] Response: {
+  "desc": "This paper introduces Anchor-Align, a method to improve the finetuning of vision-language models (VLMs) for robot demonstrations using behavior cloning (BC). The authors highlight that traditional BC can overwrite important pretrained representations, leading to misalignment between language and actions. Anchor-Align addresses this by using Vision-Language Anchoring to maintain layer-wise representations and Language-Action Alignment to train language and action predictions together. The results show significant improvements in real-robot success rates and robustness in various scenarios, indicating that effective action learning can coexist with preserving pretrained knowledge.",
+  "title": "Aligning Vision and Action for Better Robot Learning"
 }
-[23.07.2026 02:44] Querying the API.
-[23.07.2026 02:44] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.07.2026 05:56] Querying the API.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians.
-[23.07.2026 02:44] Response: {
-  "desc": "Статья представляет новый метод под названием ATSplat для синтеза новых видов 3D-графики с использованием адаптивных 3D-токенов. Этот подход улучшает традиционный метод 3D Gaussian Splatting (3DGS) за счёт оптимизации размещения примитивов, что позволяет сосредоточить их в сложных областях сцены. ATSplat уменьшает количество используемых гауссианов более чем в 5.7 раз, сохраняя при этом высокое качество рендеринга. Эксперименты показывают, что метод работает эффективно, обеспечивая быструю реконструкцию и вывод новых видов за секунды на коммерческом графическом процессоре.",
-  "emoji": "🌌",
-  "title": "Эффективный 3D-синтез с адаптивными токенами"
+Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a taxonomy-guided environment for multidomain visual reasoning. Trace factorizes task construction into a scene grammar and an executable task program, separating visual realization from answer computation. A shared semantic state determines the rendered image, prompt, typed answer, verifier state, and replayable instance trace. The resulting environment comprises 1,000 tasks over 277 scene grammars and 11 visual domains, with controlled semantic and visual variation. RLVR on 64,000 Trace instances improves the macro-average across 24 external benchmarks by 3.51 percentage points for Qwen2.5-VL-3B and 4.06 points for Qwen2.5-VL-7B, providing evidence that broad procedural training can transfer beyond the generated task distributions. Project page: https://maveryn.github.io/trace/.
+[23.07.2026 05:56] Response: {
+  "desc": "В данной статье представлено новое окружение для многодоменного визуального рассуждения, называемое Trace. Оно разделяет построение задач на грамматику сцен и исполняемую программу задач, что позволяет отделить визуализацию от вычисления ответов. Окружение включает 1000 задач, основанных на 277 грамматиках сцен и 11 визуальных доменах, с контролируемыми семантическими и визуальными вариациями. Использование RLVR на 64,000 экземплярах Trace улучшает результаты на 24 внешних бенчмарках для моделей Qwen2.5-VL-3B и Qwen2.5-VL-7B.",
+  "emoji": "🖼️",
+  "title": "Новая эволюция визуального рассуждения"
 }
-[23.07.2026 02:44] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -551,12 +862,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians."
+"Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a taxonomy-guided environment for multidomain visual reasoning. Trace factorizes task construction into a scene grammar and an executable task program, separating visual realization from answer computation. A shared semantic state determines the rendered image, prompt, typed answer, verifier state, and replayable instance trace. The resulting environment comprises 1,000 tasks over 277 scene grammars and 11 visual domains, with controlled semantic and visual variation. RLVR on 64,000 Trace instances improves the macro-average across 24 external benchmarks by 3.51 percentage points for Qwen2.5-VL-3B and 4.06 points for Qwen2.5-VL-7B, providing evidence that broad procedural training can transfer beyond the generated task distributions. Project page: https://maveryn.github.io/trace/."
 
-[23.07.2026 02:44] Response: ```python
-["3D"]
+[23.07.2026 05:56] Response: ```python
+['DATASET', 'RL', 'BENCHMARK']
 ```
-[23.07.2026 02:44] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -599,26 +910,264 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians."
+"Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a taxonomy-guided environment for multidomain visual reasoning. Trace factorizes task construction into a scene grammar and an executable task program, separating visual realization from answer computation. A shared semantic state determines the rendered image, prompt, typed answer, verifier state, and replayable instance trace. The resulting environment comprises 1,000 tasks over 277 scene grammars and 11 visual domains, with controlled semantic and visual variation. RLVR on 64,000 Trace instances improves the macro-average across 24 external benchmarks by 3.51 percentage points for Qwen2.5-VL-3B and 4.06 points for Qwen2.5-VL-7B, providing evidence that broad procedural training can transfer beyond the generated task distributions. Project page: https://maveryn.github.io/trace/."
 
-[23.07.2026 02:44] Response: ```python
-[]
+[23.07.2026 05:56] Response: ```python
+["REASONING", "TRANSFER_LEARNING"]
 ```
-[23.07.2026 02:44] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians.
+Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a taxonomy-guided environment for multidomain visual reasoning. Trace factorizes task construction into a scene grammar and an executable task program, separating visual realization from answer computation. A shared semantic state determines the rendered image, prompt, typed answer, verifier state, and replayable instance trace. The resulting environment comprises 1,000 tasks over 277 scene grammars and 11 visual domains, with controlled semantic and visual variation. RLVR on 64,000 Trace instances improves the macro-average across 24 external benchmarks by 3.51 percentage points for Qwen2.5-VL-3B and 4.06 points for Qwen2.5-VL-7B, providing evidence that broad procedural training can transfer beyond the generated task distributions. Project page: https://maveryn.github.io/trace/.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[23.07.2026 02:44] Response: {
-  "desc": "The paper introduces ATSplat, a novel framework for 3D Gaussian Splatting (3DGS) that enhances the quality of novel-view synthesis by optimizing the placement of 3D primitives. Unlike traditional methods that rely on pixel alignment, ATSplat uses Adaptive 3D Tokens to create a sparse representation of the scene, allowing for more efficient allocation of resources based on scene complexity. This approach enables the model to focus on challenging areas while maintaining a compact set of Gaussians, significantly reducing redundancy. Experimental results demonstrate that ATSplat achieves superior rendering quality and efficiency, processing input images rapidly while using fewer Gaussians than previous methods.",
-  "title": "Adaptive 3D Tokens for Efficient Novel-View Synthesis"
+[23.07.2026 05:56] Response: {
+  "desc": "This paper presents Trace, a new environment designed for improving visual reasoning in language models using reinforcement learning with verifiable rewards (RLVR). Trace organizes tasks using a scene grammar and an executable task program, which helps separate how images are created from how answers are computed. The environment includes 1,000 tasks across various visual domains, allowing for controlled variations in both semantics and visuals. The results show that training on Trace significantly enhances performance on external benchmarks for language models, demonstrating the effectiveness of broad procedural training.",
+  "title": "Enhancing Visual Reasoning with Trace: A New Approach"
 }
-[23.07.2026 02:44] Renaming data file.
-[23.07.2026 02:44] Renaming previous data. hf_papers.json to ./d/2026-07-23.json
-[23.07.2026 02:44] Saving new data file.
-[23.07.2026 02:44] Generating page.
-[23.07.2026 02:44] Renaming previous page.
-[23.07.2026 02:44] Renaming previous data. index.html to ./d/2026-07-23.html
-[23.07.2026 02:44] Writing result.
-[23.07.2026 02:44] Renaming log file.
-[23.07.2026 02:44] Renaming previous data. log.txt to ./logs/2026-07-23_last_log.txt
+[23.07.2026 05:56] Querying the API.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present , a training-free sparse-attention system that improves the distributed execution efficiency of adaptive sparse attention under multi-GPU sequence parallelism.  uses Top-p routing, a Top-k safety floor, and video-aware block organization as the sparse-routing frontend, then repairs the materialized mask at runtime. Runtime Load Balancing migrates a small number of heavy heads via P2P communication to shorten the current critical path. Slack-Aware Sparse Augmentation fills residual non-critical-rank slack with additional high-value blocks, while overlap hides scheduling and migration overhead behind existing computation. On step-distilled Wan2.2 I2V,  reduces average load imbalance from 1.34 to 1.08 and delivers a 4.41times attention speedup over FlashAttention, while achieving a 2.02--2.11times DiT inference speedup with competitive video quality.
+[23.07.2026 05:56] Response: {
+  "desc": "Статья обсуждает систему Sparse-Attention для эффективной генерации видео, которая использует адаптивное маршрутизирование Top-p. Данная система уменьшает неравномерность нагрузки при работе с многими графическими процессорами, что является проблемой для высокоразрешенных видео. Также внедряются механизмы сбалансировки нагрузки и выделения ресурсов для ускорения вычислений. В результате достигается значительное улучшение скорости обработки с конкурентным качеством видео.",
+  "emoji": "🎥",
+  "title": "Эффективное воспроизведение видео с помощью Sparse-Attention"
+}
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present , a training-free sparse-attention system that improves the distributed execution efficiency of adaptive sparse attention under multi-GPU sequence parallelism.  uses Top-p routing, a Top-k safety floor, and video-aware block organization as the sparse-routing frontend, then repairs the materialized mask at runtime. Runtime Load Balancing migrates a small number of heavy heads via P2P communication to shorten the current critical path. Slack-Aware Sparse Augmentation fills residual non-critical-rank slack with additional high-value blocks, while overlap hides scheduling and migration overhead behind existing computation. On step-distilled Wan2.2 I2V,  reduces average load imbalance from 1.34 to 1.08 and delivers a 4.41times attention speedup over FlashAttention, while achieving a 2.02--2.11times DiT inference speedup with competitive video quality."
+
+[23.07.2026 05:56] Response: ```python
+["ARCHITECTURE", "INFERENCE", "TRAINING"]
+```
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present , a training-free sparse-attention system that improves the distributed execution efficiency of adaptive sparse attention under multi-GPU sequence parallelism.  uses Top-p routing, a Top-k safety floor, and video-aware block organization as the sparse-routing frontend, then repairs the materialized mask at runtime. Runtime Load Balancing migrates a small number of heavy heads via P2P communication to shorten the current critical path. Slack-Aware Sparse Augmentation fills residual non-critical-rank slack with additional high-value blocks, while overlap hides scheduling and migration overhead behind existing computation. On step-distilled Wan2.2 I2V,  reduces average load imbalance from 1.34 to 1.08 and delivers a 4.41times attention speedup over FlashAttention, while achieving a 2.02--2.11times DiT inference speedup with competitive video quality."
+
+[23.07.2026 05:56] Response: ```python
+["DIFFUSION", "OPTIMIZATION"]
+```
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present , a training-free sparse-attention system that improves the distributed execution efficiency of adaptive sparse attention under multi-GPU sequence parallelism.  uses Top-p routing, a Top-k safety floor, and video-aware block organization as the sparse-routing frontend, then repairs the materialized mask at runtime. Runtime Load Balancing migrates a small number of heavy heads via P2P communication to shorten the current critical path. Slack-Aware Sparse Augmentation fills residual non-critical-rank slack with additional high-value blocks, while overlap hides scheduling and migration overhead behind existing computation. On step-distilled Wan2.2 I2V,  reduces average load imbalance from 1.34 to 1.08 and delivers a 4.41times attention speedup over FlashAttention, while achieving a 2.02--2.11times DiT inference speedup with competitive video quality.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[23.07.2026 05:56] Response: {
+  "desc": "This paper introduces a new system for improving the efficiency of sparse attention in video generation using multi-GPU setups. It addresses the issue of uneven workloads caused by adaptive Top-p routing, which can lead to delays in processing. The proposed method includes techniques like runtime load balancing and slack-aware sparse augmentation to optimize performance. As a result, the system achieves significant speedups in attention processing while maintaining high video quality.",
+  "title": "Boosting Video Generation Efficiency with Sparse Attention"
+}
+[23.07.2026 05:56] Using data from previous issue: {"categories": ["#rlhf", "#rl", "#optimization", "#training", "#reasoning"], "emoji": "🧠", "ru": {"title": "Оптимизация скрытых моделей для повышения точности!", "desc": "В данной статье обсуждается использование обучения с подкреплением (RL) с проверяемыми наградами для улучшения работы систем, осн
+[23.07.2026 05:56] Querying the API.
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51).
+[23.07.2026 05:56] Response: ```json
+{
+  "desc": "В данной статье рассматривается использование автоэнкодеров на естественном языке для оценки объяснений скрытых активаций через реконструкцию. Объяснение считается достоверным, если активация может быть восстановлена из него. Однако, исследование показывает, что данный тест не всегда выявляет недостоверные утверждения, и большинство из них не штрафуется. Для повышения интерпретируемости и безопасности ИИ предложены новые протоколы аудита и метод RECAP, позволяющий независимо проверять внутреннее содержимое модели.",
+  "emoji": "🔍",
+  "title": "Объяснения в автоэнкодерах: истинность под угрозой"
+}
+```
+[23.07.2026 05:56] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51)."
+
+[23.07.2026 05:56] GitHub Models 429 (rate limit). Ждём 28s, попытка 1/4.
+[23.07.2026 05:57] GitHub Models 429 (rate limit). Ждём 10s, попытка 2/4.
+[23.07.2026 05:57] Response: ```python
+["DATA", "TRAINING", "AGENTS", "INFERENCE"]
+```
+[23.07.2026 05:57] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51)."
+
+[23.07.2026 05:57] Response: ```python
+["INTERPRETABILITY", "ETHICS", "HALLUCINATIONS"]
+```
+[23.07.2026 05:57] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51).
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[23.07.2026 05:57] Response: {
+  "desc": "This paper discusses the limitations of natural-language autoencoders in providing faithful explanations of hidden activations through reconstruction. It reveals that the current scoring method can overlook inaccuracies in individual claims, as it focuses on the overall gist rather than specific details. The authors introduce two new audit protocols and a method called RECAP, which improves the decodability of designated content while maintaining model integrity. Ultimately, RECAP enhances interpretability and AI safety by allowing independent verification of internal content against probes, effectively identifying false claims.",
+  "title": "Enhancing AI Interpretability and Safety with RECAP"
+}
+[23.07.2026 05:57] Using data from previous issue: {"categories": ["#dataset", "#transfer_learning", "#synthetic", "#open_source", "#benchmark"], "emoji": "🛩️", "ru": {"title": "G-MAD: новый подход к аэродинамическому обнаружению объектов", "desc": "В данной работе представлен G-MAD, открытый фреймворк, который использует Arma3 для генерации синхрон
+[23.07.2026 05:57] Using data from previous issue: {"categories": ["#architecture", "#agents", "#alignment", "#dataset", "#robotics", "#open_source", "#reasoning"], "emoji": "🤖", "ru": {"title": "Эффективный захват объектов с SeededGrasp", "desc": "В статье представлена новая схема SeededGrasp, которая улучшает захват объектов роботами в сложных сце
+[23.07.2026 05:57] Using data from previous issue: {"categories": ["#3d"], "emoji": "🌌", "ru": {"title": "Эффективный 3D-синтез с адаптивными токенами", "desc": "Статья представляет новый метод под названием ATSplat для синтеза новых видов 3D-графики с использованием адаптивных 3D-токенов. Этот подход улучшает традиционный метод 3D Gaussian Splattin
+[23.07.2026 05:57] Renaming data file.
+[23.07.2026 05:57] Renaming previous data. hf_papers.json to ./d/2026-07-23.json
+[23.07.2026 05:57] Saving new data file.
+[23.07.2026 05:57] Generating page.
+[23.07.2026 05:57] Renaming previous page.
+[23.07.2026 05:57] Renaming previous data. index.html to ./d/2026-07-23.html
+[23.07.2026 05:57] Writing result.
+[23.07.2026 05:57] Renaming log file.
+[23.07.2026 05:57] Renaming previous data. log.txt to ./logs/2026-07-23_last_log.txt
