@@ -4,9 +4,9 @@
         "en": "July 23",
         "zh": "7月23日"
     },
-    "time_utc": "2026-07-23 19:14",
+    "time_utc": "2026-07-23 22:03",
     "weekday": 3,
-    "issue_id": 2889,
+    "issue_id": 2890,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
             "url": "https://huggingface.co/papers/2607.20145",
             "abstract": "Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.",
-            "score": 43,
+            "score": 45,
             "issue_id": 2883,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -180,7 +180,7 @@
             "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
             "url": "https://huggingface.co/papers/2607.19747",
             "abstract": "Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization.",
-            "score": 23,
+            "score": 24,
             "issue_id": 2884,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -282,7 +282,7 @@
             "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
             "url": "https://huggingface.co/papers/2607.19604",
             "abstract": "Abstract  Injecting factual knowledge into large language models (LLMs) reliably and at scale remains an open challenge. Hypernetworks provide a promising solution to large-scale knowledge injection. Although hypernetworks are typically applied for test-time adaptation, we explore their use in train-time knowledge injection, where, given a large corpus of facts, we train a hypernetwork to generate a fixed LoRA adapter that, when inserted into the target model, enable the model to answer questions about those facts. In this work, we investigate whether hypernetworks can be used to perform train-time knowledge injection and how this ability varies with scale. The scaling behavior of hypernetworks remains largely unstudied. Our design decouples the hypernetwork's injection capacity from the target model's general capability, enabling, for the first time, a rigorous study of scaling laws for hypernetwork architectures. We characterize how loss, reasoning accuracy, and out-of-distribution (OOD) generalization vary with hypernetwork depth, width, and target network size. We construct a large-scale dataset, called MegaWikiQA, containing tens of millions of multi-hop question-answer examples across 39 domains constructed from examples in Wikidata5M. Our results reveal: (i) hypernetwork-based injection exhibits broadly predictive power law scaling along all architecture axes; and (ii) hypernetworks are capable of reliable OOD generalization at increasing scales, suggesting that hypernetwork provides a promising alternative to other train-time adaptation methods such as LoRA finetuning and full fine-tuning, exhibiting steeper scaling exponents in all OOD evaluations. Together, these results establish hypernetworks as a principled and scalable substrate for train-time adaptation, and provide the first empirically grounded scaling laws to guide hypernetworks for factual reasoning in large language models.",
-            "score": 10,
+            "score": 11,
             "issue_id": 2885,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -381,7 +381,7 @@
             "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
             "url": "https://huggingface.co/papers/2607.10169",
             "abstract": "Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves a favorable bias-variance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24).",
-            "score": 8,
+            "score": 9,
             "issue_id": 2884,
             "pub_date": "2026-07-11",
             "pub_date_card": {
@@ -580,7 +580,7 @@
             "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
             "url": "https://huggingface.co/papers/2607.19691",
             "abstract": "Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack a tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and a correctness-supervised stopping head that outcome-reward optimization refines into a variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@k under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy.",
-            "score": 2,
+            "score": 3,
             "issue_id": 2883,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -618,6 +618,50 @@
                 "en": {
                     "title": "Optimizing Latent Reasoning with Surrogate Policies",
                     "desc": "This paper presents Surrogate Latent Policy Optimization (SLPO), a method that enhances reinforcement learning for latent reasoning models. Unlike traditional Chain-of-Thought (CoT) approaches that require decoding each step as a language token, SLPO uses continuous vectors for intermediate computations, making it more efficient. The method introduces a surrogate policy for better credit assignment and a stopping mechanism that adapts based on the complexity of the task. As a result, SLPO achieves improved performance in generating accurate outputs while managing computational resources effectively."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.20379",
+            "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+            "url": "https://huggingface.co/papers/2607.20379",
+            "abstract": "Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51).",
+            "score": 2,
+            "issue_id": 2884,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "efa55585842de96c",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hiskias Dingeto"
+            ],
+            "affiliations": [
+                "StackOne Technologies"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20379.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#inference",
+                    "#data",
+                    "#hallucinations",
+                    "#interpretability",
+                    "#ethics",
+                    "#agents"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Объяснения в автоэнкодерах: истинность под угрозой",
+                    "desc": "В данной статье рассматривается использование автоэнкодеров на естественном языке для оценки объяснений скрытых активаций через реконструкцию. Объяснение считается достоверным, если активация может быть восстановлена из него. Однако, исследование показывает, что данный тест не всегда выявляет недостоверные утверждения, и большинство из них не штрафуется. Для повышения интерпретируемости и безопасности ИИ предложены новые протоколы аудита и метод RECAP, позволяющий независимо проверять внутреннее содержимое модели."
+                },
+                "en": {
+                    "title": "Enhancing AI Interpretability and Safety with RECAP",
+                    "desc": "This paper discusses the limitations of natural-language autoencoders in providing faithful explanations of hidden activations through reconstruction. It reveals that the current scoring method can overlook inaccuracies in individual claims, as it focuses on the overall gist rather than specific details. The authors introduce two new audit protocols and a method called RECAP, which improves the decodability of designated content while maintaining model integrity. Ultimately, RECAP enhances interpretability and AI safety by allowing independent verification of internal content against probes, effectively identifying false claims."
                 }
             }
         },
@@ -712,56 +756,12 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.20379",
-            "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
-            "url": "https://huggingface.co/papers/2607.20379",
-            "abstract": "Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51).",
-            "score": 1,
-            "issue_id": 2884,
-            "pub_date": "2026-07-22",
-            "pub_date_card": {
-                "ru": "22 июля",
-                "en": "July 22",
-                "zh": "7月22日"
-            },
-            "hash": "efa55585842de96c",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Hiskias Dingeto"
-            ],
-            "affiliations": [
-                "StackOne Technologies"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.20379.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#inference",
-                    "#data",
-                    "#hallucinations",
-                    "#interpretability",
-                    "#ethics",
-                    "#agents"
-                ],
-                "emoji": "🔍",
-                "ru": {
-                    "title": "Объяснения в автоэнкодерах: истинность под угрозой",
-                    "desc": "В данной статье рассматривается использование автоэнкодеров на естественном языке для оценки объяснений скрытых активаций через реконструкцию. Объяснение считается достоверным, если активация может быть восстановлена из него. Однако, исследование показывает, что данный тест не всегда выявляет недостоверные утверждения, и большинство из них не штрафуется. Для повышения интерпретируемости и безопасности ИИ предложены новые протоколы аудита и метод RECAP, позволяющий независимо проверять внутреннее содержимое модели."
-                },
-                "en": {
-                    "title": "Enhancing AI Interpretability and Safety with RECAP",
-                    "desc": "This paper discusses the limitations of natural-language autoencoders in providing faithful explanations of hidden activations through reconstruction. It reveals that the current scoring method can overlook inaccuracies in individual claims, as it focuses on the overall gist rather than specific details. The authors introduce two new audit protocols and a method called RECAP, which improves the decodability of designated content while maintaining model integrity. Ultimately, RECAP enhances interpretability and AI safety by allowing independent verification of internal content against probes, effectively identifying false claims."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.20092",
             "title": "ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models",
             "url": "https://huggingface.co/papers/2607.20092",
             "abstract": "Abstract  Contextual entrainment is the tendency of a model to let auxiliary context in its input pull its output, independently of whether that context is relevant, true, or even meaningful. Recently, it has been identified and given a mechanistic account in unimodal language models. Whether and how it manifests in vision-language models (VLMs) is, by contrast, largely unexamined, and the field lacks a purpose-built instrument with which to investigate it. We take the position that studying contextual entrainment in VLMs requires more than porting an existing text-only benchmark to the multimodal setting: it requires a taxonomically structured, dual-modality instrument whose conditions are constructed around the item at hand (the depicted image in the textual stream, the textual query in the visual stream). We argue that the move to VLMs is substantive rather than incremental. It makes entrainment a dual phenomenon, drivable independently by textual and by visual context, and it opens a veracity distinction (context that is false of the depicted scene yet possible in the world) that has no counterpart in the unimodal, world-knowledge-only formulation of prior work. To make this position concrete and actionable, we introduce ENTRAP-VL (ENTRainment Assessment Probe for Vision and Language), a manually curated dataset of 1,500 items across eight categories, organized by a taxonomy that spans two axes, i.e., the association of context with the item and its relationship to truth, and split into a textual-entrainment stream (eight context conditions) and a visual-entrainment stream (three context conditions). We do not claim to measure entrainment in any particular model; we provide the instrument, the taxonomy that motivates it, and the evaluation protocols it enables, so that the community can investigate the phenomenon rigorously. We will release the dataset and its documentation publicly.",
             "score": 0,
-            "issue_id": 2889,
+            "issue_id": 2890,
             "pub_date": "2026-07-22",
             "pub_date_card": {
                 "ru": "22 июля",
@@ -771,9 +771,37 @@
             "hash": "d2d1cf0be1d39450",
             "github_url": "",
             "github_stars": 0,
+            "authors": [
+                "Karan Goyal",
+                "Afreen Hossain",
+                "Debojyoti Das",
+                "Vishal Bhutani"
+            ],
+            "affiliations": [
+                "Dr. Ambedkar Institute of Technology, India",
+                "Heritage Institute of Technology, India",
+                "IIIT Delhi, India",
+                "PwC, India"
+            ],
             "pdf_title_img": "assets/pdf/title_img/2607.20092.jpg",
             "data": {
-                "error": "410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
+                "categories": [
+                    "#dataset",
+                    "#benchmark",
+                    "#hallucinations",
+                    "#interpretability",
+                    "#survey",
+                    "#multimodal"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Исследуем контекстуальное приспособление в VLM",
+                    "desc": "Контекстуальное приспособление — это тенденция модели позволять вспомогательному контексту в своем вводе влиять на свой вывод, независимо от его значимости. В данной статье рассматривается, как это явление проявляется в визуально-языковых моделях (VLM), поскольку предыдущие исследования преимущественно сосредотачивались на однородных языковых моделях. Авторы предлагают новый инструмент под названием ENTRAP-VL для изучения контекстуального приспособления в условиях многомодального анализа, включающего текст и изображение. Этот инструмент помогает более глубоко анализировать, как зрительный и текстовый контексты взаимодействуют в современных моделях."
+                },
+                "en": {
+                    "title": "Understanding Contextual Entrainment in Vision-Language Models",
+                    "desc": "This paper explores the concept of contextual entrainment in vision-language models (VLMs), which is how these models can be influenced by context in their inputs, regardless of its relevance. The authors argue that studying this phenomenon requires a specialized tool, as simply adapting existing text-based benchmarks is insufficient. They introduce ENTRAP-VL, a dataset designed to assess contextual entrainment across different categories and conditions, focusing on both textual and visual contexts. This work aims to provide a structured approach for the research community to rigorously investigate how context affects model outputs in VLMs."
+                }
             }
         },
         {
@@ -881,7 +909,7 @@
             "url": "https://huggingface.co/papers/2607.18149",
             "abstract": "Abstract  Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles models into pure Boolean circuits executable via bitwise CPU operations. Through rigorous iso-parameter experiments across four EEG datasets spanning two classification tasks, binary dementia detection and 3-class emotion recognition, we compared Diff-Logic against matched-capacity Multi-Layer Perceptron (MLP) and Binarized Neural Network (BNN) baselines at four complexity tiers (50k-500k parameters). On dementia screening, Diff-Logic achieved 80.2% Macro F1, outperforming the MLP baseline by 6.8%. On emotion recognition, the MLP retained a moderate performance advantage but incurred a 2.3times higher latency and 14times larger model size when deployed on a power-constrained (7W) Nvidia Jetson Orin Nano CPU (Single-core). Critically, Diff-Logic inference time remained nearly constant across a 10times increase in model scale, achieving a peak speedup of 2.9times over MLPs at the largest complexity tier. Our results establish logic-based neural architectures as a practical paradigm for resource-constrained brain-computer interfaces, achieving competitive or superior performance while natively satisfying the latency and memory constraints of portable edge deployment. Code is available on GitHub: https://github.com/Shyamal-Dharia/eeg-difflogic",
             "score": 0,
-            "issue_id": 2889,
+            "issue_id": 2890,
             "pub_date": "2026-07-20",
             "pub_date_card": {
                 "ru": "20 июля",
@@ -891,9 +919,37 @@
             "hash": "04fd161ab9b6bc88",
             "github_url": "",
             "github_stars": 0,
+            "authors": [
+                "Shyamal Y. Dharia",
+                "Stephen D. Smith",
+                "Camilo E. Valderrama"
+            ],
+            "affiliations": [
+                "The University of Winnipeg, Department of Applied Computer Science",
+                "The University of Winnipeg, Department of Psychology",
+                "University of Calgary, Department of Community Health Sciences",
+                "University of Manitoba, Department of Electrical and Computer Engineering"
+            ],
             "pdf_title_img": "assets/pdf/title_img/2607.18149.jpg",
             "data": {
-                "error": "410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
+                "categories": [
+                    "#architecture",
+                    "#dataset",
+                    "#agent_memory",
+                    "#inference",
+                    "#healthcare",
+                    "#open_source",
+                    "#optimization"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Логические нейросети для ЭЭГ-классификации на устройствах с ограниченными ресурсами",
+                    "desc": "В данной статье описывается использование дифференцируемых логических вентилей (Diff-Logic) для классификации ЭЭГ на устройствах с ограниченными ресурсами. Эти сети преобразуют модели в чистые булевы схемы, что позволяет выполнять операции с ними с помощью побитовой арифметики процессора. В экспериментах на четырех датасетах ЭЭГ было показано, что Diff-Logic превосходит традиционные многослойные перцептроны по точности при диагностике деменции, а также демонстрирует более низкую задержку при распознавании эмоций. Результаты говорят о том, что логические нейросети являются эффективным решением для интерфейсов мозг-компьютер в условиях ограниченной мощности."
+                },
+                "en": {
+                    "title": "Logic-Based Neural Networks for Efficient EEG Classification",
+                    "desc": "This paper explores Differentiable Logic Gate Networks (Diff-Logic) as a new approach for real-time EEG classification on edge devices, which face challenges with traditional neural networks due to floating-point arithmetic. The authors conducted experiments on four EEG datasets for tasks like dementia detection and emotion recognition, comparing Diff-Logic to Multi-Layer Perceptrons (MLPs) and Binarized Neural Networks (BNNs). Results showed that Diff-Logic outperformed MLPs in dementia screening while maintaining lower latency and smaller model size, making it suitable for power-constrained environments. The findings suggest that logic-based neural architectures can effectively meet the demands of portable brain-computer interfaces without sacrificing performance."
+                }
             }
         },
         {
@@ -954,43 +1010,43 @@
         "zh": "7月24日"
     },
     "categories": {
-        "#dataset": 6,
+        "#dataset": 8,
         "#data": 2,
-        "#benchmark": 7,
+        "#benchmark": 8,
         "#agents": 4,
         "#rl": 3,
         "#rlhf": 2,
         "#rag": 0,
         "#plp": 0,
-        "#inference": 3,
+        "#inference": 4,
         "#3d": 1,
         "#audio": 0,
-        "#multimodal": 1,
+        "#multimodal": 2,
         "#math": 1,
         "#multilingual": 0,
-        "#architecture": 4,
-        "#healthcare": 0,
+        "#architecture": 5,
+        "#healthcare": 1,
         "#training": 10,
         "#robotics": 3,
         "#agi": 2,
         "#games": 0,
-        "#interpretability": 2,
+        "#interpretability": 3,
         "#reasoning": 7,
         "#transfer_learning": 3,
         "#graphs": 0,
         "#ethics": 1,
         "#security": 0,
-        "#optimization": 9,
-        "#survey": 1,
+        "#optimization": 10,
+        "#survey": 2,
         "#diffusion": 2,
         "#alignment": 1,
         "#story_generation": 0,
-        "#hallucinations": 1,
+        "#hallucinations": 2,
         "#long_context": 2,
         "#synthetic": 2,
         "#machine_translation": 0,
         "#leakage": 0,
-        "#open_source": 3,
+        "#open_source": 4,
         "#small_models": 0,
         "#science": 1,
         "#low_resource": 0,
@@ -1006,7 +1062,7 @@
         "#prompt_caching": 0,
         "#session_memory": 0,
         "#tool_use": 0,
-        "#agent_memory": 2,
+        "#agent_memory": 3,
         "#evaluation": 1
     }
 }
