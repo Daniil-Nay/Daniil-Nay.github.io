@@ -4,9 +4,9 @@
         "en": "July 23",
         "zh": "7月23日"
     },
-    "time_utc": "2026-07-23 11:08",
+    "time_utc": "2026-07-23 13:54",
     "weekday": 3,
-    "issue_id": 2886,
+    "issue_id": 2887,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
             "url": "https://huggingface.co/papers/2607.20145",
             "abstract": "Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.",
-            "score": 31,
+            "score": 32,
             "issue_id": 2883,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -123,7 +123,7 @@
             "title": "Self Gradient Forcing: Native Long Video Extrapolation",
             "url": "https://huggingface.co/papers/2607.20368",
             "abstract": "Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.",
-            "score": 25,
+            "score": 26,
             "issue_id": 2884,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -180,7 +180,7 @@
             "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
             "url": "https://huggingface.co/papers/2607.19747",
             "abstract": "Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization.",
-            "score": 20,
+            "score": 21,
             "issue_id": 2884,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -524,6 +524,58 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.19865",
+            "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
+            "url": "https://huggingface.co/papers/2607.19865",
+            "abstract": "Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workflow complexities. Based on DocOps, we systematically evaluate representative closed- and open-source models across various agentic harnesses, revealing that even the most advanced frontier configurations still exhibit profound limitations when handling highly coupled, long-range tasks. Furthermore, a fine-grained analysis of existing agents' manipulation behaviors uncovers 3 key failure modes: long-term state tracking collapse, shallow semantic verification, and destructive editing of structural metadata. Ultimately, our work exposes the capability boundaries of agents in maintaining global document consistency, shedding light on the future design of robust, non-destructive agents for complex digital ecosystems.",
+            "score": 3,
+            "issue_id": 2886,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "f9d829b9a141883f",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Jiazhen Jiang",
+                "Boxi Cao",
+                "Lingyong Yan",
+                "Yaojie Lu",
+                "Hongyu Lin",
+                "Shuaiqiang Wang",
+                "Dawei Yin",
+                "Xianpei Han",
+                "Le Sun"
+            ],
+            "affiliations": [
+                "Baidu Inc.",
+                "Chinese Information Processing Laboratory Institute of Software, Chinese Academy of Sciences",
+                "University of Chinese Academy of Sciences"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.19865.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#agent_memory",
+                    "#long_context",
+                    "#agi",
+                    "#agents"
+                ],
+                "emoji": "📄",
+                "ru": {
+                    "title": "DocOps: новые горизонты для автономных агентов",
+                    "desc": "В статье представлена концепция DocOps, которая служит основой для оценки операций с документами в автономных агентах. DocOps помогает разбить сложные задачи на более простые элементы, вдохновленные реальными практиками. Исследование показывает, что даже самые современные модели имеют значительные ограничения при выполнении сложных долгосрочных задач. Работа подчеркивает важность повышения надежности агентов для поддержания целостности документов в цифровых экосистемах."
+                },
+                "en": {
+                    "title": "Enhancing Document Handling in AI Agents",
+                    "desc": "This paper presents DocOps, a framework for evaluating how well autonomous agents can handle digital documents. It breaks down document operations into simpler parts and assesses various AI models to identify their weaknesses. The study finds that even advanced models struggle with complex tasks, revealing issues like poor long-term tracking and incorrect editing. The findings highlight the need for better-designed agents that can maintain document consistency in complex environments."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.19691",
             "title": "SLPO: Scaling Latent Reasoning via a Surrogate Policy",
             "url": "https://huggingface.co/papers/2607.19691",
@@ -570,54 +622,49 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.19865",
-            "title": "DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations",
-            "url": "https://huggingface.co/papers/2607.19865",
-            "abstract": "Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workflow complexities. Based on DocOps, we systematically evaluate representative closed- and open-source models across various agentic harnesses, revealing that even the most advanced frontier configurations still exhibit profound limitations when handling highly coupled, long-range tasks. Furthermore, a fine-grained analysis of existing agents' manipulation behaviors uncovers 3 key failure modes: long-term state tracking collapse, shallow semantic verification, and destructive editing of structural metadata. Ultimately, our work exposes the capability boundaries of agents in maintaining global document consistency, shedding light on the future design of robust, non-destructive agents for complex digital ecosystems.",
+            "id": "https://huggingface.co/papers/2607.19942",
+            "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
+            "url": "https://huggingface.co/papers/2607.19942",
+            "abstract": "Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project.",
             "score": 2,
-            "issue_id": 2886,
+            "issue_id": 2883,
             "pub_date": "2026-07-22",
             "pub_date_card": {
                 "ru": "22 июля",
                 "en": "July 22",
                 "zh": "7月22日"
             },
-            "hash": "f9d829b9a141883f",
+            "hash": "c22e769cf0337a14",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Jiazhen Jiang",
-                "Boxi Cao",
-                "Lingyong Yan",
-                "Yaojie Lu",
-                "Hongyu Lin",
-                "Shuaiqiang Wang",
-                "Dawei Yin",
-                "Xianpei Han",
-                "Le Sun"
+                "Yechan Kim",
+                "JongHyun Park",
+                "Dongho Yoon",
+                "Namhoon Jung",
+                "Moongu Jeon"
             ],
             "affiliations": [
-                "Baidu Inc.",
-                "Chinese Information Processing Laboratory Institute of Software, Chinese Academy of Sciences",
-                "University of Chinese Academy of Sciences"
+                "GIST Republic of Korea",
+                "LIG Defense&Aerospace Republic of Korea"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.19865.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.19942.jpg",
             "data": {
                 "categories": [
-                    "#benchmark",
-                    "#agent_memory",
-                    "#long_context",
-                    "#agi",
-                    "#agents"
+                    "#dataset",
+                    "#transfer_learning",
+                    "#synthetic",
+                    "#open_source",
+                    "#benchmark"
                 ],
-                "emoji": "📄",
+                "emoji": "🛩️",
                 "ru": {
-                    "title": "DocOps: новые горизонты для автономных агентов",
-                    "desc": "В статье представлена концепция DocOps, которая служит основой для оценки операций с документами в автономных агентах. DocOps помогает разбить сложные задачи на более простые элементы, вдохновленные реальными практиками. Исследование показывает, что даже самые современные модели имеют значительные ограничения при выполнении сложных долгосрочных задач. Работа подчеркивает важность повышения надежности агентов для поддержания целостности документов в цифровых экосистемах."
+                    "title": "G-MAD: новый подход к аэродинамическому обнаружению объектов",
+                    "desc": "В данной работе представлен G-MAD, открытый фреймворк, который использует Arma3 для генерации синхронизированных многовидовых RGB-T данных для аэродинамического обнаружения объектов. G-MAD решает ключевые проблемы создания реальных аэродинамических наборов данных, такие как ограниченный контроль за точками зрения и высокая стоимость аннотирования. Фреймворк поддерживает спецификацию сценариев, контролируемое размещение камер и автоматическую аннотацию ограничивающих рамок. Используя G-MAD, мы также создали и выпустили AMOD, новый масштабный эталон для обнаружения объектов в многовидовом аэродинамическом RGB-T."
                 },
                 "en": {
-                    "title": "Enhancing Document Handling in AI Agents",
-                    "desc": "This paper presents DocOps, a framework for evaluating how well autonomous agents can handle digital documents. It breaks down document operations into simpler parts and assesses various AI models to identify their weaknesses. The study finds that even advanced models struggle with complex tasks, revealing issues like poor long-term tracking and incorrect editing. The findings highlight the need for better-designed agents that can maintain document consistency in complex environments."
+                    "title": "G-MAD: Revolutionizing Aerial Object Detection with Multi-View Data",
+                    "desc": "This paper presents G-MAD, an open-source framework designed for generating synchronized multi-view RGB-T data to improve aerial object detection. It overcomes challenges in creating real-world datasets, such as controlling viewpoints, aligning RGB and thermal images, and reducing annotation costs. G-MAD allows for structured scenario creation, precise camera placement, and automatic bounding box annotations using geometric data. Additionally, it introduces AMOD, a new large-scale benchmark for multi-view aerial RGB-T object detection, enhancing research in this area."
                 }
             }
         },
@@ -666,10 +713,10 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.19942",
-            "title": "G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection",
-            "url": "https://huggingface.co/papers/2607.19942",
-            "abstract": "Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project.",
+            "id": "https://huggingface.co/papers/2607.20417",
+            "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+            "url": "https://huggingface.co/papers/2607.20417",
+            "abstract": "Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians.",
             "score": 1,
             "issue_id": 2883,
             "pub_date": "2026-07-22",
@@ -678,37 +725,33 @@
                 "en": "July 22",
                 "zh": "7月22日"
             },
-            "hash": "c22e769cf0337a14",
+            "hash": "97d0a8fcbf369b7a",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Yechan Kim",
-                "JongHyun Park",
-                "Dongho Yoon",
-                "Namhoon Jung",
-                "Moongu Jeon"
+                "Cho In",
+                "Jeonghwan Cho",
+                "Mijin Yoo",
+                "Gim Hee Lee",
+                "Seon Joo Kim"
             ],
             "affiliations": [
-                "GIST Republic of Korea",
-                "LIG Defense&Aerospace Republic of Korea"
+                "National University of Singapore, Singapore",
+                "Yonsei University, South Korea"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.19942.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.20417.jpg",
             "data": {
                 "categories": [
-                    "#dataset",
-                    "#transfer_learning",
-                    "#synthetic",
-                    "#open_source",
-                    "#benchmark"
+                    "#3d"
                 ],
-                "emoji": "🛩️",
+                "emoji": "🌌",
                 "ru": {
-                    "title": "G-MAD: новый подход к аэродинамическому обнаружению объектов",
-                    "desc": "В данной работе представлен G-MAD, открытый фреймворк, который использует Arma3 для генерации синхронизированных многовидовых RGB-T данных для аэродинамического обнаружения объектов. G-MAD решает ключевые проблемы создания реальных аэродинамических наборов данных, такие как ограниченный контроль за точками зрения и высокая стоимость аннотирования. Фреймворк поддерживает спецификацию сценариев, контролируемое размещение камер и автоматическую аннотацию ограничивающих рамок. Используя G-MAD, мы также создали и выпустили AMOD, новый масштабный эталон для обнаружения объектов в многовидовом аэродинамическом RGB-T."
+                    "title": "Эффективный 3D-синтез с адаптивными токенами",
+                    "desc": "Статья представляет новый метод под названием ATSplat для синтеза новых видов 3D-графики с использованием адаптивных 3D-токенов. Этот подход улучшает традиционный метод 3D Gaussian Splatting (3DGS) за счёт оптимизации размещения примитивов, что позволяет сосредоточить их в сложных областях сцены. ATSplat уменьшает количество используемых гауссианов более чем в 5.7 раз, сохраняя при этом высокое качество рендеринга. Эксперименты показывают, что метод работает эффективно, обеспечивая быструю реконструкцию и вывод новых видов за секунды на коммерческом графическом процессоре."
                 },
                 "en": {
-                    "title": "G-MAD: Revolutionizing Aerial Object Detection with Multi-View Data",
-                    "desc": "This paper presents G-MAD, an open-source framework designed for generating synchronized multi-view RGB-T data to improve aerial object detection. It overcomes challenges in creating real-world datasets, such as controlling viewpoints, aligning RGB and thermal images, and reducing annotation costs. G-MAD allows for structured scenario creation, precise camera placement, and automatic bounding box annotations using geometric data. Additionally, it introduces AMOD, a new large-scale benchmark for multi-view aerial RGB-T object detection, enhancing research in this area."
+                    "title": "Adaptive 3D Tokens for Efficient Novel-View Synthesis",
+                    "desc": "The paper introduces ATSplat, a novel framework for 3D Gaussian Splatting (3DGS) that enhances the quality of novel-view synthesis by optimizing the placement of 3D primitives. Unlike traditional methods that rely on pixel alignment, ATSplat uses Adaptive 3D Tokens to create a sparse representation of the scene, allowing for more efficient allocation of resources based on scene complexity. This approach enables the model to focus on challenging areas while maintaining a compact set of Gaussians, significantly reducing redundancy. Experimental results demonstrate that ATSplat achieves superior rendering quality and efficiency, processing input images rapidly while using fewer Gaussians than previous methods."
                 }
             }
         },
@@ -765,45 +808,35 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.20417",
-            "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
-            "url": "https://huggingface.co/papers/2607.20417",
-            "abstract": "Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians.",
+            "id": "https://huggingface.co/papers/2607.17699",
+            "title": "SLAM in Low-Light Environments: Project Report",
+            "url": "https://huggingface.co/papers/2607.17699",
+            "abstract": "Abstract  Simultaneous localization and mapping (SLAM) is one of the fundamental problems in robotics, as it enables autonomous operations in real-world scenarios. Under low illumination, reduced contrast, sensor noise, and motion blur degrade both feature extraction and feature matching, while compensating with LiDAR, depth, or thermal sensors raises cost, power draw, and integration complexity. Existing benchmarks remain dominated by well-lit indoor or daylight sequences, leaving open how far SLAM with standard RGB cameras can be pushed in the dark. We benchmark six systems spanning the feature-based, direct, filter-based, and learning-based paradigms - ORB-SLAM3, DSO, Kimera-VIO, OpenVINS, DPVO, and DPV-SLAM - on five LaMARia sequences of varying difficulty and illumination, reporting absolute and relative pose error alongside control-point recall. Kimera-VIO is the only system to track all five sequences to completion, combining the lowest relative pose error with steadily growing absolute error due to the absence of loop closure; DPVO and DPV-SLAM never lose tracking but incur absolute errors of roughly 100 m under low light; and the classical monocular pipelines (ORB-SLAM3, DSO) together with the filter-based OpenVINS fail outright or diverge on most of the harder and low-light sequences. The results suggest that RGB-only SLAM maintains stable low-light tracking only when both inertial fusion and global optimization are present. Closing the remaining gap will likely require low-light-specific learned front-ends or a return to complementary sensing.",
             "score": 0,
-            "issue_id": 2883,
-            "pub_date": "2026-07-22",
+            "issue_id": 2887,
+            "pub_date": "2026-07-20",
             "pub_date_card": {
-                "ru": "22 июля",
-                "en": "July 22",
-                "zh": "7月22日"
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
             },
-            "hash": "97d0a8fcbf369b7a",
+            "hash": "4e960c2cb42127ac",
             "github_url": "",
             "github_stars": 0,
-            "authors": [
-                "Cho In",
-                "Jeonghwan Cho",
-                "Mijin Yoo",
-                "Gim Hee Lee",
-                "Seon Joo Kim"
-            ],
-            "affiliations": [
-                "National University of Singapore, Singapore",
-                "Yonsei University, South Korea"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.20417.jpg",
+            "pdf_title_img": "img/title_stub.png",
             "data": {
                 "categories": [
-                    "#3d"
+                    "#robotics",
+                    "#benchmark"
                 ],
-                "emoji": "🌌",
+                "emoji": "🌑",
                 "ru": {
-                    "title": "Эффективный 3D-синтез с адаптивными токенами",
-                    "desc": "Статья представляет новый метод под названием ATSplat для синтеза новых видов 3D-графики с использованием адаптивных 3D-токенов. Этот подход улучшает традиционный метод 3D Gaussian Splatting (3DGS) за счёт оптимизации размещения примитивов, что позволяет сосредоточить их в сложных областях сцены. ATSplat уменьшает количество используемых гауссианов более чем в 5.7 раз, сохраняя при этом высокое качество рендеринга. Эксперименты показывают, что метод работает эффективно, обеспечивая быструю реконструкцию и вывод новых видов за секунды на коммерческом графическом процессоре."
+                    "title": "SLAM в темноте: вызовы и решения",
+                    "desc": "В данной статье рассматривается задача одновременной локализации и картографирования (SLAM), особенно в условиях плохого освещения. Авторы протестировали шесть систем SLAM, таких как ORB-SLAM3 и Kimera-VIO, на последовательностях с различными уровнями освещенности. Результаты показывают, что для стабильного отслеживания в условиях низкой освещенности необходимо комбинировать инерциальную интеграцию и глобальную оптимизацию. Заключение подразумевает необходимость использования обучаемых решений для улучшения SLAM в условиях темноты."
                 },
                 "en": {
-                    "title": "Adaptive 3D Tokens for Efficient Novel-View Synthesis",
-                    "desc": "The paper introduces ATSplat, a novel framework for 3D Gaussian Splatting (3DGS) that enhances the quality of novel-view synthesis by optimizing the placement of 3D primitives. Unlike traditional methods that rely on pixel alignment, ATSplat uses Adaptive 3D Tokens to create a sparse representation of the scene, allowing for more efficient allocation of resources based on scene complexity. This approach enables the model to focus on challenging areas while maintaining a compact set of Gaussians, significantly reducing redundancy. Experimental results demonstrate that ATSplat achieves superior rendering quality and efficiency, processing input images rapidly while using fewer Gaussians than previous methods."
+                    "title": "Enhancing SLAM Performance in Low-Light Conditions",
+                    "desc": "This paper addresses the challenges of simultaneous localization and mapping (SLAM) in low-light conditions, which can hinder feature extraction and matching. It evaluates six SLAM systems, including both traditional and learning-based approaches, on various sequences with different illumination levels. The findings reveal that Kimera-VIO performs best in low-light scenarios, while other systems struggle with tracking and pose accuracy. The study suggests that improving RGB-only SLAM in darkness may require advanced learned techniques or additional sensor integration."
                 }
             }
         }
@@ -824,7 +857,7 @@
     "categories": {
         "#dataset": 5,
         "#data": 1,
-        "#benchmark": 6,
+        "#benchmark": 7,
         "#agents": 4,
         "#rl": 3,
         "#rlhf": 2,
@@ -839,7 +872,7 @@
         "#architecture": 4,
         "#healthcare": 0,
         "#training": 9,
-        "#robotics": 2,
+        "#robotics": 3,
         "#agi": 2,
         "#games": 0,
         "#interpretability": 2,
