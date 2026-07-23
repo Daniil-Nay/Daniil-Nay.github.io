@@ -4,9 +4,9 @@
         "en": "July 23",
         "zh": "7月23日"
     },
-    "time_utc": "2026-07-23 16:26",
+    "time_utc": "2026-07-23 19:14",
     "weekday": 3,
-    "issue_id": 2888,
+    "issue_id": 2889,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
             "url": "https://huggingface.co/papers/2607.20145",
             "abstract": "Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.",
-            "score": 42,
+            "score": 43,
             "issue_id": 2883,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -123,7 +123,7 @@
             "title": "Self Gradient Forcing: Native Long Video Extrapolation",
             "url": "https://huggingface.co/papers/2607.20368",
             "abstract": "Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.",
-            "score": 27,
+            "score": 29,
             "issue_id": 2884,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -234,7 +234,7 @@
             "title": "An Exam for Active Observers",
             "url": "https://huggingface.co/papers/2607.16165",
             "abstract": "Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than a single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code: such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perception-reasoning loop.",
-            "score": 13,
+            "score": 18,
             "issue_id": 2884,
             "pub_date": "2026-07-17",
             "pub_date_card": {
@@ -324,6 +324,59 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.13429",
+            "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
+            "url": "https://huggingface.co/papers/2607.13429",
+            "abstract": "Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io",
+            "score": 10,
+            "issue_id": 2884,
+            "pub_date": "2026-07-15",
+            "pub_date_card": {
+                "ru": "15 июля",
+                "en": "July 15",
+                "zh": "7月15日"
+            },
+            "hash": "4871e1e4a56a25da",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Dwip Dalal",
+                "Shivansh Patel",
+                "Chahit Jain",
+                "Jeonghwan Kim",
+                "Utkarsh Mishra",
+                "Alex Baratian",
+                "Hyeonjeong Ha",
+                "Heng Ji",
+                "Svetlana Lazebnik",
+                "Unnat Jain"
+            ],
+            "affiliations": [
+                "Texas A&M University",
+                "University of California, Irvine",
+                "University of Illinois Urbana-Champaign"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.13429.jpg",
+            "data": {
+                "categories": [
+                    "#agi",
+                    "#training",
+                    "#optimization",
+                    "#agents",
+                    "#robotics"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новая эра взаимодействия: улучшение робототехники через Anchor-Align",
+                    "desc": "Статья предлагает метод Anchor-Align для улучшения работы модели, связывающей визуальные и языковые данные с действиями робота. Этот подход предотвращает ухудшение предварительно обученных представлений, которое наблюдается при использовании традиционного обучения на демонстрациях робота. Anchor-Align использует две цели: якорную привязку визуально-языковых данных и согласование языковых действий, что позволяет совместно обучать предсказание действий и языка. В результате на физическом роботе xArm7 наблюдаются значительные улучшения в успехе выполнения задач."
+                },
+                "en": {
+                    "title": "Aligning Vision and Action for Better Robot Learning",
+                    "desc": "This paper introduces Anchor-Align, a method to improve the finetuning of vision-language models (VLMs) for robot demonstrations using behavior cloning (BC). The authors highlight that traditional BC can overwrite important pretrained representations, leading to misalignment between language and actions. Anchor-Align addresses this by using Vision-Language Anchoring to maintain layer-wise representations and Language-Action Alignment to train language and action predictions together. The results show significant improvements in real-robot success rates and robustness in various scenarios, indicating that effective action learning can coexist with preserving pretrained knowledge."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.10169",
             "title": "Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization",
             "url": "https://huggingface.co/papers/2607.10169",
@@ -371,59 +424,6 @@
                 "en": {
                     "title": "RIPO: Balancing Exploration and Exploitation in RL for LLMs",
                     "desc": "This paper addresses the limitations of reinforcement learning (RL) algorithms, specifically PPO-Clip, in enhancing the reasoning capabilities of large language models (LLMs). It identifies a fundamental flaw in PPO-Clip's approach to measuring policy discrepancy, which leads to ineffective exploration strategies. The authors propose a new method called Riemannian Isometric Policy Optimization (RIPO) that corrects this flaw by ensuring policy updates are consistent with the geometry of the policy space. RIPO not only stabilizes optimization but also significantly improves performance on various benchmarks compared to existing RL algorithms."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.13429",
-            "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
-            "url": "https://huggingface.co/papers/2607.13429",
-            "abstract": "Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io",
-            "score": 7,
-            "issue_id": 2884,
-            "pub_date": "2026-07-15",
-            "pub_date_card": {
-                "ru": "15 июля",
-                "en": "July 15",
-                "zh": "7月15日"
-            },
-            "hash": "4871e1e4a56a25da",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Dwip Dalal",
-                "Shivansh Patel",
-                "Chahit Jain",
-                "Jeonghwan Kim",
-                "Utkarsh Mishra",
-                "Alex Baratian",
-                "Hyeonjeong Ha",
-                "Heng Ji",
-                "Svetlana Lazebnik",
-                "Unnat Jain"
-            ],
-            "affiliations": [
-                "Texas A&M University",
-                "University of California, Irvine",
-                "University of Illinois Urbana-Champaign"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.13429.jpg",
-            "data": {
-                "categories": [
-                    "#agi",
-                    "#training",
-                    "#optimization",
-                    "#agents",
-                    "#robotics"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Новая эра взаимодействия: улучшение робототехники через Anchor-Align",
-                    "desc": "Статья предлагает метод Anchor-Align для улучшения работы модели, связывающей визуальные и языковые данные с действиями робота. Этот подход предотвращает ухудшение предварительно обученных представлений, которое наблюдается при использовании традиционного обучения на демонстрациях робота. Anchor-Align использует две цели: якорную привязку визуально-языковых данных и согласование языковых действий, что позволяет совместно обучать предсказание действий и языка. В результате на физическом роботе xArm7 наблюдаются значительные улучшения в успехе выполнения задач."
-                },
-                "en": {
-                    "title": "Aligning Vision and Action for Better Robot Learning",
-                    "desc": "This paper introduces Anchor-Align, a method to improve the finetuning of vision-language models (VLMs) for robot demonstrations using behavior cloning (BC). The authors highlight that traditional BC can overwrite important pretrained representations, leading to misalignment between language and actions. Anchor-Align addresses this by using Vision-Language Anchoring to maintain layer-wise representations and Language-Action Alignment to train language and action predictions together. The results show significant improvements in real-robot success rates and robustness in various scenarios, indicating that effective action learning can coexist with preserving pretrained knowledge."
                 }
             }
         },
@@ -756,6 +756,27 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.20092",
+            "title": "ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models",
+            "url": "https://huggingface.co/papers/2607.20092",
+            "abstract": "Abstract  Contextual entrainment is the tendency of a model to let auxiliary context in its input pull its output, independently of whether that context is relevant, true, or even meaningful. Recently, it has been identified and given a mechanistic account in unimodal language models. Whether and how it manifests in vision-language models (VLMs) is, by contrast, largely unexamined, and the field lacks a purpose-built instrument with which to investigate it. We take the position that studying contextual entrainment in VLMs requires more than porting an existing text-only benchmark to the multimodal setting: it requires a taxonomically structured, dual-modality instrument whose conditions are constructed around the item at hand (the depicted image in the textual stream, the textual query in the visual stream). We argue that the move to VLMs is substantive rather than incremental. It makes entrainment a dual phenomenon, drivable independently by textual and by visual context, and it opens a veracity distinction (context that is false of the depicted scene yet possible in the world) that has no counterpart in the unimodal, world-knowledge-only formulation of prior work. To make this position concrete and actionable, we introduce ENTRAP-VL (ENTRainment Assessment Probe for Vision and Language), a manually curated dataset of 1,500 items across eight categories, organized by a taxonomy that spans two axes, i.e., the association of context with the item and its relationship to truth, and split into a textual-entrainment stream (eight context conditions) and a visual-entrainment stream (three context conditions). We do not claim to measure entrainment in any particular model; we provide the instrument, the taxonomy that motivates it, and the evaluation protocols it enables, so that the community can investigate the phenomenon rigorously. We will release the dataset and its documentation publicly.",
+            "score": 0,
+            "issue_id": 2889,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "d2d1cf0be1d39450",
+            "github_url": "",
+            "github_stars": 0,
+            "pdf_title_img": "assets/pdf/title_img/2607.20092.jpg",
+            "data": {
+                "error": "410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20207",
             "title": "SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments",
             "url": "https://huggingface.co/papers/2607.20207",
@@ -852,6 +873,27 @@
                     "title": "Data Quality Matters in Text-to-Video Models",
                     "desc": "This paper explores the importance of training data in text-to-video generation models. It highlights how the distribution of video content and the quality of captions significantly influence model performance and generalization. The authors introduce a testbed called Moving Alphabet to conduct controlled experiments on data quality. Their findings suggest that while high-quality data can improve model outcomes, poor pre-training data cannot be fully compensated for, emphasizing the need for better data curation in model training."
                 }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.18149",
+            "title": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
+            "url": "https://huggingface.co/papers/2607.18149",
+            "abstract": "Abstract  Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles models into pure Boolean circuits executable via bitwise CPU operations. Through rigorous iso-parameter experiments across four EEG datasets spanning two classification tasks, binary dementia detection and 3-class emotion recognition, we compared Diff-Logic against matched-capacity Multi-Layer Perceptron (MLP) and Binarized Neural Network (BNN) baselines at four complexity tiers (50k-500k parameters). On dementia screening, Diff-Logic achieved 80.2% Macro F1, outperforming the MLP baseline by 6.8%. On emotion recognition, the MLP retained a moderate performance advantage but incurred a 2.3times higher latency and 14times larger model size when deployed on a power-constrained (7W) Nvidia Jetson Orin Nano CPU (Single-core). Critically, Diff-Logic inference time remained nearly constant across a 10times increase in model scale, achieving a peak speedup of 2.9times over MLPs at the largest complexity tier. Our results establish logic-based neural architectures as a practical paradigm for resource-constrained brain-computer interfaces, achieving competitive or superior performance while natively satisfying the latency and memory constraints of portable edge deployment. Code is available on GitHub: https://github.com/Shyamal-Dharia/eeg-difflogic",
+            "score": 0,
+            "issue_id": 2889,
+            "pub_date": "2026-07-20",
+            "pub_date_card": {
+                "ru": "20 июля",
+                "en": "July 20",
+                "zh": "7月20日"
+            },
+            "hash": "04fd161ab9b6bc88",
+            "github_url": "",
+            "github_stars": 0,
+            "pdf_title_img": "assets/pdf/title_img/2607.18149.jpg",
+            "data": {
+                "error": "410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
             }
         },
         {
