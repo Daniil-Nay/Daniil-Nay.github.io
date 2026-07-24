@@ -1,0 +1,1300 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-C1CRWDNJ1J"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-C1CRWDNJ1J');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>HF. 19 papers. July 23.</title>
+<link rel="icon" href="favicon.svg" sizes="any" type="image/svg+xml">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Tiny5&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: cornflowerblue;
+            --primary-color-dark: #fffd87cf;
+            --secondary-color: #fff;
+            --background-color: #eee;
+            --text-color: #333333;
+            --header-color: cornflowerblue;
+            --body-color: #eee;
+            --menu-color: #002370;
+        }
+        .background-digit {
+            position: absolute;
+            font-family: 'Tiny5';
+            bottom: -20px;
+            right: -10px;
+            font-size: 8em;
+            font-weight: 400;
+            color: #0989ea22;
+            z-index: 2;
+            line-height: 1;
+        }
+        .dark-theme .background-digit {
+            color: #e9e78f3d;
+        }
+        body {
+            font-family: 'Roboto Slab', sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        .container {
+            max-width: 1500px;
+            margin: 0 auto;
+            flex: 1 0 auto;
+            width: 100%
+        }
+        .a-clean {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+        .a-clean:hover {
+            color: #fff;
+        }
+        header {
+            padding: 3.6em 0 2.4em 0;
+            text-align: center;
+        }
+        footer {
+            background-color: var(--primary-color);
+            color: white;
+            text-align: center;
+            margin-top: 2em;
+            flex-shrink: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.4em;
+            margin: 0;
+            font-weight: 700;
+        }
+        .article-title-cont {
+            margin: -21px -21px 0px -21px;
+            padding: 10px 20px;
+            background: cornflowerblue;
+            display: table;
+            min-height: 5.9em;
+        }
+        .dark-theme .article-title-cont {
+            background: #444444;
+        }
+        .article-title {
+            color: white;           
+        }
+        .article-title h2 {
+            margin: 0px;
+            padding: 0px;
+            font-weight: 400;
+            text-align:center;
+        }
+        h2 {
+            # color: var(--primary-color);
+            font-size: 1.2em;
+            margin-top: 0;
+            margin-bottom: 0.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 0.5em;
+            font-weight: 300;
+        }
+        main {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 1.5em;
+            padding: 10px 20px 20px 20px;
+        }
+        body.dark-tmeme>header {
+            background-color: background-color: #333333;
+            color: white;
+        }
+        body.dark-theme>div>main>article>div.article-content>p.meta {
+            color: #fff;
+        }
+        body.light-theme>div>main>article>div.article-content>p.meta {
+            color: #555;
+        }
+        body.dark-theme>div>main>article>div.article-content>p.pub-date {
+            color: #ccc;
+        }
+        body.light-theme>div>main>article>div.article-content>p.pub-date {
+            color: #555;
+        }
+        body.dark-theme>div>main>article>div.article-content>div.tags {
+            color: #ccc;
+        }
+        body.light-theme>div>main>article>div.article-content>div.tags {
+            color: #fff;
+        }
+        body.light-theme>header {
+            background-color: var(--header-color);
+            color: white;
+        }
+        article {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        .article-content {
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            overflow: hidden;
+            transition: background-color 0.2s ease;
+            padding: 1.3em;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            z-index: 1;
+            cursor: pointer;
+            max-width: 800px;
+            position: relative;
+        }
+        body.dark-theme>div>main>article>div.article-content {
+            background-color: #444;
+            border: none;
+        }
+        body.light-theme>div>main>article>div.article-content {
+            background-color: #fff;
+        }
+        body.dark-theme>div>main>article>div.article-content:hover {
+            background-color: #414141;
+        }
+        body.light-theme>div>main>article>div.article-content:hover {
+            background-color: #fafafa;
+        }
+        .meta {
+            font-size: 0.9em;
+            margin-bottom: 0em;
+            font-weight: 500;
+            margin: 20px 0 0px 0;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .pub-date {
+            font-size: 0.8em;
+            margin-bottom: 0.8em;
+            font-weight: 400;
+            text-align: right;
+            font-family: Roboto;
+        }
+        .tags {
+            font-size: 0.9em;
+            margin-bottom: 0;
+            position: absolute;
+            bottom: 0px;
+            font-weight: 300;
+            font-family: 'Roboto Slab';
+            background: #555;
+            left: 0;
+            width: 100%;
+            padding: 10px 20px;
+        }
+        .abstract {
+            position: relative;
+            max-height: 170px;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+            cursor: pointer;
+        }
+        .abstract.expanded {
+            max-height: 1000px;
+        }
+        .abstract-toggle {
+            position: absolute;
+            bottom: 4px;
+            right: 0;
+            cursor: pointer;
+            color: var(--primary-color);
+            float: right;
+            font-weight: 400;
+        }
+        .explanation {
+            background-color: #e8f5e9;
+            border-left: 4px solid var(--secondary-color);
+            padding: 1em;
+            margin-top: 1.5em;
+        }
+        .links {
+            margin-top: 1.5em;
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+        }
+        .github-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 8px;
+            border-radius: 12px;
+            background: #f5f5f5;
+            font-size: 0.95em;
+        }
+        .dark-theme .github-link {
+            background: #555;
+        }
+        .github-stars {
+            font-weight: 600;
+            color: var(--text-color);
+        }
+        .dark-theme .github-stars {
+            color: #fff;
+        }
+        .affiliations {
+            margin-bottom: 50px;
+            padding:10px;
+            font-size: 0.9em;
+            text-align: center
+        }
+        a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+        .dark-theme a {
+            color: var(--primary-color-dark);
+        }
+        a:hover {
+            color: #e73838;
+        }
+        .light-theme {
+            background-color: var(--body-color);
+            color: #333333;
+        }
+        .dark-theme {
+            background-color: #333333;
+            color: #ffffff;
+        }
+        .theme-switch {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            align-items: center;
+        }
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 30px;
+        }
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 30px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 24px;
+            width: 24px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        input:checked + .slider {
+            background-color: var(--primary-color);
+        }
+        input:checked + .slider:before {
+            transform: translateX(20px);
+        }
+        .switch-label {
+            margin-right: 10px;
+        }
+
+        .sub-header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 7px;
+            padding: 0 20px;
+        }
+        .sub-header-container-2 {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .update-info-container {
+            margin-top: 15px;
+            margin-bottom: 0px;
+            text-align: left;
+            flex: 1;
+        }
+        .sort-container {
+            margin-top: 15px;
+            margin-bottom: 0px;
+            text-align: right;
+            flex: 2;
+        }
+        
+        .category-toggle-container {
+            display: inline-block;
+            margin-top: 15px;
+            margin-bottom: 10px;
+            cursor: pointer;
+        }
+        .category-option-container {
+            margin-top: 15px;
+            margin-bottom: 10px;
+            display: none;
+            margin-left: auto;
+        }
+        .category-option-container.expanded {
+            display: block;
+        }
+
+        .sort-dropdown {
+            padding: 5px 10px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            background-color: white;
+            color: var(--text-color);
+            font-family: 'Roboto Slab', sans-serif;
+        }
+        .sort-label {
+            margin-right: 10px;
+            font-size: 1.0em !important;
+        }        
+        .dark-theme .sort-dropdown {
+            background-color: #444;
+            color: white;
+            border-color: var(--text-color);
+        }
+        .title-sign {
+            display: inline-block;
+            transition: all 0.5s ease;            
+        }
+        .rotate {
+            transform: rotate(45deg) translateY(-6px);
+            transform-origin: center;
+        }
+        .title-text {
+            display: inline;
+            padding-left: 10px;
+        }
+        .summary_title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #222;
+            margin-bottom: 5px;
+        }
+        .summary_text {
+
+        }
+        .summary_image {
+            max-height: 500px;
+            max-width: 100%;
+            align: center;
+            margin-top: 40px;        
+            margin-bottom: 60px;        
+        }
+        .category-filters {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+            display: none;
+        }
+        .category-filters.expanded {
+            display: block;
+            margin-top: 10px;
+        }
+        .category-button {
+            display: inline-block;
+            margin: 5px;
+            padding: 5px 10px;
+            border-radius: 15px;
+            background-color: #f0f0f0;
+            color: #333;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .category-button.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        .category-button.inactive:not(.active) {
+            color: #ccc;
+        }
+        .dark-theme .category-button {
+            background-color: #555;
+            color: #fff;
+        }
+        .dark-theme .category-button.active {
+            background-color: var(--primary-color);
+        }
+        .dark-theme .category-button.inactive:not(.active) {
+            color: #888;
+        }
+        .clear-categories {
+            display: inline-block;
+            margin: 5px;
+            padding: 5px 10px;
+            border-radius: 15px;
+            background-color: #f0f0f0;
+            color: #333;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .clear-categories:hover {
+            background-color: #bbb;
+        }
+        .svg-container {
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
+        .svg-container span {
+            position: relative;
+            z-index: 1;
+        }
+        .svg-container svg {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            z-index: 0;
+        }
+
+        .nav-menu {
+            background-color: var(--menu-color);
+            padding: 2px 0 2px 0;
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+        }        
+        .nav-container {
+            max-width: 1500px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: left;
+            gap: 3em;
+        }
+        .nav-container span a {
+            color: white;
+        }        
+        .nav-item {
+            color: white;
+            padding: 3px 0px;
+            cursor: pointer;
+            font-weight: 400;
+        }         
+        .nav-prev {
+            margin-left: 20px;
+        }        
+        .nav-item:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.3);
+        }        
+        .language-flags {
+            display: flex;
+            gap: 7px;
+            padding: 5px 20px 0 0;
+            margin-left: auto;
+        }
+        .flag-svg {
+            width: 22px;
+            height: 22px;
+            cursor: pointer;
+            opacity: 0.4;
+            transition: opacity 0.3s ease;
+            border-radius: 2px;
+        }
+        .flag-svg.active {
+            opacity: 1;
+        }
+        .flag-svg:hover {
+            opacity: 0.8;
+        }
+        
+        .dark-theme .nav-menu {
+            background-color: #333;
+        }
+        .dark-theme .nav-item {
+            color: white;
+        }
+        
+        .dark-theme .nav-item:hover {
+            background-color: rgba(255, 255, 255, 0.05);
+        }
+
+        .pointer { cursor: pointer; }
+
+        .article-pdf-title-img {
+            max-width: 100%;
+            max-height: 400px;
+            display: inline-block;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .article-pdf-title-img-cont {
+            text-align: center;
+        }
+        .dark-theme .article-pdf-title-img {
+            opacity: 0.8;
+            filter: grayscale(1);
+        }
+
+        @media (max-width: 600px) {
+            .nav-container {
+                flex-direction: row;
+                gap: 1.5em;
+            }            
+            .nav-item {
+                padding: 3px 0px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .category-filters {
+                display: none;
+            }
+            .category-toggle {
+                display: inline-block;
+                width: 100%;
+                text-align: left;
+            }
+            .category-filters.expanded {
+                display: block;
+                margin-top: 10px;
+            }
+        }
+        @media (max-width: 600px) {
+            .sub-header-container {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .sort-container {
+                width: 100%;
+                display: flex;
+                justify-content: left;
+                margin: 0 auto;
+            }
+            .sort-dropdown {
+                margin-left: auto;
+            }
+            .sort-label {
+                margin-top: 5px;
+                float: left;
+            }
+
+            .sub-header-container-2 {
+                flex-direction: row;
+                align-items: flex-start;
+            }
+            .update-info-container {
+                text-align: left;
+                width: 100%;
+                margin-bottom: 0px;
+            }
+            .category-toggle-container {
+                margin-top: 15px;
+                text-align: left;
+                margin-bottom: 10px;
+            }
+            .category-option-container {
+                margin-top: 15px;
+                text-align: center;
+                margin-bottom: 10px;
+            }            
+            main {
+                grid-template-columns: repeat(auto-fit);
+                gap: 0em;
+                padding: 10px 0 20px 0;
+            }
+            footer {
+                margin-top: -20px;
+            }
+            article>div.article-content {
+                border-radius: 0px;
+            }
+        }
+    </style>
+    <script>
+    function toggleAbstract(id) {
+        var abstract = document.getElementById('abstract-' + id);
+        var toggle = document.getElementById('toggle-' + id);
+        if (abstract.classList.contains('expanded')) {
+            abstract.classList.remove('expanded');
+            toggle.textContent = '...';
+        } else {
+            abstract.classList.add('expanded');
+            toggle.textContent = '';
+        }
+    }
+    function getTimeDiff(dateString, lang='ru') {
+        const timeUnits = {
+            ru: {
+                minute: ["минуту", "минуты", "минут"],
+                hour: ["час", "часа", "часов"],
+                day: ["день", "дня", "дней"],
+                justNow: "только что",
+                ago: "назад"
+            },
+            en: {
+                minute: ["minute", "minutes", "minutes"],
+                hour: ["hour", "hours", "hours"],
+                day: ["day", "days", "days"],
+                justNow: "just now",
+                ago: "ago"
+            },
+            zh: {
+                minute: ["分钟", "分钟", "分钟"],
+                hour: ["小时", "小时", "小时"],
+                day: ["天", "天", "天"],
+                justNow: "刚刚",
+                ago: "前"
+            }
+        };
+
+        function getPlural(number, words, lang) {
+            if (lang === 'ru') {
+                if (number % 10 === 1 && number % 100 !== 11) {
+                    return words[0];
+                } else if (number % 10 >= 2 && number % 10 <= 4 && (number % 100 < 10 || number % 100 >= 20)) {
+                    return words[1];
+                } else {
+                    return words[2];
+                }
+            } else if (lang === 'en') {
+                return number === 1 ? words[0] : words[1];
+            } else {
+                return words[0];
+            }
+        }
+
+        function formatTimeDiff(number, unit, lang) {
+            const unitWord = getPlural(number, timeUnits[lang][unit], lang);
+            
+            return `${number} ${unitWord} ${timeUnits[lang].ago}`;
+        }
+
+        if (!['ru', 'en'].includes(lang)) {
+            throw new Error('Unsupported language. Supported languages are: ru, en');
+        }
+
+        const pastDate = new Date(dateString.replace(" ", "T") + ":00Z");
+        const currentDate = new Date();
+        const diffInSeconds = Math.floor((currentDate - pastDate) / 1000);
+        
+        const minutes = Math.floor(diffInSeconds / 60);
+        const hours = Math.floor(diffInSeconds / 3600);
+        const days = Math.floor(diffInSeconds / 86400);
+
+        if (minutes === 0) {
+            return timeUnits[lang].justNow;
+        } else if (minutes < 60) {
+            return formatTimeDiff(minutes, 'minute', lang);
+        } else if (hours < 24) {
+            return formatTimeDiff(hours, 'hour', lang);
+        } else {
+            return formatTimeDiff(days, 'day', lang);
+        }
+    }
+    function isToday(dateString) {
+        const inputDate = new Date(dateString);
+        const today = new Date();
+        return (
+            inputDate.getFullYear() === today.getFullYear() &&
+            inputDate.getMonth() === today.getMonth() &&
+            inputDate.getDate() === today.getDate()
+        );
+    }
+    function isCurrentMonth(dateString) {
+        const inputDate = new Date(dateString);
+        const today = new Date();
+        return (
+            inputDate.getFullYear() === today.getFullYear() &&
+            inputDate.getMonth() === today.getMonth()
+        );
+    }
+    function formatArticlesTitle(number, lang='ru') {
+        const lastDigit = number % 10;
+        const lastTwoDigits = number % 100;
+        let word;
+
+        if (!['ru', 'en', 'zh'].includes(lang)) {
+            throw new Error('Unsupported language. Supported languages are: ru, en, zh');
+        }
+
+        if (lang === 'ru') {
+            if (lastTwoDigits >= 11 && lastTwoDigits <= 14) {
+                word = "статей";
+            } else if (lastDigit === 1) {
+                word = "статья";
+            } else if (lastDigit >= 2 && lastDigit <= 4) {
+                word = "статьи";
+            } else {
+                word = "статей";
+            }
+        } else if (lang === 'en') {
+            if (number === 1) {
+                word = 'paper'
+            } else {
+                word = 'papers'
+            }
+        } else if (lang === 'zh') {
+            word = "篇论文"
+        }
+
+        if (lang === 'zh') {
+            return `${number}${word}`;
+        } else {
+            return `${number} ${word}`;
+        }
+    }
+    </script>
+</head>
+<body class="light-theme">
+    <header>
+        <div class="container">            
+            <a href="index.html" class="a-clean"><h1 class="title-sign" id="doomgrad-icon">🔺</h1><h1 class="title-text" id="doomgrad">hf daily</h1></a>
+            <p><span id="title-date">23 июля</span> | <span id="title-articles-count">19 papers</span></p>
+        </div>
+        <div class="theme-switch">
+            <label class="switch">
+                <input type="checkbox" id="theme-toggle">
+                <span class="slider"></span>
+            </label>
+        </div>
+    </header>
+    <div class="nav-menu">
+        <div class="nav-container">
+            <span class="nav-item nav-prev" id="nav-prev"><a href="/d/2026-07-22.html">⬅️ <span id="prev-date">22.07</span></a></span>
+            <span class="nav-item" id="nav-next"><a href="/d/2026-07-24.html">➡️ <span id="next-date">24.07</span></a></span>
+            <span class="nav-item" id="nav-monthly"><a href="m/2026-07.html">📈 <span id='top-month-label'>Месяц</span></a></span>
+            <div class="language-flags">
+                <svg class="flag-svg" data-lang="ru" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#1435a1" d="M1 11H31V21H1z"></path><path d="M5,4H27c2.208,0,4,1.792,4,4v4H1v-4c0-2.208,1.792-4,4-4Z" fill="#fff"></path><path d="M5,20H27c2.208,0,4,1.792,4,4v4H1v-4c0-2.208,1.792-4,4-4Z" transform="rotate(180 16 24)" fill="#c53a28"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path></svg>
+                <svg class="flag-svg" data-lang="en" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><rect x="1" y="4" width="30" height="24" rx="4" ry="4" fill="#fff"></rect><path d="M1.638,5.846H30.362c-.711-1.108-1.947-1.846-3.362-1.846H5c-1.414,0-2.65,.738-3.362,1.846Z" fill="#a62842"></path><path d="M2.03,7.692c-.008,.103-.03,.202-.03,.308v1.539H31v-1.539c0-.105-.022-.204-.03-.308H2.03Z" fill="#a62842"></path><path fill="#a62842" d="M2 11.385H31V13.231H2z"></path><path fill="#a62842" d="M2 15.077H31V16.923000000000002H2z"></path><path fill="#a62842" d="M1 18.769H31V20.615H1z"></path><path d="M1,24c0,.105,.023,.204,.031,.308H30.969c.008-.103,.031-.202,.031-.308v-1.539H1v1.539Z" fill="#a62842"></path><path d="M30.362,26.154H1.638c.711,1.108,1.947,1.846,3.362,1.846H27c1.414,0,2.65-.738,3.362-1.846Z" fill="#a62842"></path><path d="M5,4h11v12.923H1V8c0-2.208,1.792-4,4-4Z" fill="#102d5e"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path><path fill="#fff" d="M4.601 7.463L5.193 7.033 4.462 7.033 4.236 6.338 4.01 7.033 3.279 7.033 3.87 7.463 3.644 8.158 4.236 7.729 4.827 8.158 4.601 7.463z"></path><path fill="#fff" d="M7.58 7.463L8.172 7.033 7.441 7.033 7.215 6.338 6.989 7.033 6.258 7.033 6.849 7.463 6.623 8.158 7.215 7.729 7.806 8.158 7.58 7.463z"></path><path fill="#fff" d="M10.56 7.463L11.151 7.033 10.42 7.033 10.194 6.338 9.968 7.033 9.237 7.033 9.828 7.463 9.603 8.158 10.194 7.729 10.785 8.158 10.56 7.463z"></path><path fill="#fff" d="M6.066 9.283L6.658 8.854 5.927 8.854 5.701 8.158 5.475 8.854 4.744 8.854 5.335 9.283 5.109 9.979 5.701 9.549 6.292 9.979 6.066 9.283z"></path><path fill="#fff" d="M9.046 9.283L9.637 8.854 8.906 8.854 8.68 8.158 8.454 8.854 7.723 8.854 8.314 9.283 8.089 9.979 8.68 9.549 9.271 9.979 9.046 9.283z"></path><path fill="#fff" d="M12.025 9.283L12.616 8.854 11.885 8.854 11.659 8.158 11.433 8.854 10.702 8.854 11.294 9.283 11.068 9.979 11.659 9.549 12.251 9.979 12.025 9.283z"></path><path fill="#fff" d="M6.066 12.924L6.658 12.494 5.927 12.494 5.701 11.799 5.475 12.494 4.744 12.494 5.335 12.924 5.109 13.619 5.701 13.19 6.292 13.619 6.066 12.924z"></path><path fill="#fff" d="M9.046 12.924L9.637 12.494 8.906 12.494 8.68 11.799 8.454 12.494 7.723 12.494 8.314 12.924 8.089 13.619 8.68 13.19 9.271 13.619 9.046 12.924z"></path><path fill="#fff" d="M12.025 12.924L12.616 12.494 11.885 12.494 11.659 11.799 11.433 12.494 10.702 12.494 11.294 12.924 11.068 13.619 11.659 13.19 12.251 13.619 12.025 12.924z"></path><path fill="#fff" d="M13.539 7.463L14.13 7.033 13.399 7.033 13.173 6.338 12.947 7.033 12.216 7.033 12.808 7.463 12.582 8.158 13.173 7.729 13.765 8.158 13.539 7.463z"></path><path fill="#fff" d="M4.601 11.104L5.193 10.674 4.462 10.674 4.236 9.979 4.01 10.674 3.279 10.674 3.87 11.104 3.644 11.799 4.236 11.369 4.827 11.799 4.601 11.104z"></path><path fill="#fff" d="M7.58 11.104L8.172 10.674 7.441 10.674 7.215 9.979 6.989 10.674 6.258 10.674 6.849 11.104 6.623 11.799 7.215 11.369 7.806 11.799 7.58 11.104z"></path><path fill="#fff" d="M10.56 11.104L11.151 10.674 10.42 10.674 10.194 9.979 9.968 10.674 9.237 10.674 9.828 11.104 9.603 11.799 10.194 11.369 10.785 11.799 10.56 11.104z"></path><path fill="#fff" d="M13.539 11.104L14.13 10.674 13.399 10.674 13.173 9.979 12.947 10.674 12.216 10.674 12.808 11.104 12.582 11.799 13.173 11.369 13.765 11.799 13.539 11.104z"></path><path fill="#fff" d="M4.601 14.744L5.193 14.315 4.462 14.315 4.236 13.619 4.01 14.315 3.279 14.315 3.87 14.744 3.644 15.44 4.236 15.01 4.827 15.44 4.601 14.744z"></path><path fill="#fff" d="M7.58 14.744L8.172 14.315 7.441 14.315 7.215 13.619 6.989 14.315 6.258 14.315 6.849 14.744 6.623 15.44 7.215 15.01 7.806 15.44 7.58 14.744z"></path><path fill="#fff" d="M10.56 14.744L11.151 14.315 10.42 14.315 10.194 13.619 9.968 14.315 9.237 14.315 9.828 14.744 9.603 15.44 10.194 15.01 10.785 15.44 10.56 14.744z"></path><path fill="#fff" d="M13.539 14.744L14.13 14.315 13.399 14.315 13.173 13.619 12.947 14.315 12.216 14.315 12.808 14.744 12.582 15.44 13.173 15.01 13.765 15.44 13.539 14.744z"></path></svg>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="sub-header-container">
+            <div class="update-info-container">
+                <label class="update-info-label" id="timeDiff"></label>
+            </div>
+            <div class="sort-container">
+                <label class="sort-label">🔀 <span id="sort-label-text">Сортировка по</span></label>
+                <select id="sort-dropdown" class="sort-dropdown">
+                    <option value="default">рейтингу</option>
+                    <option value="github">GitHub stars</option>
+                    <option value="pub_date">дате публикации</option>
+                    <option value="issue_id">добавлению на HF</option>
+                </select>
+            </div>
+        </div>
+        <div class="sub-header-container-2">
+            <div class="category-toggle-container">
+                <div class="svg-container">
+                    <span id="category-toggle">🏷️ Фильтр</span>
+                    <svg height="3" width="200">
+                        <line x1="0" y1="0" x2="200" y2="0" 
+                            stroke="black" 
+                            stroke-width="2" 
+                            stroke-dasharray="3, 3" />
+                    </svg>
+                </div>
+            </div>
+            <div class="category-option-container" id="category-options">                
+                <label class="pointer" for="filter-logic-or"><input type="radio" id="filter-logic-or" name="filter-logic" value="or"> A∪B</label>
+                <label class="pointer" for="filter-logic-and"><input type="radio" id="filter-logic-and" name="filter-logic" value="and"> A∩B</label>
+            </div> 
+        </div>
+        <div class="category-filters" id="category-filters">
+            <span class="clear-categories" id="clear-categories">🧹</span>
+            <!-- Categories -->
+        </div>
+        <main id="articles-container">
+            <!-- Articles -->
+        </main>
+    </div>
+    <footer>
+        <div class="container">
+            <p><a style="color:white;" href="https://t.me/doomgrad">doomgrad</a> ✖️ <a style="color:white;" href="https://huggingface.co/papers">hugging face</a></p>
+        </div>
+    </footer>
+    <script>
+        // Language handling
+        let currentLang = localStorage.getItem('selectedLang') || 'en';
+        let feedDate = {'ru': '23 июля', 'en': 'July 23', 'zh': '7月23日'};
+        let feedDateNext = {'ru': '24.07', 'en': '07/24', 'zh': '7月24日'};
+        let feedDatePrev = {'ru': '22.07', 'en': '07/22', 'zh': '7月22日'};
+        let filterLabel = {'ru': 'Фильтр', 'en': 'Topics', 'zh': '主题筛选'}
+        let publishedLabel = {'ru': 'статья от ', 'en': 'published on ', 'zh': '发表于'}
+        let sortLabel = {'ru': 'Сортировка по', 'en': 'Sort by', 'zh': '排序方式'}
+        let paperLabel = {'ru': 'Статья', 'en': 'Paper', 'zh': '论文'}
+        let topMonthLabel = {'ru': 'Месяц', 'en': 'Month', 'zh': '月度论文'}
+        let topDayLabel = {'ru': 'День', 'en': 'Day', 'zh': '日度论文'}
+        
+        function initializeLanguageFlags() {
+            const flags = document.querySelectorAll('.flag-svg');
+            flags.forEach(flag => {
+                if (flag.dataset.lang === currentLang) {
+                    flag.classList.add('active');
+                }
+                flag.addEventListener('click', () => {
+                    flags.forEach(f => f.classList.remove('active'));
+                    flag.classList.add('active');
+                    currentLang = flag.dataset.lang;
+                    localStorage.setItem('selectedLang', currentLang);
+                    updateTimeDiffs();
+                    updateLocalization();
+                    filterAndRenderArticles();
+                });
+            });
+        }
+        function toggleTheme() {
+            const body = document.body;
+            body.classList.toggle('light-theme');
+            body.classList.toggle('dark-theme');
+
+            const isDarkMode = body.classList.contains('dark-theme');
+            localStorage.setItem('darkMode', isDarkMode);
+            
+            if (isDarkMode) {
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf nightly";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.add('rotate');
+            }  else {
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf daily";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.remove('rotate');
+            }
+        }
+
+        const articlesData = [{'id': 'https://huggingface.co/papers/2607.20145', 'title': 'SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD', 'url': 'https://huggingface.co/papers/2607.20145', 'abstract': 'Abstract  Full-parameter post-training of trillion-parameter-scale MoE models introduces substantial system-level challenges for large-scale distributed training, including severe memory pressure, non-overlapped communication overhead, and inefficient kernel execution. While most large-scale LLM training systems are built around GPU-based clusters, this report presents an end-to-end optimization practice on the Ascend NPU SuperPOD. Using the DeepSeek-V4 model family as the target workload, we develop a hierarchical optimization framework spanning model-level parallelism, computation-communication orchestration, and low-level kernel execution. The resulting system achieves 34.22% Model FLOPs Utilization (MFU) with a 2.93x improvement over the open-source baseline recipe while maintaining training stability. Building on this optimized infrastructure, we further establish a CPT and SFT workflow for complex Operations Research (OR) tasks. We refer to the integrated framework as SLAI T-Rex. Using DeepSeek-V4-Flash, we develop OR-oriented CPT and SFT data pipelines that combine collected domain resources with solver-verified synthetic optimization documents. The resulting dataset contains 10K high-quality SFT samples spanning four task categories and three problem representations. The specialized model achieves the highest average zero-shot Pass@1 score among the evaluated models, reaching 71.81% and outperforming GPT-5.4-Mini and the base DeepSeek-V4-Flash model by 3.98 and 11.27 percentage points, respectively. Overall, this work demonstrates a full-stack pathway from efficient trillion-parameter model post-training on Ascend infra to domain-specialized Flash models for solver-grounded mathematical modeling, advancing frontier-model systems for complex reasoning.', 'score': 45, 'issue_id': 2883, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': 'bc7808635b7611bf', 'github_url': '', 'github_stars': 0, 'authors': ['Dongfang Li', 'Xiaodong Luo', 'Ruoyu Sun', 'Xuhui Chen', 'Linyuan Qiu', 'Jian Meng', 'Zhengxuan Lu', 'Yiting Wang', 'Yucheng Xie', 'Tao Guo', 'Tianxiang Fang', 'Jing Li', 'Sihang Chen', 'Shihao Hong', 'Chang Liu', 'Weihua Dai', 'Zirong Zeng', 'Ziwei Zhu', 'Zhuohan Wang', 'Zhengjun Yue', 'Igor Vasilyev', 'Min Liu', 'Weijian Sun', 'Xin Chen', 'Yingmeng Gao', 'Jinhua Zhou', 'Taolue Chen', 'Chenwei Wu', 'Dong Zhang', 'Wenlong Jin', 'Jinmin Xiang', 'Barkova Maria', 'Ushakov Anton', 'Xianfei Jin', 'Tian Ding', 'Zhihang Lin', 'Qian Chen', 'Linxin Yang', 'Mingzhe Yang', 'Bingwei Zhang', 'Hongzhang Yang', 'Fangxue Zhang', 'Shijun Qin', 'Jie Yu', 'Cuihua Hu', 'Tolstykh Vasiliy', 'Nosov Ivan', 'Abdullin Amir', 'Zhichen Zhou', 'Xin Zhang', 'Zhixiong Ning', 'Xutong Zhao', 'Junjie Huang', 'Jiajun Liu', 'Weiyan Kong', 'Zheng Zhang', 'Wenhan Luo', 'Lin Hu', 'Yangbo Guo', 'Li Zeng', 'Shihao Zeng', 'Baotian Hu', 'Min Zhang', 'Haizhou Li', 'Zhiquan Luo'], 'affiliations': ['Shenzhen Loop Area Institute'], 'pdf_title_img': 'assets/pdf/title_img/2607.20145.jpg', 'data': {'categories': ['#dataset', '#continual_learning', '#optimization', '#math', '#synthetic', '#training', '#reasoning', '#inference'], 'emoji': '🚀', 'ru': {'title': 'Эффективная тренировка триллионных моделей для сложного размышления', 'desc': 'В данной работе рассматриваются проблемы, связанные с пост-тренировкой моделей MoE на триллионных параметрах. Авторы разработали иерархическую оптимизационную структуру для повышения эффективности распределенного обучения на NPU, что позволяет значительно улучшить использование вычислительных ресурсов. Применение системы SLAI T-Rex в задачах Операционных Исследований позволяет создавать высококачественные наборы данных и тренировать специализированные модели. Итоговые результаты показывают, что новый подход обеспечивает лучшие показатели точности по сравнению с существующими моделями.'}, 'en': {'title': 'Optimizing Trillion-Parameter Models for Complex Reasoning', 'desc': 'This paper addresses the challenges of training trillion-parameter MoE models, focusing on memory pressure and communication inefficiencies. It introduces an optimization framework for the Ascend NPU SuperPOD, achieving significant improvements in Model FLOPs Utilization. The framework supports complex Operations Research tasks through a specialized data pipeline, resulting in high-quality training samples. The optimized model outperforms existing models, showcasing advancements in reasoning capabilities for large-scale machine learning systems.'}}}, {'id': 'https://huggingface.co/papers/2607.20368', 'title': 'Self Gradient Forcing: Native Long Video Extrapolation', 'url': 'https://huggingface.co/papers/2607.20368', 'abstract': 'Abstract  Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.', 'score': 29, 'issue_id': 2884, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': 'ddf5613f128c3fe8', 'github_url': '', 'github_stars': 0, 'authors': ['Junhao Zhuang', 'Shiyi Zhang', 'Yuxuan Bian', 'Yaowei Li', 'Yawen Luo', 'Yijun Liu', 'Weiyang Jin', 'Songchun Zhang', 'Xianglong He', 'Xuying Zhang', 'Haoran Li', 'Haoyang Huang', 'Zeyue Xue', 'Nan Duan'], 'affiliations': ['Joy Future Academy, JD'], 'pdf_title_img': 'assets/pdf/title_img/2607.20368.jpg', 'data': {'categories': ['#training', '#diffusion', '#optimization', '#open_source', '#agent_memory', '#long_context', '#memory'], 'emoji': '🎥', 'ru': {'title': 'Улучшение генерации видео с помощью Self Gradient Forcing', 'desc': 'В данной статье рассматриваются методы диффузии видео на основе автогрессии с использованием концепции Self Forcing. Авторы предлагают новый подход под названием Self Gradient Forcing (SGF), который улучшает обучение, устраняя недостаток в сигнале супервизии, связанный с историческим градиентом контекста. SGF позволяет более эффективно записывать контекст в память при создании видео, что улучшает качество генерации. В результате, метод SGF демонстрирует лучшие результаты в экстраполяции видео продолжительностью до нескольких минут с использованием всего 5-секундного окна обучения.'}, 'en': {'title': 'Enhancing Video Generation with Self Gradient Forcing', 'desc': 'This paper introduces Self Gradient Forcing (SGF), a new training method for autoregressive video generation that addresses the historical context-gradient gap. SGF enhances the training process by allowing the model to learn from its own generated context without needing to backpropagate through the entire video sequence. The method consists of two passes: the first generates video frames while recording key information, and the second reconstructs context to improve future frame generation. Experiments show that SGF outperforms previous methods, achieving better consistency and stability in long videos with minimal training data.'}}}, {'id': 'https://huggingface.co/papers/2607.19747', 'title': 'Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking', 'url': 'https://huggingface.co/papers/2607.19747', 'abstract': 'Abstract  As large language models and AI agents become the primary consumers of search results, document set quality determines the upper bound of downstream generation. Yet existing evaluation systems remain confined to scoring documents independently and aggregating via nDCG, ignoring inter-document interactions (redundancy, conflict, complementarity) and unable to answer what makes one document set better than another. To address these issues, we propose a complete evaluate-diagnose-optimize framework. We design SetwiseEvalKit, a three-level, nine-dimension document set evaluation benchmark covering both short-form and long-form scenarios, comprising approximately 28K high-quality evaluation rubrics. We systematically evaluate 12 rerankers: even the best method achieves no more than 45% coverage, cross-document coordination dimensions are universally weak, and no single method maintains top performance across both settings. Building on this, we propose Rubric4Setwise, a training-free method that converts rubric-based evaluation criteria into document set selection signals, achieving the best downstream generation performance with fewer documents and search rounds. It is the only method that maintains state-of-the-art results across both scenarios, validating the effectiveness of closing the loop from evaluation to optimization.', 'score': 24, 'issue_id': 2884, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': 'afa8ec3af1011b9f', 'github_url': '', 'github_stars': 0, 'authors': ['Kailin Jiang', 'Lei Liu', 'Jian Xi', 'Hui Xu', 'Junlin Liu', 'Baochen Fu', 'Shaoqing Ren', 'Bin Li', 'Vichwang', 'Yu Lu', 'Haibo Shi'], 'affiliations': ['Shandong University', 'University of Chinese Academy of Sciences', 'University of Science and Technology of China', 'Yuanbao Team, Tencent'], 'pdf_title_img': 'assets/pdf/title_img/2607.19747.jpg', 'data': {'categories': ['#retrieval_eval', '#optimization', '#benchmark', '#evaluation'], 'emoji': '📄', 'ru': {'title': 'Оптимизация оценки наборов документов для ИИ', 'desc': 'В статье рассматривается влияние качества наборов документов на эффективность генерации с использованием больших языковых моделей и агентов ИИ. Авторы предлагают новую структуру для оценки, диагностики и оптимизации наборов документов, включая систему SetwiseEvalKit с около 28 тысячами оценочных критериев. Проведенные эксперименты показывают, что существующие методы повторной сортировки не достигают высоких результатов в оценке взаимодействия между документами. В качестве решения предлагается метод Rubric4Setwise, который преобразует оценочные критерии в сигналы для выбора наборов документов, достигая наилучших результатов генерации при меньших объемах данных.'}, 'en': {'title': 'Revolutionizing Document Set Evaluation for AI', 'desc': 'This paper addresses the limitations of current document set evaluation methods in machine learning, particularly for large language models and AI agents. It introduces a new framework called SetwiseEvalKit, which evaluates document sets based on inter-document interactions and provides a comprehensive benchmark with 28K evaluation rubrics. The authors evaluate various reranking methods and find that existing techniques struggle with cross-document coordination. They propose Rubric4Setwise, a novel approach that translates evaluation criteria into effective document selection signals, achieving superior performance in generating results with fewer documents.'}}}, {'id': 'https://huggingface.co/papers/2607.16165', 'title': 'An Exam for Active Observers', 'url': 'https://huggingface.co/papers/2607.16165', 'abstract': "Abstract  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and cognitive science have argued that this active observation is essential for a wide range of tasks. Whether today's multimodal large language models (MLLMs) exercise active observation is an empirical question that current vision-language benchmarks do not answer. We introduce ActiveVision, a benchmark that makes active observation measurable for MLLMs, comprising 17 tasks across 3 categories. Tasks are designed to force repeated visual perception rather than a single static description. Frontier MLLMs collapse on ActiveVision: the highest-scoring model we evaluate, GPT-5.5 at the highest exposed reasoning-effort tier, solves only 10.6% of items and scores zero on 11 of the 17 tasks, and even Claude Fable 5, despite topping most reasoning and coding leaderboards, solves just 3.5%, far behind three human participants who average 96.1%. Furthermore, much of the gap persists even when models write and run their own vision code: such code is unreliable on realistic imagery, and catching its failures itself requires the active perception the models lack. Together, these results indicate that current MLLMs lack robust active visual observation, motivating architectures and training objectives that close the perception-reasoning loop.", 'score': 18, 'issue_id': 2884, 'pub_date': '2026-07-17', 'pub_date_card': {'ru': '17 июля', 'en': 'July 17', 'zh': '7月17日'}, 'hash': '93b4c215b5567e95', 'github_url': '', 'github_stars': 0, 'authors': ['Jiarui Zhang', 'Muzi Tao', 'Shangshang Wang', 'Ollie Liu', 'Xuezhe Ma', 'Willie Neiswanger'], 'affiliations': ['University of Southern California'], 'pdf_title_img': 'assets/pdf/title_img/2607.16165.jpg', 'data': {'categories': ['#multimodal', '#training', '#benchmark', '#architecture', '#interpretability', '#reasoning'], 'emoji': '👁️', 'ru': {'title': 'Обнаружение недостатков в активном восприятии мультимодальных моделей', 'desc': 'В данной статье обсуждается, как современные мультимодальные большие языковые модели (MLLM) осуществляют активное наблюдение, которое является важным аспектом человеческого зрения. Исследователи предлагают новый бенчмарк под названием ActiveVision, позволяющий измерить активное наблюдение, который включает 17 задач в 3 категориях. Текущие модели не справляются с задачами ActiveVision, что указывает на недостатки их способности к активному восприятию. Результаты показывают, что MLLM требуют доработки архитектуры и целей обучения для улучшения процесса восприятия и рассуждения.'}, 'en': {'title': 'Bridging the Gap: Enhancing MLLMs with Active Visual Observation', 'desc': 'This paper explores the concept of active observation in human vision and its implications for multimodal large language models (MLLMs). It introduces ActiveVision, a benchmark designed to measure how well MLLMs can perform tasks that require repeated visual perception rather than relying on a single static view. The results show that leading MLLMs, including GPT-5.5 and Claude Fable 5, struggle significantly with these tasks, achieving low success rates compared to human participants. The findings suggest that current MLLMs do not effectively incorporate active visual observation, highlighting the need for new architectures and training methods to enhance their perception-reasoning capabilities.'}}}, {'id': 'https://huggingface.co/papers/2607.19604', 'title': 'Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models', 'url': 'https://huggingface.co/papers/2607.19604', 'abstract': "Abstract  Injecting factual knowledge into large language models (LLMs) reliably and at scale remains an open challenge. Hypernetworks provide a promising solution to large-scale knowledge injection. Although hypernetworks are typically applied for test-time adaptation, we explore their use in train-time knowledge injection, where, given a large corpus of facts, we train a hypernetwork to generate a fixed LoRA adapter that, when inserted into the target model, enable the model to answer questions about those facts. In this work, we investigate whether hypernetworks can be used to perform train-time knowledge injection and how this ability varies with scale. The scaling behavior of hypernetworks remains largely unstudied. Our design decouples the hypernetwork's injection capacity from the target model's general capability, enabling, for the first time, a rigorous study of scaling laws for hypernetwork architectures. We characterize how loss, reasoning accuracy, and out-of-distribution (OOD) generalization vary with hypernetwork depth, width, and target network size. We construct a large-scale dataset, called MegaWikiQA, containing tens of millions of multi-hop question-answer examples across 39 domains constructed from examples in Wikidata5M. Our results reveal: (i) hypernetwork-based injection exhibits broadly predictive power law scaling along all architecture axes; and (ii) hypernetworks are capable of reliable OOD generalization at increasing scales, suggesting that hypernetwork provides a promising alternative to other train-time adaptation methods such as LoRA finetuning and full fine-tuning, exhibiting steeper scaling exponents in all OOD evaluations. Together, these results establish hypernetworks as a principled and scalable substrate for train-time adaptation, and provide the first empirically grounded scaling laws to guide hypernetworks for factual reasoning in large language models.", 'score': 11, 'issue_id': 2885, 'pub_date': '2026-07-21', 'pub_date_card': {'ru': '21 июля', 'en': 'July 21', 'zh': '7月21日'}, 'hash': '36b19e1a79ec0b92', 'github_url': '', 'github_stars': 0, 'authors': ['Nischay Dhankhar', 'Dos Baha', 'Abulhair Saparov'], 'affiliations': ['Nace AI', 'Purdue University'], 'pdf_title_img': 'assets/pdf/title_img/2607.19604.jpg', 'data': {'categories': ['#training', '#reasoning', '#optimization', '#architecture', '#dataset', '#transfer_learning'], 'emoji': '📚', 'ru': {'title': 'Гиперсети для внедрения знаний в языковые модели', 'desc': 'В данной работе рассматривается использование гиперсетей для внедрения фактических знаний в большие языковые модели (LLMs) в ходе обучения. Исследуется, как гиперсети могут генерировать фиксированный адаптер LoRA, который позволяет модели отвечать на вопросы о фактах. Работа также анализирует поведение гиперсетей при изменении их параметров и размерности целевой модели. Результаты показывают, что гиперсети обеспечивают надежную генерализацию и предсказуемые законы масштабирования.'}, 'en': {'title': 'Hypernetworks: A Scalable Solution for Knowledge Injection in LLMs', 'desc': 'This paper explores the use of hypernetworks for injecting factual knowledge into large language models (LLMs) during training. By training a hypernetwork to generate a fixed LoRA adapter, the model can effectively answer questions based on a large corpus of facts. The study investigates how the performance of hypernetworks varies with their architecture and the size of the target model. Results show that hypernetworks can achieve reliable out-of-distribution generalization and exhibit predictable scaling behavior, making them a promising alternative for train-time adaptation in LLMs.'}}}, {'id': 'https://huggingface.co/papers/2607.13429', 'title': 'Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment', 'url': 'https://huggingface.co/papers/2607.13429', 'abstract': 'Abstract  Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalization. Co-training on web image-text data, a common remedy, does not prevent this; it applies language and action losses to separate observations, leaving VLAs with language-action misalignment that standard manipulation benchmarks do not expose. We propose Anchor-Align, which augments BC with two objectives: Vision-Language Anchoring distills layer-wise representations from a frozen VLM copy to prevent this drift, while Language-Action Alignment converts each action target into a discrete motion-direction label and jointly trains language and action prediction on the same robot observation. On a physical xArm7 robot, across two widely used VLA architectures, Anchor-Align improves real-robot success on both (28% to 54% and 37% to 60%). At scale in simulation, we demonstrate consistent improvements on OOD perturbations, perceptual robustness, and long-horizon control across LIBERO-PRO, LIBERO-Plus, and CALVIN, respectively, suggesting that preserving pretrained representations and effective action learning are not fundamentally at odds. Project page: anchoralignvla.github.io', 'score': 10, 'issue_id': 2884, 'pub_date': '2026-07-15', 'pub_date_card': {'ru': '15 июля', 'en': 'July 15', 'zh': '7月15日'}, 'hash': '4871e1e4a56a25da', 'github_url': '', 'github_stars': 0, 'authors': ['Dwip Dalal', 'Shivansh Patel', 'Chahit Jain', 'Jeonghwan Kim', 'Utkarsh Mishra', 'Alex Baratian', 'Hyeonjeong Ha', 'Heng Ji', 'Svetlana Lazebnik', 'Unnat Jain'], 'affiliations': ['Texas A&M University', 'University of California, Irvine', 'University of Illinois Urbana-Champaign'], 'pdf_title_img': 'assets/pdf/title_img/2607.13429.jpg', 'data': {'categories': ['#agi', '#training', '#optimization', '#agents', '#robotics'], 'emoji': '🤖', 'ru': {'title': 'Новая эра взаимодействия: улучшение робототехники через Anchor-Align', 'desc': 'Статья предлагает метод Anchor-Align для улучшения работы модели, связывающей визуальные и языковые данные с действиями робота. Этот подход предотвращает ухудшение предварительно обученных представлений, которое наблюдается при использовании традиционного обучения на демонстрациях робота. Anchor-Align использует две цели: якорную привязку визуально-языковых данных и согласование языковых действий, что позволяет совместно обучать предсказание действий и языка. В результате на физическом роботе xArm7 наблюдаются значительные улучшения в успехе выполнения задач.'}, 'en': {'title': 'Aligning Vision and Action for Better Robot Learning', 'desc': 'This paper introduces Anchor-Align, a method to improve the finetuning of vision-language models (VLMs) for robot demonstrations using behavior cloning (BC). The authors highlight that traditional BC can overwrite important pretrained representations, leading to misalignment between language and actions. Anchor-Align addresses this by using Vision-Language Anchoring to maintain layer-wise representations and Language-Action Alignment to train language and action predictions together. The results show significant improvements in real-robot success rates and robustness in various scenarios, indicating that effective action learning can coexist with preserving pretrained knowledge.'}}}, {'id': 'https://huggingface.co/papers/2607.10169', 'title': 'Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization', 'url': 'https://huggingface.co/papers/2607.10169', 'abstract': "Abstract  Reinforcement learning (RL) has become a dominant paradigm for enhancing LLMs' reasoning capabilities. However, RL algorithms with PPO-Clip are inherently limited by exploration collapse. Subsequent works remain primarily heuristic and fail to identify the essential cause of PPO-Clip's failure. This work reveals the fundamental flaw of PPO-Clip: it implicitly measures policy discrepancy using Euclidean metric, which is theoretically inconsistent with the intrinsic geometry on the policy Riemannian manifold. This geometric mismatch results in overly conservative updates in low-probability regions while aggressive in high-probability regions, ultimately collapsing exploration. To correct this geometric flaw, we propose Riemannian Isometric Policy Optimization (RIPO), which guarantees isometric policy updates on the Riemannian manifold, effectively balancing exploration and exploitation. We further show that RIPO achieves a favorable bias-variance trade-off, which stabilizes optimization. Extensive experiments demonstrate that RIPO significantly surpasses existing LLM RL algorithms across seven competition-level benchmarks (up to 60% improvement over GRPO on AIME24).", 'score': 9, 'issue_id': 2884, 'pub_date': '2026-07-11', 'pub_date_card': {'ru': '11 июля', 'en': 'July 11', 'zh': '7月11日'}, 'hash': '31eb03acae9ac278', 'github_url': '', 'github_stars': 0, 'authors': ['Zhicheng Cai', 'Xinyuan Guo', 'Hanlin Wu', 'Mingxuan Wang', 'Wei-Ying Ma', 'Ya-Qin Zhang', 'Hao Zhou'], 'affiliations': ['ByteDance Seed', 'Institute for AI Industry Research (AIR), Tsinghua University', 'SIA-Lab of Tsinghua AIR and ByteDance Seed'], 'pdf_title_img': 'assets/pdf/title_img/2607.10169.jpg', 'data': {'categories': ['#training', '#rl', '#benchmark', '#optimization', '#rlhf', '#reasoning'], 'emoji': '🎮', 'ru': {'title': 'Оптимизация политики с учетом геометрии', 'desc': 'В данной статье рассматриваются ограничения алгоритмов обучения с подкреплением (RL) на основе метода PPO-Clip, которые могут приводить к исчезновению исследований. Основная причина неэффективности заключается в том, что PPO-Clip использует евклидMetric для измерения различий в политике, что несовместимо с геометрией римановой многообразия. В результате этого возникает избыточная консервативность обновлений в областях с низкой вероятностью. Авторы предлагают метод Riemannian Isometric Policy Optimization (RIPO), который обеспечивает изометрические обновления политики и улучшает баланс между исследованием и эксплуатацией.'}, 'en': {'title': 'RIPO: Balancing Exploration and Exploitation in RL for LLMs', 'desc': "This paper addresses the limitations of reinforcement learning (RL) algorithms, specifically PPO-Clip, in enhancing the reasoning capabilities of large language models (LLMs). It identifies a fundamental flaw in PPO-Clip's approach to measuring policy discrepancy, which leads to ineffective exploration strategies. The authors propose a new method called Riemannian Isometric Policy Optimization (RIPO) that corrects this flaw by ensuring policy updates are consistent with the geometry of the policy space. RIPO not only stabilizes optimization but also significantly improves performance on various benchmarks compared to existing RL algorithms."}}}, {'id': 'https://huggingface.co/papers/2607.19865', 'title': 'DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations', 'url': 'https://huggingface.co/papers/2607.19865', 'abstract': "Abstract  As autonomous agents rapidly evolve, their ability to reliably manipulate ubiquitous digital documents has become critical for enabling general-purpose AI assistants and automating complex workspace workflows. In this paper, we introduce DocOps, a deterministically verifiable evaluation framework underpinned by a hierarchical taxonomy that deconstructs document operations inspired by real-world practices into atomic dimensions and escalating workflow complexities. Based on DocOps, we systematically evaluate representative closed- and open-source models across various agentic harnesses, revealing that even the most advanced frontier configurations still exhibit profound limitations when handling highly coupled, long-range tasks. Furthermore, a fine-grained analysis of existing agents' manipulation behaviors uncovers 3 key failure modes: long-term state tracking collapse, shallow semantic verification, and destructive editing of structural metadata. Ultimately, our work exposes the capability boundaries of agents in maintaining global document consistency, shedding light on the future design of robust, non-destructive agents for complex digital ecosystems.", 'score': 4, 'issue_id': 2886, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': 'f9d829b9a141883f', 'github_url': '', 'github_stars': 0, 'authors': ['Jiazhen Jiang', 'Boxi Cao', 'Lingyong Yan', 'Yaojie Lu', 'Hongyu Lin', 'Shuaiqiang Wang', 'Dawei Yin', 'Xianpei Han', 'Le Sun'], 'affiliations': ['Baidu Inc.', 'Chinese Information Processing Laboratory Institute of Software, Chinese Academy of Sciences', 'University of Chinese Academy of Sciences'], 'pdf_title_img': 'assets/pdf/title_img/2607.19865.jpg', 'data': {'categories': ['#benchmark', '#agent_memory', '#long_context', '#agi', '#agents'], 'emoji': '📄', 'ru': {'title': 'DocOps: новые горизонты для автономных агентов', 'desc': 'В статье представлена концепция DocOps, которая служит основой для оценки операций с документами в автономных агентах. DocOps помогает разбить сложные задачи на более простые элементы, вдохновленные реальными практиками. Исследование показывает, что даже самые современные модели имеют значительные ограничения при выполнении сложных долгосрочных задач. Работа подчеркивает важность повышения надежности агентов для поддержания целостности документов в цифровых экосистемах.'}, 'en': {'title': 'Enhancing Document Handling in AI Agents', 'desc': 'This paper presents DocOps, a framework for evaluating how well autonomous agents can handle digital documents. It breaks down document operations into simpler parts and assesses various AI models to identify their weaknesses. The study finds that even advanced models struggle with complex tasks, revealing issues like poor long-term tracking and incorrect editing. The findings highlight the need for better-designed agents that can maintain document consistency in complex environments.'}}}, {'id': 'https://huggingface.co/papers/2607.16190', 'title': 'FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation', 'url': 'https://huggingface.co/papers/2607.16190', 'abstract': 'Abstract  Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, but adaptive Top-p routing creates uneven per-head workloads under multi-GPU sequence parallelism. The resulting workload heterogeneity turns sparse attention into a rank-level straggler problem. We present , a training-free sparse-attention system that improves the distributed execution efficiency of adaptive sparse attention under multi-GPU sequence parallelism.  uses Top-p routing, a Top-k safety floor, and video-aware block organization as the sparse-routing frontend, then repairs the materialized mask at runtime. Runtime Load Balancing migrates a small number of heavy heads via P2P communication to shorten the current critical path. Slack-Aware Sparse Augmentation fills residual non-critical-rank slack with additional high-value blocks, while overlap hides scheduling and migration overhead behind existing computation. On step-distilled Wan2.2 I2V,  reduces average load imbalance from 1.34 to 1.08 and delivers a 4.41times attention speedup over FlashAttention, while achieving a 2.02--2.11times DiT inference speedup with competitive video quality.', 'score': 4, 'issue_id': 2884, 'pub_date': '2026-07-17', 'pub_date_card': {'ru': '17 июля', 'en': 'July 17', 'zh': '7月17日'}, 'hash': 'd5b70ab333257c89', 'github_url': '', 'github_stars': 0, 'authors': ['Hao Liu', 'Chenghuan Huang', 'Ye Huang', 'Zhiying Wen', 'Hao Liu', 'Mohan Zhang', 'Chen Li', 'Ziyang Ma', 'Jing Lyu', 'Jiangsu Du'], 'affiliations': ['Peking University', 'Sun Yat-sen University', 'WeChat HPC, Tencent Inc.', 'WeChat Vision, Tencent Inc.'], 'pdf_title_img': 'assets/pdf/title_img/2607.16190.jpg', 'data': {'categories': ['#training', '#inference', '#optimization', '#architecture', '#diffusion'], 'emoji': '🎥', 'ru': {'title': 'Эффективное воспроизведение видео с помощью Sparse-Attention', 'desc': 'Статья обсуждает систему Sparse-Attention для эффективной генерации видео, которая использует адаптивное маршрутизирование Top-p. Данная система уменьшает неравномерность нагрузки при работе с многими графическими процессорами, что является проблемой для высокоразрешенных видео. Также внедряются механизмы сбалансировки нагрузки и выделения ресурсов для ускорения вычислений. В результате достигается значительное улучшение скорости обработки с конкурентным качеством видео.'}, 'en': {'title': 'Boosting Video Generation Efficiency with Sparse Attention', 'desc': 'This paper introduces a new system for improving the efficiency of sparse attention in video generation using multi-GPU setups. It addresses the issue of uneven workloads caused by adaptive Top-p routing, which can lead to delays in processing. The proposed method includes techniques like runtime load balancing and slack-aware sparse augmentation to optimize performance. As a result, the system achieves significant speedups in attention processing while maintaining high video quality.'}}}, {'id': 'https://huggingface.co/papers/2607.19790', 'title': 'Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning', 'url': 'https://huggingface.co/papers/2607.19790', 'abstract': 'Abstract  Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a taxonomy-guided environment for multidomain visual reasoning. Trace factorizes task construction into a scene grammar and an executable task program, separating visual realization from answer computation. A shared semantic state determines the rendered image, prompt, typed answer, verifier state, and replayable instance trace. The resulting environment comprises 1,000 tasks over 277 scene grammars and 11 visual domains, with controlled semantic and visual variation. RLVR on 64,000 Trace instances improves the macro-average across 24 external benchmarks by 3.51 percentage points for Qwen2.5-VL-3B and 4.06 points for Qwen2.5-VL-7B, providing evidence that broad procedural training can transfer beyond the generated task distributions. Project page: https://maveryn.github.io/trace/.', 'score': 3, 'issue_id': 2884, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': '9494143857512c8c', 'github_url': '', 'github_stars': 0, 'authors': ['Md Tanvirul Alam'], 'affiliations': ['Rochester Institute of Technology, Rochester, NY, USA'], 'pdf_title_img': 'assets/pdf/title_img/2607.19790.jpg', 'data': {'categories': ['#rl', '#transfer_learning', '#benchmark', '#dataset', '#reasoning'], 'emoji': '🖼️', 'ru': {'title': 'Новая эволюция визуального рассуждения', 'desc': 'В данной статье представлено новое окружение для многодоменного визуального рассуждения, называемое Trace. Оно разделяет построение задач на грамматику сцен и исполняемую программу задач, что позволяет отделить визуализацию от вычисления ответов. Окружение включает 1000 задач, основанных на 277 грамматиках сцен и 11 визуальных доменах, с контролируемыми семантическими и визуальными вариациями. Использование RLVR на 64,000 экземплярах Trace улучшает результаты на 24 внешних бенчмарках для моделей Qwen2.5-VL-3B и Qwen2.5-VL-7B.'}, 'en': {'title': 'Enhancing Visual Reasoning with Trace: A New Approach', 'desc': 'This paper presents Trace, a new environment designed for improving visual reasoning in language models using reinforcement learning with verifiable rewards (RLVR). Trace organizes tasks using a scene grammar and an executable task program, which helps separate how images are created from how answers are computed. The environment includes 1,000 tasks across various visual domains, allowing for controlled variations in both semantics and visuals. The results show that training on Trace significantly enhances performance on external benchmarks for language models, demonstrating the effectiveness of broad procedural training.'}}}, {'id': 'https://huggingface.co/papers/2607.19691', 'title': 'SLPO: Scaling Latent Reasoning via a Surrogate Policy', 'url': 'https://huggingface.co/papers/2607.19691', 'abstract': 'Abstract  Reinforcement learning with verifiable rewards has become the predominant recipe for eliciting test-time scaling in explicit Chain-of-Thought reasoners. Yet this scaling path remains computationally costly, since every intermediate step must be decoded as a language token. Latent reasoning instead carries intermediate computation as continuous vectors and already matches or surpasses explicit CoT at far shorter horizons. Despite this promise, latent reasoners remain largely imitation-bound, while explicit CoT has already moved past imitation via outcome-reward RL. Latent trajectories lack a tractable per-step likelihood and an adaptive stopping interface under fixed thinking budgets, so outcome rewards cannot elicit latent test-time scaling. We introduce Surrogate Latent Policy Optimization (SLPO) to bring outcome-reward RL to autoregressive latent reasoners: an empirical surrogate policy density over latent transitions for trajectory-level credit assignment, and a correctness-supervised stopping head that outcome-reward optimization refines into a variable-horizon policy. Across continuous and soft thinking settings, SLPO improves Pass@k under parallel sampling and allocates longer latent computation to harder instances with higher deterministic accuracy.', 'score': 3, 'issue_id': 2883, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': '9a63b0bf74a588d4', 'github_url': '', 'github_stars': 0, 'authors': ['Runyang You', 'Zhiyuan Liu', 'Yongqi Li', 'Wenjie Li'], 'affiliations': ['Sichuan University', 'The Hong Kong Polytechnic University'], 'pdf_title_img': 'assets/pdf/title_img/2607.19691.jpg', 'data': {'categories': ['#rlhf', '#rl', '#optimization', '#training', '#reasoning'], 'emoji': '🧠', 'ru': {'title': 'Оптимизация скрытых моделей для повышения точности!', 'desc': 'В данной статье обсуждается использование обучения с подкреплением (RL) с проверяемыми наградами для улучшения работы систем, основанных на цепочках размышлений (CoT). Авторы предлагают новый подход под названием Surrogate Latent Policy Optimization (SLPO), который позволяет использовать награды за результаты для управления скрытыми расследованиями. Это решение помогает сократить вычислительные затраты и улучшить точность моделей. В результате, SLPO демонстрирует лучшие результаты по сравнению с традиционными методами на задачах с различной сложностью.'}, 'en': {'title': 'Optimizing Latent Reasoning with Surrogate Policies', 'desc': 'This paper presents Surrogate Latent Policy Optimization (SLPO), a method that enhances reinforcement learning for latent reasoning models. Unlike traditional Chain-of-Thought (CoT) approaches that require decoding each step as a language token, SLPO uses continuous vectors for intermediate computations, making it more efficient. The method introduces a surrogate policy for better credit assignment and a stopping mechanism that adapts based on the complexity of the task. As a result, SLPO achieves improved performance in generating accurate outputs while managing computational resources effectively.'}}}, {'id': 'https://huggingface.co/papers/2607.20379', 'title': 'Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations', 'url': 'https://huggingface.co/papers/2607.20379', 'abstract': "Abstract  Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individual false claims: if flipping a claim does not change the reconstruction, the claim is never penalized. We show the test is passed in two ways, neither faithful. On a released Qwen-2.5-7B verbalizer, explanations reconstruct well above chance while ~2% of specific claims are reconstruction-dependent, so the score tracks gist, not specific facts. Under exact synthetic ground truth, the standard recipe develops co-adapted private codes (false wording the reconstruction depends on) in 5/5 runs, and fixes that leave the target model unchanged do not help. We contribute two audit protocols, the grounded-vs-true cross and the evaluator swap, and RECAP (Readable Encodings via Co-trained Auxiliary Predictors): linear heads trained alongside the target model to keep designated content decodable. On RECAP-trained sandbox models, fresh verbalizers state the designated content truly and the codes vanish, at a +0.001-nat cost. This replicates on a pretrained Pythia-160M: the content becomes reliably probe-decodable, though a fresh verbalizer conveys it only in part (truth 0.44-0.46 vs a near-zero control). For interpretability, high reconstruction does not certify individual claims. For AI safety, RECAP makes designated internal content independently checkable against probes rather than asserted by prose a model can game: an independent probe scores the verbalizer's true claims above its false ones (AUC 0.96, vs 0.82 without RECAP). Against an adversary that edits an explanation to maximize the reconstruction score while lying (suppressing ~87% of its lie penalty), the RECAP probe still flags the lies (AUC 0.95) while the control probe collapses to chance (0.51).", 'score': 2, 'issue_id': 2884, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': 'efa55585842de96c', 'github_url': '', 'github_stars': 0, 'authors': ['Hiskias Dingeto'], 'affiliations': ['StackOne Technologies'], 'pdf_title_img': 'assets/pdf/title_img/2607.20379.jpg', 'data': {'categories': ['#training', '#inference', '#data', '#hallucinations', '#interpretability', '#ethics', '#agents'], 'emoji': '🔍', 'ru': {'title': 'Объяснения в автоэнкодерах: истинность под угрозой', 'desc': 'В данной статье рассматривается использование автоэнкодеров на естественном языке для оценки объяснений скрытых активаций через реконструкцию. Объяснение считается достоверным, если активация может быть восстановлена из него. Однако, исследование показывает, что данный тест не всегда выявляет недостоверные утверждения, и большинство из них не штрафуется. Для повышения интерпретируемости и безопасности ИИ предложены новые протоколы аудита и метод RECAP, позволяющий независимо проверять внутреннее содержимое модели.'}, 'en': {'title': 'Enhancing AI Interpretability and Safety with RECAP', 'desc': 'This paper discusses the limitations of natural-language autoencoders in providing faithful explanations of hidden activations through reconstruction. It reveals that the current scoring method can overlook inaccuracies in individual claims, as it focuses on the overall gist rather than specific details. The authors introduce two new audit protocols and a method called RECAP, which improves the decodability of designated content while maintaining model integrity. Ultimately, RECAP enhances interpretability and AI safety by allowing independent verification of internal content against probes, effectively identifying false claims.'}}}, {'id': 'https://huggingface.co/papers/2607.19942', 'title': 'G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection', 'url': 'https://huggingface.co/papers/2607.19942', 'abstract': 'Abstract  This work introduces G-MAD, an open-source framework that uses Arma3 to generate synchronized multi-view RGB-T data for aerial object detection. G-MAD addresses key limitations of real-world aerial dataset construction, including limited viewpoint control, imperfect RGB-T alignment and high annotation cost. The framework supports structured scenario specification, controllable multi-view camera placement, simultaneous visible/thermal capture, and automatic bounding box annotation using engine-level geometric metadata. These capabilities enable controlled studies of viewpoint variation, multi-modal fusion, and synthetic-to-real transfer in aerial object detection. Besides, using G-MAD, we construct and release AMOD, a new large-scale multi-view aerial RGB-T object detection benchmark. The source code and the dataset are available at https://unique-chan.github.io/G-MAD-Project.', 'score': 2, 'issue_id': 2883, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': 'c22e769cf0337a14', 'github_url': '', 'github_stars': 0, 'authors': ['Yechan Kim', 'JongHyun Park', 'Dongho Yoon', 'Namhoon Jung', 'Moongu Jeon'], 'affiliations': ['GIST Republic of Korea', 'LIG Defense&Aerospace Republic of Korea'], 'pdf_title_img': 'assets/pdf/title_img/2607.19942.jpg', 'data': {'categories': ['#dataset', '#transfer_learning', '#synthetic', '#open_source', '#benchmark'], 'emoji': '🛩️', 'ru': {'title': 'G-MAD: новый подход к аэродинамическому обнаружению объектов', 'desc': 'В данной работе представлен G-MAD, открытый фреймворк, который использует Arma3 для генерации синхронизированных многовидовых RGB-T данных для аэродинамического обнаружения объектов. G-MAD решает ключевые проблемы создания реальных аэродинамических наборов данных, такие как ограниченный контроль за точками зрения и высокая стоимость аннотирования. Фреймворк поддерживает спецификацию сценариев, контролируемое размещение камер и автоматическую аннотацию ограничивающих рамок. Используя G-MAD, мы также создали и выпустили AMOD, новый масштабный эталон для обнаружения объектов в многовидовом аэродинамическом RGB-T.'}, 'en': {'title': 'G-MAD: Revolutionizing Aerial Object Detection with Multi-View Data', 'desc': 'This paper presents G-MAD, an open-source framework designed for generating synchronized multi-view RGB-T data to improve aerial object detection. It overcomes challenges in creating real-world datasets, such as controlling viewpoints, aligning RGB and thermal images, and reducing annotation costs. G-MAD allows for structured scenario creation, precise camera placement, and automatic bounding box annotations using geometric data. Additionally, it introduces AMOD, a new large-scale benchmark for multi-view aerial RGB-T object detection, enhancing research in this area.'}}}, {'id': 'https://huggingface.co/papers/2607.20417', 'title': 'ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion', 'url': 'https://huggingface.co/papers/2607.20417', 'abstract': 'Abstract  3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than 5.7times compared with dense feed-forward 3DGS methods. From 12 input images at 512 times 960 resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS (512 times 960) with only 311K Gaussians.', 'score': 2, 'issue_id': 2883, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': '97d0a8fcbf369b7a', 'github_url': '', 'github_stars': 0, 'authors': ['Cho In', 'Jeonghwan Cho', 'Mijin Yoo', 'Gim Hee Lee', 'Seon Joo Kim'], 'affiliations': ['National University of Singapore, Singapore', 'Yonsei University, South Korea'], 'pdf_title_img': 'assets/pdf/title_img/2607.20417.jpg', 'data': {'categories': ['#3d'], 'emoji': '🌌', 'ru': {'title': 'Эффективный 3D-синтез с адаптивными токенами', 'desc': 'Статья представляет новый метод под названием ATSplat для синтеза новых видов 3D-графики с использованием адаптивных 3D-токенов. Этот подход улучшает традиционный метод 3D Gaussian Splatting (3DGS) за счёт оптимизации размещения примитивов, что позволяет сосредоточить их в сложных областях сцены. ATSplat уменьшает количество используемых гауссианов более чем в 5.7 раз, сохраняя при этом высокое качество рендеринга. Эксперименты показывают, что метод работает эффективно, обеспечивая быструю реконструкцию и вывод новых видов за секунды на коммерческом графическом процессоре.'}, 'en': {'title': 'Adaptive 3D Tokens for Efficient Novel-View Synthesis', 'desc': 'The paper introduces ATSplat, a novel framework for 3D Gaussian Splatting (3DGS) that enhances the quality of novel-view synthesis by optimizing the placement of 3D primitives. Unlike traditional methods that rely on pixel alignment, ATSplat uses Adaptive 3D Tokens to create a sparse representation of the scene, allowing for more efficient allocation of resources based on scene complexity. This approach enables the model to focus on challenging areas while maintaining a compact set of Gaussians, significantly reducing redundancy. Experimental results demonstrate that ATSplat achieves superior rendering quality and efficiency, processing input images rapidly while using fewer Gaussians than previous methods.'}}}, {'id': 'https://huggingface.co/papers/2607.20092', 'title': 'ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models', 'url': 'https://huggingface.co/papers/2607.20092', 'abstract': 'Abstract  Contextual entrainment is the tendency of a model to let auxiliary context in its input pull its output, independently of whether that context is relevant, true, or even meaningful. Recently, it has been identified and given a mechanistic account in unimodal language models. Whether and how it manifests in vision-language models (VLMs) is, by contrast, largely unexamined, and the field lacks a purpose-built instrument with which to investigate it. We take the position that studying contextual entrainment in VLMs requires more than porting an existing text-only benchmark to the multimodal setting: it requires a taxonomically structured, dual-modality instrument whose conditions are constructed around the item at hand (the depicted image in the textual stream, the textual query in the visual stream). We argue that the move to VLMs is substantive rather than incremental. It makes entrainment a dual phenomenon, drivable independently by textual and by visual context, and it opens a veracity distinction (context that is false of the depicted scene yet possible in the world) that has no counterpart in the unimodal, world-knowledge-only formulation of prior work. To make this position concrete and actionable, we introduce ENTRAP-VL (ENTRainment Assessment Probe for Vision and Language), a manually curated dataset of 1,500 items across eight categories, organized by a taxonomy that spans two axes, i.e., the association of context with the item and its relationship to truth, and split into a textual-entrainment stream (eight context conditions) and a visual-entrainment stream (three context conditions). We do not claim to measure entrainment in any particular model; we provide the instrument, the taxonomy that motivates it, and the evaluation protocols it enables, so that the community can investigate the phenomenon rigorously. We will release the dataset and its documentation publicly.', 'score': 0, 'issue_id': 2890, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': 'd2d1cf0be1d39450', 'github_url': '', 'github_stars': 0, 'authors': ['Karan Goyal', 'Afreen Hossain', 'Debojyoti Das', 'Vishal Bhutani'], 'affiliations': ['Dr. Ambedkar Institute of Technology, India', 'Heritage Institute of Technology, India', 'IIIT Delhi, India', 'PwC, India'], 'pdf_title_img': 'assets/pdf/title_img/2607.20092.jpg', 'data': {'categories': ['#dataset', '#benchmark', '#hallucinations', '#interpretability', '#survey', '#multimodal'], 'emoji': '🔍', 'ru': {'title': 'Исследуем контекстуальное приспособление в VLM', 'desc': 'Контекстуальное приспособление — это тенденция модели позволять вспомогательному контексту в своем вводе влиять на свой вывод, независимо от его значимости. В данной статье рассматривается, как это явление проявляется в визуально-языковых моделях (VLM), поскольку предыдущие исследования преимущественно сосредотачивались на однородных языковых моделях. Авторы предлагают новый инструмент под названием ENTRAP-VL для изучения контекстуального приспособления в условиях многомодального анализа, включающего текст и изображение. Этот инструмент помогает более глубоко анализировать, как зрительный и текстовый контексты взаимодействуют в современных моделях.'}, 'en': {'title': 'Understanding Contextual Entrainment in Vision-Language Models', 'desc': 'This paper explores the concept of contextual entrainment in vision-language models (VLMs), which is how these models can be influenced by context in their inputs, regardless of its relevance. The authors argue that studying this phenomenon requires a specialized tool, as simply adapting existing text-based benchmarks is insufficient. They introduce ENTRAP-VL, a dataset designed to assess contextual entrainment across different categories and conditions, focusing on both textual and visual contexts. This work aims to provide a structured approach for the research community to rigorously investigate how context affects model outputs in VLMs.'}}}, {'id': 'https://huggingface.co/papers/2607.20207', 'title': 'SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments', 'url': 'https://huggingface.co/papers/2607.20207', 'abstract': 'Abstract  Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires significantly more data and compute. These limitations impede performance and have prevented scaling to multiple embodiments in complex scenes. We address this by proposing SeededGrasp, a novel data-efficient framework that enables a VLM to predict a seed point to be used as conditioning for a subsequent lightweight grasp-generation model. Our architecture decouples high-level semantic reasoning from low-level geometric execution, enabling multi-embodiment support while bypassing the need for expensive end-to-end training. To enable training such models, we release the first multi-embodiment tabletop grasping dataset comprising over 2.5M grasps in cluttered scenes. Experimental results demonstrate that our approach outperforms existing baselines, achieving 72% success in simulation and 78% in real-world grasping experiments. See our project site for data and code: https://uoft-isl.github.io/seeded-grasp/', 'score': 0, 'issue_id': 2883, 'pub_date': '2026-07-22', 'pub_date_card': {'ru': '22 июля', 'en': 'July 22', 'zh': '7月22日'}, 'hash': '5cb9b4ddfac1bcee', 'github_url': '', 'github_stars': 0, 'authors': ['Yang Xu', 'Gurpreet Singh Mukker', 'Raymond Wang', 'Jasper Gerigk', 'Maria Attarian', 'Igor Gilitschenski'], 'affiliations': ['Google Deepmind', 'University of British Columbia', 'University of Toronto', 'Vector Institute'], 'pdf_title_img': 'assets/pdf/title_img/2607.20207.jpg', 'data': {'categories': ['#architecture', '#agents', '#alignment', '#dataset', '#robotics', '#open_source', '#reasoning'], 'emoji': '🤖', 'ru': {'title': 'Эффективный захват объектов с SeededGrasp', 'desc': 'В статье представлена новая схема SeededGrasp, которая улучшает захват объектов роботами в сложных сценах. Она использует модели, объединяющие визуальные данные и язык, чтобы предсказать начальную точку захвата, что позволяет снизить требования к вычислительным ресурсам. Разделение семантического анализа и геометрической реализации позволяет поддерживать несколько вариантов захвата без необходимости дорогостоящего обучения от начала до конца. Для тренировки модели представлен новый набор данных с более чем 2,5 миллионами захватов в загроможденных сценах.'}, 'en': {'title': 'Efficient Robotic Grasping with SeededGrasp', 'desc': 'This paper presents SeededGrasp, a framework that enhances robotic grasping in complex environments by combining vision-language models (VLMs) with a lightweight grasp-generation model. Instead of directly predicting grasps, SeededGrasp predicts a seed point that guides the grasping process, allowing for better spatial reasoning and task alignment. The approach separates high-level semantic understanding from low-level geometric actions, making it more efficient and scalable across different robotic embodiments. The authors also introduce a new dataset with over 2.5 million grasps to support training, demonstrating significant improvements in grasping success rates in both simulations and real-world scenarios.'}}}, {'id': 'https://huggingface.co/papers/2607.18789', 'title': 'Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation', 'url': 'https://huggingface.co/papers/2607.18789', 'abstract': 'Abstract  Text-to-video generation has advanced significantly over the past five years through scaling of model size, data, and compute. Unlike model architecture, training data is often underexplored. Real-world data curation is complex and non-trivial, involving clip selection from raw videos and captioning to create video-text pairs for learning text-to-video mappings. We study how data distribution and caption quality impact text-to-video models. To enable controlled experiments, we introduce Moving Alphabet, a procedural testbed that renders letters with varying fonts, colors, sizes, and positions, moving in different directions and speeds against a black background. This design allows precise control over data distribution and caption quality by corrupting ground-truth metadata. Our experiments yield three findings: a) a diverse and balanced distribution of video content and duration is critical for generalization; b) caption quality significantly affects both model performance and training efficiency, suggesting that text-to-video models are bounded by video understanding capabilities; and c) classifier-free guidance and fine-tuning on high-quality data provide partial recovery from models trained on corrupted captions, but cannot fully compensate for poor pre-training data. We believe these insights can inform the development of large-scale text-to-video models, and we advocate for greater attention to the science of pre-training data.', 'score': 0, 'issue_id': 2888, 'pub_date': '2026-07-21', 'pub_date_card': {'ru': '21 июля', 'en': 'July 21', 'zh': '7月21日'}, 'hash': '19649fcf4cd95998', 'github_url': '', 'github_stars': 0, 'authors': ['Amber Yijia Zheng', 'Lu Liu', 'Raymond A. Yeh', 'Xi Yin'], 'affiliations': ['Meta Superintelligence Labs', 'Purdue University'], 'pdf_title_img': 'assets/pdf/title_img/2607.18789.jpg', 'data': {'categories': ['#survey', '#optimization', '#data', '#training', '#science', '#dataset'], 'emoji': '🎥', 'ru': {'title': 'Качество данных — ключ к успеху в генерации видео из текста', 'desc': 'В статье рассматривается процесс генерации видео из текста и подчеркивается важность качества обучающих данных. Авторы вводят тестовый набор Moving Alphabet, который позволяет контролировать распределение данных и качество аннотаций для изучения их влияния на модели. Результаты экспериментов показывают, что разнообразие видео и качество аннотаций важны для успешного обучения. Исследование подчеркивает необходимость более тщательного подхода к подготовке данных для обучения больших моделей текст-видео.'}, 'en': {'title': 'Data Quality Matters in Text-to-Video Models', 'desc': 'This paper explores the importance of training data in text-to-video generation models. It highlights how the distribution of video content and the quality of captions significantly influence model performance and generalization. The authors introduce a testbed called Moving Alphabet to conduct controlled experiments on data quality. Their findings suggest that while high-quality data can improve model outcomes, poor pre-training data cannot be fully compensated for, emphasizing the need for better data curation in model training.'}}}, {'id': 'https://huggingface.co/papers/2607.18149', 'title': 'Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices', 'url': 'https://huggingface.co/papers/2607.18149', 'abstract': 'Abstract  Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles models into pure Boolean circuits executable via bitwise CPU operations. Through rigorous iso-parameter experiments across four EEG datasets spanning two classification tasks, binary dementia detection and 3-class emotion recognition, we compared Diff-Logic against matched-capacity Multi-Layer Perceptron (MLP) and Binarized Neural Network (BNN) baselines at four complexity tiers (50k-500k parameters). On dementia screening, Diff-Logic achieved 80.2% Macro F1, outperforming the MLP baseline by 6.8%. On emotion recognition, the MLP retained a moderate performance advantage but incurred a 2.3times higher latency and 14times larger model size when deployed on a power-constrained (7W) Nvidia Jetson Orin Nano CPU (Single-core). Critically, Diff-Logic inference time remained nearly constant across a 10times increase in model scale, achieving a peak speedup of 2.9times over MLPs at the largest complexity tier. Our results establish logic-based neural architectures as a practical paradigm for resource-constrained brain-computer interfaces, achieving competitive or superior performance while natively satisfying the latency and memory constraints of portable edge deployment. Code is available on GitHub: https://github.com/Shyamal-Dharia/eeg-difflogic', 'score': 0, 'issue_id': 2890, 'pub_date': '2026-07-20', 'pub_date_card': {'ru': '20 июля', 'en': 'July 20', 'zh': '7月20日'}, 'hash': '04fd161ab9b6bc88', 'github_url': '', 'github_stars': 0, 'authors': ['Shyamal Y. Dharia', 'Stephen D. Smith', 'Camilo E. Valderrama'], 'affiliations': ['The University of Winnipeg, Department of Applied Computer Science', 'The University of Winnipeg, Department of Psychology', 'University of Calgary, Department of Community Health Sciences', 'University of Manitoba, Department of Electrical and Computer Engineering'], 'pdf_title_img': 'assets/pdf/title_img/2607.18149.jpg', 'data': {'categories': ['#architecture', '#dataset', '#agent_memory', '#inference', '#healthcare', '#open_source', '#optimization'], 'emoji': '🧠', 'ru': {'title': 'Логические нейросети для ЭЭГ-классификации на устройствах с ограниченными ресурсами', 'desc': 'В данной статье описывается использование дифференцируемых логических вентилей (Diff-Logic) для классификации ЭЭГ на устройствах с ограниченными ресурсами. Эти сети преобразуют модели в чистые булевы схемы, что позволяет выполнять операции с ними с помощью побитовой арифметики процессора. В экспериментах на четырех датасетах ЭЭГ было показано, что Diff-Logic превосходит традиционные многослойные перцептроны по точности при диагностике деменции, а также демонстрирует более низкую задержку при распознавании эмоций. Результаты говорят о том, что логические нейросети являются эффективным решением для интерфейсов мозг-компьютер в условиях ограниченной мощности.'}, 'en': {'title': 'Logic-Based Neural Networks for Efficient EEG Classification', 'desc': 'This paper explores Differentiable Logic Gate Networks (Diff-Logic) as a new approach for real-time EEG classification on edge devices, which face challenges with traditional neural networks due to floating-point arithmetic. The authors conducted experiments on four EEG datasets for tasks like dementia detection and emotion recognition, comparing Diff-Logic to Multi-Layer Perceptrons (MLPs) and Binarized Neural Networks (BNNs). Results showed that Diff-Logic outperformed MLPs in dementia screening while maintaining lower latency and smaller model size, making it suitable for power-constrained environments. The findings suggest that logic-based neural architectures can effectively meet the demands of portable brain-computer interfaces without sacrificing performance.'}}}, {'id': 'https://huggingface.co/papers/2607.17699', 'title': 'SLAM in Low-Light Environments: Project Report', 'url': 'https://huggingface.co/papers/2607.17699', 'abstract': 'Abstract  Simultaneous localization and mapping (SLAM) is one of the fundamental problems in robotics, as it enables autonomous operations in real-world scenarios. Under low illumination, reduced contrast, sensor noise, and motion blur degrade both feature extraction and feature matching, while compensating with LiDAR, depth, or thermal sensors raises cost, power draw, and integration complexity. Existing benchmarks remain dominated by well-lit indoor or daylight sequences, leaving open how far SLAM with standard RGB cameras can be pushed in the dark. We benchmark six systems spanning the feature-based, direct, filter-based, and learning-based paradigms - ORB-SLAM3, DSO, Kimera-VIO, OpenVINS, DPVO, and DPV-SLAM - on five LaMARia sequences of varying difficulty and illumination, reporting absolute and relative pose error alongside control-point recall. Kimera-VIO is the only system to track all five sequences to completion, combining the lowest relative pose error with steadily growing absolute error due to the absence of loop closure; DPVO and DPV-SLAM never lose tracking but incur absolute errors of roughly 100 m under low light; and the classical monocular pipelines (ORB-SLAM3, DSO) together with the filter-based OpenVINS fail outright or diverge on most of the harder and low-light sequences. The results suggest that RGB-only SLAM maintains stable low-light tracking only when both inertial fusion and global optimization are present. Closing the remaining gap will likely require low-light-specific learned front-ends or a return to complementary sensing.', 'score': 0, 'issue_id': 2887, 'pub_date': '2026-07-20', 'pub_date_card': {'ru': '20 июля', 'en': 'July 20', 'zh': '7月20日'}, 'hash': '4e960c2cb42127ac', 'github_url': '', 'github_stars': 0, 'authors': ['Oleh Basystyi', 'Anna Stasyshyn', 'Oleksandr Kosovan', 'Yaroslav Prytula'], 'affiliations': ['Applied Sciences Faculty, Ukrainian Catholic University', 'Ukrainian Catholic University'], 'pdf_title_img': 'assets/pdf/title_img/2607.17699.jpg', 'data': {'categories': ['#robotics', '#benchmark'], 'emoji': '🌑', 'ru': {'title': 'SLAM в темноте: вызовы и решения', 'desc': 'В данной статье рассматривается задача одновременной локализации и картографирования (SLAM), особенно в условиях плохого освещения. Авторы протестировали шесть систем SLAM, таких как ORB-SLAM3 и Kimera-VIO, на последовательностях с различными уровнями освещенности. Результаты показывают, что для стабильного отслеживания в условиях низкой освещенности необходимо комбинировать инерциальную интеграцию и глобальную оптимизацию. Заключение подразумевает необходимость использования обучаемых решений для улучшения SLAM в условиях темноты.'}, 'en': {'title': 'Enhancing SLAM Performance in Low-Light Conditions', 'desc': 'This paper addresses the challenges of simultaneous localization and mapping (SLAM) in low-light conditions, which can hinder feature extraction and matching. It evaluates six SLAM systems, including both traditional and learning-based approaches, on various sequences with different illumination levels. The findings reveal that Kimera-VIO performs best in low-light scenarios, while other systems struggle with tracking and pose accuracy. The study suggests that improving RGB-only SLAM in darkness may require advanced learned techniques or additional sensor integration.'}}}];
+        const articlesContainer = document.getElementById('articles-container');
+        const sortDropdown = document.getElementById('sort-dropdown');
+        const categoryFiltersContainer = document.getElementById('category-filters');
+        const categoryFiltersLogicOptions = document.getElementById('category-options');
+        const categoryToggle = document.getElementById('category-toggle');
+        const clearCategoriesButton = document.getElementById('clear-categories');
+        let selectedCategories = [];
+        let selectedArticles = [];
+        let sortBy = 'issue_id';     
+        let showLimitHint = false; 
+        let filterLogicIsAnd = false;
+
+        function getUrlParameters() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const categoriesParam = urlParams.get('cat');
+            let categories = categoriesParam ? categoriesParam.split(',') : [];
+            categories = categories.map(element => `#${element}`);
+            return categories
+        }
+
+        function updateUrlWithCategories() {
+            let cleanedCategories = selectedCategories.map(element => element.replace(/^#/, ''));
+            const newUrl = cleanedCategories.length > 0 
+                ? `${window.location.pathname}?cat=${cleanedCategories.join(',')}`
+                : window.location.pathname;
+            console.log("cleanedCategories", cleanedCategories)
+            window.history.pushState({}, '', newUrl);
+        }
+
+        function loadSettings() {
+            const themeToggle = document.getElementById('theme-toggle');
+            const sortDropdown = document.getElementById('sort-dropdown');
+
+            const isDarkMode = localStorage.getItem('darkMode') === 'true';
+            let settingSortBy = localStorage.getItem('sort_by');
+            filterLogicIsAnd = localStorage.getItem('filter_logic_is_and') === 'true';
+            
+            if (isDarkMode) {
+                document.body.classList.remove('light-theme');
+                document.body.classList.add('dark-theme');
+                themeToggle.checked = true;
+                const title = document.getElementById('doomgrad');
+                title.innerHTML = "hf nightly";
+                const titleSign = document.getElementById('doomgrad-icon');
+                titleSign.classList.add('rotate');
+            }
+
+            if ((!settingSortBy) || (settingSortBy === 'null')) {
+                settingSortBy = 'issue_id';
+            }
+
+            if (filterLogicIsAnd) {
+                document.getElementById('filter-logic-and').checked = true;
+            } else {
+                document.getElementById('filter-logic-or').checked = true;
+            }
+
+            sortDropdown.value = settingSortBy;
+            sortBy = settingSortBy;
+        }
+
+        document.getElementById('theme-toggle').addEventListener('change', toggleTheme);
+        document.getElementById('filter-logic-and').addEventListener('change', () => {
+            filterLogicIsAnd = true;
+            localStorage.setItem('filter_logic_is_and', 'true');
+            filterAndRenderArticles();
+            updateSelectedArticlesTitle();
+        });
+        document.getElementById('filter-logic-or').addEventListener('change', () => {
+            filterLogicIsAnd = false;
+            localStorage.setItem('filter_logic_is_and', 'false');
+            filterAndRenderArticles();
+            updateSelectedArticlesTitle();
+        });
+
+        function getUniqueCategories(articles) {
+            const categories = new Set();
+            articles.forEach(article => {
+                if (article.data && article.data.categories) {
+                    article.data.categories.forEach(cat => categories.add(cat));
+                }
+            });
+            let res = Array.from(categories);
+            res.sort();
+            return res;
+        }
+
+        function createCategoryButtons() {
+            //const categories = getUniqueCategories(articlesData);
+            const categories = ['#3d (1)', '#agent_memory (3)', '#agents (4)', '#agi (2)', '#alignment (1)', '#architecture (5)', '#audio', '#benchmark (8)', '#compression', '#context_window', '#continual_learning (1)', '#data (2)', '#dataset (8)', '#diffusion (2)', '#ethics (1)', '#games', '#graphs', '#hallucinations (2)', '#healthcare (1)', '#inference (4)', '#interpretability (3)', '#knowledge_graphs', '#leakage', '#long_context (2)', '#low_resource', '#machine_translation', '#math (1)', '#memorization', '#memory (1)', '#multilingual', '#multimodal (2)', '#open_source (4)', '#optimization (10)', '#plp', '#prompt_caching', '#prompting', '#rag', '#reasoning (7)', '#retrieval', '#retrieval_eval (1)', '#rl (3)', '#rlhf (2)', '#robotics (3)', '#science (1)', '#security', '#session_memory', '#small_models', '#story_generation', '#survey (2)', '#synthetic (2)', '#tool_use', '#training (10)', '#transfer_learning (3)'];
+
+            categories.forEach(category => {
+                let catNameSplitted = category.split(/(\s+)/);
+                let catName = catNameSplitted[0];
+                const button = document.createElement('span');
+                button.textContent = catName;
+                button.className = 'category-button';
+                if (catNameSplitted.length < 2) {
+                    button.classList.add('inactive');
+                };
+                button.onclick = () => toggleCategory(catName, button);
+                categoryFiltersContainer.appendChild(button);
+            });
+        }
+
+        function toggleCategory(category, button) {
+            const index = selectedCategories.indexOf(category);
+            if (index === -1) {
+                selectedCategories.push(category);
+                button.classList.add('active');
+            } else {
+                selectedCategories.splice(index, 1);
+                button.classList.remove('active');
+            }         
+            filterAndRenderArticles();
+            saveCategorySelection();
+            updateSelectedArticlesTitle();
+            updateUrlWithCategories();
+            setFilterOptionsVisibility();
+        }
+
+        function saveCategorySelection() {
+            localStorage.setItem('selectedCategories', JSON.stringify(selectedCategories));
+        }
+
+        function updateSelectedArticlesTitle() {
+            if ((selectedArticles.length === articlesData.length) & (selectedCategories.length === 0)) {
+                categoryToggle.textContent = `🏷️ ${filterLabel[currentLang]}`;
+            } else {
+                categoryToggle.textContent = `🏷️ ${filterLabel[currentLang]} (${formatArticlesTitle(selectedArticles.length, currentLang)})`;
+            }
+        }
+
+        function cleanCategorySelection() {
+            localStorage.setItem('selectedCategories', JSON.stringify('[]'));
+        }
+
+        function loadCategorySelection() {
+            const urlCategories = getUrlParameters();
+            if (urlCategories.length > 0) {
+                selectedCategories = urlCategories;
+                saveCategorySelection();
+            } else {
+                const savedCategories = localStorage.getItem('selectedCategories');
+                if (savedCategories && savedCategories !== '"[]"') {
+                    selectedCategories = JSON.parse(savedCategories);                    
+                }
+            }
+            updateCategoryButtonStates();
+        }
+
+        function updateCategoryButtonStates() {
+            const buttons = categoryFiltersContainer.getElementsByClassName('category-button');
+            Array.from(buttons).forEach(button => {
+                if (selectedCategories.includes(button.textContent)) {
+                    button.classList.add('active');
+                } else {
+                    button.classList.remove('active');
+                }
+            });
+        }
+
+        function filterAndRenderArticles() {
+            console.log(selectedCategories);
+            let filteredArticles; 
+
+            if (filterLogicIsAnd) {
+                filteredArticles = selectedCategories.length === 0
+                    ? articlesData
+                    : articlesData.filter(article => 
+                        article.data && article.data.categories && 
+                        selectedCategories.every(cat => article.data.categories.includes(cat))
+                );
+            } else {
+                filteredArticles = selectedCategories.length === 0
+                    ? articlesData
+                    : articlesData.filter(article => 
+                        article.data && article.data.categories && 
+                        article.data.categories.some(cat => selectedCategories.includes(cat))
+                    );            
+            }
+
+            console.log('filteredArticles', filteredArticles)
+
+            selectedArticles = filteredArticles;
+            sortArticles(selectedArticles);
+        }
+
+        function clearAllCategories() {
+            selectedCategories = [];
+            updateCategoryButtonStates();
+            filterAndRenderArticles();
+            saveCategorySelection();
+            updateSelectedArticlesTitle();
+            updateUrlWithCategories();
+        }
+
+        function renderArticles(articles) {
+            if (articles.length > 50) {
+                articles = articles.slice(0, 50);
+                showLimitHint = true;
+            } else {
+                showLimitHint = false;
+            }
+            console.log(articles);
+            articlesContainer.innerHTML = '';
+            articles.forEach((item, index) => {
+                if ("error" in item) {
+                    console.log(`Omitting JSON. ${item["raw_data"]}`);
+                    return;
+                }
+                
+                let explanation = item["data"][currentLang]["desc"];
+                let title = item["data"][currentLang]["title"];
+
+                const cats = item["data"]["categories"].slice(0, 5).join(" ");
+                const githubStars = Number(item["github_stars"]);
+                let githubBlock = "";
+                if (item["github_url"]) {
+                    const starsText = Number.isFinite(githubStars) ? githubStars : 0;
+                    githubBlock = `<span class="github-link"><span class="github-stars">⭐ ${starsText}</span><a href="${item['github_url']}" target="_blank">GitHub</a></span>`;
+                }
+                
+                let affiliations = ""
+                if ('affiliations' in item) {
+                    affiliations = item["affiliations"].slice(0, 10).join(", ");
+                }
+
+                let pdfImg = "img/title_stub.png"
+                if ('pdf_title_img' in item) {
+                    pdfImg = '' + item['pdf_title_img']
+                    
+                }                
+
+                const articleHTML = `
+                    <article class='x${item["hash"]}'>
+                        <div class="article-content" onclick="toggleAbstract(${index})">
+                            <div class="background-digit">${index + 1}</div>
+                            <div class="article-title-cont">
+                                <div style="display:table-cell; vertical-align: middle;">
+                                    <div class="article-title"><h2>${item['data']['emoji']} ${title}</h2></div>
+                                </div>
+                            </div>
+                            <p class="meta">
+                            🔺 ${item['score']}. ${item['title']}</p>
+                            <p class="pub-date">${publishedLabel[currentLang]}${item['pub_date_card'][currentLang]}</p>
+                            
+                            <div class="article-pdf-title-img-cont"><img class="article-pdf-title-img" src="${pdfImg}"/></div>
+                            
+                            <div id="abstract-${index}" class="abstract">
+                                <p>${explanation}</p>
+                                <div id="toggle-${index}" class="abstract-toggle">...</div>
+                            </div>
+
+                            
+
+                            <div class="links">
+                                <a href="${item['url']}" target="_blank">${paperLabel[currentLang]}</a>
+                                ${githubBlock}
+                            </div>
+
+                            <div class="affiliations">${affiliations}</div>
+
+                            <div class="tags">${cats}</div>
+                        </div>
+                    </article>
+                `;
+                articlesContainer.innerHTML += articleHTML;
+            });
+        }
+        
+        function sortArticles() {
+            let sortedArticles = [...selectedArticles];
+            if (sortBy === 'issue_id') {
+                sortedArticles.sort((a, b) => b.issue_id - a.issue_id);
+            } else if (sortBy === 'pub_date') {
+                sortedArticles.sort((a, b) => b.pub_date.localeCompare(a.pub_date));
+            } else if (sortBy === 'github') {
+                sortedArticles.sort((a, b) => (Number(b.github_stars) || 0) - (Number(a.github_stars) || 0));
+            } else {
+                sortedArticles.sort((a, b) => b.score - a.score);
+            }
+            renderArticles(sortedArticles);
+            localStorage.setItem('sort_by', sortBy);
+        }
+        
+        sortDropdown.addEventListener('change', (event) => {
+            sortBy = event.target.value;
+            sortArticles(event.target.value);
+        });
+
+        categoryToggle.addEventListener('click', () => {
+            categoryFiltersContainer.classList.toggle('expanded');
+            setFilterOptionsVisibility();
+        });
+
+        clearCategoriesButton.addEventListener('click', () => {
+            clearAllCategories();
+            setFilterOptionsVisibility();
+        });
+
+        function setFilterOptionsVisibility() {
+            if (selectedCategories.length > 0) {
+                categoryFiltersLogicOptions.style.display = 'inline-block';
+            } else {
+                categoryFiltersLogicOptions.style.display = 'none';
+            }
+        } 
+        
+        function updateTimeDiffs() {
+            const timeDiff = document.getElementById('timeDiff');
+            timeDiff.innerHTML = '🔄 ' + getTimeDiff('2026-07-23 22:03',lang=currentLang);
+        }
+        function updateSortingOptions() {
+            const sortingLabels = {
+                ru: {
+                    default: "рейтингу",
+                    pub_date: "дате публикации",
+                    issue_id: "добавлению на HF",
+                    github: "звёздам GitHub"
+                },
+                en: {
+                    default: "rating",
+                    pub_date: "publication date",
+                    issue_id: "HF addition date",
+                    github: "GitHub stars"
+                },
+                zh: {
+                    default: "评分",
+                    pub_date: "发布日期",
+                    issue_id: "HF 收录日期",
+                    github: "GitHub 星标"
+                }
+            };
+
+            const dropdown = document.getElementById('sort-dropdown');
+            const options = dropdown.options;
+
+            for (let i = 0; i < options.length; i++) {
+                const optionValue = options[i].value;
+                options[i].text = sortingLabels[currentLang][optionValue];
+            }
+        }
+
+        function updateLocalization() {
+            const titleDate = document.getElementById('title-date');
+            const prevDate = document.getElementById('prev-date');
+            const nextDate = document.getElementById('next-date');
+            const topMonth = document.getElementById('top-month-label');
+            const topDay = document.getElementById('top-day-label');
+            const papersCount = document.getElementById('title-articles-count');
+            const sortLabelText = document.getElementById('sort-label-text');
+            titleDate.innerHTML = feedDate[currentLang];
+            prevDate.innerHTML = feedDatePrev[currentLang];
+            nextDate.innerHTML = feedDateNext[currentLang];
+            papersCount.innerHTML = formatArticlesTitle(articlesData.length, currentLang);
+            sortLabelText.innerHTML = sortLabel[currentLang];
+            if (topMonth) {
+                topMonth.innerHTML = topMonthLabel[currentLang];
+            }  
+            if (topDay) {
+                topDay.innerHTML = topDayLabel[currentLang];
+            }             
+            updateSelectedArticlesTitle();
+            updateSortingOptions();
+        } 
+        function hideNextLink(format) {
+            if (format === 'monthly') {
+                if (isCurrentMonth('2026-07-23 22:03')) {
+                    const element = document.getElementById('nav-next');
+                    if (element) {    
+                        element.style.display = 'none';
+                    }
+                }
+            } else {            
+                if (isToday('2026-07-23 22:03')) {
+                    const element = document.getElementById('nav-next');
+                    if (element) {    
+                        element.style.display = 'none';
+                    }
+                }
+            }
+        }
+
+        loadSettings();
+        createCategoryButtons();
+        loadCategorySelection();
+        filterAndRenderArticles();
+        updateSelectedArticlesTitle();
+        updateTimeDiffs();
+        hideNextLink('daily'); 
+        initializeLanguageFlags();
+        updateLocalization();
+        setFilterOptionsVisibility();
+    </script>
+</body>
+</html>
+    
