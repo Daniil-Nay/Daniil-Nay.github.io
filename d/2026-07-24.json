@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-24 05:50",
+    "time_utc": "2026-07-24 08:26",
     "weekday": 4,
-    "issue_id": 2892,
+    "issue_id": 2893,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 37,
+            "score": 48,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -79,11 +79,65 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2605.09635",
+            "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+            "url": "https://huggingface.co/papers/2605.09635",
+            "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
+            "score": 33,
+            "issue_id": 2893,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "68da3c174380cbd8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hao Liang",
+                "Qihan Lin",
+                "Zhaoyang Han",
+                "Xiaochen Ma",
+                "Zhen Hao Wong",
+                "Meiyi Qiang",
+                "Linzhuang Sun",
+                "Wentao Zhang"
+            ],
+            "affiliations": [
+                "Institute for Advanced Algorithms Research",
+                "OriginHub Technology",
+                "Peking University",
+                "Zhongguancun Academy"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2605.09635.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#knowledge_graphs",
+                    "#graphs",
+                    "#training",
+                    "#dataset",
+                    "#multimodal",
+                    "#science"
+                ],
+                "emoji": "📚",
+                "ru": {
+                    "title": "Инновации в образовании с помощью графов знаний",
+                    "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Авторы вводят концепцию 'куррикулумной когниции', которая включает цепочки предпосылок, таксономии понятий и визуальное выявление. Представлен граф знаний K12-KGraph, созданный на основе учебников из официального издательства, и разработан многозадачный тест K12-Bench. Эксперименты показывают, что специализированное обучение может улучшать результаты моделей в задаче понимания учебных материалов."
+                },
+                "en": {
+                    "title": "Enhancing Curriculum Cognition with K12-KGraph",
+                    "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.21556",
             "title": "Visual Contrastive Self-Distillation",
             "url": "https://huggingface.co/papers/2607.21556",
             "abstract": "Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from 62.27% rightarrow 67.04% at 2B, 71.30% rightarrow 73.16% at 4B, and 72.51% rightarrow 76.26% at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
-            "score": 24,
+            "score": 32,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -132,7 +186,7 @@
             "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
             "url": "https://huggingface.co/papers/2607.20061",
             "abstract": "Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with explicit image-space detections. To address this, we introduce ReferTrack, a referring-then-tracking paradigm that grounds EVT using a single forward-facing camera. Our model first selects the target from an indexed set of bounding boxes, then decodes tracking waypoints conditioned on this image-grounded decision. To preserve target motion cues over time, ReferTrack maintains a sliding-window queue of previously selected bounding boxes, injecting their geometric features into the visual history via temporal-viewpoint-bbox indicator (TVBI) tokens. We further enhance target identification by co-training on a custom Refer-QA dataset. On EVT-Bench, ReferTrack achieves state-of-the-art single-view performance with success rates of 89.4%, 73.3%, and 74.1% on the single-target, distracted, and ambiguity tracking splits, respectively -- matching or even surpassing several multi-camera baselines on identification-heavy tasks. Finally, real-world deployments on legged and humanoid robots validate its robust sim-to-real transfer capabilities. Code is available at https://github.com/MedlarTea/referTrack.",
-            "score": 14,
+            "score": 22,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -185,11 +239,106 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21072",
+            "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
+            "url": "https://huggingface.co/papers/2607.21072",
+            "abstract": "Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing than by reporting precise coordinates or discrete textual symbols. Yet existing spatial reasoning benchmarks usually require coordinates, options, or text, creating an answer-interface mismatch for image-generation models. This makes it difficult to evaluate image-generation models under the same task semantics as text-output VLMs, despite their ability to externalize spatial judgments directly in pixel space. We propose ProVisE (Protocolized Visual Evaluation), a benchmark-agnostic framework that elicits protocol-constrained visual answers from image-generation models and parses them into structured predictions compatible with original metrics. ProVisE also includes an Agentic builder that constructs and validates task-specific protocols for new benchmarks. We further introduce SpatialGen-Bench, a curated diagnostic benchmark of 470 samples across 14 spatial subtasks, four capability levels, and diverse answer forms. We evaluate representative text-output VLMs and image-generation models in a unified setting and validate Agentic protocol construction on six external spatial benchmarks. Results show that image-generation models are competitive when spatial answers can be externalized directly in pixel space, while text-output VLMs retain a clear advantage in compositional spatial reasoning. These findings reveal complementary strengths of pixel-space expression and text-based reasoning and establish a metric-compatible testbed for studying spatial cognition in image-generation models.",
+            "score": 13,
+            "issue_id": 2892,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "a176acc92b674bf2",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Xu Wang",
+                "Kaixiang Yao",
+                "Miao Pan",
+                "Xiaohe Zhou",
+                "Xuanyu Liu",
+                "Wenqi Zhang",
+                "Xuhong Zhang"
+            ],
+            "affiliations": [
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21072.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#games",
+                    "#agents",
+                    "#benchmark",
+                    "#reasoning"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Новый подход к пространственной оценке в моделях генерации изображений",
+                    "desc": "В данной статье рассматривается важность пространственного интеллекта для агентов, которые взаимодействуют с физическим миром. Авторы предлагают новый метод оценки, ProVisE, который помогает визуализировать пространственные ответы от моделей генерации изображений. Также представлен новый диагностический бенчмарк SpatialGen-Bench, включающий 470 примеров для оценки моделей по различным пространственным задачам. Результаты показывают, что модели, генерирующие изображения, могут успешно выполнять пространственные задания, когда ответы представлены в пиксельном пространстве."
+                },
+                "en": {
+                    "title": "Bridging Spatial Intelligence: Visual Answers Meet Structured Evaluation",
+                    "desc": "This paper discusses the importance of spatial intelligence for agents interacting with the physical world. It highlights the limitations of current spatial reasoning benchmarks that rely on coordinates and text, which do not align well with image-generation models. The authors introduce ProVisE, a framework that allows image-generation models to provide visual answers in a structured way, making it easier to evaluate their performance. Additionally, they present SpatialGen-Bench, a benchmark for assessing various spatial tasks, revealing that while image-generation models excel in pixel-space tasks, text-output models are better at complex spatial reasoning."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12746",
+            "title": "Color Pass-Through via Camera-Display Coupling",
+            "url": "https://huggingface.co/papers/2607.12746",
+            "abstract": "Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is that most pipelines factor the high-dimensional capture-to-display process into two separately calibrated camera and display stages, and then connect them through low-dimensional color transforms, leading to information bottlenecks and inevitable error accumulation. To address this systemic challenge, we propose Color Pass-Through, an end-to-end learned framework that operates directly on captured images. Our key insight is to treat the camera and display as a coupled system rather than calibrating them in isolation. Coupling the camera and display yields two practical advantages: (1) it brings the entire real-world scenes to the display via end-to-end optimization, and (2) it allows efficient one-step calibration for each distinct observer via complete capture-to-display path. We validate Color Pass-Through using both digital and human observers. Compared with representative baselines, our method achieves an average gain of +2.0 points on a 5-point user study and more than 2x improvement on quantitative metrics, demonstrating improved reproduction of the perceived color of the original scene.",
+            "score": 13,
+            "issue_id": 2892,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "df057ffe61cf0b11",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Ruikang Li",
+                "Molin Li",
+                "Jiarui Wu",
+                "Zhe Wei",
+                "Pengpeng Liu",
+                "Tianfan Xue"
+            ],
+            "affiliations": [
+                "CUHK MMLab",
+                "Central Media Technology Institute, Huawei",
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12746.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#data",
+                    "#training"
+                ],
+                "emoji": "🌈",
+                "ru": {
+                    "title": "Цвет без искажений: новая система передачи изображения",
+                    "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и экран как связанную систему и оптимизирует процесс передачи изображения от захвата до отображения в единое целое. Это уменьшает накопление ошибок и улучшает качество изображения, которое видит пользователь. Исследование показывает, что новый метод значительно превосходит традиционные подходы по качеству воспроизведения цвета."
+                },
+                "en": {
+                    "title": "Bridging the Gap: Enhanced Image Display through Coupled Camera and Display Optimization",
+                    "desc": "This paper introduces Color Pass-Through, a novel end-to-end learned framework that improves the way images are displayed on screens after being captured by cameras. Instead of treating the camera and display as separate entities, it couples them to optimize the entire capture-to-display process. This approach reduces information loss and calibration errors, leading to better color reproduction of real-world scenes. The method shows significant improvements in user satisfaction and quantitative metrics compared to traditional methods."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20911",
             "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
             "url": "https://huggingface.co/papers/2607.20911",
             "abstract": "Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed coding-agent tasks across four work domains - Code, Web, Office, and Security. Rather than adapting public issue text, every task is reverse-engineered from a real commit, pull request, or business scenario and rewritten as a short, colloquial, role-played request, so that a task's prompt is not recoverable by web-searching the underlying issue, pull request, or commit thread. Because the dataset is released openly - task directories, environment images, evaluation harness, tests, and reference solutions - contamination resistance rests on this construction together with dataset versioning rather than on secrecy. The four subsets - repository-level engineering, front-end development, office and business workflows, and red-/blue-team security - probe complementary facets of real work, each with its own verification style. All are packaged in a uniform task-directory format and run, under a uniform and reproducible protocol, on two agent harnesses (CodeBuddy Code and Claude Code); the full open release makes the benchmark reproducible end to end and directly auditable, since any third party can re-run each task and inspect its content. Because each subset uses a different scoring instrument, scores are not comparable across subsets and the suite reports no suite-wide average. We report a cross-model leaderboard across several model families.",
-            "score": 9,
+            "score": 11,
             "issue_id": 2891,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -267,50 +416,94 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.21072",
-            "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
-            "url": "https://huggingface.co/papers/2607.21072",
-            "abstract": "Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing than by reporting precise coordinates or discrete textual symbols. Yet existing spatial reasoning benchmarks usually require coordinates, options, or text, creating an answer-interface mismatch for image-generation models. This makes it difficult to evaluate image-generation models under the same task semantics as text-output VLMs, despite their ability to externalize spatial judgments directly in pixel space. We propose ProVisE (Protocolized Visual Evaluation), a benchmark-agnostic framework that elicits protocol-constrained visual answers from image-generation models and parses them into structured predictions compatible with original metrics. ProVisE also includes an Agentic builder that constructs and validates task-specific protocols for new benchmarks. We further introduce SpatialGen-Bench, a curated diagnostic benchmark of 470 samples across 14 spatial subtasks, four capability levels, and diverse answer forms. We evaluate representative text-output VLMs and image-generation models in a unified setting and validate Agentic protocol construction on six external spatial benchmarks. Results show that image-generation models are competitive when spatial answers can be externalized directly in pixel space, while text-output VLMs retain a clear advantage in compositional spatial reasoning. These findings reveal complementary strengths of pixel-space expression and text-based reasoning and establish a metric-compatible testbed for studying spatial cognition in image-generation models.",
-            "score": 6,
+            "id": "https://huggingface.co/papers/2607.20734",
+            "title": "LLMs Get Lost in Evolving User Intent",
+            "url": "https://huggingface.co/papers/2607.20734",
+            "abstract": "Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the conversation unfolds. Despite this, LLMs are still predominantly evaluated or trained in single-turn, fully-specified settings, leaving open a fundamental question: how well do LLMs track and act on user intent as it evolves over the course of a conversation? To study this, we introduce a framework that transforms static, single-turn tasks into dynamic multi-turn conversations in which the user's intent evolves across turns--incrementally revealed, revised, and at times redirected mid-conversation--while preserving each task's original evaluation protocol, enabling existing benchmarks to be reused as controlled testbeds without new annotation. Across multiple tasks, we surface a consistent phenomenon: strong static-setting performance does not transfer to the evolving-intent setting, with substantial drops across model families. Our findings point to a fundamental gap: today's LLMs do not yet faithfully track and act on the user's evolving intent, a capability invisible to static evaluation yet critical for future collaborative agents.",
+            "score": 7,
             "issue_id": 2892,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "6c6f5b795d881ecc",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Jihoon Tack",
+                "Philippe Laban",
+                "Jennifer Neville"
+            ],
+            "affiliations": [
+                "Microsoft Research"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20734.jpg",
+            "data": {
+                "categories": [
+                    "#agent_memory",
+                    "#session_memory",
+                    "#transfer_learning",
+                    "#agents",
+                    "#benchmark"
+                ],
+                "emoji": "💬",
+                "ru": {
+                    "title": "LLM: Искусство понимания изменяющихся намерений",
+                    "desc": "В этой статье рассматривается, как LLM могут быть использованы в качестве коллаборативных агентов, выполняя задачи, делегированные пользователями. Проблема в том, что пользователи редко формулируют свои намерения заранее, а чаще изменяют их в процессе общения. Авторы предлагают новую методику, которая превращает статические задачи в динамичные многоповоротные разговоры, где намерения пользователя развиваются с течением времени. Исследование показывает, что современным LLM сложно отслеживать и реагировать на изменяющиеся намерения пользователя, что критично для будущих коллаборативных агентов."
+                },
+                "en": {
+                    "title": "Bridging the Gap: LLMs and Evolving User Intent",
+                    "desc": "This paper explores how large language models (LLMs) function as collaborative agents in dynamic conversations where user intent changes over time. It highlights that current evaluations of LLMs often occur in static, single-turn scenarios, which do not reflect the real-world interactions where users refine their requests. The authors introduce a framework to transform these static tasks into multi-turn conversations, allowing for the study of how well LLMs adapt to evolving user intent. The findings reveal that LLMs struggle to track and respond to changing user needs, indicating a significant gap in their capabilities that needs to be addressed for effective collaboration."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.21051",
+            "title": "Sample-Efficient Learning from Agent Experience",
+            "url": "https://huggingface.co/papers/2607.21051",
+            "abstract": "Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \\(9.6\\times\\) fewer environment samples.",
+            "score": 5,
+            "issue_id": 2893,
             "pub_date": "2026-07-23",
             "pub_date_card": {
                 "ru": "23 июля",
                 "en": "July 23",
                 "zh": "7月23日"
             },
-            "hash": "a176acc92b674bf2",
+            "hash": "2dcefb42d0be492f",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Xu Wang",
-                "Kaixiang Yao",
-                "Miao Pan",
-                "Xiaohe Zhou",
-                "Xuanyu Liu",
-                "Wenqi Zhang",
-                "Xuhong Zhang"
+                "Chenhui Gou",
+                "Haoqin Tu",
+                "Yunhao Fang",
+                "Jianfei Cai",
+                "Hamid Rezatofighi"
             ],
             "affiliations": [
-                "Zhejiang University"
+                "ByteDance Seed",
+                "Monash University"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21072.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.21051.jpg",
             "data": {
                 "categories": [
-                    "#multimodal",
-                    "#games",
+                    "#memorization",
+                    "#continual_learning",
+                    "#training",
                     "#agents",
-                    "#benchmark",
-                    "#reasoning"
+                    "#rl",
+                    "#games"
                 ],
-                "emoji": "🖼️",
+                "emoji": "🤖",
                 "ru": {
-                    "title": "Новый подход к пространственной оценке в моделях генерации изображений",
-                    "desc": "В данной статье рассматривается важность пространственного интеллекта для агентов, которые взаимодействуют с физическим миром. Авторы предлагают новый метод оценки, ProVisE, который помогает визуализировать пространственные ответы от моделей генерации изображений. Также представлен новый диагностический бенчмарк SpatialGen-Bench, включающий 470 примеров для оценки моделей по различным пространственным задачам. Результаты показывают, что модели, генерирующие изображения, могут успешно выполнять пространственные задания, когда ответы представлены в пиксельном пространстве."
+                    "title": "Эффективное обучение агентов без дорогостоящих экспериментов",
+                    "desc": "Статья посвящена проблеме обучения агентов в реальных условиях, где взаимодействие с окружением обычно дорогостоящее. В ней рассматривается метод in-context learning, который позволяет агентам эффективно учиться на основе своих собственных взаимодействий. Авторы предлагают новую технику, называемую Experience Distillation, которая помогает сохранить информацию из опыта агентов и интегрировать ее в веса модели без дополнительных взаимодействий с окружением. Эксперименты показывают, что данный подход значительно улучшает эффективность по сравнению с традиционными методами обучения."
                 },
                 "en": {
-                    "title": "Bridging Spatial Intelligence: Visual Answers Meet Structured Evaluation",
-                    "desc": "This paper discusses the importance of spatial intelligence for agents interacting with the physical world. It highlights the limitations of current spatial reasoning benchmarks that rely on coordinates and text, which do not align well with image-generation models. The authors introduce ProVisE, a framework that allows image-generation models to provide visual answers in a structured way, making it easier to evaluate their performance. Additionally, they present SpatialGen-Bench, a benchmark for assessing various spatial tasks, revealing that while image-generation models excel in pixel-space tasks, text-output models are better at complex spatial reasoning."
+                    "title": "Maximizing Learning Efficiency with Experience Distillation",
+                    "desc": "This paper introduces a method called Experience Distillation, which allows agents to learn from their past interactions without needing additional costly environment interactions. It combines the benefits of in-context learning, which is efficient but loses effectiveness without context, and context distillation, which internalizes information into model weights. The proposed method retains a significant portion of the learning gains from in-context learning while requiring far fewer samples from the environment. Experiments demonstrate that this approach outperforms traditional reinforcement learning methods in terms of sample efficiency and performance across various tasks."
                 }
             }
         },
@@ -360,6 +553,158 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21594",
+            "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+            "url": "https://huggingface.co/papers/2607.21594",
+            "abstract": "Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registers: learnable tokens that store shared world information, track individual agent status, and are dynamically updated after each generated chunk. We ground these registers with supervision signals spanning individual agent status, global state views including bird's-eye views, and scene text. We further improve the architecture with a Mixture-of-Transformers design that uses separate weights for world state modeling and visual frame modeling. Extensive experiments in two-agent Minecraft video generation show that explicit world-state modeling improves logical consistency and generation quality.",
+            "score": 5,
+            "issue_id": 2891,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "0742166118c164e8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Sicheng Mo",
+                "Yuheng Li",
+                "Ziyang Leng",
+                "Krishna Kumar Singh",
+                "Bolei Zhou"
+            ],
+            "affiliations": [
+                "Adobe Research",
+                "University of California, Los Angeles"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21594.jpg",
+            "data": {
+                "categories": [
+                    "#games",
+                    "#architecture",
+                    "#diffusion",
+                    "#reasoning",
+                    "#agents"
+                ],
+                "emoji": "🌍",
+                "ru": {
+                    "title": "Моделирование общего состояния мира в многопользовательских моделях",
+                    "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирования видео. Она решает проблему поддержания общего состояния мира в условиях нескольких агентов и различных ракурсов. Модель использует обучаемые токены, которые фиксируют общее состояние и статус каждого агента, обновляясь после генерации каждого фрагмента видео. Эксперименты показывают, что явное моделирование состояния мира улучшает логическую согласованность и качество генерации."
+                },
+                "en": {
+                    "title": "WorldWeaver: Enhancing Multi-Agent Video Generation with Shared State",
+                    "desc": "This paper introduces WorldWeaver (W^2), a multi-agent video diffusion model designed to maintain a consistent world state across different agents and perspectives. It utilizes learnable tokens called world state registers to store and update shared information about the environment and individual agent statuses. The model is enhanced with a Mixture-of-Transformers architecture, which separates the modeling of world states from visual frames for better performance. Experiments in generating videos for two agents in Minecraft demonstrate that this approach significantly improves logical consistency and overall generation quality."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.20709",
+            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+            "url": "https://huggingface.co/papers/2607.20709",
+            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
+            "score": 4,
+            "issue_id": 2891,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "b081f4f495216e8e",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Paul Furgale",
+                "Severin Klingler",
+                "James Nolan",
+                "Matt Staats",
+                "Gaia Di Lorenzo",
+                "Elisa Martinez Abad",
+                "Christian Schüller",
+                "Razvan Dinu",
+                "Alessio Devoto",
+                "Pascal Berard",
+                "Gal Kaplun",
+                "Elad Sarafian",
+                "Riccardo Roveri",
+                "Leon Derczynski",
+                "Ricardo Silveira Cabral"
+            ],
+            "affiliations": [
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#architecture",
+                    "#reasoning",
+                    "#agents",
+                    "#agent_memory"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новый подход к созданию ИИ-агентов на Python",
+                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
+                },
+                "en": {
+                    "title": "Simplifying AI Agent Development with Python Objects",
+                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.10848",
+            "title": "Predictive Divergence Masks for LLM RL",
+            "url": "https://huggingface.co/papers/2607.10848",
+            "abstract": "Abstract  Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio for two criteria: a proximity criterion, which asks whether the policy has moved too far from the behavior policy, and a direction criterion, which asks whether the update pushes it farther away. Recent work DPPO improves the proximity criterion by replacing PPO's ratio-based test with a probability divergence between the behavior and training policies. However, its direction criterion is still inherited from PPO. A token can be masked only when the sampled-token importance ratio moves away from one. We observe that this ratio-based direction criterion is a single-sample proxy that can disagree in sign with the change of the divergence that defines the proximity criterion. We therefore propose the predictive divergence mask, which asks whether the next policy-gradient step will increase or decrease the same divergence used by the trust region. For the discrete softmax policies used in LLM RL, we derive this prediction in closed form. Because production rollout engines expose only a truncated (top-K) view of the vocabulary, we develop two lightweight top-K estimators for this prediction. Detailed analysis shows the divergence-based direction is better aligned with the realized change of the divergence than the sampled ratio, and the resulting masks improve RL training across model scales and precision settings.",
+            "score": 4,
+            "issue_id": 2891,
+            "pub_date": "2026-07-12",
+            "pub_date_card": {
+                "ru": "12 июля",
+                "en": "July 12",
+                "zh": "7月12日"
+            },
+            "hash": "4747d3a9882e05c2",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Xiangxin Zhou",
+                "Jiarui Yao",
+                "Penghui Qi",
+                "Bowen Ping",
+                "Jiaqi Tang",
+                "Haonan Wang",
+                "Tianyu Pang"
+            ],
+            "affiliations": [
+                "NUS",
+                "Tencent Hunyuan",
+                "UIUC"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.10848.jpg",
+            "data": {
+                "categories": [
+                    "#optimization",
+                    "#training",
+                    "#rlhf",
+                    "#rl"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Улучшение обучения с подкреплением для языковых моделей",
+                    "desc": "В данной статье рассматривается метод обучения с подкреплением для больших языковых моделей (LLM), который использует маски доверительных областей для стабилизации обновлений при обучении на основе выборок. Авторы предлагают улучшение существующего подхода PPO, заменяя тест на основе отношения важности выборки на тест с использованием дивергенции вероятностей между политиками. Это позволяет более точно оценивать, приведет ли следующий шаг градиента политики к увеличению или уменьшению дивергенции. Проведённый анализ показывает, что предложенные маски значительно улучшают обучение RL на различных масштабах моделей и настройках точности."
+                },
+                "en": {
+                    "title": "Enhancing Reinforcement Learning Stability with Predictive Divergence Masks",
+                    "desc": "This paper discusses improvements in reinforcement learning for large language models (LLMs) by introducing a new method for stabilizing policy updates. It critiques the existing PPO-style approach, particularly its reliance on a ratio-based direction criterion, which can misalign with the actual changes in policy divergence. The authors propose a predictive divergence mask that better predicts the impact of policy updates on divergence, enhancing the training process. Their analysis shows that this new method leads to more effective reinforcement learning across various model scales and precision settings."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.21017",
             "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
             "url": "https://huggingface.co/papers/2607.21017",
@@ -400,53 +745,6 @@
                 "en": {
                     "title": "Revolutionizing Robotic Environments with TableVerse",
                     "desc": "This paper presents TableVerse, a new method for creating realistic robotic manipulation environments from real-world images. Unlike previous methods that generate layouts from imagination, TableVerse reconstructs environments with accurate details and physical stability. It includes a system for generating safe and effective movement paths for robots to follow. The result is the TableVerse-100K Dataset, which contains 100,000 unique environments that can help improve robotic manipulation research."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21594",
-            "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-            "url": "https://huggingface.co/papers/2607.21594",
-            "abstract": "Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registers: learnable tokens that store shared world information, track individual agent status, and are dynamically updated after each generated chunk. We ground these registers with supervision signals spanning individual agent status, global state views including bird's-eye views, and scene text. We further improve the architecture with a Mixture-of-Transformers design that uses separate weights for world state modeling and visual frame modeling. Extensive experiments in two-agent Minecraft video generation show that explicit world-state modeling improves logical consistency and generation quality.",
-            "score": 3,
-            "issue_id": 2891,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "0742166118c164e8",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Sicheng Mo",
-                "Yuheng Li",
-                "Ziyang Leng",
-                "Krishna Kumar Singh",
-                "Bolei Zhou"
-            ],
-            "affiliations": [
-                "Adobe Research",
-                "University of California, Los Angeles"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21594.jpg",
-            "data": {
-                "categories": [
-                    "#games",
-                    "#architecture",
-                    "#diffusion",
-                    "#reasoning",
-                    "#agents"
-                ],
-                "emoji": "🌍",
-                "ru": {
-                    "title": "Моделирование общего состояния мира в многопользовательских моделях",
-                    "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирования видео. Она решает проблему поддержания общего состояния мира в условиях нескольких агентов и различных ракурсов. Модель использует обучаемые токены, которые фиксируют общее состояние и статус каждого агента, обновляясь после генерации каждого фрагмента видео. Эксперименты показывают, что явное моделирование состояния мира улучшает логическую согласованность и качество генерации."
-                },
-                "en": {
-                    "title": "WorldWeaver: Enhancing Multi-Agent Video Generation with Shared State",
-                    "desc": "This paper introduces WorldWeaver (W^2), a multi-agent video diffusion model designed to maintain a consistent world state across different agents and perspectives. It utilizes learnable tokens called world state registers to store and update shared information about the environment and individual agent statuses. The model is enhanced with a Mixture-of-Transformers architecture, which separates the modeling of world states from visual frames for better performance. Experiments in generating videos for two agents in Minecraft demonstrate that this approach significantly improves logical consistency and overall generation quality."
                 }
             }
         },
@@ -505,155 +803,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.20709",
-            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-            "url": "https://huggingface.co/papers/2607.20709",
-            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
-            "score": 3,
-            "issue_id": 2891,
-            "pub_date": "2026-07-22",
-            "pub_date_card": {
-                "ru": "22 июля",
-                "en": "July 22",
-                "zh": "7月22日"
-            },
-            "hash": "b081f4f495216e8e",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Paul Furgale",
-                "Severin Klingler",
-                "James Nolan",
-                "Matt Staats",
-                "Gaia Di Lorenzo",
-                "Elisa Martinez Abad",
-                "Christian Schüller",
-                "Razvan Dinu",
-                "Alessio Devoto",
-                "Pascal Berard",
-                "Gal Kaplun",
-                "Elad Sarafian",
-                "Riccardo Roveri",
-                "Leon Derczynski",
-                "Ricardo Silveira Cabral"
-            ],
-            "affiliations": [
-                "NVIDIA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#architecture",
-                    "#reasoning",
-                    "#agents",
-                    "#agent_memory"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Новый подход к созданию ИИ-агентов на Python",
-                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
-                },
-                "en": {
-                    "title": "Simplifying AI Agent Development with Python Objects",
-                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.20734",
-            "title": "LLMs Get Lost in Evolving User Intent",
-            "url": "https://huggingface.co/papers/2607.20734",
-            "abstract": "Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the conversation unfolds. Despite this, LLMs are still predominantly evaluated or trained in single-turn, fully-specified settings, leaving open a fundamental question: how well do LLMs track and act on user intent as it evolves over the course of a conversation? To study this, we introduce a framework that transforms static, single-turn tasks into dynamic multi-turn conversations in which the user's intent evolves across turns--incrementally revealed, revised, and at times redirected mid-conversation--while preserving each task's original evaluation protocol, enabling existing benchmarks to be reused as controlled testbeds without new annotation. Across multiple tasks, we surface a consistent phenomenon: strong static-setting performance does not transfer to the evolving-intent setting, with substantial drops across model families. Our findings point to a fundamental gap: today's LLMs do not yet faithfully track and act on the user's evolving intent, a capability invisible to static evaluation yet critical for future collaborative agents.",
-            "score": 2,
-            "issue_id": 2892,
-            "pub_date": "2026-07-22",
-            "pub_date_card": {
-                "ru": "22 июля",
-                "en": "July 22",
-                "zh": "7月22日"
-            },
-            "hash": "6c6f5b795d881ecc",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Jihoon Tack",
-                "Philippe Laban",
-                "Jennifer Neville"
-            ],
-            "affiliations": [
-                "Microsoft Research"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.20734.jpg",
-            "data": {
-                "categories": [
-                    "#agent_memory",
-                    "#session_memory",
-                    "#transfer_learning",
-                    "#agents",
-                    "#benchmark"
-                ],
-                "emoji": "💬",
-                "ru": {
-                    "title": "LLM: Искусство понимания изменяющихся намерений",
-                    "desc": "В этой статье рассматривается, как LLM могут быть использованы в качестве коллаборативных агентов, выполняя задачи, делегированные пользователями. Проблема в том, что пользователи редко формулируют свои намерения заранее, а чаще изменяют их в процессе общения. Авторы предлагают новую методику, которая превращает статические задачи в динамичные многоповоротные разговоры, где намерения пользователя развиваются с течением времени. Исследование показывает, что современным LLM сложно отслеживать и реагировать на изменяющиеся намерения пользователя, что критично для будущих коллаборативных агентов."
-                },
-                "en": {
-                    "title": "Bridging the Gap: LLMs and Evolving User Intent",
-                    "desc": "This paper explores how large language models (LLMs) function as collaborative agents in dynamic conversations where user intent changes over time. It highlights that current evaluations of LLMs often occur in static, single-turn scenarios, which do not reflect the real-world interactions where users refine their requests. The authors introduce a framework to transform these static tasks into multi-turn conversations, allowing for the study of how well LLMs adapt to evolving user intent. The findings reveal that LLMs struggle to track and respond to changing user needs, indicating a significant gap in their capabilities that needs to be addressed for effective collaboration."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.10848",
-            "title": "Predictive Divergence Masks for LLM RL",
-            "url": "https://huggingface.co/papers/2607.10848",
-            "abstract": "Abstract  Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio for two criteria: a proximity criterion, which asks whether the policy has moved too far from the behavior policy, and a direction criterion, which asks whether the update pushes it farther away. Recent work DPPO improves the proximity criterion by replacing PPO's ratio-based test with a probability divergence between the behavior and training policies. However, its direction criterion is still inherited from PPO. A token can be masked only when the sampled-token importance ratio moves away from one. We observe that this ratio-based direction criterion is a single-sample proxy that can disagree in sign with the change of the divergence that defines the proximity criterion. We therefore propose the predictive divergence mask, which asks whether the next policy-gradient step will increase or decrease the same divergence used by the trust region. For the discrete softmax policies used in LLM RL, we derive this prediction in closed form. Because production rollout engines expose only a truncated (top-K) view of the vocabulary, we develop two lightweight top-K estimators for this prediction. Detailed analysis shows the divergence-based direction is better aligned with the realized change of the divergence than the sampled ratio, and the resulting masks improve RL training across model scales and precision settings.",
-            "score": 2,
-            "issue_id": 2891,
-            "pub_date": "2026-07-12",
-            "pub_date_card": {
-                "ru": "12 июля",
-                "en": "July 12",
-                "zh": "7月12日"
-            },
-            "hash": "4747d3a9882e05c2",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Xiangxin Zhou",
-                "Jiarui Yao",
-                "Penghui Qi",
-                "Bowen Ping",
-                "Jiaqi Tang",
-                "Haonan Wang",
-                "Tianyu Pang"
-            ],
-            "affiliations": [
-                "NUS",
-                "Tencent Hunyuan",
-                "UIUC"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.10848.jpg",
-            "data": {
-                "categories": [
-                    "#optimization",
-                    "#training",
-                    "#rlhf",
-                    "#rl"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Улучшение обучения с подкреплением для языковых моделей",
-                    "desc": "В данной статье рассматривается метод обучения с подкреплением для больших языковых моделей (LLM), который использует маски доверительных областей для стабилизации обновлений при обучении на основе выборок. Авторы предлагают улучшение существующего подхода PPO, заменяя тест на основе отношения важности выборки на тест с использованием дивергенции вероятностей между политиками. Это позволяет более точно оценивать, приведет ли следующий шаг градиента политики к увеличению или уменьшению дивергенции. Проведённый анализ показывает, что предложенные маски значительно улучшают обучение RL на различных масштабах моделей и настройках точности."
-                },
-                "en": {
-                    "title": "Enhancing Reinforcement Learning Stability with Predictive Divergence Masks",
-                    "desc": "This paper discusses improvements in reinforcement learning for large language models (LLMs) by introducing a new method for stabilizing policy updates. It critiques the existing PPO-style approach, particularly its reliance on a ratio-based direction criterion, which can misalign with the actual changes in policy divergence. The authors propose a predictive divergence mask that better predicts the impact of policy updates on divergence, enhancing the training process. Their analysis shows that this new method leads to more effective reinforcement learning across various model scales and precision settings."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.21580",
             "title": "GraphVid: Interactive Graph-Controllable Video Generation",
             "url": "https://huggingface.co/papers/2607.21580",
@@ -703,53 +852,6 @@
                     "desc": "This paper presents GraphVid, a novel model for generating videos that allows users to control multiple objects through structured interaction graphs. Unlike traditional methods that rely on drawing precise tracks, GraphVid simplifies the control process while maintaining high video quality. The authors also introduce GraphVid-Bench, a comprehensive dataset designed to train models for understanding complex interactions in videos. The results show that GraphVid outperforms existing methods in terms of controllability and video quality, demonstrating the effectiveness of using structured semantic interfaces in video generation."
                 }
             }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.12746",
-            "title": "Color Pass-Through via Camera-Display Coupling",
-            "url": "https://huggingface.co/papers/2607.12746",
-            "abstract": "Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is that most pipelines factor the high-dimensional capture-to-display process into two separately calibrated camera and display stages, and then connect them through low-dimensional color transforms, leading to information bottlenecks and inevitable error accumulation. To address this systemic challenge, we propose Color Pass-Through, an end-to-end learned framework that operates directly on captured images. Our key insight is to treat the camera and display as a coupled system rather than calibrating them in isolation. Coupling the camera and display yields two practical advantages: (1) it brings the entire real-world scenes to the display via end-to-end optimization, and (2) it allows efficient one-step calibration for each distinct observer via complete capture-to-display path. We validate Color Pass-Through using both digital and human observers. Compared with representative baselines, our method achieves an average gain of +2.0 points on a 5-point user study and more than 2x improvement on quantitative metrics, demonstrating improved reproduction of the perceived color of the original scene.",
-            "score": 1,
-            "issue_id": 2892,
-            "pub_date": "2026-07-14",
-            "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
-            },
-            "hash": "df057ffe61cf0b11",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Ruikang Li",
-                "Molin Li",
-                "Jiarui Wu",
-                "Zhe Wei",
-                "Pengpeng Liu",
-                "Tianfan Xue"
-            ],
-            "affiliations": [
-                "CUHK MMLab",
-                "Central Media Technology Institute, Huawei",
-                "Zhejiang University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12746.jpg",
-            "data": {
-                "categories": [
-                    "#multimodal",
-                    "#data",
-                    "#training"
-                ],
-                "emoji": "🌈",
-                "ru": {
-                    "title": "Цвет без искажений: новая система передачи изображения",
-                    "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и экран как связанную систему и оптимизирует процесс передачи изображения от захвата до отображения в единое целое. Это уменьшает накопление ошибок и улучшает качество изображения, которое видит пользователь. Исследование показывает, что новый метод значительно превосходит традиционные подходы по качеству воспроизведения цвета."
-                },
-                "en": {
-                    "title": "Bridging the Gap: Enhanced Image Display through Coupled Camera and Display Optimization",
-                    "desc": "This paper introduces Color Pass-Through, a novel end-to-end learned framework that improves the way images are displayed on screens after being captured by cameras. Instead of treating the camera and display as separate entities, it couples them to optimize the entire capture-to-display process. This approach reduces information loss and calibration errors, leading to better color reproduction of real-world scenes. The method shows significant improvements in user satisfaction and quantitative metrics compared to traditional methods."
-                }
-            }
         }
     ],
     "link_prev": "2026-07-23.html",
@@ -766,30 +868,30 @@
         "zh": "7月27日"
     },
     "categories": {
-        "#dataset": 5,
+        "#dataset": 6,
         "#data": 3,
-        "#benchmark": 6,
-        "#agents": 7,
-        "#rl": 3,
+        "#benchmark": 7,
+        "#agents": 8,
+        "#rl": 4,
         "#rlhf": 1,
         "#rag": 0,
         "#plp": 0,
         "#inference": 0,
         "#3d": 1,
         "#audio": 0,
-        "#multimodal": 3,
+        "#multimodal": 4,
         "#math": 0,
         "#multilingual": 0,
         "#architecture": 4,
         "#healthcare": 0,
-        "#training": 7,
+        "#training": 9,
         "#robotics": 2,
         "#agi": 0,
-        "#games": 6,
+        "#games": 7,
         "#interpretability": 0,
         "#reasoning": 5,
         "#transfer_learning": 3,
-        "#graphs": 1,
+        "#graphs": 2,
         "#ethics": 0,
         "#security": 0,
         "#optimization": 4,
@@ -804,16 +906,16 @@
         "#leakage": 0,
         "#open_source": 2,
         "#small_models": 0,
-        "#science": 0,
+        "#science": 1,
         "#low_resource": 0,
         "#memory": 1,
         "#retrieval": 0,
         "#prompting": 0,
         "#context_window": 0,
         "#compression": 0,
-        "#memorization": 0,
-        "#continual_learning": 1,
-        "#knowledge_graphs": 0,
+        "#memorization": 1,
+        "#continual_learning": 2,
+        "#knowledge_graphs": 1,
         "#retrieval_eval": 0,
         "#prompt_caching": 0,
         "#session_memory": 1,

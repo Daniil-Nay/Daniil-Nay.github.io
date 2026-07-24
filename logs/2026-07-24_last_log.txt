@@ -1,168 +1,179 @@
-[24.07.2026 05:52] Read previous papers.
-[24.07.2026 05:52] Generating top page (month).
-[24.07.2026 05:52] Writing top page (month).
 [24.07.2026 08:26] Read previous papers.
-[24.07.2026 08:26] Get feed.
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21461
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21461
-[24.07.2026 08:26] Extract page data from URL. URL: https://huggingface.co/papers/2605.09635
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21556
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21556
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20061
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20061
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21072
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21072
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12746
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12746
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20911
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20911
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20734
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20734
-[24.07.2026 08:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.21051
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21485
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21485
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21594
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21594
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20709
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20709
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10848
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10848
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21017
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21017
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20785
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20785
-[24.07.2026 08:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21580
-[24.07.2026 08:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21580
-[24.07.2026 08:26] Updating GitHub stars.
-[24.07.2026 08:26] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[24.07.2026 08:26] No deleted papers detected.
-[24.07.2026 08:26] Downloading and parsing papers (pdf, html). Total: 16.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21461.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.21461.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.21461.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2605.09635.
-[24.07.2026 08:26] Downloading paper 2605.09635 from https://arxiv.org/pdf/2605.09635v3...
-[24.07.2026 08:26] Extracting affiliations from text.
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[24.07.2026 08:26] Generating top page (month).
+[24.07.2026 08:26] Writing top page (month).
+[24.07.2026 11:03] Read previous papers.
+[24.07.2026 11:03] Get feed.
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21461
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21461
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2605.09635
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2605.09635
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20061
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20061
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21556
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21556
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21072
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21072
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12746
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12746
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20911
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20911
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20734
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20734
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21051
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21051
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21485
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21485
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21594
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21594
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20785
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20785
+[24.07.2026 11:03] Extract page data from URL. URL: https://huggingface.co/papers/2607.21576
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21017
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21017
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20709
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20709
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10848
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10848
+[24.07.2026 11:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21580
+[24.07.2026 11:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21580
+[24.07.2026 11:03] Updating GitHub stars.
+[24.07.2026 11:03] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[24.07.2026 11:03] No deleted papers detected.
+[24.07.2026 11:03] Downloading and parsing papers (pdf, html). Total: 17.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21461.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21461.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21461.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2605.09635.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2605.09635.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2605.09635.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.20061.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.20061.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.20061.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21556.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21556.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21556.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21072.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21072.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21072.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.12746.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.12746.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.12746.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.20911.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.20911.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.20911.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.20734.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.20734.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.20734.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21051.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21051.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21051.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21485.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21485.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21485.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21594.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21594.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21594.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.20785.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.20785.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.20785.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21576.
+[24.07.2026 11:03] Downloading paper 2607.21576 from https://arxiv.org/pdf/2607.21576v1...
+[24.07.2026 11:03] Extracting affiliations from text.
+[24.07.2026 11:03] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"July 24, 2026 K12-KGraph: Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs Hao Liang, Qihan Lin, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang 1Peking University, 2Institute for Advanced Algorithms Research, Shanghai, 3OriginHub Technology, 4Zhongguancun Academy Large language models (LLMs) are increasingly deployed in K12 education, yet existing benchmarks such as C-Eval, CMMLU, GaokaoBench, and EduEval measure only whether model can answer an exam question, i.e., factual recall. Effective educational AI further requires curriculum cognition: the structured understanding of how knowledge is organized and visually presented, including prerequisite chains, concept taxonomies, experimentconcept links, and pedagogical sequencing. Curriculum cognition is neither probed by current benchmarks nor explicitly taught by current instruction-tuning data. To close this gap, we introduce K12-KGraph, curriculum-aligned knowledge graph extracted from the official Peoples Education Press textbooks, covering mathematics, physics, chemistry, and biology across primary, middle, and high school, with nine node types (Book, Chapter, Section,Concept, Skill, Experiment, Exercise, Figure, VisualElement) and fourteen relation types spanning both curriculum structure and visual grounding. Building on this single graph, we derive two complementary resources: K12Bench, 23,640-question multi-select benchmark across five graph-derived task families (Ground, Prereq, Neighbor, Evidence, and Locate) that jointly probe curriculum cognition; and K12-Train, KG-guided supervised fine-tuning corpus of 7,335 samples (K12-Train-Full), including 2,267 text-only QA pairs (K12-Train-Text) and 5,068 multimodal VQA pairs (K12-Train-MM). Experiments expose clear gap and clear remedy: on K12-Bench, even strong proprietary model (Gemini-3-Flash) reaches only 57% exact match and strong open-source model (Gemma4-31B-IT) only 46%, with Prereq and "
-[24.07.2026 08:26] Response: ```python
-["Peking University", "Institute for Advanced Algorithms Research", "OriginHub Technology", "Zhongguancun Academy"]
+Text:"Self-Supervised Learning of Structured Dynamics from Videos Lukas Knobel Fundamental AI Lab, UTN lukas.knobel@utn.de Andrew Zisserman VGG, University of Oxford az@robots.ox.ac.uk Yuki M. Asano Fundamental AI Lab, UTN yuki.asano@utn.de "
+[24.07.2026 11:03] Response: ```python
+["Fundamental AI Lab, UTN", "VGG, University of Oxford"]
 ```
-[24.07.2026 08:26] Deleting PDF ./assets/pdf/2605.09635.pdf.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21556.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.21556.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.21556.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.20061.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.20061.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.20061.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21072.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.21072.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.21072.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.12746.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.12746.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.12746.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.20911.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.20911.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.20911.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.20734.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.20734.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.20734.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21051.
-[24.07.2026 08:26] Downloading paper 2607.21051 from https://arxiv.org/pdf/2607.21051v1...
-[24.07.2026 08:26] Extracting affiliations from text.
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[24.07.2026 11:03] Deleting PDF ./assets/pdf/2607.21576.pdf.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21017.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21017.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21017.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.20709.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.20709.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.20709.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.10848.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.10848.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.10848.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Downloading and parsing paper https://huggingface.co/papers/2607.21580.
+[24.07.2026 11:03] Extra JSON file exists (./assets/json/2607.21580.json), skip PDF parsing.
+[24.07.2026 11:03] Paper image links file exists (./assets/img_data/2607.21580.json), skip HTML parsing.
+[24.07.2026 11:03] Success.
+[24.07.2026 11:03] Enriching papers with extra data.
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 0. Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent sh...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 1. Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, c...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 2. Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reas...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 3. Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing ...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 4. Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 5. Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is ...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 6. Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed cod...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 7. Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 8. Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disapp...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 9. Abstract  We study sinusoidal recurrence as an iterative mechanism for harmonic spectral enrichment in implicit neural representations (INRs). Our analysis reveals that sinusoidal activations induce a harmonic line spectrum, providing a spectral account of how recurrent unrolling enriches the effect...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 10. Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 11. Abstract  Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth sensors, multi-camera rigs, or pre-built maps, limiting the hardware they support and increasin...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 12. Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coup...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 13. Abstract  The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to bridge this gap via text-to-layout hallucination or simplified procedural generation, they ...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 14. Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. ...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 15. Abstract  Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio for two criteria: a proximity criterion, which asks whether the policy has moved too far f...
+[24.07.2026 11:03] ********************************************************************************
+[24.07.2026 11:03] Abstract 16. Abstract  Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks fo...
+[24.07.2026 11:03] Read previous papers.
+[24.07.2026 11:03] Generating reviews via LLM API.
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#agent_memory", "#continual_learning", "#agents", "#rl", "#synthetic", "#memory", "#reasoning", "#training", "#tool_use"], "emoji": "🔍", "ru": {"title": "Агент глубоких исследований, который улучшает свои ответы!", "desc": "В статье рассматривается агент глубоких исследований AREX, 
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#benchmark", "#knowledge_graphs", "#graphs", "#training", "#dataset", "#multimodal", "#science"], "emoji": "📚", "ru": {"title": "Инновации в образовании с помощью графов знаний", "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Ав
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#multimodal", "#agent_memory", "#robotics", "#transfer_learning", "#dataset", "#agents", "#benchmark", "#open_source", "#reasoning"], "emoji": "🤖", "ru": {"title": "Эффективное отслеживание целей с помощью ReferTrack", "desc": "Статья представляет модель ReferTrack для отслеживания 
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset"], "emoji": "🖼️", "ru": {"title": "Улучшение самообучения без внешних учителей", "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и 
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#multimodal", "#games", "#agents", "#benchmark", "#reasoning"], "emoji": "🖼️", "ru": {"title": "Новый подход к пространственной оценке в моделях генерации изображений", "desc": "В данной статье рассматривается важность пространственного интеллекта для агентов, которые взаимодействую
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#multimodal", "#data", "#training"], "emoji": "🌈", "ru": {"title": "Цвет без искажений: новая система передачи изображения", "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и э
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#open_source", "#games", "#benchmark", "#dataset"], "emoji": "💻", "ru": {"title": "Единая оценка кодирующих агентов в четырех областях", "desc": "В статье представлен Tencent WorkBuddy Bench, набор для оценки кодирующих агентов, который охватывает несколько областей. Основная идея з
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#agent_memory", "#session_memory", "#transfer_learning", "#agents", "#benchmark"], "emoji": "💬", "ru": {"title": "LLM: Искусство понимания изменяющихся намерений", "desc": "В этой статье рассматривается, как LLM могут быть использованы в качестве коллаборативных агентов, выполняя за
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#memorization", "#continual_learning", "#training", "#agents", "#rl", "#games"], "emoji": "🤖", "ru": {"title": "Эффективное обучение агентов без дорогостоящих экспериментов", "desc": "Статья посвящена проблеме обучения агентов в реальных условиях, где взаимодействие с окружением обы
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#optimization", "#transfer_learning", "#architecture", "#3d", "#training"], "emoji": "🎶", "ru": {"title": "Синусоидальные рекурсии для улучшения нейронных представлений", "desc": "В данной статье мы исследуем синусоидальные рекурсии как итеративный механизм для обогащения спектра в 
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#games", "#architecture", "#diffusion", "#reasoning", "#agents"], "emoji": "🌍", "ru": {"title": "Моделирование общего состояния мира в многопользовательских моделях", "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирован
+[24.07.2026 11:03] Using data from previous issue: {"categories": ["#optimization", "#games", "#agents", "#rl", "#benchmark", "#training"], "emoji": "🤖", "ru": {"title": "Универсальная навигация для роботов без сложных сенсоров", "desc": "В статье предлагается система навигации Robostral Navigate, основанная на модели обработки изображений и языка, 
+[24.07.2026 11:03] Querying the API.
+[24.07.2026 11:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Text:"SAMPLE-EFFICIENT LEARNING FROM AGENT EXPERIENCE Chenhui Gou1,2,* Haoqin Tu2, Yunhao Fang2, Jianfei Cai1 Hamid Rezatofighi1 1Monash University 2ByteDance Seed "
-[24.07.2026 08:26] Response: ```python
-["Monash University", "ByteDance Seed"]
-```
-[24.07.2026 08:26] Deleting PDF ./assets/pdf/2607.21051.pdf.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21485.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.21485.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.21485.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21594.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.21594.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.21594.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.20709.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.20709.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.20709.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.10848.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.10848.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.10848.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21017.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.21017.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.21017.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.20785.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.20785.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.20785.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Downloading and parsing paper https://huggingface.co/papers/2607.21580.
-[24.07.2026 08:26] Extra JSON file exists (./assets/json/2607.21580.json), skip PDF parsing.
-[24.07.2026 08:26] Paper image links file exists (./assets/img_data/2607.21580.json), skip HTML parsing.
-[24.07.2026 08:26] Success.
-[24.07.2026 08:26] Enriching papers with extra data.
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 0. Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent sh...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 1. Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, c...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 2. Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing ...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 3. Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reas...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 4. Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 5. Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is ...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 6. Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed cod...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 7. Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 8. Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disapp...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 9. Abstract  We study sinusoidal recurrence as an iterative mechanism for harmonic spectral enrichment in implicit neural representations (INRs). Our analysis reveals that sinusoidal activations induce a harmonic line spectrum, providing a spectral account of how recurrent unrolling enriches the effect...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 10. Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 11. Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. ...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 12. Abstract  Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio for two criteria: a proximity criterion, which asks whether the policy has moved too far f...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 13. Abstract  The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to bridge this gap via text-to-layout hallucination or simplified procedural generation, they ...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 14. Abstract  Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth sensors, multi-camera rigs, or pre-built maps, limiting the hardware they support and increasin...
-[24.07.2026 08:26] ********************************************************************************
-[24.07.2026 08:26] Abstract 15. Abstract  Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks fo...
-[24.07.2026 08:26] Read previous papers.
-[24.07.2026 08:26] Generating reviews via LLM API.
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#agent_memory", "#continual_learning", "#agents", "#rl", "#synthetic", "#memory", "#reasoning", "#training", "#tool_use"], "emoji": "🔍", "ru": {"title": "Агент глубоких исследований, который улучшает свои ответы!", "desc": "В статье рассматривается агент глубоких исследований AREX, 
-[24.07.2026 08:26] Querying the API.
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.
-[24.07.2026 08:26] Response: ```json
-{
-  "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Авторы вводят концепцию 'куррикулумной когниции', которая включает цепочки предпосылок, таксономии понятий и визуальное выявление. Представлен граф знаний K12-KGraph, созданный на основе учебников из официального издательства, и разработан многозадачный тест K12-Bench. Эксперименты показывают, что специализированное обучение может улучшать результаты моделей в задаче понимания учебных материалов.",
-  "emoji": "📚",
-  "title": "Инновации в образовании с помощью графов знаний"
+Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.
+[24.07.2026 11:04] Response: {
+  "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео.",
+  "emoji": "🎥",
+  "title": "Структурная динамика видео: новый взгляд на движения объектов"
 }
-```
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[24.07.2026 11:04] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -206,12 +217,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline."
+"Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics."
 
-[24.07.2026 08:26] Response: ```python
-['DATASET', 'BENCHMARK', 'MULTIMODAL', 'TRAINING', 'KNOWLEDGE_GRAPHS']
+[24.07.2026 11:04] Response: ```python
+["DATASET", "BENCHMARK", "TRAINING"]
 ```
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[24.07.2026 11:04] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -254,156 +265,30 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline."
+"Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics."
 
-[24.07.2026 08:26] Response: ```python
-['GRAPHS', 'SCIENCE']
+[24.07.2026 11:04] Response: ```python
+[]
 ```
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[24.07.2026 11:04] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.
+Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[24.07.2026 08:26] Response: {
-  "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes.",
-  "title": "Enhancing Curriculum Cognition with K12-KGraph"
+[24.07.2026 11:04] Response: {
+  "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics.",
+  "title": "Separating Motion: A New Approach to Video Dynamics"
 }
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset"], "emoji": "🖼️", "ru": {"title": "Улучшение самообучения без внешних учителей", "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и 
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#multimodal", "#agent_memory", "#robotics", "#transfer_learning", "#dataset", "#agents", "#benchmark", "#open_source", "#reasoning"], "emoji": "🤖", "ru": {"title": "Эффективное отслеживание целей с помощью ReferTrack", "desc": "Статья представляет модель ReferTrack для отслеживания 
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#multimodal", "#games", "#agents", "#benchmark", "#reasoning"], "emoji": "🖼️", "ru": {"title": "Новый подход к пространственной оценке в моделях генерации изображений", "desc": "В данной статье рассматривается важность пространственного интеллекта для агентов, которые взаимодействую
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#multimodal", "#data", "#training"], "emoji": "🌈", "ru": {"title": "Цвет без искажений: новая система передачи изображения", "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и э
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#open_source", "#games", "#benchmark", "#dataset"], "emoji": "💻", "ru": {"title": "Единая оценка кодирующих агентов в четырех областях", "desc": "В статье представлен Tencent WorkBuddy Bench, набор для оценки кодирующих агентов, который охватывает несколько областей. Основная идея з
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#agent_memory", "#session_memory", "#transfer_learning", "#agents", "#benchmark"], "emoji": "💬", "ru": {"title": "LLM: Искусство понимания изменяющихся намерений", "desc": "В этой статье рассматривается, как LLM могут быть использованы в качестве коллаборативных агентов, выполняя за
-[24.07.2026 08:26] Querying the API.
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \(9.6\times\) fewer environment samples.
-[24.07.2026 08:26] Response: ```json
-{
-  "desc": "Статья посвящена проблеме обучения агентов в реальных условиях, где взаимодействие с окружением обычно дорогостоящее. В ней рассматривается метод in-context learning, который позволяет агентам эффективно учиться на основе своих собственных взаимодействий. Авторы предлагают новую технику, называемую Experience Distillation, которая помогает сохранить информацию из опыта агентов и интегрировать ее в веса модели без дополнительных взаимодействий с окружением. Эксперименты показывают, что данный подход значительно улучшает эффективность по сравнению с традиционными методами обучения.",
-  "emoji": "🤖",
-  "title": "Эффективное обучение агентов без дорогостоящих экспериментов"
-}
-```
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \(9.6\times\) fewer environment samples."
-
-[24.07.2026 08:26] Response: ```python
-['AGENTS', 'RL', 'TRAINING']
-```
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \(9.6\times\) fewer environment samples."
-
-[24.07.2026 08:26] Response: ```python
-["CONTINUAL_LEARNING", "MEMORIZATION", "GAMES"]
-```
-[24.07.2026 08:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \(9.6\times\) fewer environment samples.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[24.07.2026 08:26] Response: {
-  "desc": "This paper introduces a method called Experience Distillation, which allows agents to learn from their past interactions without needing additional costly environment interactions. It combines the benefits of in-context learning, which is efficient but loses effectiveness without context, and context distillation, which internalizes information into model weights. The proposed method retains a significant portion of the learning gains from in-context learning while requiring far fewer samples from the environment. Experiments demonstrate that this approach outperforms traditional reinforcement learning methods in terms of sample efficiency and performance across various tasks.",
-  "title": "Maximizing Learning Efficiency with Experience Distillation"
-}
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#optimization", "#transfer_learning", "#architecture", "#3d", "#training"], "emoji": "🎶", "ru": {"title": "Синусоидальные рекурсии для улучшения нейронных представлений", "desc": "В данной статье мы исследуем синусоидальные рекурсии как итеративный механизм для обогащения спектра в 
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#games", "#architecture", "#diffusion", "#reasoning", "#agents"], "emoji": "🌍", "ru": {"title": "Моделирование общего состояния мира в многопользовательских моделях", "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирован
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#training", "#architecture", "#reasoning", "#agents", "#agent_memory"], "emoji": "🤖", "ru": {"title": "Новый подход к созданию ИИ-агентов на Python", "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймвор
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#optimization", "#training", "#rlhf", "#rl"], "emoji": "🤖", "ru": {"title": "Улучшение обучения с подкреплением для языковых моделей", "desc": "В данной статье рассматривается метод обучения с подкреплением для больших языковых моделей (LLM), который использует маски доверительных о
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#robotics", "#synthetic", "#games", "#data", "#dataset"], "emoji": "🤖", "ru": {"title": "Новое слово в манипуляции роботами!", "desc": "В статье представлен новый подход к созданию роботов, которые могут эффективно манипулировать объектами в сложной окружающей среде. Авторы предлага
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#optimization", "#games", "#agents", "#rl", "#benchmark", "#training"], "emoji": "🤖", "ru": {"title": "Универсальная навигация для роботов без сложных сенсоров", "desc": "В статье предлагается система навигации Robostral Navigate, основанная на модели обработки изображений и языка, 
-[24.07.2026 08:26] Using data from previous issue: {"categories": ["#benchmark", "#graphs", "#games", "#architecture", "#data", "#dataset"], "emoji": "🎥", "ru": {"title": "Управляемая генерация видео с помощью графов", "desc": "Статья посвящена проблеме управляемой генерации видео, которая является сложной задачей. Авторы предлагают новый подход, на
-[24.07.2026 08:26] Renaming data file.
-[24.07.2026 08:26] Renaming previous data. hf_papers.json to ./d/2026-07-24.json
-[24.07.2026 08:26] Saving new data file.
-[24.07.2026 08:26] Generating page.
-[24.07.2026 08:26] Renaming previous page.
-[24.07.2026 08:26] Renaming previous data. index.html to ./d/2026-07-24.html
-[24.07.2026 08:26] Writing result.
-[24.07.2026 08:26] Renaming log file.
-[24.07.2026 08:26] Renaming previous data. log.txt to ./logs/2026-07-24_last_log.txt
+[24.07.2026 11:04] Using data from previous issue: {"categories": ["#robotics", "#synthetic", "#games", "#data", "#dataset"], "emoji": "🤖", "ru": {"title": "Новое слово в манипуляции роботами!", "desc": "В статье представлен новый подход к созданию роботов, которые могут эффективно манипулировать объектами в сложной окружающей среде. Авторы предлага
+[24.07.2026 11:04] Using data from previous issue: {"categories": ["#training", "#architecture", "#reasoning", "#agents", "#agent_memory"], "emoji": "🤖", "ru": {"title": "Новый подход к созданию ИИ-агентов на Python", "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймвор
+[24.07.2026 11:04] Using data from previous issue: {"categories": ["#optimization", "#training", "#rlhf", "#rl"], "emoji": "🤖", "ru": {"title": "Улучшение обучения с подкреплением для языковых моделей", "desc": "В данной статье рассматривается метод обучения с подкреплением для больших языковых моделей (LLM), который использует маски доверительных о
+[24.07.2026 11:04] Using data from previous issue: {"categories": ["#benchmark", "#graphs", "#games", "#architecture", "#data", "#dataset"], "emoji": "🎥", "ru": {"title": "Управляемая генерация видео с помощью графов", "desc": "Статья посвящена проблеме управляемой генерации видео, которая является сложной задачей. Авторы предлагают новый подход, на
+[24.07.2026 11:04] Renaming data file.
+[24.07.2026 11:04] Renaming previous data. hf_papers.json to ./d/2026-07-24.json
+[24.07.2026 11:04] Saving new data file.
+[24.07.2026 11:04] Generating page.
+[24.07.2026 11:04] Renaming previous page.
+[24.07.2026 11:04] Renaming previous data. index.html to ./d/2026-07-24.html
+[24.07.2026 11:04] Writing result.
+[24.07.2026 11:04] Renaming log file.
+[24.07.2026 11:04] Renaming previous data. log.txt to ./logs/2026-07-24_last_log.txt
