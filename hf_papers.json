@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-24 11:03",
+    "time_utc": "2026-07-24 13:41",
     "weekday": 4,
-    "issue_id": 2894,
+    "issue_id": 2895,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 65,
+            "score": 92,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -79,65 +79,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2605.09635",
-            "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
-            "url": "https://huggingface.co/papers/2605.09635",
-            "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
-            "score": 37,
-            "issue_id": 2893,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "68da3c174380cbd8",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Hao Liang",
-                "Qihan Lin",
-                "Zhaoyang Han",
-                "Xiaochen Ma",
-                "Zhen Hao Wong",
-                "Meiyi Qiang",
-                "Linzhuang Sun",
-                "Wentao Zhang"
-            ],
-            "affiliations": [
-                "Institute for Advanced Algorithms Research",
-                "OriginHub Technology",
-                "Peking University",
-                "Zhongguancun Academy"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2605.09635.jpg",
-            "data": {
-                "categories": [
-                    "#benchmark",
-                    "#knowledge_graphs",
-                    "#graphs",
-                    "#training",
-                    "#dataset",
-                    "#multimodal",
-                    "#science"
-                ],
-                "emoji": "📚",
-                "ru": {
-                    "title": "Инновации в образовании с помощью графов знаний",
-                    "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Авторы вводят концепцию 'куррикулумной когниции', которая включает цепочки предпосылок, таксономии понятий и визуальное выявление. Представлен граф знаний K12-KGraph, созданный на основе учебников из официального издательства, и разработан многозадачный тест K12-Bench. Эксперименты показывают, что специализированное обучение может улучшать результаты моделей в задаче понимания учебных материалов."
-                },
-                "en": {
-                    "title": "Enhancing Curriculum Cognition with K12-KGraph",
-                    "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.20061",
             "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
             "url": "https://huggingface.co/papers/2607.20061",
             "abstract": "Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with explicit image-space detections. To address this, we introduce ReferTrack, a referring-then-tracking paradigm that grounds EVT using a single forward-facing camera. Our model first selects the target from an indexed set of bounding boxes, then decodes tracking waypoints conditioned on this image-grounded decision. To preserve target motion cues over time, ReferTrack maintains a sliding-window queue of previously selected bounding boxes, injecting their geometric features into the visual history via temporal-viewpoint-bbox indicator (TVBI) tokens. We further enhance target identification by co-training on a custom Refer-QA dataset. On EVT-Bench, ReferTrack achieves state-of-the-art single-view performance with success rates of 89.4%, 73.3%, and 74.1% on the single-target, distracted, and ambiguity tracking splits, respectively -- matching or even surpassing several multi-camera baselines on identification-heavy tasks. Finally, real-world deployments on legged and humanoid robots validate its robust sim-to-real transfer capabilities. Code is available at https://github.com/MedlarTea/referTrack.",
-            "score": 36,
+            "score": 39,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -190,11 +136,65 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2605.09635",
+            "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+            "url": "https://huggingface.co/papers/2605.09635",
+            "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
+            "score": 38,
+            "issue_id": 2893,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "68da3c174380cbd8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hao Liang",
+                "Qihan Lin",
+                "Zhaoyang Han",
+                "Xiaochen Ma",
+                "Zhen Hao Wong",
+                "Meiyi Qiang",
+                "Linzhuang Sun",
+                "Wentao Zhang"
+            ],
+            "affiliations": [
+                "Institute for Advanced Algorithms Research",
+                "OriginHub Technology",
+                "Peking University",
+                "Zhongguancun Academy"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2605.09635.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#knowledge_graphs",
+                    "#graphs",
+                    "#training",
+                    "#dataset",
+                    "#multimodal",
+                    "#science"
+                ],
+                "emoji": "📚",
+                "ru": {
+                    "title": "Инновации в образовании с помощью графов знаний",
+                    "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Авторы вводят концепцию 'куррикулумной когниции', которая включает цепочки предпосылок, таксономии понятий и визуальное выявление. Представлен граф знаний K12-KGraph, созданный на основе учебников из официального издательства, и разработан многозадачный тест K12-Bench. Эксперименты показывают, что специализированное обучение может улучшать результаты моделей в задаче понимания учебных материалов."
+                },
+                "en": {
+                    "title": "Enhancing Curriculum Cognition with K12-KGraph",
+                    "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.21556",
             "title": "Visual Contrastive Self-Distillation",
             "url": "https://huggingface.co/papers/2607.21556",
             "abstract": "Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from 62.27% rightarrow 67.04% at 2B, 71.30% rightarrow 73.16% at 4B, and 72.51% rightarrow 76.26% at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
-            "score": 35,
+            "score": 37,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -243,7 +243,7 @@
             "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
             "url": "https://huggingface.co/papers/2607.21072",
             "abstract": "Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing than by reporting precise coordinates or discrete textual symbols. Yet existing spatial reasoning benchmarks usually require coordinates, options, or text, creating an answer-interface mismatch for image-generation models. This makes it difficult to evaluate image-generation models under the same task semantics as text-output VLMs, despite their ability to externalize spatial judgments directly in pixel space. We propose ProVisE (Protocolized Visual Evaluation), a benchmark-agnostic framework that elicits protocol-constrained visual answers from image-generation models and parses them into structured predictions compatible with original metrics. ProVisE also includes an Agentic builder that constructs and validates task-specific protocols for new benchmarks. We further introduce SpatialGen-Bench, a curated diagnostic benchmark of 470 samples across 14 spatial subtasks, four capability levels, and diverse answer forms. We evaluate representative text-output VLMs and image-generation models in a unified setting and validate Agentic protocol construction on six external spatial benchmarks. Results show that image-generation models are competitive when spatial answers can be externalized directly in pixel space, while text-output VLMs retain a clear advantage in compositional spatial reasoning. These findings reveal complementary strengths of pixel-space expression and text-based reasoning and establish a metric-compatible testbed for studying spatial cognition in image-generation models.",
-            "score": 30,
+            "score": 34,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -291,7 +291,7 @@
             "title": "Color Pass-Through via Camera-Display Coupling",
             "url": "https://huggingface.co/papers/2607.12746",
             "abstract": "Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is that most pipelines factor the high-dimensional capture-to-display process into two separately calibrated camera and display stages, and then connect them through low-dimensional color transforms, leading to information bottlenecks and inevitable error accumulation. To address this systemic challenge, we propose Color Pass-Through, an end-to-end learned framework that operates directly on captured images. Our key insight is to treat the camera and display as a coupled system rather than calibrating them in isolation. Coupling the camera and display yields two practical advantages: (1) it brings the entire real-world scenes to the display via end-to-end optimization, and (2) it allows efficient one-step calibration for each distinct observer via complete capture-to-display path. We validate Color Pass-Through using both digital and human observers. Compared with representative baselines, our method achieves an average gain of +2.0 points on a 5-point user study and more than 2x improvement on quantitative metrics, demonstrating improved reproduction of the perceived color of the original scene.",
-            "score": 14,
+            "score": 17,
             "issue_id": 2892,
             "pub_date": "2026-07-14",
             "pub_date_card": {
@@ -338,7 +338,7 @@
             "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
             "url": "https://huggingface.co/papers/2607.20911",
             "abstract": "Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed coding-agent tasks across four work domains - Code, Web, Office, and Security. Rather than adapting public issue text, every task is reverse-engineered from a real commit, pull request, or business scenario and rewritten as a short, colloquial, role-played request, so that a task's prompt is not recoverable by web-searching the underlying issue, pull request, or commit thread. Because the dataset is released openly - task directories, environment images, evaluation harness, tests, and reference solutions - contamination resistance rests on this construction together with dataset versioning rather than on secrecy. The four subsets - repository-level engineering, front-end development, office and business workflows, and red-/blue-team security - probe complementary facets of real work, each with its own verification style. All are packaged in a uniform task-directory format and run, under a uniform and reproducible protocol, on two agent harnesses (CodeBuddy Code and Claude Code); the full open release makes the benchmark reproducible end to end and directly auditable, since any third party can re-run each task and inspect its content. Because each subset uses a different scoring instrument, scores are not comparable across subsets and the suite reports no suite-wide average. We report a cross-model leaderboard across several model families.",
-            "score": 12,
+            "score": 16,
             "issue_id": 2891,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -416,11 +416,110 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21576",
+            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+            "url": "https://huggingface.co/papers/2607.21576",
+            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
+            "score": 12,
+            "issue_id": 2894,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "85c4d9e5638cbb03",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Lukas Knobel",
+                "Andrew Zisserman",
+                "Yuki M. Asano"
+            ],
+            "affiliations": [
+                "Fundamental AI Lab, UTN",
+                "VGG, University of Oxford"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#benchmark",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
+                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
+                },
+                "en": {
+                    "title": "Separating Motion: A New Approach to Video Dynamics",
+                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.20709",
+            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+            "url": "https://huggingface.co/papers/2607.20709",
+            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
+            "score": 12,
+            "issue_id": 2891,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "b081f4f495216e8e",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Paul Furgale",
+                "Severin Klingler",
+                "James Nolan",
+                "Matt Staats",
+                "Gaia Di Lorenzo",
+                "Elisa Martinez Abad",
+                "Christian Schüller",
+                "Razvan Dinu",
+                "Alessio Devoto",
+                "Pascal Berard",
+                "Gal Kaplun",
+                "Elad Sarafian",
+                "Riccardo Roveri",
+                "Leon Derczynski",
+                "Ricardo Silveira Cabral"
+            ],
+            "affiliations": [
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#architecture",
+                    "#reasoning",
+                    "#agents",
+                    "#agent_memory"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новый подход к созданию ИИ-агентов на Python",
+                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
+                },
+                "en": {
+                    "title": "Simplifying AI Agent Development with Python Objects",
+                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20734",
             "title": "LLMs Get Lost in Evolving User Intent",
             "url": "https://huggingface.co/papers/2607.20734",
             "abstract": "Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the conversation unfolds. Despite this, LLMs are still predominantly evaluated or trained in single-turn, fully-specified settings, leaving open a fundamental question: how well do LLMs track and act on user intent as it evolves over the course of a conversation? To study this, we introduce a framework that transforms static, single-turn tasks into dynamic multi-turn conversations in which the user's intent evolves across turns--incrementally revealed, revised, and at times redirected mid-conversation--while preserving each task's original evaluation protocol, enabling existing benchmarks to be reused as controlled testbeds without new annotation. Across multiple tasks, we surface a consistent phenomenon: strong static-setting performance does not transfer to the evolving-intent setting, with substantial drops across model families. Our findings point to a fundamental gap: today's LLMs do not yet faithfully track and act on the user's evolving intent, a capability invisible to static evaluation yet critical for future collaborative agents.",
-            "score": 9,
+            "score": 11,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -456,6 +555,60 @@
                 "en": {
                     "title": "Bridging the Gap: LLMs and Evolving User Intent",
                     "desc": "This paper explores how large language models (LLMs) function as collaborative agents in dynamic conversations where user intent changes over time. It highlights that current evaluations of LLMs often occur in static, single-turn scenarios, which do not reflect the real-world interactions where users refine their requests. The authors introduce a framework to transform these static tasks into multi-turn conversations, allowing for the study of how well LLMs adapt to evolving user intent. The findings reveal that LLMs struggle to track and respond to changing user needs, indicating a significant gap in their capabilities that needs to be addressed for effective collaboration."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.21553",
+            "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+            "url": "https://huggingface.co/papers/2607.21553",
+            "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
+            "score": 9,
+            "issue_id": 2895,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "4549cf48753c3c80",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Junsong Chen",
+                "Jincheng Yu",
+                "Yitong Li",
+                "Shuchen Xue",
+                "Haozhe Liu",
+                "Jingyu Xin",
+                "Yuyang Zhao",
+                "Tian Ye",
+                "Zhangjie Wu",
+                "Zian Wang",
+                "Daquan Zhou",
+                "Ping Luo",
+                "Song Han",
+                "Enze Xie"
+            ],
+            "affiliations": [
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21553.jpg",
+            "data": {
+                "categories": [
+                    "#architecture",
+                    "#optimization",
+                    "#diffusion",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Эффективная генерация видео с SANA-Video 2.0",
+                    "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует высококачественное видео разрешением до 720p на одном GPU и сопоставима по качеству с полным софтмаксом, сохраняя при этом преимущества линейного внимания для длинных последовательностей. Гибридное линейно-головное внимание комбинирует линейное смешивание с периодическими анкерами, что восстанавливает полные взаимодействия токенов. Оптимизация всего стека ускоряет эту архитектуру, что делает SANA-Video 2.0 более эффективной и быстрым вариантом для масштабируемой генерации видео."
+                },
+                "en": {
+                    "title": "Efficient High-Quality Video Generation with SANA-Video 2.0",
+                    "desc": "SANA-Video 2.0 is a new video generation model that combines the strengths of diffusion transformers with efficient attention mechanisms. It can produce high-quality videos at 720p resolution using a single GPU while maintaining fast processing speeds. The model employs Hybrid Linear-Softmax Attention to optimize how it processes long video sequences, allowing for better performance without the computational cost of traditional methods. By integrating Block Attention Residuals, it enhances the representation of video data, achieving impressive results in both quality and efficiency."
                 }
             }
         },
@@ -508,6 +661,53 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21594",
+            "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+            "url": "https://huggingface.co/papers/2607.21594",
+            "abstract": "Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registers: learnable tokens that store shared world information, track individual agent status, and are dynamically updated after each generated chunk. We ground these registers with supervision signals spanning individual agent status, global state views including bird's-eye views, and scene text. We further improve the architecture with a Mixture-of-Transformers design that uses separate weights for world state modeling and visual frame modeling. Extensive experiments in two-agent Minecraft video generation show that explicit world-state modeling improves logical consistency and generation quality.",
+            "score": 7,
+            "issue_id": 2891,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "0742166118c164e8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Sicheng Mo",
+                "Yuheng Li",
+                "Ziyang Leng",
+                "Krishna Kumar Singh",
+                "Bolei Zhou"
+            ],
+            "affiliations": [
+                "Adobe Research",
+                "University of California, Los Angeles"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21594.jpg",
+            "data": {
+                "categories": [
+                    "#games",
+                    "#architecture",
+                    "#diffusion",
+                    "#reasoning",
+                    "#agents"
+                ],
+                "emoji": "🌍",
+                "ru": {
+                    "title": "Моделирование общего состояния мира в многопользовательских моделях",
+                    "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирования видео. Она решает проблему поддержания общего состояния мира в условиях нескольких агентов и различных ракурсов. Модель использует обучаемые токены, которые фиксируют общее состояние и статус каждого агента, обновляясь после генерации каждого фрагмента видео. Эксперименты показывают, что явное моделирование состояния мира улучшает логическую согласованность и качество генерации."
+                },
+                "en": {
+                    "title": "WorldWeaver: Enhancing Multi-Agent Video Generation with Shared State",
+                    "desc": "This paper introduces WorldWeaver (W^2), a multi-agent video diffusion model designed to maintain a consistent world state across different agents and perspectives. It utilizes learnable tokens called world state registers to store and update shared information about the environment and individual agent statuses. The model is enhanced with a Mixture-of-Transformers architecture, which separates the modeling of world states from visual frames for better performance. Experiments in generating videos for two agents in Minecraft demonstrate that this approach significantly improves logical consistency and overall generation quality."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.21485",
             "title": "Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation",
             "url": "https://huggingface.co/papers/2607.21485",
@@ -549,53 +749,6 @@
                 "en": {
                     "title": "Enhancing Implicit Neural Representations with Sinusoidal Recurrence",
                     "desc": "This paper explores the use of sinusoidal recurrence in implicit neural representations (INRs) to enhance harmonic spectral features. The authors demonstrate that sinusoidal activations create a harmonic line spectrum, which improves the spectral support through iterative refinement of latent representations. They implement this concept using a shared sinusoidal block and validate its performance against various models, including feed-forward INRs. The results show that their method achieves better image fidelity with fewer parameters and optimization steps, and it performs well in tasks like super-resolution and 3D representation."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21594",
-            "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-            "url": "https://huggingface.co/papers/2607.21594",
-            "abstract": "Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registers: learnable tokens that store shared world information, track individual agent status, and are dynamically updated after each generated chunk. We ground these registers with supervision signals spanning individual agent status, global state views including bird's-eye views, and scene text. We further improve the architecture with a Mixture-of-Transformers design that uses separate weights for world state modeling and visual frame modeling. Extensive experiments in two-agent Minecraft video generation show that explicit world-state modeling improves logical consistency and generation quality.",
-            "score": 6,
-            "issue_id": 2891,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "0742166118c164e8",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Sicheng Mo",
-                "Yuheng Li",
-                "Ziyang Leng",
-                "Krishna Kumar Singh",
-                "Bolei Zhou"
-            ],
-            "affiliations": [
-                "Adobe Research",
-                "University of California, Los Angeles"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21594.jpg",
-            "data": {
-                "categories": [
-                    "#games",
-                    "#architecture",
-                    "#diffusion",
-                    "#reasoning",
-                    "#agents"
-                ],
-                "emoji": "🌍",
-                "ru": {
-                    "title": "Моделирование общего состояния мира в многопользовательских моделях",
-                    "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирования видео. Она решает проблему поддержания общего состояния мира в условиях нескольких агентов и различных ракурсов. Модель использует обучаемые токены, которые фиксируют общее состояние и статус каждого агента, обновляясь после генерации каждого фрагмента видео. Эксперименты показывают, что явное моделирование состояния мира улучшает логическую согласованность и качество генерации."
-                },
-                "en": {
-                    "title": "WorldWeaver: Enhancing Multi-Agent Video Generation with Shared State",
-                    "desc": "This paper introduces WorldWeaver (W^2), a multi-agent video diffusion model designed to maintain a consistent world state across different agents and perspectives. It utilizes learnable tokens called world state registers to store and update shared information about the environment and individual agent statuses. The model is enhanced with a Mixture-of-Transformers architecture, which separates the modeling of world states from visual frames for better performance. Experiments in generating videos for two agents in Minecraft demonstrate that this approach significantly improves logical consistency and overall generation quality."
                 }
             }
         },
@@ -654,154 +807,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.21576",
-            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
-            "url": "https://huggingface.co/papers/2607.21576",
-            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
-            "score": 5,
-            "issue_id": 2894,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "85c4d9e5638cbb03",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Lukas Knobel",
-                "Andrew Zisserman",
-                "Yuki M. Asano"
-            ],
-            "affiliations": [
-                "Fundamental AI Lab, UTN",
-                "VGG, University of Oxford"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#benchmark",
-                    "#training"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
-                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
-                },
-                "en": {
-                    "title": "Separating Motion: A New Approach to Video Dynamics",
-                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21017",
-            "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
-            "url": "https://huggingface.co/papers/2607.21017",
-            "abstract": "Abstract  The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to bridge this gap via text-to-layout hallucination or simplified procedural generation, they frequently suffer from physical implausibility and fail to capture the complex, dense clutter of actual human environments. In this paper, we introduce TableVerse, a fully automated Real2Sim pipeline that shifts the paradigm from imaginative layout generation to deterministic reconstruction from unstructured, in-the-wild image data. Our framework seamlessly processes unscripted internet media into high-fidelity, simulation-ready tabletop environments with accurate metric scales, authentic topologies, and verified mechanical stability. Furthermore, an automated task-conditioned trajectory generation framework is integrated to synthesize high-quality, collision-free pick-and-place demonstrations. Leveraging this complete pipeline, we construct the TableVerse-100K Dataset, a large-scale corpus comprising 100,000 unique, physically consistent environments paired with interactive manipulation trajectories. By capturing diverse asset compositions, realistic spatial distributions, and high-quality demonstrations, TableVerse-100K establishes a highly scalable and high-fidelity data foundation, providing significant value to facilitate future research in generalizable robotic manipulation tasks.",
-            "score": 4,
-            "issue_id": 2891,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "2f3d9aba10e25731",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Boyuan Wang",
-                "Yue Zhang",
-                "Xutao Xue",
-                "Xueyu Song",
-                "Yu Sun"
-            ],
-            "affiliations": [],
-            "pdf_title_img": "assets/pdf/title_img/2607.21017.jpg",
-            "data": {
-                "categories": [
-                    "#robotics",
-                    "#synthetic",
-                    "#games",
-                    "#data",
-                    "#dataset"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Новое слово в манипуляции роботами!",
-                    "desc": "В статье представлен новый подход к созданию роботов, которые могут эффективно манипулировать объектами в сложной окружающей среде. Авторы предлагают систему TableVerse, которая автоматически генерирует высококачественные симуляции столов, основанные на реальных изображениях без сценариев. Эта система обеспечивает точные метрические масштабы и механическую стабильность, что позволяет улучшить обучение роботов. Также была создана база данных TableVerse-100K, состоящая из 100 000 уникальных сред с взаимодействиями, что открывает новые возможности для исследований в области роботообразной манипуляции."
-                },
-                "en": {
-                    "title": "Revolutionizing Robotic Environments with TableVerse",
-                    "desc": "This paper presents TableVerse, a new method for creating realistic robotic manipulation environments from real-world images. Unlike previous methods that generate layouts from imagination, TableVerse reconstructs environments with accurate details and physical stability. It includes a system for generating safe and effective movement paths for robots to follow. The result is the TableVerse-100K Dataset, which contains 100,000 unique environments that can help improve robotic manipulation research."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.20709",
-            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-            "url": "https://huggingface.co/papers/2607.20709",
-            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
-            "score": 4,
-            "issue_id": 2891,
-            "pub_date": "2026-07-22",
-            "pub_date_card": {
-                "ru": "22 июля",
-                "en": "July 22",
-                "zh": "7月22日"
-            },
-            "hash": "b081f4f495216e8e",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Paul Furgale",
-                "Severin Klingler",
-                "James Nolan",
-                "Matt Staats",
-                "Gaia Di Lorenzo",
-                "Elisa Martinez Abad",
-                "Christian Schüller",
-                "Razvan Dinu",
-                "Alessio Devoto",
-                "Pascal Berard",
-                "Gal Kaplun",
-                "Elad Sarafian",
-                "Riccardo Roveri",
-                "Leon Derczynski",
-                "Ricardo Silveira Cabral"
-            ],
-            "affiliations": [
-                "NVIDIA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#architecture",
-                    "#reasoning",
-                    "#agents",
-                    "#agent_memory"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Новый подход к созданию ИИ-агентов на Python",
-                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
-                },
-                "en": {
-                    "title": "Simplifying AI Agent Development with Python Objects",
-                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.10848",
             "title": "Predictive Divergence Masks for LLM RL",
             "url": "https://huggingface.co/papers/2607.10848",
             "abstract": "Abstract  Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio for two criteria: a proximity criterion, which asks whether the policy has moved too far from the behavior policy, and a direction criterion, which asks whether the update pushes it farther away. Recent work DPPO improves the proximity criterion by replacing PPO's ratio-based test with a probability divergence between the behavior and training policies. However, its direction criterion is still inherited from PPO. A token can be masked only when the sampled-token importance ratio moves away from one. We observe that this ratio-based direction criterion is a single-sample proxy that can disagree in sign with the change of the divergence that defines the proximity criterion. We therefore propose the predictive divergence mask, which asks whether the next policy-gradient step will increase or decrease the same divergence used by the trust region. For the discrete softmax policies used in LLM RL, we derive this prediction in closed form. Because production rollout engines expose only a truncated (top-K) view of the vocabulary, we develop two lightweight top-K estimators for this prediction. Detailed analysis shows the divergence-based direction is better aligned with the realized change of the divergence than the sampled ratio, and the resulting masks improve RL training across model scales and precision settings.",
-            "score": 4,
+            "score": 6,
             "issue_id": 2891,
             "pub_date": "2026-07-12",
             "pub_date_card": {
@@ -842,6 +852,88 @@
                 "en": {
                     "title": "Enhancing Reinforcement Learning Stability with Predictive Divergence Masks",
                     "desc": "This paper discusses improvements in reinforcement learning for large language models (LLMs) by introducing a new method for stabilizing policy updates. It critiques the existing PPO-style approach, particularly its reliance on a ratio-based direction criterion, which can misalign with the actual changes in policy divergence. The authors propose a predictive divergence mask that better predicts the impact of policy updates on divergence, enhancing the training process. Their analysis shows that this new method leads to more effective reinforcement learning across various model scales and precision settings."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.21017",
+            "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
+            "url": "https://huggingface.co/papers/2607.21017",
+            "abstract": "Abstract  The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to bridge this gap via text-to-layout hallucination or simplified procedural generation, they frequently suffer from physical implausibility and fail to capture the complex, dense clutter of actual human environments. In this paper, we introduce TableVerse, a fully automated Real2Sim pipeline that shifts the paradigm from imaginative layout generation to deterministic reconstruction from unstructured, in-the-wild image data. Our framework seamlessly processes unscripted internet media into high-fidelity, simulation-ready tabletop environments with accurate metric scales, authentic topologies, and verified mechanical stability. Furthermore, an automated task-conditioned trajectory generation framework is integrated to synthesize high-quality, collision-free pick-and-place demonstrations. Leveraging this complete pipeline, we construct the TableVerse-100K Dataset, a large-scale corpus comprising 100,000 unique, physically consistent environments paired with interactive manipulation trajectories. By capturing diverse asset compositions, realistic spatial distributions, and high-quality demonstrations, TableVerse-100K establishes a highly scalable and high-fidelity data foundation, providing significant value to facilitate future research in generalizable robotic manipulation tasks.",
+            "score": 5,
+            "issue_id": 2891,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "2f3d9aba10e25731",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Boyuan Wang",
+                "Yue Zhang",
+                "Xutao Xue",
+                "Xueyu Song",
+                "Yu Sun"
+            ],
+            "affiliations": [],
+            "pdf_title_img": "assets/pdf/title_img/2607.21017.jpg",
+            "data": {
+                "categories": [
+                    "#robotics",
+                    "#synthetic",
+                    "#games",
+                    "#data",
+                    "#dataset"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новое слово в манипуляции роботами!",
+                    "desc": "В статье представлен новый подход к созданию роботов, которые могут эффективно манипулировать объектами в сложной окружающей среде. Авторы предлагают систему TableVerse, которая автоматически генерирует высококачественные симуляции столов, основанные на реальных изображениях без сценариев. Эта система обеспечивает точные метрические масштабы и механическую стабильность, что позволяет улучшить обучение роботов. Также была создана база данных TableVerse-100K, состоящая из 100 000 уникальных сред с взаимодействиями, что открывает новые возможности для исследований в области роботообразной манипуляции."
+                },
+                "en": {
+                    "title": "Revolutionizing Robotic Environments with TableVerse",
+                    "desc": "This paper presents TableVerse, a new method for creating realistic robotic manipulation environments from real-world images. Unlike previous methods that generate layouts from imagination, TableVerse reconstructs environments with accurate details and physical stability. It includes a system for generating safe and effective movement paths for robots to follow. The result is the TableVerse-100K Dataset, which contains 100,000 unique environments that can help improve robotic manipulation research."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.19238",
+            "title": "FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents",
+            "url": "https://huggingface.co/papers/2607.19238",
+            "abstract": "Abstract  Agentic Reasoning has become a transformative force in financial analysis due to its ability to integrate large-scale information and generate reliable and accurate content. However, when handling complex real-world problems, different agents still show significant performance variation. In this work, we design Finance-LaTeX SKILL, a skill for synthesizing financial documents with complex layouts based on expert knowledge. Using an agent workflow built on this skill, we generate 2,000 professional financial documents along with 6,000 high-quality question-answer pairs. To evaluate the overall capability of agents, we introduce FinanceComplexQA, a comprehensive open-ended generation benchmark for financial documents that closely resembles real-world scenarios. It contains 2,026 deep research tasks targeting 1009 financial documents. FinanceComplexQA has 8 key features: bilingual support; coverage of six mainstream scenarios and seven tasks; expert-level document reasoning questions; deep research of complex layouts; relatively stable and permanent reference answers; and precise evaluation through an Agent-as-a-Judge with multiple evaluation metrics. Using FinanceComplexQA, we conduct a comprehensive evaluation of leading RAG systems and agentic reasoning tools for financial document QA. Through identifying and analyzing failure cases, we provide an in-depth study of their capabilities in numerical computation, multi-hop reasoning, content summarization, and industry analysis.",
+            "score": 3,
+            "issue_id": 2895,
+            "pub_date": "2026-07-21",
+            "pub_date_card": {
+                "ru": "21 июля",
+                "en": "July 21",
+                "zh": "7月21日"
+            },
+            "hash": "6ea62e9e686cd46c",
+            "github_url": "",
+            "github_stars": 0,
+            "pdf_title_img": "img/title_stub.png",
+            "data": {
+                "categories": [
+                    "#reasoning",
+                    "#agents",
+                    "#agent_memory",
+                    "#multimodal",
+                    "#rag",
+                    "#survey",
+                    "#benchmark"
+                ],
+                "emoji": "📈",
+                "ru": {
+                    "title": "Агентивное рассуждение в финансовом анализе",
+                    "desc": "В данной статье рассматривается использование агентивного рассуждения в финансовом анализе, которое позволяет обрабатывать большие объемы информации и создавать точный контент. Авторы разрабатывают инструмент Finance-LaTeX SKILL для синтеза финансовых документов с сложными макетами, основываясь на экспертных знаниях. Создана база данных FinanceComplexQA, которая содержит 2,026 сложных задач с вопросами и ответами для оценки способности агентов в работе с финансовыми документами. Исследуется эффективность ведущих систем RAG и инструментов агентивного рассуждения через анализ их возможностей в числовых расчетах, многопроходном рассуждении и анализе содержания."
+                },
+                "en": {
+                    "title": "Empowering Financial Analysis with Agentic Reasoning",
+                    "desc": "This paper introduces Finance-LaTeX SKILL, a specialized tool for creating complex financial documents using agentic reasoning. It addresses the performance variability of different agents in real-world financial analysis by generating a large dataset of 2,000 documents and 6,000 question-answer pairs. The authors present FinanceComplexQA, a benchmark designed to evaluate the capabilities of various reasoning agents in handling intricate financial tasks. The study highlights the strengths and weaknesses of these systems in areas like numerical computation and multi-hop reasoning, providing valuable insights for future improvements."
                 }
             }
         },
@@ -895,6 +987,43 @@
                     "desc": "This paper presents GraphVid, a novel model for generating videos that allows users to control multiple objects through structured interaction graphs. Unlike traditional methods that rely on drawing precise tracks, GraphVid simplifies the control process while maintaining high video quality. The authors also introduce GraphVid-Bench, a comprehensive dataset designed to train models for understanding complex interactions in videos. The results show that GraphVid outperforms existing methods in terms of controllability and video quality, demonstrating the effectiveness of using structured semantic interfaces in video generation."
                 }
             }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.04763",
+            "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
+            "url": "https://huggingface.co/papers/2607.04763",
+            "abstract": "Abstract  We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histories. Fully online OPD is costly because each update requires fresh student rollouts through the environment and teacher queries at visited histories. We propose Replayed-Prefix On-Policy Distillation (ReOPD), an off-environment alternative that reuses pre-collected teacher trajectories as replayed prefixes: the student acts at selected steps, while the teacher provides dense per-step supervision without executing new environment interactions. We show that multi-turn OPD introduces a prefix trap: making histories more student-on-policy improves relevance to the student, but can query the teacher on histories where its target is unreliable. This creates a two-sided distribution shift between student occupancy and teacher reliability. ReOPD addresses this by treating multi-turn OPD as a reliability-aware prefix distribution design and implements it with a simple step-decaying sampling schedule that emphasizes early, lower-shift prefixes. Across mathematical reasoning with Python and search environments over multiple teacher and student model scales, ReOPD preserves or improves OPD-level accuracy, uses zero tool calls during student training, and is at least 4times faster per rollout than OPD. ReOPD therefore turns expensive agent-environment interaction into a reusable offline resource, enabling scalable distillation across tools, tasks, and environments.",
+            "score": 2,
+            "issue_id": 2895,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "9de4e5b0d6a85eb2",
+            "github_url": "",
+            "github_stars": 0,
+            "pdf_title_img": "img/title_stub.png",
+            "data": {
+                "categories": [
+                    "#rlhf",
+                    "#optimization",
+                    "#agent_memory",
+                    "#continual_learning",
+                    "#training",
+                    "#agents"
+                ],
+                "emoji": "🔄",
+                "ru": {
+                    "title": "Эффективная дистилляция с использованием предшествующих взаимодействий",
+                    "desc": "В данной работе рассматривается дистилляция на основе взаимодействия с агентами (OPD) для задач, где агент LLM взаимодействует со средой в течение нескольких этапов. Мы предлагаем альтернативу, называемую Replayed-Prefix On-Policy Distillation (ReOPD), которая использует заранее собранные траектории учителя для обучения студента, что позволяет избежать дополнительных взаимодействий со средой. Это помогает избежать проблемы с ненадежностью данных, когда истории, основанные на действиях студента, могут генерировать вопросы к учителю на ненадежных данных. Результаты показывают, что ReOPD сохраняет или улучшает точность дистилляции при значительном увеличении скорости и снижении затрат на взаимодействие с окружающей средой."
+                },
+                "en": {
+                    "title": "Efficient Learning through Replayed-Prefix Distillation",
+                    "desc": "This paper explores on-policy distillation (OPD) for tasks where a large language model (LLM) agent interacts with an environment over multiple turns. The authors introduce Replayed-Prefix On-Policy Distillation (ReOPD), which allows a student model to learn from pre-collected teacher trajectories instead of requiring new interactions, making the process more efficient. They identify a challenge called the prefix trap, where improving the student's relevance can lead to unreliable teacher queries. ReOPD mitigates this issue by using a sampling strategy that prioritizes early interactions, resulting in faster and more reliable training without the need for additional environment calls."
+                }
+            }
         }
     ],
     "link_prev": "2026-07-23.html",
@@ -913,33 +1042,33 @@
     "categories": {
         "#dataset": 7,
         "#data": 3,
-        "#benchmark": 8,
-        "#agents": 8,
+        "#benchmark": 9,
+        "#agents": 10,
         "#rl": 4,
-        "#rlhf": 1,
-        "#rag": 0,
+        "#rlhf": 2,
+        "#rag": 1,
         "#plp": 0,
         "#inference": 0,
         "#3d": 1,
         "#audio": 0,
-        "#multimodal": 4,
+        "#multimodal": 5,
         "#math": 0,
         "#multilingual": 0,
-        "#architecture": 4,
+        "#architecture": 5,
         "#healthcare": 0,
-        "#training": 10,
+        "#training": 12,
         "#robotics": 2,
         "#agi": 0,
         "#games": 7,
         "#interpretability": 0,
-        "#reasoning": 5,
+        "#reasoning": 6,
         "#transfer_learning": 3,
         "#graphs": 2,
         "#ethics": 0,
         "#security": 0,
-        "#optimization": 4,
-        "#survey": 0,
-        "#diffusion": 1,
+        "#optimization": 6,
+        "#survey": 1,
+        "#diffusion": 2,
         "#alignment": 0,
         "#story_generation": 0,
         "#hallucinations": 0,
@@ -957,12 +1086,12 @@
         "#context_window": 0,
         "#compression": 0,
         "#memorization": 1,
-        "#continual_learning": 2,
+        "#continual_learning": 3,
         "#knowledge_graphs": 1,
         "#retrieval_eval": 0,
         "#prompt_caching": 0,
         "#session_memory": 1,
         "#tool_use": 1,
-        "#agent_memory": 4
+        "#agent_memory": 6
     }
 }
