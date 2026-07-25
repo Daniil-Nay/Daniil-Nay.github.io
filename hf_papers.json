@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-25 05:43",
+    "time_utc": "2026-07-25 08:05",
     "weekday": 4,
-    "issue_id": 2900,
+    "issue_id": 2901,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 119,
+            "score": 121,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -287,67 +287,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.20709",
-            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-            "url": "https://huggingface.co/papers/2607.20709",
-            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
-            "score": 19,
-            "issue_id": 2891,
-            "pub_date": "2026-07-22",
-            "pub_date_card": {
-                "ru": "22 июля",
-                "en": "July 22",
-                "zh": "7月22日"
-            },
-            "hash": "b081f4f495216e8e",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Paul Furgale",
-                "Severin Klingler",
-                "James Nolan",
-                "Matt Staats",
-                "Gaia Di Lorenzo",
-                "Elisa Martinez Abad",
-                "Christian Schüller",
-                "Razvan Dinu",
-                "Alessio Devoto",
-                "Pascal Berard",
-                "Gal Kaplun",
-                "Elad Sarafian",
-                "Riccardo Roveri",
-                "Leon Derczynski",
-                "Ricardo Silveira Cabral"
-            ],
-            "affiliations": [
-                "NVIDIA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#architecture",
-                    "#reasoning",
-                    "#agents",
-                    "#agent_memory"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Новый подход к созданию ИИ-агентов на Python",
-                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
-                },
-                "en": {
-                    "title": "Simplifying AI Agent Development with Python Objects",
-                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.20911",
             "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
             "url": "https://huggingface.co/papers/2607.20911",
             "abstract": "Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed coding-agent tasks across four work domains - Code, Web, Office, and Security. Rather than adapting public issue text, every task is reverse-engineered from a real commit, pull request, or business scenario and rewritten as a short, colloquial, role-played request, so that a task's prompt is not recoverable by web-searching the underlying issue, pull request, or commit thread. Because the dataset is released openly - task directories, environment images, evaluation harness, tests, and reference solutions - contamination resistance rests on this construction together with dataset versioning rather than on secrecy. The four subsets - repository-level engineering, front-end development, office and business workflows, and red-/blue-team security - probe complementary facets of real work, each with its own verification style. All are packaged in a uniform task-directory format and run, under a uniform and reproducible protocol, on two agent harnesses (CodeBuddy Code and Claude Code); the full open release makes the benchmark reproducible end to end and directly auditable, since any third party can re-run each task and inspect its content. Because each subset uses a different scoring instrument, scores are not comparable across subsets and the suite reports no suite-wide average. We report a cross-model leaderboard across several model families.",
-            "score": 18,
+            "score": 19,
             "issue_id": 2891,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -425,92 +369,58 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.12746",
-            "title": "Color Pass-Through via Camera-Display Coupling",
-            "url": "https://huggingface.co/papers/2607.12746",
-            "abstract": "Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is that most pipelines factor the high-dimensional capture-to-display process into two separately calibrated camera and display stages, and then connect them through low-dimensional color transforms, leading to information bottlenecks and inevitable error accumulation. To address this systemic challenge, we propose Color Pass-Through, an end-to-end learned framework that operates directly on captured images. Our key insight is to treat the camera and display as a coupled system rather than calibrating them in isolation. Coupling the camera and display yields two practical advantages: (1) it brings the entire real-world scenes to the display via end-to-end optimization, and (2) it allows efficient one-step calibration for each distinct observer via complete capture-to-display path. We validate Color Pass-Through using both digital and human observers. Compared with representative baselines, our method achieves an average gain of +2.0 points on a 5-point user study and more than 2x improvement on quantitative metrics, demonstrating improved reproduction of the perceived color of the original scene.",
-            "score": 17,
-            "issue_id": 2892,
-            "pub_date": "2026-07-14",
+            "id": "https://huggingface.co/papers/2607.20709",
+            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+            "url": "https://huggingface.co/papers/2607.20709",
+            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
+            "score": 19,
+            "issue_id": 2891,
+            "pub_date": "2026-07-22",
             "pub_date_card": {
-                "ru": "14 июля",
-                "en": "July 14",
-                "zh": "7月14日"
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
             },
-            "hash": "df057ffe61cf0b11",
+            "hash": "b081f4f495216e8e",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Ruikang Li",
-                "Molin Li",
-                "Jiarui Wu",
-                "Zhe Wei",
-                "Pengpeng Liu",
-                "Tianfan Xue"
+                "Paul Furgale",
+                "Severin Klingler",
+                "James Nolan",
+                "Matt Staats",
+                "Gaia Di Lorenzo",
+                "Elisa Martinez Abad",
+                "Christian Schüller",
+                "Razvan Dinu",
+                "Alessio Devoto",
+                "Pascal Berard",
+                "Gal Kaplun",
+                "Elad Sarafian",
+                "Riccardo Roveri",
+                "Leon Derczynski",
+                "Ricardo Silveira Cabral"
             ],
             "affiliations": [
-                "CUHK MMLab",
-                "Central Media Technology Institute, Huawei",
-                "Zhejiang University"
+                "NVIDIA"
             ],
-            "pdf_title_img": "assets/pdf/title_img/2607.12746.jpg",
+            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
             "data": {
                 "categories": [
-                    "#multimodal",
-                    "#data",
-                    "#training"
+                    "#training",
+                    "#architecture",
+                    "#reasoning",
+                    "#agents",
+                    "#agent_memory"
                 ],
-                "emoji": "🌈",
+                "emoji": "🤖",
                 "ru": {
-                    "title": "Цвет без искажений: новая система передачи изображения",
-                    "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и экран как связанную систему и оптимизирует процесс передачи изображения от захвата до отображения в единое целое. Это уменьшает накопление ошибок и улучшает качество изображения, которое видит пользователь. Исследование показывает, что новый метод значительно превосходит традиционные подходы по качеству воспроизведения цвета."
+                    "title": "Новый подход к созданию ИИ-агентов на Python",
+                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
                 },
                 "en": {
-                    "title": "Bridging the Gap: Enhanced Image Display through Coupled Camera and Display Optimization",
-                    "desc": "This paper introduces Color Pass-Through, a novel end-to-end learned framework that improves the way images are displayed on screens after being captured by cameras. Instead of treating the camera and display as separate entities, it couples them to optimize the entire capture-to-display process. This approach reduces information loss and calibration errors, leading to better color reproduction of real-world scenes. The method shows significant improvements in user satisfaction and quantitative metrics compared to traditional methods."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21576",
-            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
-            "url": "https://huggingface.co/papers/2607.21576",
-            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
-            "score": 16,
-            "issue_id": 2894,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "85c4d9e5638cbb03",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Lukas Knobel",
-                "Andrew Zisserman",
-                "Yuki M. Asano"
-            ],
-            "affiliations": [
-                "Fundamental AI Lab, UTN",
-                "VGG, University of Oxford"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#benchmark",
-                    "#training"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
-                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
-                },
-                "en": {
-                    "title": "Separating Motion: A New Approach to Video Dynamics",
-                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
+                    "title": "Simplifying AI Agent Development with Python Objects",
+                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
                 }
             }
         },
@@ -519,7 +429,7 @@
             "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
             "url": "https://huggingface.co/papers/2607.21553",
             "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
-            "score": 16,
+            "score": 18,
             "issue_id": 2895,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -569,11 +479,58 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.12746",
+            "title": "Color Pass-Through via Camera-Display Coupling",
+            "url": "https://huggingface.co/papers/2607.12746",
+            "abstract": "Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is that most pipelines factor the high-dimensional capture-to-display process into two separately calibrated camera and display stages, and then connect them through low-dimensional color transforms, leading to information bottlenecks and inevitable error accumulation. To address this systemic challenge, we propose Color Pass-Through, an end-to-end learned framework that operates directly on captured images. Our key insight is to treat the camera and display as a coupled system rather than calibrating them in isolation. Coupling the camera and display yields two practical advantages: (1) it brings the entire real-world scenes to the display via end-to-end optimization, and (2) it allows efficient one-step calibration for each distinct observer via complete capture-to-display path. We validate Color Pass-Through using both digital and human observers. Compared with representative baselines, our method achieves an average gain of +2.0 points on a 5-point user study and more than 2x improvement on quantitative metrics, demonstrating improved reproduction of the perceived color of the original scene.",
+            "score": 18,
+            "issue_id": 2892,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "df057ffe61cf0b11",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Ruikang Li",
+                "Molin Li",
+                "Jiarui Wu",
+                "Zhe Wei",
+                "Pengpeng Liu",
+                "Tianfan Xue"
+            ],
+            "affiliations": [
+                "CUHK MMLab",
+                "Central Media Technology Institute, Huawei",
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12746.jpg",
+            "data": {
+                "categories": [
+                    "#multimodal",
+                    "#data",
+                    "#training"
+                ],
+                "emoji": "🌈",
+                "ru": {
+                    "title": "Цвет без искажений: новая система передачи изображения",
+                    "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и экран как связанную систему и оптимизирует процесс передачи изображения от захвата до отображения в единое целое. Это уменьшает накопление ошибок и улучшает качество изображения, которое видит пользователь. Исследование показывает, что новый метод значительно превосходит традиционные подходы по качеству воспроизведения цвета."
+                },
+                "en": {
+                    "title": "Bridging the Gap: Enhanced Image Display through Coupled Camera and Display Optimization",
+                    "desc": "This paper introduces Color Pass-Through, a novel end-to-end learned framework that improves the way images are displayed on screens after being captured by cameras. Instead of treating the camera and display as separate entities, it couples them to optimize the entire capture-to-display process. This approach reduces information loss and calibration errors, leading to better color reproduction of real-world scenes. The method shows significant improvements in user satisfaction and quantitative metrics compared to traditional methods."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20734",
             "title": "LLMs Get Lost in Evolving User Intent",
             "url": "https://huggingface.co/papers/2607.20734",
             "abstract": "Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the conversation unfolds. Despite this, LLMs are still predominantly evaluated or trained in single-turn, fully-specified settings, leaving open a fundamental question: how well do LLMs track and act on user intent as it evolves over the course of a conversation? To study this, we introduce a framework that transforms static, single-turn tasks into dynamic multi-turn conversations in which the user's intent evolves across turns--incrementally revealed, revised, and at times redirected mid-conversation--while preserving each task's original evaluation protocol, enabling existing benchmarks to be reused as controlled testbeds without new annotation. Across multiple tasks, we surface a consistent phenomenon: strong static-setting performance does not transfer to the evolving-intent setting, with substantial drops across model families. Our findings point to a fundamental gap: today's LLMs do not yet faithfully track and act on the user's evolving intent, a capability invisible to static evaluation yet critical for future collaborative agents.",
-            "score": 16,
+            "score": 17,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -613,11 +570,54 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21576",
+            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+            "url": "https://huggingface.co/papers/2607.21576",
+            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
+            "score": 16,
+            "issue_id": 2894,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "85c4d9e5638cbb03",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Lukas Knobel",
+                "Andrew Zisserman",
+                "Yuki M. Asano"
+            ],
+            "affiliations": [
+                "Fundamental AI Lab, UTN",
+                "VGG, University of Oxford"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#benchmark",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
+                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
+                },
+                "en": {
+                    "title": "Separating Motion: A New Approach to Video Dynamics",
+                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.21594",
             "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
             "url": "https://huggingface.co/papers/2607.21594",
             "abstract": "Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registers: learnable tokens that store shared world information, track individual agent status, and are dynamically updated after each generated chunk. We ground these registers with supervision signals spanning individual agent status, global state views including bird's-eye views, and scene text. We further improve the architecture with a Mixture-of-Transformers design that uses separate weights for world state modeling and visual frame modeling. Extensive experiments in two-agent Minecraft video generation show that explicit world-state modeling improves logical consistency and generation quality.",
-            "score": 10,
+            "score": 11,
             "issue_id": 2891,
             "pub_date": "2026-07-23",
             "pub_date_card": {

@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-25 02:30",
+    "time_utc": "2026-07-25 05:43",
     "weekday": 4,
-    "issue_id": 2899,
+    "issue_id": 2900,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 118,
+            "score": 119,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -83,7 +83,7 @@
             "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
             "url": "https://huggingface.co/papers/2607.20061",
             "abstract": "Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with explicit image-space detections. To address this, we introduce ReferTrack, a referring-then-tracking paradigm that grounds EVT using a single forward-facing camera. Our model first selects the target from an indexed set of bounding boxes, then decodes tracking waypoints conditioned on this image-grounded decision. To preserve target motion cues over time, ReferTrack maintains a sliding-window queue of previously selected bounding boxes, injecting their geometric features into the visual history via temporal-viewpoint-bbox indicator (TVBI) tokens. We further enhance target identification by co-training on a custom Refer-QA dataset. On EVT-Bench, ReferTrack achieves state-of-the-art single-view performance with success rates of 89.4%, 73.3%, and 74.1% on the single-target, distracted, and ambiguity tracking splits, respectively -- matching or even surpassing several multi-camera baselines on identification-heavy tasks. Finally, real-world deployments on legged and humanoid robots validate its robust sim-to-real transfer capabilities. Code is available at https://github.com/MedlarTea/referTrack.",
-            "score": 44,
+            "score": 47,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -136,60 +136,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.21556",
-            "title": "Visual Contrastive Self-Distillation",
-            "url": "https://huggingface.co/papers/2607.21556",
-            "abstract": "Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from 62.27% rightarrow 67.04% at 2B, 71.30% rightarrow 73.16% at 4B, and 72.51% rightarrow 76.26% at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
-            "score": 41,
-            "issue_id": 2892,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "76cdfdddd8218512",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yijun Liang",
-                "Yunjie Tian",
-                "Yijiang Li",
-                "Yuqi Jia",
-                "Furong Huang",
-                "Tianyi Zhou",
-                "Di Fu"
-            ],
-            "affiliations": [
-                "Duke University",
-                "MBZUAI",
-                "University of California, San Diego",
-                "University of Maryland, College Park"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21556.jpg",
-            "data": {
-                "categories": [
-                    "#optimization",
-                    "#training",
-                    "#dataset"
-                ],
-                "emoji": "🖼️",
-                "ru": {
-                    "title": "Улучшение самообучения без внешних учителей",
-                    "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и учеником. Авторы предлагают новый подход, называемый Visual Contrastive Self-Distillation (VCSD), который преобразует удаление контента изображения в сигнал для самообучения. VCSD использует разницу в вероятностях токенов для улучшения распределения вероятностей исходного изображения, что позволяет ученику лучше обучаться без необходимости в дополнительных данных или издержках. Испытания показали, что VCSD превосходит существующие методы OPSD в задачах на базе данных ViRL39K."
-                },
-                "en": {
-                    "title": "Simplifying Self-Distillation with Visual Contrastive Learning",
-                    "desc": "This paper introduces Visual Contrastive Self-Distillation (VCSD), a method that simplifies on-policy self-distillation by eliminating the need for external teachers and privileged information. VCSD generates a learning signal by comparing token distributions from a teacher model under two conditions: with and without visual content. The difference in these distributions helps the teacher refine its predictions based on the original image content. Experiments show that VCSD outperforms existing methods on the ViRL39K dataset, demonstrating its effectiveness in improving model performance without additional complexity."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2605.09635",
             "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
             "url": "https://huggingface.co/papers/2605.09635",
             "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
-            "score": 40,
+            "score": 42,
             "issue_id": 2893,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -235,6 +186,55 @@
                 "en": {
                     "title": "Enhancing Curriculum Cognition with K12-KGraph",
                     "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.21556",
+            "title": "Visual Contrastive Self-Distillation",
+            "url": "https://huggingface.co/papers/2607.21556",
+            "abstract": "Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from 62.27% rightarrow 67.04% at 2B, 71.30% rightarrow 73.16% at 4B, and 72.51% rightarrow 76.26% at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
+            "score": 41,
+            "issue_id": 2892,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "76cdfdddd8218512",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yijun Liang",
+                "Yunjie Tian",
+                "Yijiang Li",
+                "Yuqi Jia",
+                "Furong Huang",
+                "Tianyi Zhou",
+                "Di Fu"
+            ],
+            "affiliations": [
+                "Duke University",
+                "MBZUAI",
+                "University of California, San Diego",
+                "University of Maryland, College Park"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21556.jpg",
+            "data": {
+                "categories": [
+                    "#optimization",
+                    "#training",
+                    "#dataset"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Улучшение самообучения без внешних учителей",
+                    "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и учеником. Авторы предлагают новый подход, называемый Visual Contrastive Self-Distillation (VCSD), который преобразует удаление контента изображения в сигнал для самообучения. VCSD использует разницу в вероятностях токенов для улучшения распределения вероятностей исходного изображения, что позволяет ученику лучше обучаться без необходимости в дополнительных данных или издержках. Испытания показали, что VCSD превосходит существующие методы OPSD в задачах на базе данных ViRL39K."
+                },
+                "en": {
+                    "title": "Simplifying Self-Distillation with Visual Contrastive Learning",
+                    "desc": "This paper introduces Visual Contrastive Self-Distillation (VCSD), a method that simplifies on-policy self-distillation by eliminating the need for external teachers and privileged information. VCSD generates a learning signal by comparing token distributions from a teacher model under two conditions: with and without visual content. The difference in these distributions helps the teacher refine its predictions based on the original image content. Experiments show that VCSD outperforms existing methods on the ViRL39K dataset, demonstrating its effectiveness in improving model performance without additional complexity."
                 }
             }
         },
@@ -472,11 +472,54 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21576",
+            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+            "url": "https://huggingface.co/papers/2607.21576",
+            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
+            "score": 16,
+            "issue_id": 2894,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "85c4d9e5638cbb03",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Lukas Knobel",
+                "Andrew Zisserman",
+                "Yuki M. Asano"
+            ],
+            "affiliations": [
+                "Fundamental AI Lab, UTN",
+                "VGG, University of Oxford"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#benchmark",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
+                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
+                },
+                "en": {
+                    "title": "Separating Motion: A New Approach to Video Dynamics",
+                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.21553",
             "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
             "url": "https://huggingface.co/papers/2607.21553",
             "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
-            "score": 15,
+            "score": 16,
             "issue_id": 2895,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -530,7 +573,7 @@
             "title": "LLMs Get Lost in Evolving User Intent",
             "url": "https://huggingface.co/papers/2607.20734",
             "abstract": "Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the conversation unfolds. Despite this, LLMs are still predominantly evaluated or trained in single-turn, fully-specified settings, leaving open a fundamental question: how well do LLMs track and act on user intent as it evolves over the course of a conversation? To study this, we introduce a framework that transforms static, single-turn tasks into dynamic multi-turn conversations in which the user's intent evolves across turns--incrementally revealed, revised, and at times redirected mid-conversation--while preserving each task's original evaluation protocol, enabling existing benchmarks to be reused as controlled testbeds without new annotation. Across multiple tasks, we surface a consistent phenomenon: strong static-setting performance does not transfer to the evolving-intent setting, with substantial drops across model families. Our findings point to a fundamental gap: today's LLMs do not yet faithfully track and act on the user's evolving intent, a capability invisible to static evaluation yet critical for future collaborative agents.",
-            "score": 15,
+            "score": 16,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -570,54 +613,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.21576",
-            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
-            "url": "https://huggingface.co/papers/2607.21576",
-            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
-            "score": 14,
-            "issue_id": 2894,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "85c4d9e5638cbb03",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Lukas Knobel",
-                "Andrew Zisserman",
-                "Yuki M. Asano"
-            ],
-            "affiliations": [
-                "Fundamental AI Lab, UTN",
-                "VGG, University of Oxford"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#benchmark",
-                    "#training"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
-                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
-                },
-                "en": {
-                    "title": "Separating Motion: A New Approach to Video Dynamics",
-                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.21594",
             "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
             "url": "https://huggingface.co/papers/2607.21594",
             "abstract": "Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registers: learnable tokens that store shared world information, track individual agent status, and are dynamically updated after each generated chunk. We ground these registers with supervision signals spanning individual agent status, global state views including bird's-eye views, and scene text. We further improve the architecture with a Mixture-of-Transformers design that uses separate weights for world state modeling and visual frame modeling. Extensive experiments in two-agent Minecraft video generation show that explicit world-state modeling improves logical consistency and generation quality.",
-            "score": 9,
+            "score": 10,
             "issue_id": 2891,
             "pub_date": "2026-07-23",
             "pub_date_card": {
