@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-24 22:04",
+    "time_utc": "2026-07-25 02:30",
     "weekday": 4,
-    "issue_id": 2898,
+    "issue_id": 2899,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 115,
+            "score": 118,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -83,7 +83,7 @@
             "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
             "url": "https://huggingface.co/papers/2607.20061",
             "abstract": "Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with explicit image-space detections. To address this, we introduce ReferTrack, a referring-then-tracking paradigm that grounds EVT using a single forward-facing camera. Our model first selects the target from an indexed set of bounding boxes, then decodes tracking waypoints conditioned on this image-grounded decision. To preserve target motion cues over time, ReferTrack maintains a sliding-window queue of previously selected bounding boxes, injecting their geometric features into the visual history via temporal-viewpoint-bbox indicator (TVBI) tokens. We further enhance target identification by co-training on a custom Refer-QA dataset. On EVT-Bench, ReferTrack achieves state-of-the-art single-view performance with success rates of 89.4%, 73.3%, and 74.1% on the single-target, distracted, and ambiguity tracking splits, respectively -- matching or even surpassing several multi-camera baselines on identification-heavy tasks. Finally, real-world deployments on legged and humanoid robots validate its robust sim-to-real transfer capabilities. Code is available at https://github.com/MedlarTea/referTrack.",
-            "score": 43,
+            "score": 44,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -136,11 +136,60 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21556",
+            "title": "Visual Contrastive Self-Distillation",
+            "url": "https://huggingface.co/papers/2607.21556",
+            "abstract": "Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from 62.27% rightarrow 67.04% at 2B, 71.30% rightarrow 73.16% at 4B, and 72.51% rightarrow 76.26% at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
+            "score": 41,
+            "issue_id": 2892,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "76cdfdddd8218512",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yijun Liang",
+                "Yunjie Tian",
+                "Yijiang Li",
+                "Yuqi Jia",
+                "Furong Huang",
+                "Tianyi Zhou",
+                "Di Fu"
+            ],
+            "affiliations": [
+                "Duke University",
+                "MBZUAI",
+                "University of California, San Diego",
+                "University of Maryland, College Park"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21556.jpg",
+            "data": {
+                "categories": [
+                    "#optimization",
+                    "#training",
+                    "#dataset"
+                ],
+                "emoji": "🖼️",
+                "ru": {
+                    "title": "Улучшение самообучения без внешних учителей",
+                    "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и учеником. Авторы предлагают новый подход, называемый Visual Contrastive Self-Distillation (VCSD), который преобразует удаление контента изображения в сигнал для самообучения. VCSD использует разницу в вероятностях токенов для улучшения распределения вероятностей исходного изображения, что позволяет ученику лучше обучаться без необходимости в дополнительных данных или издержках. Испытания показали, что VCSD превосходит существующие методы OPSD в задачах на базе данных ViRL39K."
+                },
+                "en": {
+                    "title": "Simplifying Self-Distillation with Visual Contrastive Learning",
+                    "desc": "This paper introduces Visual Contrastive Self-Distillation (VCSD), a method that simplifies on-policy self-distillation by eliminating the need for external teachers and privileged information. VCSD generates a learning signal by comparing token distributions from a teacher model under two conditions: with and without visual content. The difference in these distributions helps the teacher refine its predictions based on the original image content. Experiments show that VCSD outperforms existing methods on the ViRL39K dataset, demonstrating its effectiveness in improving model performance without additional complexity."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2605.09635",
             "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
             "url": "https://huggingface.co/papers/2605.09635",
             "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
-            "score": 39,
+            "score": 40,
             "issue_id": 2893,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -186,55 +235,6 @@
                 "en": {
                     "title": "Enhancing Curriculum Cognition with K12-KGraph",
                     "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21556",
-            "title": "Visual Contrastive Self-Distillation",
-            "url": "https://huggingface.co/papers/2607.21556",
-            "abstract": "Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from 62.27% rightarrow 67.04% at 2B, 71.30% rightarrow 73.16% at 4B, and 72.51% rightarrow 76.26% at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
-            "score": 39,
-            "issue_id": 2892,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "76cdfdddd8218512",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Yijun Liang",
-                "Yunjie Tian",
-                "Yijiang Li",
-                "Yuqi Jia",
-                "Furong Huang",
-                "Tianyi Zhou",
-                "Di Fu"
-            ],
-            "affiliations": [
-                "Duke University",
-                "MBZUAI",
-                "University of California, San Diego",
-                "University of Maryland, College Park"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21556.jpg",
-            "data": {
-                "categories": [
-                    "#optimization",
-                    "#training",
-                    "#dataset"
-                ],
-                "emoji": "🖼️",
-                "ru": {
-                    "title": "Улучшение самообучения без внешних учителей",
-                    "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и учеником. Авторы предлагают новый подход, называемый Visual Contrastive Self-Distillation (VCSD), который преобразует удаление контента изображения в сигнал для самообучения. VCSD использует разницу в вероятностях токенов для улучшения распределения вероятностей исходного изображения, что позволяет ученику лучше обучаться без необходимости в дополнительных данных или издержках. Испытания показали, что VCSD превосходит существующие методы OPSD в задачах на базе данных ViRL39K."
-                },
-                "en": {
-                    "title": "Simplifying Self-Distillation with Visual Contrastive Learning",
-                    "desc": "This paper introduces Visual Contrastive Self-Distillation (VCSD), a method that simplifies on-policy self-distillation by eliminating the need for external teachers and privileged information. VCSD generates a learning signal by comparing token distributions from a teacher model under two conditions: with and without visual content. The difference in these distributions helps the teacher refine its predictions based on the original image content. Experiments show that VCSD outperforms existing methods on the ViRL39K dataset, demonstrating its effectiveness in improving model performance without additional complexity."
                 }
             }
         },
@@ -291,7 +291,7 @@
             "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
             "url": "https://huggingface.co/papers/2607.20709",
             "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
-            "score": 18,
+            "score": 19,
             "issue_id": 2891,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -347,7 +347,7 @@
             "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
             "url": "https://huggingface.co/papers/2607.20911",
             "abstract": "Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed coding-agent tasks across four work domains - Code, Web, Office, and Security. Rather than adapting public issue text, every task is reverse-engineered from a real commit, pull request, or business scenario and rewritten as a short, colloquial, role-played request, so that a task's prompt is not recoverable by web-searching the underlying issue, pull request, or commit thread. Because the dataset is released openly - task directories, environment images, evaluation harness, tests, and reference solutions - contamination resistance rests on this construction together with dataset versioning rather than on secrecy. The four subsets - repository-level engineering, front-end development, office and business workflows, and red-/blue-team security - probe complementary facets of real work, each with its own verification style. All are packaged in a uniform task-directory format and run, under a uniform and reproducible protocol, on two agent harnesses (CodeBuddy Code and Claude Code); the full open release makes the benchmark reproducible end to end and directly auditable, since any third party can re-run each task and inspect its content. Because each subset uses a different scoring instrument, scores are not comparable across subsets and the suite reports no suite-wide average. We report a cross-model leaderboard across several model families.",
-            "score": 17,
+            "score": 18,
             "issue_id": 2891,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -472,6 +472,60 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21553",
+            "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+            "url": "https://huggingface.co/papers/2607.21553",
+            "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
+            "score": 15,
+            "issue_id": 2895,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "4549cf48753c3c80",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Junsong Chen",
+                "Jincheng Yu",
+                "Yitong Li",
+                "Shuchen Xue",
+                "Haozhe Liu",
+                "Jingyu Xin",
+                "Yuyang Zhao",
+                "Tian Ye",
+                "Zhangjie Wu",
+                "Zian Wang",
+                "Daquan Zhou",
+                "Ping Luo",
+                "Song Han",
+                "Enze Xie"
+            ],
+            "affiliations": [
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21553.jpg",
+            "data": {
+                "categories": [
+                    "#architecture",
+                    "#optimization",
+                    "#diffusion",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Эффективная генерация видео с SANA-Video 2.0",
+                    "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует высококачественное видео разрешением до 720p на одном GPU и сопоставима по качеству с полным софтмаксом, сохраняя при этом преимущества линейного внимания для длинных последовательностей. Гибридное линейно-головное внимание комбинирует линейное смешивание с периодическими анкерами, что восстанавливает полные взаимодействия токенов. Оптимизация всего стека ускоряет эту архитектуру, что делает SANA-Video 2.0 более эффективной и быстрым вариантом для масштабируемой генерации видео."
+                },
+                "en": {
+                    "title": "Efficient High-Quality Video Generation with SANA-Video 2.0",
+                    "desc": "SANA-Video 2.0 is a new video generation model that combines the strengths of diffusion transformers with efficient attention mechanisms. It can produce high-quality videos at 720p resolution using a single GPU while maintaining fast processing speeds. The model employs Hybrid Linear-Softmax Attention to optimize how it processes long video sequences, allowing for better performance without the computational cost of traditional methods. By integrating Block Attention Residuals, it enhances the representation of video data, achieving impressive results in both quality and efficiency."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20734",
             "title": "LLMs Get Lost in Evolving User Intent",
             "url": "https://huggingface.co/papers/2607.20734",
@@ -559,60 +613,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.21553",
-            "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-            "url": "https://huggingface.co/papers/2607.21553",
-            "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
-            "score": 14,
-            "issue_id": 2895,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "4549cf48753c3c80",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Junsong Chen",
-                "Jincheng Yu",
-                "Yitong Li",
-                "Shuchen Xue",
-                "Haozhe Liu",
-                "Jingyu Xin",
-                "Yuyang Zhao",
-                "Tian Ye",
-                "Zhangjie Wu",
-                "Zian Wang",
-                "Daquan Zhou",
-                "Ping Luo",
-                "Song Han",
-                "Enze Xie"
-            ],
-            "affiliations": [
-                "NVIDIA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21553.jpg",
-            "data": {
-                "categories": [
-                    "#architecture",
-                    "#optimization",
-                    "#diffusion",
-                    "#training"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Эффективная генерация видео с SANA-Video 2.0",
-                    "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует высококачественное видео разрешением до 720p на одном GPU и сопоставима по качеству с полным софтмаксом, сохраняя при этом преимущества линейного внимания для длинных последовательностей. Гибридное линейно-головное внимание комбинирует линейное смешивание с периодическими анкерами, что восстанавливает полные взаимодействия токенов. Оптимизация всего стека ускоряет эту архитектуру, что делает SANA-Video 2.0 более эффективной и быстрым вариантом для масштабируемой генерации видео."
-                },
-                "en": {
-                    "title": "Efficient High-Quality Video Generation with SANA-Video 2.0",
-                    "desc": "SANA-Video 2.0 is a new video generation model that combines the strengths of diffusion transformers with efficient attention mechanisms. It can produce high-quality videos at 720p resolution using a single GPU while maintaining fast processing speeds. The model employs Hybrid Linear-Softmax Attention to optimize how it processes long video sequences, allowing for better performance without the computational cost of traditional methods. By integrating Block Attention Residuals, it enhances the representation of video data, achieving impressive results in both quality and efficiency."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.21594",
             "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
             "url": "https://huggingface.co/papers/2607.21594",
@@ -656,6 +656,54 @@
                 "en": {
                     "title": "WorldWeaver: Enhancing Multi-Agent Video Generation with Shared State",
                     "desc": "This paper introduces WorldWeaver (W^2), a multi-agent video diffusion model designed to maintain a consistent world state across different agents and perspectives. It utilizes learnable tokens called world state registers to store and update shared information about the environment and individual agent statuses. The model is enhanced with a Mixture-of-Transformers architecture, which separates the modeling of world states from visual frames for better performance. Experiments in generating videos for two agents in Minecraft demonstrate that this approach significantly improves logical consistency and overall generation quality."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.21051",
+            "title": "Sample-Efficient Learning from Agent Experience",
+            "url": "https://huggingface.co/papers/2607.21051",
+            "abstract": "Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \\(9.6\\times\\) fewer environment samples.",
+            "score": 8,
+            "issue_id": 2893,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "2dcefb42d0be492f",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Chenhui Gou",
+                "Haoqin Tu",
+                "Yunhao Fang",
+                "Jianfei Cai",
+                "Hamid Rezatofighi"
+            ],
+            "affiliations": [
+                "ByteDance Seed",
+                "Monash University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21051.jpg",
+            "data": {
+                "categories": [
+                    "#memorization",
+                    "#continual_learning",
+                    "#training",
+                    "#agents",
+                    "#rl",
+                    "#games"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Эффективное обучение агентов без дорогостоящих экспериментов",
+                    "desc": "Статья посвящена проблеме обучения агентов в реальных условиях, где взаимодействие с окружением обычно дорогостоящее. В ней рассматривается метод in-context learning, который позволяет агентам эффективно учиться на основе своих собственных взаимодействий. Авторы предлагают новую технику, называемую Experience Distillation, которая помогает сохранить информацию из опыта агентов и интегрировать ее в веса модели без дополнительных взаимодействий с окружением. Эксперименты показывают, что данный подход значительно улучшает эффективность по сравнению с традиционными методами обучения."
+                },
+                "en": {
+                    "title": "Maximizing Learning Efficiency with Experience Distillation",
+                    "desc": "This paper introduces a method called Experience Distillation, which allows agents to learn from their past interactions without needing additional costly environment interactions. It combines the benefits of in-context learning, which is efficient but loses effectiveness without context, and context distillation, which internalizes information into model weights. The proposed method retains a significant portion of the learning gains from in-context learning while requiring far fewer samples from the environment. Experiments demonstrate that this approach outperforms traditional reinforcement learning methods in terms of sample efficiency and performance across various tasks."
                 }
             }
         },
@@ -714,6 +762,55 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.04763",
+            "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
+            "url": "https://huggingface.co/papers/2607.04763",
+            "abstract": "Abstract  We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histories. Fully online OPD is costly because each update requires fresh student rollouts through the environment and teacher queries at visited histories. We propose Replayed-Prefix On-Policy Distillation (ReOPD), an off-environment alternative that reuses pre-collected teacher trajectories as replayed prefixes: the student acts at selected steps, while the teacher provides dense per-step supervision without executing new environment interactions. We show that multi-turn OPD introduces a prefix trap: making histories more student-on-policy improves relevance to the student, but can query the teacher on histories where its target is unreliable. This creates a two-sided distribution shift between student occupancy and teacher reliability. ReOPD addresses this by treating multi-turn OPD as a reliability-aware prefix distribution design and implements it with a simple step-decaying sampling schedule that emphasizes early, lower-shift prefixes. Across mathematical reasoning with Python and search environments over multiple teacher and student model scales, ReOPD preserves or improves OPD-level accuracy, uses zero tool calls during student training, and is at least 4times faster per rollout than OPD. ReOPD therefore turns expensive agent-environment interaction into a reusable offline resource, enabling scalable distillation across tools, tasks, and environments.",
+            "score": 8,
+            "issue_id": 2895,
+            "pub_date": "2026-07-16",
+            "pub_date_card": {
+                "ru": "16 июля",
+                "en": "July 16",
+                "zh": "7月16日"
+            },
+            "hash": "9de4e5b0d6a85eb2",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Baohao Liao",
+                "Hanze Dong",
+                "Christof Monz",
+                "Xinxing Xu",
+                "Li Dong",
+                "Furu Wei"
+            ],
+            "affiliations": [
+                "Microsoft Research",
+                "University of Amsterdam"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.04763.jpg",
+            "data": {
+                "categories": [
+                    "#rlhf",
+                    "#optimization",
+                    "#agent_memory",
+                    "#continual_learning",
+                    "#training",
+                    "#agents"
+                ],
+                "emoji": "🔄",
+                "ru": {
+                    "title": "Эффективная дистилляция с использованием предшествующих взаимодействий",
+                    "desc": "В данной работе рассматривается дистилляция на основе взаимодействия с агентами (OPD) для задач, где агент LLM взаимодействует со средой в течение нескольких этапов. Мы предлагаем альтернативу, называемую Replayed-Prefix On-Policy Distillation (ReOPD), которая использует заранее собранные траектории учителя для обучения студента, что позволяет избежать дополнительных взаимодействий со средой. Это помогает избежать проблемы с ненадежностью данных, когда истории, основанные на действиях студента, могут генерировать вопросы к учителю на ненадежных данных. Результаты показывают, что ReOPD сохраняет или улучшает точность дистилляции при значительном увеличении скорости и снижении затрат на взаимодействие с окружающей средой."
+                },
+                "en": {
+                    "title": "Efficient Learning through Replayed-Prefix Distillation",
+                    "desc": "This paper explores on-policy distillation (OPD) for tasks where a large language model (LLM) agent interacts with an environment over multiple turns. The authors introduce Replayed-Prefix On-Policy Distillation (ReOPD), which allows a student model to learn from pre-collected teacher trajectories instead of requiring new interactions, making the process more efficient. They identify a challenge called the prefix trap, where improving the student's relevance can lead to unreliable teacher queries. ReOPD mitigates this issue by using a sampling strategy that prioritizes early interactions, resulting in faster and more reliable training without the need for additional environment calls."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.10848",
             "title": "Predictive Divergence Masks for LLM RL",
             "url": "https://huggingface.co/papers/2607.10848",
@@ -759,103 +856,6 @@
                 "en": {
                     "title": "Enhancing Reinforcement Learning Stability with Predictive Divergence Masks",
                     "desc": "This paper discusses improvements in reinforcement learning for large language models (LLMs) by introducing a new method for stabilizing policy updates. It critiques the existing PPO-style approach, particularly its reliance on a ratio-based direction criterion, which can misalign with the actual changes in policy divergence. The authors propose a predictive divergence mask that better predicts the impact of policy updates on divergence, enhancing the training process. Their analysis shows that this new method leads to more effective reinforcement learning across various model scales and precision settings."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21051",
-            "title": "Sample-Efficient Learning from Agent Experience",
-            "url": "https://huggingface.co/papers/2607.21051",
-            "abstract": "Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \\(9.6\\times\\) fewer environment samples.",
-            "score": 7,
-            "issue_id": 2893,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "2dcefb42d0be492f",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Chenhui Gou",
-                "Haoqin Tu",
-                "Yunhao Fang",
-                "Jianfei Cai",
-                "Hamid Rezatofighi"
-            ],
-            "affiliations": [
-                "ByteDance Seed",
-                "Monash University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21051.jpg",
-            "data": {
-                "categories": [
-                    "#memorization",
-                    "#continual_learning",
-                    "#training",
-                    "#agents",
-                    "#rl",
-                    "#games"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Эффективное обучение агентов без дорогостоящих экспериментов",
-                    "desc": "Статья посвящена проблеме обучения агентов в реальных условиях, где взаимодействие с окружением обычно дорогостоящее. В ней рассматривается метод in-context learning, который позволяет агентам эффективно учиться на основе своих собственных взаимодействий. Авторы предлагают новую технику, называемую Experience Distillation, которая помогает сохранить информацию из опыта агентов и интегрировать ее в веса модели без дополнительных взаимодействий с окружением. Эксперименты показывают, что данный подход значительно улучшает эффективность по сравнению с традиционными методами обучения."
-                },
-                "en": {
-                    "title": "Maximizing Learning Efficiency with Experience Distillation",
-                    "desc": "This paper introduces a method called Experience Distillation, which allows agents to learn from their past interactions without needing additional costly environment interactions. It combines the benefits of in-context learning, which is efficient but loses effectiveness without context, and context distillation, which internalizes information into model weights. The proposed method retains a significant portion of the learning gains from in-context learning while requiring far fewer samples from the environment. Experiments demonstrate that this approach outperforms traditional reinforcement learning methods in terms of sample efficiency and performance across various tasks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.04763",
-            "title": "Multi-Turn On-Policy Distillation with Prefix Replay",
-            "url": "https://huggingface.co/papers/2607.04763",
-            "abstract": "Abstract  We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histories. Fully online OPD is costly because each update requires fresh student rollouts through the environment and teacher queries at visited histories. We propose Replayed-Prefix On-Policy Distillation (ReOPD), an off-environment alternative that reuses pre-collected teacher trajectories as replayed prefixes: the student acts at selected steps, while the teacher provides dense per-step supervision without executing new environment interactions. We show that multi-turn OPD introduces a prefix trap: making histories more student-on-policy improves relevance to the student, but can query the teacher on histories where its target is unreliable. This creates a two-sided distribution shift between student occupancy and teacher reliability. ReOPD addresses this by treating multi-turn OPD as a reliability-aware prefix distribution design and implements it with a simple step-decaying sampling schedule that emphasizes early, lower-shift prefixes. Across mathematical reasoning with Python and search environments over multiple teacher and student model scales, ReOPD preserves or improves OPD-level accuracy, uses zero tool calls during student training, and is at least 4times faster per rollout than OPD. ReOPD therefore turns expensive agent-environment interaction into a reusable offline resource, enabling scalable distillation across tools, tasks, and environments.",
-            "score": 7,
-            "issue_id": 2895,
-            "pub_date": "2026-07-16",
-            "pub_date_card": {
-                "ru": "16 июля",
-                "en": "July 16",
-                "zh": "7月16日"
-            },
-            "hash": "9de4e5b0d6a85eb2",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Baohao Liao",
-                "Hanze Dong",
-                "Christof Monz",
-                "Xinxing Xu",
-                "Li Dong",
-                "Furu Wei"
-            ],
-            "affiliations": [
-                "Microsoft Research",
-                "University of Amsterdam"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.04763.jpg",
-            "data": {
-                "categories": [
-                    "#rlhf",
-                    "#optimization",
-                    "#agent_memory",
-                    "#continual_learning",
-                    "#training",
-                    "#agents"
-                ],
-                "emoji": "🔄",
-                "ru": {
-                    "title": "Эффективная дистилляция с использованием предшествующих взаимодействий",
-                    "desc": "В данной работе рассматривается дистилляция на основе взаимодействия с агентами (OPD) для задач, где агент LLM взаимодействует со средой в течение нескольких этапов. Мы предлагаем альтернативу, называемую Replayed-Prefix On-Policy Distillation (ReOPD), которая использует заранее собранные траектории учителя для обучения студента, что позволяет избежать дополнительных взаимодействий со средой. Это помогает избежать проблемы с ненадежностью данных, когда истории, основанные на действиях студента, могут генерировать вопросы к учителю на ненадежных данных. Результаты показывают, что ReOPD сохраняет или улучшает точность дистилляции при значительном увеличении скорости и снижении затрат на взаимодействие с окружающей средой."
-                },
-                "en": {
-                    "title": "Efficient Learning through Replayed-Prefix Distillation",
-                    "desc": "This paper explores on-policy distillation (OPD) for tasks where a large language model (LLM) agent interacts with an environment over multiple turns. The authors introduce Replayed-Prefix On-Policy Distillation (ReOPD), which allows a student model to learn from pre-collected teacher trajectories instead of requiring new interactions, making the process more efficient. They identify a challenge called the prefix trap, where improving the student's relevance can lead to unreliable teacher queries. ReOPD mitigates this issue by using a sampling strategy that prioritizes early interactions, resulting in faster and more reliable training without the need for additional environment calls."
                 }
             }
         },
@@ -949,11 +949,66 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21557",
+            "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+            "url": "https://huggingface.co/papers/2607.21557",
+            "abstract": "Abstract  Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open infrastructure, whose SFT/RL stacks cannot natively express stateful, multi-process harness inference. To address this, we present OpenForgeRL, an open-source framework for training harness-based agents end-to-end in diverse environments. OpenForgeRL achieves this with a lightweight proxy that serves the harness's model calls while recording them as training data for a standard RL codebase (e.g., veRL), and a Kubernetes orchestrator that runs each rollout in its own remote container, together enabling training on any harness in any environment at scale. By decoupling training and inference, OpenForgeRL allows researchers to easily train, study, and improve agents directly in the real harnesses and environments they are deployed with. We validate our framework across diverse, complex harnesses and environments, spanning tool/claw-based agents and multimodal GUI browser- and computer-use agents. Using only hundreds to a few thousand tasks, OpenForgeClaw reaches 31.7 pass^3 and 55.9 pass@3 on ClawEval and 33.7 on QwenClawBench. OpenForgeGUI reaches 37.7 on OSWorld-Verified, 63.0 on Online-Mind2Web, and 72.3 on WebVoyager. Both outperform open baselines of similar size on nearly all benchmarks, and in the GUI setting match or surpass models several times larger. Beyond benchmarks, we analyze how harness choice (e.g., ZeroClaw, OpenClaw, Codex) and RL shape agent behavior. We find that some harnesses are substantially harder to learn than others, and that RL improves agentic reliability, such as self-verification, tool coverage, and completing multi-step plans, though critical abilities such as error recovery remain weak.",
+            "score": 5,
+            "issue_id": 2899,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "0cac807882c7f4be",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Xiao Yu",
+                "Baolin Peng",
+                "Ruize Xu",
+                "Hao Zou",
+                "Qianhui Wu",
+                "Hao Cheng",
+                "Wenlin Yao",
+                "Nikhil Singh",
+                "Zhou Yu",
+                "Jianfeng Gao"
+            ],
+            "affiliations": [
+                "Columbia University",
+                "Dartmouth College",
+                "Microsoft Research"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21557.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#reasoning",
+                    "#agents",
+                    "#agent_memory",
+                    "#rl",
+                    "#tool_use",
+                    "#open_source"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новая эра обучения агентов с OpenForgeRL",
+                    "desc": "В данной статье представлен OpenForgeRL — открытая платформа для обучения агентов, использующих сложные инференс-структуры. Это решение позволяет тренировать агентов в разнообразных средах, эффективно обрабатывая вызовы моделей и собирая данные для обучения в стандартной кодовой базе RL. OpenForgeRL отделяет обучение от инференса, что упрощает процесс тренировки и улучшения агентов в реальных условиях. В результате проведенных экспериментов демонстрируется высокая эффективность агентов, обученных с использованием данной платформы."
+                },
+                "en": {
+                    "title": "Empowering AI Agents with OpenForgeRL for Scalable Training",
+                    "desc": "This paper introduces OpenForgeRL, an open-source framework designed to train AI agents that use complex inference harnesses in various environments. It addresses the challenges of training these agents end-to-end by decoupling training from inference, allowing for easier experimentation and improvement. The framework utilizes a lightweight proxy to record model calls as training data and employs Kubernetes to manage remote rollouts. The results show that OpenForgeRL outperforms existing baselines in multiple benchmarks, highlighting the impact of harness choice and reinforcement learning on agent performance."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.19238",
             "title": "FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents",
             "url": "https://huggingface.co/papers/2607.19238",
             "abstract": "Abstract  Agentic Reasoning has become a transformative force in financial analysis due to its ability to integrate large-scale information and generate reliable and accurate content. However, when handling complex real-world problems, different agents still show significant performance variation. In this work, we design Finance-LaTeX SKILL, a skill for synthesizing financial documents with complex layouts based on expert knowledge. Using an agent workflow built on this skill, we generate 2,000 professional financial documents along with 6,000 high-quality question-answer pairs. To evaluate the overall capability of agents, we introduce FinanceComplexQA, a comprehensive open-ended generation benchmark for financial documents that closely resembles real-world scenarios. It contains 2,026 deep research tasks targeting 1009 financial documents. FinanceComplexQA has 8 key features: bilingual support; coverage of six mainstream scenarios and seven tasks; expert-level document reasoning questions; deep research of complex layouts; relatively stable and permanent reference answers; and precise evaluation through an Agent-as-a-Judge with multiple evaluation metrics. Using FinanceComplexQA, we conduct a comprehensive evaluation of leading RAG systems and agentic reasoning tools for financial document QA. Through identifying and analyzing failure cases, we provide an in-depth study of their capabilities in numerical computation, multi-hop reasoning, content summarization, and industry analysis.",
-            "score": 4,
+            "score": 5,
             "issue_id": 2895,
             "pub_date": "2026-07-21",
             "pub_date_card": {
@@ -1127,9 +1182,9 @@
     "categories": {
         "#dataset": 8,
         "#data": 4,
-        "#benchmark": 10,
-        "#agents": 10,
-        "#rl": 4,
+        "#benchmark": 11,
+        "#agents": 11,
+        "#rl": 5,
         "#rlhf": 2,
         "#rag": 1,
         "#plp": 0,
@@ -1146,7 +1201,7 @@
         "#agi": 0,
         "#games": 7,
         "#interpretability": 0,
-        "#reasoning": 6,
+        "#reasoning": 7,
         "#transfer_learning": 3,
         "#graphs": 2,
         "#ethics": 0,
@@ -1161,7 +1216,7 @@
         "#synthetic": 3,
         "#machine_translation": 0,
         "#leakage": 0,
-        "#open_source": 2,
+        "#open_source": 3,
         "#small_models": 0,
         "#science": 1,
         "#low_resource": 0,
@@ -1176,7 +1231,7 @@
         "#retrieval_eval": 0,
         "#prompt_caching": 0,
         "#session_memory": 1,
-        "#tool_use": 1,
-        "#agent_memory": 6
+        "#tool_use": 2,
+        "#agent_memory": 7
     }
 }
