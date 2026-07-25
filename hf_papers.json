@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-25 10:26",
+    "time_utc": "2026-07-25 13:22",
     "weekday": 4,
-    "issue_id": 2902,
+    "issue_id": 2903,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 122,
+            "score": 124,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -79,11 +79,65 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2605.09635",
+            "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+            "url": "https://huggingface.co/papers/2605.09635",
+            "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
+            "score": 52,
+            "issue_id": 2893,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "68da3c174380cbd8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Hao Liang",
+                "Qihan Lin",
+                "Zhaoyang Han",
+                "Xiaochen Ma",
+                "Zhen Hao Wong",
+                "Meiyi Qiang",
+                "Linzhuang Sun",
+                "Wentao Zhang"
+            ],
+            "affiliations": [
+                "Institute for Advanced Algorithms Research",
+                "OriginHub Technology",
+                "Peking University",
+                "Zhongguancun Academy"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2605.09635.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#knowledge_graphs",
+                    "#graphs",
+                    "#training",
+                    "#dataset",
+                    "#multimodal",
+                    "#science"
+                ],
+                "emoji": "📚",
+                "ru": {
+                    "title": "Инновации в образовании с помощью графов знаний",
+                    "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Авторы вводят концепцию 'куррикулумной когниции', которая включает цепочки предпосылок, таксономии понятий и визуальное выявление. Представлен граф знаний K12-KGraph, созданный на основе учебников из официального издательства, и разработан многозадачный тест K12-Bench. Эксперименты показывают, что специализированное обучение может улучшать результаты моделей в задаче понимания учебных материалов."
+                },
+                "en": {
+                    "title": "Enhancing Curriculum Cognition with K12-KGraph",
+                    "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20061",
             "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
             "url": "https://huggingface.co/papers/2607.20061",
             "abstract": "Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with explicit image-space detections. To address this, we introduce ReferTrack, a referring-then-tracking paradigm that grounds EVT using a single forward-facing camera. Our model first selects the target from an indexed set of bounding boxes, then decodes tracking waypoints conditioned on this image-grounded decision. To preserve target motion cues over time, ReferTrack maintains a sliding-window queue of previously selected bounding boxes, injecting their geometric features into the visual history via temporal-viewpoint-bbox indicator (TVBI) tokens. We further enhance target identification by co-training on a custom Refer-QA dataset. On EVT-Bench, ReferTrack achieves state-of-the-art single-view performance with success rates of 89.4%, 73.3%, and 74.1% on the single-target, distracted, and ambiguity tracking splits, respectively -- matching or even surpassing several multi-camera baselines on identification-heavy tasks. Finally, real-world deployments on legged and humanoid robots validate its robust sim-to-real transfer capabilities. Code is available at https://github.com/MedlarTea/referTrack.",
-            "score": 47,
+            "score": 48,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -132,60 +186,6 @@
                 "en": {
                     "title": "Grounding Visual Tracking with ReferTrack",
                     "desc": "This paper presents ReferTrack, a novel approach for embodied visual tracking (EVT) that allows a mobile agent to follow a target described in natural language using only its onboard camera. Unlike previous methods that struggle with abstract spatial reasoning, ReferTrack first identifies the target from a set of bounding boxes and then plans the tracking path based on this decision. It incorporates a sliding-window mechanism to retain important motion cues over time, enhancing the tracking process. The model demonstrates superior performance on the EVT-Bench dataset and shows effective real-world application on robots, achieving high success rates in various tracking scenarios."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2605.09635",
-            "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
-            "url": "https://huggingface.co/papers/2605.09635",
-            "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
-            "score": 43,
-            "issue_id": 2893,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "68da3c174380cbd8",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Hao Liang",
-                "Qihan Lin",
-                "Zhaoyang Han",
-                "Xiaochen Ma",
-                "Zhen Hao Wong",
-                "Meiyi Qiang",
-                "Linzhuang Sun",
-                "Wentao Zhang"
-            ],
-            "affiliations": [
-                "Institute for Advanced Algorithms Research",
-                "OriginHub Technology",
-                "Peking University",
-                "Zhongguancun Academy"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2605.09635.jpg",
-            "data": {
-                "categories": [
-                    "#benchmark",
-                    "#knowledge_graphs",
-                    "#graphs",
-                    "#training",
-                    "#dataset",
-                    "#multimodal",
-                    "#science"
-                ],
-                "emoji": "📚",
-                "ru": {
-                    "title": "Инновации в образовании с помощью графов знаний",
-                    "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Авторы вводят концепцию 'куррикулумной когниции', которая включает цепочки предпосылок, таксономии понятий и визуальное выявление. Представлен граф знаний K12-KGraph, созданный на основе учебников из официального издательства, и разработан многозадачный тест K12-Bench. Эксперименты показывают, что специализированное обучение может улучшать результаты моделей в задаче понимания учебных материалов."
-                },
-                "en": {
-                    "title": "Enhancing Curriculum Cognition with K12-KGraph",
-                    "desc": "This paper introduces K12-KGraph, a knowledge graph designed to enhance curriculum cognition in K-12 education by structuring knowledge from textbooks. It includes various node and relation types that represent curriculum elements and their visual connections. The authors also present K12-Bench, a benchmark with 23,640 questions across five task families to evaluate language models' understanding of curriculum knowledge. Training experiments demonstrate that domain-specific supervision improves performance, highlighting the effectiveness of combining textual and visual data for better learning outcomes."
                 }
             }
         },
