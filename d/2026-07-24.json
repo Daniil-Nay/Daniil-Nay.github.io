@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-25 16:04",
+    "time_utc": "2026-07-25 19:05",
     "weekday": 4,
-    "issue_id": 2904,
+    "issue_id": 2905,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 124,
+            "score": 125,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -83,7 +83,7 @@
             "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
             "url": "https://huggingface.co/papers/2605.09635",
             "abstract": "Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, concept taxonomies, experiment-concept links, pedagogical sequencing, and visual grounding. We introduce K12-KGraph, a curriculum-aligned knowledge graph extracted from official People's Education Press textbooks in mathematics, physics, chemistry, and biology across primary, middle, and high school. It contains nine node types and fourteen relation types covering curriculum structure and visual grounding. From this graph, we derive K12-Bench, a 23,640-question multi-select benchmark with five task families: Ground, Prereq, Neighbor, Evidence, and Locate. We also build K12-Train, a graph-guided supervised fine-tuning corpus of 7,335 samples, including 2,267 text-only QA pairs and 5,068 multimodal VQA pairs. On K12-Bench, Gemini-3-Flash achieves only 57 percent exact match and Gemma-4-31B-IT reaches 46 percent, with Prereq and Neighbor being the hardest tasks. Our training experiments show that domain-specific supervision can reduce this gap. Under a matched 2,300-sample budget, K12-Train-Text consistently outperforms equally sized subsets of eight mainstream instruction-tuning corpora on GaokaoBench and EduEval. For vision-language models, K12-Train-Full achieves the best overall results on Gaokao-MM, MDK12-medium, and K12Vista among all compared training configurations, despite using fewer samples than the full DataFlow and WizardLM baselines. It also surpasses both text-only and multimodal-only variants, showing that textual and visual supervision are complementary. We release the graph, benchmark, training data, and complete construction pipeline.",
-            "score": 54,
+            "score": 55,
             "issue_id": 2893,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -137,7 +137,7 @@
             "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
             "url": "https://huggingface.co/papers/2607.20061",
             "abstract": "Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with explicit image-space detections. To address this, we introduce ReferTrack, a referring-then-tracking paradigm that grounds EVT using a single forward-facing camera. Our model first selects the target from an indexed set of bounding boxes, then decodes tracking waypoints conditioned on this image-grounded decision. To preserve target motion cues over time, ReferTrack maintains a sliding-window queue of previously selected bounding boxes, injecting their geometric features into the visual history via temporal-viewpoint-bbox indicator (TVBI) tokens. We further enhance target identification by co-training on a custom Refer-QA dataset. On EVT-Bench, ReferTrack achieves state-of-the-art single-view performance with success rates of 89.4%, 73.3%, and 74.1% on the single-target, distracted, and ambiguity tracking splits, respectively -- matching or even surpassing several multi-camera baselines on identification-heavy tasks. Finally, real-world deployments on legged and humanoid robots validate its robust sim-to-real transfer capabilities. Code is available at https://github.com/MedlarTea/referTrack.",
-            "score": 48,
+            "score": 49,
             "issue_id": 2892,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -287,6 +287,62 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.20709",
+            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
+            "url": "https://huggingface.co/papers/2607.20709",
+            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
+            "score": 21,
+            "issue_id": 2891,
+            "pub_date": "2026-07-22",
+            "pub_date_card": {
+                "ru": "22 июля",
+                "en": "July 22",
+                "zh": "7月22日"
+            },
+            "hash": "b081f4f495216e8e",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Paul Furgale",
+                "Severin Klingler",
+                "James Nolan",
+                "Matt Staats",
+                "Gaia Di Lorenzo",
+                "Elisa Martinez Abad",
+                "Christian Schüller",
+                "Razvan Dinu",
+                "Alessio Devoto",
+                "Pascal Berard",
+                "Gal Kaplun",
+                "Elad Sarafian",
+                "Riccardo Roveri",
+                "Leon Derczynski",
+                "Ricardo Silveira Cabral"
+            ],
+            "affiliations": [
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#architecture",
+                    "#reasoning",
+                    "#agents",
+                    "#agent_memory"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Новый подход к созданию ИИ-агентов на Python",
+                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
+                },
+                "en": {
+                    "title": "Simplifying AI Agent Development with Python Objects",
+                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20911",
             "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
             "url": "https://huggingface.co/papers/2607.20911",
@@ -365,62 +421,6 @@
                 "en": {
                     "title": "Revolutionizing Coding Agent Evaluation with Real-World Tasks",
                     "desc": "The paper presents Tencent WorkBuddy Bench, a comprehensive evaluation suite designed for coding agents across multiple domains. It features a unique framework that creates tasks based on real-world coding scenarios, ensuring that prompts cannot be easily traced back to their original sources. The dataset is openly available, promoting reproducibility and transparency in evaluating coding agents. Each domain within the suite employs distinct scoring methods, allowing for a detailed assessment of agent performance without providing a unified score across all tasks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.20709",
-            "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
-            "url": "https://huggingface.co/papers/2607.20709",
-            "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
-            "score": 19,
-            "issue_id": 2891,
-            "pub_date": "2026-07-22",
-            "pub_date_card": {
-                "ru": "22 июля",
-                "en": "July 22",
-                "zh": "7月22日"
-            },
-            "hash": "b081f4f495216e8e",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Paul Furgale",
-                "Severin Klingler",
-                "James Nolan",
-                "Matt Staats",
-                "Gaia Di Lorenzo",
-                "Elisa Martinez Abad",
-                "Christian Schüller",
-                "Razvan Dinu",
-                "Alessio Devoto",
-                "Pascal Berard",
-                "Gal Kaplun",
-                "Elad Sarafian",
-                "Riccardo Roveri",
-                "Leon Derczynski",
-                "Ricardo Silveira Cabral"
-            ],
-            "affiliations": [
-                "NVIDIA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.20709.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#architecture",
-                    "#reasoning",
-                    "#agents",
-                    "#agent_memory"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Новый подход к созданию ИИ-агентов на Python",
-                    "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймворк позволяет рассматривать агента как объект Python, что упрощает его создание и управление. Основные возможности агента, такие как состояние, действия и подсказки, реализованы через простой интерфейс Python, что делает его удобным для разработчиков. Кроме того, статья описывает шесть основных идей, которые NOOA успешно объединяет в одном решении."
-                },
-                "en": {
-                    "title": "Simplifying AI Agent Development with Python Objects",
-                    "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
                 }
             }
         },
@@ -1119,7 +1119,7 @@
             "title": "Dataset Distillation by Influence Matching",
             "url": "https://huggingface.co/papers/2607.16859",
             "abstract": "Abstract  We revisit dataset distillation from an outcome-centric perspective. Rather than aligning process surrogates (per-step gradients or training trajectories), Influence Matching (Inf-Match) aligns the final outcome of training: it learns a compact synthetic set whose effect on the converged parameters matches that of the full dataset. Concretely, we introduce a fully differentiable, sample-level influence estimator that quantifies parameter shifts from adding or removing data, without time-consuming inverse-Hessian products or convexity assumptions. The estimator runs in linear time by unrolling the optimization dynamics and applying a first-order Taylor approximation. We then learn the synthetic set by minimizing the mismatch between its influence and that of the real dataset, yielding outcome alignment rather than heuristic process imitation. Inf-Match delivers the best accuracy across standard classification benchmarks. For instance, on Tiny-ImageNet (IPC=10), Inf-Match attains 31.5\\%, a +4.7\\% improvement over NCFM. Beyond classification, Inf-Match scales to vision-language distillation on Flickr30K, outperforming strong process-matching baselines. For instance, with 200 to 1000 synthetic samples, our method achieved a leading impressive average on image/text retrieval tasks, higher than NCFM by 2.5\\%. The code will be released via https://github.com/hrtan/infmatch.",
-            "score": 0,
+            "score": 1,
             "issue_id": 2896,
             "pub_date": "2026-07-18",
             "pub_date_card": {
