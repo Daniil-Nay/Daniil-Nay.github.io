@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-26 13:18",
+    "time_utc": "2026-07-26 16:01",
     "weekday": 4,
-    "issue_id": 2910,
+    "issue_id": 2911,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 130,
+            "score": 131,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -194,7 +194,7 @@
             "title": "Visual Contrastive Self-Distillation",
             "url": "https://huggingface.co/papers/2607.21556",
             "abstract": "Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from 62.27% rightarrow 67.04% at 2B, 71.30% rightarrow 73.16% at 4B, and 72.51% rightarrow 76.26% at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
-            "score": 42,
+            "score": 43,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -287,11 +287,65 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21553",
+            "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+            "url": "https://huggingface.co/papers/2607.21553",
+            "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
+            "score": 26,
+            "issue_id": 2895,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "4549cf48753c3c80",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Junsong Chen",
+                "Jincheng Yu",
+                "Yitong Li",
+                "Shuchen Xue",
+                "Haozhe Liu",
+                "Jingyu Xin",
+                "Yuyang Zhao",
+                "Tian Ye",
+                "Zhangjie Wu",
+                "Zian Wang",
+                "Daquan Zhou",
+                "Ping Luo",
+                "Song Han",
+                "Enze Xie"
+            ],
+            "affiliations": [
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21553.jpg",
+            "data": {
+                "categories": [
+                    "#architecture",
+                    "#optimization",
+                    "#diffusion",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Эффективная генерация видео с SANA-Video 2.0",
+                    "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует высококачественное видео разрешением до 720p на одном GPU и сопоставима по качеству с полным софтмаксом, сохраняя при этом преимущества линейного внимания для длинных последовательностей. Гибридное линейно-головное внимание комбинирует линейное смешивание с периодическими анкерами, что восстанавливает полные взаимодействия токенов. Оптимизация всего стека ускоряет эту архитектуру, что делает SANA-Video 2.0 более эффективной и быстрым вариантом для масштабируемой генерации видео."
+                },
+                "en": {
+                    "title": "Efficient High-Quality Video Generation with SANA-Video 2.0",
+                    "desc": "SANA-Video 2.0 is a new video generation model that combines the strengths of diffusion transformers with efficient attention mechanisms. It can produce high-quality videos at 720p resolution using a single GPU while maintaining fast processing speeds. The model employs Hybrid Linear-Softmax Attention to optimize how it processes long video sequences, allowing for better performance without the computational cost of traditional methods. By integrating Block Attention Residuals, it enhances the representation of video data, achieving impressive results in both quality and efficiency."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20709",
             "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents",
             "url": "https://huggingface.co/papers/2607.20709",
             "abstract": "Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. Its methods are the actions the model can take, fields are its state, docstrings are its prompts, and its type annotations are contracts. A method whose code body consists of \"...\" is completed at runtime by an LLM-driven agent loop, while methods with normal bodies remain standard deterministic Python. This gives developers and agents the same interface, so agent behavior can be tested, traced, refactored, and improved just like other software.   This paper makes three contributions. (1) We present the agent-as-a-Python-object programming model and the design principles behind it. Where Python has existing abstractions, we adopt them directly. Agent-specific capabilities--context, events, state rendering, long-term memory, and validated LLM loops--are exposed through simple Pythonic APIs, so both developers and agents share one familiar programming model. (2) We identify six model-facing ideas that NOOA is, to our knowledge, the first to combine on a single surface: typed input/output, pass-by-reference over live objects, code as action, programmable loop engineering, explicit object state, and model-callable harness APIs for context and events. We find the community already converging on several of these ideas--often as experimental or partial features--and present the comparison to encourage further adoption. (3) We demonstrate that current models use this interface effectively, both in targeted capability tests and on agentic and reasoning benchmarks such as SWE-bench Verified and Terminal-Bench 2.0 and ARC-AGI-3.",
-            "score": 24,
+            "score": 25,
             "issue_id": 2891,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -339,60 +393,6 @@
                 "en": {
                     "title": "Simplifying AI Agent Development with Python Objects",
                     "desc": "The paper introduces NVIDIA Object-Oriented Agents (NOOA), a framework that simplifies the development of AI agents by treating them as Python objects. Each agent's actions are defined as methods, its state as fields, and prompts as docstrings, allowing for a unified programming model. This approach enables both developers and agents to interact with the same interface, facilitating testing and improvement of agent behavior. The authors also highlight six innovative concepts that NOOA integrates, demonstrating its effectiveness through various benchmarks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21553",
-            "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-            "url": "https://huggingface.co/papers/2607.21553",
-            "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
-            "score": 23,
-            "issue_id": 2895,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "4549cf48753c3c80",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Junsong Chen",
-                "Jincheng Yu",
-                "Yitong Li",
-                "Shuchen Xue",
-                "Haozhe Liu",
-                "Jingyu Xin",
-                "Yuyang Zhao",
-                "Tian Ye",
-                "Zhangjie Wu",
-                "Zian Wang",
-                "Daquan Zhou",
-                "Ping Luo",
-                "Song Han",
-                "Enze Xie"
-            ],
-            "affiliations": [
-                "NVIDIA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21553.jpg",
-            "data": {
-                "categories": [
-                    "#architecture",
-                    "#optimization",
-                    "#diffusion",
-                    "#training"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Эффективная генерация видео с SANA-Video 2.0",
-                    "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует высококачественное видео разрешением до 720p на одном GPU и сопоставима по качеству с полным софтмаксом, сохраняя при этом преимущества линейного внимания для длинных последовательностей. Гибридное линейно-головное внимание комбинирует линейное смешивание с периодическими анкерами, что восстанавливает полные взаимодействия токенов. Оптимизация всего стека ускоряет эту архитектуру, что делает SANA-Video 2.0 более эффективной и быстрым вариантом для масштабируемой генерации видео."
-                },
-                "en": {
-                    "title": "Efficient High-Quality Video Generation with SANA-Video 2.0",
-                    "desc": "SANA-Video 2.0 is a new video generation model that combines the strengths of diffusion transformers with efficient attention mechanisms. It can produce high-quality videos at 720p resolution using a single GPU while maintaining fast processing speeds. The model employs Hybrid Linear-Softmax Attention to optimize how it processes long video sequences, allowing for better performance without the computational cost of traditional methods. By integrating Block Attention Residuals, it enhances the representation of video data, achieving impressive results in both quality and efficiency."
                 }
             }
         },
@@ -523,6 +523,49 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21576",
+            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
+            "url": "https://huggingface.co/papers/2607.21576",
+            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
+            "score": 18,
+            "issue_id": 2894,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "85c4d9e5638cbb03",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Lukas Knobel",
+                "Andrew Zisserman",
+                "Yuki M. Asano"
+            ],
+            "affiliations": [
+                "Fundamental AI Lab, UTN",
+                "VGG, University of Oxford"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#benchmark",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
+                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
+                },
+                "en": {
+                    "title": "Separating Motion: A New Approach to Video Dynamics",
+                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.12746",
             "title": "Color Pass-Through via Camera-Display Coupling",
             "url": "https://huggingface.co/papers/2607.12746",
@@ -566,49 +609,6 @@
                 "en": {
                     "title": "Bridging the Gap: Enhanced Image Display through Coupled Camera and Display Optimization",
                     "desc": "This paper introduces Color Pass-Through, a novel end-to-end learned framework that improves the way images are displayed on screens after being captured by cameras. Instead of treating the camera and display as separate entities, it couples them to optimize the entire capture-to-display process. This approach reduces information loss and calibration errors, leading to better color reproduction of real-world scenes. The method shows significant improvements in user satisfaction and quantitative metrics compared to traditional methods."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21576",
-            "title": "Self-Supervised Learning of Structured Dynamics from Videos",
-            "url": "https://huggingface.co/papers/2607.21576",
-            "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
-            "score": 17,
-            "issue_id": 2894,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "85c4d9e5638cbb03",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Lukas Knobel",
-                "Andrew Zisserman",
-                "Yuki M. Asano"
-            ],
-            "affiliations": [
-                "Fundamental AI Lab, UTN",
-                "VGG, University of Oxford"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21576.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#benchmark",
-                    "#training"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Структурная динамика видео: новый взгляд на движения объектов",
-                    "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением камеры и движением объектов. В данной работе мы предлагаем Модель Структурной Динамики (SDM), которая отделяет основные источники временных изменений, позволяя лучше понимать динамику объектов и вариацию, вызванную движением камеры. Модель обучается с использованием самообучения на реальных видео и слабого контроля динамики сцен на синтетических данных. Наши результаты показывают, что SDM превосходит базовые модели и может успешно использоваться для анализа латентной динамики видео."
-                },
-                "en": {
-                    "title": "Separating Motion: A New Approach to Video Dynamics",
-                    "desc": "This paper addresses the challenge of understanding motion in videos by separating camera motion from object motion. The authors introduce the Structured Dynamics Model (SDM), which predicts future features to distinguish between these two types of dynamics. By leveraging pretrained image vision transformers, SDM learns robust motion representations with less supervision. The model is evaluated on a new suite called ProbeMotion, showing that it outperforms traditional methods and can effectively analyze video dynamics."
                 }
             }
         },
