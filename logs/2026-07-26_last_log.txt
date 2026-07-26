@@ -1,219 +1,219 @@
-[25.07.2026 21:55] Read previous papers.
-[25.07.2026 21:55] Generating top page (month).
-[25.07.2026 21:55] Writing top page (month).
 [26.07.2026 02:37] Read previous papers.
-[26.07.2026 02:37] Get feed.
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21461
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21461
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2605.09635
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2605.09635
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20061
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20061
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21556
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21556
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21072
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21072
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20709
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20709
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21553
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21553
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20911
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20911
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20734
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20734
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12746
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12746
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21576
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21576
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21594
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21594
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21051
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21051
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20785
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20785
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04763
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04763
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10848
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10848
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21485
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21485
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21017
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21017
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21557
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21557
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19238
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19238
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21580
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21580
-[26.07.2026 02:37] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16859
-[26.07.2026 02:37] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16859
-[26.07.2026 02:37] Updating GitHub stars.
-[26.07.2026 02:37] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[26.07.2026 02:37] No deleted papers detected.
-[26.07.2026 02:37] Downloading and parsing papers (pdf, html). Total: 22.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21461.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21461.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21461.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2605.09635.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2605.09635.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2605.09635.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.20061.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.20061.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.20061.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21556.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21556.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21556.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21072.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21072.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21072.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.20709.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.20709.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.20709.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21553.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21553.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21553.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.20911.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.20911.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.20911.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.20734.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.20734.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.20734.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.12746.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.12746.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.12746.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21576.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21576.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21576.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21594.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21594.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21594.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21051.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21051.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21051.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.20785.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.20785.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.20785.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.04763.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.04763.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.04763.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.10848.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.10848.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.10848.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21485.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21485.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21485.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21017.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21017.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21017.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21557.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21557.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21557.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.19238.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.19238.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.19238.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.21580.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.21580.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.21580.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Downloading and parsing paper https://huggingface.co/papers/2607.16859.
-[26.07.2026 02:37] Extra JSON file exists (./assets/json/2607.16859.json), skip PDF parsing.
-[26.07.2026 02:37] Paper image links file exists (./assets/img_data/2607.16859.json), skip HTML parsing.
-[26.07.2026 02:37] Success.
-[26.07.2026 02:37] Enriching papers with extra data.
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 0. Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent sh...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 1. Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, c...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 2. Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reas...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 3. Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing ...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 4. Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 5. Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. ...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 6. Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 7. Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed cod...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 8. Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 9. Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is ...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 10. Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coup...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 11. Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 12. Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disapp...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 13. Abstract  Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth sensors, multi-camera rigs, or pre-built maps, limiting the hardware they support and increasin...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 14. Abstract  We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histories. Fully online OPD is costly because each update requires fresh student rollouts through...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 15. Abstract  Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio for two criteria: a proximity criterion, which asks whether the policy has moved too far f...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 16. Abstract  We study sinusoidal recurrence as an iterative mechanism for harmonic spectral enrichment in implicit neural representations (INRs). Our analysis reveals that sinusoidal activations induce a harmonic line spectrum, providing a spectral account of how recurrent unrolling enriches the effect...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 17. Abstract  The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to bridge this gap via text-to-layout hallucination or simplified procedural generation, they ...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 18. Abstract  Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open infrastructure, whose SFT/RL ...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 19. Abstract  Agentic Reasoning has become a transformative force in financial analysis due to its ability to integrate large-scale information and generate reliable and accurate content. However, when handling complex real-world problems, different agents still show significant performance variation. I...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 20. Abstract  Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks fo...
-[26.07.2026 02:37] ********************************************************************************
-[26.07.2026 02:37] Abstract 21. Abstract  We revisit dataset distillation from an outcome-centric perspective. Rather than aligning process surrogates (per-step gradients or training trajectories), Influence Matching (Inf-Match) aligns the final outcome of training: it learns a compact synthetic set whose effect on the converged p...
-[26.07.2026 02:37] Read previous papers.
-[26.07.2026 02:37] Generating reviews via LLM API.
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#agent_memory", "#continual_learning", "#agents", "#rl", "#synthetic", "#memory", "#reasoning", "#training", "#tool_use"], "emoji": "🔍", "ru": {"title": "Агент глубоких исследований, который улучшает свои ответы!", "desc": "В статье рассматривается агент глубоких исследований AREX, 
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#benchmark", "#knowledge_graphs", "#graphs", "#training", "#dataset", "#multimodal", "#science"], "emoji": "📚", "ru": {"title": "Инновации в образовании с помощью графов знаний", "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Ав
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#multimodal", "#agent_memory", "#robotics", "#transfer_learning", "#dataset", "#agents", "#benchmark", "#open_source", "#reasoning"], "emoji": "🤖", "ru": {"title": "Эффективное отслеживание целей с помощью ReferTrack", "desc": "Статья представляет модель ReferTrack для отслеживания 
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset"], "emoji": "🖼️", "ru": {"title": "Улучшение самообучения без внешних учителей", "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и 
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#multimodal", "#games", "#agents", "#benchmark", "#reasoning"], "emoji": "🖼️", "ru": {"title": "Новый подход к пространственной оценке в моделях генерации изображений", "desc": "В данной статье рассматривается важность пространственного интеллекта для агентов, которые взаимодействую
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#training", "#architecture", "#reasoning", "#agents", "#agent_memory"], "emoji": "🤖", "ru": {"title": "Новый подход к созданию ИИ-агентов на Python", "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймвор
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#architecture", "#optimization", "#diffusion", "#training"], "emoji": "🎥", "ru": {"title": "Эффективная генерация видео с SANA-Video 2.0", "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует в
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#open_source", "#games", "#benchmark", "#dataset"], "emoji": "💻", "ru": {"title": "Единая оценка кодирующих агентов в четырех областях", "desc": "В статье представлен Tencent WorkBuddy Bench, набор для оценки кодирующих агентов, который охватывает несколько областей. Основная идея з
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#agent_memory", "#session_memory", "#transfer_learning", "#agents", "#benchmark"], "emoji": "💬", "ru": {"title": "LLM: Искусство понимания изменяющихся намерений", "desc": "В этой статье рассматривается, как LLM могут быть использованы в качестве коллаборативных агентов, выполняя за
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#multimodal", "#data", "#training"], "emoji": "🌈", "ru": {"title": "Цвет без искажений: новая система передачи изображения", "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и э
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#dataset", "#benchmark", "#training"], "emoji": "🎥", "ru": {"title": "Структурная динамика видео: новый взгляд на движения объектов", "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением ка
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#games", "#architecture", "#diffusion", "#reasoning", "#agents"], "emoji": "🌍", "ru": {"title": "Моделирование общего состояния мира в многопользовательских моделях", "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирован
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#memorization", "#continual_learning", "#training", "#agents", "#rl", "#games"], "emoji": "🤖", "ru": {"title": "Эффективное обучение агентов без дорогостоящих экспериментов", "desc": "Статья посвящена проблеме обучения агентов в реальных условиях, где взаимодействие с окружением обы
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#optimization", "#games", "#agents", "#rl", "#benchmark", "#training"], "emoji": "🤖", "ru": {"title": "Универсальная навигация для роботов без сложных сенсоров", "desc": "В статье предлагается система навигации Robostral Navigate, основанная на модели обработки изображений и языка, 
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#rlhf", "#optimization", "#agent_memory", "#continual_learning", "#training", "#agents"], "emoji": "🔄", "ru": {"title": "Эффективная дистилляция с использованием предшествующих взаимодействий", "desc": "В данной работе рассматривается дистилляция на основе взаимодействия с агентами 
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#optimization", "#training", "#rlhf", "#rl"], "emoji": "🤖", "ru": {"title": "Улучшение обучения с подкреплением для языковых моделей", "desc": "В данной статье рассматривается метод обучения с подкреплением для больших языковых моделей (LLM), который использует маски доверительных о
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#optimization", "#transfer_learning", "#architecture", "#3d", "#training"], "emoji": "🎶", "ru": {"title": "Синусоидальные рекурсии для улучшения нейронных представлений", "desc": "В данной статье мы исследуем синусоидальные рекурсии как итеративный механизм для обогащения спектра в 
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#robotics", "#synthetic", "#games", "#data", "#dataset"], "emoji": "🤖", "ru": {"title": "Новое слово в манипуляции роботами!", "desc": "В статье представлен новый подход к созданию роботов, которые могут эффективно манипулировать объектами в сложной окружающей среде. Авторы предлага
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#agents", "#agent_memory", "#rl", "#tool_use", "#open_source"], "emoji": "🤖", "ru": {"title": "Новая эра обучения агентов с OpenForgeRL", "desc": "В данной статье представлен OpenForgeRL — открытая платформа для обучения агентов, использующих сложные инфе
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#reasoning", "#agents", "#agent_memory", "#multimodal", "#rag", "#survey", "#benchmark"], "emoji": "📈", "ru": {"title": "Агентивное рассуждение в финансовом анализе", "desc": "В данной статье рассматривается использование агентивного рассуждения в финансовом анализе, которое позволя
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#benchmark", "#graphs", "#games", "#architecture", "#data", "#dataset"], "emoji": "🎥", "ru": {"title": "Управляемая генерация видео с помощью графов", "desc": "Статья посвящена проблеме управляемой генерации видео, которая является сложной задачей. Авторы предлагают новый подход, на
-[26.07.2026 02:37] Using data from previous issue: {"categories": ["#synthetic", "#dataset", "#data", "#optimization", "#benchmark"], "emoji": "📊", "ru": {"title": "Синтетический датасет для достижения лучших результатов", "desc": "В данной статье рассматривается дистилляция датасетов с акцентом на конечный результат обучения. Метод Influence Matchi
-[26.07.2026 02:37] Renaming data file.
-[26.07.2026 02:37] Renaming previous data. hf_papers.json to ./d/2026-07-24.json
-[26.07.2026 02:37] Saving new data file.
-[26.07.2026 02:37] Generating page.
-[26.07.2026 02:37] Renaming previous page.
-[26.07.2026 02:37] Renaming previous data. index.html to ./d/2026-07-24.html
-[26.07.2026 02:37] Writing result.
-[26.07.2026 02:37] Renaming log file.
-[26.07.2026 02:37] Renaming previous data. log.txt to ./logs/2026-07-26_last_log.txt
+[26.07.2026 02:37] Generating top page (month).
+[26.07.2026 02:37] Writing top page (month).
+[26.07.2026 06:03] Read previous papers.
+[26.07.2026 06:03] Get feed.
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21461
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21461
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2605.09635
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2605.09635
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20061
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20061
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21556
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21556
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21072
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21072
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20709
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20709
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21553
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21553
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20911
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20911
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20734
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20734
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12746
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12746
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21576
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21576
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21594
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21594
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21051
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21051
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20785
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20785
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.04763
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.04763
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.10848
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.10848
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21485
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21485
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21017
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21017
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21557
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21557
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19238
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19238
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21580
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21580
+[26.07.2026 06:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16859
+[26.07.2026 06:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16859
+[26.07.2026 06:03] Updating GitHub stars.
+[26.07.2026 06:03] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[26.07.2026 06:03] No deleted papers detected.
+[26.07.2026 06:03] Downloading and parsing papers (pdf, html). Total: 22.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21461.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21461.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21461.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2605.09635.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2605.09635.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2605.09635.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.20061.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.20061.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.20061.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21556.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21556.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21556.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21072.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21072.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21072.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.20709.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.20709.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.20709.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21553.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21553.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21553.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.20911.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.20911.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.20911.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.20734.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.20734.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.20734.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.12746.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.12746.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.12746.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21576.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21576.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21576.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21594.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21594.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21594.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21051.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21051.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21051.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.20785.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.20785.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.20785.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.04763.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.04763.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.04763.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.10848.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.10848.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.10848.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21485.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21485.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21485.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21017.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21017.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21017.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21557.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21557.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21557.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.19238.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.19238.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.19238.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.21580.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.21580.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.21580.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Downloading and parsing paper https://huggingface.co/papers/2607.16859.
+[26.07.2026 06:03] Extra JSON file exists (./assets/json/2607.16859.json), skip PDF parsing.
+[26.07.2026 06:03] Paper image links file exists (./assets/img_data/2607.16859.json), skip HTML parsing.
+[26.07.2026 06:03] Success.
+[26.07.2026 06:03] Enriching papers with extra data.
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 0. Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent sh...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 1. Abstract  Large language models are increasingly used in K-12 education, but existing benchmarks mainly test exam question answering rather than understanding how curriculum knowledge is structured and visually presented. We call this capability curriculum cognition. It covers prerequisite chains, c...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 2. Abstract  Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reas...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 3. Abstract  On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing ...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 4. Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 5. Abstract  Traditional agent development is split across prompt templates, tool schemas, callback code, and workflow graphs. We present NVIDIA Object-Oriented Agents (NOOA), a model-agnostic Python framework for building reliable AI agents. NOOA takes a simpler approach: an agent is a Python object. ...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 6. Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 7. Abstract  We introduce Tencent WorkBuddy Bench, a multi-domain evaluation suite for coding agents; this report documents its construction methodology, scoring protocol, and a cross-model leaderboard. At its core is a unified evaluation framework for constructing and running distribution-informed cod...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 8. Abstract  As LLMs become more capable, they are increasingly deployed as collaborative agents, taking on user-delegated tasks through iterative interaction. Yet genuine interaction is inherently dynamic: users rarely specify their intent upfront, instead disclosing, revising, and reshaping it as the...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 9. Abstract  When a real-world scene is captured by a smartphone camera and viewed on its screen, the displayed image often differs noticeably from the original scene in color, brightness, and contrast. This gap persists despite substantial advances in both modern cameras and displays. A key reason is ...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 10. Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coup...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 11. Abstract  Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 12. Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disapp...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 13. Abstract  Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth sensors, multi-camera rigs, or pre-built maps, limiting the hardware they support and increasin...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 14. Abstract  We study on-policy distillation (OPD) for agentic tasks, where an LLM agent interacts with an environment over multiple turns and a student imitates a teacher over these multi-turn interaction histories. Fully online OPD is costly because each update requires fresh student rollouts through...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 15. Abstract  Reinforcement learning for large language models (LLMs) typically relies on trust-region masks to stabilize off-policy updates. The dominant PPO-style approach uses the sampled-token importance ratio for two criteria: a proximity criterion, which asks whether the policy has moved too far f...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 16. Abstract  We study sinusoidal recurrence as an iterative mechanism for harmonic spectral enrichment in implicit neural representations (INRs). Our analysis reveals that sinusoidal activations induce a harmonic line spectrum, providing a spectral account of how recurrent unrolling enriches the effect...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 17. Abstract  The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to bridge this gap via text-to-layout hallucination or simplified procedural generation, they ...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 18. Abstract  Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to train end-to-end with open infrastructure, whose SFT/RL ...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 19. Abstract  Agentic Reasoning has become a transformative force in financial analysis due to its ability to integrate large-scale information and generate reliable and accurate content. However, when handling complex real-world problems, different agents still show significant performance variation. I...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 20. Abstract  Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks fo...
+[26.07.2026 06:03] ********************************************************************************
+[26.07.2026 06:03] Abstract 21. Abstract  We revisit dataset distillation from an outcome-centric perspective. Rather than aligning process surrogates (per-step gradients or training trajectories), Influence Matching (Inf-Match) aligns the final outcome of training: it learns a compact synthetic set whose effect on the converged p...
+[26.07.2026 06:03] Read previous papers.
+[26.07.2026 06:03] Generating reviews via LLM API.
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#agent_memory", "#continual_learning", "#agents", "#rl", "#synthetic", "#memory", "#reasoning", "#training", "#tool_use"], "emoji": "🔍", "ru": {"title": "Агент глубоких исследований, который улучшает свои ответы!", "desc": "В статье рассматривается агент глубоких исследований AREX, 
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#benchmark", "#knowledge_graphs", "#graphs", "#training", "#dataset", "#multimodal", "#science"], "emoji": "📚", "ru": {"title": "Инновации в образовании с помощью графов знаний", "desc": "В данной статье исследуется использование больших языковых моделей (LLM) в образовании K-12. Ав
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#multimodal", "#agent_memory", "#robotics", "#transfer_learning", "#dataset", "#agents", "#benchmark", "#open_source", "#reasoning"], "emoji": "🤖", "ru": {"title": "Эффективное отслеживание целей с помощью ReferTrack", "desc": "Статья представляет модель ReferTrack для отслеживания 
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#optimization", "#training", "#dataset"], "emoji": "🖼️", "ru": {"title": "Улучшение самообучения без внешних учителей", "desc": "Статья посвящена методу on-policy self-distillation (OPSD), который не требует внешнего учителя, но нуждается в асимметричной информации между учителем и 
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#multimodal", "#games", "#agents", "#benchmark", "#reasoning"], "emoji": "🖼️", "ru": {"title": "Новый подход к пространственной оценке в моделях генерации изображений", "desc": "В данной статье рассматривается важность пространственного интеллекта для агентов, которые взаимодействую
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#training", "#architecture", "#reasoning", "#agents", "#agent_memory"], "emoji": "🤖", "ru": {"title": "Новый подход к созданию ИИ-агентов на Python", "desc": "В данной статье представлен фреймворк NVIDIA Object-Oriented Agents (NOOA) для разработки надежных ИИ-агентов. Этот фреймвор
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#architecture", "#optimization", "#diffusion", "#training"], "emoji": "🎥", "ru": {"title": "Эффективная генерация видео с SANA-Video 2.0", "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует в
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#open_source", "#games", "#benchmark", "#dataset"], "emoji": "💻", "ru": {"title": "Единая оценка кодирующих агентов в четырех областях", "desc": "В статье представлен Tencent WorkBuddy Bench, набор для оценки кодирующих агентов, который охватывает несколько областей. Основная идея з
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#agent_memory", "#session_memory", "#transfer_learning", "#agents", "#benchmark"], "emoji": "💬", "ru": {"title": "LLM: Искусство понимания изменяющихся намерений", "desc": "В этой статье рассматривается, как LLM могут быть использованы в качестве коллаборативных агентов, выполняя за
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#multimodal", "#data", "#training"], "emoji": "🌈", "ru": {"title": "Цвет без искажений: новая система передачи изображения", "desc": "В данной работе предложен метод Color Pass-Through, который улучшает передачу цвета с использованием смартфонов. Этот подход рассматривает камеру и э
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#dataset", "#benchmark", "#training"], "emoji": "🎥", "ru": {"title": "Структурная динамика видео: новый взгляд на движения объектов", "desc": "Понимание движения в видео представляет собой важную задачу для визуального обучения, так как изменения между кадрами связаны с движением ка
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#games", "#architecture", "#diffusion", "#reasoning", "#agents"], "emoji": "🌍", "ru": {"title": "Моделирование общего состояния мира в многопользовательских моделях", "desc": "В данной статье представлена модель WorldWeaver (W^2) для многопользовательского интерактивного моделирован
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#memorization", "#continual_learning", "#training", "#agents", "#rl", "#games"], "emoji": "🤖", "ru": {"title": "Эффективное обучение агентов без дорогостоящих экспериментов", "desc": "Статья посвящена проблеме обучения агентов в реальных условиях, где взаимодействие с окружением обы
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#optimization", "#games", "#agents", "#rl", "#benchmark", "#training"], "emoji": "🤖", "ru": {"title": "Универсальная навигация для роботов без сложных сенсоров", "desc": "В статье предлагается система навигации Robostral Navigate, основанная на модели обработки изображений и языка, 
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#rlhf", "#optimization", "#agent_memory", "#continual_learning", "#training", "#agents"], "emoji": "🔄", "ru": {"title": "Эффективная дистилляция с использованием предшествующих взаимодействий", "desc": "В данной работе рассматривается дистилляция на основе взаимодействия с агентами 
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#optimization", "#training", "#rlhf", "#rl"], "emoji": "🤖", "ru": {"title": "Улучшение обучения с подкреплением для языковых моделей", "desc": "В данной статье рассматривается метод обучения с подкреплением для больших языковых моделей (LLM), который использует маски доверительных о
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#optimization", "#transfer_learning", "#architecture", "#3d", "#training"], "emoji": "🎶", "ru": {"title": "Синусоидальные рекурсии для улучшения нейронных представлений", "desc": "В данной статье мы исследуем синусоидальные рекурсии как итеративный механизм для обогащения спектра в 
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#robotics", "#synthetic", "#games", "#data", "#dataset"], "emoji": "🤖", "ru": {"title": "Новое слово в манипуляции роботами!", "desc": "В статье представлен новый подход к созданию роботов, которые могут эффективно манипулировать объектами в сложной окружающей среде. Авторы предлага
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#benchmark", "#reasoning", "#agents", "#agent_memory", "#rl", "#tool_use", "#open_source"], "emoji": "🤖", "ru": {"title": "Новая эра обучения агентов с OpenForgeRL", "desc": "В данной статье представлен OpenForgeRL — открытая платформа для обучения агентов, использующих сложные инфе
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#reasoning", "#agents", "#agent_memory", "#multimodal", "#rag", "#survey", "#benchmark"], "emoji": "📈", "ru": {"title": "Агентивное рассуждение в финансовом анализе", "desc": "В данной статье рассматривается использование агентивного рассуждения в финансовом анализе, которое позволя
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#benchmark", "#graphs", "#games", "#architecture", "#data", "#dataset"], "emoji": "🎥", "ru": {"title": "Управляемая генерация видео с помощью графов", "desc": "Статья посвящена проблеме управляемой генерации видео, которая является сложной задачей. Авторы предлагают новый подход, на
+[26.07.2026 06:03] Using data from previous issue: {"categories": ["#synthetic", "#dataset", "#data", "#optimization", "#benchmark"], "emoji": "📊", "ru": {"title": "Синтетический датасет для достижения лучших результатов", "desc": "В данной статье рассматривается дистилляция датасетов с акцентом на конечный результат обучения. Метод Influence Matchi
+[26.07.2026 06:03] Renaming data file.
+[26.07.2026 06:03] Renaming previous data. hf_papers.json to ./d/2026-07-24.json
+[26.07.2026 06:03] Saving new data file.
+[26.07.2026 06:03] Generating page.
+[26.07.2026 06:03] Renaming previous page.
+[26.07.2026 06:03] Renaming previous data. index.html to ./d/2026-07-24.html
+[26.07.2026 06:03] Writing result.
+[26.07.2026 06:03] Renaming log file.
+[26.07.2026 06:03] Renaming previous data. log.txt to ./logs/2026-07-26_last_log.txt

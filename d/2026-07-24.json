@@ -4,9 +4,9 @@
         "en": "July 24",
         "zh": "7月24日"
     },
-    "time_utc": "2026-07-25 21:55",
+    "time_utc": "2026-07-26 02:37",
     "weekday": 4,
-    "issue_id": 2906,
+    "issue_id": 2907,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
             "url": "https://huggingface.co/papers/2607.21461",
             "abstract": "Abstract  Deep research requires agents to find answers that jointly satisfy multiple constraints. Discovering such answers is costly, whereas verifying a candidate can often be decomposed into tractable constraint-wise checks. This discovery--verification asymmetry suggests that a research agent should do more than simply search longer: it should recursively improve its current answer by verifying intermediate results and using the partially verified state to guide subsequent refinement. We introduce AREX, a family of Recursively Self-Improving (RSI) deep research agents. AREX alternates between an inner research loop that gathers evidence and constructs a provisional answer, and an outer self-improvement loop that audits the answer constraint-wise, identifies unresolved claims, and launches targeted follow-up research. To sustain RSI over long horizons, AREX learns an autonomous context-update tool that compresses growing interaction history into a compact improvement state preserving verified evidence and unresolved constraints, without relying on an external model. We train AREX on verified synthetic tasks and high-quality trajectories through agentic mid-training and long-horizon reinforcement learning. To mitigate sparse final rewards during long horizon learning, we emphasize key steps where decisive evidence is acquired or erroneous research directions are corrected. We instantiate a dense 4B model and a 122B-A10B Mixture-of-Experts model. Across BrowseComp, WideSearch, DeepSearchQA, Humanity's Last Exam (HLE), and other reasoning and tool-use benchmarks, AREX substantially outperforms comparable-scale baselines and remains competitive with models using substantially more activated parameters.",
-            "score": 127,
+            "score": 128,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -243,7 +243,7 @@
             "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
             "url": "https://huggingface.co/papers/2607.21072",
             "abstract": "Abstract  Spatial intelligence is essential for agents to move from static semantic understanding toward interacting with the physical world. Many spatial tasks are grounded in continuous visual scenes, where locations, regions, and paths are more naturally expressed by pointing, marking, or drawing than by reporting precise coordinates or discrete textual symbols. Yet existing spatial reasoning benchmarks usually require coordinates, options, or text, creating an answer-interface mismatch for image-generation models. This makes it difficult to evaluate image-generation models under the same task semantics as text-output VLMs, despite their ability to externalize spatial judgments directly in pixel space. We propose ProVisE (Protocolized Visual Evaluation), a benchmark-agnostic framework that elicits protocol-constrained visual answers from image-generation models and parses them into structured predictions compatible with original metrics. ProVisE also includes an Agentic builder that constructs and validates task-specific protocols for new benchmarks. We further introduce SpatialGen-Bench, a curated diagnostic benchmark of 470 samples across 14 spatial subtasks, four capability levels, and diverse answer forms. We evaluate representative text-output VLMs and image-generation models in a unified setting and validate Agentic protocol construction on six external spatial benchmarks. Results show that image-generation models are competitive when spatial answers can be externalized directly in pixel space, while text-output VLMs retain a clear advantage in compositional spatial reasoning. These findings reveal complementary strengths of pixel-space expression and text-based reasoning and establish a metric-compatible testbed for studying spatial cognition in image-generation models.",
-            "score": 34,
+            "score": 35,
             "issue_id": 2892,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -343,6 +343,60 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.21553",
+            "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+            "url": "https://huggingface.co/papers/2607.21553",
+            "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
+            "score": 21,
+            "issue_id": 2895,
+            "pub_date": "2026-07-23",
+            "pub_date_card": {
+                "ru": "23 июля",
+                "en": "July 23",
+                "zh": "7月23日"
+            },
+            "hash": "4549cf48753c3c80",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Junsong Chen",
+                "Jincheng Yu",
+                "Yitong Li",
+                "Shuchen Xue",
+                "Haozhe Liu",
+                "Jingyu Xin",
+                "Yuyang Zhao",
+                "Tian Ye",
+                "Zhangjie Wu",
+                "Zian Wang",
+                "Daquan Zhou",
+                "Ping Luo",
+                "Song Han",
+                "Enze Xie"
+            ],
+            "affiliations": [
+                "NVIDIA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21553.jpg",
+            "data": {
+                "categories": [
+                    "#architecture",
+                    "#optimization",
+                    "#diffusion",
+                    "#training"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Эффективная генерация видео с SANA-Video 2.0",
+                    "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует высококачественное видео разрешением до 720p на одном GPU и сопоставима по качеству с полным софтмаксом, сохраняя при этом преимущества линейного внимания для длинных последовательностей. Гибридное линейно-головное внимание комбинирует линейное смешивание с периодическими анкерами, что восстанавливает полные взаимодействия токенов. Оптимизация всего стека ускоряет эту архитектуру, что делает SANA-Video 2.0 более эффективной и быстрым вариантом для масштабируемой генерации видео."
+                },
+                "en": {
+                    "title": "Efficient High-Quality Video Generation with SANA-Video 2.0",
+                    "desc": "SANA-Video 2.0 is a new video generation model that combines the strengths of diffusion transformers with efficient attention mechanisms. It can produce high-quality videos at 720p resolution using a single GPU while maintaining fast processing speeds. The model employs Hybrid Linear-Softmax Attention to optimize how it processes long video sequences, allowing for better performance without the computational cost of traditional methods. By integrating Block Attention Residuals, it enhances the representation of video data, achieving impressive results in both quality and efficiency."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.20911",
             "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
             "url": "https://huggingface.co/papers/2607.20911",
@@ -421,60 +475,6 @@
                 "en": {
                     "title": "Revolutionizing Coding Agent Evaluation with Real-World Tasks",
                     "desc": "The paper presents Tencent WorkBuddy Bench, a comprehensive evaluation suite designed for coding agents across multiple domains. It features a unique framework that creates tasks based on real-world coding scenarios, ensuring that prompts cannot be easily traced back to their original sources. The dataset is openly available, promoting reproducibility and transparency in evaluating coding agents. Each domain within the suite employs distinct scoring methods, allowing for a detailed assessment of agent performance without providing a unified score across all tasks."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.21553",
-            "title": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-            "url": "https://huggingface.co/papers/2607.21553",
-            "abstract": "Abstract  We introduce SANA-Video 2.0, a hybrid video diffusion transformer instantiated at 5B and 14B scales under a unified architecture. Designed to generate high-quality video up to 720p on a single GPU, SANA-Video 2.0 matches full-softmax video DiTs in quality while retaining the favorable long-sequence scaling of linear attention. To avoid quadratic attention throughout, Hybrid Linear-Softmax Attention combines gated linear attention for O(N)-dominated mixing with periodic gated-softmax anchors at a 3:1 ratio, restoring the full-rank token interactions that pure linear attention lacks. To propagate these refreshed representations across depth, Block Attention Residuals (AttnRes) route completed block summaries into later linear layers, enabling anchor-feature reuse and boosting deep-layer effective rank by ~12%. Through from-scratch training, SANA-Video 2.0 learns the complete hybrid directly rather than linearizing pretrained models, with reduced-resolution proxy studies establishing 25% softmax as the optimal quality-efficiency trade-off. With 40-step sampling, SANA-Video 2.0 achieves a VBench score of 84.30 in 13.2s at 480p on a single H100, remaining competitive with far larger softmax video DiTs at a fraction of the latency. Its compiled DiT forward pass is 3.2x faster than a matched full-softmax baseline at 720p/60s, a gap that expands with video duration. Furthermore, full-stack Sol-Engine optimization (kernel fusion, caching, and sparse attention) accelerates this hardware-friendly backbone by a further 3.58x, bringing the 5B pipeline to 13.06s at 720p/5s and making it 120x faster than Wan 2.2-A14B on one H100. Overall, our hybrid design recovers softmax-level expressiveness at substantially reduced cost, unlocking scalable long, high resolution video generation.",
-            "score": 19,
-            "issue_id": 2895,
-            "pub_date": "2026-07-23",
-            "pub_date_card": {
-                "ru": "23 июля",
-                "en": "July 23",
-                "zh": "7月23日"
-            },
-            "hash": "4549cf48753c3c80",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Junsong Chen",
-                "Jincheng Yu",
-                "Yitong Li",
-                "Shuchen Xue",
-                "Haozhe Liu",
-                "Jingyu Xin",
-                "Yuyang Zhao",
-                "Tian Ye",
-                "Zhangjie Wu",
-                "Zian Wang",
-                "Daquan Zhou",
-                "Ping Luo",
-                "Song Han",
-                "Enze Xie"
-            ],
-            "affiliations": [
-                "NVIDIA"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.21553.jpg",
-            "data": {
-                "categories": [
-                    "#architecture",
-                    "#optimization",
-                    "#diffusion",
-                    "#training"
-                ],
-                "emoji": "🎥",
-                "ru": {
-                    "title": "Эффективная генерация видео с SANA-Video 2.0",
-                    "desc": "Мы представляем SANA-Video 2.0, гибридный видеодифузионный трансформер, который работает на масштабах 5B и 14B. Эта модель генерирует высококачественное видео разрешением до 720p на одном GPU и сопоставима по качеству с полным софтмаксом, сохраняя при этом преимущества линейного внимания для длинных последовательностей. Гибридное линейно-головное внимание комбинирует линейное смешивание с периодическими анкерами, что восстанавливает полные взаимодействия токенов. Оптимизация всего стека ускоряет эту архитектуру, что делает SANA-Video 2.0 более эффективной и быстрым вариантом для масштабируемой генерации видео."
-                },
-                "en": {
-                    "title": "Efficient High-Quality Video Generation with SANA-Video 2.0",
-                    "desc": "SANA-Video 2.0 is a new video generation model that combines the strengths of diffusion transformers with efficient attention mechanisms. It can produce high-quality videos at 720p resolution using a single GPU while maintaining fast processing speeds. The model employs Hybrid Linear-Softmax Attention to optimize how it processes long video sequences, allowing for better performance without the computational cost of traditional methods. By integrating Block Attention Residuals, it enhances the representation of video data, achieving impressive results in both quality and efficiency."
                 }
             }
         },
@@ -574,7 +574,7 @@
             "title": "Self-Supervised Learning of Structured Dynamics from Videos",
             "url": "https://huggingface.co/papers/2607.21576",
             "abstract": "Abstract  Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remained underexplored in representation learning, partly because these factors are tightly coupled in natural videos and difficult to supervise separately. Yet recovering it is important for learning robust motion representations that separate meaningful object dynamics from camera-induced variation. We study whether such structured motion representations can be recovered from frozen features of a pretrained image vision transformer. We propose the Structured Dynamics Model (SDM), which explicitly separates the dominant source of temporal change from residual dynamics through future-feature prediction, rather than representing video change with a single entangled latent or with unstructured, spatially dense transition tokens. Training combines self-supervised learning on real video with weak supervision of scene dynamics on synthetic Kubric data. We evaluate SDM on ProbeMotion, a new evaluation suite spanning synthetic and real videos with camera motion, object motion, and combined dynamics. SDM outperforms backbone baselines using global CLS or average-pooled features, and compares favorably to strongly supervised representations such as VGGT on several probes, despite using substantially weaker supervision. These results suggest that pretrained image models can be readily repurposed into structured video-dynamics representations, providing a useful inductive bias for learning and analyzing latent video dynamics.",
-            "score": 16,
+            "score": 17,
             "issue_id": 2894,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -664,7 +664,7 @@
             "title": "Sample-Efficient Learning from Agent Experience",
             "url": "https://huggingface.co/papers/2607.21051",
             "abstract": "Abstract  Real-world agent learning is often constrained by costly environment interactions, such as running time-consuming experiments or obtaining human feedback. In-context learning offers a highly sample-efficient way for agents to learn from their own interaction histories, but its gains disappear once that experience is removed from the context. Separately, context distillation provides a mechanism for internalizing contextual information into model weights. However, applying it to agents' interaction histories without sacrificing environment sample efficiency remains underexplored. We term this problem Experience Distillation and develop an implementation that requires no further environment interaction beyond the collected experience. Experiments on 749 curated software-engineering tasks and six text-adventure games show that it retains at least 64.8\\% of the gains from in-context learning across both domains, whereas direct supervised fine-tuning on the collected experience recovers only 3.8\\%. Compared with classical reinforcement-learning baselines, in-context learning from trial-and-error experience followed by Experience Distillation matches their performance with at least \\(9.6\\times\\) fewer environment samples.",
-            "score": 9,
+            "score": 10,
             "issue_id": 2893,
             "pub_date": "2026-07-23",
             "pub_date_card": {
