@@ -1,159 +1,174 @@
-[27.07.2026 12:23] Read previous papers.
-[27.07.2026 12:23] Generating top page (month).
-[27.07.2026 12:23] Writing top page (month).
 [27.07.2026 16:57] Read previous papers.
-[27.07.2026 16:57] Get feed.
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20465
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20465
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22529
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22529
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21653
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21653
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21503
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21503
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22043
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22043
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18198
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18198
-[27.07.2026 16:57] Extract page data from URL. URL: https://huggingface.co/papers/2607.18142
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22042
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22042
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22375
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22375
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21848
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21848
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14277
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14277
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22091
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22091
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22393
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22393
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19636
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19636
-[27.07.2026 16:57] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12756
-[27.07.2026 16:57] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12756
-[27.07.2026 16:57] Updating GitHub stars.
-[27.07.2026 16:57] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[27.07.2026 16:57] No deleted papers detected.
-[27.07.2026 16:57] Downloading and parsing papers (pdf, html). Total: 15.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.20465.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.20465.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.20465.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.22529.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.22529.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.22529.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.21653.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.21653.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.21653.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.21503.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.21503.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.21503.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.22043.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.22043.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.22043.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.18198.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.18198.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.18198.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.18142.
-[27.07.2026 16:57] Downloading paper 2607.18142 from https://arxiv.org/pdf/2607.18142v1...
-[27.07.2026 16:57] Extracting affiliations from text.
-[27.07.2026 16:57] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[27.07.2026 16:57] Generating top page (month).
+[27.07.2026 16:57] Writing top page (month).
+[27.07.2026 19:26] Read previous papers.
+[27.07.2026 19:26] Get feed.
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.20465
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.20465
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22529
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22529
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21653
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21653
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21503
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21503
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22043
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22043
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18198
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18198
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22042
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22042
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.18142
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.18142
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.14277
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.14277
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22375
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22375
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22393
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22393
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21848
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21848
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22091
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22091
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12756
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12756
+[27.07.2026 19:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.19636
+[27.07.2026 19:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.19636
+[27.07.2026 19:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.18314
+[27.07.2026 19:26] Updating GitHub stars.
+[27.07.2026 19:26] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[27.07.2026 19:26] No deleted papers detected.
+[27.07.2026 19:26] Downloading and parsing papers (pdf, html). Total: 16.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.20465.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.20465.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.20465.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.22529.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.22529.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.22529.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.21653.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.21653.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.21653.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.21503.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.21503.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.21503.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.22043.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.22043.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.22043.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.18198.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.18198.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.18198.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.22042.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.22042.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.22042.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.18142.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.18142.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.18142.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.14277.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.14277.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.14277.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.22375.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.22375.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.22375.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.22393.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.22393.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.22393.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.21848.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.21848.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.21848.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.22091.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.22091.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.22091.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.12756.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.12756.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.12756.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.19636.
+[27.07.2026 19:26] Extra JSON file exists (./assets/json/2607.19636.json), skip PDF parsing.
+[27.07.2026 19:26] Paper image links file exists (./assets/img_data/2607.19636.json), skip HTML parsing.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Downloading and parsing paper https://huggingface.co/papers/2607.18314.
+[27.07.2026 19:26] Downloading paper 2607.18314 from https://arxiv.org/pdf/2607.18314v1...
+[27.07.2026 19:26] Extracting affiliations from text.
+[27.07.2026 19:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning Mei Yuan1, Qi Long1, Qifeng Wu1, Zhenyang Li2, Yizhou Zhao1, Lei Wang3, Yang Liu1, and Min Xu Fig. 1: Why object state evolution matters for industrial anomaly detection. The toothpaste tube undergoes pressing and deformation before subtle leakage emerges. Traditional methods predict binary classifications. VLM prompting fails to detect it due to the lack of evidence. O-VAD tracks object-wise state changes and produces an open-ended anomaly report with in-depth analysis. Abstract. Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. However, their performance declines in industrial settings characterized by intricate object transformations, strict physics, and procedural constraints. To tackle the complexity of such interactionintensive detection, we introduce training-free agentic framework OVAD for anomaly detection free of domain-specific knowledge, emphasizing object state evolution like humans inspectors. It is designed to Corresponding author. 2 M. Yuan et al. track spatial-temporal dynamics and underlying transformations of detected objects over time, and then reason over the object-wise temporal state trajectories to identify abnormal objects in grounded frames. Our method overcomes limitations of prior approaches that rely on retraining on normal clips or injecting domain knowledge as context for test-time inference. Extensive experiments on three IVAD datasets demonstrate that our method outperforms frontier VLMs, agentic frameworks, and traditional VAD methods fine-tuned on the respective datasets, while providing interpretable reports over anomaly processes and types. Keywords: Industrial Anomaly Detection Agentic Reasoning Visio"
-[27.07.2026 16:57] Response: ```python
-["1", "1", "1", "2", "1", "3", "1"]
+Text:"Interactive Training 2: Auditable Control Plane for Live Model Training Wentao Zhang1,* Xuanhe Pan2,* Han Zhou1,* Yang Lu2, Yuntian Deng1, 1University of Waterloo 2University of Wisconsin-Madison *Equal contribution Equal advising {w564zhan,h46zhou,yuntian}@uwaterloo.ca {xpan73,ylu97}@wisc.edu "
+[27.07.2026 19:26] Response: ```python
+["University of Waterloo", "University of Wisconsin-Madison"]
 ```
-[27.07.2026 16:57] Deleting PDF ./assets/pdf/2607.18142.pdf.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.22042.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.22042.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.22042.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.22375.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.22375.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.22375.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.21848.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.21848.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.21848.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.14277.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.14277.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.14277.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.22091.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.22091.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.22091.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.22393.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.22393.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.22393.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.19636.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.19636.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.19636.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Downloading and parsing paper https://huggingface.co/papers/2607.12756.
-[27.07.2026 16:57] Extra JSON file exists (./assets/json/2607.12756.json), skip PDF parsing.
-[27.07.2026 16:57] Paper image links file exists (./assets/img_data/2607.12756.json), skip HTML parsing.
-[27.07.2026 16:57] Success.
-[27.07.2026 16:57] Enriching papers with extra data.
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 0. Abstract  The quality of training data fundamentally determines the capabilities of large language models (LLMs), yet no unified benchmark exists to measure how well LLMs, agents, and data-centric workflows actually prepare training data end to end. We view LLM-driven data preparation as comprising ...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 1. Abstract  LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification reliability: environment-bound methods obtain precise feedback but confine learnin...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 2. Abstract  Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of trainer, distributed backend, and rollout glue: the cost lands on the researcher at every...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 3. Abstract  Production AI agents' failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts, large tool definitions, and ballooning tool outputs. Agents drown in their own accumulating ...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 4. Abstract  Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal pre-training avoids this limitation by training models from scratch on multimodal inputs, t...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 5. Abstract  Modern generative models typically rely on an adversarial critic, a prescribed noise-to-data path, or an autoregressive factorization. Instead, we show that a proper distributional energy can induce sample-level motion and provide direct regression supervision for a one-step generator. Thr...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 6. Abstract  Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general dom...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 7. Abstract  In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains unclear whether existing multilingual rerankers consider document language when ordering ...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 8. Abstract  Large Language Models (LLMs) have significantly automated the process of scientific discovery over the past few years. However, existing systems share one core limitation: they generate and optimize ideas independently for either Quality or Diversity. This often leads to the generation of ...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 9. Abstract  Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and immersive content creation. These applications require long-horizon auto-regressive generation...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 10. Abstract  Large language models are increasingly deployed as agents, but reliable agentic behavior requires more than next-token prediction. At inference time, it is preferred that an agent can decide whether to proceed with its current reasoning, defer to a stronger model, request additional inform...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 11. Abstract  Diffusion models typically suffer from error accumulation during iterative sampling, commonly referred to as exposure bias. We reveal systematic frequency-dependent discrepancies between training and inference, which can be interpreted as frequency-dependent SNR error. Crucially, the direc...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 12. Abstract  Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent action on complete multi-object 3D scenes under evaluated. We present SceneActBench, a ben...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 13. Abstract  Most automatic speaker verification (ASV) systems operate on individual utterances, despite real-world interactions typically consisting of multiple utterances. As speech accumulates, increasingly rich speaker information becomes available through acoustic, prosodic, and linguistic cues, p...
-[27.07.2026 16:57] ********************************************************************************
-[27.07.2026 16:57] Abstract 14. Abstract  Vision-language models (VLMs) process large numbers of visual tokens, resulting in substantial inference latency and memory overhead. This has motivated extensive research on visual token compression. While training-free strategies rely on heuristic metrics and suffer significant performan...
-[27.07.2026 16:57] Read previous papers.
-[27.07.2026 16:57] Generating reviews via LLM API.
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#data_preparation", "#dataset", "#benchmarking", "#data", "#benchmark"], "emoji": "📊", "ru": {"title": "Единое тестирование для подготовки данных в LLM", "desc": "Качество обучающих данных является ключевым фактором для больших языковых моделей (LLMs). В данной статье представлено н
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#agent_memory", "#training", "#agents", "#tool_use", "#rl", "#continual_learning", "#reasoning"], "emoji": "🧠", "ru": {"title": "Новая эволюция LLM через взаимодействие и навыки", "desc": "В данной статье обсуждается новый подход к обучению LLM, который основан на самоэволюции через
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#open_source", "#rl", "#training", "#optimization"], "emoji": "🔧", "ru": {"title": "Molt: Упрощение обучения агентных моделей", "desc": "Статья посвящена разработке новой обучающей системы под названием Molt, написанной на PyTorch. Эта система упрощает процесс обучения агентных моде
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#session_memory", "#compression", "#optimization", "#agent_memory", "#retrieval_eval", "#long_context"], "emoji": "🧠", "ru": {"title": "Управление контекстом для AI-агентов", "desc": "В данной статье рассматриваются проблемы, с которыми сталкиваются производственные AI-агенты в упра
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#training", "#multimodal", "#transfer_learning", "#optimization", "#reasoning"], "emoji": "🧠", "ru": {"title": "Оптимизация мультимодального предобучения для глубокого понимания", "desc": "В этой статье исследуется предобучение мультимодальных моделей на основе трансформеров, что по
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#optimization", "#architecture", "#dataset", "#diffusion", "#training"], "emoji": "⚛️", "ru": {"title": "Энергия для генерации: новый подход!", "desc": "Современные генеративные модели обычно основываются на противостоящем критике или задаче преобразования шума в данные. В данной ра
-[27.07.2026 16:57] Querying the API.
-[27.07.2026 16:57] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[27.07.2026 19:26] Deleting PDF ./assets/pdf/2607.18314.pdf.
+[27.07.2026 19:26] Success.
+[27.07.2026 19:26] Enriching papers with extra data.
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 0. Abstract  The quality of training data fundamentally determines the capabilities of large language models (LLMs), yet no unified benchmark exists to measure how well LLMs, agents, and data-centric workflows actually prepare training data end to end. We view LLM-driven data preparation as comprising ...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 1. Abstract  LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification reliability: environment-bound methods obtain precise feedback but confine learnin...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 2. Abstract  Agentic reinforcement learning research is constant algorithm modification, new estimators, new pipeline stages, new rollout schemes, and in mainstream frameworks each change threads through layers of trainer, distributed backend, and rollout glue: the cost lands on the researcher at every...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 3. Abstract  Production AI agents' failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts, large tool definitions, and ballooning tool outputs. Agents drown in their own accumulating ...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 4. Abstract  Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal pre-training avoids this limitation by training models from scratch on multimodal inputs, t...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 5. Abstract  Modern generative models typically rely on an adversarial critic, a prescribed noise-to-data path, or an autoregressive factorization. Instead, we show that a proper distributional energy can induce sample-level motion and provide direct regression supervision for a one-step generator. Thr...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 6. Abstract  In multilingual retrieval augmented generation, a retriever can retrieve relevant documents written in multiple languages, which are subsequently reranked before answer generation. However, it remains unclear whether existing multilingual rerankers consider document language when ordering ...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 7. Abstract  Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general dom...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 8. Abstract  Large language models are increasingly deployed as agents, but reliable agentic behavior requires more than next-token prediction. At inference time, it is preferred that an agent can decide whether to proceed with its current reasoning, defer to a stronger model, request additional inform...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 9. Abstract  Large Language Models (LLMs) have significantly automated the process of scientific discovery over the past few years. However, existing systems share one core limitation: they generate and optimize ideas independently for either Quality or Diversity. This often leads to the generation of ...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 10. Abstract  Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent action on complete multi-object 3D scenes under evaluated. We present SceneActBench, a ben...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 11. Abstract  Recent conditional video generation models have shown promising potentials to transform 3D engine renderings, such as depth maps and untextured geometry, into photorealistic videos for gaming and immersive content creation. These applications require long-horizon auto-regressive generation...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 12. Abstract  Diffusion models typically suffer from error accumulation during iterative sampling, commonly referred to as exposure bias. We reveal systematic frequency-dependent discrepancies between training and inference, which can be interpreted as frequency-dependent SNR error. Crucially, the direc...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 13. Abstract  Vision-language models (VLMs) process large numbers of visual tokens, resulting in substantial inference latency and memory overhead. This has motivated extensive research on visual token compression. While training-free strategies rely on heuristic metrics and suffer significant performan...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 14. Abstract  Most automatic speaker verification (ASV) systems operate on individual utterances, despite real-world interactions typically consisting of multiple utterances. As speech accumulates, increasingly rich speaker information becomes available through acoustic, prosodic, and linguistic cues, p...
+[27.07.2026 19:26] ********************************************************************************
+[27.07.2026 19:26] Abstract 15. Abstract  Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific code. We present Interactive Training 2, an open-source control plane for steering training through a shared protocol. Training applications declare which settings and acti...
+[27.07.2026 19:26] Read previous papers.
+[27.07.2026 19:26] Generating reviews via LLM API.
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#data_preparation", "#dataset", "#benchmarking", "#data", "#benchmark"], "emoji": "📊", "ru": {"title": "Единое тестирование для подготовки данных в LLM", "desc": "Качество обучающих данных является ключевым фактором для больших языковых моделей (LLMs). В данной статье представлено н
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#agent_memory", "#training", "#agents", "#tool_use", "#rl", "#continual_learning", "#reasoning"], "emoji": "🧠", "ru": {"title": "Новая эволюция LLM через взаимодействие и навыки", "desc": "В данной статье обсуждается новый подход к обучению LLM, который основан на самоэволюции через
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#open_source", "#rl", "#training", "#optimization"], "emoji": "🔧", "ru": {"title": "Molt: Упрощение обучения агентных моделей", "desc": "Статья посвящена разработке новой обучающей системы под названием Molt, написанной на PyTorch. Эта система упрощает процесс обучения агентных моде
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#session_memory", "#compression", "#optimization", "#agent_memory", "#retrieval_eval", "#long_context"], "emoji": "🧠", "ru": {"title": "Управление контекстом для AI-агентов", "desc": "В данной статье рассматриваются проблемы, с которыми сталкиваются производственные AI-агенты в упра
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#training", "#multimodal", "#transfer_learning", "#optimization", "#reasoning"], "emoji": "🧠", "ru": {"title": "Оптимизация мультимодального предобучения для глубокого понимания", "desc": "В этой статье исследуется предобучение мультимодальных моделей на основе трансформеров, что по
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#optimization", "#architecture", "#dataset", "#diffusion", "#training"], "emoji": "⚛️", "ru": {"title": "Энергия для генерации: новый подход!", "desc": "Современные генеративные модели обычно основываются на противостоящем критике или задаче преобразования шума в данные. В данной ра
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#retrieval_eval", "#rag", "#alignment", "#multilingual", "#retrieval", "#machine_translation"], "emoji": "🌍", "ru": {"title": "Языковая согласованность для мультиязычной переработки", "desc": "В данной статье рассматривается метод мультиязычной переработки информации с использование
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#rl", "#training", "#agents", "#reasoning", "#interpretability"], "emoji": "🔍", "ru": {"title": "Обнаружение аномалий в промышленном видео без переобучения", "desc": "В статье рассматривается задача обнаружения аномалий в промышленном видео (IVAD), которая необходима для контроля ка
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#inference"], "emoji": "🤖", "ru": {"title": "Управление решениями для больших языковых моделей", "desc": "В данной статье рассматривается, как управлять поведением больших языковых моделей (LLM) в качестве агентов. Авторы предлагают инновацио
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#training", "#science", "#open_source", "#agents", "#optimization"], "emoji": "💡", "ru": {"title": "Новый подход к генерации идей: качество и разнообразие вместе", "desc": "Статья посвящена разработке нового подхода к генерации идей в научных исследованиях с использованием LLM. Авто
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#agent_memory", "#games", "#agents", "#3d", "#benchmark"], "emoji": "🖼️", "ru": {"title": "Новый стандарт оценки действий агентов в 3D-мире", "desc": "В данной статье представлен новый бенчмарк SceneActBench для оценки действий агентов на 3D-сценах, который учитывает выполнение множ
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#games", "#memory", "#long_context", "#3d", "#retrieval"], "emoji": "🎮", "ru": {"title": "Устранение несоответствий в генерации видео", "desc": "В данной статье рассматриваются новые модели генерации видео, которые могут превращать 3D рендеры в фотореалистичные видео для игр. Пробле
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#diffusion", "#training", "#architecture", "#optimization"], "emoji": "📈", "ru": {"title": "Устранение накопления ошибок в диффузионных моделях", "desc": "В данной работе мы исследуем проблему накопления ошибок в диффузионных моделях, известную как экспозиционный байас. Мы выявили с
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#inference", "#compression", "#memory", "#optimization"], "emoji": "📉", "ru": {"title": "Эффективное сжатие визуальных токенов с VisCo", "desc": "Статья посвящена улучшению эффективности обработки визуальных токенов в моделях визуально-языкового понимания (VLM). Предложен новый подх
+[27.07.2026 19:26] Using data from previous issue: {"categories": ["#multimodal", "#audio"], "emoji": "🔊", "ru": {"title": "Улучшение верификации говорителей через многомодальные данные", "desc": "В данной работе рассматривается проблема автоматической верификации говорителей (ASV) в условиях многократных высказываний, что более соответствует реальн
+[27.07.2026 19:26] Querying the API.
+[27.07.2026 19:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. However, their performance declines in industrial settings characterized by intricate object transformations, strict physics, and procedural constraints. To tackle the complexity of such interaction-intensive detection, we introduce a training-free agentic framework for anomaly detection free of domain-specific knowledge, emphasizing object state evolution like humans inspectors. It is designed to track spatial-temporal dynamics and underlying transformations of detected objects over time, and then reason over the object-wise temporal state trajectories to identify abnormal objects in grounded frames. Our method overcomes limitations of prior approaches that rely on retraining on normal clips or injecting domain knowledge as context for test-time inference. Extensive experiments on three IVAD datasets demonstrate that our method outperforms frontier VLMs, agentic frameworks, and traditional VAD methods fine-tuned on the respective datasets, while providing interpretable reports over anomaly processes and types.
-[27.07.2026 16:57] Response: ```json
-{
-  "desc": "В статье рассматривается задача обнаружения аномалий в промышленном видео (IVAD), которая необходима для контроля качества в современных производственных процессах. Авторы предлагают новую архитектуру, способную выявлять аномалии без необходимости в специфических знаниях для каждой области, что делает её более универсальной. Метод фокусируется на изменении состояния объектов и их пространственно-временной динамике, что помогает лучше обнаруживать аномальные события. Эксперименты показывают, что предложенное решение превосходит существующие подходы, предлагая при этом интерпретируемые отчёты о процессах и типах аномалий.",
-  "emoji": "🔍",
-  "title": "Обнаружение аномалий в промышленном видео без переобучения"
+Abstract  Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific code. We present Interactive Training 2, an open-source control plane for steering training through a shared protocol. Training applications declare which settings and actions they expose, humans and automated controllers submit requests through the same interface, and the training loop validates and applies them at safe control points. A customized Aim workspace combines live metrics and controls with a chronological record of requests and outcomes. We demonstrate the system across five NLP and reinforcement-learning workflows. The released code and traces provide a reusable foundation for auditable human- and agent-guided training.
+[27.07.2026 19:26] Response: {
+  "desc": "В статье представлена система Interactive Training 2, которая упрощает управление процессом обучения моделей машинного обучения. Она позволяет пользователям и автоматическим контроллерам взаимодействовать с параметрами обучения через единый интерфейс. Система также включает в себя специализированное рабочее пространство Aim, которое обеспечивает визуализацию данных и действий в реальном времени. Мы демонстрируем работу системы на различных задачах в области обработки естественного языка и обучения с подкреплением.",
+  "emoji": "🛠️",
+  "title": "Интерактивное управление обучением моделей!"
 }
-```
-[27.07.2026 16:57] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[27.07.2026 19:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -197,12 +212,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. However, their performance declines in industrial settings characterized by intricate object transformations, strict physics, and procedural constraints. To tackle the complexity of such interaction-intensive detection, we introduce a training-free agentic framework for anomaly detection free of domain-specific knowledge, emphasizing object state evolution like humans inspectors. It is designed to track spatial-temporal dynamics and underlying transformations of detected objects over time, and then reason over the object-wise temporal state trajectories to identify abnormal objects in grounded frames. Our method overcomes limitations of prior approaches that rely on retraining on normal clips or injecting domain knowledge as context for test-time inference. Extensive experiments on three IVAD datasets demonstrate that our method outperforms frontier VLMs, agentic frameworks, and traditional VAD methods fine-tuned on the respective datasets, while providing interpretable reports over anomaly processes and types."
+"Abstract  Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific code. We present Interactive Training 2, an open-source control plane for steering training through a shared protocol. Training applications declare which settings and actions they expose, humans and automated controllers submit requests through the same interface, and the training loop validates and applies them at safe control points. A customized Aim workspace combines live metrics and controls with a chronological record of requests and outcomes. We demonstrate the system across five NLP and reinforcement-learning workflows. The released code and traces provide a reusable foundation for auditable human- and agent-guided training."
 
-[27.07.2026 16:57] Response: ```python
-['AGENTS', 'RL', 'TRAINING']
+[27.07.2026 19:26] Response: ```python
+['OPEN_SOURCE', 'TRAINING', 'RL']
 ```
-[27.07.2026 16:57] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[27.07.2026 19:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -245,34 +260,26 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. However, their performance declines in industrial settings characterized by intricate object transformations, strict physics, and procedural constraints. To tackle the complexity of such interaction-intensive detection, we introduce a training-free agentic framework for anomaly detection free of domain-specific knowledge, emphasizing object state evolution like humans inspectors. It is designed to track spatial-temporal dynamics and underlying transformations of detected objects over time, and then reason over the object-wise temporal state trajectories to identify abnormal objects in grounded frames. Our method overcomes limitations of prior approaches that rely on retraining on normal clips or injecting domain knowledge as context for test-time inference. Extensive experiments on three IVAD datasets demonstrate that our method outperforms frontier VLMs, agentic frameworks, and traditional VAD methods fine-tuned on the respective datasets, while providing interpretable reports over anomaly processes and types."
+"Abstract  Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific code. We present Interactive Training 2, an open-source control plane for steering training through a shared protocol. Training applications declare which settings and actions they expose, humans and automated controllers submit requests through the same interface, and the training loop validates and applies them at safe control points. A customized Aim workspace combines live metrics and controls with a chronological record of requests and outcomes. We demonstrate the system across five NLP and reinforcement-learning workflows. The released code and traces provide a reusable foundation for auditable human- and agent-guided training."
 
-[27.07.2026 16:57] Response: ```python
-['REASONING', 'INTERPRETABILITY']
+[27.07.2026 19:26] Response: ```python
+['OPEN_SOURCE', 'GAMES']
 ```
-[27.07.2026 16:57] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[27.07.2026 19:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Industrial Video Anomaly Detection (IVAD) aims to identify anomalous objects and events in an industrial process, which is crucial for modern manufacturing and quality control systems. Existing VLM-based anomaly reasoning methods are capable of detecting open-ended anomalies in general domains. However, their performance declines in industrial settings characterized by intricate object transformations, strict physics, and procedural constraints. To tackle the complexity of such interaction-intensive detection, we introduce a training-free agentic framework for anomaly detection free of domain-specific knowledge, emphasizing object state evolution like humans inspectors. It is designed to track spatial-temporal dynamics and underlying transformations of detected objects over time, and then reason over the object-wise temporal state trajectories to identify abnormal objects in grounded frames. Our method overcomes limitations of prior approaches that rely on retraining on normal clips or injecting domain knowledge as context for test-time inference. Extensive experiments on three IVAD datasets demonstrate that our method outperforms frontier VLMs, agentic frameworks, and traditional VAD methods fine-tuned on the respective datasets, while providing interpretable reports over anomaly processes and types.
+Abstract  Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific code. We present Interactive Training 2, an open-source control plane for steering training through a shared protocol. Training applications declare which settings and actions they expose, humans and automated controllers submit requests through the same interface, and the training loop validates and applies them at safe control points. A customized Aim workspace combines live metrics and controls with a chronological record of requests and outcomes. We demonstrate the system across five NLP and reinforcement-learning workflows. The released code and traces provide a reusable foundation for auditable human- and agent-guided training.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[27.07.2026 16:57] Response: {
-  "desc": "This paper presents a novel approach to Industrial Video Anomaly Detection (IVAD) that identifies unusual objects and events in manufacturing processes. Unlike existing methods that require retraining or domain-specific knowledge, our framework operates without such constraints, focusing on how objects change over time. It tracks the spatial and temporal dynamics of objects to detect anomalies based on their state trajectories. Our extensive experiments show that this method significantly outperforms traditional and state-of-the-art approaches while providing clear insights into the nature of detected anomalies.",
-  "title": "Revolutionizing Anomaly Detection in Industrial Videos"
+[27.07.2026 19:26] Response: {
+  "desc": "This paper introduces Interactive Training 2, a new open-source framework that allows users to control machine learning training processes more easily. It enables both humans and automated systems to interact with training settings through a unified protocol. The framework ensures that changes are applied safely during training by validating requests at specific control points. The authors demonstrate its effectiveness across various natural language processing and reinforcement learning tasks, providing a foundation for transparent and auditable training practices.",
+  "title": "Streamlining Control in Machine Learning Training"
 }
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#retrieval_eval", "#rag", "#alignment", "#multilingual", "#retrieval", "#machine_translation"], "emoji": "🌍", "ru": {"title": "Языковая согласованность для мультиязычной переработки", "desc": "В данной статье рассматривается метод мультиязычной переработки информации с использование
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#training", "#science", "#open_source", "#agents", "#optimization"], "emoji": "💡", "ru": {"title": "Новый подход к генерации идей: качество и разнообразие вместе", "desc": "Статья посвящена разработке нового подхода к генерации идей в научных исследованиях с использованием LLM. Авто
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#games", "#memory", "#long_context", "#3d", "#retrieval"], "emoji": "🎮", "ru": {"title": "Устранение несоответствий в генерации видео", "desc": "В данной статье рассматриваются новые модели генерации видео, которые могут превращать 3D рендеры в фотореалистичные видео для игр. Пробле
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#inference"], "emoji": "🤖", "ru": {"title": "Управление решениями для больших языковых моделей", "desc": "В данной статье рассматривается, как управлять поведением больших языковых моделей (LLM) в качестве агентов. Авторы предлагают инновацио
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#diffusion", "#training", "#architecture", "#optimization"], "emoji": "📈", "ru": {"title": "Устранение накопления ошибок в диффузионных моделях", "desc": "В данной работе мы исследуем проблему накопления ошибок в диффузионных моделях, известную как экспозиционный байас. Мы выявили с
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#agent_memory", "#games", "#agents", "#3d", "#benchmark"], "emoji": "🖼️", "ru": {"title": "Новый стандарт оценки действий агентов в 3D-мире", "desc": "В данной статье представлен новый бенчмарк SceneActBench для оценки действий агентов на 3D-сценах, который учитывает выполнение множ
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#multimodal", "#audio"], "emoji": "🔊", "ru": {"title": "Улучшение верификации говорителей через многомодальные данные", "desc": "В данной работе рассматривается проблема автоматической верификации говорителей (ASV) в условиях многократных высказываний, что более соответствует реальн
-[27.07.2026 16:57] Using data from previous issue: {"categories": ["#inference", "#compression", "#memory", "#optimization"], "emoji": "📉", "ru": {"title": "Эффективное сжатие визуальных токенов с VisCo", "desc": "Статья посвящена улучшению эффективности обработки визуальных токенов в моделях визуально-языкового понимания (VLM). Предложен новый подх
-[27.07.2026 16:57] Renaming data file.
-[27.07.2026 16:57] Renaming previous data. hf_papers.json to ./d/2026-07-27.json
-[27.07.2026 16:57] Saving new data file.
-[27.07.2026 16:57] Generating page.
-[27.07.2026 16:57] Renaming previous page.
-[27.07.2026 16:57] Renaming previous data. index.html to ./d/2026-07-27.html
-[27.07.2026 16:57] Writing result.
-[27.07.2026 16:57] Renaming log file.
-[27.07.2026 16:57] Renaming previous data. log.txt to ./logs/2026-07-27_last_log.txt
+[27.07.2026 19:26] Renaming data file.
+[27.07.2026 19:26] Renaming previous data. hf_papers.json to ./d/2026-07-27.json
+[27.07.2026 19:26] Saving new data file.
+[27.07.2026 19:26] Generating page.
+[27.07.2026 19:26] Renaming previous page.
+[27.07.2026 19:26] Renaming previous data. index.html to ./d/2026-07-27.html
+[27.07.2026 19:26] Writing result.
+[27.07.2026 19:26] Renaming log file.
+[27.07.2026 19:26] Renaming previous data. log.txt to ./logs/2026-07-27_last_log.txt
