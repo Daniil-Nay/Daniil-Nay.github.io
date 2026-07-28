@@ -4,9 +4,9 @@
         "en": "July 28",
         "zh": "7月28日"
     },
-    "time_utc": "2026-07-28 16:40",
+    "time_utc": "2026-07-28 19:21",
     "weekday": 1,
-    "issue_id": 2925,
+    "issue_id": 2926,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "Kimi K3: Open Frontier Intelligence",
             "url": "https://huggingface.co/papers/2607.24653",
             "abstract": "Abstract  We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.",
-            "score": 235,
+            "score": 250,
             "issue_id": 2921,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -459,7 +459,7 @@
             "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
             "url": "https://huggingface.co/papers/2607.23588",
             "abstract": "Abstract  Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more than isolated prompt-output interactions. It involves references, drafts, alternatives, edits, failed attempts, version relations, tool actions, evaluation signals, and human feedback, which together form an evolving project state. Existing prompt-based, chat-based, and node-based generation systems only partially support this state, as they often discard intermediate context, rely on linear conversations, or require manually specified workflows. Recent commercial systems indicate a shift toward agent-assisted creative production, but their closed architectures make it difficult to study how agents represent context, choose tools, revise artifacts, recover from failures, and maintain consistency over time. To address this gap, we introduce JarvisHub, a canvas-native creative agent harness for long-horizon multimodal creation. JarvisHub treats an editable canvas as the user workspace, the agent's external memory, action space, and shared project state, representing multimodal artifacts, dependencies, versions, and feedback as typed canvas nodes and links. Through a three-layer architecture of canvas state, protocol bridge, and agent runtime, JarvisHub enables agents to act within an inspectable and editable creative state. This design moves creative agents beyond isolated tool use toward sustained, human-steerable creative automation, where agents can progressively plan, generate, revise, and organize multimodal projects while users remain able to inspect, guide, and intervene throughout the process.",
-            "score": 100,
+            "score": 101,
             "issue_id": 2921,
             "pub_date": "2026-07-26",
             "pub_date_card": {
@@ -525,7 +525,7 @@
             "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
             "url": "https://huggingface.co/papers/2607.24280",
             "abstract": "Abstract  Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervision. Knowledge distillation can supply denser guidance, and advanced proprietary models with their strong reasoning capabilities are promising teachers. While distilling from proprietary models can densify this supervisory signal, conventional logit-matching is precluded by hidden logits and mismatched tokenizers, whereas raw natural language trajectory imitation transfers superficial stylistic artifacts rather than core reasoning competence. To address the heterogeneous distillation problem and bridge the distribution gap, we propose Multi-Agent Protocol Distillation (MAPD), a joint distillation and RL framework uses a structured, style-normalized protocol as an intermediate representation. An offline multi-agent system (MAS) decomposes each query, retrieves supporting evidence, repairs failed searches, and converts the resulting exploration trace into a JSON protocol containing the task type, reasoning plan, and extractive grounding facts. During training, the protocol is provided only to a privileged branch of the student policy, whose token distributions furnish a dense distillation signal alongside the sparse RL objective. Extensive evaluations across seven QA benchmarks demonstrate that MAPD consistently outperforms competitive distillation and RL, achieving average success rates of 39.4\\% on Qwen3-1.7B and 44.4\\% on Qwen3-4B. Crucially, the framework generalizes robustly across diverse proprietary teachers while effectively mitigating the student policy from style drift and verbosity degeneration.",
-            "score": 63,
+            "score": 64,
             "issue_id": 2921,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -585,7 +585,7 @@
             "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
             "url": "https://huggingface.co/papers/2607.24731",
             "abstract": "Abstract  On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods naturally extend velocity matching to the CFG-composed prediction, directly matching teacher and student guided velocities. We show that this objective is under-identified at the branch level: positive- and negative-branch errors can compensate in the guided prediction. Through two contrasting cases, we find that naive matching remains effective under shared negative conditioning, where both branch errors decrease jointly. When the model's native CFG schema retains privileged information in the teacher's negative branch that is unavailable to the student, however, this joint reduction breaks down and the composed objective induces antagonistic branch-error dynamics, reducing the positive-branch error while increasing the negative-branch error. We term this failure mode Negative Branch Asymmetry (NBA). To address NBA, we introduce Positive--Direction Matching (PDM), a branch-aware OPD objective that separately constrains the positive prediction and the CFG conditional direction. We apply PDM to dense-to-sparse video control, where naive guided matching is highly sensitive to inference guidance scales, while branch-aware supervision enables more robust and effective knowledge transfer.",
-            "score": 60,
+            "score": 61,
             "issue_id": 2921,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -740,7 +740,7 @@
             "title": "Data Pyramid for Embodied Manipulation",
             "url": "https://huggingface.co/papers/2607.24744",
             "abstract": "Abstract  Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. In this work, we organize the embodied data ecosystem as a \"pyramid\" spanning five complementary sources: real-robot data, UMI-style data, egocentric and exocentric data, simulation data, and general vision-language data. We organize the pyramid around the tension between scalability and robot alignment, and further characterize each source in terms of data quality, diversity, reusability, and physical fidelity. We then analyze recent embodied foundation models through the lens of their data recipes, examining how different sources are selected, aligned, and mixed during pretraining. For embodied brain models, vision-language-action models, and world-action models alike, we relate data composition to capabilities in perception, reasoning, planning, action generation, and world prediction. We close by discussing six open challenges: building large-scale tactile datasets, collecting failure and recovery data, developing scalable data-collection pipelines, aligning actions across embodiments, leveraging egocentric data for dexterous manipulation, and designing principled data recipes for robot learning. We hope this work paves the foundation for the design of next-generation embodied systems.",
-            "score": 29,
+            "score": 30,
             "issue_id": 2921,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -822,7 +822,7 @@
             "title": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
             "url": "https://huggingface.co/papers/2607.24027",
             "abstract": "Abstract  Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this bottleneck by computing only selected key-value blocks, yet existing methods struggle to sparsify attention both efficiently and accurately for two reasons: (1) Rigid, unpredictable, and costly routing: selecting a fixed fraction of top-ranked blocks by proxy score imposes fixed budgets, whereas retaining blocks to reach a target cumulative proxy probability mass yields dynamic but potentially imbalanced budgets; both incur non-negligible overhead from computing and materializing proxy scores. (2) Lossy keep-or-drop sparsification: unselected blocks are discarded entirely, degrading accuracy under aggressive sparsity. These limitations motivate cheaper dynamic-budget routing while limiting accuracy degradation. In this paper, we introduce training-free Sol-Attn (Sparsifying online attention), which unifies dynamic routing, sparse computation, and approximation correction in a single online-softmax pass, achieving a better accuracy-efficiency trade-off in sparse attention. The core of Sol-Attn is on-the-fly block thresholding with proxy-score reuse, which selects critical blocks by comparing block proxy scores against a threshold during online softmax. This design enables dynamic yet controllable block budgets without materializing the proxy map, while directly reusing the proxy scores of unselected blocks to approximate their contribution. Experiments across image and video generation tasks show that Sol-Attn advances the quality-efficiency frontier of training-free sparse attention, delivering 2.1 times and 2.3 times end-to-end speedups for video generation and editing, respectively, while preserving visual quality.",
-            "score": 23,
+            "score": 24,
             "issue_id": 2922,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -872,7 +872,7 @@
             "title": "OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation",
             "url": "https://huggingface.co/papers/2607.23855",
             "abstract": "Abstract  Recent generative models are moving beyond silent video or standalone audio synthesis toward the joint generation of synchronized audio and video. Despite this progress, jointly generating audio and video with fine-grained cross-modal correspondence remains challenging due to their fundamental structural differences. Most existing methods use audio and video VAEs trained separately. As a result, the two latent spaces lack cross-modal alignment, leaving the downstream generative model to learn cross-modal synchronization from scratch. We present OmniVAE, a jointly trained audio-video VAE that learns fine-grained semantic alignment between audio and video latent representations. Beyond reconstruction, OmniVAE uses a segment-level audio-video contrastive objective to capture temporal-semantic correspondence and align the two latent spaces. In parallel, it distills features from pretrained modality-specific semantic encoders into each modality, improving the downstream learnability of both latent spaces. Extensive experiments show that both objectives consistently improve the learnability of the latent spaces, translating into higher generation quality and more accurate cross-modal synchronization in downstream text-to-audio-video generation. These findings underscore the importance of learning unified representations as a foundation for omnimodal modeling.1",
-            "score": 20,
+            "score": 21,
             "issue_id": 2921,
             "pub_date": "2026-07-26",
             "pub_date_card": {
@@ -934,56 +934,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.24720",
-            "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
-            "url": "https://huggingface.co/papers/2607.24720",
-            "abstract": "Abstract  Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study long-horizon planning across three stages. (1) Planning ability acquisition during pre-training. We study data format, distribution, and quality. Explicit world model construction through CoT state transition modeling yields stronger long-horizon generalization. Atomic skills alone are insufficient for compositional generalization, whereas a litte long-horizon data works. Moreover, suboptimal trajectories severely impair performance because errors amplify over long horizons. (2) Planning ability shaping via GRPO and OPD post-training. Through mutual information, we distinguish general planning patterns from task-specific planning knowledge. For planning patterns, we identify three application regions of post-training: unnecessary, effective, and unsupported. OPD has a broader effective region than GRPO under low-quality and long-horizon settings, as it provides more consistent update directions. For planning knowledge, distilling unseen procedures from a teacher with different knowledge may impair student's prior world modeling without fully establishing new knowledge. (3) Planning ability integration through MOPD post-training. We show that multi-teacher on-policy distillation (MOPD) integrates capabilities by converging to shared planning-pattern across environments. Compatible patterns enable cross-environment generalization, partially shared patterns support continual learning, while completely conflicting patterns cause severe interference.",
-            "score": 19,
-            "issue_id": 2921,
-            "pub_date": "2026-07-27",
-            "pub_date_card": {
-                "ru": "27 июля",
-                "en": "July 27",
-                "zh": "7月27日"
-            },
-            "hash": "523edb8c1d0a1a19",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Tianyi Men",
-                "Zhuoran Jin",
-                "Kang Liu",
-                "Jun Zhao"
-            ],
-            "affiliations": [
-                "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
-                "The Key Laboratory of Cognition and Decision Intelligence for Complex Systems, Institute of Automation, Chinese Academy of Sciences, Beijing, China"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.24720.jpg",
-            "data": {
-                "categories": [
-                    "#agents",
-                    "#training",
-                    "#continual_learning",
-                    "#long_context"
-                ],
-                "emoji": "🧠",
-                "ru": {
-                    "title": "Улучшение долгосрочного планирования для моделей на основе крупной базы данных",
-                    "desc": "В данной статье рассматривается многошаговое планирование на длинные горизонты для агентов моделей на основе крупной базы данных. Авторы предлагают единое контролируемое окружение для изучения долгосрочного планирования через три ключевых этапа. Они подчеркивают важность качества данных и построения моделей мира для улучшения планирования, а также исследуют влияние различных методов на обучение. Результаты показывают, что правильная интеграция способностей планирования через совместное обучение может значительно улучшить обобщение в разных средах."
-                },
-                "en": {
-                    "title": "Enhancing Long-Horizon Planning in AI Agents",
-                    "desc": "This paper addresses the challenge of improving multi-turn long-horizon planning in foundation model agents. It introduces a controlled environment to study how planning abilities are acquired, shaped, and integrated across three stages: acquisition during pre-training, shaping through post-training methods, and integration via multi-teacher distillation. The research highlights the importance of data quality and the impact of planning patterns on performance, revealing that suboptimal trajectories can significantly hinder long-horizon planning. Ultimately, the findings suggest that effective planning requires a balance of atomic skills and long-horizon data, along with careful integration of knowledge from multiple sources."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.21694",
             "title": "Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On",
             "url": "https://huggingface.co/papers/2607.21694",
             "abstract": "Abstract  We present Oxygen-TryOn, a unified foundation model for any-item virtual try-on. Rather than repurposing a general-purpose image editor, Oxygen-TryOn is fashion-native, built for try-on through a dedicated data engine and try-on-specific training. Given one or more reference items (clean product shots or in-the-wild worn-on photos) and a single target subject image, it synthesizes a photorealistic image of the subject wearing the items across virtually any fashion category. Prior systems handle a single garment category in a studio setting, and recent multi-reference methods remain garment-centric; in contrast, Oxygen-TryOn supports diverse items and scenarios, including full- and half-body views, a variable number of references, and free multi-item composition, while faithfully preserving both subject identity and item appearance. Instead of mask-based inpainting, we reformulate try-on as a multi-reference, understanding-driven generation task. We build a data engine that collects, manufactures, annotates, and filters high-quality try-on data at scale, and design a three-stage recipe of continued pre-training (CPT), supervised fine-tuning (SFT), and reinforcement learning (RL). The RL stage uses a hybrid reward combining an in-house try-on reward model with a proprietary, rubric-guided general-purpose model, jointly supervising fine-grained consistency and instruction-level quality. It also follows general editing instructions (e.g., pose changes) in the same pass. Across public benchmarks and our in-house Oxygen-TryOn Bench, it achieves state-of-the-art consistency and realism on single-item try-on and leads on multi-item try-on, matching or surpassing both leading proprietary systems (Nano Banana Pro, GPT-Image-2, Seedream5 Lite) and open-source models (FLUX.2).",
-            "score": 19,
+            "score": 20,
             "issue_id": 2921,
             "pub_date": "2026-07-23",
             "pub_date_card": {
@@ -1036,6 +991,51 @@
                 "en": {
                     "title": "Revolutionizing Virtual Try-On with Oxygen-TryOn",
                     "desc": "Oxygen-TryOn is a specialized model designed for virtual try-on of fashion items, allowing users to see how different clothing looks on them. Unlike previous systems that focused on single garment categories, this model can handle various items and scenarios, including full-body and half-body views. It uses a unique data engine to gather and refine high-quality try-on data and employs a three-stage training process that includes continued pre-training, supervised fine-tuning, and reinforcement learning. The model excels in generating realistic images while maintaining the identity of the subject and the appearance of the items, achieving top performance in both single and multi-item try-on tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.24720",
+            "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+            "url": "https://huggingface.co/papers/2607.24720",
+            "abstract": "Abstract  Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address this challenge, we introduce a unified and controlled multi-turn environment that enables precise control. It allows systematically study long-horizon planning across three stages. (1) Planning ability acquisition during pre-training. We study data format, distribution, and quality. Explicit world model construction through CoT state transition modeling yields stronger long-horizon generalization. Atomic skills alone are insufficient for compositional generalization, whereas a litte long-horizon data works. Moreover, suboptimal trajectories severely impair performance because errors amplify over long horizons. (2) Planning ability shaping via GRPO and OPD post-training. Through mutual information, we distinguish general planning patterns from task-specific planning knowledge. For planning patterns, we identify three application regions of post-training: unnecessary, effective, and unsupported. OPD has a broader effective region than GRPO under low-quality and long-horizon settings, as it provides more consistent update directions. For planning knowledge, distilling unseen procedures from a teacher with different knowledge may impair student's prior world modeling without fully establishing new knowledge. (3) Planning ability integration through MOPD post-training. We show that multi-teacher on-policy distillation (MOPD) integrates capabilities by converging to shared planning-pattern across environments. Compatible patterns enable cross-environment generalization, partially shared patterns support continual learning, while completely conflicting patterns cause severe interference.",
+            "score": 19,
+            "issue_id": 2921,
+            "pub_date": "2026-07-27",
+            "pub_date_card": {
+                "ru": "27 июля",
+                "en": "July 27",
+                "zh": "7月27日"
+            },
+            "hash": "523edb8c1d0a1a19",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Tianyi Men",
+                "Zhuoran Jin",
+                "Kang Liu",
+                "Jun Zhao"
+            ],
+            "affiliations": [
+                "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China",
+                "The Key Laboratory of Cognition and Decision Intelligence for Complex Systems, Institute of Automation, Chinese Academy of Sciences, Beijing, China"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.24720.jpg",
+            "data": {
+                "categories": [
+                    "#agents",
+                    "#training",
+                    "#continual_learning",
+                    "#long_context"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Улучшение долгосрочного планирования для моделей на основе крупной базы данных",
+                    "desc": "В данной статье рассматривается многошаговое планирование на длинные горизонты для агентов моделей на основе крупной базы данных. Авторы предлагают единое контролируемое окружение для изучения долгосрочного планирования через три ключевых этапа. Они подчеркивают важность качества данных и построения моделей мира для улучшения планирования, а также исследуют влияние различных методов на обучение. Результаты показывают, что правильная интеграция способностей планирования через совместное обучение может значительно улучшить обобщение в разных средах."
+                },
+                "en": {
+                    "title": "Enhancing Long-Horizon Planning in AI Agents",
+                    "desc": "This paper addresses the challenge of improving multi-turn long-horizon planning in foundation model agents. It introduces a controlled environment to study how planning abilities are acquired, shaped, and integrated across three stages: acquisition during pre-training, shaping through post-training methods, and integration via multi-teacher distillation. The research highlights the importance of data quality and the impact of planning patterns on performance, revealing that suboptimal trajectories can significantly hinder long-horizon planning. Ultimately, the findings suggest that effective planning requires a balance of atomic skills and long-horizon data, along with careful integration of knowledge from multiple sources."
                 }
             }
         },
@@ -1193,6 +1193,99 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.22098",
+            "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models",
+            "url": "https://huggingface.co/papers/2607.22098",
+            "abstract": "Abstract  Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps that obscure the cues relevant to truthfulness assessment. In this paper, we identify two prevalent forms of reasoning noises, i.e., irrelevant steps and repetitive steps, and show that both substantially degrade hallucination detection performance. Existing confidence-based scores and naive embedding-based filtering fail to reliably separate noisy from informative steps. To address this challenge, we propose REDE, a novel learning framework for denoising reasoning traces for hallucination detection. Specifically, REDE leverages final-answer attention as an automatic supervision signal to shape the step-level representation space, yielding refined embeddings in which noisy steps can be reliably identified and filtered. REDE can be readily plugged into diverse hallucination detectors by operating on the filtered reasoning trajectory after removing noisy steps. Extensive experiments on multiple reasoning benchmarks show that REDE consistently improves detection performance over competitive baselines.",
+            "score": 5,
+            "issue_id": 2922,
+            "pub_date": "2026-07-24",
+            "pub_date_card": {
+                "ru": "24 июля",
+                "en": "July 24",
+                "zh": "7月24日"
+            },
+            "hash": "03c1cef69d16f590",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Junlin Fang",
+                "Do Nguyen-Thanh",
+                "Xiaogang Xu",
+                "Zhen Fang",
+                "Sean Du"
+            ],
+            "affiliations": [
+                "Australian Artificial Intelligence Institute, University of Technology Sydney",
+                "College of Computing and Data Science, Nanyang Technological University",
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.22098.jpg",
+            "data": {
+                "categories": [
+                    "#data",
+                    "#hallucinations",
+                    "#benchmark",
+                    "#training",
+                    "#reasoning"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Очистка шумов для улучшения обнаружения галлюцинаций",
+                    "desc": "В данной статье рассматриваются большие модели рассуждений (LRMs), которые создают длинные траектории рассуждений перед выдачей окончательных ответов. Авторы выделяют два основных типа шумов в рассуждениях: нерелевантные и повторяющиеся шаги, которые мешают обнаружению галлюцинаций. Для решения этой проблемы предложена новая структура обучения REDE, которая использует внимание к окончательному ответу для фильтрации шумных шагов. Эксперименты показывают, что REDE значительно улучшает качество обнаружения по сравнению с существующими методами."
+                },
+                "en": {
+                    "title": "Enhancing Hallucination Detection with REDE Framework",
+                    "desc": "This paper addresses the challenge of detecting hallucinations in large reasoning models (LRMs) by focusing on the reasoning traces they generate. It identifies two main types of reasoning noise: irrelevant steps and repetitive steps, which hinder the accuracy of hallucination detection. The authors propose a new framework called REDE, which uses final-answer attention to improve the representation of reasoning steps, allowing for better identification and filtering of noisy information. Through extensive experiments, REDE demonstrates significant improvements in detection performance compared to existing methods."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.22561",
+            "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
+            "url": "https://huggingface.co/papers/2607.22561",
+            "abstract": "Abstract  LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternative: program distillation. Instead of prompting an LLM at the evaluation time, we distill its decision logic into a committee of programs that score candidates directly. These programmatic judges offer transparency, are easily inspected or edited, and eliminate per-sample API costs. Building on this notion, we introduce PAJAMA, a system that synthesizes programs as judges, aggregates their decisions into a joint verdict, and incorporates a fallback mechanism to selectively escalate low-confidence cases to an LLM. Across five datasets and four model families, we show that programmatic judges can match the performance of a 13B-size LLM judge. When using program outputs as routing signals, PAJAMA improves both accuracy and throughput and advances the Pareto frontier. Beyond evaluation, programmatic judges produce cheap and effective reward signals: on RewardBench, a reward model distilled from programs' verdicts outperforms one trained on a proprietary LLM's labels at two orders of magnitude lower API cost.",
+            "score": 5,
+            "issue_id": 2921,
+            "pub_date": "2026-05-29",
+            "pub_date_card": {
+                "ru": "29 мая",
+                "en": "May 29",
+                "zh": "5月29日"
+            },
+            "hash": "01ca0a1e15aaa337",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Tzu-Heng Huang",
+                "Shengqi Qiu",
+                "Frederic Sala"
+            ],
+            "affiliations": [
+                "University of Wisconsin-Madison"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.22561.jpg",
+            "data": {
+                "categories": [
+                    "#training",
+                    "#dataset",
+                    "#benchmark",
+                    "#interpretability",
+                    "#agent_memory",
+                    "#optimization"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Эффективные программные судьи вместо LLM",
+                    "desc": "Статья обсуждает альтернативу LLM как судьям в автоматизированной оценке, которая страдает от высоких затрат и медленной работы. Мы предлагаем метод дистилляции программ, позволяющий извлечь логику принятия решений из LLM и реализовать ее через группу программ, которые оценивают кандидатов напрямую. Это дает возможность прозрачности решений и уменьшает стоимость API. Мы представляем систему PAJAMA, которая синтезирует программы-судей и показывает, что эти программные судьи могут достигать результатов, сопоставимых с LLM весом 13 миллиардов параметров."
+                },
+                "en": {
+                    "title": "Program Distillation: A Cost-Effective Alternative to LLMs for Evaluation",
+                    "desc": "This paper presents a new approach called program distillation as an alternative to using large language models (LLMs) for automated evaluation. Instead of relying on LLMs during evaluation, the authors propose creating a committee of programs that can directly score candidates, which enhances transparency and reduces costs. The system, named PAJAMA, synthesizes these programs, aggregates their decisions, and includes a mechanism to escalate uncertain cases to an LLM. The results show that programmatic judges can achieve similar performance to a large LLM while improving efficiency and reducing API costs significantly."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.24743",
             "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
             "url": "https://huggingface.co/papers/2607.24743",
@@ -1270,99 +1363,6 @@
                 "en": {
                     "title": "ClinFusion: Revolutionizing Medical Understanding with Multimodal AI",
                     "desc": "This paper presents ClinFusion, a multimodal large language model (MLLM) specifically designed for medical applications. It integrates knowledge from both 2D and 3D medical images using a unique compositional and cascaded vision encoder architecture. The model is evaluated through a new framework that aligns with clinical practices, ensuring accurate and factual report generation. ClinFusion outperforms existing medical MLLMs and demonstrates superior multimodal capabilities, validated by expert radiologists."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.22098",
-            "title": "Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models",
-            "url": "https://huggingface.co/papers/2607.22098",
-            "abstract": "Abstract  Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps that obscure the cues relevant to truthfulness assessment. In this paper, we identify two prevalent forms of reasoning noises, i.e., irrelevant steps and repetitive steps, and show that both substantially degrade hallucination detection performance. Existing confidence-based scores and naive embedding-based filtering fail to reliably separate noisy from informative steps. To address this challenge, we propose REDE, a novel learning framework for denoising reasoning traces for hallucination detection. Specifically, REDE leverages final-answer attention as an automatic supervision signal to shape the step-level representation space, yielding refined embeddings in which noisy steps can be reliably identified and filtered. REDE can be readily plugged into diverse hallucination detectors by operating on the filtered reasoning trajectory after removing noisy steps. Extensive experiments on multiple reasoning benchmarks show that REDE consistently improves detection performance over competitive baselines.",
-            "score": 4,
-            "issue_id": 2922,
-            "pub_date": "2026-07-24",
-            "pub_date_card": {
-                "ru": "24 июля",
-                "en": "July 24",
-                "zh": "7月24日"
-            },
-            "hash": "03c1cef69d16f590",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Junlin Fang",
-                "Do Nguyen-Thanh",
-                "Xiaogang Xu",
-                "Zhen Fang",
-                "Sean Du"
-            ],
-            "affiliations": [
-                "Australian Artificial Intelligence Institute, University of Technology Sydney",
-                "College of Computing and Data Science, Nanyang Technological University",
-                "Zhejiang University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.22098.jpg",
-            "data": {
-                "categories": [
-                    "#data",
-                    "#hallucinations",
-                    "#benchmark",
-                    "#training",
-                    "#reasoning"
-                ],
-                "emoji": "🔍",
-                "ru": {
-                    "title": "Очистка шумов для улучшения обнаружения галлюцинаций",
-                    "desc": "В данной статье рассматриваются большие модели рассуждений (LRMs), которые создают длинные траектории рассуждений перед выдачей окончательных ответов. Авторы выделяют два основных типа шумов в рассуждениях: нерелевантные и повторяющиеся шаги, которые мешают обнаружению галлюцинаций. Для решения этой проблемы предложена новая структура обучения REDE, которая использует внимание к окончательному ответу для фильтрации шумных шагов. Эксперименты показывают, что REDE значительно улучшает качество обнаружения по сравнению с существующими методами."
-                },
-                "en": {
-                    "title": "Enhancing Hallucination Detection with REDE Framework",
-                    "desc": "This paper addresses the challenge of detecting hallucinations in large reasoning models (LRMs) by focusing on the reasoning traces they generate. It identifies two main types of reasoning noise: irrelevant steps and repetitive steps, which hinder the accuracy of hallucination detection. The authors propose a new framework called REDE, which uses final-answer attention to improve the representation of reasoning steps, allowing for better identification and filtering of noisy information. Through extensive experiments, REDE demonstrates significant improvements in detection performance compared to existing methods."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.22561",
-            "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
-            "url": "https://huggingface.co/papers/2607.22561",
-            "abstract": "Abstract  LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternative: program distillation. Instead of prompting an LLM at the evaluation time, we distill its decision logic into a committee of programs that score candidates directly. These programmatic judges offer transparency, are easily inspected or edited, and eliminate per-sample API costs. Building on this notion, we introduce PAJAMA, a system that synthesizes programs as judges, aggregates their decisions into a joint verdict, and incorporates a fallback mechanism to selectively escalate low-confidence cases to an LLM. Across five datasets and four model families, we show that programmatic judges can match the performance of a 13B-size LLM judge. When using program outputs as routing signals, PAJAMA improves both accuracy and throughput and advances the Pareto frontier. Beyond evaluation, programmatic judges produce cheap and effective reward signals: on RewardBench, a reward model distilled from programs' verdicts outperforms one trained on a proprietary LLM's labels at two orders of magnitude lower API cost.",
-            "score": 4,
-            "issue_id": 2921,
-            "pub_date": "2026-05-29",
-            "pub_date_card": {
-                "ru": "29 мая",
-                "en": "May 29",
-                "zh": "5月29日"
-            },
-            "hash": "01ca0a1e15aaa337",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Tzu-Heng Huang",
-                "Shengqi Qiu",
-                "Frederic Sala"
-            ],
-            "affiliations": [
-                "University of Wisconsin-Madison"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.22561.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#dataset",
-                    "#benchmark",
-                    "#interpretability",
-                    "#agent_memory",
-                    "#optimization"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Эффективные программные судьи вместо LLM",
-                    "desc": "Статья обсуждает альтернативу LLM как судьям в автоматизированной оценке, которая страдает от высоких затрат и медленной работы. Мы предлагаем метод дистилляции программ, позволяющий извлечь логику принятия решений из LLM и реализовать ее через группу программ, которые оценивают кандидатов напрямую. Это дает возможность прозрачности решений и уменьшает стоимость API. Мы представляем систему PAJAMA, которая синтезирует программы-судей и показывает, что эти программные судьи могут достигать результатов, сопоставимых с LLM весом 13 миллиардов параметров."
-                },
-                "en": {
-                    "title": "Program Distillation: A Cost-Effective Alternative to LLMs for Evaluation",
-                    "desc": "This paper presents a new approach called program distillation as an alternative to using large language models (LLMs) for automated evaluation. Instead of relying on LLMs during evaluation, the authors propose creating a committee of programs that can directly score candidates, which enhances transparency and reduces costs. The system, named PAJAMA, synthesizes these programs, aggregates their decisions, and includes a mechanism to escalate uncertain cases to an LLM. The results show that programmatic judges can achieve similar performance to a large LLM while improving efficiency and reducing API costs significantly."
                 }
             }
         },
@@ -1594,6 +1594,93 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.24651",
+            "title": "Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels",
+            "url": "https://huggingface.co/papers/2607.24651",
+            "abstract": "Abstract  Reliable visual document understanding requires a model to attribute each answer to the evidence regions that support it. Recent benchmarks and systems express this step through a coordinate interface: the model outputs the coordinates of bounding boxes that mark the evidence regions in the document. Under this interface, vision-language models often fail to identify the right regions even when the answer is correct, a failure known as Attribution Hallucination. We present a study that investigates whether this failure is partially limited by what the model can express through coordinates. On a verified bilingual CiteVQA subset, we compare the coordinate interface with a language interface in which the model outputs only text, quoting its evidence verbatim, and a multimodal retriever returns the location of each quote as a page region proposed by a layout parser (tables and figures are quoted through their captions or notes); the comparison is repeated over six open vision-language models. Compared with the coordinate interface, evidence recall rises from at most 8 points to between 26 and 47 and the hallucination rate roughly halves, with little change in answer quality. Building on this comparison, we use the same quote-and-retrieve pipeline as a training scaffold: because region-level evidence labels are expensive to collect for long documents, we introduce a GRPO recipe whose reward is a judge's reading of the gold answer and crops of the retrieved regions, training the model to quote better evidence without any region labels and raising an 8B backbone's strict attributed accuracy from 22.4 to 33.8. These findings indicate a practical path to improve attribution\"without a coordinate interface and without costly region-level supervision.",
+            "score": 2,
+            "issue_id": 2921,
+            "pub_date": "2026-07-27",
+            "pub_date_card": {
+                "ru": "27 июля",
+                "en": "July 27",
+                "zh": "7月27日"
+            },
+            "hash": "c776bc28c651a758",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Zhuchenyang Liu",
+                "Yao Zhang",
+                "Yu Xiao"
+            ],
+            "affiliations": [
+                "Aalto University Espoo, Finland"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.24651.jpg",
+            "data": {
+                "categories": [
+                    "#retrieval",
+                    "#training",
+                    "#benchmark",
+                    "#hallucinations",
+                    "#multimodal",
+                    "#optimization"
+                ],
+                "emoji": "📄",
+                "ru": {
+                    "title": "Улучшение атрибуции без координатного интерфейса",
+                    "desc": "В статье рассматривается проблема надежного понимания визуальных документов с помощью моделей, основанных на машинном обучении. Исследование показывает, что использование текстового интерфейса вместо координатного может значительно улучшить качество извлечения доказательных данных, снижая уровень ложных атрибуций, известный как Attribution Hallucination. Описанный метод позволяет модели лучше ссылаться на текстовые фрагменты, избегая зависимости от сложной разметки регионов. В результате, точность атрибуции повысилась, а необходимость в дорогой разметке документальных регионов снизилась."
+                },
+                "en": {
+                    "title": "Enhancing Document Understanding: From Coordinates to Quotes",
+                    "desc": "This paper addresses the challenge of reliable visual document understanding by focusing on how models attribute answers to supporting evidence regions. It highlights a problem called Attribution Hallucination, where models provide correct answers but fail to identify the correct evidence regions using a coordinate interface. The authors compare this approach with a language interface that quotes evidence directly, showing significant improvements in evidence recall and reduced hallucination rates. They propose a novel training method that enhances model performance without the need for expensive region-level labels, demonstrating a practical way to improve attribution in document understanding tasks."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.23242",
+            "title": "IndicTalk: A Large-Scale Persona-Based Multilingual Conversational Corpus for Indic Languages",
+            "url": "https://huggingface.co/papers/2607.23242",
+            "abstract": "Abstract  Large Language Models (LLMs) have transformed conversational AI, yet high-quality multilingual code-mixed dialogue resources remain scarce, particularly for Indic languages where speakers naturally alternate between English and their native language in both native-script and Romanized forms. We present IndicTalk, one of the largest multilingual Indic code-mixed conversational corpora, comprising over 13,28,604 event-grounded multi-turn conversations across 18 language varieties covering 9 Indic languages. The corpus is generated through a fully automated pipeline that combines real-world news grounding, persona-conditioned dialogue generation using multilingual LLMs, and automatic quality validation. Extensive linguistic, automatic, and human evaluations demonstrate that IndicTalk produces fluent, coherent, and naturally code-mixed conversations across both script variants. We will release IndicTalk to support the development and evaluation of multilingual conversational AI for underrepresented Indic languages. The dataset is available at: https://huggingface.co/datasets/LingoIITGN/IndicTalk .",
+            "score": 2,
+            "issue_id": 2921,
+            "pub_date": "2026-07-25",
+            "pub_date_card": {
+                "ru": "25 июля",
+                "en": "July 25",
+                "zh": "7月25日"
+            },
+            "hash": "774005cba5256ce3",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Sahil Deepak Gawande",
+                "Mayank Singh"
+            ],
+            "affiliations": [
+                "Lingo Research Group IIT Gandhinagar"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.23242.jpg",
+            "data": {
+                "categories": [
+                    "#dataset",
+                    "#multilingual",
+                    "#open_source",
+                    "#low_resource"
+                ],
+                "emoji": "💬",
+                "ru": {
+                    "title": "IndicTalk: Корпус для мультиязычных разговоров на языках Индии",
+                    "desc": "В данной статье представлена база данных IndicTalk, которая является одной из крупнейших многозначных разговорных корпус для языков Индии, смешивающих код. Она содержит более 1,3 миллиона многоповоротных разговоров на 9 индийских языках, где пользователи естественным образом переключаются между английским и своим родным языком. Корпус был создан с помощью автоматизированного процесса, который включает генерацию диалогов и оценку качества. IndicTalk поможет в развитии многозначного AI для недостаточно представленных индийских языков."
+                },
+                "en": {
+                    "title": "Empowering Conversational AI with IndicTalk",
+                    "desc": "This paper introduces IndicTalk, a large multilingual dataset designed for code-mixed conversations in Indic languages. It includes over 1.3 million multi-turn dialogues that reflect natural language use, combining both native-script and Romanized forms. The dataset is generated using an automated pipeline that incorporates real-world news and multilingual large language models for dialogue generation. IndicTalk aims to enhance the development of conversational AI for underrepresented Indic languages by providing a resource for training and evaluation."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.22682",
             "title": "A Vocabulary for Multi-Agent Automated Research Systems",
             "url": "https://huggingface.co/papers/2607.22682",
@@ -1682,51 +1769,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.24651",
-            "title": "Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels",
-            "url": "https://huggingface.co/papers/2607.24651",
-            "abstract": "Abstract  Reliable visual document understanding requires a model to attribute each answer to the evidence regions that support it. Recent benchmarks and systems express this step through a coordinate interface: the model outputs the coordinates of bounding boxes that mark the evidence regions in the document. Under this interface, vision-language models often fail to identify the right regions even when the answer is correct, a failure known as Attribution Hallucination. We present a study that investigates whether this failure is partially limited by what the model can express through coordinates. On a verified bilingual CiteVQA subset, we compare the coordinate interface with a language interface in which the model outputs only text, quoting its evidence verbatim, and a multimodal retriever returns the location of each quote as a page region proposed by a layout parser (tables and figures are quoted through their captions or notes); the comparison is repeated over six open vision-language models. Compared with the coordinate interface, evidence recall rises from at most 8 points to between 26 and 47 and the hallucination rate roughly halves, with little change in answer quality. Building on this comparison, we use the same quote-and-retrieve pipeline as a training scaffold: because region-level evidence labels are expensive to collect for long documents, we introduce a GRPO recipe whose reward is a judge's reading of the gold answer and crops of the retrieved regions, training the model to quote better evidence without any region labels and raising an 8B backbone's strict attributed accuracy from 22.4 to 33.8. These findings indicate a practical path to improve attribution\"without a coordinate interface and without costly region-level supervision.",
-            "score": 1,
-            "issue_id": 2921,
-            "pub_date": "2026-07-27",
-            "pub_date_card": {
-                "ru": "27 июля",
-                "en": "July 27",
-                "zh": "7月27日"
-            },
-            "hash": "c776bc28c651a758",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Zhuchenyang Liu",
-                "Yao Zhang",
-                "Yu Xiao"
-            ],
-            "affiliations": [
-                "Aalto University Espoo, Finland"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.24651.jpg",
-            "data": {
-                "categories": [
-                    "#retrieval",
-                    "#training",
-                    "#benchmark",
-                    "#hallucinations",
-                    "#multimodal",
-                    "#optimization"
-                ],
-                "emoji": "📄",
-                "ru": {
-                    "title": "Улучшение атрибуции без координатного интерфейса",
-                    "desc": "В статье рассматривается проблема надежного понимания визуальных документов с помощью моделей, основанных на машинном обучении. Исследование показывает, что использование текстового интерфейса вместо координатного может значительно улучшить качество извлечения доказательных данных, снижая уровень ложных атрибуций, известный как Attribution Hallucination. Описанный метод позволяет модели лучше ссылаться на текстовые фрагменты, избегая зависимости от сложной разметки регионов. В результате, точность атрибуции повысилась, а необходимость в дорогой разметке документальных регионов снизилась."
-                },
-                "en": {
-                    "title": "Enhancing Document Understanding: From Coordinates to Quotes",
-                    "desc": "This paper addresses the challenge of reliable visual document understanding by focusing on how models attribute answers to supporting evidence regions. It highlights a problem called Attribution Hallucination, where models provide correct answers but fail to identify the correct evidence regions using a coordinate interface. The authors compare this approach with a language interface that quotes evidence directly, showing significant improvements in evidence recall and reduced hallucination rates. They propose a novel training method that enhances model performance without the need for expensive region-level labels, demonstrating a practical way to improve attribution in document understanding tasks."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.23402",
             "title": "Characterizing Warp Divergence from Pascal to Blackwell",
             "url": "https://huggingface.co/papers/2607.23402",
@@ -1778,7 +1820,21 @@
             "hash": "6c73cd1d571c62dc",
             "github_url": "",
             "github_stars": 0,
-            "pdf_title_img": "img/title_stub.png",
+            "authors": [
+                "Ioannis Maniadis Metaxas",
+                "Adrian Bulat",
+                "Alberto Baldrati",
+                "Anestis Zaganidis",
+                "Yassine Ouali",
+                "Hyeonuk Kim",
+                "Georgios Tzimiropoulos"
+            ],
+            "affiliations": [
+                "Queen Mary University of London",
+                "Samsung AI Cambridge",
+                "Technical University of Iasi"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.23373.jpg",
             "data": {
                 "categories": [
                     "#architecture",
@@ -1796,48 +1852,6 @@
                 "en": {
                     "title": "UltraViT: Optimizing Vision Encoders for Efficient LVLMs",
                     "desc": "This paper introduces UltraViT, a vision encoder specifically designed for Large Vision-Language Models (LVLMs) to enhance on-device performance. Unlike traditional models that focus on reducing vision tokens or using smaller language models, UltraViT optimizes the vision encoder for lower latency on edge devices. The architecture employs a pyramidal design with heterogeneous spatial mixers, allowing for efficient feature extraction. Additionally, a novel two-stage generative pre-training strategy is proposed, which significantly improves semantic grounding and multimodal alignment during LVLM training."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.23242",
-            "title": "IndicTalk: A Large-Scale Persona-Based Multilingual Conversational Corpus for Indic Languages",
-            "url": "https://huggingface.co/papers/2607.23242",
-            "abstract": "Abstract  Large Language Models (LLMs) have transformed conversational AI, yet high-quality multilingual code-mixed dialogue resources remain scarce, particularly for Indic languages where speakers naturally alternate between English and their native language in both native-script and Romanized forms. We present IndicTalk, one of the largest multilingual Indic code-mixed conversational corpora, comprising over 13,28,604 event-grounded multi-turn conversations across 18 language varieties covering 9 Indic languages. The corpus is generated through a fully automated pipeline that combines real-world news grounding, persona-conditioned dialogue generation using multilingual LLMs, and automatic quality validation. Extensive linguistic, automatic, and human evaluations demonstrate that IndicTalk produces fluent, coherent, and naturally code-mixed conversations across both script variants. We will release IndicTalk to support the development and evaluation of multilingual conversational AI for underrepresented Indic languages. The dataset is available at: https://huggingface.co/datasets/LingoIITGN/IndicTalk .",
-            "score": 1,
-            "issue_id": 2921,
-            "pub_date": "2026-07-25",
-            "pub_date_card": {
-                "ru": "25 июля",
-                "en": "July 25",
-                "zh": "7月25日"
-            },
-            "hash": "774005cba5256ce3",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Sahil Deepak Gawande",
-                "Mayank Singh"
-            ],
-            "affiliations": [
-                "Lingo Research Group IIT Gandhinagar"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.23242.jpg",
-            "data": {
-                "categories": [
-                    "#dataset",
-                    "#multilingual",
-                    "#open_source",
-                    "#low_resource"
-                ],
-                "emoji": "💬",
-                "ru": {
-                    "title": "IndicTalk: Корпус для мультиязычных разговоров на языках Индии",
-                    "desc": "В данной статье представлена база данных IndicTalk, которая является одной из крупнейших многозначных разговорных корпус для языков Индии, смешивающих код. Она содержит более 1,3 миллиона многоповоротных разговоров на 9 индийских языках, где пользователи естественным образом переключаются между английским и своим родным языком. Корпус был создан с помощью автоматизированного процесса, который включает генерацию диалогов и оценку качества. IndicTalk поможет в развитии многозначного AI для недостаточно представленных индийских языков."
-                },
-                "en": {
-                    "title": "Empowering Conversational AI with IndicTalk",
-                    "desc": "This paper introduces IndicTalk, a large multilingual dataset designed for code-mixed conversations in Indic languages. It includes over 1.3 million multi-turn dialogues that reflect natural language use, combining both native-script and Romanized forms. The dataset is generated using an automated pipeline that incorporates real-world news and multilingual large language models for dialogue generation. IndicTalk aims to enhance the development of conversational AI for underrepresented Indic languages by providing a resource for training and evaluation."
                 }
             }
         },
@@ -1932,6 +1946,51 @@
                     "desc": "This paper presents DriveDNA, a comprehensive dataset and benchmark designed to model personalized driving styles. It addresses the challenge of distinguishing driver-specific behaviors from vehicle and situational influences in naturalistic driving data. The benchmark includes tasks like few-shot driver re-identification and personalized behavior prediction, supported by extensive behavioral annotations. Results show that advanced learned representations significantly outperform traditional methods in recognizing driver-specific patterns while maintaining robustness against various driving conditions."
                 }
             }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.21606",
+            "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
+            "url": "https://huggingface.co/papers/2607.21606",
+            "abstract": "Abstract  Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, a training-free framework for compositional text-to-image generation via test-time reward alignment. We interpret compositional failures as overlap modes between joint and single-concept distributions, and define a reward that favors samples where all concepts are jointly present. This reward is intrinsic to the base model and does not require any external supervision or reward models. This yields a KL-constrained objective with a closed-form tilted target distribution and principled guiding steps for diffusion sampling. The interaction of concept distributions together with the above reward naturally leads to two different guidance strategies while a hybrid approach that balances their respective benefits produces stronger performance. Experiments on prompts from T2ICompBench show that our method improves compositional alignment while preserving image quality compared to previous baselines.",
+            "score": 0,
+            "issue_id": 2926,
+            "pub_date": "2026-05-16",
+            "pub_date_card": {
+                "ru": "16 мая",
+                "en": "May 16",
+                "zh": "5月16日"
+            },
+            "hash": "1ffe05e2f6a9442f",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Debottam Dutta",
+                "Jaehoon Hahm",
+                "Jianchong Chen",
+                "Romit Roy Choudhury"
+            ],
+            "affiliations": [
+                "Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, IL, USA",
+                "Physics, University of Illinois Urbana-Champaign, Urbana, IL, USA"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.21606.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#diffusion",
+                    "#optimization",
+                    "#rag"
+                ],
+                "emoji": "🎨",
+                "ru": {
+                    "title": "Улучшение композиции изображений с помощью TILT",
+                    "desc": "В данной статье представлен TILT — метод генерации изображений по текстовому описанию, который не требует дополнительной тренировки. TILT использует награду, чтобы побуждать модель генерировать изображения, в которых все концепты присутствуют вместе. Метод позволяет улучшить композиционное соответствие при сохранении качества изображений. Новая методология показала лучшие результаты по сравнению с предыдущими методами на тестах T2ICompBench."
+                },
+                "en": {
+                    "title": "Enhancing Image Generation with Compositional Alignment",
+                    "desc": "This paper introduces TILT, a novel framework for enhancing text-to-image generation by improving how models interpret complex prompts. It focuses on aligning the sampling process to ensure that all concepts in a prompt are represented in the generated images. The method uses an intrinsic reward system that does not rely on external supervision, allowing for a more efficient training-free approach. Experiments demonstrate that TILT achieves better compositional alignment and maintains high image quality compared to existing methods."
+                }
+            }
         }
     ],
     "link_prev": "2026-07-27.html",
@@ -1950,11 +2009,11 @@
     "categories": {
         "#dataset": 9,
         "#data": 5,
-        "#benchmark": 13,
+        "#benchmark": 14,
         "#agents": 10,
         "#rl": 5,
         "#rlhf": 1,
-        "#rag": 2,
+        "#rag": 3,
         "#plp": 0,
         "#inference": 3,
         "#3d": 1,
@@ -1974,9 +2033,9 @@
         "#graphs": 0,
         "#ethics": 0,
         "#security": 1,
-        "#optimization": 14,
+        "#optimization": 15,
         "#survey": 1,
-        "#diffusion": 5,
+        "#diffusion": 6,
         "#alignment": 0,
         "#story_generation": 0,
         "#hallucinations": 3,
