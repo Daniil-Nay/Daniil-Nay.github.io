@@ -1,261 +1,266 @@
-[28.07.2026 08:33] Read previous papers.
-[28.07.2026 08:33] Generating top page (month).
-[28.07.2026 08:33] Writing top page (month).
 [28.07.2026 11:17] Read previous papers.
-[28.07.2026 11:17] Get feed.
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24653
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24653
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23588
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23588
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24280
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24280
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21655
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21655
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22798
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22798
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24731
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24731
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24744
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24744
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24027
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24027
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23855
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23855
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24720
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24720
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21694
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21694
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23518
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23518
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22148
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22148
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24516
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24516
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24743
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24743
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22561
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22561
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23687
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23687
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22098
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22098
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24241
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24241
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23806
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23806
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24651
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24651
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23242
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23242
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21936
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21936
-[28.07.2026 11:17] Extract page data from URL. URL: https://huggingface.co/papers/2607.23402
-[28.07.2026 11:17] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23822
-[28.07.2026 11:17] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23822
-[28.07.2026 11:17] Updating GitHub stars.
-[28.07.2026 11:17] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[28.07.2026 11:17] No deleted papers detected.
-[28.07.2026 11:17] Downloading and parsing papers (pdf, html). Total: 25.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24653.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24653.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24653.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23588.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.23588.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.23588.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24280.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24280.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24280.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.21655.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.21655.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.21655.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.22798.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.22798.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.22798.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24731.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24731.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24731.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24744.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24744.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24744.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24027.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24027.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24027.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23855.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.23855.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.23855.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24720.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24720.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24720.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.21694.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.21694.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.21694.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23518.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.23518.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.23518.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.22148.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.22148.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.22148.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24516.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24516.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24516.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24743.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24743.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24743.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.22561.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.22561.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.22561.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23687.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.23687.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.23687.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.22098.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.22098.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.22098.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24241.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24241.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24241.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23806.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.23806.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.23806.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.24651.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.24651.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.24651.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23242.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.23242.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.23242.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.21936.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.21936.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.21936.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23402.
-[28.07.2026 11:17] Downloading paper 2607.23402 from https://arxiv.org/pdf/2607.23402v1...
-[28.07.2026 11:17] Extracting affiliations from text.
-[28.07.2026 11:17] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[28.07.2026 11:17] Generating top page (month).
+[28.07.2026 11:17] Writing top page (month).
+[28.07.2026 14:03] Read previous papers.
+[28.07.2026 14:03] Get feed.
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24653
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24653
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23588
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23588
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24280
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24280
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21655
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21655
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24731
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24731
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22798
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22798
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24744
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24744
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24027
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24027
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23855
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23855
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24720
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24720
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21694
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21694
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23518
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23518
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22148
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22148
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24516
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24516
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24743
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24743
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22561
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22561
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24241
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24241
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23806
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23806
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23687
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23687
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21936
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21936
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22098
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22098
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24651
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24651
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23242
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23242
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23402
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23402
+[28.07.2026 14:03] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23822
+[28.07.2026 14:03] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23822
+[28.07.2026 14:03] Extract page data from URL. URL: https://huggingface.co/papers/2607.22639
+[28.07.2026 14:03] Updating GitHub stars.
+[28.07.2026 14:03] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[28.07.2026 14:03] No deleted papers detected.
+[28.07.2026 14:03] Downloading and parsing papers (pdf, html). Total: 26.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24653.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24653.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24653.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23588.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23588.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23588.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24280.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24280.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24280.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.21655.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.21655.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.21655.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24731.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24731.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24731.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.22798.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.22798.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.22798.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24744.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24744.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24744.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24027.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24027.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24027.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23855.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23855.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23855.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24720.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24720.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24720.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.21694.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.21694.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.21694.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23518.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23518.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23518.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.22148.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.22148.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.22148.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24516.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24516.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24516.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24743.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24743.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24743.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.22561.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.22561.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.22561.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24241.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24241.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24241.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23806.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23806.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23806.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23687.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23687.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23687.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.21936.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.21936.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.21936.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.22098.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.22098.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.22098.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.24651.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.24651.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.24651.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23242.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23242.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23242.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23402.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23402.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23402.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.23822.
+[28.07.2026 14:03] Extra JSON file exists (./assets/json/2607.23822.json), skip PDF parsing.
+[28.07.2026 14:03] Paper image links file exists (./assets/img_data/2607.23822.json), skip HTML parsing.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Downloading and parsing paper https://huggingface.co/papers/2607.22639.
+[28.07.2026 14:03] Downloading paper 2607.22639 from https://arxiv.org/pdf/2607.22639v1...
+[28.07.2026 14:03] Extracting affiliations from text.
+[28.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Alpin Dale alpin@dphn.ai AbstractSince the Volta architecture introduced Independent Thread Scheduling (ITS) in 2017, giving every thread its own program counter, NVIDIA GPUs have been widely assumed to handle control-flow divergence in fixed manner. We test that assumption with cross-generational study of warp divergence spanning Ampere, Hopper, and both the datacenter and consumer variants of Blackwell, anchored against pre-ITS Pascal baseline. Combining cycle-accurate microbenchmarks, hardware performance counters, and static analysis of compiler-generated SASS, we separate what has remained invariant from what has evolved. We find that the dynamic cost of divergence varies little across the tested generations. Divergent paths serialize strictly linearly in the number of paths (T (k) sk, with no superlinear reconvergence penalty), warp execution efficiency falls as exactly 32/k, and this behavior is independent of occupancy and identical across the four post-ITS generations; the same linear cost, predication remedy, and occupancy-invariance already hold on the pre-ITS Pascal baseline, so this behavior predates ITS. The static reconvergence machinery the compiler emits has changed substantially. Pascal reconverges through per-warp instruction stack (SSY/SYNC) that the ITS generations replace with barrier-register instructions. The fraction of divergent branches that reconverge later than the immediate post-dominator, the deferred reconvergence that classical SIMT-stack hardware relied on, collapses from 29 cases on Ampere to 2 on Blackwell. Blackwell additionally introduces two-tier convergence barrier (a previously undocumented .RELIABLE class distinct from .RECONVERGENT, encoded in 2-bit field), uniform-branch instructions, and explicit partial-mask warp synchronization, none of which exist on Ampere or Hopper. Controlled bitflip experiments show this barrier class is static compiler classification with no observable runtime effect in our tests. ITS has changed "
-[28.07.2026 11:17] Response: ```python
-[]
+Text:"TRACE: Business Rule-Grounded Reasoning Curriculum for Knowledge-Preserving Parametric Tool Retrieval in Enterprise LLMs Sai Shruthi Sistla* Ashutosh Hathidara* Christopher Toukmaji Mayank Shrivastava Karthikeyan Asokkumar SAP Labs {sai.shruthi.sistla, ashutosh.hathidara, chris.toukmaji, mayank.shrivastava02, karthikeyan.asokkumar}@sap.com "
+[28.07.2026 14:03] Response: ```python
+["SAP Labs"]
 ```
-[28.07.2026 11:17] Extracting affiliations from text.
-[28.07.2026 11:17] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[28.07.2026 14:03] Deleting PDF ./assets/pdf/2607.22639.pdf.
+[28.07.2026 14:03] Success.
+[28.07.2026 14:03] Enriching papers with extra data.
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 0. Abstract  We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length a...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 1. Abstract  Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more ...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 2. Abstract  Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervision. Knowledge distillation can supply denser guidance, and a...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 3. Abstract  Robotic learning takes place in dynamic environments with large behavior spaces. A terminal success signal only tells the robot whether the task is completed. It does not explain whether the current behavior is making progress, remaining unchanged, or undoing earlier progress. For this rea...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 4. Abstract  On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods na...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 5. Abstract  Computer-use agents are usually improved by strengthening perception: better models for reading a screenshot and choosing where to click. Yet a screenshot is only a lossy rendering of the underlying program state, e.g., the files, application backends, and DOM that hold the task data. Diff...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 6. Abstract  Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. ...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 7. Abstract  Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this bottleneck by computing only selected key-value blocks, yet existing methods struggle to ...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 8. Abstract  Recent generative models are moving beyond silent video or standalone audio synthesis toward the joint generation of synchronized audio and video. Despite this progress, jointly generating audio and video with fine-grained cross-modal correspondence remains challenging due to their fundame...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 9. Abstract  Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. T...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 10. Abstract  We present Oxygen-TryOn, a unified foundation model for any-item virtual try-on. Rather than repurposing a general-purpose image editor, Oxygen-TryOn is fashion-native, built for try-on through a dedicated data engine and try-on-specific training. Given one or more reference items (clean p...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 11. Abstract  The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, existing approaches are predominantly implemented unde...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 12. Abstract  In this work, we aim to discretize the high-dimensional visual representations to bridge the gap with language models - a non-trivial challenge, as existing quantization methods suffer from codebook collapse, failing to scale while preserving semantic coherence. We identify the root cause ...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 13. Abstract  While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass quality filters, set cross-domain ratios by intuition, and lack a principled, attributable c...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 14. Abstract  Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must ...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 15. Abstract  LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternative: program distillation. Instead of p...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 16. Abstract  Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score them with untrained, generic multimodal models. More fundamentally, their evaluation taxo...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 17. Abstract  Improving a language model today means retraining it: enormous compute, a new opaque model each cycle, non-deterministic output. We take the opposite path: the model stays frozen, and a persistent memory of verified solutions grows beside it. Once a problem family is solved and has passed ...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 18. Abstract  Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioning signals within generative large vision models, allowing for tight spatial control of ge...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 19. Abstract  Historical documents act as invaluable knowledge archives but often suffer from illegibility due to physical deterioration and damage. While existing restoration methods based on masked language modeling effectively utilize local context, they struggle to restore named entities that requir...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 20. Abstract  Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps that obscure the cues relevant to truth...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 21. Abstract  Reliable visual document understanding requires a model to attribute each answer to the evidence regions that support it. Recent benchmarks and systems express this step through a coordinate interface: the model outputs the coordinates of bounding boxes that mark the evidence regions in th...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 22. Abstract  Large Language Models (LLMs) have transformed conversational AI, yet high-quality multilingual code-mixed dialogue resources remain scarce, particularly for Indic languages where speakers naturally alternate between English and their native language in both native-script and Romanized form...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 23. Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accur...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 24. Abstract  Driving style captures stable, driver-specific patterns in how a vehicle is driven. In naturalistic data, however, this signal is hard to isolate because drivers are observed in different vehicles, on different roads, and under different conditions, so models may mistake vehicle- or situat...
+[28.07.2026 14:03] ********************************************************************************
+[28.07.2026 14:03] Abstract 25. Abstract  Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training,...
+[28.07.2026 14:03] Read previous papers.
+[28.07.2026 14:03] Generating reviews via LLM API.
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#training", "#long_context", "#agi", "#agents", "#reasoning", "#rl", "#open_source", "#architecture", "#optimization"], "emoji": "🤖", "ru": {"title": "Новая эра в машинном обучении с Kimi K3", "desc": "В статье представлен модель Kimi K3, представляющая собой Mixture-of-Experts с 2,
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#long_context", "#agents", "#memory", "#tool_use", "#multimodal", "#agent_memory"], "emoji": "🎨", "ru": {"title": "Новый этап в творческой автоматизации с JarvisHub", "desc": "Статья описывает развитие Creative AI от создания отдельных объектов к многомодальному производству на длит
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#training", "#dataset", "#agents", "#benchmark", "#agent_memory", "#reasoning", "#rl", "#rlhf", "#transfer_learning"], "emoji": "🤖", "ru": {"title": "Эффективное обучение языковых моделей с помощью дистилляции знаний", "desc": "Данная статья предлагает новый подход к улучшению обуче
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#survey", "#agents", "#benchmark", "#rl"], "emoji": "🤖", "ru": {"title": "Успехи в обучении роботов: моделирование прогресса", "desc": "В данной статье рассматривается обучение роботов в динамичных условиях с большими пространствами поведения. Обсуждается необходимость в прогресс-во
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#training", "#agents", "#rl", "#transfer_learning", "#diffusion", "#optimization"], "emoji": "🔄", "ru": {"title": "Новая стратегия для улучшения моделей диффузии", "desc": "Статья рассматривает проблему адаптации моделей диффузии с использованием метода On-policy distillation (OPD),
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#agent_memory", "#reasoning", "#agents", "#memory"], "emoji": "💻", "ru": {"title": "Переход от восприятия к мышлению", "desc": "В данной статье представлена новая система StateAct, которая улучшает производительность агентов, работающих с компьютерными интерфейсами, благодаря прямом
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#dataset", "#agents", "#data", "#agent_memory", "#robotics", "#reasoning", "#multimodal"], "emoji": "🤖", "ru": {"title": "Создание систем с воплощенной интеллигенцией", "desc": "В данной работе обсуждаются многомодальные базовые модели, которые учатся взаимодействовать с физическим 
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#architecture", "#inference", "#training"], "emoji": "🎥", "ru": {"title": "Динамичное внимание для видеогенерации", "desc": "В данной статье представлены диффузионные трансформеры, которые важны для генерации видео высокого качества. Авторы предлагают 
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#multimodal"], "emoji": "🎥", "ru": {"title": "Совместная генерация аудио и видео с OmniVAE", "desc": "В данной статье рассматривается новая модель OmniVAE, которая осуществляет совместную генерацию аудио и видео с высокой степенью семантического соответствия. Основная проблема заклю
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#agents", "#training", "#continual_learning", "#long_context"], "emoji": "🧠", "ru": {"title": "Улучшение долгосрочного планирования для моделей на основе крупной базы данных", "desc": "В данной статье рассматривается многошаговое планирование на длинные горизонты для агентов моделей
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#data", "#rl", "#open_source", "#multimodal", "#diffusion", "#architecture", "#optimization"], "emoji": "👗", "ru": {"title": "Универсальная примерка: Oxygen-TryOn для любых предметов", "desc": "Oxygen-TryOn представляет собой универсальную моде
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#hallucinations", "#benchmark", "#dataset", "#open_source", "#training"], "emoji": "🧬", "ru": {"title": "Новый подход к проектированию белковых связывателей", "desc": "В данной статье представлено новое поколение генеративных моделей для проектирования
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#training", "#inference", "#data", "#architecture", "#optimization"], "emoji": "🔍", "ru": {"title": "Новая эра в сжатии визуальных данных", "desc": "В данной работе мы занимаемся дискретизацией высокоразмерных визуальных представлений, чтобы устранить разрыв с языковыми моделями. Су
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#dataset", "#data", "#benchmark", "#open_source", "#multimodal", "#transfer_learning", "#optimization"], "emoji": "🖼️", "ru": {"title": "Оптимизация смешивания данных для Vision Language моделей", "desc": "В статье рассматривается создание наборов данных для моделей Vision Language 
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#retrieval", "#agi", "#benchmark", "#interpretability", "#tool_use", "#healthcare", "#multimodal", "#open_source", "#games", "#agent_memory", "#architecture", "#optimization"], "emoji": "🩺", "ru": {"title": "ClinFusion: Революция в медицинском анализе изображений", "desc": "В данной
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#interpretability", "#agent_memory", "#optimization"], "emoji": "🤖", "ru": {"title": "Эффективные программные судьи вместо LLM", "desc": "Статья обсуждает альтернативу LLM как судьям в автоматизированной оценке, которая страдает от высоких затр
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#games", "#benchmark", "#multimodal", "#open_source"], "emoji": "🎬", "ru": {"title": "Новый стандарт оценки видео: Учимся у профессионалов", "desc": "В статье рассматривается проблема оценки качества видео, генерируемого ИИ. Авторы предлагают новый бенчмарк FilmBench, который основы
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#optimization"], "emoji": "🧠", "ru": {"title": "Память: ключ к эффективному обучению модели", "desc": "В данной статье рассматривается подход к улучшению языковой модели без ее переподготовки. Вместо этого используется постоянная память, в кото
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#science", "#dataset", "#3d", "#open_source", "#architecture"], "emoji": "🧠", "ru": {"title": "Новая эра в моделировании человеческой головы", "desc": "В статье представлена новая параметрическая модель человеческой головы, названная Generative aNthropometric Model (GNM). Эта модель
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#retrieval", "#science", "#rag", "#multimodal", "#retrieval_eval"], "emoji": "📜", "ru": {"title": "Восстановление исторических документов с помощью LLM и RAG", "desc": "Исторические документы являются важными архивами знаний, но они часто трудны для чтения из-за физического износа. 
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#data", "#hallucinations", "#benchmark", "#training", "#reasoning"], "emoji": "🔍", "ru": {"title": "Очистка шумов для улучшения обнаружения галлюцинаций", "desc": "В данной статье рассматриваются большие модели рассуждений (LRMs), которые создают длинные траектории рассуждений перед
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#retrieval", "#training", "#benchmark", "#hallucinations", "#multimodal", "#optimization"], "emoji": "📄", "ru": {"title": "Улучшение атрибуции без координатного интерфейса", "desc": "В статье рассматривается проблема надежного понимания визуальных документов с помощью моделей, основ
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#dataset", "#multilingual", "#open_source", "#low_resource"], "emoji": "💬", "ru": {"title": "IndicTalk: Корпус для мультиязычных разговоров на языках Индии", "desc": "В данной статье представлена база данных IndicTalk, которая является одной из крупнейших многозначных разговорных ко
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#architecture"], "emoji": "🔄", "ru": {"title": "Стабильность производительности при отклонении потоков в NVIDIA GPUs", "desc": "В данной статье рассматривается поведение расчета в GPUs от NVIDIA с учетом независимого планирования потоков (ITS). Исследуются разные поколения графическ
+[28.07.2026 14:03] Using data from previous issue: {"categories": ["#security", "#transfer_learning", "#dataset", "#benchmark", "#multimodal"], "emoji": "🚗", "ru": {"title": "Новый взгляд на стиль вождения с DriveDNA", "desc": "Статья представляет DriveDNA, новый набор данных и бенчмарк для моделирования стиля вождения, включающий 4,121 поездку от 4
+[28.07.2026 14:03] Querying the API.
+[28.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Text:"Alpin Dale alpin@dphn.ai AbstractSince the Volta architecture introduced Independent Thread Scheduling (ITS) in 2017, giving every thread its own program counter, NVIDIA GPUs have been widely assumed to handle control-flow divergence in fixed manner. We test that assumption with cross-generational study of warp divergence spanning Ampere, Hopper, and both the datacenter and consumer variants of Blackwell, anchored against pre-ITS Pascal baseline. Combining cycle-accurate microbenchmarks, hardware performance counters, and static analysis of compiler-generated SASS, we separate what has remained invariant from what has evolved. We find that the dynamic cost of divergence varies little across the tested generations. Divergent paths serialize strictly linearly in the number of paths (T (k) sk, with no superlinear reconvergence penalty), warp execution efficiency falls as exactly 32/k, and this behavior is independent of occupancy and identical across the four post-ITS generations; the same linear cost, predication remedy, and occupancy-invariance already hold on the pre-ITS Pascal baseline, so this behavior predates ITS. The static reconvergence machinery the compiler emits has changed substantially. Pascal reconverges through per-warp instruction stack (SSY/SYNC) that the ITS generations replace with barrier-register instructions. The fraction of divergent branches that reconverge later than the immediate post-dominator, the deferred reconvergence that classical SIMT-stack hardware relied on, collapses from 29 cases on Ampere to 2 on Blackwell. Blackwell additionally introduces two-tier convergence barrier (a previously undocumented .RELIABLE class distinct from .RECONVERGENT, encoded in 2-bit field), uniform-branch instructions, and explicit partial-mask warp synchronization, none of which exist on Ampere or Hopper. Controlled bitflip experiments show this barrier class is static compiler classification with no observable runtime effect in our tests. ITS has changed beneath stable programmer-visible cost model. Divergence still serializes predictably, while the control-flow ISA and reconvergence mechanisms continue to evolve. Index TermsGPU, SIMT, warp divergence, Independent Thread Scheduling, reconvergence, control flow, microbenchmarking, Blackwell. I. INTRODUCTION The single-instruction, multiple-thread (SIMT) execution model groups 32 threads into warp that shares one instruction-fetch stream [1]. When threads in warp take different sides of data-dependent branch, the warp diverges. The hardware must execute the taken paths separately, leaving lanes idle on each path and eroding the SIMD efficiency that makes GPUs fast. Control-flow divergence has accordingly been one of the most studied GPU performance pathologies, motivating long line of hardware reconvergence mechanisms [2][5] and compiler techniques [6][9]. immediate post-dominator (IPDom) of each branch [2]. The model gives correct reconvergence rule, but it can block thread holding lock while its peers spin, producing deadlocks [10]. Voltas Independent Thread Scheduling (ITS) gave each thread an independent program counter and call stack to break this limitation [11]. Because ITS is described only informally in vendor whitepapers and its hardware is closed, widespread assumption has taken hold. Post-Volta divergence handling is often treated as essentially settled, with Ampere results presumed to transfer unchanged to Hopper or Blackwell. Recent microarchitecture-dissection papers reinforce this blind spot. Thorough microbenchmark studies of Volta [12], Turing [13], Ampere [14], Hopper [15], and Blackwell [16] characterize the memory hierarchy, tensor cores, and instruction throughput in depth, while saying almost nothing about control-flow divergence. The most detailed SASS-level reverse engineering of GPU control flow to date [17] covers single architecture (Turing). No prior work asks whether ITS divergence behavior has changed across generations, nor measures it on Blackwell. We close that gap. Using microbenchmarks, GPU hardware performance counters, and static analysis of compiler-emitted SASS, we characterize warp divergence on four post-ITS GPUs spanning three generations and two Blackwell variants, together with pre-ITS Pascal baseline (Table I). Our guiding question is whether ITS has stood still. The answer has two parts. The dynamic behavior programmer observes is invariant, while the static control-flow machinery the compiler and ISA expose has changed. Contributions. cross-generational cost model for warp divergence (Ampere, Hopper, Blackwell 2), showing that divergence serializes linearly (T (k) sk) with small constant per path and no super-linear reconvergence penalty up to full 32-way split; the same law already governs pre-ITS Pascal part, so linear serialization predates ITS (Section IV). An independent hardware-counter confirmation that warp execution efficiency falls as exactly 32/k, generationinvariant, the divertogether with the finding that gence penalty is occupancy-invariant because it is an instruction-issue cost that additional resident warps cannot hide (Section IV). Pre-Volta GPUs managed divergence with per-warp reconvergence stack that forced threads back together at the cross-generational static analysis of reconvergence relative to the IPDom, showing that deplacement ferred (later-than-IPDom) reconvergence, the regime classical stack hardware depends on, all but disappears on Blackwell, and that the pre-ITS part still uses the literal SSY/SYNC instruction stack that the barrier-register scheme replaced (Section V). The first description of Blackwells two-tier convergencebarrier scheme (.RECONVERGENT vs. .RELIABLE, 2-bit barrier class), its uniform-branch instruction BRA.U, and its explicit partial-mask WARPSYNC, none of which appear on Ampere or Hopper; controlled bitflip experiments further show the barrier class is static classification with no observable runtime effect in our tests (Section V). II. BACKGROUND A. SIMT, reconvergence, and the IPDom stack warp executes one instruction at time across an active mask of up to 32 lanes. divergent branch partitions the active lanes; the hardware executes each resulting path with reduced active mask and must eventually reconverge them. The classical mechanism is per-warp stack that reconverges threads at the immediate post-dominator of the branch, the earliest instruction that all paths must reach [2]. large body of work improves on IPDom-s"
-[28.07.2026 11:17] Response: ```python
-[]
-```
-[28.07.2026 11:17] Deleting PDF ./assets/pdf/2607.23402.pdf.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Downloading and parsing paper https://huggingface.co/papers/2607.23822.
-[28.07.2026 11:17] Extra JSON file exists (./assets/json/2607.23822.json), skip PDF parsing.
-[28.07.2026 11:17] Paper image links file exists (./assets/img_data/2607.23822.json), skip HTML parsing.
-[28.07.2026 11:17] Success.
-[28.07.2026 11:17] Enriching papers with extra data.
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 0. Abstract  We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length a...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 1. Abstract  Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more ...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 2. Abstract  Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervision. Knowledge distillation can supply denser guidance, and a...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 3. Abstract  Robotic learning takes place in dynamic environments with large behavior spaces. A terminal success signal only tells the robot whether the task is completed. It does not explain whether the current behavior is making progress, remaining unchanged, or undoing earlier progress. For this rea...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 4. Abstract  Computer-use agents are usually improved by strengthening perception: better models for reading a screenshot and choosing where to click. Yet a screenshot is only a lossy rendering of the underlying program state, e.g., the files, application backends, and DOM that hold the task data. Diff...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 5. Abstract  On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods na...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 6. Abstract  Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. ...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 7. Abstract  Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this bottleneck by computing only selected key-value blocks, yet existing methods struggle to ...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 8. Abstract  Recent generative models are moving beyond silent video or standalone audio synthesis toward the joint generation of synchronized audio and video. Despite this progress, jointly generating audio and video with fine-grained cross-modal correspondence remains challenging due to their fundame...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 9. Abstract  Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. T...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 10. Abstract  We present Oxygen-TryOn, a unified foundation model for any-item virtual try-on. Rather than repurposing a general-purpose image editor, Oxygen-TryOn is fashion-native, built for try-on through a dedicated data engine and try-on-specific training. Given one or more reference items (clean p...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 11. Abstract  The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, existing approaches are predominantly implemented unde...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 12. Abstract  In this work, we aim to discretize the high-dimensional visual representations to bridge the gap with language models - a non-trivial challenge, as existing quantization methods suffer from codebook collapse, failing to scale while preserving semantic coherence. We identify the root cause ...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 13. Abstract  While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass quality filters, set cross-domain ratios by intuition, and lack a principled, attributable c...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 14. Abstract  Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must ...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 15. Abstract  LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternative: program distillation. Instead of p...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 16. Abstract  Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioning signals within generative large vision models, allowing for tight spatial control of ge...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 17. Abstract  Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps that obscure the cues relevant to truth...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 18. Abstract  Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score them with untrained, generic multimodal models. More fundamentally, their evaluation taxo...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 19. Abstract  Improving a language model today means retraining it: enormous compute, a new opaque model each cycle, non-deterministic output. We take the opposite path: the model stays frozen, and a persistent memory of verified solutions grows beside it. Once a problem family is solved and has passed ...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 20. Abstract  Reliable visual document understanding requires a model to attribute each answer to the evidence regions that support it. Recent benchmarks and systems express this step through a coordinate interface: the model outputs the coordinates of bounding boxes that mark the evidence regions in th...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 21. Abstract  Large Language Models (LLMs) have transformed conversational AI, yet high-quality multilingual code-mixed dialogue resources remain scarce, particularly for Indic languages where speakers naturally alternate between English and their native language in both native-script and Romanized form...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 22. Abstract  Historical documents act as invaluable knowledge archives but often suffer from illegibility due to physical deterioration and damage. While existing restoration methods based on masked language modeling effectively utilize local context, they struggle to restore named entities that requir...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 23. Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accur...
-[28.07.2026 11:17] ********************************************************************************
-[28.07.2026 11:17] Abstract 24. Abstract  Driving style captures stable, driver-specific patterns in how a vehicle is driven. In naturalistic data, however, this signal is hard to isolate because drivers are observed in different vehicles, on different roads, and under different conditions, so models may mistake vehicle- or situat...
-[28.07.2026 11:17] Read previous papers.
-[28.07.2026 11:17] Generating reviews via LLM API.
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#training", "#long_context", "#agi", "#agents", "#reasoning", "#rl", "#open_source", "#architecture", "#optimization"], "emoji": "🤖", "ru": {"title": "Новая эра в машинном обучении с Kimi K3", "desc": "В статье представлен модель Kimi K3, представляющая собой Mixture-of-Experts с 2,
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#long_context", "#agents", "#memory", "#tool_use", "#multimodal", "#agent_memory"], "emoji": "🎨", "ru": {"title": "Новый этап в творческой автоматизации с JarvisHub", "desc": "Статья описывает развитие Creative AI от создания отдельных объектов к многомодальному производству на длит
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#training", "#dataset", "#agents", "#benchmark", "#agent_memory", "#reasoning", "#rl", "#rlhf", "#transfer_learning"], "emoji": "🤖", "ru": {"title": "Эффективное обучение языковых моделей с помощью дистилляции знаний", "desc": "Данная статья предлагает новый подход к улучшению обуче
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#survey", "#agents", "#benchmark", "#rl"], "emoji": "🤖", "ru": {"title": "Успехи в обучении роботов: моделирование прогресса", "desc": "В данной статье рассматривается обучение роботов в динамичных условиях с большими пространствами поведения. Обсуждается необходимость в прогресс-во
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#agent_memory", "#reasoning", "#agents", "#memory"], "emoji": "💻", "ru": {"title": "Переход от восприятия к мышлению", "desc": "В данной статье представлена новая система StateAct, которая улучшает производительность агентов, работающих с компьютерными интерфейсами, благодаря прямом
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#training", "#agents", "#rl", "#transfer_learning", "#diffusion", "#optimization"], "emoji": "🔄", "ru": {"title": "Новая стратегия для улучшения моделей диффузии", "desc": "Статья рассматривает проблему адаптации моделей диффузии с использованием метода On-policy distillation (OPD),
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#dataset", "#agents", "#data", "#agent_memory", "#robotics", "#reasoning", "#multimodal"], "emoji": "🤖", "ru": {"title": "Создание систем с воплощенной интеллигенцией", "desc": "В данной работе обсуждаются многомодальные базовые модели, которые учатся взаимодействовать с физическим 
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#architecture", "#inference", "#training"], "emoji": "🎥", "ru": {"title": "Динамичное внимание для видеогенерации", "desc": "В данной статье представлены диффузионные трансформеры, которые важны для генерации видео высокого качества. Авторы предлагают 
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#multimodal"], "emoji": "🎥", "ru": {"title": "Совместная генерация аудио и видео с OmniVAE", "desc": "В данной статье рассматривается новая модель OmniVAE, которая осуществляет совместную генерацию аудио и видео с высокой степенью семантического соответствия. Основная проблема заклю
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#agents", "#training", "#continual_learning", "#long_context"], "emoji": "🧠", "ru": {"title": "Улучшение долгосрочного планирования для моделей на основе крупной базы данных", "desc": "В данной статье рассматривается многошаговое планирование на длинные горизонты для агентов моделей
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#data", "#rl", "#open_source", "#multimodal", "#diffusion", "#architecture", "#optimization"], "emoji": "👗", "ru": {"title": "Универсальная примерка: Oxygen-TryOn для любых предметов", "desc": "Oxygen-TryOn представляет собой универсальную моде
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#hallucinations", "#benchmark", "#dataset", "#open_source", "#training"], "emoji": "🧬", "ru": {"title": "Новый подход к проектированию белковых связывателей", "desc": "В данной статье представлено новое поколение генеративных моделей для проектирования
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#training", "#inference", "#data", "#architecture", "#optimization"], "emoji": "🔍", "ru": {"title": "Новая эра в сжатии визуальных данных", "desc": "В данной работе мы занимаемся дискретизацией высокоразмерных визуальных представлений, чтобы устранить разрыв с языковыми моделями. Су
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#dataset", "#data", "#benchmark", "#open_source", "#multimodal", "#transfer_learning", "#optimization"], "emoji": "🖼️", "ru": {"title": "Оптимизация смешивания данных для Vision Language моделей", "desc": "В статье рассматривается создание наборов данных для моделей Vision Language 
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#retrieval", "#agi", "#benchmark", "#interpretability", "#tool_use", "#healthcare", "#multimodal", "#open_source", "#games", "#agent_memory", "#architecture", "#optimization"], "emoji": "🩺", "ru": {"title": "ClinFusion: Революция в медицинском анализе изображений", "desc": "В данной
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#interpretability", "#agent_memory", "#optimization"], "emoji": "🤖", "ru": {"title": "Эффективные программные судьи вместо LLM", "desc": "Статья обсуждает альтернативу LLM как судьям в автоматизированной оценке, которая страдает от высоких затр
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#science", "#dataset", "#3d", "#open_source", "#architecture"], "emoji": "🧠", "ru": {"title": "Новая эра в моделировании человеческой головы", "desc": "В статье представлена новая параметрическая модель человеческой головы, названная Generative aNthropometric Model (GNM). Эта модель
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#data", "#hallucinations", "#benchmark", "#training", "#reasoning"], "emoji": "🔍", "ru": {"title": "Очистка шумов для улучшения обнаружения галлюцинаций", "desc": "В данной статье рассматриваются большие модели рассуждений (LRMs), которые создают длинные траектории рассуждений перед
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#games", "#benchmark", "#multimodal", "#open_source"], "emoji": "🎬", "ru": {"title": "Новый стандарт оценки видео: Учимся у профессионалов", "desc": "В статье рассматривается проблема оценки качества видео, генерируемого ИИ. Авторы предлагают новый бенчмарк FilmBench, который основы
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#optimization"], "emoji": "🧠", "ru": {"title": "Память: ключ к эффективному обучению модели", "desc": "В данной статье рассматривается подход к улучшению языковой модели без ее переподготовки. Вместо этого используется постоянная память, в кото
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#retrieval", "#training", "#benchmark", "#hallucinations", "#multimodal", "#optimization"], "emoji": "📄", "ru": {"title": "Улучшение атрибуции без координатного интерфейса", "desc": "В статье рассматривается проблема надежного понимания визуальных документов с помощью моделей, основ
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#dataset", "#multilingual", "#open_source", "#low_resource"], "emoji": "💬", "ru": {"title": "IndicTalk: Корпус для мультиязычных разговоров на языках Индии", "desc": "В данной статье представлена база данных IndicTalk, которая является одной из крупнейших многозначных разговорных ко
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#retrieval", "#science", "#rag", "#multimodal", "#retrieval_eval"], "emoji": "📜", "ru": {"title": "Восстановление исторических документов с помощью LLM и RAG", "desc": "Исторические документы являются важными архивами знаний, но они часто трудны для чтения из-за физического износа. 
-[28.07.2026 11:17] Querying the API.
-[28.07.2026 11:17] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accurate microbenchmarks, hardware counters, and static analysis of compiler-generated SASS, we separate stable behavior from architectural change. Across all tested generations, divergent paths serialize linearly with the number of paths k, following T(k) approx sk with no super-linear reconvergence penalty. Warp execution efficiency falls as 32/k, the penalty is independent of occupancy, and predication removes the serialization cost. The same behavior appears on Pascal, showing that this programmer-visible cost model predates ITS. The compiler-emitted reconvergence machinery, however, has changed substantially. Pascal uses a per-warp SSY/SYNC instruction stack, whereas later generations use barrier-register instructions. Deferred reconvergence beyond the immediate post-dominator falls from 29 cases on Ampere to 2 on Blackwell. Blackwell also introduces a two-tier convergence-barrier classification, uniform-branch instructions, and explicit partial-mask warp synchronization, none of which appear on Ampere or Hopper. Controlled bit-flip experiments indicate that the new barrier class is a static compiler classification with no observable runtime effect in our tests. Thus, divergence retains a stable and predictable performance cost even as NVIDIA's control-flow ISA and reconvergence mechanisms continue to evolve.
-[28.07.2026 11:17] Response: {
-  "desc": "В данной статье рассматривается поведение расчета в GPUs от NVIDIA с учетом независимого планирования потоков (ITS). Исследуются разные поколения графических процессоров, включая Ampere, Hopper и Blackwell. Авторы обнаружили, что поведение в случае отклонения потоков стабильно и предсказуемо, независимо от архитектурных изменений. Также были выявлены изменения в механизмах реконсолидации между поколениями, включая изменения в инструкциях и способах синхронизации.",
-  "emoji": "🔄",
-  "title": "Стабильность производительности при отклонении потоков в NVIDIA GPUs"
+Abstract  Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training, and its beam-search decoding is too slow for real-time deployment. We introduce TRACE (Tool Retrieval via Augmented Chain-of-thought and Enterprise rules), a two-stage curriculum that resolves this dissociation. Stage 1 reuses the multi-format memorization SFT from ToolSense to seed tool knowledge with LoRA. Stage 2 is our core contribution: the model is trained to emit a thinking trace before producing a JSON list of tool tokens, using two data sources -- RRB pairs from ToolSense and queries synthesized to target business rules curated by domain experts -- both augmented with reasoning traces. This training objective preserves Stage 1 MCQ and QA probing accuracy while enabling single-beam greedy decoding at production latency. Evaluated on a combined enterprise catalog of 8,300+ tools across two enterprise product lines, TRACE training for Stage 2 not only preserves but improves tool understanding: MCQ accuracy gains +3.2 pp and QA probing gains +9 pp over Stage 1. On retrieval, TRACE achieves ~86% recall on Domain A and ~60% on Domain B -- compared to embedding baseline performance of ~27% & ~52% -- both with single-beam greedy decoding, making it directly deployable at production latency.
+[28.07.2026 14:03] Response: ```json
+{
+  "desc": "Параметрический поиск позволяет LLM получать доступ к инструментам через уникальные виртуальные токены. Однако метод Toolsense имеет недостатки: он разрушает знания о инструментах во время тренировки и имеет медленный декодер. Мы представляем TRACE, метод, который включает два этапа и улучшает усвоение знаний о инструментах. В результате тренировки с TRACE улучшаются показатели точности и скорость извлечения инструментов.",
+  "emoji": "🛠️",
+  "title": "TRACE: Новый подход к извлечению инструментов для LLM"
 }
-[28.07.2026 11:17] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+```
+[28.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -299,12 +304,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accurate microbenchmarks, hardware counters, and static analysis of compiler-generated SASS, we separate stable behavior from architectural change. Across all tested generations, divergent paths serialize linearly with the number of paths k, following T(k) approx sk with no super-linear reconvergence penalty. Warp execution efficiency falls as 32/k, the penalty is independent of occupancy, and predication removes the serialization cost. The same behavior appears on Pascal, showing that this programmer-visible cost model predates ITS. The compiler-emitted reconvergence machinery, however, has changed substantially. Pascal uses a per-warp SSY/SYNC instruction stack, whereas later generations use barrier-register instructions. Deferred reconvergence beyond the immediate post-dominator falls from 29 cases on Ampere to 2 on Blackwell. Blackwell also introduces a two-tier convergence-barrier classification, uniform-branch instructions, and explicit partial-mask warp synchronization, none of which appear on Ampere or Hopper. Controlled bit-flip experiments indicate that the new barrier class is a static compiler classification with no observable runtime effect in our tests. Thus, divergence retains a stable and predictable performance cost even as NVIDIA's control-flow ISA and reconvergence mechanisms continue to evolve."
+"Abstract  Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training, and its beam-search decoding is too slow for real-time deployment. We introduce TRACE (Tool Retrieval via Augmented Chain-of-thought and Enterprise rules), a two-stage curriculum that resolves this dissociation. Stage 1 reuses the multi-format memorization SFT from ToolSense to seed tool knowledge with LoRA. Stage 2 is our core contribution: the model is trained to emit a thinking trace before producing a JSON list of tool tokens, using two data sources -- RRB pairs from ToolSense and queries synthesized to target business rules curated by domain experts -- both augmented with reasoning traces. This training objective preserves Stage 1 MCQ and QA probing accuracy while enabling single-beam greedy decoding at production latency. Evaluated on a combined enterprise catalog of 8,300+ tools across two enterprise product lines, TRACE training for Stage 2 not only preserves but improves tool understanding: MCQ accuracy gains +3.2 pp and QA probing gains +9 pp over Stage 1. On retrieval, TRACE achieves ~86% recall on Domain A and ~60% on Domain B -- compared to embedding baseline performance of ~27% & ~52% -- both with single-beam greedy decoding, making it directly deployable at production latency."
 
-[28.07.2026 11:17] Response: ```python
-["ARCHITECTURE"]
+[28.07.2026 14:03] Response: ```python
+["RAG", "TRAINING", "RETRIEVAL"]
 ```
-[28.07.2026 11:17] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[28.07.2026 14:03] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -347,25 +352,26 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accurate microbenchmarks, hardware counters, and static analysis of compiler-generated SASS, we separate stable behavior from architectural change. Across all tested generations, divergent paths serialize linearly with the number of paths k, following T(k) approx sk with no super-linear reconvergence penalty. Warp execution efficiency falls as 32/k, the penalty is independent of occupancy, and predication removes the serialization cost. The same behavior appears on Pascal, showing that this programmer-visible cost model predates ITS. The compiler-emitted reconvergence machinery, however, has changed substantially. Pascal uses a per-warp SSY/SYNC instruction stack, whereas later generations use barrier-register instructions. Deferred reconvergence beyond the immediate post-dominator falls from 29 cases on Ampere to 2 on Blackwell. Blackwell also introduces a two-tier convergence-barrier classification, uniform-branch instructions, and explicit partial-mask warp synchronization, none of which appear on Ampere or Hopper. Controlled bit-flip experiments indicate that the new barrier class is a static compiler classification with no observable runtime effect in our tests. Thus, divergence retains a stable and predictable performance cost even as NVIDIA's control-flow ISA and reconvergence mechanisms continue to evolve."
+"Abstract  Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training, and its beam-search decoding is too slow for real-time deployment. We introduce TRACE (Tool Retrieval via Augmented Chain-of-thought and Enterprise rules), a two-stage curriculum that resolves this dissociation. Stage 1 reuses the multi-format memorization SFT from ToolSense to seed tool knowledge with LoRA. Stage 2 is our core contribution: the model is trained to emit a thinking trace before producing a JSON list of tool tokens, using two data sources -- RRB pairs from ToolSense and queries synthesized to target business rules curated by domain experts -- both augmented with reasoning traces. This training objective preserves Stage 1 MCQ and QA probing accuracy while enabling single-beam greedy decoding at production latency. Evaluated on a combined enterprise catalog of 8,300+ tools across two enterprise product lines, TRACE training for Stage 2 not only preserves but improves tool understanding: MCQ accuracy gains +3.2 pp and QA probing gains +9 pp over Stage 1. On retrieval, TRACE achieves ~86% recall on Domain A and ~60% on Domain B -- compared to embedding baseline performance of ~27% & ~52% -- both with single-beam greedy decoding, making it directly deployable at production latency."
 
-[28.07.2026 11:17] Response: []
-[28.07.2026 11:17] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[28.07.2026 14:04] Response: ```python
+['RETRIEVAL', 'MEMORIZATION', 'PROMPTING']
+```
+[28.07.2026 14:04] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accurate microbenchmarks, hardware counters, and static analysis of compiler-generated SASS, we separate stable behavior from architectural change. Across all tested generations, divergent paths serialize linearly with the number of paths k, following T(k) approx sk with no super-linear reconvergence penalty. Warp execution efficiency falls as 32/k, the penalty is independent of occupancy, and predication removes the serialization cost. The same behavior appears on Pascal, showing that this programmer-visible cost model predates ITS. The compiler-emitted reconvergence machinery, however, has changed substantially. Pascal uses a per-warp SSY/SYNC instruction stack, whereas later generations use barrier-register instructions. Deferred reconvergence beyond the immediate post-dominator falls from 29 cases on Ampere to 2 on Blackwell. Blackwell also introduces a two-tier convergence-barrier classification, uniform-branch instructions, and explicit partial-mask warp synchronization, none of which appear on Ampere or Hopper. Controlled bit-flip experiments indicate that the new barrier class is a static compiler classification with no observable runtime effect in our tests. Thus, divergence retains a stable and predictable performance cost even as NVIDIA's control-flow ISA and reconvergence mechanisms continue to evolve.
+Abstract  Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training, and its beam-search decoding is too slow for real-time deployment. We introduce TRACE (Tool Retrieval via Augmented Chain-of-thought and Enterprise rules), a two-stage curriculum that resolves this dissociation. Stage 1 reuses the multi-format memorization SFT from ToolSense to seed tool knowledge with LoRA. Stage 2 is our core contribution: the model is trained to emit a thinking trace before producing a JSON list of tool tokens, using two data sources -- RRB pairs from ToolSense and queries synthesized to target business rules curated by domain experts -- both augmented with reasoning traces. This training objective preserves Stage 1 MCQ and QA probing accuracy while enabling single-beam greedy decoding at production latency. Evaluated on a combined enterprise catalog of 8,300+ tools across two enterprise product lines, TRACE training for Stage 2 not only preserves but improves tool understanding: MCQ accuracy gains +3.2 pp and QA probing gains +9 pp over Stage 1. On retrieval, TRACE achieves ~86% recall on Domain A and ~60% on Domain B -- compared to embedding baseline performance of ~27% & ~52% -- both with single-beam greedy decoding, making it directly deployable at production latency.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[28.07.2026 11:17] Response: {
-  "desc": "This paper investigates how NVIDIA GPUs manage warp divergence across different architectures, specifically Ampere, Hopper, and Blackwell, compared to the older Pascal architecture. The authors find that the performance cost of divergent paths remains stable and predictable, despite changes in the underlying hardware and compiler mechanisms. They demonstrate that the serialization of divergent paths is linear with the number of paths, and that newer architectures have introduced more sophisticated reconvergence techniques. Overall, the study reveals that while the control-flow instruction set architecture (ISA) has evolved, the fundamental performance implications of warp divergence have not changed significantly.",
-  "title": "Stable Performance Costs of Warp Divergence Across NVIDIA GPU Generations"
+[28.07.2026 14:04] Response: {
+  "desc": "This paper introduces TRACE, a method for improving tool retrieval in large language models (LLMs) by addressing the limitations of previous approaches. It consists of a two-stage training process that enhances the model's ability to generate tool tokens while maintaining accuracy. The first stage leverages existing tool knowledge, while the second stage incorporates reasoning traces to improve decision-making. TRACE demonstrates significant improvements in tool understanding and retrieval performance, making it suitable for real-time applications.",
+  "title": "Enhancing Tool Retrieval with TRACE"
 }
-[28.07.2026 11:17] Using data from previous issue: {"categories": ["#security", "#transfer_learning", "#dataset", "#benchmark", "#multimodal"], "emoji": "🚗", "ru": {"title": "Новый взгляд на стиль вождения с DriveDNA", "desc": "Статья представляет DriveDNA, новый набор данных и бенчмарк для моделирования стиля вождения, включающий 4,121 поездку от 4
-[28.07.2026 11:17] Renaming data file.
-[28.07.2026 11:17] Renaming previous data. hf_papers.json to ./d/2026-07-28.json
-[28.07.2026 11:17] Saving new data file.
-[28.07.2026 11:17] Generating page.
-[28.07.2026 11:17] Renaming previous page.
-[28.07.2026 11:17] Renaming previous data. index.html to ./d/2026-07-28.html
-[28.07.2026 11:17] Writing result.
-[28.07.2026 11:17] Renaming log file.
-[28.07.2026 11:17] Renaming previous data. log.txt to ./logs/2026-07-28_last_log.txt
+[28.07.2026 14:04] Renaming data file.
+[28.07.2026 14:04] Renaming previous data. hf_papers.json to ./d/2026-07-28.json
+[28.07.2026 14:04] Saving new data file.
+[28.07.2026 14:04] Generating page.
+[28.07.2026 14:04] Renaming previous page.
+[28.07.2026 14:04] Renaming previous data. index.html to ./d/2026-07-28.html
+[28.07.2026 14:04] Writing result.
+[28.07.2026 14:04] Renaming log file.
+[28.07.2026 14:04] Renaming previous data. log.txt to ./logs/2026-07-28_last_log.txt
