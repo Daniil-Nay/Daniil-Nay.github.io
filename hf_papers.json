@@ -4,9 +4,9 @@
         "en": "July 28",
         "zh": "7月28日"
     },
-    "time_utc": "2026-07-28 19:21",
+    "time_utc": "2026-07-28 22:04",
     "weekday": 1,
-    "issue_id": 2926,
+    "issue_id": 2927,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "Kimi K3: Open Frontier Intelligence",
             "url": "https://huggingface.co/papers/2607.24653",
             "abstract": "Abstract  We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length and model depth. Together with Stable LatentMoE, which effectively activates 16 of 896 routed experts per token, and refined training and data recipes, these advances yield an approximately 2.5x improvement in overall scaling efficiency over Kimi K2. Post-training highlights reinforcement learning across general, agentic, and coding domains and multiple reasoning-effort levels, enabling compositional generalization and robust long-horizon execution. At 2.8T scale, Kimi K3 is supported by infrastructure advances in multiple areas: algorithm-system co-design for KDA, perfectly balanced expert-parallel training with efficient memory management, million-token agentic RL with persistent rollout and sandbox states, and deployment innovations. Extensive evaluations show that Kimi K3 achieves frontier-level performance across long-horizon coding, agentic, knowledge, reasoning, and vision tasks. While its overall performance still trails the most powerful proprietary models, namely Claude Fable 5 and GPT-5.6 Sol, Kimi K3 consistently outperforms other open and proprietary models evaluated in our suite. We release the full Kimi K3 model weights to facilitate future research and accelerate the broader deployment and adoption of frontier intelligence.",
-            "score": 250,
+            "score": 257,
             "issue_id": 2921,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -459,7 +459,7 @@
             "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
             "url": "https://huggingface.co/papers/2607.23588",
             "abstract": "Abstract  Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more than isolated prompt-output interactions. It involves references, drafts, alternatives, edits, failed attempts, version relations, tool actions, evaluation signals, and human feedback, which together form an evolving project state. Existing prompt-based, chat-based, and node-based generation systems only partially support this state, as they often discard intermediate context, rely on linear conversations, or require manually specified workflows. Recent commercial systems indicate a shift toward agent-assisted creative production, but their closed architectures make it difficult to study how agents represent context, choose tools, revise artifacts, recover from failures, and maintain consistency over time. To address this gap, we introduce JarvisHub, a canvas-native creative agent harness for long-horizon multimodal creation. JarvisHub treats an editable canvas as the user workspace, the agent's external memory, action space, and shared project state, representing multimodal artifacts, dependencies, versions, and feedback as typed canvas nodes and links. Through a three-layer architecture of canvas state, protocol bridge, and agent runtime, JarvisHub enables agents to act within an inspectable and editable creative state. This design moves creative agents beyond isolated tool use toward sustained, human-steerable creative automation, where agents can progressively plan, generate, revise, and organize multimodal projects while users remain able to inspect, guide, and intervene throughout the process.",
-            "score": 101,
+            "score": 102,
             "issue_id": 2921,
             "pub_date": "2026-07-26",
             "pub_date_card": {
@@ -635,7 +635,7 @@
             "title": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
             "url": "https://huggingface.co/papers/2607.21655",
             "abstract": "Abstract  Robotic learning takes place in dynamic environments with large behavior spaces. A terminal success signal only tells the robot whether the task is completed. It does not explain whether the current behavior is making progress, remaining unchanged, or undoing earlier progress. For this reason, recent studies have increasingly explored progress rewards that provide feedback during task execution. However, the current literature lacks a shared framework. Existing methods use different observations, goal specifications, output signals, supervision sources, and evaluation protocols. This makes it difficult to compare them and understand what their results actually validate. In this survey, we provide a unified view of progress reward modeling for robotic learning. We organize the field in three connected steps. We first study the interface of a progress model. This defines the problem from the outside by asking what information the model receives and what form of progress signal it produces. We then move inside the model and study the methods used to construct this signal. This reveals the different assumptions and mechanisms behind progress estimation and reward generation. Finally, we examine the data and benchmarks that support these methods. This shows how progress supervision is obtained and what different evaluations actually measure. Together, these three perspectives connect what a progress model is, how it is built, and how its quality is validated. We further summarize the main limitations of current approaches and discuss future research directions.",
-            "score": 55,
+            "score": 57,
             "issue_id": 2921,
             "pub_date": "2026-07-22",
             "pub_date_card": {
@@ -1681,48 +1681,6 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.22682",
-            "title": "A Vocabulary for Multi-Agent Automated Research Systems",
-            "url": "https://huggingface.co/papers/2607.22682",
-            "abstract": "Abstract  We introduce a vocabulary for automated research systems built from one or more agents to make their design choices easier to describe and compare. The vocabulary specifies 1) who the agents are, 2) what operations are available in the system, 3) who may invoke them, 4) how agents communicate, 5) what information is visible within and across runs, 6) how the next action is chosen, 7) how a run begins, and 8) how outputs are evaluated. A trajectory records one run from the input task to the returned artifact. Because agents, operations, and initialization may be stochastic, repeated runs on the same task induce a distribution over trajectories rather than a single behavior.   Our vocabulary turns structural design questions, such as when agents should communicate, gain or lose a capability, or carry information across runs, into testable choices. It also makes the evaluator a component of the system, since reported gains depend on how closely the proxy score matches true quality. That separation also splits the vague complaint that these systems lack taste into two failures with different solutions. Generative taste is the rate at which a system proposes novel trajectories before any score is observed, and evaluative taste is the gap between the proxy score and the quality it should match. We instantiate the vocabulary on recent autoresearch systems to illustrate that it covers designs that differ widely in structure.",
-            "score": 2,
-            "issue_id": 2925,
-            "pub_date": "2026-07-13",
-            "pub_date_card": {
-                "ru": "13 июля",
-                "en": "July 13",
-                "zh": "7月13日"
-            },
-            "hash": "a33c61816f4cb26c",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Bardiya Akhbari"
-            ],
-            "affiliations": [
-                "Amazon AGI"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.22682.jpg",
-            "data": {
-                "categories": [
-                    "#agents",
-                    "#reasoning",
-                    "#benchmark",
-                    "#agent_memory",
-                    "#optimization"
-                ],
-                "emoji": "🧩",
-                "ru": {
-                    "title": "Словарь для автоматизации исследовательских систем",
-                    "desc": "В данной статье представлен словарь для автоматизированных исследовательских систем, состоящих из одного или нескольких агентов. Он описывает, кто являются агенты, какие операции доступны в системе, как они взаимодействуют и как выбираются следующие действия. Словарь помогает формулировать структурные вопросы дизайна и превращает их в тестируемые выборы. Также он выделяет значение оценщика как компонента системы, подчеркивая связь между прокси-оценкой и истинным качеством."
-                },
-                "en": {
-                    "title": "Structuring Automated Research: A Vocabulary for Agent Design",
-                    "desc": "This paper presents a structured vocabulary for designing automated research systems that utilize one or more agents. It outlines key components such as agent roles, available operations, communication methods, and how actions are selected and evaluated. The framework allows for the exploration of design choices, particularly in how agents interact and share information across different runs. By distinguishing between generative and evaluative taste, the paper addresses common criticisms of these systems and provides a basis for improving their performance."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.22639",
             "title": "TRACE: Business Rule-Grounded Reasoning Curriculum for Knowledge-Preserving Parametric Tool Retrieval in Enterprise LLMs",
             "url": "https://huggingface.co/papers/2607.22639",
@@ -1805,6 +1763,48 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.23370",
+            "title": "Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features",
+            "url": "https://huggingface.co/papers/2607.23370",
+            "abstract": "Abstract  Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical features with sentiment via static concatenation, applying identical fusion weights regardless of market state. This is inconsistent with the behavioural finance literature, which shows that retail sentiment is most predictive during volatile periods and noisy during calm ones. This paper proposes Regime-Aware Multi-Modal Learning (RAML), which conditions fusion of sentiment and price features on a dynamically detected binary market regime. Rolling 24-hour volatility partitions observations into stable and volatile regimes; a learnable sigmoid gate adjusts the weight of the sentiment embedding relative to the price embedding, trusting sentiment more during volatility and price dynamics more during stable phases. The system is evaluated on 3,491 hourly observations (July 2024-September 2025), combining Bitcoin OHLCV data with Reddit /r/Bitcoin FinBERT sentiment. Four models are compared - price-only BiLSTM, sentiment-only classifier, static-concatenation BiLSTM, and RAML - across 3-hour and 6-hour horizons, with an ablation study isolating the sentiment branch, regime detection, and adaptive fusion. RAML achieves macro-F1 of 0.5474 (3h) and 0.5513 (6h), with the highest AUC at 3 hours (0.5084), indicating better calibration. Ablation confirms every component is necessary, and replacing adaptive weighting with concatenation causes recall collapse at 6 hours (F1: 0.14). These results establish regime-conditioned adaptive fusion as a necessary design principle for multi-modal financial forecasting.",
+            "score": 1,
+            "issue_id": 2927,
+            "pub_date": "2026-07-25",
+            "pub_date_card": {
+                "ru": "25 июля",
+                "en": "July 25",
+                "zh": "7月25日"
+            },
+            "hash": "318956d29b6828f2",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Muhammad Abdullah Haroon"
+            ],
+            "affiliations": [
+                "Department of Computer Science, FAST National University of Computer and Emerging Sciences (FAST-NUCES), Lahore, Pakistan"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.23370.jpg",
+            "data": {
+                "categories": [
+                    "#optimization",
+                    "#transfer_learning",
+                    "#multimodal",
+                    "#dataset",
+                    "#benchmark"
+                ],
+                "emoji": "📈",
+                "ru": {
+                    "title": "Адаптивное слияние для финансового прогнозирования",
+                    "desc": "В статье рассматривается сложная задача прогнозирования цен на биткойн на субдневных временных масштабах. Авторы предлагают метод Regime-Aware Multi-Modal Learning (RAML), который улучшает комбинацию ценовых индикаторов и настроений, основываясь на динамически определяемом рыночном режиме. При помощи скользящей волатильности наблюдения разделяются на стабильные и волатильные режимы, позволяя системе адаптировать веса чувствительности в зависимости от рыночной ситуации. Результаты показывают, что этот подход значительно увеличивает точность прогнозирования по сравнению с традиционными методами."
+                },
+                "en": {
+                    "title": "Adaptive Fusion for Smarter Bitcoin Price Predictions",
+                    "desc": "This paper addresses the challenge of predicting Bitcoin prices on short time scales by introducing Regime-Aware Multi-Modal Learning (RAML). It recognizes that Bitcoin's price behavior varies significantly between stable and volatile market conditions, which traditional methods fail to account for. RAML dynamically adjusts the influence of sentiment data from social media based on the current market regime, enhancing prediction accuracy. The results demonstrate that this adaptive approach outperforms conventional methods, highlighting the importance of considering market dynamics in financial forecasting."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.23373",
             "title": "UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models",
             "url": "https://huggingface.co/papers/2607.23373",
@@ -1852,6 +1852,48 @@
                 "en": {
                     "title": "UltraViT: Optimizing Vision Encoders for Efficient LVLMs",
                     "desc": "This paper introduces UltraViT, a vision encoder specifically designed for Large Vision-Language Models (LVLMs) to enhance on-device performance. Unlike traditional models that focus on reducing vision tokens or using smaller language models, UltraViT optimizes the vision encoder for lower latency on edge devices. The architecture employs a pyramidal design with heterogeneous spatial mixers, allowing for efficient feature extraction. Additionally, a novel two-stage generative pre-training strategy is proposed, which significantly improves semantic grounding and multimodal alignment during LVLM training."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.22682",
+            "title": "A Vocabulary for Multi-Agent Automated Research Systems",
+            "url": "https://huggingface.co/papers/2607.22682",
+            "abstract": "Abstract  We introduce a vocabulary for automated research systems built from one or more agents to make their design choices easier to describe and compare. The vocabulary specifies 1) who the agents are, 2) what operations are available in the system, 3) who may invoke them, 4) how agents communicate, 5) what information is visible within and across runs, 6) how the next action is chosen, 7) how a run begins, and 8) how outputs are evaluated. A trajectory records one run from the input task to the returned artifact. Because agents, operations, and initialization may be stochastic, repeated runs on the same task induce a distribution over trajectories rather than a single behavior.   Our vocabulary turns structural design questions, such as when agents should communicate, gain or lose a capability, or carry information across runs, into testable choices. It also makes the evaluator a component of the system, since reported gains depend on how closely the proxy score matches true quality. That separation also splits the vague complaint that these systems lack taste into two failures with different solutions. Generative taste is the rate at which a system proposes novel trajectories before any score is observed, and evaluative taste is the gap between the proxy score and the quality it should match. We instantiate the vocabulary on recent autoresearch systems to illustrate that it covers designs that differ widely in structure.",
+            "score": 1,
+            "issue_id": 2925,
+            "pub_date": "2026-07-13",
+            "pub_date_card": {
+                "ru": "13 июля",
+                "en": "July 13",
+                "zh": "7月13日"
+            },
+            "hash": "a33c61816f4cb26c",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Bardiya Akhbari"
+            ],
+            "affiliations": [
+                "Amazon AGI"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.22682.jpg",
+            "data": {
+                "categories": [
+                    "#agents",
+                    "#reasoning",
+                    "#benchmark",
+                    "#agent_memory",
+                    "#optimization"
+                ],
+                "emoji": "🧩",
+                "ru": {
+                    "title": "Словарь для автоматизации исследовательских систем",
+                    "desc": "В данной статье представлен словарь для автоматизированных исследовательских систем, состоящих из одного или нескольких агентов. Он описывает, кто являются агенты, какие операции доступны в системе, как они взаимодействуют и как выбираются следующие действия. Словарь помогает формулировать структурные вопросы дизайна и превращает их в тестируемые выборы. Также он выделяет значение оценщика как компонента системы, подчеркивая связь между прокси-оценкой и истинным качеством."
+                },
+                "en": {
+                    "title": "Structuring Automated Research: A Vocabulary for Agent Design",
+                    "desc": "This paper presents a structured vocabulary for designing automated research systems that utilize one or more agents. It outlines key components such as agent roles, available operations, communication methods, and how actions are selected and evaluated. The framework allows for the exploration of design choices, particularly in how agents interact and share information across different runs. By distinguishing between generative and evaluative taste, the paper addresses common criticisms of these systems and provides a basis for improving their performance."
                 }
             }
         },
@@ -2007,9 +2049,9 @@
         "zh": "7月29日"
     },
     "categories": {
-        "#dataset": 9,
+        "#dataset": 10,
         "#data": 5,
-        "#benchmark": 14,
+        "#benchmark": 15,
         "#agents": 10,
         "#rl": 5,
         "#rlhf": 1,
@@ -2018,7 +2060,7 @@
         "#inference": 3,
         "#3d": 1,
         "#audio": 0,
-        "#multimodal": 11,
+        "#multimodal": 12,
         "#math": 0,
         "#multilingual": 1,
         "#architecture": 9,
@@ -2029,11 +2071,11 @@
         "#games": 4,
         "#interpretability": 2,
         "#reasoning": 6,
-        "#transfer_learning": 4,
+        "#transfer_learning": 5,
         "#graphs": 0,
         "#ethics": 0,
         "#security": 1,
-        "#optimization": 15,
+        "#optimization": 16,
         "#survey": 1,
         "#diffusion": 6,
         "#alignment": 0,

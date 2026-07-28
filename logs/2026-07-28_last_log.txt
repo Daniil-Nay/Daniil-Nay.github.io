@@ -1,307 +1,306 @@
-[28.07.2026 16:44] Read previous papers.
-[28.07.2026 16:44] Generating top page (month).
-[28.07.2026 16:44] Writing top page (month).
-[28.07.2026 19:21] Read previous papers.
-[28.07.2026 19:21] Get feed.
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24653
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24653
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23588
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23588
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24280
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24280
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24731
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24731
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21655
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21655
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22798
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22798
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24744
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24744
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24027
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24027
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23855
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23855
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21694
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21694
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24720
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24720
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23518
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23518
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22148
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22148
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24516
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24516
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22098
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22098
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22561
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22561
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24743
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24743
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24241
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24241
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23806
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23806
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23687
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23687
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21936
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21936
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24651
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24651
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23242
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23242
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22682
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22682
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22639
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22639
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23402
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23402
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23373
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23373
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23909
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23909
-[28.07.2026 19:21] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23822
-[28.07.2026 19:21] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23822
-[28.07.2026 19:21] Extract page data from URL. URL: https://huggingface.co/papers/2607.21606
-[28.07.2026 19:21] Updating GitHub stars.
-[28.07.2026 19:21] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[28.07.2026 19:21] No deleted papers detected.
-[28.07.2026 19:21] Downloading and parsing papers (pdf, html). Total: 30.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24653.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24653.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24653.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23588.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23588.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23588.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24280.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24280.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24280.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24731.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24731.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24731.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.21655.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.21655.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.21655.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.22798.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.22798.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.22798.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24744.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24744.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24744.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24027.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24027.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24027.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23855.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23855.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23855.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.21694.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.21694.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.21694.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24720.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24720.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24720.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23518.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23518.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23518.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.22148.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.22148.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.22148.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24516.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24516.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24516.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.22098.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.22098.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.22098.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.22561.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.22561.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.22561.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24743.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24743.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24743.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24241.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24241.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24241.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23806.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23806.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23806.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23687.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23687.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23687.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.21936.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.21936.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.21936.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.24651.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.24651.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.24651.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23242.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23242.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23242.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.22682.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.22682.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.22682.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.22639.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.22639.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.22639.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23402.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23402.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23402.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23373.
-[28.07.2026 19:21] Downloading paper 2607.23373 from https://arxiv.org/pdf/2607.23373v1...
-[28.07.2026 19:21] Extracting affiliations from text.
-[28.07.2026 19:21] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[28.07.2026 19:22] Read previous papers.
+[28.07.2026 19:22] Generating top page (month).
+[28.07.2026 19:22] Writing top page (month).
+[28.07.2026 22:04] Read previous papers.
+[28.07.2026 22:04] Get feed.
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24653
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24653
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23588
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23588
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24280
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24280
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24731
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24731
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21655
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21655
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22798
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22798
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24744
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24744
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24027
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24027
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23855
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23855
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21694
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21694
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24720
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24720
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23518
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23518
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22148
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22148
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24516
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24516
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22098
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22098
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22561
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22561
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24743
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24743
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24241
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24241
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23806
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23806
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23687
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23687
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21936
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21936
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24651
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24651
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23242
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23242
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22639
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22639
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23402
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23402
+[28.07.2026 22:04] Extract page data from URL. URL: https://huggingface.co/papers/2607.23370
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23373
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23373
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22682
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22682
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23909
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23909
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23822
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23822
+[28.07.2026 22:04] Get page data from previous paper. URL: https://huggingface.co/papers/2607.21606
+[28.07.2026 22:04] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.21606
+[28.07.2026 22:04] Updating GitHub stars.
+[28.07.2026 22:04] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[28.07.2026 22:04] No deleted papers detected.
+[28.07.2026 22:04] Downloading and parsing papers (pdf, html). Total: 31.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24653.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24653.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24653.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23588.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23588.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23588.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24280.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24280.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24280.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24731.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24731.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24731.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.21655.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.21655.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.21655.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.22798.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.22798.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.22798.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24744.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24744.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24744.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24027.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24027.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24027.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23855.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23855.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23855.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.21694.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.21694.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.21694.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24720.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24720.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24720.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23518.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23518.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23518.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.22148.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.22148.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.22148.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24516.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24516.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24516.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.22098.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.22098.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.22098.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.22561.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.22561.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.22561.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24743.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24743.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24743.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24241.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24241.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24241.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23806.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23806.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23806.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23687.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23687.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23687.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.21936.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.21936.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.21936.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.24651.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.24651.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.24651.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23242.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23242.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23242.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.22639.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.22639.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.22639.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23402.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23402.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23402.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23370.
+[28.07.2026 22:04] Downloading paper 2607.23370 from https://arxiv.org/pdf/2607.23370v1...
+[28.07.2026 22:04] Extracting affiliations from text.
+[28.07.2026 22:04] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models Ioannis Maniadis Metaxas1 , Adrian Bulat1,2 , Alberto Baldrati1 , Anestis Zaganidis1 , Yassine Ouali1 , Hyeonuk Kim1 , and Georgios Tzimiropoulos1,3 1 Samsung AI Cambridge 2 Technical University of Iasi 3 Queen Mary University of London Abstract. Large Vision-Language Models (LVLMs) remain bottlenecked by massive computational footprints, precluding their deployment on resource-constrained edge devices. While efforts to compress LVLMs focus heavily on vision token reduction or smaller language models, the vision encoder is largely overlooked, typically deployed as monolithic, computationally heavy feature extractor. Moreover, there is no previous effort that designs vision encoder for LVLMs directly optimized for on-device latency. In this paper, we present UltraViT, vision encoder for LVLMs, explicitly designed and optimized for on-device performance. Specifically, by taking into account real on-device latencies, we systematically design pyramidal architecture that strategically integrates and adapts heterogeneous spatial mixers at the macro-block level. Furthermore, to pre-train UltraViT, we propose novel two-stage generative pre-training strategy: cultivating rich spatial features via dense distillation, followed by direct generative supervision from capacity-mixed frozen LLM. Compared to standard contrastive and SSL, we show that our pre-training is much more effective for achieving high-level semantic grounding for UltraViT needed for the subsequent generative multimodal alignment of LVLM training. Extensive experiments demonstrate that our on-device latency-informed design combined with our tailored training strategy establishes new state-of-the-art for efficient LVLM encoding, significantly outperforming existing encoder-centric baselines while operating on-device at nearly 1.7 the speed. The recent proliferation of Large Vision-Language Models (LVLMs) [24, 56, 70] has drive"
-[28.07.2026 19:21] Response: ```python
-["Samsung AI Cambridge", "Technical University of Iasi", "Queen Mary University of London"]
+Text:"Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features Muhammad Abdullah Haroon Department of Computer Science, FAST National University of Computer and Emerging Sciences (FAST-NUCES), Lahore, Pakistan abdullaharoon.work@gmail.com l230734@lhr.nu.edu.pk "
+[28.07.2026 22:04] Response: ```python
+["Department of Computer Science, FAST National University of Computer and Emerging Sciences (FAST-NUCES), Lahore, Pakistan"]
 ```
-[28.07.2026 19:21] Deleting PDF ./assets/pdf/2607.23373.pdf.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23909.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23909.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23909.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.23822.
-[28.07.2026 19:21] Extra JSON file exists (./assets/json/2607.23822.json), skip PDF parsing.
-[28.07.2026 19:21] Paper image links file exists (./assets/img_data/2607.23822.json), skip HTML parsing.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Downloading and parsing paper https://huggingface.co/papers/2607.21606.
-[28.07.2026 19:21] Downloading paper 2607.21606 from https://arxiv.org/pdf/2607.21606v1...
-[28.07.2026 19:21] Extracting affiliations from text.
-[28.07.2026 19:21] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[28.07.2026 22:04] Deleting PDF ./assets/pdf/2607.23370.pdf.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23373.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23373.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23373.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.22682.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.22682.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.22682.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23909.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23909.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23909.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.23822.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.23822.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.23822.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Downloading and parsing paper https://huggingface.co/papers/2607.21606.
+[28.07.2026 22:04] Extra JSON file exists (./assets/json/2607.21606.json), skip PDF parsing.
+[28.07.2026 22:04] Paper image links file exists (./assets/img_data/2607.21606.json), skip HTML parsing.
+[28.07.2026 22:04] Success.
+[28.07.2026 22:04] Enriching papers with extra data.
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 0. Abstract  We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length a...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 1. Abstract  Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more ...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 2. Abstract  Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervision. Knowledge distillation can supply denser guidance, and a...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 3. Abstract  On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods na...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 4. Abstract  Robotic learning takes place in dynamic environments with large behavior spaces. A terminal success signal only tells the robot whether the task is completed. It does not explain whether the current behavior is making progress, remaining unchanged, or undoing earlier progress. For this rea...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 5. Abstract  Computer-use agents are usually improved by strengthening perception: better models for reading a screenshot and choosing where to click. Yet a screenshot is only a lossy rendering of the underlying program state, e.g., the files, application backends, and DOM that hold the task data. Diff...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 6. Abstract  Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. ...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 7. Abstract  Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this bottleneck by computing only selected key-value blocks, yet existing methods struggle to ...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 8. Abstract  Recent generative models are moving beyond silent video or standalone audio synthesis toward the joint generation of synchronized audio and video. Despite this progress, jointly generating audio and video with fine-grained cross-modal correspondence remains challenging due to their fundame...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 9. Abstract  We present Oxygen-TryOn, a unified foundation model for any-item virtual try-on. Rather than repurposing a general-purpose image editor, Oxygen-TryOn is fashion-native, built for try-on through a dedicated data engine and try-on-specific training. Given one or more reference items (clean p...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 10. Abstract  Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. T...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 11. Abstract  The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, existing approaches are predominantly implemented unde...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 12. Abstract  In this work, we aim to discretize the high-dimensional visual representations to bridge the gap with language models - a non-trivial challenge, as existing quantization methods suffer from codebook collapse, failing to scale while preserving semantic coherence. We identify the root cause ...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 13. Abstract  While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass quality filters, set cross-domain ratios by intuition, and lack a principled, attributable c...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 14. Abstract  Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps that obscure the cues relevant to truth...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 15. Abstract  LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternative: program distillation. Instead of p...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 16. Abstract  Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must ...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 17. Abstract  Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score them with untrained, generic multimodal models. More fundamentally, their evaluation taxo...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 18. Abstract  Improving a language model today means retraining it: enormous compute, a new opaque model each cycle, non-deterministic output. We take the opposite path: the model stays frozen, and a persistent memory of verified solutions grows beside it. Once a problem family is solved and has passed ...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 19. Abstract  Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioning signals within generative large vision models, allowing for tight spatial control of ge...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 20. Abstract  Historical documents act as invaluable knowledge archives but often suffer from illegibility due to physical deterioration and damage. While existing restoration methods based on masked language modeling effectively utilize local context, they struggle to restore named entities that requir...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 21. Abstract  Reliable visual document understanding requires a model to attribute each answer to the evidence regions that support it. Recent benchmarks and systems express this step through a coordinate interface: the model outputs the coordinates of bounding boxes that mark the evidence regions in th...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 22. Abstract  Large Language Models (LLMs) have transformed conversational AI, yet high-quality multilingual code-mixed dialogue resources remain scarce, particularly for Indic languages where speakers naturally alternate between English and their native language in both native-script and Romanized form...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 23. Abstract  Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training,...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 24. Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accur...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 25. Abstract  Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical f...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 26. Abstract  Large Vision-Language Models (LVLMs) remain bottlenecked by massive computational footprints, precluding their deployment on resource-constrained edge devices. While efforts to compress LVLMs focus heavily on vision token reduction or smaller language models, the vision encoder is largely ...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 27. Abstract  We introduce a vocabulary for automated research systems built from one or more agents to make their design choices easier to describe and compare. The vocabulary specifies 1) who the agents are, 2) what operations are available in the system, 3) who may invoke them, 4) how agents communic...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 28. Abstract  Many recent robot policies pursue stronger control by using large pretrained vision-language models (VLMs) as the action backbone. We introduce WorldDiT, a unified diffusion transformer architecture that couples action generation with visual world modeling and achieves strong performance w...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 29. Abstract  Driving style captures stable, driver-specific patterns in how a vehicle is driven. In naturalistic data, however, this signal is hard to isolate because drivers are observed in different vehicles, on different roads, and under different conditions, so models may mistake vehicle- or situat...
+[28.07.2026 22:04] ********************************************************************************
+[28.07.2026 22:04] Abstract 30. Abstract  Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, a training-free framework for compositional te...
+[28.07.2026 22:04] Read previous papers.
+[28.07.2026 22:04] Generating reviews via LLM API.
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#training", "#long_context", "#agi", "#agents", "#reasoning", "#rl", "#open_source", "#architecture", "#optimization"], "emoji": "🤖", "ru": {"title": "Новая эра в машинном обучении с Kimi K3", "desc": "В статье представлен модель Kimi K3, представляющая собой Mixture-of-Experts с 2,
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#long_context", "#agents", "#memory", "#tool_use", "#multimodal", "#agent_memory"], "emoji": "🎨", "ru": {"title": "Новый этап в творческой автоматизации с JarvisHub", "desc": "Статья описывает развитие Creative AI от создания отдельных объектов к многомодальному производству на длит
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#training", "#dataset", "#agents", "#benchmark", "#agent_memory", "#reasoning", "#rl", "#rlhf", "#transfer_learning"], "emoji": "🤖", "ru": {"title": "Эффективное обучение языковых моделей с помощью дистилляции знаний", "desc": "Данная статья предлагает новый подход к улучшению обуче
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#training", "#agents", "#rl", "#transfer_learning", "#diffusion", "#optimization"], "emoji": "🔄", "ru": {"title": "Новая стратегия для улучшения моделей диффузии", "desc": "Статья рассматривает проблему адаптации моделей диффузии с использованием метода On-policy distillation (OPD),
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#survey", "#agents", "#benchmark", "#rl"], "emoji": "🤖", "ru": {"title": "Успехи в обучении роботов: моделирование прогресса", "desc": "В данной статье рассматривается обучение роботов в динамичных условиях с большими пространствами поведения. Обсуждается необходимость в прогресс-во
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#agent_memory", "#reasoning", "#agents", "#memory"], "emoji": "💻", "ru": {"title": "Переход от восприятия к мышлению", "desc": "В данной статье представлена новая система StateAct, которая улучшает производительность агентов, работающих с компьютерными интерфейсами, благодаря прямом
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#dataset", "#agents", "#data", "#agent_memory", "#robotics", "#reasoning", "#multimodal"], "emoji": "🤖", "ru": {"title": "Создание систем с воплощенной интеллигенцией", "desc": "В данной работе обсуждаются многомодальные базовые модели, которые учатся взаимодействовать с физическим 
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#architecture", "#inference", "#training"], "emoji": "🎥", "ru": {"title": "Динамичное внимание для видеогенерации", "desc": "В данной статье представлены диффузионные трансформеры, которые важны для генерации видео высокого качества. Авторы предлагают 
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#multimodal"], "emoji": "🎥", "ru": {"title": "Совместная генерация аудио и видео с OmniVAE", "desc": "В данной статье рассматривается новая модель OmniVAE, которая осуществляет совместную генерацию аудио и видео с высокой степенью семантического соответствия. Основная проблема заклю
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#data", "#rl", "#open_source", "#multimodal", "#diffusion", "#architecture", "#optimization"], "emoji": "👗", "ru": {"title": "Универсальная примерка: Oxygen-TryOn для любых предметов", "desc": "Oxygen-TryOn представляет собой универсальную моде
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#agents", "#training", "#continual_learning", "#long_context"], "emoji": "🧠", "ru": {"title": "Улучшение долгосрочного планирования для моделей на основе крупной базы данных", "desc": "В данной статье рассматривается многошаговое планирование на длинные горизонты для агентов моделей
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#hallucinations", "#benchmark", "#dataset", "#open_source", "#training"], "emoji": "🧬", "ru": {"title": "Новый подход к проектированию белковых связывателей", "desc": "В данной статье представлено новое поколение генеративных моделей для проектирования
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#training", "#inference", "#data", "#architecture", "#optimization"], "emoji": "🔍", "ru": {"title": "Новая эра в сжатии визуальных данных", "desc": "В данной работе мы занимаемся дискретизацией высокоразмерных визуальных представлений, чтобы устранить разрыв с языковыми моделями. Су
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#dataset", "#data", "#benchmark", "#open_source", "#multimodal", "#transfer_learning", "#optimization"], "emoji": "🖼️", "ru": {"title": "Оптимизация смешивания данных для Vision Language моделей", "desc": "В статье рассматривается создание наборов данных для моделей Vision Language 
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#data", "#hallucinations", "#benchmark", "#training", "#reasoning"], "emoji": "🔍", "ru": {"title": "Очистка шумов для улучшения обнаружения галлюцинаций", "desc": "В данной статье рассматриваются большие модели рассуждений (LRMs), которые создают длинные траектории рассуждений перед
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#interpretability", "#agent_memory", "#optimization"], "emoji": "🤖", "ru": {"title": "Эффективные программные судьи вместо LLM", "desc": "Статья обсуждает альтернативу LLM как судьям в автоматизированной оценке, которая страдает от высоких затр
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#retrieval", "#agi", "#benchmark", "#interpretability", "#tool_use", "#healthcare", "#multimodal", "#open_source", "#games", "#agent_memory", "#architecture", "#optimization"], "emoji": "🩺", "ru": {"title": "ClinFusion: Революция в медицинском анализе изображений", "desc": "В данной
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#games", "#benchmark", "#multimodal", "#open_source"], "emoji": "🎬", "ru": {"title": "Новый стандарт оценки видео: Учимся у профессионалов", "desc": "В статье рассматривается проблема оценки качества видео, генерируемого ИИ. Авторы предлагают новый бенчмарк FilmBench, который основы
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#optimization"], "emoji": "🧠", "ru": {"title": "Память: ключ к эффективному обучению модели", "desc": "В данной статье рассматривается подход к улучшению языковой модели без ее переподготовки. Вместо этого используется постоянная память, в кото
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#science", "#dataset", "#3d", "#open_source", "#architecture"], "emoji": "🧠", "ru": {"title": "Новая эра в моделировании человеческой головы", "desc": "В статье представлена новая параметрическая модель человеческой головы, названная Generative aNthropometric Model (GNM). Эта модель
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#retrieval", "#science", "#rag", "#multimodal", "#retrieval_eval"], "emoji": "📜", "ru": {"title": "Восстановление исторических документов с помощью LLM и RAG", "desc": "Исторические документы являются важными архивами знаний, но они часто трудны для чтения из-за физического износа. 
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#retrieval", "#training", "#benchmark", "#hallucinations", "#multimodal", "#optimization"], "emoji": "📄", "ru": {"title": "Улучшение атрибуции без координатного интерфейса", "desc": "В статье рассматривается проблема надежного понимания визуальных документов с помощью моделей, основ
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#dataset", "#multilingual", "#open_source", "#low_resource"], "emoji": "💬", "ru": {"title": "IndicTalk: Корпус для мультиязычных разговоров на языках Индии", "desc": "В данной статье представлена база данных IndicTalk, которая является одной из крупнейших многозначных разговорных ко
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#memorization", "#prompting", "#rag", "#retrieval", "#training"], "emoji": "🛠️", "ru": {"title": "TRACE: Новый подход к извлечению инструментов для LLM", "desc": "Параметрический поиск позволяет LLM получать доступ к инструментам через уникальные виртуальные токены. Однако метод Too
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#architecture"], "emoji": "🔄", "ru": {"title": "Стабильность производительности при отклонении потоков в NVIDIA GPUs", "desc": "В данной статье рассматривается поведение расчета в GPUs от NVIDIA с учетом независимого планирования потоков (ITS). Исследуются разные поколения графическ
+[28.07.2026 22:04] Querying the API.
+[28.07.2026 22:04] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Text:"TILT: Improving Compositional Generation in Diffusion Models with Model-Intrinsic Reward Debottam Dutta 1 Jaehoon Hahm 2 Jianchong Chen 3 Romit Roy Choudhury 1 Abstract Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, training-free framework for compositional text-to-image generation via test-time reward alignment. We interpret compositional failures as overlap modes between joint and singleconcept distributions, and define reward that favors samples where all concepts are jointly present. This reward is intrinsic to the base model and does not require any external supervision or reward models. This yields KL-constrained objective with closed-form tilted target distribution and principled guiding steps for diffusion sampling. The interaction of concept distributions together with the above reward naturally leads to two different guidance strategies while hybrid approach that balances their respective benefits produces stronger performance. Experiments on prompts from T2ICompBench show that our method improves compositional alignment while preserving image quality compared to previous baselines. 1. Introduction State-of-the-art text-to-image (T2I) diffusion models (Rombach et al., 2022; Saharia et al., 2022b; Podell et al., 2023; Huang et al., 2023) can faithfully render complex and intricate prompts. However, these models frequently fails in generating faithful images when prompted with complex, compositional prompts. While pinpointing the exact cause is difficult, plausible explanation lies in imperfect compositional generalization. When prompt combines concepts in complex and novel way, the model composes them based 1Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, IL, USA 2Physics, University of Illinois Urbana-Champaign, Urbana, IL, U"
-[28.07.2026 19:21] Response: ```python
-["Electrical and Computer Engineering, University of Illinois Urbana-Champaign, Urbana, IL, USA", "Physics, University of Illinois Urbana-Champaign, Urbana, IL, USA"]
-```
-[28.07.2026 19:21] Deleting PDF ./assets/pdf/2607.21606.pdf.
-[28.07.2026 19:21] Success.
-[28.07.2026 19:21] Enriching papers with extra data.
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 0. Abstract  We introduce Kimi K3, a 2.8T parameter Mixture-of-Experts model with 104 billion activated parameters, native vision capabilities, and a 1-million-token context window. Kimi K3 is built on Kimi Delta Attention and Attention Residuals, which improve information flow across sequence length a...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 1. Abstract  Creative AI is moving from single-step asset generation toward long-horizon multimodal production. Although recent generative models can synthesize high-quality images, videos, audio clips, UI elements, storyboards, slides, and other creative assets, real-world creative work requires more ...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 2. Abstract  Agentic search enables large language models to solve knowledge-intensive tasks by interleaving multi-step reasoning with retrieval, yet optimizing this with outcome-based reinforcement learning (RL) provides only sparse supervision. Knowledge distillation can supply denser guidance, and a...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 3. Abstract  On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default component of modern diffusion systems, remains poorly understood. Existing OPD methods na...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 4. Abstract  Robotic learning takes place in dynamic environments with large behavior spaces. A terminal success signal only tells the robot whether the task is completed. It does not explain whether the current behavior is making progress, remaining unchanged, or undoing earlier progress. For this rea...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 5. Abstract  Computer-use agents are usually improved by strengthening perception: better models for reading a screenshot and choosing where to click. Yet a screenshot is only a lossy rendering of the underlying program state, e.g., the files, application backends, and DOM that hold the task data. Diff...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 6. Abstract  Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be provided, to varying degrees, by multiple data sources. ...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 7. Abstract  Diffusion transformers are essential for high-fidelity video generation, but long token sequences make attention a dominant inference bottleneck. Training-free dynamic sparse attention alleviates this bottleneck by computing only selected key-value blocks, yet existing methods struggle to ...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 8. Abstract  Recent generative models are moving beyond silent video or standalone audio synthesis toward the joint generation of synchronized audio and video. Despite this progress, jointly generating audio and video with fine-grained cross-modal correspondence remains challenging due to their fundame...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 9. Abstract  We present Oxygen-TryOn, a unified foundation model for any-item virtual try-on. Rather than repurposing a general-purpose image editor, Oxygen-TryOn is fashion-native, built for try-on through a dedicated data engine and try-on-specific training. Given one or more reference items (clean p...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 10. Abstract  Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. T...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 11. Abstract  The rapid evolution of generative models has unlocked new potentials in protein binder design, a pivotal task in structural biology, by facilitating end-to-end generation via joint sequence-structure modeling or hallucination. However, existing approaches are predominantly implemented unde...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 12. Abstract  In this work, we aim to discretize the high-dimensional visual representations to bridge the gap with language models - a non-trivial challenge, as existing quantization methods suffer from codebook collapse, failing to scale while preserving semantic coherence. We identify the root cause ...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 13. Abstract  While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass quality filters, set cross-domain ratios by intuition, and lack a principled, attributable c...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 14. Abstract  Large reasoning models (LRMs) generate long reasoning traces before producing final answers. While these traces may contain useful signals for hallucination detection, harnessing them is non-trivial because long trajectories often include noisy steps that obscure the cues relevant to truth...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 15. Abstract  LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque decisions -- limitations that undermine its scalability and reliability. We address these with a simple, efficient alternative: program distillation. Instead of p...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 16. Abstract  Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must ...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 17. Abstract  Progress in video generation keeps narrowing the visual gap between AI-generated and professionally produced footage, yet most benchmarks still draw prompts from web sources or LLM templates and score them with untrained, generic multimodal models. More fundamentally, their evaluation taxo...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 18. Abstract  Improving a language model today means retraining it: enormous compute, a new opaque model each cycle, non-deterministic output. We take the opposite path: the model stays frozen, and a persistent memory of verified solutions grows beside it. Once a problem family is solved and has passed ...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 19. Abstract  Parametric models of the human head are essential tools traditionally used in computer vision and graphics for animation, rendering, and reconstruction. More recently, they serve as crucial conditioning signals within generative large vision models, allowing for tight spatial control of ge...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 20. Abstract  Historical documents act as invaluable knowledge archives but often suffer from illegibility due to physical deterioration and damage. While existing restoration methods based on masked language modeling effectively utilize local context, they struggle to restore named entities that requir...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 21. Abstract  Reliable visual document understanding requires a model to attribute each answer to the evidence regions that support it. Recent benchmarks and systems express this step through a coordinate interface: the model outputs the coordinates of bounding boxes that mark the evidence regions in th...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 22. Abstract  Large Language Models (LLMs) have transformed conversational AI, yet high-quality multilingual code-mixed dialogue resources remain scarce, particularly for Indic languages where speakers naturally alternate between English and their native language in both native-script and Romanized form...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 23. Abstract  We introduce a vocabulary for automated research systems built from one or more agents to make their design choices easier to describe and compare. The vocabulary specifies 1) who the agents are, 2) what operations are available in the system, 3) who may invoke them, 4) how agents communic...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 24. Abstract  Parametric retrieval enables LLMs to retrieve tools implicitly by assigning each API a unique virtual token and training the model to generate it via constrained beam search. Toolsense shows that this regime has two critical drawbacks: it destroys parametric tool knowledge during training,...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 25. Abstract  Since Volta introduced Independent Thread Scheduling (ITS), NVIDIA GPUs have been widely assumed to handle warp divergence in a fixed manner. We test this assumption across Ampere, Hopper, and datacenter and consumer Blackwell GPUs, using pre-ITS Pascal as a baseline. Combining cycle-accur...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 26. Abstract  Large Vision-Language Models (LVLMs) remain bottlenecked by massive computational footprints, precluding their deployment on resource-constrained edge devices. While efforts to compress LVLMs focus heavily on vision token reduction or smaller language models, the vision encoder is largely ...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 27. Abstract  Many recent robot policies pursue stronger control by using large pretrained vision-language models (VLMs) as the action backbone. We introduce WorldDiT, a unified diffusion transformer architecture that couples action generation with visual world modeling and achieves strong performance w...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 28. Abstract  Driving style captures stable, driver-specific patterns in how a vehicle is driven. In naturalistic data, however, this signal is hard to isolate because drivers are observed in different vehicles, on different roads, and under different conditions, so models may mistake vehicle- or situat...
-[28.07.2026 19:21] ********************************************************************************
-[28.07.2026 19:21] Abstract 29. Abstract  Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, a training-free framework for compositional te...
-[28.07.2026 19:21] Read previous papers.
-[28.07.2026 19:21] Generating reviews via LLM API.
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#training", "#long_context", "#agi", "#agents", "#reasoning", "#rl", "#open_source", "#architecture", "#optimization"], "emoji": "🤖", "ru": {"title": "Новая эра в машинном обучении с Kimi K3", "desc": "В статье представлен модель Kimi K3, представляющая собой Mixture-of-Experts с 2,
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#long_context", "#agents", "#memory", "#tool_use", "#multimodal", "#agent_memory"], "emoji": "🎨", "ru": {"title": "Новый этап в творческой автоматизации с JarvisHub", "desc": "Статья описывает развитие Creative AI от создания отдельных объектов к многомодальному производству на длит
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#training", "#dataset", "#agents", "#benchmark", "#agent_memory", "#reasoning", "#rl", "#rlhf", "#transfer_learning"], "emoji": "🤖", "ru": {"title": "Эффективное обучение языковых моделей с помощью дистилляции знаний", "desc": "Данная статья предлагает новый подход к улучшению обуче
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#training", "#agents", "#rl", "#transfer_learning", "#diffusion", "#optimization"], "emoji": "🔄", "ru": {"title": "Новая стратегия для улучшения моделей диффузии", "desc": "Статья рассматривает проблему адаптации моделей диффузии с использованием метода On-policy distillation (OPD),
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#survey", "#agents", "#benchmark", "#rl"], "emoji": "🤖", "ru": {"title": "Успехи в обучении роботов: моделирование прогресса", "desc": "В данной статье рассматривается обучение роботов в динамичных условиях с большими пространствами поведения. Обсуждается необходимость в прогресс-во
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#agent_memory", "#reasoning", "#agents", "#memory"], "emoji": "💻", "ru": {"title": "Переход от восприятия к мышлению", "desc": "В данной статье представлена новая система StateAct, которая улучшает производительность агентов, работающих с компьютерными интерфейсами, благодаря прямом
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#dataset", "#agents", "#data", "#agent_memory", "#robotics", "#reasoning", "#multimodal"], "emoji": "🤖", "ru": {"title": "Создание систем с воплощенной интеллигенцией", "desc": "В данной работе обсуждаются многомодальные базовые модели, которые учатся взаимодействовать с физическим 
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#architecture", "#inference", "#training"], "emoji": "🎥", "ru": {"title": "Динамичное внимание для видеогенерации", "desc": "В данной статье представлены диффузионные трансформеры, которые важны для генерации видео высокого качества. Авторы предлагают 
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#multimodal"], "emoji": "🎥", "ru": {"title": "Совместная генерация аудио и видео с OmniVAE", "desc": "В данной статье рассматривается новая модель OmniVAE, которая осуществляет совместную генерацию аудио и видео с высокой степенью семантического соответствия. Основная проблема заклю
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#data", "#rl", "#open_source", "#multimodal", "#diffusion", "#architecture", "#optimization"], "emoji": "👗", "ru": {"title": "Универсальная примерка: Oxygen-TryOn для любых предметов", "desc": "Oxygen-TryOn представляет собой универсальную моде
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#agents", "#training", "#continual_learning", "#long_context"], "emoji": "🧠", "ru": {"title": "Улучшение долгосрочного планирования для моделей на основе крупной базы данных", "desc": "В данной статье рассматривается многошаговое планирование на длинные горизонты для агентов моделей
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#diffusion", "#optimization", "#hallucinations", "#benchmark", "#dataset", "#open_source", "#training"], "emoji": "🧬", "ru": {"title": "Новый подход к проектированию белковых связывателей", "desc": "В данной статье представлено новое поколение генеративных моделей для проектирования
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#training", "#inference", "#data", "#architecture", "#optimization"], "emoji": "🔍", "ru": {"title": "Новая эра в сжатии визуальных данных", "desc": "В данной работе мы занимаемся дискретизацией высокоразмерных визуальных представлений, чтобы устранить разрыв с языковыми моделями. Су
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#dataset", "#data", "#benchmark", "#open_source", "#multimodal", "#transfer_learning", "#optimization"], "emoji": "🖼️", "ru": {"title": "Оптимизация смешивания данных для Vision Language моделей", "desc": "В статье рассматривается создание наборов данных для моделей Vision Language 
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#data", "#hallucinations", "#benchmark", "#training", "#reasoning"], "emoji": "🔍", "ru": {"title": "Очистка шумов для улучшения обнаружения галлюцинаций", "desc": "В данной статье рассматриваются большие модели рассуждений (LRMs), которые создают длинные траектории рассуждений перед
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#training", "#dataset", "#benchmark", "#interpretability", "#agent_memory", "#optimization"], "emoji": "🤖", "ru": {"title": "Эффективные программные судьи вместо LLM", "desc": "Статья обсуждает альтернативу LLM как судьям в автоматизированной оценке, которая страдает от высоких затр
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#retrieval", "#agi", "#benchmark", "#interpretability", "#tool_use", "#healthcare", "#multimodal", "#open_source", "#games", "#agent_memory", "#architecture", "#optimization"], "emoji": "🩺", "ru": {"title": "ClinFusion: Революция в медицинском анализе изображений", "desc": "В данной
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#games", "#benchmark", "#multimodal", "#open_source"], "emoji": "🎬", "ru": {"title": "Новый стандарт оценки видео: Учимся у профессионалов", "desc": "В статье рассматривается проблема оценки качества видео, генерируемого ИИ. Авторы предлагают новый бенчмарк FilmBench, который основы
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#optimization"], "emoji": "🧠", "ru": {"title": "Память: ключ к эффективному обучению модели", "desc": "В данной статье рассматривается подход к улучшению языковой модели без ее переподготовки. Вместо этого используется постоянная память, в кото
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#science", "#dataset", "#3d", "#open_source", "#architecture"], "emoji": "🧠", "ru": {"title": "Новая эра в моделировании человеческой головы", "desc": "В статье представлена новая параметрическая модель человеческой головы, названная Generative aNthropometric Model (GNM). Эта модель
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#retrieval", "#science", "#rag", "#multimodal", "#retrieval_eval"], "emoji": "📜", "ru": {"title": "Восстановление исторических документов с помощью LLM и RAG", "desc": "Исторические документы являются важными архивами знаний, но они часто трудны для чтения из-за физического износа. 
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#retrieval", "#training", "#benchmark", "#hallucinations", "#multimodal", "#optimization"], "emoji": "📄", "ru": {"title": "Улучшение атрибуции без координатного интерфейса", "desc": "В статье рассматривается проблема надежного понимания визуальных документов с помощью моделей, основ
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#dataset", "#multilingual", "#open_source", "#low_resource"], "emoji": "💬", "ru": {"title": "IndicTalk: Корпус для мультиязычных разговоров на языках Индии", "desc": "В данной статье представлена база данных IndicTalk, которая является одной из крупнейших многозначных разговорных ко
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#agents", "#reasoning", "#benchmark", "#agent_memory", "#optimization"], "emoji": "🧩", "ru": {"title": "Словарь для автоматизации исследовательских систем", "desc": "В данной статье представлен словарь для автоматизированных исследовательских систем, состоящих из одного или нескольк
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#memorization", "#prompting", "#rag", "#retrieval", "#training"], "emoji": "🛠️", "ru": {"title": "TRACE: Новый подход к извлечению инструментов для LLM", "desc": "Параметрический поиск позволяет LLM получать доступ к инструментам через уникальные виртуальные токены. Однако метод Too
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#architecture"], "emoji": "🔄", "ru": {"title": "Стабильность производительности при отклонении потоков в NVIDIA GPUs", "desc": "В данной статье рассматривается поведение расчета в GPUs от NVIDIA с учетом независимого планирования потоков (ITS). Исследуются разные поколения графическ
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#architecture", "#inference", "#multimodal", "#training", "#games", "#optimization"], "emoji": "🚀", "ru": {"title": "Революция в кодировании для LVLM: эффективность на устройствах", "desc": "В данной статье представлен UltraViT, новый кодировщик для больших моделей видения и языка (
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#architecture", "#agents", "#games", "#robotics", "#small_models", "#diffusion", "#optimization"], "emoji": "🤖", "ru": {"title": "Новый уровень управления для робототехники", "desc": "В статье представлена архитектура WorldDiT, которая объединяет генерацию действий и моделирование в
-[28.07.2026 19:21] Using data from previous issue: {"categories": ["#security", "#transfer_learning", "#dataset", "#benchmark", "#multimodal"], "emoji": "🚗", "ru": {"title": "Новый взгляд на стиль вождения с DriveDNA", "desc": "Статья представляет DriveDNA, новый набор данных и бенчмарк для моделирования стиля вождения, включающий 4,121 поездку от 4
-[28.07.2026 19:21] Querying the API.
-[28.07.2026 19:21] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, a training-free framework for compositional text-to-image generation via test-time reward alignment. We interpret compositional failures as overlap modes between joint and single-concept distributions, and define a reward that favors samples where all concepts are jointly present. This reward is intrinsic to the base model and does not require any external supervision or reward models. This yields a KL-constrained objective with a closed-form tilted target distribution and principled guiding steps for diffusion sampling. The interaction of concept distributions together with the above reward naturally leads to two different guidance strategies while a hybrid approach that balances their respective benefits produces stronger performance. Experiments on prompts from T2ICompBench show that our method improves compositional alignment while preserving image quality compared to previous baselines.
-[28.07.2026 19:21] Response: {
-  "desc": "В данной статье представлен TILT — метод генерации изображений по текстовому описанию, который не требует дополнительной тренировки. TILT использует награду, чтобы побуждать модель генерировать изображения, в которых все концепты присутствуют вместе. Метод позволяет улучшить композиционное соответствие при сохранении качества изображений. Новая методология показала лучшие результаты по сравнению с предыдущими методами на тестах T2ICompBench.",
-  "emoji": "🎨",
-  "title": "Улучшение композиции изображений с помощью TILT"
+Abstract  Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical features with sentiment via static concatenation, applying identical fusion weights regardless of market state. This is inconsistent with the behavioural finance literature, which shows that retail sentiment is most predictive during volatile periods and noisy during calm ones. This paper proposes Regime-Aware Multi-Modal Learning (RAML), which conditions fusion of sentiment and price features on a dynamically detected binary market regime. Rolling 24-hour volatility partitions observations into stable and volatile regimes; a learnable sigmoid gate adjusts the weight of the sentiment embedding relative to the price embedding, trusting sentiment more during volatility and price dynamics more during stable phases. The system is evaluated on 3,491 hourly observations (July 2024-September 2025), combining Bitcoin OHLCV data with Reddit /r/Bitcoin FinBERT sentiment. Four models are compared - price-only BiLSTM, sentiment-only classifier, static-concatenation BiLSTM, and RAML - across 3-hour and 6-hour horizons, with an ablation study isolating the sentiment branch, regime detection, and adaptive fusion. RAML achieves macro-F1 of 0.5474 (3h) and 0.5513 (6h), with the highest AUC at 3 hours (0.5084), indicating better calibration. Ablation confirms every component is necessary, and replacing adaptive weighting with concatenation causes recall collapse at 6 hours (F1: 0.14). These results establish regime-conditioned adaptive fusion as a necessary design principle for multi-modal financial forecasting.
+[28.07.2026 22:04] Response: ```json
+{
+  "desc": "В статье рассматривается сложная задача прогнозирования цен на биткойн на субдневных временных масштабах. Авторы предлагают метод Regime-Aware Multi-Modal Learning (RAML), который улучшает комбинацию ценовых индикаторов и настроений, основываясь на динамически определяемом рыночном режиме. При помощи скользящей волатильности наблюдения разделяются на стабильные и волатильные режимы, позволяя системе адаптировать веса чувствительности в зависимости от рыночной ситуации. Результаты показывают, что этот подход значительно увеличивает точность прогнозирования по сравнению с традиционными методами.",
+  "emoji": "📈",
+  "title": "Адаптивное слияние для финансового прогнозирования"
 }
-[28.07.2026 19:21] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+```
+[28.07.2026 22:04] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -345,12 +344,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, a training-free framework for compositional text-to-image generation via test-time reward alignment. We interpret compositional failures as overlap modes between joint and single-concept distributions, and define a reward that favors samples where all concepts are jointly present. This reward is intrinsic to the base model and does not require any external supervision or reward models. This yields a KL-constrained objective with a closed-form tilted target distribution and principled guiding steps for diffusion sampling. The interaction of concept distributions together with the above reward naturally leads to two different guidance strategies while a hybrid approach that balances their respective benefits produces stronger performance. Experiments on prompts from T2ICompBench show that our method improves compositional alignment while preserving image quality compared to previous baselines."
+"Abstract  Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical features with sentiment via static concatenation, applying identical fusion weights regardless of market state. This is inconsistent with the behavioural finance literature, which shows that retail sentiment is most predictive during volatile periods and noisy during calm ones. This paper proposes Regime-Aware Multi-Modal Learning (RAML), which conditions fusion of sentiment and price features on a dynamically detected binary market regime. Rolling 24-hour volatility partitions observations into stable and volatile regimes; a learnable sigmoid gate adjusts the weight of the sentiment embedding relative to the price embedding, trusting sentiment more during volatility and price dynamics more during stable phases. The system is evaluated on 3,491 hourly observations (July 2024-September 2025), combining Bitcoin OHLCV data with Reddit /r/Bitcoin FinBERT sentiment. Four models are compared - price-only BiLSTM, sentiment-only classifier, static-concatenation BiLSTM, and RAML - across 3-hour and 6-hour horizons, with an ablation study isolating the sentiment branch, regime detection, and adaptive fusion. RAML achieves macro-F1 of 0.5474 (3h) and 0.5513 (6h), with the highest AUC at 3 hours (0.5084), indicating better calibration. Ablation confirms every component is necessary, and replacing adaptive weighting with concatenation causes recall collapse at 6 hours (F1: 0.14). These results establish regime-conditioned adaptive fusion as a necessary design principle for multi-modal financial forecasting."
 
-[28.07.2026 19:22] Response: ```python
-["RAG", "BENCHMARK"]
+[28.07.2026 22:04] Response: ```python
+["MULTIMODAL", "DATASET", "BENCHMARK"]
 ```
-[28.07.2026 19:22] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[28.07.2026 22:04] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -393,26 +392,31 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, a training-free framework for compositional text-to-image generation via test-time reward alignment. We interpret compositional failures as overlap modes between joint and single-concept distributions, and define a reward that favors samples where all concepts are jointly present. This reward is intrinsic to the base model and does not require any external supervision or reward models. This yields a KL-constrained objective with a closed-form tilted target distribution and principled guiding steps for diffusion sampling. The interaction of concept distributions together with the above reward naturally leads to two different guidance strategies while a hybrid approach that balances their respective benefits produces stronger performance. Experiments on prompts from T2ICompBench show that our method improves compositional alignment while preserving image quality compared to previous baselines."
+"Abstract  Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical features with sentiment via static concatenation, applying identical fusion weights regardless of market state. This is inconsistent with the behavioural finance literature, which shows that retail sentiment is most predictive during volatile periods and noisy during calm ones. This paper proposes Regime-Aware Multi-Modal Learning (RAML), which conditions fusion of sentiment and price features on a dynamically detected binary market regime. Rolling 24-hour volatility partitions observations into stable and volatile regimes; a learnable sigmoid gate adjusts the weight of the sentiment embedding relative to the price embedding, trusting sentiment more during volatility and price dynamics more during stable phases. The system is evaluated on 3,491 hourly observations (July 2024-September 2025), combining Bitcoin OHLCV data with Reddit /r/Bitcoin FinBERT sentiment. Four models are compared - price-only BiLSTM, sentiment-only classifier, static-concatenation BiLSTM, and RAML - across 3-hour and 6-hour horizons, with an ablation study isolating the sentiment branch, regime detection, and adaptive fusion. RAML achieves macro-F1 of 0.5474 (3h) and 0.5513 (6h), with the highest AUC at 3 hours (0.5084), indicating better calibration. Ablation confirms every component is necessary, and replacing adaptive weighting with concatenation causes recall collapse at 6 hours (F1: 0.14). These results establish regime-conditioned adaptive fusion as a necessary design principle for multi-modal financial forecasting."
 
-[28.07.2026 19:22] Response: ```python
-["DIFFUSION", "OPTIMIZATION"]
+[28.07.2026 22:04] Response: ```python
+["OPTIMIZATION", "TRANSFER_LEARNING"]
 ```
-[28.07.2026 19:22] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[28.07.2026 22:04] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We present TILT, a training-free framework for compositional text-to-image generation via test-time reward alignment. We interpret compositional failures as overlap modes between joint and single-concept distributions, and define a reward that favors samples where all concepts are jointly present. This reward is intrinsic to the base model and does not require any external supervision or reward models. This yields a KL-constrained objective with a closed-form tilted target distribution and principled guiding steps for diffusion sampling. The interaction of concept distributions together with the above reward naturally leads to two different guidance strategies while a hybrid approach that balances their respective benefits produces stronger performance. Experiments on prompts from T2ICompBench show that our method improves compositional alignment while preserving image quality compared to previous baselines.
+Abstract  Bitcoin price prediction on sub-daily timescales is a hard open problem in computational finance. Bitcoin exhibits fat-tailed returns, non-stationary dynamics, and a price discovery process influenced by social discourse on Reddit and Twitter. Conventional approaches fuse OHLCV technical features with sentiment via static concatenation, applying identical fusion weights regardless of market state. This is inconsistent with the behavioural finance literature, which shows that retail sentiment is most predictive during volatile periods and noisy during calm ones. This paper proposes Regime-Aware Multi-Modal Learning (RAML), which conditions fusion of sentiment and price features on a dynamically detected binary market regime. Rolling 24-hour volatility partitions observations into stable and volatile regimes; a learnable sigmoid gate adjusts the weight of the sentiment embedding relative to the price embedding, trusting sentiment more during volatility and price dynamics more during stable phases. The system is evaluated on 3,491 hourly observations (July 2024-September 2025), combining Bitcoin OHLCV data with Reddit /r/Bitcoin FinBERT sentiment. Four models are compared - price-only BiLSTM, sentiment-only classifier, static-concatenation BiLSTM, and RAML - across 3-hour and 6-hour horizons, with an ablation study isolating the sentiment branch, regime detection, and adaptive fusion. RAML achieves macro-F1 of 0.5474 (3h) and 0.5513 (6h), with the highest AUC at 3 hours (0.5084), indicating better calibration. Ablation confirms every component is necessary, and replacing adaptive weighting with concatenation causes recall collapse at 6 hours (F1: 0.14). These results establish regime-conditioned adaptive fusion as a necessary design principle for multi-modal financial forecasting.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[28.07.2026 19:22] Response: {
-  "desc": "This paper introduces TILT, a novel framework for enhancing text-to-image generation by improving how models interpret complex prompts. It focuses on aligning the sampling process to ensure that all concepts in a prompt are represented in the generated images. The method uses an intrinsic reward system that does not rely on external supervision, allowing for a more efficient training-free approach. Experiments demonstrate that TILT achieves better compositional alignment and maintains high image quality compared to existing methods.",
-  "title": "Enhancing Image Generation with Compositional Alignment"
+[28.07.2026 22:04] Response: {
+  "desc": "This paper addresses the challenge of predicting Bitcoin prices on short time scales by introducing Regime-Aware Multi-Modal Learning (RAML). It recognizes that Bitcoin's price behavior varies significantly between stable and volatile market conditions, which traditional methods fail to account for. RAML dynamically adjusts the influence of sentiment data from social media based on the current market regime, enhancing prediction accuracy. The results demonstrate that this adaptive approach outperforms conventional methods, highlighting the importance of considering market dynamics in financial forecasting.",
+  "title": "Adaptive Fusion for Smarter Bitcoin Price Predictions"
 }
-[28.07.2026 19:22] Renaming data file.
-[28.07.2026 19:22] Renaming previous data. hf_papers.json to ./d/2026-07-28.json
-[28.07.2026 19:22] Saving new data file.
-[28.07.2026 19:22] Generating page.
-[28.07.2026 19:22] Renaming previous page.
-[28.07.2026 19:22] Renaming previous data. index.html to ./d/2026-07-28.html
-[28.07.2026 19:22] Writing result.
-[28.07.2026 19:22] Renaming log file.
-[28.07.2026 19:22] Renaming previous data. log.txt to ./logs/2026-07-28_last_log.txt
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#architecture", "#inference", "#multimodal", "#training", "#games", "#optimization"], "emoji": "🚀", "ru": {"title": "Революция в кодировании для LVLM: эффективность на устройствах", "desc": "В данной статье представлен UltraViT, новый кодировщик для больших моделей видения и языка (
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#agents", "#reasoning", "#benchmark", "#agent_memory", "#optimization"], "emoji": "🧩", "ru": {"title": "Словарь для автоматизации исследовательских систем", "desc": "В данной статье представлен словарь для автоматизированных исследовательских систем, состоящих из одного или нескольк
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#architecture", "#agents", "#games", "#robotics", "#small_models", "#diffusion", "#optimization"], "emoji": "🤖", "ru": {"title": "Новый уровень управления для робототехники", "desc": "В статье представлена архитектура WorldDiT, которая объединяет генерацию действий и моделирование в
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#security", "#transfer_learning", "#dataset", "#benchmark", "#multimodal"], "emoji": "🚗", "ru": {"title": "Новый взгляд на стиль вождения с DriveDNA", "desc": "Статья представляет DriveDNA, новый набор данных и бенчмарк для моделирования стиля вождения, включающий 4,121 поездку от 4
+[28.07.2026 22:04] Using data from previous issue: {"categories": ["#benchmark", "#diffusion", "#optimization", "#rag"], "emoji": "🎨", "ru": {"title": "Улучшение композиции изображений с помощью TILT", "desc": "В данной статье представлен TILT — метод генерации изображений по текстовому описанию, который не требует дополнительной тренировки. TILT ис
+[28.07.2026 22:04] Renaming data file.
+[28.07.2026 22:04] Renaming previous data. hf_papers.json to ./d/2026-07-28.json
+[28.07.2026 22:04] Saving new data file.
+[28.07.2026 22:04] Generating page.
+[28.07.2026 22:04] Renaming previous page.
+[28.07.2026 22:04] Renaming previous data. index.html to ./d/2026-07-28.html
+[28.07.2026 22:04] Writing result.
+[28.07.2026 22:04] Renaming log file.
+[28.07.2026 22:04] Renaming previous data. log.txt to ./logs/2026-07-28_last_log.txt
