@@ -1,197 +1,220 @@
-[29.07.2026 05:54] Read previous papers.
-[29.07.2026 05:54] Generating top page (month).
-[29.07.2026 05:54] Writing top page (month).
-[29.07.2026 08:38] Read previous papers.
-[29.07.2026 08:38] Get feed.
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25895
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25895
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24223
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24223
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25565
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25565
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24368
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24368
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24904
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24904
-[29.07.2026 08:38] Extract page data from URL. URL: https://huggingface.co/papers/2607.26057
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26037
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26037
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24957
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24957
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25857
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25857
-[29.07.2026 08:38] Extract page data from URL. URL: https://huggingface.co/papers/2607.23514
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25537
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25537
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25669
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25669
-[29.07.2026 08:38] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25091
-[29.07.2026 08:38] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25091
-[29.07.2026 08:38] Extract page data from URL. URL: https://huggingface.co/papers/2607.25572
-[29.07.2026 08:38] Extract page data from URL. URL: https://huggingface.co/papers/2607.26004
-[29.07.2026 08:38] Extract page data from URL. URL: https://huggingface.co/papers/2607.25948
-[29.07.2026 08:38] Updating GitHub stars.
-[29.07.2026 08:38] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[29.07.2026 08:38] No deleted papers detected.
-[29.07.2026 08:38] Downloading and parsing papers (pdf, html). Total: 16.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.25895.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.25895.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.25895.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.24223.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.24223.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.24223.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.25565.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.25565.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.25565.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.24368.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.24368.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.24368.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.24904.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.24904.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.24904.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.26057.
-[29.07.2026 08:38] Downloading paper 2607.26057 from https://arxiv.org/pdf/2607.26057v1...
-[29.07.2026 08:38] Extracting affiliations from text.
-[29.07.2026 08:38] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 08:41] Read previous papers.
+[29.07.2026 08:41] Generating top page (month).
+[29.07.2026 08:41] Writing top page (month).
+[29.07.2026 11:26] Read previous papers.
+[29.07.2026 11:26] Get feed.
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25895
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25895
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24223
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24223
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25565
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25565
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24368
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24368
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24904
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24904
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26057
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26057
+[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.25431
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26037
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26037
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23514
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23514
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25857
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25857
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24957
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24957
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26004
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26004
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25948
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25948
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25537
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25537
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25669
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25669
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25091
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25091
+[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25572
+[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25572
+[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.24176
+[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.25236
+[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.25337
+[29.07.2026 11:26] Updating GitHub stars.
+[29.07.2026 11:26] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[29.07.2026 11:26] No deleted papers detected.
+[29.07.2026 11:26] Downloading and parsing papers (pdf, html). Total: 20.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25895.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25895.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25895.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24223.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24223.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24223.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25565.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25565.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25565.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24368.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24368.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24368.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24904.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24904.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24904.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.26057.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.26057.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.26057.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25431.
+[29.07.2026 11:26] Downloading paper 2607.25431 from https://arxiv.org/pdf/2607.25431v1...
+[29.07.2026 11:26] Extracting affiliations from text.
+[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"PASS THE BATON: TRAJECTORY-RELAYED ON-POLICY DISTILLATION Haolei Xu1,2, Xiaowen Xu2, Haiwen Hong2, Zixuan Ni1, Hongxing Li1,2, Yiwen Qiu1, Weiming Lu1, Yongliang Shen1 1Zhejiang University, {xuhaolei, luwm, syl}@zju.edu.cn 2Yuvion Team, Alibaba Group honghaiwen.hhw@alibaba-inc.com GitHub: https://github.com/zju-real/Relay-OPD (cid:128) Project: https://zju-real.github.io/Relay-OPD "
-[29.07.2026 08:38] Response: ```python
-["Zhejiang University", "Yuvion Team, Alibaba Group"]
-```
-[29.07.2026 08:38] Deleting PDF ./assets/pdf/2607.26057.pdf.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.26037.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.26037.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.26037.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.24957.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.24957.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.24957.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.25857.
-[29.07.2026 08:38] Extra JSON file exists (./assets/json/2607.25857.json), skip PDF parsing.
-[29.07.2026 08:38] Paper image links file exists (./assets/img_data/2607.25857.json), skip HTML parsing.
-[29.07.2026 08:38] Success.
-[29.07.2026 08:38] Downloading and parsing paper https://huggingface.co/papers/2607.23514.
-[29.07.2026 08:38] Downloading paper 2607.23514 from https://arxiv.org/pdf/2607.23514v1...
-[29.07.2026 08:38] Extracting affiliations from text.
-[29.07.2026 08:38] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Novel Claim or Déjà Vu? Rethinking Contamination-Free Dynamic Evaluation for Multimodal Automated Fact-Checking Haorui He Department of Interactive Media, Hong Kong Baptist University School of Computing and Data Science, The University of Hong Kong harryhe@connect.hku.hk Xinwen Chen Faculty of Science and Technology, Beijing Normal-Hong Kong Baptist University xinwwwc@gmail.com Dacheng Wen Department of Interactive Media, Hong Kong Baptist University School of Computing and Data Science, The University of Hong Kong wdacheng@connect.hku.hk Reynold Cheng School of Computing and Data Science, The University of Hong Kong ckcheng@cs.hku.hk Francis C. M. Lau School of Computing and Data Science, The University of Hong Kong fcmlau@cs.hku.hk Yupeng Li Department of Interactive Media, Hong Kong Baptist University ivanypli@gmail.com Abstract Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLMs internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-todate information. To address this, emerging dynamic benchmarks collect claims published after LLMs knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-theart (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation. Our experiments yield 16 findings, highlighting three key results: (1) Dynamic evaluation reduces but does not eliminate contamination risks, as 17.09%29.30% of post-cut-off claims remain potentially contaminated; (2) Many newly published claims can be verified either directly or by synthesizing multiple pieces of public knowledge available before the cut"
-[29.07.2026 08:39] Response: ```python
+Text:"CodeNib: Multi-View Data System for Serving Repository Zhongming Yu UC San Diego La Jolla, California, USA zhy025@ucsd.edu Shuting Zhao UC San Diego La Jolla, California, USA shz106@ucsd.edu Mihir Jagtap UC San Diego La Jolla, California, USA mjagtap@ucsd.edu Yash Jayswal UC San Diego La Jolla, California, USA yjayswal@ucsd.edu Hengjia Yu UC San Diego La Jolla, California, USA hey015@ucsd.edu Yizhao Chen UC San Diego La Jolla, California, USA yic138@ucsd.edu Jiayu Chang Stanford University Stanford, California, USA cjy1125@stanford.edu Wentao Ni UC San Diego La Jolla, California, USA w2ni@ucsd.edu Zhaoling Chen UC Riverside Riverside, California, USA zhaoling.chen@email.ucr.edu Gangda Deng University of Southern California Los Angeles, California, USA gangdade@usc.edu Boqin Yuan UC San Diego La Jolla, California, USA b4yuan@ucsd.edu Aryan Dokania UC San Diego La Jolla, California, USA adokania@ucsd.edu Yitong Ma UC San Diego La Jolla, California, USA yim030@ucsd.edu Hejia Zhang UC San Diego La Jolla, California, USA hez024@ucsd.edu Jishen Zhao UC San Diego La Jolla, California, USA jzhao@ucsd.edu ABSTRACT Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime. Across 100 snapshots, we map qualitycost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7 and 25.4 faster at the median. On the static-navigation subset matching normalized liveserver locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7. Across five models, selected context policies pres"
+[29.07.2026 11:26] Response: ```python
 [
-    "Department of Interactive Media, Hong Kong Baptist University",
-    "School of Computing and Data Science, The University of Hong Kong",
-    "Faculty of Science and Technology, Beijing Normal-Hong Kong Baptist University",
-    "School of Computing and Data Science, The University of Hong Kong",
-    "School of Computing and Data Science, The University of Hong Kong",
-    "Department of Interactive Media, Hong Kong Baptist University"
+    "UC San Diego La Jolla, California, USA",
+    "Stanford University Stanford, California, USA",
+    "UC Riverside Riverside, California, USA",
+    "University of Southern California Los Angeles, California, USA"
 ]
 ```
-[29.07.2026 08:39] Deleting PDF ./assets/pdf/2607.23514.pdf.
-[29.07.2026 08:39] Success.
-[29.07.2026 08:39] Downloading and parsing paper https://huggingface.co/papers/2607.25537.
-[29.07.2026 08:39] Extra JSON file exists (./assets/json/2607.25537.json), skip PDF parsing.
-[29.07.2026 08:39] Paper image links file exists (./assets/img_data/2607.25537.json), skip HTML parsing.
-[29.07.2026 08:39] Success.
-[29.07.2026 08:39] Downloading and parsing paper https://huggingface.co/papers/2607.25669.
-[29.07.2026 08:39] Extra JSON file exists (./assets/json/2607.25669.json), skip PDF parsing.
-[29.07.2026 08:39] Paper image links file exists (./assets/img_data/2607.25669.json), skip HTML parsing.
-[29.07.2026 08:39] Success.
-[29.07.2026 08:39] Downloading and parsing paper https://huggingface.co/papers/2607.25091.
-[29.07.2026 08:39] Extra JSON file exists (./assets/json/2607.25091.json), skip PDF parsing.
-[29.07.2026 08:39] Paper image links file exists (./assets/img_data/2607.25091.json), skip HTML parsing.
-[29.07.2026 08:39] Success.
-[29.07.2026 08:39] Downloading and parsing paper https://huggingface.co/papers/2607.25572.
-[29.07.2026 08:39] Downloading paper 2607.25572 from https://arxiv.org/pdf/2607.25572v1...
-[29.07.2026 08:39] Extracting affiliations from text.
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.25431.pdf.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.26037.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.26037.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.26037.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.23514.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.23514.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.23514.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25857.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25857.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25857.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24957.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24957.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24957.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.26004.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.26004.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.26004.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25948.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25948.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25948.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25537.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25537.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25537.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25669.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25669.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25669.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25091.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25091.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25091.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25572.
+[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25572.json), skip PDF parsing.
+[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25572.json), skip HTML parsing.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24176.
+[29.07.2026 11:26] Downloading paper 2607.24176 from https://arxiv.org/pdf/2607.24176v1...
+[29.07.2026 11:26] Extracting affiliations from text.
+[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Mapping CVEs to MITRE ATT&CK Techniques: Curated Gold-Set Classifier and the Limits of LLM-Assisted Label Expansion Cedric Bonhomme Computer Incident Response Center Luxembourg (CIRCL) cedric.bonhomme@circl.lu [57B7 A70D] Alexandre Dulaunoy Computer Incident Response Center Luxembourg (CIRCL) alexandre.dulaunoy@circl.lu 2026-07-23 Pre-preprint notice. This manuscript accompanies talk and paper submitted for consideration at hack.lu 2026 (October 2026). Abstract We present reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK (Enterprise) techniques from free-text vulnerability descriptions. Rather than rely on the CWECAPEC ATT&CK derivation chain whose table-expansion artifacts we quantify we train multi-label classifier on curated gold set of 1,207 CVEs assembled from expert MITRE Center for Threat-Informed Defense (CTID) mappings; it roughly doubles the recall@5 of zero-shot embedding-similarity baseline and improves every ranking metric. We then ask whether LLM-assisted labeling can extend the gold set, and reach the answer only after three successively more rigorous experiments, each of which overturned the last. single-run comparison says expansion degrades the classifier; averaged over five random seeds the effect appears to reverse into small, consistent ranking gain; but an independent replication and an expansion-size scaling sweep (100984 added CVEs, five seeds per size) show the apparent gain was an evaluation artifact: LLM labels at 0.39 agreement with the experts produce no reliable improvement at any size, and at 1,000 added CVEs they measurably degrade rare-technique coverage (macro-F1 0.04). The mechanism is evaluation noise, not the labels alone: selecting the best training checkpoint on small test split turns every reported metric into maximum over dozens of noisy evaluations enough for identical fixedseed runs to differ by 0.05 in recall@5, and for five-seed comparison to pass its own consistency criterion a"
-[29.07.2026 08:39] Response: ```python
-["Computer Incident Response Center Luxembourg (CIRCL)"]
+Text:"Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization Alexey Gavrilov, Alan-Barsag Gazzaev, Sergey Muravyov ITMO University Saint-Petersburg, Russia alexgavrilov28@gmail.com, alanrbtx@gmail.com, mursmail@gmail.com AbstractCompressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in controlled 64-to-16 TinyStories case study built from hierarchical VQ-VAE-2 codec and masked discrete diffusion generator (MDLM). We use staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling. I. INTRODUCTION compressed text generator can fail before generation even starts. In two-stage pipeline, quality may be lost because the codec discards information during compression or because the latent generator fails to produce good code sequence. If these losses are not separated,"
+[29.07.2026 11:26] Response: ```python
+["ITMO University Saint-Petersburg, Russia"]
 ```
-[29.07.2026 08:39] Deleting PDF ./assets/pdf/2607.25572.pdf.
-[29.07.2026 08:39] Success.
-[29.07.2026 08:39] Downloading and parsing paper https://huggingface.co/papers/2607.26004.
-[29.07.2026 08:39] Downloading paper 2607.26004 from https://arxiv.org/pdf/2607.26004v1...
-[29.07.2026 08:39] Extracting affiliations from text.
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.24176.pdf.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25236.
+[29.07.2026 11:26] Downloading paper 2607.25236 from https://arxiv.org/pdf/2607.25236v1...
+[29.07.2026 11:26] Extracting affiliations from text.
+[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"2026-7- Neta Shaul2, Chao Liu1, Arash Vahdat1,, Julius Berner1, 1NVIDIA, 2Weizmann Institute of Science, equal advising Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generators. Albeit achieving high-quality video generation, these training losses are notoriously hard to optimize and suffer from mode collapse, leading to loss of video diversity and lack of motion. In this paper, we introduce Parallel Decoding Distillation (PDD), simplified and scalable trajectory-based distillation method for fast inference of diffusion and flow matching models. Our architecture and training procedure are compatible with any pre-trained model and support sampling with varying number of function evaluations (NFE). PDD accelerates generation by predicting multiple denoising steps per network evaluation. Conceptually, it learns representation of the mean velocity without regressing its derivative using JVPs or finite-difference approximations. Our method achieves SOTA performance with 4-8 NFE on LTX-2.3 Text-to-Video/Audio, Wan 14B Text-to-Video, and Qwen-Image Text-to-Image. Moreover, PDD presents significant improvement in generated video diversity. Project page: https://research.nvidia.com/labs/genair/pdd 𝑡=0s 𝑡=2.5s 𝑡=5s 𝑡=7.5s 𝑡=10s Teacher PDD Distilled PDD DMD2 AnyFlow solitary walker moves across vast, arid desert landscape under scorching sun, the dry, rhythmic crunch of boots pressing into shifting sand echoing in the open, expansive space. The walker is wearing tattered, beige jacket and loose-fitting pants that rustle with every step, wide-brimmed hat shading their face from the intense sunlight. They walk with determined yet weary posture, occasionally glancing around at the expansive sand dunes and rocky outcrops as low, mournful"
-[29.07.2026 08:39] Response: ```python
-["NVIDIA", "Weizmann Institute of Science"]
+Text:"VisualPatchWorld: Code World Models as Latent Structured Representations for Planning Jiaxin Bai Hong Kong Baptist University Hong Kong, China baijiaxin@hkbu.edu.hk Jiaxuan Xiong Hong Kong Baptist University Hong Kong, China Abstract Different research lines use the term world model in different ways, yet they share common aim: to capture how the world evolves under action in form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects qualitative dynamical form with short active probes, then fits that forms free parameters from recorded stateaction traces by minimizing multistep prediction error. The resulting programs can be rolled forward like simulator, inspected in source form, and used inside modelpredictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; residual gap remains for contact-rich pushing, and checking shortlist of promising plans in the engine closes most of that gap. These results establish practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/. A complementary line of work learns world models with neural networks. Methods such as Dreamer"
+[29.07.2026 11:26] Response: ```python
+["Hong Kong Baptist University Hong Kong, China"]
 ```
-[29.07.2026 08:39] Deleting PDF ./assets/pdf/2607.26004.pdf.
-[29.07.2026 08:39] Success.
-[29.07.2026 08:39] Downloading and parsing paper https://huggingface.co/papers/2607.25948.
-[29.07.2026 08:39] Downloading paper 2607.25948 from https://arxiv.org/pdf/2607.25948v1...
-[29.07.2026 08:39] Extracting affiliations from text.
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.25236.pdf.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25337.
+[29.07.2026 11:26] Downloading paper 2607.25337 from https://arxiv.org/pdf/2607.25337v1...
+[29.07.2026 11:26] Extracting affiliations from text.
+[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities Mingqiao Ye * 1 Zhaochong An * 1 3 Zhitong Gao 1 Xian Liu 4 Francois Fleuret 5 Chuan Li 6 Amir Zadeh 6 Serge Belongie 3 Afshin Dehghan 2 Jesse Allardice 2 David Mizrahi 2 Oguzhan Fatih Kar 1 2 Roman Bachmann 1 2 Amir Zamir 1 6Lambda AI 1EPFL 2Apple 3University of Copenhagen 4CUHK 5University of Geneva https://modus-multimodal.epfl.ch/ Figure 1. (1) Bottom left: Decoder-Only. MODUS is decoder-only model, where all modalities are processed and generated within single Transformer decoder using unified autoregressive token sequence without modality-specific heads. (2) Top left: Any-to-Any. MODUS performs any-to-any modeling, i.e., predicting any modality given any other, and supports diverse 1D and 2D modalities. (3) Right: Multimodal Capabilities. The resulting framework can support wide range of capabilities in single model: core vision tasks such as converting RGB to depth, surface normals, edges, or DINO features; visionlanguage tasks including VQA, and visual grounding; flexible any-to-any generation across modalities; chained generation through intermediate modalities; self-verification, where one modality can evaluate the output of another; and visual representation composition, where semantic features and reconstruction latents jointly contribute to faithful generations. "
-[29.07.2026 08:39] Response: ```python
-["Lambda AI", "EPFL", "Apple", "University of Copenhagen", "CUHK", "University of Geneva"]
+Text:"Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control Jiaxin Bai Hong Kong Baptist University Hong Kong, China baijiaxin@hkbu.edu.hk Jiaxuan Xiong Hong Kong Baptist University Hong Kong, China Abstract Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as byproduct of representation learning rather than as progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoderpredictor backbone and mines directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWMs 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, crosstrajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the trainplan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with p"
+[29.07.2026 11:26] Response: ```python
+["Hong Kong Baptist University Hong Kong, China"]
 ```
-[29.07.2026 08:39] Deleting PDF ./assets/pdf/2607.25948.pdf.
-[29.07.2026 08:39] Success.
-[29.07.2026 08:39] Enriching papers with extra data.
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 0. Abstract  Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, ...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 1. Abstract  Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Int...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 2. Abstract  Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attributes, such as typography, vector geometry, colors, grouping, and layer ordering. We present...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 3. Abstract  Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 4. Abstract  Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time mu...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 5. Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreli...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 6. Abstract  We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can navigate interactively by moving the camera, discovering unseen regions, and revisiting pre...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 7. Abstract  We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasonin...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 8. Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a bina...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 9. Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This ...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 10. Abstract  In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we ...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 11. Abstract  Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budg...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 12. Abstract  The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systematically investigated. In the State-of-the-Art (SOTA) research, fifteen (model, corpus) conf...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 13. Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train ...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 14. Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-st...
-[29.07.2026 08:39] ********************************************************************************
-[29.07.2026 08:39] Abstract 15. Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scr...
-[29.07.2026 08:39] Read previous papers.
-[29.07.2026 08:39] Generating reviews via LLM API.
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#dataset", "#data", "#robotics", "#transfer_learning", "#open_source"], "emoji": "🤖", "ru": {"title": "Высококачественные данные для обучения роботов без реальных манипуляций", "desc": "В данной статье представлена система HiFi-UMI, которая решает проблему нехватки качественных данн
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#agents", "#retrieval", "#reasoning", "#retrieval_eval"], "emoji": "🔍", "ru": {"title": "Эффективный поиск с учетом релевантности", "desc": "В данной статье представлен новый агент поиска под названием RARG, который использует уровень релевантности для оптимизации взаимодействия с к
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#benchmark", "#training", "#multimodal"], "emoji": "🎨", "ru": {"title": "Магия редактируемых дизайнов из изображений", "desc": "Статья представляет новый фреймворк ReDesign, который помогает восстанавливать редактируемые файлы дизайна из раст
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#retrieval_eval", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Проблемы памяти: как улучшить извлечение информации?", "desc": "Статья обсуждает системы долгосрочной памяти, которые хранят информацию и извлекают её при поступлении запроса. П
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#rl", "#games", "#reasoning", "#inference", "#architecture", "#dataset", "#optimization", "#training", "#multimodal"], "emoji": "🎥", "ru": {"title": "Mage-VL: Новый шаг в понимании мультимодальных данных", "desc": "В статье представлен новый моделирующий подход Mage-VL, который реша
-[29.07.2026 08:39] Querying the API.
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.25337.pdf.
+[29.07.2026 11:26] Success.
+[29.07.2026 11:26] Enriching papers with extra data.
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 0. Abstract  Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, ...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 1. Abstract  Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Int...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 2. Abstract  Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attributes, such as typography, vector geometry, colors, grouping, and layer ordering. We present...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 3. Abstract  Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 4. Abstract  Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time mu...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 5. Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreli...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 6. Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository c...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 7. Abstract  We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can navigate interactively by moving the camera, discovering unseen regions, and revisiting pre...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 8. Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This ...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 9. Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a bina...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 10. Abstract  We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasonin...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 11. Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-st...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 12. Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scr...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 13. Abstract  In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we ...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 14. Abstract  Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budg...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 15. Abstract  The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systematically investigated. In the State-of-the-Art (SOTA) research, fifteen (model, corpus) conf...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 16. Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train ...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 17. Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this ...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 18. Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous v...
+[29.07.2026 11:26] ********************************************************************************
+[29.07.2026 11:26] Abstract 19. Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon laten...
+[29.07.2026 11:26] Read previous papers.
+[29.07.2026 11:26] Generating reviews via LLM API.
+[29.07.2026 11:26] Using data from previous issue: {"categories": ["#dataset", "#data", "#robotics", "#transfer_learning", "#open_source"], "emoji": "🤖", "ru": {"title": "Высококачественные данные для обучения роботов без реальных манипуляций", "desc": "В данной статье представлена система HiFi-UMI, которая решает проблему нехватки качественных данн
+[29.07.2026 11:26] Using data from previous issue: {"categories": ["#agents", "#retrieval", "#reasoning", "#retrieval_eval"], "emoji": "🔍", "ru": {"title": "Эффективный поиск с учетом релевантности", "desc": "В данной статье представлен новый агент поиска под названием RARG, который использует уровень релевантности для оптимизации взаимодействия с к
+[29.07.2026 11:26] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#benchmark", "#training", "#multimodal"], "emoji": "🎨", "ru": {"title": "Магия редактируемых дизайнов из изображений", "desc": "Статья представляет новый фреймворк ReDesign, который помогает восстанавливать редактируемые файлы дизайна из раст
+[29.07.2026 11:26] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#retrieval_eval", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Проблемы памяти: как улучшить извлечение информации?", "desc": "Статья обсуждает системы долгосрочной памяти, которые хранят информацию и извлекают её при поступлении запроса. П
+[29.07.2026 11:26] Using data from previous issue: {"categories": ["#rl", "#games", "#reasoning", "#inference", "#architecture", "#dataset", "#optimization", "#training", "#multimodal"], "emoji": "🎥", "ru": {"title": "Mage-VL: Новый шаг в понимании мультимодальных данных", "desc": "В статье представлен новый моделирующий подход Mage-VL, который реша
+[29.07.2026 11:26] Using data from previous issue: {"categories": ["#optimization", "#reasoning", "#training", "#math"], "emoji": "🤖", "ru": {"title": "Оптимизация обучения через вмешательство учителя", "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмеши
+[29.07.2026 11:26] Querying the API.
+[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the resulting trajectory. A limited relay budget concentrates intervention on critical early positions while limiting departure from the student policy. With a Qwen3-4B-Instruct-2507 teacher and Qwen3-0.6B/1.7B-Non-Thinking students on eight mathematical reasoning benchmarks, Relay-OPD achieves the best or second-best results on every benchmark, outperforming standard OPD by +5.73% and the strongest baseline FastOPD by +1.49% on average for 1.7B, with consistent gains at 0.6B. Training trajectory length is reduced by over 50%.
-[29.07.2026 08:39] Response: ```json
-{
-  "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмешиваться в процессе генерации текстов. При этом учитель начинает вести модель-ученика в нужном направлении на определенных этапах, что помогает избежать накапливаемых ошибок. Relay-OPD значительно улучшает результаты на тестах, обгоняя стандартные методы в среднем на 5,73%. Кроме того, длина обучающей траектории сокращается более чем на 50%, что делает процесс более эффективным.",
-  "emoji": "🤖",
-  "title": "Оптимизация обучения через вмешательство учителя"
+Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries.
+[29.07.2026 11:26] Response: {
+  "desc": "Статья описывает систему CodeNib, которая улучшает поиск и навигацию в репозиториях кода. Она создает многоразовые лексические, плотные и структурные представления для каждого коммита репозитория. Система сохраняет выбранные представления во время редактирования и обеспечивает ранжированный поиск и навигацию по символам. Результаты показывают, что CodeNib значительно ускоряет обновления и снижает затраты на навигацию по репозиторию.",
+  "emoji": "💻",
+  "title": "Оптимизация навигации в репозиториях с помощью CodeNib"
 }
-```
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -235,12 +258,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the resulting trajectory. A limited relay budget concentrates intervention on critical early positions while limiting departure from the student policy. With a Qwen3-4B-Instruct-2507 teacher and Qwen3-0.6B/1.7B-Non-Thinking students on eight mathematical reasoning benchmarks, Relay-OPD achieves the best or second-best results on every benchmark, outperforming standard OPD by +5.73% and the strongest baseline FastOPD by +1.49% on average for 1.7B, with consistent gains at 0.6B. Training trajectory length is reduced by over 50%."
+"Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries."
 
-[29.07.2026 08:39] Response: ```python
-['TRAINING', 'MATH']
+[29.07.2026 11:26] Response: ```python
+['AGENTS', 'MEMORY', 'SESSION_MEMORY']
 ```
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -283,33 +306,274 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the resulting trajectory. A limited relay budget concentrates intervention on critical early positions while limiting departure from the student policy. With a Qwen3-4B-Instruct-2507 teacher and Qwen3-0.6B/1.7B-Non-Thinking students on eight mathematical reasoning benchmarks, Relay-OPD achieves the best or second-best results on every benchmark, outperforming standard OPD by +5.73% and the strongest baseline FastOPD by +1.49% on average for 1.7B, with consistent gains at 0.6B. Training trajectory length is reduced by over 50%."
+"Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries."
 
-[29.07.2026 08:39] Response: ```python
+[29.07.2026 11:27] Response: ```python
+["MEMORY", "RETRIEVAL", "OPTIMIZATION"]
+```
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[29.07.2026 11:27] Response: {
+  "desc": "The paper introduces CodeNib, a system designed to enhance the efficiency of coding agents by creating reusable views of code repositories. It addresses the challenges of disconnected indexes and task-local histories by maintaining context across edits and providing ranked search and navigation. The results show significant improvements in speed for graph and vector updates, as well as reduced latency in navigation requests. Overall, CodeNib supports a multi-view approach to repository context, optimizing the coding process with fewer resources.",
+  "title": "Enhancing Code Navigation with Multi-View Contexts"
+}
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#long_context", "#optimization", "#agents", "#diffusion", "#memory"], "emoji": "🌍", "ru": {"title": "Исследуй мир с Wonder в реальном времени", "desc": "В статье представлен Wonder, универсальная модель мира для видеопроекций, которая позволяет пользователям исследовать
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#reasoning", "#retrieval_eval", "#multimodal", "#ethics", "#benchmark", "#evaluation"], "emoji": "🔍", "ru": {"title": "Проверка фактов: риски загрязнения данных в оценке", "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#data", "#benchmark", "#ethics"], "emoji": "🛡️", "ru": {"title": "Новая эра безопасности контента с Shieldstral", "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#interpretability", "#hallucinations"], "emoji": "🖼️", "ru": {"title": "Тест для оценки визуального восприятия больших языковых моделей", "desc": "Мы представляем PerceptionBench, тест для оценки атомных возможностей визуального восприятия мультимодальны
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#inference", "#architecture", "#training", "#optimization", "#diffusion"], "emoji": "🎥", "ru": {"title": "Ускорение генерации видео с помощью PDD", "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel D
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#architecture", "#multimodal", "#benchmark", "#open_source", "#diffusion"], "emoji": "🔄", "ru": {"title": "Модель Modus: универсальный подход для многомодальных задач", "desc": "В данной работе представлены модели any-to-any, которые предсказывают любую модальность на основе других 
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#games"], "emoji": "🎥", "ru": {"title": "Улучшение видеомоделей с помощью визуальной инженерии запросов", "desc": "В эпоху фундаментальных моделей важно правильно формулировать запросы. Статья обсуждает, как визуальная инженерия запросов может улучшить п
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#inference", "#optimization", "#benchmark", "#compression"], "emoji": "🎥", "ru": {"title": "Оптимизация распределения токенов для OmniLLM", "desc": "Статья описывает новую модель для оптимизации распределения бюджета токенов в OmniLLM, которая работае
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#optimization", "#alignment", "#rl", "#rlhf", "#small_models", "#open_source"], "emoji": "📈", "ru": {"title": "Стабильность малых языковых моделей: новые горизонты", "desc": "В статье рассматривается проблема выравнивания малых языковых моделей (SLMs) с использованием м
+[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#security", "#dataset", "#open_source", "#data"], "emoji": "🔒", "ru": {"title": "Улучшение качества аннотаций важнее объёма данных", "desc": "В данной статье представлена воспроизводимая система для сопоставления общих уязвимостей и угроз (CVEs) с техниками MITRE ATT&CK
+[29.07.2026 11:27] Querying the API.
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling.
+[29.07.2026 11:27] Response: ```json
+{
+  "desc": "В данной статье исследуются проблемы генерации сжатых коротких текстов и двунаправленного декодирования. Авторы выделяют два основных источника ошибок: некорректная работа кодека и слабое качество латентных кодов. В эксперименте на примере TinyStories разработан метод поэтапной валидации, который позволяет отделить качество воссоздания кодека от качества генерации. Результаты показывают, что потеря качества происходит на этапе работы кодека, а не на этапе генерации латентного кода.",
+  "emoji": "📝",
+  "title": "Качество кодека важнее латентных кодов"
+}
+```
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling."
+
+[29.07.2026 11:27] Response: ```python
+["DATA", "BENCHMARK", "TRAINING"]
+```
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling."
+
+[29.07.2026 11:27] Response: ```python
+["COMPRESSION", "DIFFUSION", "OPTIMIZATION"]
+```
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[29.07.2026 11:27] Response: {
+  "desc": "This paper investigates the failure modes of compressed short-text generators, focusing on the roles of the codec and the latent generator. It introduces a staged validation protocol to separately assess codec reconstruction fidelity and latent generation quality using a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator. The findings reveal that most quality loss occurs before the latent generation phase, emphasizing the importance of codec fidelity. The study provides a methodological framework for diagnosing issues in this specific pipeline, highlighting that improving codec performance is crucial for enhancing overall text generation quality.",
+  "title": "Prioritize Codec Fidelity for Better Text Generation"
+}
+[29.07.2026 11:27] Querying the API.
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/.
+[29.07.2026 11:27] Response: ```json
+{
+  "desc": "В данной статье представляется концепция VisualPatchWorld (VPW), которая моделирует динамику мира в виде кода. VPW выбирает качественную динамическую форму с помощью активных проб, а затем подгоняет параметры этой формы, минимизируя ошибку многократного прогнозирования. Результирующие программы могут быть использованы как симулятор и применены в модельно-прогнозирующем управлении. Это исследование демонстрирует, как автоматически построенные кодовые модели мира могут улучшить планирование в сложных задачах.",
+  "emoji": "🌍",
+  "title": "Автоматическое создание моделей мира для эффективного планирования"
+}
+```
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/."
+
+[29.07.2026 11:27] Response: ```python
+["AGENTS", "RL", "ARCHITECTURE", "TRAINING"]
+```
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/."
+
+[29.07.2026 11:27] Response: ```python
 ["REASONING", "OPTIMIZATION"]
 ```
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the resulting trajectory. A limited relay budget concentrates intervention on critical early positions while limiting departure from the student policy. With a Qwen3-4B-Instruct-2507 teacher and Qwen3-0.6B/1.7B-Non-Thinking students on eight mathematical reasoning benchmarks, Relay-OPD achieves the best or second-best results on every benchmark, outperforming standard OPD by +5.73% and the strongest baseline FastOPD by +1.49% on average for 1.7B, with consistent gains at 0.6B. Training trajectory length is reduced by over 50%.
+Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 08:39] Response: {
-  "desc": "This paper introduces Relay On-Policy Distillation (Relay-OPD), which addresses the issue of prefix failure in on-policy distillation by allowing a teacher model to intervene during training. When the student model makes a wrong decision, the teacher can take over briefly to guide the generation in a better direction. This method focuses on critical points in the student's trajectory, optimizing performance while minimizing deviation from the student's policy. The results show that Relay-OPD significantly improves performance on mathematical reasoning tasks compared to standard methods, while also reducing training time.",
-  "title": "Guiding Students Back on Track with Relay-OPD"
+[29.07.2026 11:27] Response: {
+  "desc": "This paper introduces VisualPatchWorld (VPW), a novel approach to modeling world dynamics that combines the strengths of neural predictors and physics engines. VPW captures the evolution of the world by selecting a qualitative dynamical form and fitting its parameters using state-action traces to minimize prediction error. The resulting code-based models can be inspected, edited, and utilized in model-predictive control, achieving a mean planning success of 69.0%. The method shows significant improvements in planning performance, especially when the correct qualitative dynamics are chosen, paving the way for automatically constructed world models that enhance planning capabilities.",
+  "title": "VisualPatchWorld: Bridging Neural Predictors and Physics Engines for Effective World Modeling"
 }
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#training", "#long_context", "#optimization", "#agents", "#diffusion", "#memory"], "emoji": "🌍", "ru": {"title": "Исследуй мир с Wonder в реальном времени", "desc": "В статье представлен Wonder, универсальная модель мира для видеопроекций, которая позволяет пользователям исследовать
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#interpretability", "#hallucinations"], "emoji": "🖼️", "ru": {"title": "Тест для оценки визуального восприятия больших языковых моделей", "desc": "Мы представляем PerceptionBench, тест для оценки атомных возможностей визуального восприятия мультимодальны
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#data", "#benchmark", "#ethics"], "emoji": "🛡️", "ru": {"title": "Новая эра безопасности контента с Shieldstral", "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике
-[29.07.2026 08:39] Querying the API.
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[29.07.2026 11:27] Querying the API.
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-to-date information. To address this, emerging dynamic benchmarks collect claims published after LLMs' knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-the-art (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation. Our experiments yield 16 findings, highlighting three key results: (1) Dynamic evaluation reduces but does not eliminate contamination risks, as 17.09\%--29.30\% of post-cut-off claims remain potentially contaminated; (2) Many newly published claims can be verified either directly or by synthesizing multiple pieces of public knowledge available before the cut-off; and (3) Contamination can induce statistically significant inflation in MAFC performance, increasing Macro-F1 by up to 11.34 points and distorting system rankings. In light of these findings, we re-evaluate SOTA LLMs under a strictly contamination-controlled setting. Our study provides practical guidelines for trustworthy MAFC evaluation.
-[29.07.2026 08:39] Response: {
-  "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с использованием мультимодальных подходов. Исследуется, как статические и динамические эталонные наборы данных влияют на оценку методов, использующих LLM. Результаты показывают, что даже динамическая оценка не устраняет риски загрязнения, что может существенно искажать результаты. Авторы предлагают практические рекомендации для более надежной оценки методов MAFC.",
-  "emoji": "🔍",
-  "title": "Проверка фактов: риски загрязнения данных в оценке"
+Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA.
+[29.07.2026 11:27] Response: {
+  "desc": "Статья представляет новую архитектуру под названием TD-JEPA, которая улучшает планирование в машинном обучении за счет оптимизации прогноза временных расстояний. Она использует структуру временного прогресса из офлайн-документов, чтобы добиться более точных предсказаний при управлении моделями. В результате, TD-JEPA значительно повышает успешность выполнения задач, таких как 'Two-Room', достигая 100% успеха. Метод также улучшает процесс обучения, сочетая затраты прогресса с планированием в реальном времени.",
+  "emoji": "🚀",
+  "title": "Оптимизация планирования с помощью TD-JEPA"
 }
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -353,12 +617,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-to-date information. To address this, emerging dynamic benchmarks collect claims published after LLMs' knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-the-art (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation. Our experiments yield 16 findings, highlighting three key results: (1) Dynamic evaluation reduces but does not eliminate contamination risks, as 17.09\%--29.30\% of post-cut-off claims remain potentially contaminated; (2) Many newly published claims can be verified either directly or by synthesizing multiple pieces of public knowledge available before the cut-off; and (3) Contamination can induce statistically significant inflation in MAFC performance, increasing Macro-F1 by up to 11.34 points and distorting system rankings. In light of these findings, we re-evaluate SOTA LLMs under a strictly contamination-controlled setting. Our study provides practical guidelines for trustworthy MAFC evaluation."
+"Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA."
 
-[29.07.2026 08:39] Response: ```python
-["BENCHMARK", "RETRIEVAL_EVAL", "MULTIMODAL"]
+[29.07.2026 11:27] Response: ```python
+['ARCHITECTURE', 'RL']
 ```
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -401,379 +665,26 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-to-date information. To address this, emerging dynamic benchmarks collect claims published after LLMs' knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-the-art (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation. Our experiments yield 16 findings, highlighting three key results: (1) Dynamic evaluation reduces but does not eliminate contamination risks, as 17.09\%--29.30\% of post-cut-off claims remain potentially contaminated; (2) Many newly published claims can be verified either directly or by synthesizing multiple pieces of public knowledge available before the cut-off; and (3) Contamination can induce statistically significant inflation in MAFC performance, increasing Macro-F1 by up to 11.34 points and distorting system rankings. In light of these findings, we re-evaluate SOTA LLMs under a strictly contamination-controlled setting. Our study provides practical guidelines for trustworthy MAFC evaluation."
+"Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA."
 
-[29.07.2026 08:39] Response: ```python
-['REASONING', 'EVALUATION', 'ETHICS']
+[29.07.2026 11:27] Response: ```python
+["OPTIMIZATION", "GAMES"]
 ```
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-to-date information. To address this, emerging dynamic benchmarks collect claims published after LLMs' knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-the-art (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation. Our experiments yield 16 findings, highlighting three key results: (1) Dynamic evaluation reduces but does not eliminate contamination risks, as 17.09\%--29.30\% of post-cut-off claims remain potentially contaminated; (2) Many newly published claims can be verified either directly or by synthesizing multiple pieces of public knowledge available before the cut-off; and (3) Contamination can induce statistically significant inflation in MAFC performance, increasing Macro-F1 by up to 11.34 points and distorting system rankings. In light of these findings, we re-evaluate SOTA LLMs under a strictly contamination-controlled setting. Our study provides practical guidelines for trustworthy MAFC evaluation.
+Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 08:39] Response: {
-  "desc": "This paper discusses the challenges of verifying claims using Multimodal Automated Fact-Checking (MAFC) due to contamination in existing benchmarks. It highlights that many benchmarks rely on outdated claims that can misrepresent the true capabilities of language models (LLMs). The authors introduce a new dynamic benchmark, ClaimReview2025Q4, and investigate contamination risks in both static and dynamic settings. Their findings reveal that contamination can significantly inflate performance metrics, leading to misleading evaluations of MAFC systems.",
-  "title": "Ensuring Trustworthy Evaluation in Automated Fact-Checking"
+[29.07.2026 11:27] Response: {
+  "desc": "This paper introduces Temporal-Distance JEPA (TD-JEPA), a method that enhances Joint-Embedding Predictive Architectures by focusing on predicting future states in a structured way. Unlike traditional methods that rely on Euclidean distances in representation space, TD-JEPA mines a temporal cost from offline demonstration logs to better guide planning. It uses positive targets from the same trajectory and negative examples from different trajectories to improve the planning process. The results show that TD-JEPA significantly outperforms previous methods in various environments, achieving higher success rates and better planning efficiency.",
+  "title": "Enhancing Planning with Temporal Insights in JEPA"
 }
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#games"], "emoji": "🎥", "ru": {"title": "Улучшение видеомоделей с помощью визуальной инженерии запросов", "desc": "В эпоху фундаментальных моделей важно правильно формулировать запросы. Статья обсуждает, как визуальная инженерия запросов может улучшить п
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#inference", "#optimization", "#benchmark", "#compression"], "emoji": "🎥", "ru": {"title": "Оптимизация распределения токенов для OmniLLM", "desc": "Статья описывает новую модель для оптимизации распределения бюджета токенов в OmniLLM, которая работае
-[29.07.2026 08:39] Using data from previous issue: {"categories": ["#training", "#optimization", "#alignment", "#rl", "#rlhf", "#small_models", "#open_source"], "emoji": "📈", "ru": {"title": "Стабильность малых языковых моделей: новые горизонты", "desc": "В статье рассматривается проблема выравнивания малых языковых моделей (SLMs) с использованием м
-[29.07.2026 08:39] Querying the API.
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train a multi-label classifier on a curated gold dataset of 1,207 CVEs from expert MITRE Center for Threat-Informed Defense mappings. The resulting model approximately doubles recall@5 compared with a zero-shot embedding-similarity baseline and improves every ranking metric. We then investigate whether LLM-assisted labeling can extend the gold dataset. Initial experiments suggest contradictory conclusions: a single run indicates degraded performance, while averaging over five random seeds suggests a small gain. However, an independent replication and an expansion-size study (100--984 additional CVEs) show that the apparent improvement is an evaluation artifact. LLM-generated labels, with approximately 0.39 agreement with expert annotations, provide no reliable improvement at any expansion size and reduce rare-technique coverage at around 1,000 added CVEs (macro-F1 decreases by 0.04). The root cause is evaluation noise. Selecting checkpoints on a small test split effectively maximizes over many noisy evaluations, producing recall@5 differences of up to 0.05 between otherwise identical runs. Using a corrected protocol based on validation-split checkpoint selection, the gold-only model achieves recall@5 of (0.673 \pm 0.019), and repeating the decisive experiment confirms the null result for LLM expansion. A final scaling study shows that additional expert-curated data consistently improves performance, whereas LLM-labeled data does not, indicating that the classifier is limited by label quality rather than dataset size. All datasets, models, code, and training logs are publicly released.
-[29.07.2026 08:39] Response: ```json
-{
-  "desc": "В данной статье представлена воспроизводимая система для сопоставления общих уязвимостей и угроз (CVEs) с техниками MITRE ATT&CK из описаний уязвимостей в свободном формате. Мы обучили многометочный классификатор на отобранном наборе данных из 1207 CVEs от экспертов MITRE. Полученная модель значительно улучшила точность, однако результаты экспериментов с LLM-помощью показали противоречивые результаты. В конечном итоге, дополнительная информация от LLM не привела к улучшению качества классификации, подчеркивая важность качества аннотаций.",
-  "emoji": "🔒",
-  "title": "Улучшение качества аннотаций важнее объёма данных"
-}
-```
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train a multi-label classifier on a curated gold dataset of 1,207 CVEs from expert MITRE Center for Threat-Informed Defense mappings. The resulting model approximately doubles recall@5 compared with a zero-shot embedding-similarity baseline and improves every ranking metric. We then investigate whether LLM-assisted labeling can extend the gold dataset. Initial experiments suggest contradictory conclusions: a single run indicates degraded performance, while averaging over five random seeds suggests a small gain. However, an independent replication and an expansion-size study (100--984 additional CVEs) show that the apparent improvement is an evaluation artifact. LLM-generated labels, with approximately 0.39 agreement with expert annotations, provide no reliable improvement at any expansion size and reduce rare-technique coverage at around 1,000 added CVEs (macro-F1 decreases by 0.04). The root cause is evaluation noise. Selecting checkpoints on a small test split effectively maximizes over many noisy evaluations, producing recall@5 differences of up to 0.05 between otherwise identical runs. Using a corrected protocol based on validation-split checkpoint selection, the gold-only model achieves recall@5 of (0.673 \pm 0.019), and repeating the decisive experiment confirms the null result for LLM expansion. A final scaling study shows that additional expert-curated data consistently improves performance, whereas LLM-labeled data does not, indicating that the classifier is limited by label quality rather than dataset size. All datasets, models, code, and training logs are publicly released."
-
-[29.07.2026 08:39] Response: ```python
-["DATASET", "DATA", "TRAINING", "OPEN_SOURCE"]
-```
-[29.07.2026 08:39] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train a multi-label classifier on a curated gold dataset of 1,207 CVEs from expert MITRE Center for Threat-Informed Defense mappings. The resulting model approximately doubles recall@5 compared with a zero-shot embedding-similarity baseline and improves every ranking metric. We then investigate whether LLM-assisted labeling can extend the gold dataset. Initial experiments suggest contradictory conclusions: a single run indicates degraded performance, while averaging over five random seeds suggests a small gain. However, an independent replication and an expansion-size study (100--984 additional CVEs) show that the apparent improvement is an evaluation artifact. LLM-generated labels, with approximately 0.39 agreement with expert annotations, provide no reliable improvement at any expansion size and reduce rare-technique coverage at around 1,000 added CVEs (macro-F1 decreases by 0.04). The root cause is evaluation noise. Selecting checkpoints on a small test split effectively maximizes over many noisy evaluations, producing recall@5 differences of up to 0.05 between otherwise identical runs. Using a corrected protocol based on validation-split checkpoint selection, the gold-only model achieves recall@5 of (0.673 \pm 0.019), and repeating the decisive experiment confirms the null result for LLM expansion. A final scaling study shows that additional expert-curated data consistently improves performance, whereas LLM-labeled data does not, indicating that the classifier is limited by label quality rather than dataset size. All datasets, models, code, and training logs are publicly released."
-
-[29.07.2026 08:39] GitHub Models 429 (rate limit). Ждём 60s, попытка 1/4.
-[29.07.2026 08:40] Response: ```python
-['SECURITY', 'OPEN_SOURCE']
-```
-[29.07.2026 08:40] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train a multi-label classifier on a curated gold dataset of 1,207 CVEs from expert MITRE Center for Threat-Informed Defense mappings. The resulting model approximately doubles recall@5 compared with a zero-shot embedding-similarity baseline and improves every ranking metric. We then investigate whether LLM-assisted labeling can extend the gold dataset. Initial experiments suggest contradictory conclusions: a single run indicates degraded performance, while averaging over five random seeds suggests a small gain. However, an independent replication and an expansion-size study (100--984 additional CVEs) show that the apparent improvement is an evaluation artifact. LLM-generated labels, with approximately 0.39 agreement with expert annotations, provide no reliable improvement at any expansion size and reduce rare-technique coverage at around 1,000 added CVEs (macro-F1 decreases by 0.04). The root cause is evaluation noise. Selecting checkpoints on a small test split effectively maximizes over many noisy evaluations, producing recall@5 differences of up to 0.05 between otherwise identical runs. Using a corrected protocol based on validation-split checkpoint selection, the gold-only model achieves recall@5 of (0.673 \pm 0.019), and repeating the decisive experiment confirms the null result for LLM expansion. A final scaling study shows that additional expert-curated data consistently improves performance, whereas LLM-labeled data does not, indicating that the classifier is limited by label quality rather than dataset size. All datasets, models, code, and training logs are publicly released.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 08:40] Response: {
-  "desc": "This paper introduces a reproducible method for linking Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK techniques using a multi-label classifier trained on a curated dataset. The model significantly improves recall compared to a baseline approach, demonstrating the effectiveness of expert mappings. However, experiments with LLM-assisted labeling reveal that it does not enhance performance and may even reduce coverage of rare techniques. The findings emphasize the importance of label quality over dataset size in training effective classifiers.",
-  "title": "Enhancing CVE Mapping with Quality Labels, Not Quantity"
-}
-[29.07.2026 08:40] Querying the API.
-[29.07.2026 08:40] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generators. Albeit achieving high-quality video generation, these training losses are notoriously hard to optimize and suffer from mode collapse, leading to loss of video diversity and lack of motion. In this paper, we introduce Parallel Decoding Distillation (PDD), a simplified and scalable trajectory-based distillation method for fast inference of diffusion and flow matching models. Our architecture and training procedure are compatible with any pre-trained model and support sampling with a varying number of function evaluations (NFE). PDD accelerates generation by predicting multiple denoising steps per network evaluation. Conceptually, it learns a representation of the mean velocity without regressing its derivative using JVPs or finite-difference approximations. Our method achieves SOTA performance with 4-8 NFE on LTX-2.3 Text-to-Video/Audio, Wan 14B Text-to-Video, and Qwen-Image Text-to-Image. Moreover, PDD presents a significant improvement in generated video diversity.
-[29.07.2026 08:40] Response: ```json
-{
-  "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel Decoding Distillation (PDD). Текущие методы ускорения требуют сложной оптимизации и часто приводят к потере разнообразия видео. PDD позволяет предсказывать сразу несколько этапов денойзинга за одну оценку сети, что значительно ускоряет процесс. Метод продемонстрировал высокое качество генерации и разнообразие видео с использованием минимального числа оценок функции.",
-  "emoji": "🎥",
-  "title": "Ускорение генерации видео с помощью PDD"
-}
-```
-[29.07.2026 08:40] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generators. Albeit achieving high-quality video generation, these training losses are notoriously hard to optimize and suffer from mode collapse, leading to loss of video diversity and lack of motion. In this paper, we introduce Parallel Decoding Distillation (PDD), a simplified and scalable trajectory-based distillation method for fast inference of diffusion and flow matching models. Our architecture and training procedure are compatible with any pre-trained model and support sampling with a varying number of function evaluations (NFE). PDD accelerates generation by predicting multiple denoising steps per network evaluation. Conceptually, it learns a representation of the mean velocity without regressing its derivative using JVPs or finite-difference approximations. Our method achieves SOTA performance with 4-8 NFE on LTX-2.3 Text-to-Video/Audio, Wan 14B Text-to-Video, and Qwen-Image Text-to-Image. Moreover, PDD presents a significant improvement in generated video diversity."
-
-[29.07.2026 08:40] Response: ```python
-['INFERENCE', 'ARCHITECTURE', 'TRAINING']
-```
-[29.07.2026 08:40] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generators. Albeit achieving high-quality video generation, these training losses are notoriously hard to optimize and suffer from mode collapse, leading to loss of video diversity and lack of motion. In this paper, we introduce Parallel Decoding Distillation (PDD), a simplified and scalable trajectory-based distillation method for fast inference of diffusion and flow matching models. Our architecture and training procedure are compatible with any pre-trained model and support sampling with a varying number of function evaluations (NFE). PDD accelerates generation by predicting multiple denoising steps per network evaluation. Conceptually, it learns a representation of the mean velocity without regressing its derivative using JVPs or finite-difference approximations. Our method achieves SOTA performance with 4-8 NFE on LTX-2.3 Text-to-Video/Audio, Wan 14B Text-to-Video, and Qwen-Image Text-to-Image. Moreover, PDD presents a significant improvement in generated video diversity."
-
-[29.07.2026 08:40] Response: ```python
-["DIFFUSION", "OPTIMIZATION"]
-```
-[29.07.2026 08:40] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generators. Albeit achieving high-quality video generation, these training losses are notoriously hard to optimize and suffer from mode collapse, leading to loss of video diversity and lack of motion. In this paper, we introduce Parallel Decoding Distillation (PDD), a simplified and scalable trajectory-based distillation method for fast inference of diffusion and flow matching models. Our architecture and training procedure are compatible with any pre-trained model and support sampling with a varying number of function evaluations (NFE). PDD accelerates generation by predicting multiple denoising steps per network evaluation. Conceptually, it learns a representation of the mean velocity without regressing its derivative using JVPs or finite-difference approximations. Our method achieves SOTA performance with 4-8 NFE on LTX-2.3 Text-to-Video/Audio, Wan 14B Text-to-Video, and Qwen-Image Text-to-Image. Moreover, PDD presents a significant improvement in generated video diversity.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 08:40] Response: {
-  "desc": "This paper addresses the challenges of slow and costly video generation in diffusion models by introducing Parallel Decoding Distillation (PDD). PDD simplifies the distillation process, allowing for faster inference while maintaining high-quality video output. It achieves this by predicting multiple denoising steps in a single network evaluation, which enhances the diversity of generated videos. The method is compatible with existing pre-trained models and demonstrates state-of-the-art performance with fewer function evaluations.",
-  "title": "Accelerating Video Generation with Parallel Decoding Distillation"
-}
-[29.07.2026 08:40] Querying the API.
-[29.07.2026 08:40] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using encoder-decoder or diffusion architectures, impacting their performance and preventing them from using strong pre-trained decoder-only models as a prior. In this work, we investigate decoder-only any-to-any multimodal modeling, which treats all modalities symmetrically and supports arbitrary modalities as inputs and outputs without modality-specific heads, losses, or task pipelines. Because every modality is both an input and an output of the same model, the resulting model, named Modus, can support a range of applications, such as chained generation through intermediate modalities or cross-modal self-verification by scoring the model's own outputs with another generated modality. Modus demonstrates strong out-of-the-box performance and is competitive with specialist and multitask baselines using a single model across various benchmarks. All materials are open-sourced at https://modus-multimodal.epfl.ch/.
-[29.07.2026 08:40] Response: {
-  "desc": "В данной работе представлены модели any-to-any, которые предсказывают любую модальность на основе других в рамках одной сети. Эти модели могут использовать все входные данные симметрично, не требуя специфических головок или потерь для каждой модальности. Мы разработали модель под названием Modus, которая позволяет использовать любую модальность как вход и выход, что открывает новые возможности для генерации и самопроверки. Modus демонстрирует высокую производительность и конкурентоспособен с специализированными и многозадачными моделями.",
-  "emoji": "🔄",
-  "title": "Модель Modus: универсальный подход для многомодальных задач"
-}
-[29.07.2026 08:40] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using encoder-decoder or diffusion architectures, impacting their performance and preventing them from using strong pre-trained decoder-only models as a prior. In this work, we investigate decoder-only any-to-any multimodal modeling, which treats all modalities symmetrically and supports arbitrary modalities as inputs and outputs without modality-specific heads, losses, or task pipelines. Because every modality is both an input and an output of the same model, the resulting model, named Modus, can support a range of applications, such as chained generation through intermediate modalities or cross-modal self-verification by scoring the model's own outputs with another generated modality. Modus demonstrates strong out-of-the-box performance and is competitive with specialist and multitask baselines using a single model across various benchmarks. All materials are open-sourced at https://modus-multimodal.epfl.ch/."
-
-[29.07.2026 08:41] Response: ```python
-['MULTIMODAL', 'ARCHITECTURE', 'OPEN_SOURCE', 'BENCHMARK']
-```
-[29.07.2026 08:41] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using encoder-decoder or diffusion architectures, impacting their performance and preventing them from using strong pre-trained decoder-only models as a prior. In this work, we investigate decoder-only any-to-any multimodal modeling, which treats all modalities symmetrically and supports arbitrary modalities as inputs and outputs without modality-specific heads, losses, or task pipelines. Because every modality is both an input and an output of the same model, the resulting model, named Modus, can support a range of applications, such as chained generation through intermediate modalities or cross-modal self-verification by scoring the model's own outputs with another generated modality. Modus demonstrates strong out-of-the-box performance and is competitive with specialist and multitask baselines using a single model across various benchmarks. All materials are open-sourced at https://modus-multimodal.epfl.ch/."
-
-[29.07.2026 08:41] Response: ```python
-['OPEN_SOURCE', 'DIFFUSION']
-```
-[29.07.2026 08:41] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using encoder-decoder or diffusion architectures, impacting their performance and preventing them from using strong pre-trained decoder-only models as a prior. In this work, we investigate decoder-only any-to-any multimodal modeling, which treats all modalities symmetrically and supports arbitrary modalities as inputs and outputs without modality-specific heads, losses, or task pipelines. Because every modality is both an input and an output of the same model, the resulting model, named Modus, can support a range of applications, such as chained generation through intermediate modalities or cross-modal self-verification by scoring the model's own outputs with another generated modality. Modus demonstrates strong out-of-the-box performance and is competitive with specialist and multitask baselines using a single model across various benchmarks. All materials are open-sourced at https://modus-multimodal.epfl.ch/.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 08:41] Response: {
-  "desc": "This paper introduces Modus, a novel any-to-any multimodal model that can predict any type of data from various other types within a single framework. Unlike traditional models that require separate components for different modalities, Modus treats all modalities equally, allowing for flexible input and output combinations. It leverages a decoder-only architecture, enabling it to utilize pre-trained models effectively and enhancing its performance across diverse tasks. The model shows competitive results against specialized and multitask models, making it a versatile tool for applications in fields like ecology and astronomy.",
-  "title": "Modus: A Unified Any-to-Any Multimodal Model"
-}
-[29.07.2026 08:41] Renaming data file.
-[29.07.2026 08:41] Renaming previous data. hf_papers.json to ./d/2026-07-29.json
-[29.07.2026 08:41] Saving new data file.
-[29.07.2026 08:41] Generating page.
-[29.07.2026 08:41] Renaming previous page.
-[29.07.2026 08:41] Renaming previous data. index.html to ./d/2026-07-29.html
-[29.07.2026 08:41] Writing result.
-[29.07.2026 08:41] Renaming log file.
-[29.07.2026 08:41] Renaming previous data. log.txt to ./logs/2026-07-29_last_log.txt
+[29.07.2026 11:27] Renaming data file.
+[29.07.2026 11:27] Renaming previous data. hf_papers.json to ./d/2026-07-29.json
+[29.07.2026 11:27] Saving new data file.
+[29.07.2026 11:27] Generating page.
+[29.07.2026 11:27] Renaming previous page.
+[29.07.2026 11:27] Renaming previous data. index.html to ./d/2026-07-29.html
+[29.07.2026 11:27] Writing result.
+[29.07.2026 11:27] Renaming log file.
+[29.07.2026 11:27] Renaming previous data. log.txt to ./logs/2026-07-29_last_log.txt
