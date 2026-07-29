@@ -1,266 +1,288 @@
-[29.07.2026 16:22] Read previous papers.
-[29.07.2026 16:22] Generating top page (month).
-[29.07.2026 16:22] Writing top page (month).
-[29.07.2026 19:14] Read previous papers.
-[29.07.2026 19:14] Get feed.
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25895
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25895
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24223
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24223
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25565
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25565
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25431
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25431
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24368
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24368
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24904
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24904
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26057
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26057
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23514
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23514
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26037
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26037
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25857
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25857
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24957
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24957
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25948
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25948
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25537
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25537
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26004
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26004
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25669
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25669
-[29.07.2026 19:14] Extract page data from URL. URL: https://huggingface.co/papers/2607.25970
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24176
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24176
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25091
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25091
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25572
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25572
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24882
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24882
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25236
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25236
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25337
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25337
-[29.07.2026 19:14] Extract page data from URL. URL: https://huggingface.co/papers/2607.25108
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22135
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22135
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22117
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22117
-[29.07.2026 19:14] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12544
-[29.07.2026 19:14] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12544
-[29.07.2026 19:14] Updating GitHub stars.
-[29.07.2026 19:14] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[29.07.2026 19:14] No deleted papers detected.
-[29.07.2026 19:14] Downloading and parsing papers (pdf, html). Total: 26.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25895.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25895.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25895.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.24223.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.24223.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.24223.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25565.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25565.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25565.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25431.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25431.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25431.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.24368.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.24368.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.24368.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.24904.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.24904.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.24904.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.26057.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.26057.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.26057.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.23514.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.23514.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.23514.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.26037.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.26037.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.26037.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25857.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25857.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25857.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.24957.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.24957.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.24957.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25948.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25948.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25948.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25537.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25537.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25537.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.26004.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.26004.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.26004.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25669.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25669.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25669.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25970.
-[29.07.2026 19:14] Downloading paper 2607.25970 from https://arxiv.org/pdf/2607.25970v1...
-[29.07.2026 19:14] Extracting affiliations from text.
-[29.07.2026 19:14] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Reinforcement Learning for Code Optimization Pierre Chambon1,2, Kunhao Zheng1,3, Juliette Decugis1,2, Benoit Sagot2, Gabriel Synnaeve1 1FAIR at Meta, 2Inria, 3Université Paris Dauphine RL for code correctness is now established: have the model generate program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail. We make execution time learnable through three stages: (1) how code is tested, by building DMC-Optim with large optimization tests and calibrated sandbox; (2) how speed is turned into reward, by composing correctness and speed in the RL environment and using an offline simulator to predict the most promising configurations; and (3) how the model learns from that reward, by adapting GRPO and evaluation to the sparser, noisier timed-execution setting. On DMC-Optim, the strongest optimization-aware configurations improve strict top-50% pass@1 from 18.0% to 31.3% on Qwen 2.5 7B and from 30.7% to 50.4% on CWM 32B. These gains further increase at stricter percentiles such as top-30%, with 125% relative improvement for CWM 32B, while preserving pure-correctness scores. When the timing sandbox is degraded, robust optimization RL reaches up to 100%200% improvement over standard RLVR, depending on the evaluation criterion. On LCB, CWM 32B wins up to 83% of median-sample speed comparisons against standard RLVR. Relative to the fastest correct human submissions per problem, it reaches about half the human rate of complexity-class improvements (14% vs. 28%). Correspondence: Pierre Chambon at pchambon@meta.com Training for correctness has not made code models reliably fast. On SWE-fficiency (Ma et al., 2025), Claude 4.5 Sonnet produces cor"
-[29.07.2026 19:14] Response: ```python
-["FAIR at Meta", "Inria", "Université Paris Dauphine"]
-```
-[29.07.2026 19:14] Deleting PDF ./assets/pdf/2607.25970.pdf.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.24176.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.24176.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.24176.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25091.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25091.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25091.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25572.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25572.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25572.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.24882.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.24882.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.24882.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25236.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25236.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25236.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25337.
-[29.07.2026 19:14] Extra JSON file exists (./assets/json/2607.25337.json), skip PDF parsing.
-[29.07.2026 19:14] Paper image links file exists (./assets/img_data/2607.25337.json), skip HTML parsing.
-[29.07.2026 19:14] Success.
-[29.07.2026 19:14] Downloading and parsing paper https://huggingface.co/papers/2607.25108.
-[29.07.2026 19:14] Downloading paper 2607.25108 from https://arxiv.org/pdf/2607.25108v1...
-[29.07.2026 19:14] Extracting affiliations from text.
-[29.07.2026 19:14] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis Feiyang Liu Delft University of Technology Delft, Netherlands Zihan Li University of Washington Seattle, USA Dandan Shan Xiamen University Xiamen, China Ruibo Wang Delft University of Technology Delft, Netherlands Qingqi Hong Xiamen University Xiamen, China Abstract Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is costly cycle that becomes impractical when labels are scarce or privacy constraints limit data sharing. We propose OPERA (Offline Policy-guided Expert Routing and Adaptation), multiagent ensemble framework that addresses this deployment bottleneck by treating expert weight assignment as an offline policy learning problem: routing policy is learned from small validation set without gradient updates to any expert agent, then deployed with test-time adaptation to handle distribution shift. OPERA coordinates heterogeneous specialist agents through complementary mechanisms. The expert profiling module learns selection policies offline, enabling informed allocation of expertise. Each agent undergoes confidence calibration through temperature adjustment, ensuring more reliable probabilistic outputs. OPERA also incorporates distribution aware adaptation, where class weights are dynamically adjusted at the batch level using statistics derived from unlabeled test data. Instance level routing assigns each sample to the most suitable expert by leveraging inter model agreement and predictive entropy. We evaluate OPERA on 9 datasets covering fundus photography, chest X-ray, CT, MRI, and multimodal diagnostic benchmarks, comparing against 30+ baselines across classification, segmentation, and multimodal settings. OPERA consistently improves performance "
-[29.07.2026 19:15] Response: ```python
-[
-    "Delft University of Technology",
-    "University of Washington",
-    "Xiamen University"
-]
-```
-[29.07.2026 19:15] Deleting PDF ./assets/pdf/2607.25108.pdf.
-[29.07.2026 19:15] Success.
-[29.07.2026 19:15] Downloading and parsing paper https://huggingface.co/papers/2607.22135.
-[29.07.2026 19:15] Extra JSON file exists (./assets/json/2607.22135.json), skip PDF parsing.
-[29.07.2026 19:15] Paper image links file exists (./assets/img_data/2607.22135.json), skip HTML parsing.
-[29.07.2026 19:15] Success.
-[29.07.2026 19:15] Downloading and parsing paper https://huggingface.co/papers/2607.22117.
-[29.07.2026 19:15] Extra JSON file exists (./assets/json/2607.22117.json), skip PDF parsing.
-[29.07.2026 19:15] Paper image links file exists (./assets/img_data/2607.22117.json), skip HTML parsing.
-[29.07.2026 19:15] Success.
-[29.07.2026 19:15] Downloading and parsing paper https://huggingface.co/papers/2607.12544.
-[29.07.2026 19:15] Extra JSON file exists (./assets/json/2607.12544.json), skip PDF parsing.
-[29.07.2026 19:15] Paper image links file exists (./assets/img_data/2607.12544.json), skip HTML parsing.
-[29.07.2026 19:15] Success.
-[29.07.2026 19:15] Enriching papers with extra data.
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 0. Abstract  Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, ...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 1. Abstract  Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Int...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 2. Abstract  Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attributes, such as typography, vector geometry, colors, grouping, and layer ordering. We present...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 3. Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository c...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 4. Abstract  Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 5. Abstract  Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time mu...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 6. Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreli...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 7. Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This ...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 8. Abstract  We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can navigate interactively by moving the camera, discovering unseen regions, and revisiting pre...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 9. Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a bina...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 10. Abstract  We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasonin...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 11. Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scr...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 12. Abstract  In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we ...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 13. Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-st...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 14. Abstract  Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budg...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 15. Abstract  RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward,...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 16. Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this ...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 17. Abstract  The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systematically investigated. In the State-of-the-Art (SOTA) research, fifteen (model, corpus) conf...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 18. Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train ...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 19. Abstract  Modern coding agents are usually evaluated by whether they eventually produce a correct patch, but patch generation depends on an earlier context-acquisition stage: finding the repository files needed for the task. We introduce Agent Retrieval Bench, a file-level benchmark for this upstrea...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 20. Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous v...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 21. Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon laten...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 22. Abstract  Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is a costly cycle t...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 23. Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormal...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 24. Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covar...
-[29.07.2026 19:15] ********************************************************************************
-[29.07.2026 19:15] Abstract 25. Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the An...
 [29.07.2026 19:15] Read previous papers.
-[29.07.2026 19:15] Generating reviews via LLM API.
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#dataset", "#data", "#robotics", "#transfer_learning", "#open_source"], "emoji": "🤖", "ru": {"title": "Высококачественные данные для обучения роботов без реальных манипуляций", "desc": "В данной статье представлена система HiFi-UMI, которая решает проблему нехватки качественных данн
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#agents", "#retrieval", "#reasoning", "#retrieval_eval"], "emoji": "🔍", "ru": {"title": "Эффективный поиск с учетом релевантности", "desc": "В данной статье представлен новый агент поиска под названием RARG, который использует уровень релевантности для оптимизации взаимодействия с к
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#benchmark", "#training", "#multimodal"], "emoji": "🎨", "ru": {"title": "Магия редактируемых дизайнов из изображений", "desc": "Статья представляет новый фреймворк ReDesign, который помогает восстанавливать редактируемые файлы дизайна из раст
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#retrieval", "#session_memory", "#memory", "#optimization", "#agents"], "emoji": "💻", "ru": {"title": "Оптимизация навигации в репозиториях с помощью CodeNib", "desc": "Статья описывает систему CodeNib, которая улучшает поиск и навигацию в репозиториях кода. Она создает многоразовые
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#retrieval_eval", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Проблемы памяти: как улучшить извлечение информации?", "desc": "Статья обсуждает системы долгосрочной памяти, которые хранят информацию и извлекают её при поступлении запроса. П
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#rl", "#games", "#reasoning", "#inference", "#architecture", "#dataset", "#optimization", "#training", "#multimodal"], "emoji": "🎥", "ru": {"title": "Mage-VL: Новый шаг в понимании мультимодальных данных", "desc": "В статье представлен новый моделирующий подход Mage-VL, который реша
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#optimization", "#reasoning", "#training", "#math"], "emoji": "🤖", "ru": {"title": "Оптимизация обучения через вмешательство учителя", "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмеши
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#reasoning", "#retrieval_eval", "#multimodal", "#ethics", "#benchmark", "#evaluation"], "emoji": "🔍", "ru": {"title": "Проверка фактов: риски загрязнения данных в оценке", "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#training", "#long_context", "#optimization", "#agents", "#diffusion", "#memory"], "emoji": "🌍", "ru": {"title": "Исследуй мир с Wonder в реальном времени", "desc": "В статье представлен Wonder, универсальная модель мира для видеопроекций, которая позволяет пользователям исследовать
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#data", "#benchmark", "#ethics"], "emoji": "🛡️", "ru": {"title": "Новая эра безопасности контента с Shieldstral", "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#interpretability", "#hallucinations"], "emoji": "🖼️", "ru": {"title": "Тест для оценки визуального восприятия больших языковых моделей", "desc": "Мы представляем PerceptionBench, тест для оценки атомных возможностей визуального восприятия мультимодальны
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#architecture", "#multimodal", "#benchmark", "#open_source", "#diffusion"], "emoji": "🔄", "ru": {"title": "Модель Modus: универсальный подход для многомодальных задач", "desc": "В данной работе представлены модели any-to-any, которые предсказывают любую модальность на основе других 
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#games"], "emoji": "🎥", "ru": {"title": "Улучшение видеомоделей с помощью визуальной инженерии запросов", "desc": "В эпоху фундаментальных моделей важно правильно формулировать запросы. Статья обсуждает, как визуальная инженерия запросов может улучшить п
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#inference", "#architecture", "#training", "#optimization", "#diffusion"], "emoji": "🎥", "ru": {"title": "Ускорение генерации видео с помощью PDD", "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel D
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#inference", "#optimization", "#benchmark", "#compression"], "emoji": "🎥", "ru": {"title": "Оптимизация распределения токенов для OmniLLM", "desc": "Статья описывает новую модель для оптимизации распределения бюджета токенов в OmniLLM, которая работае
-[29.07.2026 19:15] Querying the API.
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[29.07.2026 19:15] Generating top page (month).
+[29.07.2026 19:15] Writing top page (month).
+[29.07.2026 22:00] Read previous papers.
+[29.07.2026 22:00] Get feed.
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25895
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25895
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24223
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24223
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25565
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25565
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25431
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25431
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24368
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24368
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26057
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26057
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24904
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24904
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25857
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25857
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23514
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23514
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26037
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26037
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25537
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25537
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24957
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24957
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25948
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25948
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26004
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26004
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25669
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25669
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25970
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25970
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24176
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24176
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25091
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25091
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25236
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25236
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25337
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25337
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25572
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25572
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24882
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24882
+[29.07.2026 22:00] Extract page data from URL. URL: https://huggingface.co/papers/2607.19712
+[29.07.2026 22:00] Extract page data from URL. URL: https://huggingface.co/papers/2607.17674
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25108
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25108
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22135
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22135
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.22117
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.22117
+[29.07.2026 22:00] Get page data from previous paper. URL: https://huggingface.co/papers/2607.12544
+[29.07.2026 22:00] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.12544
+[29.07.2026 22:01] Updating GitHub stars.
+[29.07.2026 22:01] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[29.07.2026 22:01] No deleted papers detected.
+[29.07.2026 22:01] Downloading and parsing papers (pdf, html). Total: 28.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25895.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25895.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25895.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.24223.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.24223.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.24223.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25565.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25565.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25565.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25431.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25431.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25431.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.24368.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.24368.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.24368.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.26057.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.26057.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.26057.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.24904.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.24904.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.24904.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25857.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25857.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25857.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.23514.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.23514.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.23514.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.26037.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.26037.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.26037.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25537.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25537.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25537.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.24957.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.24957.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.24957.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25948.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25948.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25948.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.26004.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.26004.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.26004.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25669.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25669.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25669.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25970.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25970.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25970.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.24176.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.24176.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.24176.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25091.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25091.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25091.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25236.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25236.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25236.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25337.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25337.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25337.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25572.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25572.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25572.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.24882.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.24882.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.24882.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.19712.
+[29.07.2026 22:01] Downloading paper 2607.19712 from https://arxiv.org/pdf/2607.19712v1...
+[29.07.2026 22:01] Extracting affiliations from text.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Abstract  RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail. We make execution time learnable through three stages: (1) how code is tested, by building DMC-Optim with large optimization tests and a calibrated sandbox; (2) how speed is turned into reward, by composing correctness and speed in the RL environment and using an offline simulator to predict the most promising configurations; and (3) how the model learns from that reward, by adapting GRPO and evaluation to the sparser, noisier timed-execution setting. On DMC-Optim, the strongest optimization-aware configurations improve strict top-50% pass@1 from 18.0% to 31.3% on Qwen 2.5 7B and from 30.7% to 50.4% on CWM 32B. These gains further increase at stricter percentiles such as top-30%, with 125% relative improvement for CWM 32B, while preserving pure-correctness scores. When the timing sandbox is degraded, robust optimization RL reaches 100% to 200% improvement over standard RLVR, depending on the evaluation criterion. On LCB, CWM 32B wins up to 83% of median-sample speed comparisons against standard RLVR. Relative to the fastest correct human submissions per problem, it reaches about half the human rate of complexity-class improvements (14% vs. 28%).
-[29.07.2026 19:15] Response: ```json
-{
-  "desc": "В данной статье рассматривается применение обучения с подкреплением (RL) для оптимизации кода. Авторы предлагают три этапа, позволяющих улучшить оценку времени выполнения кода: от тестирования кода до создания среды, в которой скорость и корректность учитываются вместе. Это приводит к значительным улучшениям в задачах оптимизации, увеличивая количество корректных решений, которые быстрее. Результаты показывают, что адаптация методов RL в условиях дефицита сигналов и шума позволяет добиться значительного прогресса в производительности.",
-  "emoji": "⚙️",
-  "title": "Оптимизация кода через обучение с подкреплением"
-}
+Text:"HOW FAST CAN REWARD MODELS SCORE? SYSTEMS STUDY OF C++ AND PYTORCH INFERENCE RUNTIMES FOR RLHF Venkata Naga Sai Vishnu Rohit Pulipaka pvnsvrohit@gmail.com Anish Katta anishkatta19@gmail.com Deva Rohit Reddy Peddireddy Devarohitreddy@gmail.com "
+[29.07.2026 22:01] Response: []
+[29.07.2026 22:01] Extracting affiliations from text.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"HOW FAST CAN REWARD MODELS SCORE? SYSTEMS STUDY OF C++ AND PYTORCH INFERENCE RUNTIMES FOR RLHF Venkata Naga Sai Vishnu Rohit Pulipaka pvnsvrohit@gmail.com Anish Katta anishkatta19@gmail.com Deva Rohit Reddy Peddireddy Devarohitreddy@gmail.comIn RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets score. And yet most setups just default to PyTorch eager mode or torch.compile, no one checks if thats actually fastest. Scoring itself is small. Rollout generation eats far more of typical RLHF step. But scoring and generation fight over the same CPU and GPU resources, so faster scoring engine doesnt shrink step time on its own. It mainly frees up capacity generation can use instead. We built native C++ inference engine on ONNX Runtime. First step: confirm correctness. Output matched the PyTorch reference to 5.7 106 on CPU and 4.2 103 on GPU, close enough to trust. Then we tested it against PyTorch eager mode, torch.compile, and FastAPI, on both CPU and GPU. CPU was decisive. Our engine beat every baseline, confidence intervals didnt even overlap. GPU gave different view: we beat PyTorch and FastAPI, but torch.compile came out ahead. Further testing traced the speedup to ONNX Runtime itself, not C++ as language. And batching strategy mattered more than either the language or the runtime choice, more than we expected. The results are from repeated, independent runs, since single runs just arent reliable enough to trust. Keywords: RLHF reward model inference, ONNX Runtime vs torch.compile, latency benchmarking, request batchingTraining models via reinforcement learning from human feedback (RLHF) requires reward model to score massive batches of candidate responses. This happens at every single training step. Because this inference step is invoked so frequently, per call latency severely impacts total wall clock training time, especially for runs that stretch across multiple days. Surprisingly, reward model serving in most RLHF pipelines is left at framework defaults. Teams typically default to PyTorch eager mode or, occasionally, torch.compile, largely skipping any systematic evaluation of alternative inference backends. C++ inference engines built on runtimes like ONNX Runtime are standard for production serving outside of the RLHF ecosystem. Yet, there is very little data on whether this approach actually helps here, or by how much, compared to the PyTorch defaults most engineers already use. This paper addresses that gap. We built custom C++ reward model inference engine, verified its mathematical parity with the PyTorch reference model, and benchmarked its speed against PyTorch eager mode, torch.compile, and FastAPI serving layer. To ensure these numbers reflect reality rather than lucky execution environment, every comparison in this study relies on repeated, independent process launches. Performance diverges sharply depending on the hardware target. On CPU, our ONNX Runtime C++ engine consistently outpaced every PyTorch baseline, with confidence intervals completely detached from the alternatives. The GPU results, however, paint different picture: while the C++ engine clearly beat plain PyTorch and FastAPI, torch.compile pulled ahead at the median. We confirmed this held up as statistically significant effect. Beyond the choice of engine, two deployment level factors proved critical. Padding every batch to fixed length, rather than grouping similar length requests first, cost 5 to 8 times the throughput on CPU and 3.5 to 4 times on GPU. Length aware grouping recovered that loss only on GPU, since our CPU environment lacked meaningful batch parallelism. Furthermore, funneling multiple requests into single shared engine instance yielded no throughput gain; execution serialized completely regardless of concurrent arrival. C++ and PyTorch Inference Runtimes for RLHF Reward Models Crucially, every metric reported here derives from independent process launches. Run to run noise on single machine was substantial enough to falsely present one system as faster if left unchecked. Policy model Generate rollouts (prompt, response) Reward model scoring Policy update (RL step) Figure 1: The RLHF training loop. Every rollout must be scored by the reward model before the policy update, making its inference latency direct multiplier on training wall-clock time. This paper studies how fast that scoring step can run.RLHF became widely adopted after Christiano et al. [1] demonstrated that human preference comparisons could guide reinforcement learning without hand coded reward function. Stiennon et al. [2] expanded this paradigm to summarization, while Bai et al. [3] applied it to open ended dialogue. In fact, their hh rlhf dataset supplies the prompts and responses scored in our benchmarks. The technique became standard for instruction tuned models following the InstructGPT architecture [4], which optimizes the policy using proximal policy optimization [5]. Much of the subsequent RLHF literature has zeroed in on the reinforcement learning mechanics: sampling strategies, policy training stability, and mitigating reward hacking [6, 7]. How fast the reward model actually executes during these thousands of steps has largely been ignored. Even the existing systems literature focuses overwhelmingly on generation rather than scoring. For example, DeepSpeed Chat [8] pinpoints actor generation as the dominant cost in an RLHF step, prompting their Hybrid Engine design. Xiao et al. [9] similarly observe that generation accounts for over 85 percent of step time, leaving roughly 10 percent for the training update. Neither study isolates reward scoring latency as distinct bottleneck, which is exactly the gap our work fills (we revisit their timing breakdowns in Section 5). There is massive body of literature on inference optimization, but it is aimed elsewhere. Graph based runtimes like ONNX [10] accelerate production inference by shifting models out of Python into dedicated serving environments. PyTorch torch.compile [11] achieves similar ends natively by compiling eager mode code into fused kernels. Meanwhile, serving frameworks such as Clipper [12], Orca [13], and vLLM [14] emphasize batching and scheduling under heavy concurrent traffic, primarily for generative models bottlenecked by token decoding. None of this prior work asks whether purpose built C++ engine outperforms PyTorch defaults for the computationally simpler "
+[29.07.2026 22:01] Response: ```python
+[]
 ```
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 22:01] Deleting PDF ./assets/pdf/2607.19712.pdf.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.17674.
+[29.07.2026 22:01] Downloading paper 2607.17674 from https://arxiv.org/pdf/2607.17674v1...
+[29.07.2026 22:01] Extracting affiliations from text.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Awni Altabaa Yale University awni.altabaa@yale.edu John Lafferty Yale University john.lafferty@yale.edu "
+[29.07.2026 22:01] Response: ```python
+["Yale University"]
+```
+[29.07.2026 22:01] Deleting PDF ./assets/pdf/2607.17674.pdf.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.25108.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.25108.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.25108.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.22135.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.22135.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.22135.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.22117.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.22117.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.22117.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Downloading and parsing paper https://huggingface.co/papers/2607.12544.
+[29.07.2026 22:01] Extra JSON file exists (./assets/json/2607.12544.json), skip PDF parsing.
+[29.07.2026 22:01] Paper image links file exists (./assets/img_data/2607.12544.json), skip HTML parsing.
+[29.07.2026 22:01] Success.
+[29.07.2026 22:01] Enriching papers with extra data.
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 0. Abstract  Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, ...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 1. Abstract  Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Int...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 2. Abstract  Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attributes, such as typography, vector geometry, colors, grouping, and layer ordering. We present...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 3. Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository c...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 4. Abstract  Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 5. Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreli...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 6. Abstract  Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time mu...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 7. Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a bina...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 8. Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This ...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 9. Abstract  We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can navigate interactively by moving the camera, discovering unseen regions, and revisiting pre...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 10. Abstract  In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we ...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 11. Abstract  We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasonin...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 12. Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scr...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 13. Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-st...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 14. Abstract  Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budg...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 15. Abstract  RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward,...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 16. Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this ...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 17. Abstract  The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systematically investigated. In the State-of-the-Art (SOTA) research, fifteen (model, corpus) conf...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 18. Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous v...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 19. Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon laten...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 20. Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train ...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 21. Abstract  Modern coding agents are usually evaluated by whether they eventually produce a correct patch, but patch generation depends on an earlier context-acquisition stage: finding the repository files needed for the task. We introduce Agent Retrieval Bench, a file-level benchmark for this upstrea...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 22. Abstract  In RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets a score. And yet most setups just default to PyTorch eager mode or torch.compile, no one checks if that's actually fastest. Scoring itself is sma...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 23. Abstract  A language model p_θ(y mid x) trained on reasoning tasks learns to solve problems via multiple distinct strategies, yet these strategies are implicit and entangled within the model's response distribution. We study the problem of decomposing the response distribution of a given pretrained ...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 24. Abstract  Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is a costly cycle t...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 25. Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormal...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 26. Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covar...
+[29.07.2026 22:01] ********************************************************************************
+[29.07.2026 22:01] Abstract 27. Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the An...
+[29.07.2026 22:01] Read previous papers.
+[29.07.2026 22:01] Generating reviews via LLM API.
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#dataset", "#data", "#robotics", "#transfer_learning", "#open_source"], "emoji": "🤖", "ru": {"title": "Высококачественные данные для обучения роботов без реальных манипуляций", "desc": "В данной статье представлена система HiFi-UMI, которая решает проблему нехватки качественных данн
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#agents", "#retrieval", "#reasoning", "#retrieval_eval"], "emoji": "🔍", "ru": {"title": "Эффективный поиск с учетом релевантности", "desc": "В данной статье представлен новый агент поиска под названием RARG, который использует уровень релевантности для оптимизации взаимодействия с к
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#benchmark", "#training", "#multimodal"], "emoji": "🎨", "ru": {"title": "Магия редактируемых дизайнов из изображений", "desc": "Статья представляет новый фреймворк ReDesign, который помогает восстанавливать редактируемые файлы дизайна из раст
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#retrieval", "#session_memory", "#memory", "#optimization", "#agents"], "emoji": "💻", "ru": {"title": "Оптимизация навигации в репозиториях с помощью CodeNib", "desc": "Статья описывает систему CodeNib, которая улучшает поиск и навигацию в репозиториях кода. Она создает многоразовые
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#retrieval_eval", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Проблемы памяти: как улучшить извлечение информации?", "desc": "Статья обсуждает системы долгосрочной памяти, которые хранят информацию и извлекают её при поступлении запроса. П
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#optimization", "#reasoning", "#training", "#math"], "emoji": "🤖", "ru": {"title": "Оптимизация обучения через вмешательство учителя", "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмеши
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#rl", "#games", "#reasoning", "#inference", "#architecture", "#dataset", "#optimization", "#training", "#multimodal"], "emoji": "🎥", "ru": {"title": "Mage-VL: Новый шаг в понимании мультимодальных данных", "desc": "В статье представлен новый моделирующий подход Mage-VL, который реша
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#data", "#benchmark", "#ethics"], "emoji": "🛡️", "ru": {"title": "Новая эра безопасности контента с Shieldstral", "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#reasoning", "#retrieval_eval", "#multimodal", "#ethics", "#benchmark", "#evaluation"], "emoji": "🔍", "ru": {"title": "Проверка фактов: риски загрязнения данных в оценке", "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#training", "#long_context", "#optimization", "#agents", "#diffusion", "#memory"], "emoji": "🌍", "ru": {"title": "Исследуй мир с Wonder в реальном времени", "desc": "В статье представлен Wonder, универсальная модель мира для видеопроекций, которая позволяет пользователям исследовать
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#games"], "emoji": "🎥", "ru": {"title": "Улучшение видеомоделей с помощью визуальной инженерии запросов", "desc": "В эпоху фундаментальных моделей важно правильно формулировать запросы. Статья обсуждает, как визуальная инженерия запросов может улучшить п
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#interpretability", "#hallucinations"], "emoji": "🖼️", "ru": {"title": "Тест для оценки визуального восприятия больших языковых моделей", "desc": "Мы представляем PerceptionBench, тест для оценки атомных возможностей визуального восприятия мультимодальны
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#architecture", "#multimodal", "#benchmark", "#open_source", "#diffusion"], "emoji": "🔄", "ru": {"title": "Модель Modus: универсальный подход для многомодальных задач", "desc": "В данной работе представлены модели any-to-any, которые предсказывают любую модальность на основе других 
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#inference", "#architecture", "#training", "#optimization", "#diffusion"], "emoji": "🎥", "ru": {"title": "Ускорение генерации видео с помощью PDD", "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel D
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#inference", "#optimization", "#benchmark", "#compression"], "emoji": "🎥", "ru": {"title": "Оптимизация распределения токенов для OmniLLM", "desc": "Статья описывает новую модель для оптимизации распределения бюджета токенов в OmniLLM, которая работае
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#rl", "#training", "#optimization"], "emoji": "⚙️", "ru": {"title": "Оптимизация кода через обучение с подкреплением", "desc": "В данной статье рассматривается применение обучения с подкреплением (RL) для оптимизации кода. Авторы предлагают три этапа, позволяющих улучшить оценку вре
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#data", "#benchmark", "#compression", "#optimization", "#training", "#diffusion"], "emoji": "📝", "ru": {"title": "Качество кодека важнее латентных кодов", "desc": "В данной статье исследуются проблемы генерации сжатых коротких текстов и двунаправленного декодирования. Авторы выделяю
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#training", "#optimization", "#alignment", "#rl", "#rlhf", "#small_models", "#open_source"], "emoji": "📈", "ru": {"title": "Стабильность малых языковых моделей: новые горизонты", "desc": "В статье рассматривается проблема выравнивания малых языковых моделей (SLMs) с использованием м
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#reasoning", "#optimization", "#rl", "#training", "#architecture", "#agents"], "emoji": "🌍", "ru": {"title": "Автоматическое создание моделей мира для эффективного планирования", "desc": "В данной статье представляется концепция VisualPatchWorld (VPW), которая моделирует динамику ми
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#architecture", "#optimization", "#rl", "#games"], "emoji": "🚀", "ru": {"title": "Оптимизация планирования с помощью TD-JEPA", "desc": "Статья представляет новую архитектуру под названием TD-JEPA, которая улучшает планирование в машинном обучении за счет оптимизации прогноза временн
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#training", "#security", "#dataset", "#open_source", "#data"], "emoji": "🔒", "ru": {"title": "Улучшение качества аннотаций важнее объёма данных", "desc": "В данной статье представлена воспроизводимая система для сопоставления общих уязвимостей и угроз (CVEs) с техниками MITRE ATT&CK
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#benchmark", "#retrieval", "#open_source", "#retrieval_eval"], "emoji": "🗂️", "ru": {"title": "Новый подход к извлечению файлов для генерации кодов", "desc": "В данной статье представлено новое оценочное средство под названием Agent Retrieval Bench, которое фокусируется на задаче из
+[29.07.2026 22:01] Querying the API.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  In RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets a score. And yet most setups just default to PyTorch eager mode or torch.compile, no one checks if that's actually fastest. Scoring itself is small. Rollout generation eats far more of a typical RLHF step. But scoring and generation fight over the same CPU and GPU resources, so a faster scoring engine doesn't shrink step time on its own. It mainly frees up capacity generation can use instead. We built a native C++ inference engine on ONNX Runtime. First step: confirm correctness. Output matched the PyTorch reference to 5.7 x 10^-6 on CPU and 4.2 x 10^-3 on GPU, close enough to trust. Then we tested it against PyTorch eager mode, torch.compile, and FastAPI, on both CPU and GPU. CPU was decisive. Our engine beat every baseline, confidence intervals didn't even overlap. GPU gave a different view: we beat PyTorch and FastAPI, but torch.compile came out ahead. Further testing traced the speedup to ONNX Runtime itself, not C++ as a language. And batching strategy mattered more than either the language or the runtime choice, more than we expected. The results are from repeated, independent runs, since single runs just aren't reliable enough to trust.
+[29.07.2026 22:01] Response: {
+  "desc": "В данной статье обсуждается проблема медленного scoring в пайплайнах RLHF, который блокирует обновления политик. Авторы представляют движок вывода на C++ с использованием ONNX Runtime, который значительно ускоряет процесс обработки. Тестирование показало, что новый движок превзошел стандартные методы на CPU, хотя на GPU результаты были менее однозначными. Важным выводом стало то, что стратегия пакетирования оказалась более значимой, чем выбор языка или среды выполнения.",
+  "emoji": "⚡",
+  "title": "Ускорение scoring в RLHF с ONNX Runtime"
+}
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -304,12 +326,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail. We make execution time learnable through three stages: (1) how code is tested, by building DMC-Optim with large optimization tests and a calibrated sandbox; (2) how speed is turned into reward, by composing correctness and speed in the RL environment and using an offline simulator to predict the most promising configurations; and (3) how the model learns from that reward, by adapting GRPO and evaluation to the sparser, noisier timed-execution setting. On DMC-Optim, the strongest optimization-aware configurations improve strict top-50% pass@1 from 18.0% to 31.3% on Qwen 2.5 7B and from 30.7% to 50.4% on CWM 32B. These gains further increase at stricter percentiles such as top-30%, with 125% relative improvement for CWM 32B, while preserving pure-correctness scores. When the timing sandbox is degraded, robust optimization RL reaches 100% to 200% improvement over standard RLVR, depending on the evaluation criterion. On LCB, CWM 32B wins up to 83% of median-sample speed comparisons against standard RLVR. Relative to the fastest correct human submissions per problem, it reaches about half the human rate of complexity-class improvements (14% vs. 28%)."
+"Abstract  In RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets a score. And yet most setups just default to PyTorch eager mode or torch.compile, no one checks if that's actually fastest. Scoring itself is small. Rollout generation eats far more of a typical RLHF step. But scoring and generation fight over the same CPU and GPU resources, so a faster scoring engine doesn't shrink step time on its own. It mainly frees up capacity generation can use instead. We built a native C++ inference engine on ONNX Runtime. First step: confirm correctness. Output matched the PyTorch reference to 5.7 x 10^-6 on CPU and 4.2 x 10^-3 on GPU, close enough to trust. Then we tested it against PyTorch eager mode, torch.compile, and FastAPI, on both CPU and GPU. CPU was decisive. Our engine beat every baseline, confidence intervals didn't even overlap. GPU gave a different view: we beat PyTorch and FastAPI, but torch.compile came out ahead. Further testing traced the speedup to ONNX Runtime itself, not C++ as a language. And batching strategy mattered more than either the language or the runtime choice, more than we expected. The results are from repeated, independent runs, since single runs just aren't reliable enough to trust."
 
-[29.07.2026 19:15] Response: ```python
-['RL', 'TRAINING']
+[29.07.2026 22:01] Response: ```python
+["RLHF", "INFERENCE"]
 ```
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -352,36 +374,30 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail. We make execution time learnable through three stages: (1) how code is tested, by building DMC-Optim with large optimization tests and a calibrated sandbox; (2) how speed is turned into reward, by composing correctness and speed in the RL environment and using an offline simulator to predict the most promising configurations; and (3) how the model learns from that reward, by adapting GRPO and evaluation to the sparser, noisier timed-execution setting. On DMC-Optim, the strongest optimization-aware configurations improve strict top-50% pass@1 from 18.0% to 31.3% on Qwen 2.5 7B and from 30.7% to 50.4% on CWM 32B. These gains further increase at stricter percentiles such as top-30%, with 125% relative improvement for CWM 32B, while preserving pure-correctness scores. When the timing sandbox is degraded, robust optimization RL reaches 100% to 200% improvement over standard RLVR, depending on the evaluation criterion. On LCB, CWM 32B wins up to 83% of median-sample speed comparisons against standard RLVR. Relative to the fastest correct human submissions per problem, it reaches about half the human rate of complexity-class improvements (14% vs. 28%)."
+"Abstract  In RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets a score. And yet most setups just default to PyTorch eager mode or torch.compile, no one checks if that's actually fastest. Scoring itself is small. Rollout generation eats far more of a typical RLHF step. But scoring and generation fight over the same CPU and GPU resources, so a faster scoring engine doesn't shrink step time on its own. It mainly frees up capacity generation can use instead. We built a native C++ inference engine on ONNX Runtime. First step: confirm correctness. Output matched the PyTorch reference to 5.7 x 10^-6 on CPU and 4.2 x 10^-3 on GPU, close enough to trust. Then we tested it against PyTorch eager mode, torch.compile, and FastAPI, on both CPU and GPU. CPU was decisive. Our engine beat every baseline, confidence intervals didn't even overlap. GPU gave a different view: we beat PyTorch and FastAPI, but torch.compile came out ahead. Further testing traced the speedup to ONNX Runtime itself, not C++ as a language. And batching strategy mattered more than either the language or the runtime choice, more than we expected. The results are from repeated, independent runs, since single runs just aren't reliable enough to trust."
 
-[29.07.2026 19:15] Response: ```python
+[29.07.2026 22:01] Response: ```python
 ["OPTIMIZATION"]
 ```
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail. We make execution time learnable through three stages: (1) how code is tested, by building DMC-Optim with large optimization tests and a calibrated sandbox; (2) how speed is turned into reward, by composing correctness and speed in the RL environment and using an offline simulator to predict the most promising configurations; and (3) how the model learns from that reward, by adapting GRPO and evaluation to the sparser, noisier timed-execution setting. On DMC-Optim, the strongest optimization-aware configurations improve strict top-50% pass@1 from 18.0% to 31.3% on Qwen 2.5 7B and from 30.7% to 50.4% on CWM 32B. These gains further increase at stricter percentiles such as top-30%, with 125% relative improvement for CWM 32B, while preserving pure-correctness scores. When the timing sandbox is degraded, robust optimization RL reaches 100% to 200% improvement over standard RLVR, depending on the evaluation criterion. On LCB, CWM 32B wins up to 83% of median-sample speed comparisons against standard RLVR. Relative to the fastest correct human submissions per problem, it reaches about half the human rate of complexity-class improvements (14% vs. 28%).
+Abstract  In RLHF pipelines, reward scoring blocks policy updates. Slow scoring bottlenecks the entire loop, since no update runs until every rollout gets a score. And yet most setups just default to PyTorch eager mode or torch.compile, no one checks if that's actually fastest. Scoring itself is small. Rollout generation eats far more of a typical RLHF step. But scoring and generation fight over the same CPU and GPU resources, so a faster scoring engine doesn't shrink step time on its own. It mainly frees up capacity generation can use instead. We built a native C++ inference engine on ONNX Runtime. First step: confirm correctness. Output matched the PyTorch reference to 5.7 x 10^-6 on CPU and 4.2 x 10^-3 on GPU, close enough to trust. Then we tested it against PyTorch eager mode, torch.compile, and FastAPI, on both CPU and GPU. CPU was decisive. Our engine beat every baseline, confidence intervals didn't even overlap. GPU gave a different view: we beat PyTorch and FastAPI, but torch.compile came out ahead. Further testing traced the speedup to ONNX Runtime itself, not C++ as a language. And batching strategy mattered more than either the language or the runtime choice, more than we expected. The results are from repeated, independent runs, since single runs just aren't reliable enough to trust.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 19:15] Response: {
-  "desc": "This paper discusses improving code optimization using reinforcement learning (RL) by addressing challenges like measurement noise and reward sparsity. The authors propose a three-stage approach: enhancing code testing with a calibrated sandbox, integrating execution time into the reward system, and adapting the model's learning process for noisy environments. Their method, DMC-Optim, shows significant improvements in code generation efficiency, with pass rates increasing notably across various configurations. The results indicate that their robust optimization RL can outperform standard methods, achieving up to 200% improvement in certain scenarios while maintaining correctness.",
-  "title": "Reinforcement Learning for Enhanced Code Optimization"
+[29.07.2026 22:01] Response: {
+  "desc": "This paper addresses the inefficiencies in Reinforcement Learning from Human Feedback (RLHF) pipelines, particularly focusing on the slow reward scoring process that delays policy updates. The authors developed a native C++ inference engine using ONNX Runtime, which significantly improved scoring speed compared to traditional methods like PyTorch eager mode and torch.compile. Their experiments showed that while the CPU performance was markedly better, the GPU results varied, with torch.compile outperforming their engine. The study highlights the importance of batching strategies in achieving faster scoring, revealing that the choice of runtime can impact performance more than the programming language itself.",
+  "title": "Accelerating Reward Scoring in RLHF with ONNX Runtime"
 }
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#data", "#benchmark", "#compression", "#optimization", "#training", "#diffusion"], "emoji": "📝", "ru": {"title": "Качество кодека важнее латентных кодов", "desc": "В данной статье исследуются проблемы генерации сжатых коротких текстов и двунаправленного декодирования. Авторы выделяю
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#training", "#optimization", "#alignment", "#rl", "#rlhf", "#small_models", "#open_source"], "emoji": "📈", "ru": {"title": "Стабильность малых языковых моделей: новые горизонты", "desc": "В статье рассматривается проблема выравнивания малых языковых моделей (SLMs) с использованием м
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#training", "#security", "#dataset", "#open_source", "#data"], "emoji": "🔒", "ru": {"title": "Улучшение качества аннотаций важнее объёма данных", "desc": "В данной статье представлена воспроизводимая система для сопоставления общих уязвимостей и угроз (CVEs) с техниками MITRE ATT&CK
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#benchmark", "#retrieval", "#open_source", "#retrieval_eval"], "emoji": "🗂️", "ru": {"title": "Новый подход к извлечению файлов для генерации кодов", "desc": "В данной статье представлено новое оценочное средство под названием Agent Retrieval Bench, которое фокусируется на задаче из
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#reasoning", "#optimization", "#rl", "#training", "#architecture", "#agents"], "emoji": "🌍", "ru": {"title": "Автоматическое создание моделей мира для эффективного планирования", "desc": "В данной статье представляется концепция VisualPatchWorld (VPW), которая моделирует динамику ми
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#architecture", "#optimization", "#rl", "#games"], "emoji": "🚀", "ru": {"title": "Оптимизация планирования с помощью TD-JEPA", "desc": "Статья представляет новую архитектуру под названием TD-JEPA, которая улучшает планирование в машинном обучении за счет оптимизации прогноза временн
-[29.07.2026 19:15] Querying the API.
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[29.07.2026 22:01] Querying the API.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is a costly cycle that becomes impractical when labels are scarce or privacy constraints limit data sharing. We propose OPERA (Offline Policy-guided Expert Routing and Adaptation), a multi-agent ensemble framework that addresses this deployment bottleneck by treating expert weight assignment as an offline policy learning problem: a routing policy is learned from a small validation set without gradient updates to any expert agent, then deployed with test-time adaptation to handle distribution shift. OPERA coordinates heterogeneous specialist agents through complementary mechanisms. The expert profiling module learns selection policies offline, enabling informed allocation of expertise. Each agent undergoes confidence calibration through temperature adjustment, ensuring more reliable probabilistic outputs. OPERA also incorporates distribution aware adaptation, where class weights are dynamically adjusted at the batch level using statistics derived from unlabeled test data. Instance level routing assigns each sample to the most suitable expert by leveraging inter model agreement and predictive entropy. We evaluate OPERA on 9 datasets covering fundus photography, chest X-ray, CT, MRI, and multimodal diagnostic benchmarks, comparing against 30+ baselines across classification, segmentation, and multimodal settings. OPERA consistently improves performance and calibration quality, demonstrating that offline policy-guided expert agents coordination is a practical path to deployable biomedical AI without retraining. Code is on https://github.com/HUANGLIZI/OPERA{GitHub}.
-[29.07.2026 19:15] Response: {
-  "desc": "Статья посвящена анализу биомедицинских изображений и предлагает метод OPERA для решения проблем, связанных с изменениями в распределении данных. OPERA использует многоагентную ансамблевую структуру, позволяющую улучшить работу моделей без повторной настройки на каждом этапе. Метод включает в себя обучение политик выбора экспертов на небольшом валидирующем наборе данных и применение адаптации во время тестирования. Результаты показывают, что OPERA улучшает качество классификации и сегментации на 9 различных наборах данных без необходимости повторного обучения.",
-  "emoji": "🩺",
-  "title": "Улучшение анализа медицинских изображений с OPERA"
+Abstract  A language model p_θ(y mid x) trained on reasoning tasks learns to solve problems via multiple distinct strategies, yet these strategies are implicit and entangled within the model's response distribution. We study the problem of decomposing the response distribution of a given pretrained language model into a structured, strategy-conditioned representation. Specifically, we learn a latent-variable factorization p_θ(y mid x) leadsto (r_ϕ(z mid x), g_ϕ(y mid x,z)), where a router r maps each input to a distribution over latent strategies z and a generator g produces the response conditioned on that strategy. A key challenge is that the generator, initialized from the base model, already represents p_θ(y mid x) without using z. Standard variational inference therefore gives the model no incentive to route information through z and can yield a severe form of posterior collapse. To address this, we propose a variational objective that measures fractional information gain relative to the base model's response loss and concentrates reconstruction pressure on tokens with high base model surprisal, encouraging z to encode strategy-relevant response variation. We introduce a benchmark of multi-strategy algorithmic tasks and show that this objective recovers latent codes aligned with distinct reference strategies while preserving the base model's response distribution.
+[29.07.2026 22:01] Response: {
+  "desc": "В данной статье рассматривается задача разложения распределения ответов предобученной языковой модели на структурированное представление, основанное на стратегиях. Авторы предлагают метод, который позволяет выделить латентные стратегии из ответов модели, используя роутер для определения распределения стратегий и генератор для подготовки ответов. Основная проблема заключается в том, что стандартные методы не побуждают модель использовать эти латентные переменные, что может привести к ухудшению работы. Введение новой вариационной цели помогает улучшить качество ответов, сохраняя распределение ответов модели.",
+  "emoji": "🧠",
+  "title": "Выделение стратегий в языковых моделях"
 }
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -425,12 +441,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is a costly cycle that becomes impractical when labels are scarce or privacy constraints limit data sharing. We propose OPERA (Offline Policy-guided Expert Routing and Adaptation), a multi-agent ensemble framework that addresses this deployment bottleneck by treating expert weight assignment as an offline policy learning problem: a routing policy is learned from a small validation set without gradient updates to any expert agent, then deployed with test-time adaptation to handle distribution shift. OPERA coordinates heterogeneous specialist agents through complementary mechanisms. The expert profiling module learns selection policies offline, enabling informed allocation of expertise. Each agent undergoes confidence calibration through temperature adjustment, ensuring more reliable probabilistic outputs. OPERA also incorporates distribution aware adaptation, where class weights are dynamically adjusted at the batch level using statistics derived from unlabeled test data. Instance level routing assigns each sample to the most suitable expert by leveraging inter model agreement and predictive entropy. We evaluate OPERA on 9 datasets covering fundus photography, chest X-ray, CT, MRI, and multimodal diagnostic benchmarks, comparing against 30+ baselines across classification, segmentation, and multimodal settings. OPERA consistently improves performance and calibration quality, demonstrating that offline policy-guided expert agents coordination is a practical path to deployable biomedical AI without retraining. Code is on https://github.com/HUANGLIZI/OPERA{GitHub}."
+"Abstract  A language model p_θ(y mid x) trained on reasoning tasks learns to solve problems via multiple distinct strategies, yet these strategies are implicit and entangled within the model's response distribution. We study the problem of decomposing the response distribution of a given pretrained language model into a structured, strategy-conditioned representation. Specifically, we learn a latent-variable factorization p_θ(y mid x) leadsto (r_ϕ(z mid x), g_ϕ(y mid x,z)), where a router r maps each input to a distribution over latent strategies z and a generator g produces the response conditioned on that strategy. A key challenge is that the generator, initialized from the base model, already represents p_θ(y mid x) without using z. Standard variational inference therefore gives the model no incentive to route information through z and can yield a severe form of posterior collapse. To address this, we propose a variational objective that measures fractional information gain relative to the base model's response loss and concentrates reconstruction pressure on tokens with high base model surprisal, encouraging z to encode strategy-relevant response variation. We introduce a benchmark of multi-strategy algorithmic tasks and show that this objective recovers latent codes aligned with distinct reference strategies while preserving the base model's response distribution."
 
-[29.07.2026 19:15] Response: ```python
-['AGENTS', 'HEALTHCARE', 'TRAINING', 'MULTIMODAL', 'DATASET']
+[29.07.2026 22:01] Response: ```python
+["RL", "BENCHMARK", "PROMPTING"]
 ```
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -473,29 +489,30 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is a costly cycle that becomes impractical when labels are scarce or privacy constraints limit data sharing. We propose OPERA (Offline Policy-guided Expert Routing and Adaptation), a multi-agent ensemble framework that addresses this deployment bottleneck by treating expert weight assignment as an offline policy learning problem: a routing policy is learned from a small validation set without gradient updates to any expert agent, then deployed with test-time adaptation to handle distribution shift. OPERA coordinates heterogeneous specialist agents through complementary mechanisms. The expert profiling module learns selection policies offline, enabling informed allocation of expertise. Each agent undergoes confidence calibration through temperature adjustment, ensuring more reliable probabilistic outputs. OPERA also incorporates distribution aware adaptation, where class weights are dynamically adjusted at the batch level using statistics derived from unlabeled test data. Instance level routing assigns each sample to the most suitable expert by leveraging inter model agreement and predictive entropy. We evaluate OPERA on 9 datasets covering fundus photography, chest X-ray, CT, MRI, and multimodal diagnostic benchmarks, comparing against 30+ baselines across classification, segmentation, and multimodal settings. OPERA consistently improves performance and calibration quality, demonstrating that offline policy-guided expert agents coordination is a practical path to deployable biomedical AI without retraining. Code is on https://github.com/HUANGLIZI/OPERA{GitHub}."
+"Abstract  A language model p_θ(y mid x) trained on reasoning tasks learns to solve problems via multiple distinct strategies, yet these strategies are implicit and entangled within the model's response distribution. We study the problem of decomposing the response distribution of a given pretrained language model into a structured, strategy-conditioned representation. Specifically, we learn a latent-variable factorization p_θ(y mid x) leadsto (r_ϕ(z mid x), g_ϕ(y mid x,z)), where a router r maps each input to a distribution over latent strategies z and a generator g produces the response conditioned on that strategy. A key challenge is that the generator, initialized from the base model, already represents p_θ(y mid x) without using z. Standard variational inference therefore gives the model no incentive to route information through z and can yield a severe form of posterior collapse. To address this, we propose a variational objective that measures fractional information gain relative to the base model's response loss and concentrates reconstruction pressure on tokens with high base model surprisal, encouraging z to encode strategy-relevant response variation. We introduce a benchmark of multi-strategy algorithmic tasks and show that this objective recovers latent codes aligned with distinct reference strategies while preserving the base model's response distribution."
 
-[29.07.2026 19:15] Response: ```python
-["TRANSFER_LEARNING", "OPTIMIZATION"]
+[29.07.2026 22:01] Response: ```python
+["REASONING", "INTERPRETABILITY"]
 ```
-[29.07.2026 19:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[29.07.2026 22:01] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Biomedical image analysis spans diverse modalities and tasks, yet real-world deployment is hindered by severe distribution shifts across scanners, protocols, and patient populations. High-performing models consequently require repeated domain-specific fine-tuning, which is a costly cycle that becomes impractical when labels are scarce or privacy constraints limit data sharing. We propose OPERA (Offline Policy-guided Expert Routing and Adaptation), a multi-agent ensemble framework that addresses this deployment bottleneck by treating expert weight assignment as an offline policy learning problem: a routing policy is learned from a small validation set without gradient updates to any expert agent, then deployed with test-time adaptation to handle distribution shift. OPERA coordinates heterogeneous specialist agents through complementary mechanisms. The expert profiling module learns selection policies offline, enabling informed allocation of expertise. Each agent undergoes confidence calibration through temperature adjustment, ensuring more reliable probabilistic outputs. OPERA also incorporates distribution aware adaptation, where class weights are dynamically adjusted at the batch level using statistics derived from unlabeled test data. Instance level routing assigns each sample to the most suitable expert by leveraging inter model agreement and predictive entropy. We evaluate OPERA on 9 datasets covering fundus photography, chest X-ray, CT, MRI, and multimodal diagnostic benchmarks, comparing against 30+ baselines across classification, segmentation, and multimodal settings. OPERA consistently improves performance and calibration quality, demonstrating that offline policy-guided expert agents coordination is a practical path to deployable biomedical AI without retraining. Code is on https://github.com/HUANGLIZI/OPERA{GitHub}.
+Abstract  A language model p_θ(y mid x) trained on reasoning tasks learns to solve problems via multiple distinct strategies, yet these strategies are implicit and entangled within the model's response distribution. We study the problem of decomposing the response distribution of a given pretrained language model into a structured, strategy-conditioned representation. Specifically, we learn a latent-variable factorization p_θ(y mid x) leadsto (r_ϕ(z mid x), g_ϕ(y mid x,z)), where a router r maps each input to a distribution over latent strategies z and a generator g produces the response conditioned on that strategy. A key challenge is that the generator, initialized from the base model, already represents p_θ(y mid x) without using z. Standard variational inference therefore gives the model no incentive to route information through z and can yield a severe form of posterior collapse. To address this, we propose a variational objective that measures fractional information gain relative to the base model's response loss and concentrates reconstruction pressure on tokens with high base model surprisal, encouraging z to encode strategy-relevant response variation. We introduce a benchmark of multi-strategy algorithmic tasks and show that this objective recovers latent codes aligned with distinct reference strategies while preserving the base model's response distribution.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 19:15] Response: {
-  "desc": "This paper introduces OPERA, a framework designed to improve the deployment of machine learning models in biomedical image analysis despite challenges like distribution shifts. OPERA uses a multi-agent ensemble approach where expert agents are assigned tasks based on learned routing policies from a small validation set, avoiding the need for costly retraining. The framework enhances model performance by calibrating agent confidence and dynamically adjusting class weights during inference. By evaluating OPERA across various medical imaging datasets, the authors demonstrate its effectiveness in improving both accuracy and reliability without requiring extensive data or retraining.",
-  "title": "Efficient Expert Routing for Biomedical AI Deployment"
+[29.07.2026 22:01] Response: {
+  "desc": "This paper explores how a language model can learn to solve problems using different strategies that are not explicitly visible. The authors propose a method to break down the model's responses into a structured representation based on these strategies. They introduce a latent-variable factorization that allows the model to route inputs to specific strategies and generate responses accordingly. To overcome challenges in training, they develop a new variational objective that encourages the model to learn meaningful strategy representations while maintaining its original response capabilities.",
+  "title": "Unraveling Strategies in Language Models"
 }
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#healthcare", "#dataset", "#benchmark", "#open_source", "#data"], "emoji": "🧠", "ru": {"title": "Новое слово в сегментации МРТ: улучшение качества через анатомические метки", "desc": "В данной статье представлены данные BraTS-GLI Anatomy-Lesion, которые решают проблему недостаточног
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#benchmark", "#training", "#optimization", "#transfer_learning", "#architecture"], "emoji": "📊", "ru": {"title": "Новый уровень обобщения доменов в машинном обучении", "desc": "Статья посвящена проблемам обобщения доменов в машинном обучении, которые возникают из-за сдвигов распреде
-[29.07.2026 19:15] Using data from previous issue: {"categories": ["#inference", "#benchmark", "#training", "#agents", "#optimization"], "emoji": "🚁", "ru": {"title": "Эффективное отслеживание БПА в сложных условиях", "desc": "В данной статье рассматривается применение тепловизионной инфракрасной съемки для операций беспилотных воздушных аппаратов (
-[29.07.2026 19:15] Renaming data file.
-[29.07.2026 19:15] Renaming previous data. hf_papers.json to ./d/2026-07-29.json
-[29.07.2026 19:15] Saving new data file.
-[29.07.2026 19:15] Generating page.
-[29.07.2026 19:15] Renaming previous page.
-[29.07.2026 19:15] Renaming previous data. index.html to ./d/2026-07-29.html
-[29.07.2026 19:15] Writing result.
-[29.07.2026 19:15] Renaming log file.
-[29.07.2026 19:15] Renaming previous data. log.txt to ./logs/2026-07-29_last_log.txt
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#healthcare", "#dataset", "#training", "#agents", "#optimization", "#multimodal", "#transfer_learning"], "emoji": "🩺", "ru": {"title": "Улучшение анализа медицинских изображений с OPERA", "desc": "Статья посвящена анализу биомедицинских изображений и предлагает метод OPERA для решен
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#healthcare", "#dataset", "#benchmark", "#open_source", "#data"], "emoji": "🧠", "ru": {"title": "Новое слово в сегментации МРТ: улучшение качества через анатомические метки", "desc": "В данной статье представлены данные BraTS-GLI Anatomy-Lesion, которые решают проблему недостаточног
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#benchmark", "#training", "#optimization", "#transfer_learning", "#architecture"], "emoji": "📊", "ru": {"title": "Новый уровень обобщения доменов в машинном обучении", "desc": "Статья посвящена проблемам обобщения доменов в машинном обучении, которые возникают из-за сдвигов распреде
+[29.07.2026 22:01] Using data from previous issue: {"categories": ["#inference", "#benchmark", "#training", "#agents", "#optimization"], "emoji": "🚁", "ru": {"title": "Эффективное отслеживание БПА в сложных условиях", "desc": "В данной статье рассматривается применение тепловизионной инфракрасной съемки для операций беспилотных воздушных аппаратов (
+[29.07.2026 22:01] Renaming data file.
+[29.07.2026 22:01] Renaming previous data. hf_papers.json to ./d/2026-07-29.json
+[29.07.2026 22:01] Saving new data file.
+[29.07.2026 22:01] Generating page.
+[29.07.2026 22:01] Renaming previous page.
+[29.07.2026 22:01] Renaming previous data. index.html to ./d/2026-07-29.html
+[29.07.2026 22:01] Writing result.
+[29.07.2026 22:01] Renaming log file.
+[29.07.2026 22:01] Renaming previous data. log.txt to ./logs/2026-07-29_last_log.txt
