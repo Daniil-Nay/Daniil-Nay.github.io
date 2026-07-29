@@ -1,347 +1,253 @@
-[29.07.2026 08:41] Read previous papers.
-[29.07.2026 08:41] Generating top page (month).
-[29.07.2026 08:41] Writing top page (month).
-[29.07.2026 11:26] Read previous papers.
-[29.07.2026 11:26] Get feed.
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25895
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25895
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24223
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24223
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25565
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25565
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24368
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24368
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24904
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24904
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26057
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26057
-[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.25431
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26037
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26037
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23514
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23514
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25857
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25857
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24957
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24957
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26004
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26004
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25948
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25948
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25537
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25537
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25669
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25669
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25091
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25091
-[29.07.2026 11:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25572
-[29.07.2026 11:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25572
-[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.24176
-[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.25236
-[29.07.2026 11:26] Extract page data from URL. URL: https://huggingface.co/papers/2607.25337
-[29.07.2026 11:26] Updating GitHub stars.
-[29.07.2026 11:26] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[29.07.2026 11:26] No deleted papers detected.
-[29.07.2026 11:26] Downloading and parsing papers (pdf, html). Total: 20.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25895.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25895.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25895.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24223.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24223.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24223.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25565.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25565.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25565.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24368.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24368.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24368.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24904.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24904.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24904.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.26057.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.26057.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.26057.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25431.
-[29.07.2026 11:26] Downloading paper 2607.25431 from https://arxiv.org/pdf/2607.25431v1...
-[29.07.2026 11:26] Extracting affiliations from text.
-[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 11:27] Read previous papers.
+[29.07.2026 11:27] Generating top page (month).
+[29.07.2026 11:27] Writing top page (month).
+[29.07.2026 14:07] Read previous papers.
+[29.07.2026 14:07] Get feed.
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25895
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25895
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24223
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24223
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25565
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25565
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24368
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24368
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26057
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26057
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24904
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24904
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25431
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25431
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26037
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26037
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24957
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24957
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.23514
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.23514
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25857
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25857
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25948
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25948
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26004
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26004
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25537
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25537
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25669
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25669
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25091
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25091
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25572
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25572
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24176
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24176
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25236
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25236
+[29.07.2026 14:07] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25337
+[29.07.2026 14:07] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25337
+[29.07.2026 14:07] Extract page data from URL. URL: https://huggingface.co/papers/2607.22135
+[29.07.2026 14:07] Extract page data from URL. URL: https://huggingface.co/papers/2607.22117
+[29.07.2026 14:07] Extract page data from URL. URL: https://huggingface.co/papers/2607.12544
+[29.07.2026 14:07] Updating GitHub stars.
+[29.07.2026 14:07] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[29.07.2026 14:07] No deleted papers detected.
+[29.07.2026 14:07] Downloading and parsing papers (pdf, html). Total: 23.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25895.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25895.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25895.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.24223.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.24223.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.24223.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25565.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25565.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25565.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.24368.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.24368.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.24368.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.26057.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.26057.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.26057.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.24904.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.24904.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.24904.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25431.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25431.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25431.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.26037.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.26037.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.26037.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.24957.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.24957.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.24957.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.23514.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.23514.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.23514.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25857.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25857.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25857.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25948.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25948.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25948.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.26004.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.26004.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.26004.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25537.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25537.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25537.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25669.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25669.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25669.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25091.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25091.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25091.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25572.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25572.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25572.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.24176.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.24176.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.24176.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25236.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25236.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25236.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.25337.
+[29.07.2026 14:07] Extra JSON file exists (./assets/json/2607.25337.json), skip PDF parsing.
+[29.07.2026 14:07] Paper image links file exists (./assets/img_data/2607.25337.json), skip HTML parsing.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.22135.
+[29.07.2026 14:07] Downloading paper 2607.22135 from https://arxiv.org/pdf/2607.22135v2...
+[29.07.2026 14:07] Extracting affiliations from text.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"CodeNib: Multi-View Data System for Serving Repository Zhongming Yu UC San Diego La Jolla, California, USA zhy025@ucsd.edu Shuting Zhao UC San Diego La Jolla, California, USA shz106@ucsd.edu Mihir Jagtap UC San Diego La Jolla, California, USA mjagtap@ucsd.edu Yash Jayswal UC San Diego La Jolla, California, USA yjayswal@ucsd.edu Hengjia Yu UC San Diego La Jolla, California, USA hey015@ucsd.edu Yizhao Chen UC San Diego La Jolla, California, USA yic138@ucsd.edu Jiayu Chang Stanford University Stanford, California, USA cjy1125@stanford.edu Wentao Ni UC San Diego La Jolla, California, USA w2ni@ucsd.edu Zhaoling Chen UC Riverside Riverside, California, USA zhaoling.chen@email.ucr.edu Gangda Deng University of Southern California Los Angeles, California, USA gangdade@usc.edu Boqin Yuan UC San Diego La Jolla, California, USA b4yuan@ucsd.edu Aryan Dokania UC San Diego La Jolla, California, USA adokania@ucsd.edu Yitong Ma UC San Diego La Jolla, California, USA yim030@ucsd.edu Hejia Zhang UC San Diego La Jolla, California, USA hez024@ucsd.edu Jishen Zhao UC San Diego La Jolla, California, USA jzhao@ucsd.edu ABSTRACT Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime. Across 100 snapshots, we map qualitycost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7 and 25.4 faster at the median. On the static-navigation subset matching normalized liveserver locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7. Across five models, selected context policies pres"
-[29.07.2026 11:26] Response: ```python
+Text:"GLI-AL: Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels Xingyu Xiang 2,3, Shuang Hao 1,3, Fan Wang 1,3, Jianhua Ma 1,3, Chunfeng Lian 2,3 1 Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xian Jiaotong University, Xian, China 2 School of Mathematics and Statistics, Xian Jiaotong University, Xian, China 3 Research Center for Intelligent Medical Equipment and Devices (IMED), Xian Jiaotong University, Xian 710049, China Abstract Existing BraTS-GLI datasets provide widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormalities introduce task-specific label noise by treating pathological regions as normal tissue. To address this limitation, we introduce BraTS-GLI Anatomy-Lesion, controlledaccess, labels-only derived resource built from the BraTS 2023-GLI training cohort. The resource provides 1,251 unified eight-class anatomy-lesion label sets aligned with the original four-modal MRI cases, including image-repair labels for 116 cases requiring repaired imaging inputs. The cohort is organized into 394-case purified subset and an 857-case extended subset, with case-level metadata covering label source, image-repair requirements, quality-control status, access conditions, checksums, and release boundaries. Compared with the original BraTS-GLI annotations, the resource substantially expands foreground supervision by incorporating healthy brain tissues and previously unlabeled coexisting abnormalities within unified label space. validation study using MedNeXt and T1/FLAIR inputs suggests that WMH-aware supervision preserves healthy-tissue segmentation performance across both in-domain GLI and external WMH datasets, while improving sensitivity to coexisting lesions relative to noisy-control t"
+[29.07.2026 14:07] Response: ```python
 [
-    "UC San Diego La Jolla, California, USA",
-    "Stanford University Stanford, California, USA",
-    "UC Riverside Riverside, California, USA",
-    "University of Southern California Los Angeles, California, USA"
+    "Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xian Jiaotong University, Xian, China",
+    "School of Mathematics and Statistics, Xian Jiaotong University, Xian, China",
+    "Research Center for Intelligent Medical Equipment and Devices (IMED), Xian Jiaotong University, Xian 710049, China"
 ]
 ```
-[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.25431.pdf.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.26037.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.26037.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.26037.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.23514.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.23514.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.23514.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25857.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25857.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25857.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24957.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.24957.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.24957.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.26004.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.26004.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.26004.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25948.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25948.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25948.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25537.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25537.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25537.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25669.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25669.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25669.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25091.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25091.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25091.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25572.
-[29.07.2026 11:26] Extra JSON file exists (./assets/json/2607.25572.json), skip PDF parsing.
-[29.07.2026 11:26] Paper image links file exists (./assets/img_data/2607.25572.json), skip HTML parsing.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.24176.
-[29.07.2026 11:26] Downloading paper 2607.24176 from https://arxiv.org/pdf/2607.24176v1...
-[29.07.2026 11:26] Extracting affiliations from text.
-[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 14:07] Deleting PDF ./assets/pdf/2607.22135.pdf.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.22117.
+[29.07.2026 14:07] Downloading paper 2607.22117 from https://arxiv.org/pdf/2607.22117v1...
+[29.07.2026 14:07] Extracting affiliations from text.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization Alexey Gavrilov, Alan-Barsag Gazzaev, Sergey Muravyov ITMO University Saint-Petersburg, Russia alexgavrilov28@gmail.com, alanrbtx@gmail.com, mursmail@gmail.com AbstractCompressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in controlled 64-to-16 TinyStories case study built from hierarchical VQ-VAE-2 codec and masked discrete diffusion generator (MDLM). We use staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling. I. INTRODUCTION compressed text generator can fail before generation even starts. In two-stage pipeline, quality may be lost because the codec discards information during compression or because the latent generator fails to produce good code sequence. If these losses are not separated,"
-[29.07.2026 11:26] Response: ```python
-["ITMO University Saint-Petersburg, Russia"]
+Text:"Yu-Hsi Chen The University of Melbourne yuhsi@student.unimelb.edu.au Abd-Krim Seghouane The University of Melbourne abd-krim.seghouane@unimelb.edu.au "
+[29.07.2026 14:07] Response: ```python
+["The University of Melbourne"]
 ```
-[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.24176.pdf.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25236.
-[29.07.2026 11:26] Downloading paper 2607.25236 from https://arxiv.org/pdf/2607.25236v1...
-[29.07.2026 11:26] Extracting affiliations from text.
-[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 14:07] Deleting PDF ./assets/pdf/2607.22117.pdf.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Downloading and parsing paper https://huggingface.co/papers/2607.12544.
+[29.07.2026 14:07] Downloading paper 2607.12544 from https://arxiv.org/pdf/2607.12544v1...
+[29.07.2026 14:07] Extracting affiliations from text.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"VisualPatchWorld: Code World Models as Latent Structured Representations for Planning Jiaxin Bai Hong Kong Baptist University Hong Kong, China baijiaxin@hkbu.edu.hk Jiaxuan Xiong Hong Kong Baptist University Hong Kong, China Abstract Different research lines use the term world model in different ways, yet they share common aim: to capture how the world evolves under action in form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects qualitative dynamical form with short active probes, then fits that forms free parameters from recorded stateaction traces by minimizing multistep prediction error. The resulting programs can be rolled forward like simulator, inspected in source form, and used inside modelpredictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; residual gap remains for contact-rich pushing, and checking shortlist of promising plans in the engine closes most of that gap. These results establish practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/. A complementary line of work learns world models with neural networks. Methods such as Dreamer"
-[29.07.2026 11:26] Response: ```python
-["Hong Kong Baptist University Hong Kong, China"]
+Text:"Edge-Aware Thermal Infrared UAV Swarm Tracking Yu-Hsi Chen The University of Melbourne Parkville, Australia yuhsi@student.unimelb.edu.au "
+[29.07.2026 14:07] Response: ```python
+["The University of Melbourne, Parkville, Australia"]
 ```
-[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.25236.pdf.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Downloading and parsing paper https://huggingface.co/papers/2607.25337.
-[29.07.2026 11:26] Downloading paper 2607.25337 from https://arxiv.org/pdf/2607.25337v1...
-[29.07.2026 11:26] Extracting affiliations from text.
-[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[29.07.2026 14:07] Deleting PDF ./assets/pdf/2607.12544.pdf.
+[29.07.2026 14:07] Success.
+[29.07.2026 14:07] Enriching papers with extra data.
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 0. Abstract  Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, ...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 1. Abstract  Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Int...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 2. Abstract  Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attributes, such as typography, vector geometry, colors, grouping, and layer ordering. We present...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 3. Abstract  Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 4. Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreli...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 5. Abstract  Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time mu...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 6. Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository c...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 7. Abstract  We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can navigate interactively by moving the camera, discovering unseen regions, and revisiting pre...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 8. Abstract  We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasonin...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 9. Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This ...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 10. Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a bina...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 11. Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scr...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 12. Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-st...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 13. Abstract  In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we ...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 14. Abstract  Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budg...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 15. Abstract  The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systematically investigated. In the State-of-the-Art (SOTA) research, fifteen (model, corpus) conf...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 16. Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train ...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 17. Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this ...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 18. Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous v...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 19. Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon laten...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 20. Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormal...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 21. Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covar...
+[29.07.2026 14:07] ********************************************************************************
+[29.07.2026 14:07] Abstract 22. Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the An...
+[29.07.2026 14:07] Read previous papers.
+[29.07.2026 14:07] Generating reviews via LLM API.
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#dataset", "#data", "#robotics", "#transfer_learning", "#open_source"], "emoji": "🤖", "ru": {"title": "Высококачественные данные для обучения роботов без реальных манипуляций", "desc": "В данной статье представлена система HiFi-UMI, которая решает проблему нехватки качественных данн
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#agents", "#retrieval", "#reasoning", "#retrieval_eval"], "emoji": "🔍", "ru": {"title": "Эффективный поиск с учетом релевантности", "desc": "В данной статье представлен новый агент поиска под названием RARG, который использует уровень релевантности для оптимизации взаимодействия с к
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#benchmark", "#training", "#multimodal"], "emoji": "🎨", "ru": {"title": "Магия редактируемых дизайнов из изображений", "desc": "Статья представляет новый фреймворк ReDesign, который помогает восстанавливать редактируемые файлы дизайна из раст
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#retrieval_eval", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Проблемы памяти: как улучшить извлечение информации?", "desc": "Статья обсуждает системы долгосрочной памяти, которые хранят информацию и извлекают её при поступлении запроса. П
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#optimization", "#reasoning", "#training", "#math"], "emoji": "🤖", "ru": {"title": "Оптимизация обучения через вмешательство учителя", "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмеши
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#rl", "#games", "#reasoning", "#inference", "#architecture", "#dataset", "#optimization", "#training", "#multimodal"], "emoji": "🎥", "ru": {"title": "Mage-VL: Новый шаг в понимании мультимодальных данных", "desc": "В статье представлен новый моделирующий подход Mage-VL, который реша
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#retrieval", "#session_memory", "#memory", "#optimization", "#agents"], "emoji": "💻", "ru": {"title": "Оптимизация навигации в репозиториях с помощью CodeNib", "desc": "Статья описывает систему CodeNib, которая улучшает поиск и навигацию в репозиториях кода. Она создает многоразовые
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#training", "#long_context", "#optimization", "#agents", "#diffusion", "#memory"], "emoji": "🌍", "ru": {"title": "Исследуй мир с Wonder в реальном времени", "desc": "В статье представлен Wonder, универсальная модель мира для видеопроекций, которая позволяет пользователям исследовать
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#interpretability", "#hallucinations"], "emoji": "🖼️", "ru": {"title": "Тест для оценки визуального восприятия больших языковых моделей", "desc": "Мы представляем PerceptionBench, тест для оценки атомных возможностей визуального восприятия мультимодальны
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#reasoning", "#retrieval_eval", "#multimodal", "#ethics", "#benchmark", "#evaluation"], "emoji": "🔍", "ru": {"title": "Проверка фактов: риски загрязнения данных в оценке", "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#data", "#benchmark", "#ethics"], "emoji": "🛡️", "ru": {"title": "Новая эра безопасности контента с Shieldstral", "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#architecture", "#multimodal", "#benchmark", "#open_source", "#diffusion"], "emoji": "🔄", "ru": {"title": "Модель Modus: универсальный подход для многомодальных задач", "desc": "В данной работе представлены модели any-to-any, которые предсказывают любую модальность на основе других 
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#inference", "#architecture", "#training", "#optimization", "#diffusion"], "emoji": "🎥", "ru": {"title": "Ускорение генерации видео с помощью PDD", "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel D
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#games"], "emoji": "🎥", "ru": {"title": "Улучшение видеомоделей с помощью визуальной инженерии запросов", "desc": "В эпоху фундаментальных моделей важно правильно формулировать запросы. Статья обсуждает, как визуальная инженерия запросов может улучшить п
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#inference", "#optimization", "#benchmark", "#compression"], "emoji": "🎥", "ru": {"title": "Оптимизация распределения токенов для OmniLLM", "desc": "Статья описывает новую модель для оптимизации распределения бюджета токенов в OmniLLM, которая работае
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#training", "#optimization", "#alignment", "#rl", "#rlhf", "#small_models", "#open_source"], "emoji": "📈", "ru": {"title": "Стабильность малых языковых моделей: новые горизонты", "desc": "В статье рассматривается проблема выравнивания малых языковых моделей (SLMs) с использованием м
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#training", "#security", "#dataset", "#open_source", "#data"], "emoji": "🔒", "ru": {"title": "Улучшение качества аннотаций важнее объёма данных", "desc": "В данной статье представлена воспроизводимая система для сопоставления общих уязвимостей и угроз (CVEs) с техниками MITRE ATT&CK
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#data", "#benchmark", "#compression", "#optimization", "#training", "#diffusion"], "emoji": "📝", "ru": {"title": "Качество кодека важнее латентных кодов", "desc": "В данной статье исследуются проблемы генерации сжатых коротких текстов и двунаправленного декодирования. Авторы выделяю
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#reasoning", "#optimization", "#rl", "#training", "#architecture", "#agents"], "emoji": "🌍", "ru": {"title": "Автоматическое создание моделей мира для эффективного планирования", "desc": "В данной статье представляется концепция VisualPatchWorld (VPW), которая моделирует динамику ми
+[29.07.2026 14:07] Using data from previous issue: {"categories": ["#architecture", "#optimization", "#rl", "#games"], "emoji": "🚀", "ru": {"title": "Оптимизация планирования с помощью TD-JEPA", "desc": "Статья представляет новую архитектуру под названием TD-JEPA, которая улучшает планирование в машинном обучении за счет оптимизации прогноза временн
+[29.07.2026 14:07] Querying the API.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Text:"Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control Jiaxin Bai Hong Kong Baptist University Hong Kong, China baijiaxin@hkbu.edu.hk Jiaxuan Xiong Hong Kong Baptist University Hong Kong, China Abstract Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as byproduct of representation learning rather than as progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoderpredictor backbone and mines directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWMs 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, crosstrajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the trainplan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with p"
-[29.07.2026 11:26] Response: ```python
-["Hong Kong Baptist University Hong Kong, China"]
-```
-[29.07.2026 11:26] Deleting PDF ./assets/pdf/2607.25337.pdf.
-[29.07.2026 11:26] Success.
-[29.07.2026 11:26] Enriching papers with extra data.
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 0. Abstract  Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, ...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 1. Abstract  Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Int...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 2. Abstract  Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attributes, such as typography, vector geometry, colors, grouping, and layer ordering. We present...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 3. Abstract  Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 4. Abstract  Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time mu...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 5. Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreli...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 6. Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository c...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 7. Abstract  We present Wonder, a general-purpose video world model for real-time, camera-controllable world exploration. Given an image or a conditional video, Wonder constructs a playable world where users can navigate interactively by moving the camera, discovering unseen regions, and revisiting pre...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 8. Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This ...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 9. Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a bina...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 10. Abstract  We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasonin...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 11. Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-st...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 12. Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scr...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 13. Abstract  In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we ...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 14. Abstract  Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budg...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 15. Abstract  The alignment of Small Language Models (SLMs) in the 70--500M parameter range using reinforcement learning is often considered unstable, though the underlying failure mechanisms have not been systematically investigated. In the State-of-the-Art (SOTA) research, fifteen (model, corpus) conf...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 16. Abstract  We present a reproducible pipeline for mapping Common Vulnerabilities and Exposures (CVEs) to MITRE ATT&CK Enterprise techniques from free-text vulnerability descriptions. Rather than relying on the CWE->CAPEC->ATT&CK derivation chain, whose table-expansion artifacts we quantify, we train ...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 17. Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this ...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 18. Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous v...
-[29.07.2026 11:26] ********************************************************************************
-[29.07.2026 11:26] Abstract 19. Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon laten...
-[29.07.2026 11:26] Read previous papers.
-[29.07.2026 11:26] Generating reviews via LLM API.
-[29.07.2026 11:26] Using data from previous issue: {"categories": ["#dataset", "#data", "#robotics", "#transfer_learning", "#open_source"], "emoji": "🤖", "ru": {"title": "Высококачественные данные для обучения роботов без реальных манипуляций", "desc": "В данной статье представлена система HiFi-UMI, которая решает проблему нехватки качественных данн
-[29.07.2026 11:26] Using data from previous issue: {"categories": ["#agents", "#retrieval", "#reasoning", "#retrieval_eval"], "emoji": "🔍", "ru": {"title": "Эффективный поиск с учетом релевантности", "desc": "В данной статье представлен новый агент поиска под названием RARG, который использует уровень релевантности для оптимизации взаимодействия с к
-[29.07.2026 11:26] Using data from previous issue: {"categories": ["#agent_memory", "#agents", "#tool_use", "#benchmark", "#training", "#multimodal"], "emoji": "🎨", "ru": {"title": "Магия редактируемых дизайнов из изображений", "desc": "Статья представляет новый фреймворк ReDesign, который помогает восстанавливать редактируемые файлы дизайна из раст
-[29.07.2026 11:26] Using data from previous issue: {"categories": ["#retrieval", "#benchmark", "#memory", "#retrieval_eval", "#agent_memory"], "emoji": "🧠", "ru": {"title": "Проблемы памяти: как улучшить извлечение информации?", "desc": "Статья обсуждает системы долгосрочной памяти, которые хранят информацию и извлекают её при поступлении запроса. П
-[29.07.2026 11:26] Using data from previous issue: {"categories": ["#rl", "#games", "#reasoning", "#inference", "#architecture", "#dataset", "#optimization", "#training", "#multimodal"], "emoji": "🎥", "ru": {"title": "Mage-VL: Новый шаг в понимании мультимодальных данных", "desc": "В статье представлен новый моделирующий подход Mage-VL, который реша
-[29.07.2026 11:26] Using data from previous issue: {"categories": ["#optimization", "#reasoning", "#training", "#math"], "emoji": "🤖", "ru": {"title": "Оптимизация обучения через вмешательство учителя", "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмеши
-[29.07.2026 11:26] Querying the API.
-[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries.
-[29.07.2026 11:26] Response: {
-  "desc": "Статья описывает систему CodeNib, которая улучшает поиск и навигацию в репозиториях кода. Она создает многоразовые лексические, плотные и структурные представления для каждого коммита репозитория. Система сохраняет выбранные представления во время редактирования и обеспечивает ранжированный поиск и навигацию по символам. Результаты показывают, что CodeNib значительно ускоряет обновления и снижает затраты на навигацию по репозиторию.",
-  "emoji": "💻",
-  "title": "Оптимизация навигации в репозиториях с помощью CodeNib"
-}
-[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries."
-
-[29.07.2026 11:26] Response: ```python
-['AGENTS', 'MEMORY', 'SESSION_MEMORY']
-```
-[29.07.2026 11:26] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries."
-
-[29.07.2026 11:27] Response: ```python
-["MEMORY", "RETRIEVAL", "OPTIMIZATION"]
-```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 11:27] Response: {
-  "desc": "The paper introduces CodeNib, a system designed to enhance the efficiency of coding agents by creating reusable views of code repositories. It addresses the challenges of disconnected indexes and task-local histories by maintaining context across edits and providing ranked search and navigation. The results show significant improvements in speed for graph and vector updates, as well as reduced latency in navigation requests. Overall, CodeNib supports a multi-view approach to repository context, optimizing the coding process with fewer resources.",
-  "title": "Enhancing Code Navigation with Multi-View Contexts"
-}
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#long_context", "#optimization", "#agents", "#diffusion", "#memory"], "emoji": "🌍", "ru": {"title": "Исследуй мир с Wonder в реальном времени", "desc": "В статье представлен Wonder, универсальная модель мира для видеопроекций, которая позволяет пользователям исследовать
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#reasoning", "#retrieval_eval", "#multimodal", "#ethics", "#benchmark", "#evaluation"], "emoji": "🔍", "ru": {"title": "Проверка фактов: риски загрязнения данных в оценке", "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#multimodal", "#dataset", "#data", "#benchmark", "#ethics"], "emoji": "🛡️", "ru": {"title": "Новая эра безопасности контента с Shieldstral", "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#benchmark", "#multimodal", "#interpretability", "#hallucinations"], "emoji": "🖼️", "ru": {"title": "Тест для оценки визуального восприятия больших языковых моделей", "desc": "Мы представляем PerceptionBench, тест для оценки атомных возможностей визуального восприятия мультимодальны
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#inference", "#architecture", "#training", "#optimization", "#diffusion"], "emoji": "🎥", "ru": {"title": "Ускорение генерации видео с помощью PDD", "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel D
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#architecture", "#multimodal", "#benchmark", "#open_source", "#diffusion"], "emoji": "🔄", "ru": {"title": "Модель Modus: универсальный подход для многомодальных задач", "desc": "В данной работе представлены модели any-to-any, которые предсказывают любую модальность на основе других 
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#prompting", "#multimodal", "#games"], "emoji": "🎥", "ru": {"title": "Улучшение видеомоделей с помощью визуальной инженерии запросов", "desc": "В эпоху фундаментальных моделей важно правильно формулировать запросы. Статья обсуждает, как визуальная инженерия запросов может улучшить п
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#multimodal", "#long_context", "#inference", "#optimization", "#benchmark", "#compression"], "emoji": "🎥", "ru": {"title": "Оптимизация распределения токенов для OmniLLM", "desc": "Статья описывает новую модель для оптимизации распределения бюджета токенов в OmniLLM, которая работае
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#optimization", "#alignment", "#rl", "#rlhf", "#small_models", "#open_source"], "emoji": "📈", "ru": {"title": "Стабильность малых языковых моделей: новые горизонты", "desc": "В статье рассматривается проблема выравнивания малых языковых моделей (SLMs) с использованием м
-[29.07.2026 11:27] Using data from previous issue: {"categories": ["#training", "#security", "#dataset", "#open_source", "#data"], "emoji": "🔒", "ru": {"title": "Улучшение качества аннотаций важнее объёма данных", "desc": "В данной статье представлена воспроизводимая система для сопоставления общих уязвимостей и угроз (CVEs) с техниками MITRE ATT&CK
-[29.07.2026 11:27] Querying the API.
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling.
-[29.07.2026 11:27] Response: ```json
+Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormalities introduce task-specific label noise by treating pathological regions as normal tissue. To address this limitation, we introduce BraTS-GLI Anatomy-Lesion, a controlled-access, labels-only derived resource built from the BraTS 2023-GLI training cohort. The resource provides 1,251 unified eight-class anatomy-lesion label sets aligned with the original four-modal MRI cases, including image-repair labels for 116 cases requiring repaired imaging inputs. The cohort is organized into a 394-case purified subset and an 857-case extended subset, with case-level metadata covering label source, image-repair requirements, quality-control status, access conditions, checksums, and release boundaries. Compared with the original BraTS-GLI annotations, the resource substantially expands foreground supervision by incorporating healthy brain tissues and previously unlabeled coexisting abnormalities within a unified label space. A validation study using MedNeXt and T1/FLAIR inputs suggests that WMH-aware supervision preserves healthy-tissue segmentation performance across both in-domain GLI and external WMH datasets, while improving sensitivity to coexisting lesions relative to noisy-control training. The resource is intended for scientific research and supports joint anatomy-lesion supervision, label-noise analysis, and reproducible evaluation. Data are available at https://www.synapse.org/Synapse:syn75210889/wiki/, and code is available at https://github.com/xyx200/brats-gli-anatomy-lesion-code. The data resource DOI is https://doi.org/10.7303/SYN75210889.
+[29.07.2026 14:07] Response: ```json
 {
-  "desc": "В данной статье исследуются проблемы генерации сжатых коротких текстов и двунаправленного декодирования. Авторы выделяют два основных источника ошибок: некорректная работа кодека и слабое качество латентных кодов. В эксперименте на примере TinyStories разработан метод поэтапной валидации, который позволяет отделить качество воссоздания кодека от качества генерации. Результаты показывают, что потеря качества происходит на этапе работы кодека, а не на этапе генерации латентного кода.",
-  "emoji": "📝",
-  "title": "Качество кодека важнее латентных кодов"
+  "desc": "В данной статье представлены данные BraTS-GLI Anatomy-Lesion, которые решают проблему недостаточного представления гиперинтенсивных участков белого вещества в существующих наборах данных для сегментации МРТ глиом. Новый набор данных содержит 1,251 меток, объединяющих восьмиклассные анатомические и патологические сегменты, что позволяет улучшить качество сегментации, учитывая здоровые ткани и ранее неразмеченные аномалии. Проведенные валидационные исследования показывают, что новый ресурс сохраняет производительность сегментации здоровых тканей, повышая чувствительность к сопутствующим поражениям. Эти данные предоставляют возможность для научных исследований в области анализа шума меток и воспроизводимой оценки.",
+  "emoji": "🧠",
+  "title": "Новое слово в сегментации МРТ: улучшение качества через анатомические метки"
 }
 ```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -385,12 +291,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling."
+"Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormalities introduce task-specific label noise by treating pathological regions as normal tissue. To address this limitation, we introduce BraTS-GLI Anatomy-Lesion, a controlled-access, labels-only derived resource built from the BraTS 2023-GLI training cohort. The resource provides 1,251 unified eight-class anatomy-lesion label sets aligned with the original four-modal MRI cases, including image-repair labels for 116 cases requiring repaired imaging inputs. The cohort is organized into a 394-case purified subset and an 857-case extended subset, with case-level metadata covering label source, image-repair requirements, quality-control status, access conditions, checksums, and release boundaries. Compared with the original BraTS-GLI annotations, the resource substantially expands foreground supervision by incorporating healthy brain tissues and previously unlabeled coexisting abnormalities within a unified label space. A validation study using MedNeXt and T1/FLAIR inputs suggests that WMH-aware supervision preserves healthy-tissue segmentation performance across both in-domain GLI and external WMH datasets, while improving sensitivity to coexisting lesions relative to noisy-control training. The resource is intended for scientific research and supports joint anatomy-lesion supervision, label-noise analysis, and reproducible evaluation. Data are available at https://www.synapse.org/Synapse:syn75210889/wiki/, and code is available at https://github.com/xyx200/brats-gli-anatomy-lesion-code. The data resource DOI is https://doi.org/10.7303/SYN75210889."
 
-[29.07.2026 11:27] Response: ```python
-["DATA", "BENCHMARK", "TRAINING"]
+[29.07.2026 14:07] Response: ```python
+["DATASET", "DATA", "BENCHMARK", "HEALTHCARE", "OPEN_SOURCE"]
 ```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -433,32 +339,147 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling."
+"Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormalities introduce task-specific label noise by treating pathological regions as normal tissue. To address this limitation, we introduce BraTS-GLI Anatomy-Lesion, a controlled-access, labels-only derived resource built from the BraTS 2023-GLI training cohort. The resource provides 1,251 unified eight-class anatomy-lesion label sets aligned with the original four-modal MRI cases, including image-repair labels for 116 cases requiring repaired imaging inputs. The cohort is organized into a 394-case purified subset and an 857-case extended subset, with case-level metadata covering label source, image-repair requirements, quality-control status, access conditions, checksums, and release boundaries. Compared with the original BraTS-GLI annotations, the resource substantially expands foreground supervision by incorporating healthy brain tissues and previously unlabeled coexisting abnormalities within a unified label space. A validation study using MedNeXt and T1/FLAIR inputs suggests that WMH-aware supervision preserves healthy-tissue segmentation performance across both in-domain GLI and external WMH datasets, while improving sensitivity to coexisting lesions relative to noisy-control training. The resource is intended for scientific research and supports joint anatomy-lesion supervision, label-noise analysis, and reproducible evaluation. Data are available at https://www.synapse.org/Synapse:syn75210889/wiki/, and code is available at https://github.com/xyx200/brats-gli-anatomy-lesion-code. The data resource DOI is https://doi.org/10.7303/SYN75210889."
 
-[29.07.2026 11:27] Response: ```python
-["COMPRESSION", "DIFFUSION", "OPTIMIZATION"]
+[29.07.2026 14:07] Response: ```python
+[]
 ```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Compressed short-text generators can fail in two different places: the codec may discard information before generation starts, or the latent generator may produce weak codes. Without separating these failure modes, researchers can spend compute improving the wrong component. We study this problem in a controlled 64-to-16 TinyStories case study built from a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator (MDLM). We use a staged validation protocol that separates codec reconstruction fidelity, latent generation quality, and auxiliary latent diagnostics under one shared external GPT-2 scorer, while reporting complementary semantic metrics for the geometry study. In the tested configuration, codec reconstruction alone raises median external perplexity from 15.17 to 27.36 (+80.4%) and p95 from 25.10 to 98.91 (+294.1%), showing that the dominant quality loss appears before latent generation begins. Under the same scorer, code-space MDLM remains materially stronger than token-space diffusion, reducing mean, median, and p95 by 32.9%, 30.9%, and 36.6%, respectively. Geometry-aware regularization improves local latent proxies but does not improve decoded-text metrics in the available runs. The contribution is methodological rather than algorithmic: the paper presents a reusable staged diagnosis for one concrete pipeline and shows that, in this setting, codec fidelity rather than latent denoising sets the practical quality ceiling.
+Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormalities introduce task-specific label noise by treating pathological regions as normal tissue. To address this limitation, we introduce BraTS-GLI Anatomy-Lesion, a controlled-access, labels-only derived resource built from the BraTS 2023-GLI training cohort. The resource provides 1,251 unified eight-class anatomy-lesion label sets aligned with the original four-modal MRI cases, including image-repair labels for 116 cases requiring repaired imaging inputs. The cohort is organized into a 394-case purified subset and an 857-case extended subset, with case-level metadata covering label source, image-repair requirements, quality-control status, access conditions, checksums, and release boundaries. Compared with the original BraTS-GLI annotations, the resource substantially expands foreground supervision by incorporating healthy brain tissues and previously unlabeled coexisting abnormalities within a unified label space. A validation study using MedNeXt and T1/FLAIR inputs suggests that WMH-aware supervision preserves healthy-tissue segmentation performance across both in-domain GLI and external WMH datasets, while improving sensitivity to coexisting lesions relative to noisy-control training. The resource is intended for scientific research and supports joint anatomy-lesion supervision, label-noise analysis, and reproducible evaluation. Data are available at https://www.synapse.org/Synapse:syn75210889/wiki/, and code is available at https://github.com/xyx200/brats-gli-anatomy-lesion-code. The data resource DOI is https://doi.org/10.7303/SYN75210889.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 11:27] Response: {
-  "desc": "This paper investigates the failure modes of compressed short-text generators, focusing on the roles of the codec and the latent generator. It introduces a staged validation protocol to separately assess codec reconstruction fidelity and latent generation quality using a hierarchical VQ-VAE-2 codec and a masked discrete diffusion generator. The findings reveal that most quality loss occurs before the latent generation phase, emphasizing the importance of codec fidelity. The study provides a methodological framework for diagnosing issues in this specific pipeline, highlighting that improving codec performance is crucial for enhancing overall text generation quality.",
-  "title": "Prioritize Codec Fidelity for Better Text Generation"
+[29.07.2026 14:07] Response: {
+  "desc": "This paper introduces the BraTS-GLI Anatomy-Lesion dataset, which enhances the existing BraTS-GLI datasets by providing a more comprehensive framework for glioma MRI segmentation. It addresses the issue of label noise caused by coexisting white matter hyperintensities (WMH) by offering a unified eight-class anatomy-lesion label set. The dataset includes both a purified subset and an extended subset, with detailed metadata to support research and evaluation. Validation results indicate that this new resource improves segmentation performance while maintaining sensitivity to lesions, making it valuable for joint anatomy-lesion supervision and label-noise analysis.",
+  "title": "Enhancing Glioma MRI Segmentation with Unified Anatomy-Lesion Labels"
 }
-[29.07.2026 11:27] Querying the API.
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[29.07.2026 14:07] Querying the API.
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/.
-[29.07.2026 11:27] Response: ```json
+Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covariance estimation due to the small-sample-size issue in mini-batch training. To address this limitation, we propose Projection Pursuit CPCANet (PP-CPCANet), a covariance-free framework that learns a global orthogonal basis on the Stiefel manifold and jointly optimizes it with network parameters via the Cayley transform. We further introduce a symmetry-breaking detached-median PP dispersion objective to extract common principal components (CPCs) with dense and robust optimization signals. Experiments on four DG benchmarks show that PP-CPCANet achieves SOTA performance while maintaining stable training.
+[29.07.2026 14:07] Response: {
+  "desc": "Статья посвящена проблемам обобщения доменов в машинном обучении, которые возникают из-за сдвигов распределения данных. Авторы предлагают новый метод под названием Projection Pursuit CPCANet (PP-CPCANet), который преодолевает ограничения предыдущих методов, таких как CPCANet, связанное с недостаточной оценкой ковариации. Этот подход использует глобальное ортогональное пространство и совместную оптимизацию с параметрами сети. Результаты экспериментов показывают, что PP-CPCANet достигает лучших показателей эффективности при стабильном обучении.",
+  "emoji": "📊",
+  "title": "Новый уровень обобщения доменов в машинном обучении"
+}
+[29.07.2026 14:07] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covariance estimation due to the small-sample-size issue in mini-batch training. To address this limitation, we propose Projection Pursuit CPCANet (PP-CPCANet), a covariance-free framework that learns a global orthogonal basis on the Stiefel manifold and jointly optimizes it with network parameters via the Cayley transform. We further introduce a symmetry-breaking detached-median PP dispersion objective to extract common principal components (CPCs) with dense and robust optimization signals. Experiments on four DG benchmarks show that PP-CPCANet achieves SOTA performance while maintaining stable training."
+
+[29.07.2026 14:08] Response: ```python
+["BENCHMARK", "ARCHITECTURE", "TRAINING"]
+```
+[29.07.2026 14:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covariance estimation due to the small-sample-size issue in mini-batch training. To address this limitation, we propose Projection Pursuit CPCANet (PP-CPCANet), a covariance-free framework that learns a global orthogonal basis on the Stiefel manifold and jointly optimizes it with network parameters via the Cayley transform. We further introduce a symmetry-breaking detached-median PP dispersion objective to extract common principal components (CPCs) with dense and robust optimization signals. Experiments on four DG benchmarks show that PP-CPCANet achieves SOTA performance while maintaining stable training."
+
+[29.07.2026 14:08] Response: ```python
+["TRANSFER_LEARNING", "OPTIMIZATION"]
+```
+[29.07.2026 14:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covariance estimation due to the small-sample-size issue in mini-batch training. To address this limitation, we propose Projection Pursuit CPCANet (PP-CPCANet), a covariance-free framework that learns a global orthogonal basis on the Stiefel manifold and jointly optimizes it with network parameters via the Cayley transform. We further introduce a symmetry-breaking detached-median PP dispersion objective to extract common principal components (CPCs) with dense and robust optimization signals. Experiments on four DG benchmarks show that PP-CPCANet achieves SOTA performance while maintaining stable training.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[29.07.2026 14:08] Response: {
+  "desc": "This paper presents Projection Pursuit CPCANet (PP-CPCANet), a novel approach for Domain Generalization (DG) that addresses the limitations of existing methods like CPCANet. It introduces a covariance-free framework that learns a global orthogonal basis on the Stiefel manifold, optimizing it alongside network parameters. The method employs a symmetry-breaking detached-median PP dispersion objective to effectively extract common principal components. Experimental results demonstrate that PP-CPCANet achieves state-of-the-art performance on multiple DG benchmarks while ensuring stable training.",
+  "title": "Robust Domain Generalization with PP-CPCANet"
+}
+[29.07.2026 14:08] Querying the API.
+[29.07.2026 14:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the Anti-UAV challenge, existing methods primarily prioritize accuracy while overlooking the computational constraints of real-time edge deployment. The standard Kalman Filter (KF) offers the efficiency required for edge devices, yet its constant-velocity assumption often breaks down under highly dynamic UAV motion and thermal sensor jitter. More sophisticated nonlinear estimators can improve robustness but often introduce additional computational costs. To address this gap, we propose an edge-aware online tracking pipeline centered on the Adaptive Kinematic Kalman Filter (AKKF), which augments the linear KF with state-dependent kinematic modeling while preserving real-time efficiency. Combined with transient false-positive suppression and kinematics-driven predictive coasting, the presented pipeline improves trajectory continuity under challenging TIR conditions. Experiments on the Beyond Strong Baseline (BSB) benchmark provide a starting point for edge-aware UAV tracking by jointly evaluating tracking performance and computational efficiency, offering insights toward future real-time deployment.
+[29.07.2026 14:08] Response: ```json
 {
-  "desc": "В данной статье представляется концепция VisualPatchWorld (VPW), которая моделирует динамику мира в виде кода. VPW выбирает качественную динамическую форму с помощью активных проб, а затем подгоняет параметры этой формы, минимизируя ошибку многократного прогнозирования. Результирующие программы могут быть использованы как симулятор и применены в модельно-прогнозирующем управлении. Это исследование демонстрирует, как автоматически построенные кодовые модели мира могут улучшить планирование в сложных задачах.",
-  "emoji": "🌍",
-  "title": "Автоматическое создание моделей мира для эффективного планирования"
+  "desc": "В данной статье рассматривается применение тепловизионной инфракрасной съемки для операций беспилотных воздушных аппаратов (БПА) в сложных визуальных условиях. Авторы предлагаютAdaptive Kinematic Kalman Filter (AKKF), который улучшает стандартный Калмановский фильтр, добавляя зависимое от состояния кинематическое моделирование. Это решение позволяет эффективно отслеживать движение БПА, учитывая их динамичные маневры, при этом сохраняя вычислительную эффективность. Эксперименты подтверждают, что предложенный подход улучшает непрерывность траектории при отслеживании в условиях тепловизионной съемки.",
+  "emoji": "🚁",
+  "title": "Эффективное отслеживание БПА в сложных условиях"
 }
 ```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 14:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -502,12 +523,12 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/."
+"Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the Anti-UAV challenge, existing methods primarily prioritize accuracy while overlooking the computational constraints of real-time edge deployment. The standard Kalman Filter (KF) offers the efficiency required for edge devices, yet its constant-velocity assumption often breaks down under highly dynamic UAV motion and thermal sensor jitter. More sophisticated nonlinear estimators can improve robustness but often introduce additional computational costs. To address this gap, we propose an edge-aware online tracking pipeline centered on the Adaptive Kinematic Kalman Filter (AKKF), which augments the linear KF with state-dependent kinematic modeling while preserving real-time efficiency. Combined with transient false-positive suppression and kinematics-driven predictive coasting, the presented pipeline improves trajectory continuity under challenging TIR conditions. Experiments on the Beyond Strong Baseline (BSB) benchmark provide a starting point for edge-aware UAV tracking by jointly evaluating tracking performance and computational efficiency, offering insights toward future real-time deployment."
 
-[29.07.2026 11:27] Response: ```python
-["AGENTS", "RL", "ARCHITECTURE", "TRAINING"]
+[29.07.2026 14:08] Response: ```python
+["BENCHMARK", "INFERENCE", "AGENTS", "TRAINING"]
 ```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+[29.07.2026 14:08] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
 
 Topics:
 
@@ -550,141 +571,26 @@ Return only a Python flat list of topics that match the given text.
 
 Paper text to classify:
 
-"Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/."
+"Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the Anti-UAV challenge, existing methods primarily prioritize accuracy while overlooking the computational constraints of real-time edge deployment. The standard Kalman Filter (KF) offers the efficiency required for edge devices, yet its constant-velocity assumption often breaks down under highly dynamic UAV motion and thermal sensor jitter. More sophisticated nonlinear estimators can improve robustness but often introduce additional computational costs. To address this gap, we propose an edge-aware online tracking pipeline centered on the Adaptive Kinematic Kalman Filter (AKKF), which augments the linear KF with state-dependent kinematic modeling while preserving real-time efficiency. Combined with transient false-positive suppression and kinematics-driven predictive coasting, the presented pipeline improves trajectory continuity under challenging TIR conditions. Experiments on the Beyond Strong Baseline (BSB) benchmark provide a starting point for edge-aware UAV tracking by jointly evaluating tracking performance and computational efficiency, offering insights toward future real-time deployment."
 
-[29.07.2026 11:27] Response: ```python
-["REASONING", "OPTIMIZATION"]
+[29.07.2026 14:08] Response: ```python
+["OPTIMIZATION"]
 ```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+[29.07.2026 14:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
 
-Abstract  Different research lines use the term world model in different ways, yet they share a common aim: to capture how the world evolves under action in a form that supports perception, simulation, and planning. Two prominent realizations are neural predictors that learn dynamics in continuous vector spaces, and hand-built physics engines that expose explicit state and physical laws. Neural predictors scale from data but leave the form of the dynamics implicit; physics engines are inspectable and editable but difficult to construct at scale. We introduce VisualPatchWorld (VPW), which represents world dynamics as code. VPW first selects a qualitative dynamical form with short active probes, then fits that form's free parameters from recorded state-action traces by minimizing multi-step prediction error. The resulting programs can be rolled forward like a simulator, inspected in source form, and used inside model-predictive control; image-derived scene graphs can supply the live state at replan time. Across comparisons with prior code-based world models, VPW attains 69.0% mean planning success and exceeds the strongest code baseline by 23.5 points. The largest gains arise when choosing the correct qualitative dynamics is essential. Under the same planner, the induced models approach ground-truth engine success on navigation and grasp-rich control; a residual gap remains for contact-rich pushing, and checking a shortlist of promising plans in the engine closes most of that gap. These results establish a practical route toward automatically constructed code world models that are useful for planning. Code is available at https://github.com/HKBU-KnowComp/VisualPatchWorld/.
+Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the Anti-UAV challenge, existing methods primarily prioritize accuracy while overlooking the computational constraints of real-time edge deployment. The standard Kalman Filter (KF) offers the efficiency required for edge devices, yet its constant-velocity assumption often breaks down under highly dynamic UAV motion and thermal sensor jitter. More sophisticated nonlinear estimators can improve robustness but often introduce additional computational costs. To address this gap, we propose an edge-aware online tracking pipeline centered on the Adaptive Kinematic Kalman Filter (AKKF), which augments the linear KF with state-dependent kinematic modeling while preserving real-time efficiency. Combined with transient false-positive suppression and kinematics-driven predictive coasting, the presented pipeline improves trajectory continuity under challenging TIR conditions. Experiments on the Beyond Strong Baseline (BSB) benchmark provide a starting point for edge-aware UAV tracking by jointly evaluating tracking performance and computational efficiency, offering insights toward future real-time deployment.
 
 Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 11:27] Response: {
-  "desc": "This paper introduces VisualPatchWorld (VPW), a novel approach to modeling world dynamics that combines the strengths of neural predictors and physics engines. VPW captures the evolution of the world by selecting a qualitative dynamical form and fitting its parameters using state-action traces to minimize prediction error. The resulting code-based models can be inspected, edited, and utilized in model-predictive control, achieving a mean planning success of 69.0%. The method shows significant improvements in planning performance, especially when the correct qualitative dynamics are chosen, paving the way for automatically constructed world models that enhance planning capabilities.",
-  "title": "VisualPatchWorld: Bridging Neural Predictors and Physics Engines for Effective World Modeling"
+[29.07.2026 14:08] Response: {
+  "desc": "This paper presents a new approach for tracking small UAVs using thermal infrared imaging, which is crucial in environments with poor visibility. The proposed method, called the Adaptive Kinematic Kalman Filter (AKKF), enhances the traditional Kalman Filter by incorporating state-dependent kinematic modeling to better handle dynamic movements. It also includes techniques to reduce false positives and improve trajectory continuity, making it suitable for real-time applications on edge devices. Experiments demonstrate that this pipeline balances tracking accuracy and computational efficiency, paving the way for effective UAV tracking in challenging conditions.",
+  "title": "Real-Time UAV Tracking with Adaptive Kinematic Kalman Filter"
 }
-[29.07.2026 11:27] Querying the API.
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA.
-[29.07.2026 11:27] Response: {
-  "desc": "Статья представляет новую архитектуру под названием TD-JEPA, которая улучшает планирование в машинном обучении за счет оптимизации прогноза временных расстояний. Она использует структуру временного прогресса из офлайн-документов, чтобы добиться более точных предсказаний при управлении моделями. В результате, TD-JEPA значительно повышает успешность выполнения задач, таких как 'Two-Room', достигая 100% успеха. Метод также улучшает процесс обучения, сочетая затраты прогресса с планированием в реальном времени.",
-  "emoji": "🚀",
-  "title": "Оптимизация планирования с помощью TD-JEPA"
-}
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-DATASET: Papers that introduce new datasets or make significant modifications to existing ones
-DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
-BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
-AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
-RL: Papers investigating reinforcement learning theory or applications
-RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
-RAG: Papers advancing retrieval-augmented generation techniques
-PLP: Papers about Programming Language Processing models or programming benchmarks
-INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
-3D: Papers on 3D content generation, processing, or understanding
-AUDIO: Papers advancing speech/audio processing or generation
-MULTIMODAL: Papers combining multiple input/output modalities
-MATH: Papers focused on mathematical theory and algorithms
-MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
-ARCHITECTURE: Papers proposing novel neural architectures or components
-HEALTHCARE: Papers applying ML to medical/healthcare domains
-TRAINING: Papers improving model training or fine-tuning methods
-ROBOTICS: Papers on robotic systems and embodied AI
-SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-OPEN_SOURCE: Papers that contribute to open-source projects
-SCIENCE: Papers on scientific applications of ML
-LOW_RESOURCE: Papers mentioning low-resource settings or languages
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA."
-
-[29.07.2026 11:27] Response: ```python
-['ARCHITECTURE', 'RL']
-```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
-
-Topics:
-
-AGI: Papers discussing artificial general intelligence concepts
-GAMES: Papers applying ML to games or game development
-INTERPRETABILITY: Papers analyzing model behavior and explanations
-REASONING: Papers enhancing logical reasoning capabilities
-TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
-GRAPHS: Papers advancing graph neural networks and applications
-ETHICS: Papers addressing AI ethics, fairness, and bias
-SECURITY: Papers on model security and adversarial robustness
-OPTIMIZATION: Papers advancing training optimization methods
-SURVEY: Papers comprehensively reviewing research areas
-DIFFUSION: Papers on diffusion-based generative models
-ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
-STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
-HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
-LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
-SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
-TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
-LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
-OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
-SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
-LOW_RESOURCE: Papers that mention low-resource languages
-MEMORY: Works on internal/external memory for LLMs
-AGENT_MEMORY: Memory and long-term context in agents
-SESSION_MEMORY: Dialogue/session memory across turns
-RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
-RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
-PROMPTING: Prompt engineering, CoT/ToT, self-consistency
-PROMPT_CACHING: KV/response caching for long sessions
-CONTEXT_WINDOW: Techniques to extend/pack context
-COMPRESSION: Context compression/summarization/chunking for memory
-MEMORIZATION: On-the-fly learning/continual memorization
-CONTINUAL_LEARNING: Continual learning without forgetting
-KNOWLEDGE_GRAPHS: Knowledge storage via graphs
-TOOL_USE: Using external tools as memory/extension
-
-Return only a Python flat list of topics that match the given text.
-
-Paper text to classify:
-
-"Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA."
-
-[29.07.2026 11:27] Response: ```python
-["OPTIMIZATION", "GAMES"]
-```
-[29.07.2026 11:27] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
-
-Abstract  Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting in representation space rather than reconstructing pixels, making them a natural backbone for latent model predictive control from offline demonstration logs. JEPA-style training optimizes short-horizon latent prediction, whereas planning requires a multi-step ranking of imagined futures by goal progress. Prior JEPA planners often inherit that ranking from embedding geometry, typically latent Euclidean distance, which arises as a byproduct of representation learning rather than as a progress cost mined from the logs. We propose temporal-distance JEPA (TD-JEPA), which retains the LeWM encoder--predictor backbone and mines a directed temporal cost from reward-free trajectories: same-trajectory step order supplies positive targets, cross-trajectory pairs act as heuristic negatives, and a rollout-consistency term matches the planner horizon. The mined supervision serves two roles: as the deployed planning cost when progress is topological, and as a representation signal that improves Euclidean planning when contact geometry dominates. Under locked evaluation, deploying the mined cost raises Two-Room success to 100.0% versus LeWM's 97.4%, while shared Euclidean planning on the same temporally trained checkpoint raises OGB-Cube by 14.2 points over LeWM and improves Push-T. Against LeWM and the concurrent RC-aux baseline under locked evaluation, TD-JEPA matches or exceeds both methods on every environment. Ablations show that the directed head, cross-trajectory negatives, and rollout consistency each contribute. TD-JEPA narrows the train--plan gap for JEPA world-model planners by discovering temporal progress structure in offline logs and co-designing cost form with plan-time deployment. Code is available at https://github.com/HKBU-KnowComp/TD-JEPA.
-
-Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
-[29.07.2026 11:27] Response: {
-  "desc": "This paper introduces Temporal-Distance JEPA (TD-JEPA), a method that enhances Joint-Embedding Predictive Architectures by focusing on predicting future states in a structured way. Unlike traditional methods that rely on Euclidean distances in representation space, TD-JEPA mines a temporal cost from offline demonstration logs to better guide planning. It uses positive targets from the same trajectory and negative examples from different trajectories to improve the planning process. The results show that TD-JEPA significantly outperforms previous methods in various environments, achieving higher success rates and better planning efficiency.",
-  "title": "Enhancing Planning with Temporal Insights in JEPA"
-}
-[29.07.2026 11:27] Renaming data file.
-[29.07.2026 11:27] Renaming previous data. hf_papers.json to ./d/2026-07-29.json
-[29.07.2026 11:27] Saving new data file.
-[29.07.2026 11:27] Generating page.
-[29.07.2026 11:27] Renaming previous page.
-[29.07.2026 11:27] Renaming previous data. index.html to ./d/2026-07-29.html
-[29.07.2026 11:27] Writing result.
-[29.07.2026 11:27] Renaming log file.
-[29.07.2026 11:27] Renaming previous data. log.txt to ./logs/2026-07-29_last_log.txt
+[29.07.2026 14:08] Renaming data file.
+[29.07.2026 14:08] Renaming previous data. hf_papers.json to ./d/2026-07-29.json
+[29.07.2026 14:08] Saving new data file.
+[29.07.2026 14:08] Generating page.
+[29.07.2026 14:08] Renaming previous page.
+[29.07.2026 14:08] Renaming previous data. index.html to ./d/2026-07-29.html
+[29.07.2026 14:08] Writing result.
+[29.07.2026 14:08] Renaming log file.
+[29.07.2026 14:08] Renaming previous data. log.txt to ./logs/2026-07-29_last_log.txt

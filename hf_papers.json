@@ -4,9 +4,9 @@
         "en": "July 29",
         "zh": "7月29日"
     },
-    "time_utc": "2026-07-29 11:26",
+    "time_utc": "2026-07-29 14:07",
     "weekday": 2,
-    "issue_id": 2931,
+    "issue_id": 2932,
     "home_page_url": "https://huggingface.co/papers",
     "papers": [
         {
@@ -14,7 +14,7 @@
             "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
             "url": "https://huggingface.co/papers/2607.25895",
             "abstract": "Abstract  Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capture scales readily, and current practice uses the resulting data mainly for pre-training, adding a small real-robot \"anchor\" at post-training. We ask whether raising the fidelity of robot-free UMI data, rather than shrinking the real-robot fraction, can remove that anchor. We present HiFi-UMI, a portable UMI data-production system co-designed for trajectory accuracy, inter-gripper relative pose, synchronization, and field of view: head-mounted offline stereo-inertial SLAM, native rather than reconstructed relative pose, a shared microsecond GPIO trigger, and two wide-angle cameras per hand covering ~200 degrees. It reaches 3 mm workspace-local end-effector accuracy without external tracking infrastructure. Using this corpus, we demonstrate zero-robot post-training: a policy post-trained solely on HiFi-UMI demonstrations deploys directly on a real robot and matches in-domain teleoperation across three backbones spanning the vision-language-action and world-action-model families, with success-rate differences of -2.5, +3.1, and -0.6 percentage points on StarVLA-QwenPI, OpenPI-pi_0.5, and LingBot-VA; the strongest policy reaches 85% on a precision insertion task, even though the teleoperation baseline is collected in the evaluation scene and no HiFi-UMI trajectory is. Pre-training on 4,000 hours from the same corpus lowers action error on ten unseen tasks by 41% and, on StarVLA-QwenPI, raises real-robot success by a further 18.1 percentage points. We open-source HiFi-UMI-2K, 2,000 hours of microsecond-synchronized, ultra-wide-FoV demonstrations, each automatically reconstructed and validated through simulation replay, as a large-scale, high-fidelity resource for the robot-learning community.",
-            "score": 76,
+            "score": 94,
             "issue_id": 2928,
             "pub_date": "2026-07-28",
             "pub_date_card": {
@@ -72,7 +72,7 @@
             "title": "A New Role for Relevance: Guiding Corpus Interaction in Agentic Search",
             "url": "https://huggingface.co/papers/2607.24223",
             "abstract": "Abstract  Relevance is a query-dependent estimate of whether a document or excerpt contains useful evidence. Existing retrieval agents use relevance to select top-k content, but document relevance alone cannot localize, compose, or verify the evidence required by complex questions. Direct Corpus Interaction (DCI) enables such fine-grained operations through grep-style exploration, but its relevance-agnostic search can expose useful clues late and delay convergence. Recent advances use relevance to narrow the corpus into a working space for interaction. Once interaction begins, however, relevance still does not directly guide which documents grep searches first or distinguish informative excerpts from a broad set of matches to let LLMs see them first. We introduce the Relevance-Aware RipGrep Search Agent (RARG), which turns relevance into an execution prior for corpus interaction. RARG provides coarse-to-fine relevance guidance: it orders documents for sequential 'ripgrep' traversal to expose globally relevant clues earlier, initializes promising entry points with query-relevant paragraphs, and reranks grep matches to surface informative excerpts that document-level ranking may otherwise obscure. Across challenging browse question answering and reasoning-intensive retrieval, RARG improves the accuracy--efficiency frontier over retrieval-based and direct-interaction agents. These results demonstrate that relevance-aware interaction enables faster and more reliable search convergence.",
-            "score": 70,
+            "score": 71,
             "issue_id": 2929,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -118,7 +118,7 @@
             "title": "ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition",
             "url": "https://huggingface.co/papers/2607.25565",
             "abstract": "Abstract  Recovering an editable design file from a raster image is a common and costly bottleneck in modern design workflows, yet remains challenging since editability depends on recovering multi-modal attributes, such as typography, vector geometry, colors, grouping, and layer ordering. We present ReDesign, an agentic framework that grows an editable layer hierarchy by selecting and composing specialized tools across modalities. To keep this long decision process reliable despite imperfect tool outputs, we introduce graceful verification at each expansion, which provides local accept, prune, or retry feedback that prevents error accumulation and avoids large scale reruns. To evaluate editability at scale, we introduce the Figma Edit Replay Benchmark, consisting of 909 raw Figma files and 14,796 controlled edit instructions that replay edits on reconstructed outputs. Across this benchmark and standard reconstruction metrics, ReDesign achieves strong visual fidelity while delivering the highest editability across layout, color, and text edits, outperforming layered decomposition baselines and serial tool use pipelines.",
-            "score": 39,
+            "score": 51,
             "issue_id": 2929,
             "pub_date": "2026-07-28",
             "pub_date_card": {
@@ -168,7 +168,7 @@
             "title": "Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory",
             "url": "https://huggingface.co/papers/2607.24368",
             "abstract": "Abstract  Long-term memory systems store what a user says in an external store and retrieve it when a related query arrives. This interface rests on an assumption so natural that it is rarely stated: a memory that is needed will resemble the query that needs it. World knowledge breaks the assumption. A tree-nut allergy should change the answer to a macaron request through their almond-flour ingredient, yet the two texts share no cue a retriever can see. We call this failure mode the implicit-association blind spot and introduce InMind, a 125-task, expert-verified benchmark spanning ten life domains, with 113 tasks grounded in citable public sources. Its paired controls separate three explanations that existing evaluations conflate: the fact was never stored, the model lacks the bridging knowledge, or the fact was stored and never surfaced. The verdict is clean. With the decisive memory placed in context, the backbone answers 84.0 percent of indirect queries; when the same memory must be retrieved, six vector, graph, and agentic memory systems reach at most 14.4 percent, even though they recall the same facts on demand at up to 100 percent. An embedding with eight times the dimensionality raises answer-blind target recall for every system yet leaves the gap essentially intact. A minimal diagnostic probe that keeps memory visible before the query arrives recovers most of the gap, locating the failure in the query-conditioned interface itself and pointing to routing, deciding which facts must stay visible, as the open problem InMind is built to score.",
-            "score": 21,
+            "score": 22,
             "issue_id": 2928,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -210,11 +210,60 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.26057",
+            "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+            "url": "https://huggingface.co/papers/2607.26057",
+            "abstract": "Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the resulting trajectory. A limited relay budget concentrates intervention on critical early positions while limiting departure from the student policy. With a Qwen3-4B-Instruct-2507 teacher and Qwen3-0.6B/1.7B-Non-Thinking students on eight mathematical reasoning benchmarks, Relay-OPD achieves the best or second-best results on every benchmark, outperforming standard OPD by +5.73% and the strongest baseline FastOPD by +1.49% on average for 1.7B, with consistent gains at 0.6B. Training trajectory length is reduced by over 50%.",
+            "score": 19,
+            "issue_id": 2930,
+            "pub_date": "2026-07-28",
+            "pub_date_card": {
+                "ru": "28 июля",
+                "en": "July 28",
+                "zh": "7月28日"
+            },
+            "hash": "0056fee243c2af80",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Haolei Xu",
+                "Xiaowen Xu",
+                "Haiwen Hong",
+                "Zixuan Ni",
+                "Hongxing Li",
+                "Yiwen Qiu",
+                "Weiming Lu",
+                "Yongliang Shen"
+            ],
+            "affiliations": [
+                "Yuvion Team, Alibaba Group",
+                "Zhejiang University"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.26057.jpg",
+            "data": {
+                "categories": [
+                    "#optimization",
+                    "#reasoning",
+                    "#training",
+                    "#math"
+                ],
+                "emoji": "🤖",
+                "ru": {
+                    "title": "Оптимизация обучения через вмешательство учителя",
+                    "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмешиваться в процессе генерации текстов. При этом учитель начинает вести модель-ученика в нужном направлении на определенных этапах, что помогает избежать накапливаемых ошибок. Relay-OPD значительно улучшает результаты на тестах, обгоняя стандартные методы в среднем на 5,73%. Кроме того, длина обучающей траектории сокращается более чем на 50%, что делает процесс более эффективным."
+                },
+                "en": {
+                    "title": "Guiding Students Back on Track with Relay-OPD",
+                    "desc": "This paper introduces Relay On-Policy Distillation (Relay-OPD), which addresses the issue of prefix failure in on-policy distillation by allowing a teacher model to intervene during training. When the student model makes a wrong decision, the teacher can take over briefly to guide the generation in a better direction. This method focuses on critical points in the student's trajectory, optimizing performance while minimizing deviation from the student's policy. The results show that Relay-OPD significantly improves performance on mathematical reasoning tasks compared to standard methods, while also reducing training time."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.24904",
             "title": "Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model",
             "url": "https://huggingface.co/papers/2607.24904",
             "abstract": "Abstract  Standard vision-language models (VLMs) suffer from Moravec's paradox: they excel at complex offline visual reasoning but struggle with simple streaming perception tasks and process them inefficiently. We present Mage-VL, an efficient codec-native streaming foundation model for real-time multimodal understanding and interaction. At its core, our custom tokenizer, Mage-ViT, replaces uniform frame sampling by selectively encoding dynamic, entropy-rich regions using motion vectors and residual energy across sparse anchor (I) and predicted (P) frames. Operating at a 16 x 16 patch level, this reduces visual token consumption by over 75% while preserving spatiotemporal context. Trained from scratch on approximately 560M unlabeled images and 100M unlabeled video frames, Mage-ViT matches or outperforms flagship encoders trained on billions of image-text pairs. We establish AI4AI data pipelines encompassing prompt-code joint optimization for multimodal captioning and AI-driven performance diagnosis to guide training recipes. Furthermore, through a bio-inspired dual-system architecture - a lightweight System 1 event gate and a causal System 2 decoder - Mage-VL enables proactive streaming perception. Extensive evaluations show that Mage-VL-4B matches Qwen3-VL-4B on static tasks while achieving strong gains in video understanding and 2D/3D spatial reasoning, with up to a 3.5x wall-clock inference speedup, and comprehensively surpasses the 15B Phi-4-reasoning-vision baseline. Beyond model artifacts, we deliver seven key empirical findings covering pre-training data efficiency, variable-resolution scaling, codec system acceleration, VideoQA SFT redundancy, motion-spatial synergy, AI4AI data pipelines, and Zero-Vision SFT for multimodal RL.",
-            "score": 16,
+            "score": 18,
             "issue_id": 2929,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -278,60 +327,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.26057",
-            "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
-            "url": "https://huggingface.co/papers/2607.26057",
-            "abstract": "Abstract  On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the resulting trajectory. A limited relay budget concentrates intervention on critical early positions while limiting departure from the student policy. With a Qwen3-4B-Instruct-2507 teacher and Qwen3-0.6B/1.7B-Non-Thinking students on eight mathematical reasoning benchmarks, Relay-OPD achieves the best or second-best results on every benchmark, outperforming standard OPD by +5.73% and the strongest baseline FastOPD by +1.49% on average for 1.7B, with consistent gains at 0.6B. Training trajectory length is reduced by over 50%.",
-            "score": 13,
-            "issue_id": 2930,
-            "pub_date": "2026-07-28",
-            "pub_date_card": {
-                "ru": "28 июля",
-                "en": "July 28",
-                "zh": "7月28日"
-            },
-            "hash": "0056fee243c2af80",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Haolei Xu",
-                "Xiaowen Xu",
-                "Haiwen Hong",
-                "Zixuan Ni",
-                "Hongxing Li",
-                "Yiwen Qiu",
-                "Weiming Lu",
-                "Yongliang Shen"
-            ],
-            "affiliations": [
-                "Yuvion Team, Alibaba Group",
-                "Zhejiang University"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.26057.jpg",
-            "data": {
-                "categories": [
-                    "#optimization",
-                    "#reasoning",
-                    "#training",
-                    "#math"
-                ],
-                "emoji": "🤖",
-                "ru": {
-                    "title": "Оптимизация обучения через вмешательство учителя",
-                    "desc": "Статья описывает метод Relay On-Policy Distillation (Relay-OPD), который решает проблему ошибок при обучении модели, позволяя учителю вмешиваться в процессе генерации текстов. При этом учитель начинает вести модель-ученика в нужном направлении на определенных этапах, что помогает избежать накапливаемых ошибок. Relay-OPD значительно улучшает результаты на тестах, обгоняя стандартные методы в среднем на 5,73%. Кроме того, длина обучающей траектории сокращается более чем на 50%, что делает процесс более эффективным."
-                },
-                "en": {
-                    "title": "Guiding Students Back on Track with Relay-OPD",
-                    "desc": "This paper introduces Relay On-Policy Distillation (Relay-OPD), which addresses the issue of prefix failure in on-policy distillation by allowing a teacher model to intervene during training. When the student model makes a wrong decision, the teacher can take over briefly to guide the generation in a better direction. This method focuses on critical points in the student's trajectory, optimizing performance while minimizing deviation from the student's policy. The results show that Relay-OPD significantly improves performance on mathematical reasoning tasks compared to standard methods, while also reducing training time."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.25431",
             "title": "CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents",
             "url": "https://huggingface.co/papers/2607.25431",
             "abstract": "Abstract  Coding agents repeatedly search, navigate, and retain context from evolving repositories, but disconnected indexes, language servers, and task-local histories force repeated discovery and obscure lifecycle costs. CodeNib builds reusable lexical, dense, and structural views per repository commit, maps outputs to repository-relative source ranges, maintains selected views across edits, and serves ranked search, symbol navigation, and bounded context through one runtime.   Across 100 snapshots, we map quality-cost frontiers across the repository-context lifecycle. When outputs match an independent rebuild, graph and vector updates are 8.7times and 25.4times faster at the median. On the static-navigation subset matching normalized live-server locations (63% of 1,000 requests), the median per-request live/static latency ratio is 4.7times. Across five models, selected context policies preserve localization with 50--87% fewer trajectory tokens than paired grep/read. Together, these results support multi-view repository-context serving with explicit, operation-specific validity boundaries.",
-            "score": 11,
+            "score": 17,
             "issue_id": 2931,
             "pub_date": "2026-07-28",
             "pub_date_card": {
@@ -435,112 +435,11 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.23514",
-            "title": "Novel Claim or Déjà Vu? Rethinking \"Contamination-Free'' Dynamic Evaluation for Multimodal Automated Fact-Checking",
-            "url": "https://huggingface.co/papers/2607.23514",
-            "abstract": "Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-to-date information. To address this, emerging dynamic benchmarks collect claims published after LLMs' knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-the-art (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation. Our experiments yield 16 findings, highlighting three key results: (1) Dynamic evaluation reduces but does not eliminate contamination risks, as 17.09\\%--29.30\\% of post-cut-off claims remain potentially contaminated; (2) Many newly published claims can be verified either directly or by synthesizing multiple pieces of public knowledge available before the cut-off; and (3) Contamination can induce statistically significant inflation in MAFC performance, increasing Macro-F1 by up to 11.34 points and distorting system rankings. In light of these findings, we re-evaluate SOTA LLMs under a strictly contamination-controlled setting. Our study provides practical guidelines for trustworthy MAFC evaluation.",
-            "score": 7,
-            "issue_id": 2930,
-            "pub_date": "2026-07-26",
-            "pub_date_card": {
-                "ru": "26 июля",
-                "en": "July 26",
-                "zh": "7月26日"
-            },
-            "hash": "f3ee300f9a4a2daf",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Haorui He",
-                "Xinwen Chen",
-                "Dacheng Wen",
-                "Reynold Cheng",
-                "Francis C. M. Lau",
-                "Yupeng Li"
-            ],
-            "affiliations": [
-                "Department of Interactive Media, Hong Kong Baptist University",
-                "Faculty of Science and Technology, Beijing Normal-Hong Kong Baptist University",
-                "School of Computing and Data Science, The University of Hong Kong"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.23514.jpg",
-            "data": {
-                "categories": [
-                    "#reasoning",
-                    "#retrieval_eval",
-                    "#multimodal",
-                    "#ethics",
-                    "#benchmark",
-                    "#evaluation"
-                ],
-                "emoji": "🔍",
-                "ru": {
-                    "title": "Проверка фактов: риски загрязнения данных в оценке",
-                    "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с использованием мультимодальных подходов. Исследуется, как статические и динамические эталонные наборы данных влияют на оценку методов, использующих LLM. Результаты показывают, что даже динамическая оценка не устраняет риски загрязнения, что может существенно искажать результаты. Авторы предлагают практические рекомендации для более надежной оценки методов MAFC."
-                },
-                "en": {
-                    "title": "Ensuring Trustworthy Evaluation in Automated Fact-Checking",
-                    "desc": "This paper discusses the challenges of verifying claims using Multimodal Automated Fact-Checking (MAFC) due to contamination in existing benchmarks. It highlights that many benchmarks rely on outdated claims that can misrepresent the true capabilities of language models (LLMs). The authors introduce a new dynamic benchmark, ClaimReview2025Q4, and investigate contamination risks in both static and dynamic settings. Their findings reveal that contamination can significantly inflate performance metrics, leading to misleading evaluations of MAFC systems."
-                }
-            }
-        },
-        {
-            "id": "https://huggingface.co/papers/2607.25857",
-            "title": "Shieldstral",
-            "url": "https://huggingface.co/papers/2607.25857",
-            "abstract": "Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a binary question-answering task. This simple formulation unifies diverse moderation tasks into a single yes/no problem, enabling heterogeneous safety datasets with divergent taxonomies to be consolidated under one training framework. We present the data construction recipe, covering curation and generation of approximately 54.1M samples and a fine-grained evaluation set to evaluate policy adaptability. Together, these enable a small adaptive model to match or outperform much larger models.",
-            "score": 6,
-            "issue_id": 2928,
-            "pub_date": "2026-07-28",
-            "pub_date_card": {
-                "ru": "28 июля",
-                "en": "July 28",
-                "zh": "7月28日"
-            },
-            "hash": "9c2876252b023daa",
-            "github_url": "",
-            "github_stars": 0,
-            "authors": [
-                "Antonia Calvi",
-                "Avinash Sooriyarachchi",
-                "Giada Pistilli",
-                "Guillaume Lample",
-                "Maarten Buyl",
-                "Maximilian Augustin",
-                "Maximilian Müller",
-                "Pierre Stock",
-                "Tom Bewley",
-                "Wassim Bouaziz",
-                "Yimu Pan"
-            ],
-            "affiliations": [],
-            "pdf_title_img": "assets/pdf/title_img/2607.25857.jpg",
-            "data": {
-                "categories": [
-                    "#training",
-                    "#multimodal",
-                    "#dataset",
-                    "#data",
-                    "#benchmark",
-                    "#ethics"
-                ],
-                "emoji": "🛡️",
-                "ru": {
-                    "title": "Новая эра безопасности контента с Shieldstral",
-                    "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике и демонстрирует превосходство над моделями в 7 раз большими на тестах безопасности текста. Shieldstral рассматривает модерацию контента как задачу бинарного вопросов-ответов, что позволяет объединить различные задачи модерации в единую задачу с ответами 'да/нет'. Это упрощенное представление позволяет консолидировать разнородные наборы данных безопасности в рамках одной обучающей структуры. Предложенный рецепт построения данных охватывает подготовку и генерацию примерно 54,1 миллиона образцов для оценки адаптивности политики."
-                },
-                "en": {
-                    "title": "Small Model, Big Safety: Shieldstral's Breakthrough in Multimodal Classification",
-                    "desc": "Shieldstral is a multimodal safety classifier with 3 billion parameters that excels in text safety benchmarks, outperforming larger models. It simplifies content moderation by treating it as a binary question-answering task, which allows for the integration of various moderation tasks into one framework. This approach enables the use of diverse safety datasets with different categories for training. The model's design, including the creation of 54.1 million samples and a detailed evaluation set, allows it to adapt effectively and achieve high performance."
-                }
-            }
-        },
-        {
             "id": "https://huggingface.co/papers/2607.24957",
             "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models",
             "url": "https://huggingface.co/papers/2607.24957",
             "abstract": "Abstract  We introduce PerceptionBench, a benchmark specifically designed to evaluate the atomic visual perception capabilities of Multimodal Large Language Models (MLLMs). Existing benchmarks often fail to isolate perception: holistic evaluations conflate perceptual errors with failures in reasoning or domain knowledge, while application-driven benchmarks only cover narrow, fragmented domains shaped by heuristic designs. To address these limitations, PerceptionBench adopts a bottom-up approach: by diagnosing the earliest failure points in the responses of frontier MLLMs across 42 existing benchmarks, we construct an error taxonomy whose perception branch defines ten atomic perceptual capabilities. Guided by this taxonomy, we construct 3,000 verified questions with short, unambiguous answers, each isolating a single capability, with difficulty stemming from perception rather than reasoning or knowledge. Benchmark results across sixteen frontier MLLMs reveal that atomic perception remains largely unsolved---no model reaches 60\\% accuracy, perception-related hallucination is the weakest capability on average, and similar overall scores conceal sharply divergent capability profiles. PerceptionBench thus provides a capability-level standard for measuring and diagnosing the visual perception boundaries of MLLMs.",
-            "score": 6,
+            "score": 9,
             "issue_id": 2928,
             "pub_date": "2026-07-27",
             "pub_date_card": {
@@ -609,48 +508,103 @@
             }
         },
         {
-            "id": "https://huggingface.co/papers/2607.26004",
-            "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
-            "url": "https://huggingface.co/papers/2607.26004",
-            "abstract": "Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generators. Albeit achieving high-quality video generation, these training losses are notoriously hard to optimize and suffer from mode collapse, leading to loss of video diversity and lack of motion. In this paper, we introduce Parallel Decoding Distillation (PDD), a simplified and scalable trajectory-based distillation method for fast inference of diffusion and flow matching models. Our architecture and training procedure are compatible with any pre-trained model and support sampling with a varying number of function evaluations (NFE). PDD accelerates generation by predicting multiple denoising steps per network evaluation. Conceptually, it learns a representation of the mean velocity without regressing its derivative using JVPs or finite-difference approximations. Our method achieves SOTA performance with 4-8 NFE on LTX-2.3 Text-to-Video/Audio, Wan 14B Text-to-Video, and Qwen-Image Text-to-Image. Moreover, PDD presents a significant improvement in generated video diversity.",
-            "score": 4,
+            "id": "https://huggingface.co/papers/2607.23514",
+            "title": "Novel Claim or Déjà Vu? Rethinking \"Contamination-Free'' Dynamic Evaluation for Multimodal Automated Fact-Checking",
+            "url": "https://huggingface.co/papers/2607.23514",
+            "abstract": "Abstract  Multimodal automated fact-checking (MAFC) verifies claims by retrieving and reasoning over external evidence. However, most existing static benchmarks risk contamination: they primarily consist of outdated claims verifiable using an LLM's internal knowledge without external evidence. This can inflate performance estimates and fail to reflect true capability on novel claims that require up-to-date information. To address this, emerging dynamic benchmarks collect claims published after LLMs' knowledge cut-off dates, assuming they are uncontaminated. This work revisits this assumption by empirically studying contamination risks in both the state-of-the-art (SOTA) static AVeriTeC benchmark and our newly constructed dynamic ClaimReview2025Q4 benchmark, as well as their impact on MAFC evaluation. Our experiments yield 16 findings, highlighting three key results: (1) Dynamic evaluation reduces but does not eliminate contamination risks, as 17.09\\%--29.30\\% of post-cut-off claims remain potentially contaminated; (2) Many newly published claims can be verified either directly or by synthesizing multiple pieces of public knowledge available before the cut-off; and (3) Contamination can induce statistically significant inflation in MAFC performance, increasing Macro-F1 by up to 11.34 points and distorting system rankings. In light of these findings, we re-evaluate SOTA LLMs under a strictly contamination-controlled setting. Our study provides practical guidelines for trustworthy MAFC evaluation.",
+            "score": 9,
             "issue_id": 2930,
+            "pub_date": "2026-07-26",
+            "pub_date_card": {
+                "ru": "26 июля",
+                "en": "July 26",
+                "zh": "7月26日"
+            },
+            "hash": "f3ee300f9a4a2daf",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Haorui He",
+                "Xinwen Chen",
+                "Dacheng Wen",
+                "Reynold Cheng",
+                "Francis C. M. Lau",
+                "Yupeng Li"
+            ],
+            "affiliations": [
+                "Department of Interactive Media, Hong Kong Baptist University",
+                "Faculty of Science and Technology, Beijing Normal-Hong Kong Baptist University",
+                "School of Computing and Data Science, The University of Hong Kong"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.23514.jpg",
+            "data": {
+                "categories": [
+                    "#reasoning",
+                    "#retrieval_eval",
+                    "#multimodal",
+                    "#ethics",
+                    "#benchmark",
+                    "#evaluation"
+                ],
+                "emoji": "🔍",
+                "ru": {
+                    "title": "Проверка фактов: риски загрязнения данных в оценке",
+                    "desc": "В данной статье рассматривается проблема загрязнения данных в области автоматической проверки фактов с использованием мультимодальных подходов. Исследуется, как статические и динамические эталонные наборы данных влияют на оценку методов, использующих LLM. Результаты показывают, что даже динамическая оценка не устраняет риски загрязнения, что может существенно искажать результаты. Авторы предлагают практические рекомендации для более надежной оценки методов MAFC."
+                },
+                "en": {
+                    "title": "Ensuring Trustworthy Evaluation in Automated Fact-Checking",
+                    "desc": "This paper discusses the challenges of verifying claims using Multimodal Automated Fact-Checking (MAFC) due to contamination in existing benchmarks. It highlights that many benchmarks rely on outdated claims that can misrepresent the true capabilities of language models (LLMs). The authors introduce a new dynamic benchmark, ClaimReview2025Q4, and investigate contamination risks in both static and dynamic settings. Their findings reveal that contamination can significantly inflate performance metrics, leading to misleading evaluations of MAFC systems."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.25857",
+            "title": "Shieldstral",
+            "url": "https://huggingface.co/papers/2607.25857",
+            "abstract": "Abstract  We introduce Shieldstral, a 3B-parameter policy-adaptive multimodal safety classifier that matches or outperforms models nearly 7times its size on text safety benchmarks and sets a new state of the art on multimodal safety classification. Shieldstral formulates content moderation as a binary question-answering task. This simple formulation unifies diverse moderation tasks into a single yes/no problem, enabling heterogeneous safety datasets with divergent taxonomies to be consolidated under one training framework. We present the data construction recipe, covering curation and generation of approximately 54.1M samples and a fine-grained evaluation set to evaluate policy adaptability. Together, these enable a small adaptive model to match or outperform much larger models.",
+            "score": 8,
+            "issue_id": 2928,
             "pub_date": "2026-07-28",
             "pub_date_card": {
                 "ru": "28 июля",
                 "en": "July 28",
                 "zh": "7月28日"
             },
-            "hash": "9173270c07f8c054",
+            "hash": "9c2876252b023daa",
             "github_url": "",
             "github_stars": 0,
             "authors": [
-                "Neta Shaul",
-                "Chao Liu",
-                "Arash Vahdat",
-                "Julius Berner"
+                "Antonia Calvi",
+                "Avinash Sooriyarachchi",
+                "Giada Pistilli",
+                "Guillaume Lample",
+                "Maarten Buyl",
+                "Maximilian Augustin",
+                "Maximilian Müller",
+                "Pierre Stock",
+                "Tom Bewley",
+                "Wassim Bouaziz",
+                "Yimu Pan"
             ],
-            "affiliations": [
-                "NVIDIA",
-                "Weizmann Institute of Science"
-            ],
-            "pdf_title_img": "assets/pdf/title_img/2607.26004.jpg",
+            "affiliations": [],
+            "pdf_title_img": "assets/pdf/title_img/2607.25857.jpg",
             "data": {
                 "categories": [
-                    "#inference",
-                    "#architecture",
                     "#training",
-                    "#optimization",
-                    "#diffusion"
+                    "#multimodal",
+                    "#dataset",
+                    "#data",
+                    "#benchmark",
+                    "#ethics"
                 ],
-                "emoji": "🎥",
+                "emoji": "🛡️",
                 "ru": {
-                    "title": "Ускорение генерации видео с помощью PDD",
-                    "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel Decoding Distillation (PDD). Текущие методы ускорения требуют сложной оптимизации и часто приводят к потере разнообразия видео. PDD позволяет предсказывать сразу несколько этапов денойзинга за одну оценку сети, что значительно ускоряет процесс. Метод продемонстрировал высокое качество генерации и разнообразие видео с использованием минимального числа оценок функции."
+                    "title": "Новая эра безопасности контента с Shieldstral",
+                    "desc": "В статье представлен Shieldstral, классификатор безопасности с 3 миллиардами параметров, который адаптируется к политике и демонстрирует превосходство над моделями в 7 раз большими на тестах безопасности текста. Shieldstral рассматривает модерацию контента как задачу бинарного вопросов-ответов, что позволяет объединить различные задачи модерации в единую задачу с ответами 'да/нет'. Это упрощенное представление позволяет консолидировать разнородные наборы данных безопасности в рамках одной обучающей структуры. Предложенный рецепт построения данных охватывает подготовку и генерацию примерно 54,1 миллиона образцов для оценки адаптивности политики."
                 },
                 "en": {
-                    "title": "Accelerating Video Generation with Parallel Decoding Distillation",
-                    "desc": "This paper addresses the challenges of slow and costly video generation in diffusion models by introducing Parallel Decoding Distillation (PDD). PDD simplifies the distillation process, allowing for faster inference while maintaining high-quality video output. It achieves this by predicting multiple denoising steps in a single network evaluation, which enhances the diversity of generated videos. The method is compatible with existing pre-trained models and demonstrates state-of-the-art performance with fewer function evaluations."
+                    "title": "Small Model, Big Safety: Shieldstral's Breakthrough in Multimodal Classification",
+                    "desc": "Shieldstral is a multimodal safety classifier with 3 billion parameters that excels in text safety benchmarks, outperforming larger models. It simplifies content moderation by treating it as a binary question-answering task, which allows for the integration of various moderation tasks into one framework. This approach enables the use of diverse safety datasets with different categories for training. The model's design, including the creation of 54.1 million samples and a detailed evaluation set, allows it to adapt effectively and achieve high performance."
                 }
             }
         },
@@ -659,7 +613,7 @@
             "title": "MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities",
             "url": "https://huggingface.co/papers/2607.25948",
             "abstract": "Abstract  Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using encoder-decoder or diffusion architectures, impacting their performance and preventing them from using strong pre-trained decoder-only models as a prior. In this work, we investigate decoder-only any-to-any multimodal modeling, which treats all modalities symmetrically and supports arbitrary modalities as inputs and outputs without modality-specific heads, losses, or task pipelines. Because every modality is both an input and an output of the same model, the resulting model, named Modus, can support a range of applications, such as chained generation through intermediate modalities or cross-modal self-verification by scoring the model's own outputs with another generated modality. Modus demonstrates strong out-of-the-box performance and is competitive with specialist and multitask baselines using a single model across various benchmarks. All materials are open-sourced at https://modus-multimodal.epfl.ch/.",
-            "score": 4,
+            "score": 7,
             "issue_id": 2930,
             "pub_date": "2026-07-28",
             "pub_date_card": {
@@ -715,11 +669,57 @@
             }
         },
         {
+            "id": "https://huggingface.co/papers/2607.26004",
+            "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
+            "url": "https://huggingface.co/papers/2607.26004",
+            "abstract": "Abstract  Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process. Current state-of-the-art (SOTA) acceleration methods heavily rely on variational score distillation (VSD) and adversarial losses to distill diffusion models into few-step generators. Albeit achieving high-quality video generation, these training losses are notoriously hard to optimize and suffer from mode collapse, leading to loss of video diversity and lack of motion. In this paper, we introduce Parallel Decoding Distillation (PDD), a simplified and scalable trajectory-based distillation method for fast inference of diffusion and flow matching models. Our architecture and training procedure are compatible with any pre-trained model and support sampling with a varying number of function evaluations (NFE). PDD accelerates generation by predicting multiple denoising steps per network evaluation. Conceptually, it learns a representation of the mean velocity without regressing its derivative using JVPs or finite-difference approximations. Our method achieves SOTA performance with 4-8 NFE on LTX-2.3 Text-to-Video/Audio, Wan 14B Text-to-Video, and Qwen-Image Text-to-Image. Moreover, PDD presents a significant improvement in generated video diversity.",
+            "score": 6,
+            "issue_id": 2930,
+            "pub_date": "2026-07-28",
+            "pub_date_card": {
+                "ru": "28 июля",
+                "en": "July 28",
+                "zh": "7月28日"
+            },
+            "hash": "9173270c07f8c054",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Neta Shaul",
+                "Chao Liu",
+                "Arash Vahdat",
+                "Julius Berner"
+            ],
+            "affiliations": [
+                "NVIDIA",
+                "Weizmann Institute of Science"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.26004.jpg",
+            "data": {
+                "categories": [
+                    "#inference",
+                    "#architecture",
+                    "#training",
+                    "#optimization",
+                    "#diffusion"
+                ],
+                "emoji": "🎥",
+                "ru": {
+                    "title": "Ускорение генерации видео с помощью PDD",
+                    "desc": "В данной статье представлена новая методика по ускорению генерации видео на основе диффузионных моделей, называемая Parallel Decoding Distillation (PDD). Текущие методы ускорения требуют сложной оптимизации и часто приводят к потере разнообразия видео. PDD позволяет предсказывать сразу несколько этапов денойзинга за одну оценку сети, что значительно ускоряет процесс. Метод продемонстрировал высокое качество генерации и разнообразие видео с использованием минимального числа оценок функции."
+                },
+                "en": {
+                    "title": "Accelerating Video Generation with Parallel Decoding Distillation",
+                    "desc": "This paper addresses the challenges of slow and costly video generation in diffusion models by introducing Parallel Decoding Distillation (PDD). PDD simplifies the distillation process, allowing for faster inference while maintaining high-quality video output. It achieves this by predicting multiple denoising steps in a single network evaluation, which enhances the diversity of generated videos. The method is compatible with existing pre-trained models and demonstrates state-of-the-art performance with fewer function evaluations."
+                }
+            }
+        },
+        {
             "id": "https://huggingface.co/papers/2607.25537",
             "title": "Visual prompt engineering for video models",
             "url": "https://huggingface.co/papers/2607.25537",
             "abstract": "Abstract  In the age of foundation models, a model is only as good as its prompt. For this reason, prompt engineering has become an essential technique for improving language model performance. Since video models are currently becoming foundation models for visual tasks (e.g., visual reasoning), we here ask whether they similarly benefit from visual prompt engineering: automatically modifying the task image to improve model performance. For example, for a visual physics reasoning task (\"Where does the ball land, after passing a set of obstacles?\"), an abstract sketch-like scene can be turned into a photorealistic version with a simple call to an image editing model. We find that visual prompt engineering, or VIPE for short, improves video reasoning performance across tasks. In fact, for video models, visual prompt engineering can be even more effective than classic text-based prompt engineering or test-time scaling. Ultimately, just as text-based prompt engineering systematically improves language model performance, visual prompt engineering can serve as a simple, compute-efficient approach to elicit better visual reasoning performance from video models. Example videos on our project page at https://visual-prompt-engineering.github.io/.",
-            "score": 4,
+            "score": 6,
             "issue_id": 2928,
             "pub_date": "2026-07-28",
             "pub_date_card": {
@@ -768,7 +768,7 @@
             "title": "OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs",
             "url": "https://huggingface.co/papers/2607.25669",
             "abstract": "Abstract  Emerging Omni-modal Large Language Models (OmniLLMs) enable unified understanding of text, audio, and video, but their long audio-video token sequences introduce substantial memory and inference costs. Existing compression methods mainly focus on selecting important tokens under fixed budgets, leaving the preceding budget-allocation problem underexplored. We show that direct query-to-audio/video similarity is unreliable for inter-modal budget allocation, and that uniform intra-modal budgets can miss key evidence while retaining redundant content. To address these limitations, we propose OmniDelta, a training-free, skill-driven framework that couples intent-aware inter-modal allocation with content-aware intra-modal allocation. OmniDelta first constructs audio and video skill pools to shift the fixed retained-token budget according to query demand, then reallocates modality budgets over audio segments and video frames using local complexity and temporal redundancy. The resulting local budgets can be combined with existing pruning strategies, preserving the total retained-token ratio while changing where the budget is spent. Experiments on four audio-video benchmarks with two Qwen2.5-Omni models show that OmniDelta establishes a new accuracy-efficiency Pareto frontier across pruning ratios. At 25% token retention on Qwen2.5-Omni-7B, OmniDelta reduces GPU memory by 22.0% and achieves a 1.64x end-to-end speedup over full-token inference.",
-            "score": 3,
+            "score": 4,
             "issue_id": 2928,
             "pub_date": "2026-07-28",
             "pub_date_card": {
@@ -1047,6 +1047,139 @@
                     "desc": "This paper introduces Temporal-Distance JEPA (TD-JEPA), a method that enhances Joint-Embedding Predictive Architectures by focusing on predicting future states in a structured way. Unlike traditional methods that rely on Euclidean distances in representation space, TD-JEPA mines a temporal cost from offline demonstration logs to better guide planning. It uses positive targets from the same trajectory and negative examples from different trajectories to improve the planning process. The results show that TD-JEPA significantly outperforms previous methods in various environments, achieving higher success rates and better planning efficiency."
                 }
             }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.22135",
+            "title": "GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels",
+            "url": "https://huggingface.co/papers/2607.22135",
+            "abstract": "Abstract  Existing BraTS-GLI datasets provide a widely used benchmark for adult glioma MRI segmentation, but their task definition focuses on tumor subregions and does not systematically represent coexisting white matter hyperintensities (WMH). In joint segmentation settings, such unlabeled abnormalities introduce task-specific label noise by treating pathological regions as normal tissue. To address this limitation, we introduce BraTS-GLI Anatomy-Lesion, a controlled-access, labels-only derived resource built from the BraTS 2023-GLI training cohort. The resource provides 1,251 unified eight-class anatomy-lesion label sets aligned with the original four-modal MRI cases, including image-repair labels for 116 cases requiring repaired imaging inputs. The cohort is organized into a 394-case purified subset and an 857-case extended subset, with case-level metadata covering label source, image-repair requirements, quality-control status, access conditions, checksums, and release boundaries. Compared with the original BraTS-GLI annotations, the resource substantially expands foreground supervision by incorporating healthy brain tissues and previously unlabeled coexisting abnormalities within a unified label space. A validation study using MedNeXt and T1/FLAIR inputs suggests that WMH-aware supervision preserves healthy-tissue segmentation performance across both in-domain GLI and external WMH datasets, while improving sensitivity to coexisting lesions relative to noisy-control training. The resource is intended for scientific research and supports joint anatomy-lesion supervision, label-noise analysis, and reproducible evaluation. Data are available at https://www.synapse.org/Synapse:syn75210889/wiki/, and code is available at https://github.com/xyx200/brats-gli-anatomy-lesion-code. The data resource DOI is https://doi.org/10.7303/SYN75210889.",
+            "score": 0,
+            "issue_id": 2932,
+            "pub_date": "2026-07-27",
+            "pub_date_card": {
+                "ru": "27 июля",
+                "en": "July 27",
+                "zh": "7月27日"
+            },
+            "hash": "e2919226cbded4b8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Xingyu Xiang",
+                "Shuang Hao",
+                "Fan Wang",
+                "Jianhua Ma",
+                "Chunfeng Lian"
+            ],
+            "affiliations": [
+                "Key Laboratory of Biomedical Information Engineering of Ministry of Education, School of Life Science and Technology, Xian Jiaotong University, Xian, China",
+                "Research Center for Intelligent Medical Equipment and Devices (IMED), Xian Jiaotong University, Xian 710049, China",
+                "School of Mathematics and Statistics, Xian Jiaotong University, Xian, China"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.22135.jpg",
+            "data": {
+                "categories": [
+                    "#healthcare",
+                    "#dataset",
+                    "#benchmark",
+                    "#open_source",
+                    "#data"
+                ],
+                "emoji": "🧠",
+                "ru": {
+                    "title": "Новое слово в сегментации МРТ: улучшение качества через анатомические метки",
+                    "desc": "В данной статье представлены данные BraTS-GLI Anatomy-Lesion, которые решают проблему недостаточного представления гиперинтенсивных участков белого вещества в существующих наборах данных для сегментации МРТ глиом. Новый набор данных содержит 1,251 меток, объединяющих восьмиклассные анатомические и патологические сегменты, что позволяет улучшить качество сегментации, учитывая здоровые ткани и ранее неразмеченные аномалии. Проведенные валидационные исследования показывают, что новый ресурс сохраняет производительность сегментации здоровых тканей, повышая чувствительность к сопутствующим поражениям. Эти данные предоставляют возможность для научных исследований в области анализа шума меток и воспроизводимой оценки."
+                },
+                "en": {
+                    "title": "Enhancing Glioma MRI Segmentation with Unified Anatomy-Lesion Labels",
+                    "desc": "This paper introduces the BraTS-GLI Anatomy-Lesion dataset, which enhances the existing BraTS-GLI datasets by providing a more comprehensive framework for glioma MRI segmentation. It addresses the issue of label noise caused by coexisting white matter hyperintensities (WMH) by offering a unified eight-class anatomy-lesion label set. The dataset includes both a purified subset and an extended subset, with detailed metadata to support research and evaluation. Validation results indicate that this new resource improves segmentation performance while maintaining sensitivity to lesions, making it valuable for joint anatomy-lesion supervision and label-noise analysis."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.22117",
+            "title": "Projection Pursuit CPCANet for Domain Generalization",
+            "url": "https://huggingface.co/papers/2607.22117",
+            "abstract": "Abstract  Domain Generalization (DG) aims to learn representations robust to distribution shifts. Recent geometric alignment methods, such as CPCANet, extract domain-invariant structures through batch-wise Common Principal Component Analysis (CPCA). However, CPCANet suffers from rank-deficient covariance estimation due to the small-sample-size issue in mini-batch training. To address this limitation, we propose Projection Pursuit CPCANet (PP-CPCANet), a covariance-free framework that learns a global orthogonal basis on the Stiefel manifold and jointly optimizes it with network parameters via the Cayley transform. We further introduce a symmetry-breaking detached-median PP dispersion objective to extract common principal components (CPCs) with dense and robust optimization signals. Experiments on four DG benchmarks show that PP-CPCANet achieves SOTA performance while maintaining stable training.",
+            "score": 0,
+            "issue_id": 2932,
+            "pub_date": "2026-07-24",
+            "pub_date_card": {
+                "ru": "24 июля",
+                "en": "July 24",
+                "zh": "7月24日"
+            },
+            "hash": "07c071e9cd433dd8",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yu-Hsi Chen",
+                "Abd-Krim Seghouane"
+            ],
+            "affiliations": [
+                "The University of Melbourne"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.22117.jpg",
+            "data": {
+                "categories": [
+                    "#benchmark",
+                    "#training",
+                    "#optimization",
+                    "#transfer_learning",
+                    "#architecture"
+                ],
+                "emoji": "📊",
+                "ru": {
+                    "title": "Новый уровень обобщения доменов в машинном обучении",
+                    "desc": "Статья посвящена проблемам обобщения доменов в машинном обучении, которые возникают из-за сдвигов распределения данных. Авторы предлагают новый метод под названием Projection Pursuit CPCANet (PP-CPCANet), который преодолевает ограничения предыдущих методов, таких как CPCANet, связанное с недостаточной оценкой ковариации. Этот подход использует глобальное ортогональное пространство и совместную оптимизацию с параметрами сети. Результаты экспериментов показывают, что PP-CPCANet достигает лучших показателей эффективности при стабильном обучении."
+                },
+                "en": {
+                    "title": "Robust Domain Generalization with PP-CPCANet",
+                    "desc": "This paper presents Projection Pursuit CPCANet (PP-CPCANet), a novel approach for Domain Generalization (DG) that addresses the limitations of existing methods like CPCANet. It introduces a covariance-free framework that learns a global orthogonal basis on the Stiefel manifold, optimizing it alongside network parameters. The method employs a symmetry-breaking detached-median PP dispersion objective to effectively extract common principal components. Experimental results demonstrate that PP-CPCANet achieves state-of-the-art performance on multiple DG benchmarks while ensuring stable training."
+                }
+            }
+        },
+        {
+            "id": "https://huggingface.co/papers/2607.12544",
+            "title": "Edge-Aware Thermal Infrared UAV Swarm Tracking",
+            "url": "https://huggingface.co/papers/2607.12544",
+            "abstract": "Abstract  Thermal infrared (TIR) imaging is essential for UAV swarm operations in visually degraded environments. However, tracking tiny UAVs remains challenging due to limited appearance cues, frequent occlusions, and rapid maneuvers. Despite significant progress driven by benchmarks such as the Anti-UAV challenge, existing methods primarily prioritize accuracy while overlooking the computational constraints of real-time edge deployment. The standard Kalman Filter (KF) offers the efficiency required for edge devices, yet its constant-velocity assumption often breaks down under highly dynamic UAV motion and thermal sensor jitter. More sophisticated nonlinear estimators can improve robustness but often introduce additional computational costs. To address this gap, we propose an edge-aware online tracking pipeline centered on the Adaptive Kinematic Kalman Filter (AKKF), which augments the linear KF with state-dependent kinematic modeling while preserving real-time efficiency. Combined with transient false-positive suppression and kinematics-driven predictive coasting, the presented pipeline improves trajectory continuity under challenging TIR conditions. Experiments on the Beyond Strong Baseline (BSB) benchmark provide a starting point for edge-aware UAV tracking by jointly evaluating tracking performance and computational efficiency, offering insights toward future real-time deployment.",
+            "score": 0,
+            "issue_id": 2932,
+            "pub_date": "2026-07-14",
+            "pub_date_card": {
+                "ru": "14 июля",
+                "en": "July 14",
+                "zh": "7月14日"
+            },
+            "hash": "19e938be4f45492c",
+            "github_url": "",
+            "github_stars": 0,
+            "authors": [
+                "Yu-Hsi Chen"
+            ],
+            "affiliations": [
+                "The University of Melbourne, Parkville, Australia"
+            ],
+            "pdf_title_img": "assets/pdf/title_img/2607.12544.jpg",
+            "data": {
+                "categories": [
+                    "#inference",
+                    "#benchmark",
+                    "#training",
+                    "#agents",
+                    "#optimization"
+                ],
+                "emoji": "🚁",
+                "ru": {
+                    "title": "Эффективное отслеживание БПА в сложных условиях",
+                    "desc": "В данной статье рассматривается применение тепловизионной инфракрасной съемки для операций беспилотных воздушных аппаратов (БПА) в сложных визуальных условиях. Авторы предлагаютAdaptive Kinematic Kalman Filter (AKKF), который улучшает стандартный Калмановский фильтр, добавляя зависимое от состояния кинематическое моделирование. Это решение позволяет эффективно отслеживать движение БПА, учитывая их динамичные маневры, при этом сохраняя вычислительную эффективность. Эксперименты подтверждают, что предложенный подход улучшает непрерывность траектории при отслеживании в условиях тепловизионной съемки."
+                },
+                "en": {
+                    "title": "Real-Time UAV Tracking with Adaptive Kinematic Kalman Filter",
+                    "desc": "This paper presents a new approach for tracking small UAVs using thermal infrared imaging, which is crucial in environments with poor visibility. The proposed method, called the Adaptive Kinematic Kalman Filter (AKKF), enhances the traditional Kalman Filter by incorporating state-dependent kinematic modeling to better handle dynamic movements. It also includes techniques to reduce false positives and improve trajectory continuity, making it suitable for real-time applications on edge devices. Experiments demonstrate that this pipeline balances tracking accuracy and computational efficiency, paving the way for effective UAV tracking in challenging conditions."
+                }
+            }
         }
     ],
     "link_prev": "2026-07-28.html",
@@ -1063,33 +1196,33 @@
         "zh": "7月30日"
     },
     "categories": {
-        "#dataset": 4,
-        "#data": 4,
-        "#benchmark": 8,
-        "#agents": 5,
+        "#dataset": 5,
+        "#data": 5,
+        "#benchmark": 11,
+        "#agents": 6,
         "#rl": 4,
         "#rlhf": 1,
         "#rag": 0,
         "#plp": 0,
-        "#inference": 3,
+        "#inference": 4,
         "#3d": 0,
         "#audio": 0,
         "#multimodal": 8,
         "#math": 1,
         "#multilingual": 0,
-        "#architecture": 5,
-        "#healthcare": 0,
-        "#training": 10,
+        "#architecture": 6,
+        "#healthcare": 1,
+        "#training": 12,
         "#robotics": 1,
         "#agi": 0,
         "#games": 3,
         "#interpretability": 1,
         "#reasoning": 5,
-        "#transfer_learning": 1,
+        "#transfer_learning": 2,
         "#graphs": 0,
         "#ethics": 2,
         "#security": 1,
-        "#optimization": 10,
+        "#optimization": 12,
         "#survey": 0,
         "#diffusion": 4,
         "#alignment": 1,
@@ -1099,7 +1232,7 @@
         "#synthetic": 0,
         "#machine_translation": 0,
         "#leakage": 0,
-        "#open_source": 4,
+        "#open_source": 5,
         "#small_models": 1,
         "#science": 0,
         "#low_resource": 0,
