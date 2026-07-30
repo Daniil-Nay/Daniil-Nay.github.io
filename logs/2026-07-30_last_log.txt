@@ -1,174 +1,835 @@
-[30.07.2026 13:56] Read previous papers.
-[30.07.2026 13:56] Generating top page (month).
-[30.07.2026 13:56] Writing top page (month).
 [30.07.2026 16:26] Read previous papers.
-[30.07.2026 16:26] Get feed.
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27205
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27205
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25659
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25659
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27180
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27180
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25675
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25675
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25294
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25294
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25308
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25308
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26784
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26784
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26754
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26754
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27191
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27191
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27155
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27155
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25802
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25802
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25380
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25380
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26115
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26115
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16955
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16955
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26314
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26314
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24117
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24117
-[30.07.2026 16:26] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26791
-[30.07.2026 16:26] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26791
-[30.07.2026 16:26] Updating GitHub stars.
-[30.07.2026 16:26] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[30.07.2026 16:26] No deleted papers detected.
-[30.07.2026 16:26] Downloading and parsing papers (pdf, html). Total: 17.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.27205.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.27205.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.27205.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.25659.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.25659.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.25659.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.27180.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.27180.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.27180.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.25675.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.25675.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.25675.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.25294.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.25294.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.25294.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.25308.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.25308.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.25308.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.26784.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.26784.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.26784.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.26754.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.26754.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.26754.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.27191.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.27191.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.27191.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.27155.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.27155.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.27155.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.25802.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.25802.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.25802.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.25380.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.25380.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.25380.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.26115.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.26115.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.26115.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.16955.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.16955.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.16955.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.26314.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.26314.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.26314.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.24117.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.24117.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.24117.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Downloading and parsing paper https://huggingface.co/papers/2607.26791.
-[30.07.2026 16:26] Extra JSON file exists (./assets/json/2607.26791.json), skip PDF parsing.
-[30.07.2026 16:26] Paper image links file exists (./assets/img_data/2607.26791.json), skip HTML parsing.
-[30.07.2026 16:26] Success.
-[30.07.2026 16:26] Enriching papers with extra data.
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 0. Abstract  Vision-language-action (VLA) models commonly adopt an LLM-centric V to L to A pathway, where visual observations are projected into the representation space of a large language model before being decoded into robot actions. Although effective, this design incurs substantial computation and...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 1. Abstract  Rubric-based reinforcement learning enriches language model training by evaluating model outputs against explicit criteria. Yet in GRPO-style pipelines, these structured judgments are reduced to a scalar response-level reward and converted into a response-level advantage, which is broadcas...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 2. Abstract  Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard to tell whether the VLM made a bad choice or the motor controller simply failed to execute ...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 3. Abstract  Text-space optimization adapts large language models (LLMs) by editing external natural-language artifacts rather than model weights, so the optimized artifacts remain inspectable and the model can be treated as a black box. However, most existing text-space methods keep evaluation fixed. ...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 4. Abstract  Real-world tasks often require models to learn from task-specific context rather than relying only on pre-trained knowledge. While recent work has highlighted this capability as context learning, existing evaluations mainly focus on textual contexts. In many practical settings, however, th...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 5. Abstract  Training large language models (LLMs) to act in long-horizon games is a promising step toward generalist decision-making, yet reinforcement learning with verifiable rewards (RLVR) relies on sparse final rewards that reveal little about which decisions determine success. Denser process sign...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 6. Abstract  Large language model agents often encounter related yet distinct tasks that share reusable solution patterns. Yet standard agentic reinforcement learning treats tasks as independent episodes, while existing approaches to skill learning either focus on repeated attempts of one task or use p...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 7. Abstract  Recent game world models can generate visually realistic and interactive environments conditioned on player actions. However, games are not defined by pixels alone; they are governed by explicit mechanics, namely state-dependent rules that control health reduction, skill activation, and ga...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 8. Abstract  Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers t...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 9. Abstract  Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for ev...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 10. Abstract  Most video editing systems still lack explicit layered video representations, limiting their ability to perform realistic compositing, object reuse, and consistent manipulation. This limitation is especially pronounced in video object insertion and video layer decomposition, where existing...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 11. Abstract  Memory has evolved into a foundational architectural dimension in large language models (LLMs), shifting from an implicit byproduct of computation to a spectrum of explicit, controllable mechanisms. While recent advances introduce diverse strategies---spanning transient attention, recurren...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 12. Abstract  We introduce GPT-Red, an automated red-teaming agent that is trained to discover novel prompt injection attacks against frontier LLMs. The goal of this model is to evaluate and improve the robustness of our production systems. To this end, we use it to adversarially train GPT-5.6, our most...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 13. Abstract  On-policy knowledge distillation transfers reasoning from large teachers to compact students, but existing approaches suffer three compounding failure modes: (i) cold-start collapse, where a fresh student assigns near-zero mass to teacher-preferred tokens; (ii) state-agnostic divergence sc...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 14. Abstract  Stealth, the discipline of achieving an objective without revealing your presence, capabilities, or collected intelligence, is what separates sophisticated operators from detectable ones. Elite security researchers and advanced persistent threats achieve their objectives unnoticed; autonom...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 15. Abstract  Modern multi-agent knowledge systems increasingly accumulate knowledge through chains of autonomous transformations rather than direct retrieval. Existing provenance work records what happened - execution traces, tool calls, evidence links - and source-reliability estimation is long establ...
-[30.07.2026 16:26] ********************************************************************************
-[30.07.2026 16:26] Abstract 16. Abstract  Large Language Model (LLM) agents are increasingly adopted in real-world security operations with access to host artifacts and command-line interfaces (CLIs), making it critical to thoroughly assess their security capabilities. However, existing cybersecurity benchmarks focus on pre-compro...
-[30.07.2026 16:26] Read previous papers.
-[30.07.2026 16:26] Generating reviews via LLM API.
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#robotics", "#architecture", "#small_models", "#optimization", "#agents", "#agent_memory"], "emoji": "🤖", "ru": {"title": "TurboVLA: Эффективная связь зрения, языка и действий", "desc": "В данной статье представлен новый подход для моделей, связывающих визуальные данные, язык и дейс
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#reasoning", "#training", "#optimization", "#rlhf", "#rl"], "emoji": "📊", "ru": {"title": "Новый взгляд на распределение вознаграждений в языковых моделях", "desc": "Статья посвящена улучшению обучения языковых моделей с помощью методов подкрепляющего обучения, основанных на критери
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#benchmark", "#interpretability", "#agents", "#agi", "#games"], "emoji": "🤖", "ru": {"title": "Оценка интеллекта действий в моделях VLM", "desc": "В данной работе представлена оценка, может ли модель визуально-языкового взаимодействия (VLM) действовать через физическое тело. Проблем
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#training", "#benchmark", "#optimization", "#rl"], "emoji": "📈", "ru": {"title": "Эволюция навыков для оптимизации языковых моделей", "desc": "В статье рассматривается метод оптимизации текстового пространства для крупных языковых моделей (LLMs), который предлагает редактирование вн
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#long_context", "#benchmark", "#multimodal", "#dataset", "#continual_learning", "#compression"], "emoji": "📊", "ru": {"title": "Новый взгляд на многомодальное обучение контексту", "desc": "В настоящей статье представлено исследование, в котором обсуждается необходимость моделей маши
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#training", "#optimization", "#rl", "#games"], "emoji": "🎮", "ru": {"title": "Новый подход к обучению моделей в долгосрочных играх", "desc": "В статье представлено новое решение для обучения больших языковых моделей (LLM) в долгосрочных играх, используя метод, называемый CAST. Основ
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#reasoning", "#training", "#transfer_learning", "#agents", "#continual_learning", "#rl"], "emoji": "🤖", "ru": {"title": "Объединение навыков для эффективного обучения моделей", "desc": "В данной статье представлена новая модель SkillRise, которая объединяет методы обучающего подкреп
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#games", "#optimization", "#multimodal", "#architecture"], "emoji": "🎮", "ru": {"title": "Генерация игровых миров с учетом состояния", "desc": "В данной статье представлен StatePlay, новый модель игрового мира, учитывающая состояние, который одновременно предсказывает визуальный кон
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#reasoning", "#training", "#survey", "#optimization", "#benchmark", "#agents", "#agi"], "emoji": "🤖", "ru": {"title": "Автоматизация исследований в AI: реальность или миф?", "desc": "Статья исследует возможность автоматизации исследовательской деятельности в области AI с помощью аге
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#long_context", "#benchmark", "#open_source", "#agent_memory"], "emoji": "🧑‍💼", "ru": {"title": "Эффективность LLM в офисных задачах: быстрее, но не лучше", "desc": "В статье представлена новая база данных OmegaUse-OfficeVal для оценки агентов на основе LLM в задачах офисного рабоче
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#benchmark", "#dataset", "#data", "#diffusion", "#games"], "emoji": "🎬", "ru": {"title": "Явное моделирование слоев для реалистичного видеомонтажа", "desc": "В данной статье представлен метод TriLayer, который предлагает явные слоистые представления видео для улучшения видеомонтажа.
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#architecture", "#memory", "#survey"], "emoji": "🧠", "ru": {"title": "Память как основа больших языковых моделей", "desc": "Статья исследует роль памяти в больших языковых моделях (LLM), которая стала ключевым аспектом архитектуры. Авторы предлагают систематическую таксономию памяти
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#rl", "#security", "#agents", "#training"], "emoji": "🛡️", "ru": {"title": "Новая эпоха защиты LLM с GPT-Red", "desc": "В статье представлен GPT-Red, автоматизированный агент для обнаружения новых атак через инъекции подсказок против современных LLM. Модель оценивает и улучшает наде
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#training", "#optimization", "#reasoning", "#math"], "emoji": "📚", "ru": {"title": "Эффективная передача знаний в обучении моделей", "desc": "В статье представлена CADENCE — единая система обучения, которая решает проблемы передачи знаний от больших моделей (учителей) к компактным м
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#benchmark", "#agents", "#security", "#agent_memory"], "emoji": "🕵️‍♂️", "ru": {"title": "Скрытность автономных агентов в безопасности", "desc": "В данной статье представлена новая методика оценки скрытности автономных агентов в области безопасности с использованием StealthBench. Ис
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#agents", "#transfer_learning", "#science", "#knowledge_graphs"], "emoji": "🔗", "ru": {"title": "Надежность знаний через цепочки данных", "desc": "В данной статье рассматривается подход к оценке достоверности знаний в многоагентных системах, используя методологию исламской науки хад
-[30.07.2026 16:26] Using data from previous issue: {"categories": ["#agents", "#benchmark", "#security"], "emoji": "🔒", "ru": {"title": "Оценка агентов LLM в условиях пост-компрометации", "desc": "В статье рассматривается использование агентов LLM в безопасности информационных систем, особенно в контексте реакции на инциденты после компрометации. В 
-[30.07.2026 16:26] Renaming data file.
-[30.07.2026 16:26] Renaming previous data. hf_papers.json to ./d/2026-07-30.json
-[30.07.2026 16:26] Saving new data file.
-[30.07.2026 16:26] Generating page.
-[30.07.2026 16:26] Renaming previous page.
-[30.07.2026 16:26] Renaming previous data. index.html to ./d/2026-07-30.html
-[30.07.2026 16:26] Writing result.
-[30.07.2026 16:26] Renaming log file.
-[30.07.2026 16:26] Renaming previous data. log.txt to ./logs/2026-07-30_last_log.txt
+[30.07.2026 16:26] Generating top page (month).
+[30.07.2026 16:26] Writing top page (month).
+[30.07.2026 19:24] Read previous papers.
+[30.07.2026 19:24] Get feed.
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27205
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27205
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25659
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25659
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27180
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27180
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25675
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25675
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25294
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25294
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25308
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25308
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26784
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26784
+[30.07.2026 19:24] Extract page data from URL. URL: https://huggingface.co/papers/2607.27146
+[30.07.2026 19:24] Extract page data from URL. URL: https://huggingface.co/papers/2607.27167
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27191
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27191
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26754
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26754
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.27155
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.27155
+[30.07.2026 19:24] Extract page data from URL. URL: https://huggingface.co/papers/2607.26410
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25802
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25802
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.25380
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.25380
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26115
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26115
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.16955
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.16955
+[30.07.2026 19:24] Extract page data from URL. URL: https://huggingface.co/papers/2607.26055
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26314
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26314
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.24117
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.24117
+[30.07.2026 19:24] Get page data from previous paper. URL: https://huggingface.co/papers/2607.26791
+[30.07.2026 19:24] Refreshing page data for GitHub info. URL: https://huggingface.co/papers/2607.26791
+[30.07.2026 19:24] Extract page data from URL. URL: https://huggingface.co/papers/2607.26811
+[30.07.2026 19:24] Updating GitHub stars.
+[30.07.2026 19:24] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[30.07.2026 19:24] No deleted papers detected.
+[30.07.2026 19:24] Downloading and parsing papers (pdf, html). Total: 22.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.27205.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.27205.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.27205.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.25659.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.25659.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.25659.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.27180.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.27180.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.27180.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.25675.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.25675.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.25675.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.25294.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.25294.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.25294.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.25308.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.25308.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.25308.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26784.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.26784.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.26784.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.27146.
+[30.07.2026 19:24] Downloading paper 2607.27146 from https://arxiv.org/pdf/2607.27146v1...
+[30.07.2026 19:24] Extracting affiliations from text.
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis Yihao Chen2, Shi Chang1, Khaled Chawa1, Feng Lin1, Boyuan Chen1, Shaowei Wang3, Ahmed E. Hassan2 1Huawei Canada 2Queens University 3University of Manitoba yihao.chen@queensu.ca, {shi.chang, feng.lin, boyuan.chen}@huawei.com, khaled.chawa@mail.concordia.ca, shaowei.wang@umanitoba.ca, ahmed@cs.queensu.ca Figure 1: Average ProgramBench test pass rate by model scale. MindForge-27B improves Qwen3.6-27B from 37.98% to 49.51%, outperforming comparable-size models and achieving performance comparable to substantially larger frontier models. MindForge-27B and the Qwen models are evaluated by us on the full 200-instance ProgramBench suite; scores for the remaining models are taken from the official ProgramBench leaderboard and frontier model technical reports. "
+[30.07.2026 19:24] Response: ```python
+["Huawei Canada", "Queens University", "University of Manitoba"]
+```
+[30.07.2026 19:24] Deleting PDF ./assets/pdf/2607.27146.pdf.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.27167.
+[30.07.2026 19:24] Downloading paper 2607.27167 from https://arxiv.org/pdf/2607.27167v1...
+[30.07.2026 19:24] Extracting affiliations from text.
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"SpecFirst: Behavioral Specification Elicitation as First-Class Step in Agent-Based Program Synthesis from Scratch Yihao Chen2, Shi Chang1, Khaled Chawa4, Feng Lin1, Boyuan Chen1, Shaowei Wang3, Ahmed E. Hassan2 1Huawei Canada {shi.chang, feng.lin, boyuan.chen}@huawei.com 2Queens University yihao.chen@queensu.ca, ahmed@cs.queensu.ca 3University of Manitoba shaowei.wang@umanitoba.ca 4Concordia University khaled.chawa@mail.concordia.ca AbstractLLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only natural-language documentation and an execute-only binary as behavioral oracle, even frontier models solve fewer than 1% of instances. Existing frameworks conflate documentation reading, behavioral exploration, and code synthesis into single pass, causing agents to probe insufficiently, lose behavioral intent as context drifts, and propagate early misinterpretations into the final implementation. Inspired by classical requirements engineering, we argue that behavioral specification elicitation should be first-class phase that precedes implementation. We present SPECFIRST, two-stage framework that forces the specification elicitation before code synthesis. dedicated spec agent first probes the binary and combines observations with documentation into structured specification. Next, code synthesis agent then uses this specification to drive implementation. This decomposition resolves documentation ambiguities before coding begins and provides stable behavioral reference throughout synthesis. We evaluate SPECFIRST on all 200 ProgramBench instances across four models spanning two families and an order of magnitude of capability. SPECFIRST consistently outperforms the single-loop baseline, improving test pass rates by 6.9% 21.3% and binary exploration coverage by 9.4%18.5%, all statistically significant. "
+[30.07.2026 19:24] Response: ```python
+[
+    "Huawei Canada",
+    "Queens University",
+    "University of Manitoba",
+    "Concordia University"
+]
+```
+[30.07.2026 19:24] Deleting PDF ./assets/pdf/2607.27167.pdf.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.27191.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.27191.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.27191.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26754.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.26754.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.26754.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.27155.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.27155.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.27155.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26410.
+[30.07.2026 19:24] Downloading paper 2607.26410 from https://arxiv.org/pdf/2607.26410v1...
+[30.07.2026 19:24] Extracting affiliations from text.
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:" Chao-Han Huck Yang* Zih-Ching Chen Piotr Żelasko Zhehuai Chen Jagadeesh Balam Boris Ginsburg Correspondence: huckiyang@ieee.org {virginiac, pzelasko, zhehuaic}@nvidia.com *Work done at NVIDIA. NeMo-Speech Abstract We present Voice Memory, inference-only scheme for agentic speech recognition: at stream time, frozen corrector reads single per-domain memory.md and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. demo and example code are provided for future studies. Keywords: voice agents, memory modeling, on-device, language models, test-time adaptation 1. Introduction Modern voice systems have entered low-error regime for clean speech recognition. Decades of progress, from statistical HMM systems [42, 23] to large-scale neural models [3, 13, 10, 43, 40], have brought read speech below 2% word error rate (WER); yet decoders still make systematic, domain-specific erro"
+[30.07.2026 19:24] Response: ```python
+["NVIDIA"]
+```
+[30.07.2026 19:24] Deleting PDF ./assets/pdf/2607.26410.pdf.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.25802.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.25802.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.25802.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.25380.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.25380.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.25380.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26115.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.26115.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.26115.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.16955.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.16955.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.16955.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26055.
+[30.07.2026 19:24] Downloading paper 2607.26055 from https://arxiv.org/pdf/2607.26055v1...
+[30.07.2026 19:24] Extracting affiliations from text.
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"πR2: Reactive Real-time Flow Policies Sungjae Park, Shubham Tulsiani Carnegie Mellon University {sungjae2, stulsian}@andrew.cmu.edu Abstract: Generalist manipulation policies increasingly take the form of actionchunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing reactivity. Replanning more often would restore it, but the perceptionto-action pipeline (a large backbone plus multiple denoising steps) is too slow: this latency forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present πR2, which makes these policies reactive and real-time while retaining large backbones, expressive multi-modal policies, and multi-action prediction. Built on the perposition noise schedule of diffusion forcing, πR2 contributes two ideas. First, it splits conditioning into fast channel (proprioception, fresh every tick) and an asynchronously updated slow channel (vision-language features), so the policy reacts to proprioception within chunk while tolerating stale vision. Second, latency-adaptive flow schedule treats in-flight actions as inpainting conditioning and emits actions in one denoising step per call, letting one trained model adapt to varying hardware latency. Requiring minimal modification to existing architectures, πR2 can be finetuned from pretrained policy: applied to GR00T-N1.7 on real xArm6+XHand platform, it replans closed-loop roughly 4 faster than the base policy (25 Hz on an A5000 GPU), acting on fresh observation every 40 ms. Across simulation and real-world manipulation tasks, πR2 improves the success rate by up to 23% in simulation and 30% in the real world over the strongest baseline. Project page: https://pi-r2-flow.github.io/ Keywords: Reactivity, Real-time Inference, Flow Policies, Robot Foundation Models We have witnessed remarkable progress in training robotics foundat"
+[30.07.2026 19:24] Response: ```python
+["Carnegie Mellon University"]
+```
+[30.07.2026 19:24] Deleting PDF ./assets/pdf/2607.26055.pdf.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26314.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.26314.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.26314.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.24117.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.24117.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.24117.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26791.
+[30.07.2026 19:24] Extra JSON file exists (./assets/json/2607.26791.json), skip PDF parsing.
+[30.07.2026 19:24] Paper image links file exists (./assets/img_data/2607.26791.json), skip HTML parsing.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Downloading and parsing paper https://huggingface.co/papers/2607.26811.
+[30.07.2026 19:24] Downloading paper 2607.26811 from https://arxiv.org/pdf/2607.26811v1...
+[30.07.2026 19:24] Extracting affiliations from text.
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"arXiv Preprint, 2026 DISTILLALIGN: COORDINATING MODE COVERING AND MODE SEEKING IN AUTOREGRESSIVE VIDEO DISTILLATION Jiaxing Li1,2*, Kai Zou1*, Cindy Zhou1,3, Kaichen Huang1,2, Junyao Gao1, Zile Wang1, Yang Liu1, Bin Liu1, Bo An2, Yangguang Li1 1Riemann Dynamics, 2Nanyang Technological University 3Wellington College, UK "
+[30.07.2026 19:24] Response: ```python
+["Riemann Dynamics", "Nanyang Technological University", "Wellington College, UK"]
+```
+[30.07.2026 19:24] Deleting PDF ./assets/pdf/2607.26811.pdf.
+[30.07.2026 19:24] Success.
+[30.07.2026 19:24] Enriching papers with extra data.
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 0. Abstract  Vision-language-action (VLA) models commonly adopt an LLM-centric V to L to A pathway, where visual observations are projected into the representation space of a large language model before being decoded into robot actions. Although effective, this design incurs substantial computation and...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 1. Abstract  Rubric-based reinforcement learning enriches language model training by evaluating model outputs against explicit criteria. Yet in GRPO-style pipelines, these structured judgments are reduced to a scalar response-level reward and converted into a response-level advantage, which is broadcas...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 2. Abstract  Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard to tell whether the VLM made a bad choice or the motor controller simply failed to execute ...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 3. Abstract  Text-space optimization adapts large language models (LLMs) by editing external natural-language artifacts rather than model weights, so the optimized artifacts remain inspectable and the model can be treated as a black box. However, most existing text-space methods keep evaluation fixed. ...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 4. Abstract  Real-world tasks often require models to learn from task-specific context rather than relying only on pre-trained knowledge. While recent work has highlighted this capability as context learning, existing evaluations mainly focus on textual contexts. In many practical settings, however, th...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 5. Abstract  Training large language models (LLMs) to act in long-horizon games is a promising step toward generalist decision-making, yet reinforcement learning with verifiable rewards (RLVR) relies on sparse final rewards that reveal little about which decisions determine success. Denser process sign...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 6. Abstract  Large language model agents often encounter related yet distinct tasks that share reusable solution patterns. Yet standard agentic reinforcement learning treats tasks as independent episodes, while existing approaches to skill learning either focus on repeated attempts of one task or use p...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 7. Abstract  Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge: even the frontier models evaluated on ProgramBench fu...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 8. Abstract  LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only natural-language documentation and an execute-only bi...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 9. Abstract  Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers t...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 10. Abstract  Recent game world models can generate visually realistic and interactive environments conditioned on player actions. However, games are not defined by pixels alone; they are governed by explicit mechanics, namely state-dependent rules that control health reduction, skill activation, and ga...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 11. Abstract  Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for ev...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 12. Abstract  We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain memory.md and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 13. Abstract  Most video editing systems still lack explicit layered video representations, limiting their ability to perform realistic compositing, object reuse, and consistent manipulation. This limitation is especially pronounced in video object insertion and video layer decomposition, where existing...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 14. Abstract  Memory has evolved into a foundational architectural dimension in large language models (LLMs), shifting from an implicit byproduct of computation to a spectrum of explicit, controllable mechanisms. While recent advances introduce diverse strategies---spanning transient attention, recurren...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 15. Abstract  We introduce GPT-Red, an automated red-teaming agent that is trained to discover novel prompt injection attacks against frontier LLMs. The goal of this model is to evaluate and improve the robustness of our production systems. To this end, we use it to adversarially train GPT-5.6, our most...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 16. Abstract  On-policy knowledge distillation transfers reasoning from large teachers to compact students, but existing approaches suffer three compounding failure modes: (i) cold-start collapse, where a fresh student assigns near-zero mass to teacher-preferred tokens; (ii) state-agnostic divergence sc...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 17. Abstract  Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing reactivity. Replanning more often would restore it, b...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 18. Abstract  Stealth, the discipline of achieving an objective without revealing your presence, capabilities, or collected intelligence, is what separates sophisticated operators from detectable ones. Elite security researchers and advanced persistent threats achieve their objectives unnoticed; autonom...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 19. Abstract  Modern multi-agent knowledge systems increasingly accumulate knowledge through chains of autonomous transformations rather than direct retrieval. Existing provenance work records what happened - execution traces, tool calls, evidence links - and source-reliability estimation is long establ...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 20. Abstract  Large Language Model (LLM) agents are increasingly adopted in real-world security operations with access to host artifacts and command-line interfaces (CLIs), making it critical to thoroughly assess their security capabilities. However, existing cybersecurity benchmarks focus on pre-compro...
+[30.07.2026 19:24] ********************************************************************************
+[30.07.2026 19:24] Abstract 21. Abstract  Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD stages -- which then pursue different target distributions -- and judge the intermediate stud...
+[30.07.2026 19:24] Read previous papers.
+[30.07.2026 19:24] Generating reviews via LLM API.
+[30.07.2026 19:24] Using data from previous issue: {"categories": ["#robotics", "#architecture", "#small_models", "#optimization", "#agents", "#agent_memory"], "emoji": "🤖", "ru": {"title": "TurboVLA: Эффективная связь зрения, языка и действий", "desc": "В данной статье представлен новый подход для моделей, связывающих визуальные данные, язык и дейс
+[30.07.2026 19:24] Using data from previous issue: {"categories": ["#reasoning", "#training", "#optimization", "#rlhf", "#rl"], "emoji": "📊", "ru": {"title": "Новый взгляд на распределение вознаграждений в языковых моделях", "desc": "Статья посвящена улучшению обучения языковых моделей с помощью методов подкрепляющего обучения, основанных на критери
+[30.07.2026 19:24] Using data from previous issue: {"categories": ["#benchmark", "#interpretability", "#agents", "#agi", "#games"], "emoji": "🤖", "ru": {"title": "Оценка интеллекта действий в моделях VLM", "desc": "В данной работе представлена оценка, может ли модель визуально-языкового взаимодействия (VLM) действовать через физическое тело. Проблем
+[30.07.2026 19:24] Using data from previous issue: {"categories": ["#training", "#benchmark", "#optimization", "#rl"], "emoji": "📈", "ru": {"title": "Эволюция навыков для оптимизации языковых моделей", "desc": "В статье рассматривается метод оптимизации текстового пространства для крупных языковых моделей (LLMs), который предлагает редактирование вн
+[30.07.2026 19:24] Using data from previous issue: {"categories": ["#long_context", "#benchmark", "#multimodal", "#dataset", "#continual_learning", "#compression"], "emoji": "📊", "ru": {"title": "Новый взгляд на многомодальное обучение контексту", "desc": "В настоящей статье представлено исследование, в котором обсуждается необходимость моделей маши
+[30.07.2026 19:24] Using data from previous issue: {"categories": ["#training", "#optimization", "#rl", "#games"], "emoji": "🎮", "ru": {"title": "Новый подход к обучению моделей в долгосрочных играх", "desc": "В статье представлено новое решение для обучения больших языковых моделей (LLM) в долгосрочных играх, используя метод, называемый CAST. Основ
+[30.07.2026 19:24] Using data from previous issue: {"categories": ["#reasoning", "#training", "#transfer_learning", "#agents", "#continual_learning", "#rl"], "emoji": "🤖", "ru": {"title": "Объединение навыков для эффективного обучения моделей", "desc": "В данной статье представлена новая модель SkillRise, которая объединяет методы обучающего подкреп
+[30.07.2026 19:24] Querying the API.
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge: even the frontier models evaluated on ProgramBench fully resolve fewer than 1% of tasks. One obstacle is the lack of scalable training environments for this from-scratch setting, spanning the whole software engineering life cycle, as existing environment-construction frameworks focus only on a single phase in software development. To address this gap, we introduce MindForge, an automated pipeline that converts open-source command-line programs into source-free environments that expose only a compiled reference executable and its documentation. Using MindForge, we construct training environments from repositories disjoint from those in ProgramBench, and curate a high-quality data recipe consisting of program synthesis trajectories using GLM-5.2 as the teacher agent. Fine-tuning Qwen3.6-27B on these trajectories increases its ProgramBench average test pass rate from 37.98% to 49.51%, achieving performance comparable to substantially larger frontier models. Moreover, the fine-tuned model consistently improves over the base model across all seven unseen software engineering benchmarks, spanning long-horizon repository generation and translation, bug fixing, feature implementation, and cross-language issue resolution, with absolute gains of 31.00 points on RepoZero-C2Rust, 14.16 on DeepSWE, 10.70/4.56 on NL2Repo-Bench (with/without tests), 5.04 on SWE-bench Verified, 5.93 on SWE-bench Pro, 5.22 on SWE-bench Multilingual, and 4.94 on FeatBench.
+[30.07.2026 19:24] Response: ```json
+{
+  "desc": "В статье представлен MindForge, автоматизированный процесс создания обучающих сред для LLM, который использует открытые командные программы для формирования окружений без исходного кода. Это позволяет обучать модели выполнять задачи программирования с нуля, что является значительной упрощенной альтернативой существующим подходам. Благодаря обучению на данных, полученных с использованием GLM-5.2, модель Qwen3.6-27B показала улучшения в тестовых показателях на различных задачах программной инженерии. Исследование демонстрирует, что такой подход способствует более эффективному обучению и решению сложных задач программирования.",
+  "emoji": "🤖",
+  "title": "Программирование с нуля: новые горизонты с MindForge"
+}
+```
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge: even the frontier models evaluated on ProgramBench fully resolve fewer than 1% of tasks. One obstacle is the lack of scalable training environments for this from-scratch setting, spanning the whole software engineering life cycle, as existing environment-construction frameworks focus only on a single phase in software development. To address this gap, we introduce MindForge, an automated pipeline that converts open-source command-line programs into source-free environments that expose only a compiled reference executable and its documentation. Using MindForge, we construct training environments from repositories disjoint from those in ProgramBench, and curate a high-quality data recipe consisting of program synthesis trajectories using GLM-5.2 as the teacher agent. Fine-tuning Qwen3.6-27B on these trajectories increases its ProgramBench average test pass rate from 37.98% to 49.51%, achieving performance comparable to substantially larger frontier models. Moreover, the fine-tuned model consistently improves over the base model across all seven unseen software engineering benchmarks, spanning long-horizon repository generation and translation, bug fixing, feature implementation, and cross-language issue resolution, with absolute gains of 31.00 points on RepoZero-C2Rust, 14.16 on DeepSWE, 10.70/4.56 on NL2Repo-Bench (with/without tests), 5.04 on SWE-bench Verified, 5.93 on SWE-bench Pro, 5.22 on SWE-bench Multilingual, and 4.94 on FeatBench."
+
+[30.07.2026 19:24] Response: ```python
+["DATASET", "DATA", "TRAINING", "MULTILINGUAL"]
+```
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge: even the frontier models evaluated on ProgramBench fully resolve fewer than 1% of tasks. One obstacle is the lack of scalable training environments for this from-scratch setting, spanning the whole software engineering life cycle, as existing environment-construction frameworks focus only on a single phase in software development. To address this gap, we introduce MindForge, an automated pipeline that converts open-source command-line programs into source-free environments that expose only a compiled reference executable and its documentation. Using MindForge, we construct training environments from repositories disjoint from those in ProgramBench, and curate a high-quality data recipe consisting of program synthesis trajectories using GLM-5.2 as the teacher agent. Fine-tuning Qwen3.6-27B on these trajectories increases its ProgramBench average test pass rate from 37.98% to 49.51%, achieving performance comparable to substantially larger frontier models. Moreover, the fine-tuned model consistently improves over the base model across all seven unseen software engineering benchmarks, spanning long-horizon repository generation and translation, bug fixing, feature implementation, and cross-language issue resolution, with absolute gains of 31.00 points on RepoZero-C2Rust, 14.16 on DeepSWE, 10.70/4.56 on NL2Repo-Bench (with/without tests), 5.04 on SWE-bench Verified, 5.93 on SWE-bench Pro, 5.22 on SWE-bench Multilingual, and 4.94 on FeatBench."
+
+[30.07.2026 19:24] Response: ```python
+['OPEN_SOURCE', 'OPTIMIZATION', 'TRANSFER_LEARNING', 'GAMES']
+```
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge: even the frontier models evaluated on ProgramBench fully resolve fewer than 1% of tasks. One obstacle is the lack of scalable training environments for this from-scratch setting, spanning the whole software engineering life cycle, as existing environment-construction frameworks focus only on a single phase in software development. To address this gap, we introduce MindForge, an automated pipeline that converts open-source command-line programs into source-free environments that expose only a compiled reference executable and its documentation. Using MindForge, we construct training environments from repositories disjoint from those in ProgramBench, and curate a high-quality data recipe consisting of program synthesis trajectories using GLM-5.2 as the teacher agent. Fine-tuning Qwen3.6-27B on these trajectories increases its ProgramBench average test pass rate from 37.98% to 49.51%, achieving performance comparable to substantially larger frontier models. Moreover, the fine-tuned model consistently improves over the base model across all seven unseen software engineering benchmarks, spanning long-horizon repository generation and translation, bug fixing, feature implementation, and cross-language issue resolution, with absolute gains of 31.00 points on RepoZero-C2Rust, 14.16 on DeepSWE, 10.70/4.56 on NL2Repo-Bench (with/without tests), 5.04 on SWE-bench Verified, 5.93 on SWE-bench Pro, 5.22 on SWE-bench Multilingual, and 4.94 on FeatBench.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[30.07.2026 19:24] Response: {
+  "desc": "This paper presents MindForge, an innovative automated pipeline designed to create scalable training environments for coding agents tasked with building software from scratch. Unlike existing frameworks that focus on single phases of software development, MindForge converts open-source command-line programs into source-free environments, providing only the compiled executable and documentation. The authors demonstrate that fine-tuning the Qwen3.6-27B model on program synthesis trajectories generated by GLM-5.2 significantly improves its performance on various software engineering benchmarks. The results show consistent gains across multiple tasks, indicating that MindForge effectively enhances the capabilities of coding agents in software engineering.",
+  "title": "Empowering Coding Agents with MindForge for Complete Program Synthesis"
+}
+[30.07.2026 19:24] Querying the API.
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only natural-language documentation and an execute-only binary as a behavioral oracle, even frontier models solve fewer than 1% of instances. Existing frameworks conflate documentation reading, behavioral exploration, and code synthesis into a single pass, causing agents to probe insufficiently, lose behavioral intent as context drifts, and propagate early misinterpretations into the final implementation. Inspired by classical requirements engineering, we argue that behavioral specification elicitation should be a first-class phase that precedes implementation. We present SpecFirst, a two-stage framework that forces the specification elicitation before code synthesis. A dedicated spec agent first probes the binary and combines observations with documentation into a structured specification. Next, a code synthesis agent then uses this specification to drive implementation. This decomposition resolves documentation ambiguities before coding begins and provides a stable behavioral reference throughout synthesis. We evaluate SpecFirst on all 200 ProgramBench instances across four models spanning two families and an order of magnitude of capability. SpecFirst consistently outperforms the single-loop baseline, improving test pass rates by 6.9%-21.3% and binary exploration coverage by 9.4%-18.5%, all statistically significant. Behavioral analysis on code synthesis further shows that a prior specification enables earlier and more sustained code construction. Our results demonstrate that an explicit requirements-engineering phase is an effective paradigm for from-scratch program construction.
+[30.07.2026 19:24] Response: ```json
+{
+  "desc": "Статья обсуждает проблему создания программ с нуля с использованием LLM-агентов. Исследователи представляют методологию SpecFirst, которая разделяет процесс разработки на две стадии: сначала создание спецификации, а затем синтез кода. Это помогает устранить неясности в документации до начала кодирования и обеспечивает стабильную опору для дальнейшей работы. Результаты показывают, что новый подход значительно улучшает результаты тестов и покрытие бинарных версий по сравнению с традиционными методами.",
+  "emoji": "💻",
+  "title": "Спецификация прежде синтеза: новый подход в программировании"
+}
+```
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only natural-language documentation and an execute-only binary as a behavioral oracle, even frontier models solve fewer than 1% of instances. Existing frameworks conflate documentation reading, behavioral exploration, and code synthesis into a single pass, causing agents to probe insufficiently, lose behavioral intent as context drifts, and propagate early misinterpretations into the final implementation. Inspired by classical requirements engineering, we argue that behavioral specification elicitation should be a first-class phase that precedes implementation. We present SpecFirst, a two-stage framework that forces the specification elicitation before code synthesis. A dedicated spec agent first probes the binary and combines observations with documentation into a structured specification. Next, a code synthesis agent then uses this specification to drive implementation. This decomposition resolves documentation ambiguities before coding begins and provides a stable behavioral reference throughout synthesis. We evaluate SpecFirst on all 200 ProgramBench instances across four models spanning two families and an order of magnitude of capability. SpecFirst consistently outperforms the single-loop baseline, improving test pass rates by 6.9%-21.3% and binary exploration coverage by 9.4%-18.5%, all statistically significant. Behavioral analysis on code synthesis further shows that a prior specification enables earlier and more sustained code construction. Our results demonstrate that an explicit requirements-engineering phase is an effective paradigm for from-scratch program construction."
+
+[30.07.2026 19:24] Response: ```python
+['AGENTS', 'BENCHMARK', 'TRAINING']
+```
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only natural-language documentation and an execute-only binary as a behavioral oracle, even frontier models solve fewer than 1% of instances. Existing frameworks conflate documentation reading, behavioral exploration, and code synthesis into a single pass, causing agents to probe insufficiently, lose behavioral intent as context drifts, and propagate early misinterpretations into the final implementation. Inspired by classical requirements engineering, we argue that behavioral specification elicitation should be a first-class phase that precedes implementation. We present SpecFirst, a two-stage framework that forces the specification elicitation before code synthesis. A dedicated spec agent first probes the binary and combines observations with documentation into a structured specification. Next, a code synthesis agent then uses this specification to drive implementation. This decomposition resolves documentation ambiguities before coding begins and provides a stable behavioral reference throughout synthesis. We evaluate SpecFirst on all 200 ProgramBench instances across four models spanning two families and an order of magnitude of capability. SpecFirst consistently outperforms the single-loop baseline, improving test pass rates by 6.9%-21.3% and binary exploration coverage by 9.4%-18.5%, all statistically significant. Behavioral analysis on code synthesis further shows that a prior specification enables earlier and more sustained code construction. Our results demonstrate that an explicit requirements-engineering phase is an effective paradigm for from-scratch program construction."
+
+[30.07.2026 19:24] Response: ```python
+["AGENT_MEMORY", "OPTIMIZATION", "REASONING"]
+```
+[30.07.2026 19:24] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only natural-language documentation and an execute-only binary as a behavioral oracle, even frontier models solve fewer than 1% of instances. Existing frameworks conflate documentation reading, behavioral exploration, and code synthesis into a single pass, causing agents to probe insufficiently, lose behavioral intent as context drifts, and propagate early misinterpretations into the final implementation. Inspired by classical requirements engineering, we argue that behavioral specification elicitation should be a first-class phase that precedes implementation. We present SpecFirst, a two-stage framework that forces the specification elicitation before code synthesis. A dedicated spec agent first probes the binary and combines observations with documentation into a structured specification. Next, a code synthesis agent then uses this specification to drive implementation. This decomposition resolves documentation ambiguities before coding begins and provides a stable behavioral reference throughout synthesis. We evaluate SpecFirst on all 200 ProgramBench instances across four models spanning two families and an order of magnitude of capability. SpecFirst consistently outperforms the single-loop baseline, improving test pass rates by 6.9%-21.3% and binary exploration coverage by 9.4%-18.5%, all statistically significant. Behavioral analysis on code synthesis further shows that a prior specification enables earlier and more sustained code construction. Our results demonstrate that an explicit requirements-engineering phase is an effective paradigm for from-scratch program construction.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[30.07.2026 19:25] Response: {
+  "desc": "This paper introduces SpecFirst, a two-stage framework designed to improve the process of constructing programs from scratch using LLM-based agents. It emphasizes the importance of behavioral specification elicitation as a separate phase before code synthesis, which helps clarify documentation ambiguities and maintain behavioral intent. By first probing the binary and creating a structured specification, the framework allows for more effective code implementation. The results show that SpecFirst significantly enhances test pass rates and binary exploration coverage compared to traditional single-loop methods.",
+  "title": "Enhancing Code Construction with Behavioral Specifications"
+}
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#reasoning", "#training", "#survey", "#optimization", "#benchmark", "#agents", "#agi"], "emoji": "🤖", "ru": {"title": "Автоматизация исследований в AI: реальность или миф?", "desc": "Статья исследует возможность автоматизации исследовательской деятельности в области AI с помощью аге
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#games", "#optimization", "#multimodal", "#architecture"], "emoji": "🎮", "ru": {"title": "Генерация игровых миров с учетом состояния", "desc": "В данной статье представлен StatePlay, новый модель игрового мира, учитывающая состояние, который одновременно предсказывает визуальный кон
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#long_context", "#benchmark", "#open_source", "#agent_memory"], "emoji": "🧑‍💼", "ru": {"title": "Эффективность LLM в офисных задачах: быстрее, но не лучше", "desc": "В статье представлена новая база данных OmegaUse-OfficeVal для оценки агентов на основе LLM в задачах офисного рабоче
+[30.07.2026 19:25] Querying the API.
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain memory.md and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves a held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory, reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory, lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. A demo and example code are provided for future studies.
+[30.07.2026 19:25] Response: ```json
+{
+  "desc": "В статье представлен подход Voice Memory для распознавания речи, основанный на применении памяти для повышения точности. В данной системе корректировщик анализирует каждое слово и решает, следует ли следовать полученному предположению или оставить лучший результат. Такой способ позволяет избежать избыточных исправлений, которые могут ухудшить качество распознавания, что особенно важно в шумных условиях. Voice Memory успешно снижает процент ошибок распознавания с 8.36% до 7.52% без ухудшения других данных.",
+  "emoji": "🗣️",
+  "title": "Инновационная память для точного распознавания речи"
+}
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain memory.md and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves a held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory, reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory, lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. A demo and example code are provided for future studies."
+
+[30.07.2026 19:25] Response: ```python
+['AGENTS', 'INFERENCE', 'MEMORY', 'AUDIO']
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain memory.md and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves a held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory, reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory, lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. A demo and example code are provided for future studies."
+
+[30.07.2026 19:25] GitHub Models 429 (rate limit). Ждём 16s, попытка 1/4.
+[30.07.2026 19:25] Response: ```python
+["MEMORY", "AGENT_MEMORY", "OPTIMIZATION"]
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  We present Voice Memory, a inference-only scheme for agentic speech recognition: at stream time, a frozen corrector reads a single per-domain memory.md and decides per utterance whether to act on the hypothesis or abstain and keep the 1-best. Asynchronously, a score-gated optimizer revises that file through bounded edits, accepting an edit only when it strictly improves a held-out score. Extended from classical ASR-LM framework, we refer this split the listener-thinker architecture; the two roles are coupled only through the memory, so no weights change and the learned skill stays auditable and portable. Restraint turns out to be the operative skill this loop discovers: unconstrained generative error correction (GER) over-corrects, breaking correct tokens on up to 64% of its edits on financial news, and Voice Memory, reduces this rate to 35%. Across ten HyPoradise domains with an open corrector, Voice Memory, lowers weighted word error rate from 8.36% to 7.52% (7.47% with three added in-context examples) without regressing any dataset below its 1-best baseline; gains concentrate where recoverable headroom is largest, including air-travel commands (8.40% to 3.40%) and noisy far-field speech (CHiME-4, 12.69% to 10.46%). The memory transfers across corrector families and adds zero parameters to the inference path. A demo and example code are provided for future studies.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[30.07.2026 19:25] Response: {
+  "desc": "The paper introduces Voice Memory, a method for improving speech recognition by using a memory-based approach during inference. It employs a frozen corrector that decides whether to act on speech hypotheses or retain the best guess, while an optimizer updates the memory file based on performance scores. This architecture separates the roles of listening and thinking, ensuring that the model remains stable and portable without changing its weights. Voice Memory significantly reduces error rates in speech recognition tasks, particularly in challenging environments, while maintaining high accuracy across various domains.",
+  "title": "Enhancing Speech Recognition with Voice Memory"
+}
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#benchmark", "#dataset", "#data", "#diffusion", "#games"], "emoji": "🎬", "ru": {"title": "Явное моделирование слоев для реалистичного видеомонтажа", "desc": "В данной статье представлен метод TriLayer, который предлагает явные слоистые представления видео для улучшения видеомонтажа.
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#architecture", "#memory", "#survey"], "emoji": "🧠", "ru": {"title": "Память как основа больших языковых моделей", "desc": "Статья исследует роль памяти в больших языковых моделях (LLM), которая стала ключевым аспектом архитектуры. Авторы предлагают систематическую таксономию памяти
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#rl", "#security", "#agents", "#training"], "emoji": "🛡️", "ru": {"title": "Новая эпоха защиты LLM с GPT-Red", "desc": "В статье представлен GPT-Red, автоматизированный агент для обнаружения новых атак через инъекции подсказок против современных LLM. Модель оценивает и улучшает наде
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#training", "#optimization", "#reasoning", "#math"], "emoji": "📚", "ru": {"title": "Эффективная передача знаний в обучении моделей", "desc": "В статье представлена CADENCE — единая система обучения, которая решает проблемы передачи знаний от больших моделей (учителей) к компактным м
+[30.07.2026 19:25] Querying the API.
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing reactivity. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this latency forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present πR^2, which makes these policies reactive and real-time while retaining large backbones, expressive multi-modal policies, and multi-action prediction. Built on the per-position noise schedule of diffusion forcing, πR^2 contributes two ideas. First, it splits conditioning into a fast channel (proprioception, fresh every tick) and an asynchronously updated slow channel (vision-language features), so the policy reacts to proprioception within a chunk while tolerating stale vision. Second, a latency-adaptive flow schedule treats in-flight actions as inpainting conditioning and emits actions in one denoising step per call, letting one trained model adapt to varying hardware latency. Requiring minimal modification to existing architectures, πR^2 can be finetuned from a pretrained policy: applied to GR00T-N1.7 on a real xArm6+XHand platform, it replans closed-loop roughly 4times faster than the base policy (~25Hz on an A5000 GPU), acting on a fresh observation every 40ms. Across simulation and real-world manipulation tasks, πR^2 improves the success rate by up to 23% in simulation and 30% in the real world over the strongest baseline. Project page: https://pi-r2-flow.github.io/
+[30.07.2026 19:25] Response: ```json
+{
+  "desc": "Статья представляет новую политику управления под названием πR², которая улучшает реактивность существующих подходов, основанных на больших предобученных моделях. Она использует концепцию разделения информации на быстрый и медленный каналы, позволяя политике более эффективно реагировать на текущие данные о положении. πR² также адаптирует график выполнения действий в зависимости от задержки, что позволяет быстро обрабатывать входные данные. Благодаря этим улучшениям, новая политика демонстрирует прирост успешности на реальных и симуляционных задачах.",
+  "emoji": "🤖",
+  "title": "Реактивное управление в реальном времени с πR²"
+}
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing reactivity. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this latency forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present πR^2, which makes these policies reactive and real-time while retaining large backbones, expressive multi-modal policies, and multi-action prediction. Built on the per-position noise schedule of diffusion forcing, πR^2 contributes two ideas. First, it splits conditioning into a fast channel (proprioception, fresh every tick) and an asynchronously updated slow channel (vision-language features), so the policy reacts to proprioception within a chunk while tolerating stale vision. Second, a latency-adaptive flow schedule treats in-flight actions as inpainting conditioning and emits actions in one denoising step per call, letting one trained model adapt to varying hardware latency. Requiring minimal modification to existing architectures, πR^2 can be finetuned from a pretrained policy: applied to GR00T-N1.7 on a real xArm6+XHand platform, it replans closed-loop roughly 4times faster than the base policy (~25Hz on an A5000 GPU), acting on a fresh observation every 40ms. Across simulation and real-world manipulation tasks, πR^2 improves the success rate by up to 23% in simulation and 30% in the real world over the strongest baseline. Project page: https://pi-r2-flow.github.io/"
+
+[30.07.2026 19:25] Response: ```python
+["AGENTS", "MULTIMODAL", "ARCHITECTURE", "TRAINING", "ROBOTICS"]
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing reactivity. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this latency forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present πR^2, which makes these policies reactive and real-time while retaining large backbones, expressive multi-modal policies, and multi-action prediction. Built on the per-position noise schedule of diffusion forcing, πR^2 contributes two ideas. First, it splits conditioning into a fast channel (proprioception, fresh every tick) and an asynchronously updated slow channel (vision-language features), so the policy reacts to proprioception within a chunk while tolerating stale vision. Second, a latency-adaptive flow schedule treats in-flight actions as inpainting conditioning and emits actions in one denoising step per call, letting one trained model adapt to varying hardware latency. Requiring minimal modification to existing architectures, πR^2 can be finetuned from a pretrained policy: applied to GR00T-N1.7 on a real xArm6+XHand platform, it replans closed-loop roughly 4times faster than the base policy (~25Hz on an A5000 GPU), acting on a fresh observation every 40ms. Across simulation and real-world manipulation tasks, πR^2 improves the success rate by up to 23% in simulation and 30% in the real world over the strongest baseline. Project page: https://pi-r2-flow.github.io/"
+
+[30.07.2026 19:25] Response: ```python
+["OPTIMIZATION", "GAMES"]
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input arriving mid-execution, sacrificing reactivity. Replanning more often would restore it, but the perception-to-action pipeline (a large backbone plus multiple denoising steps) is too slow: this latency forbids frequent replanning and leaves committed actions stale, making such policies ill-suited for dynamic, closed-loop control. We present πR^2, which makes these policies reactive and real-time while retaining large backbones, expressive multi-modal policies, and multi-action prediction. Built on the per-position noise schedule of diffusion forcing, πR^2 contributes two ideas. First, it splits conditioning into a fast channel (proprioception, fresh every tick) and an asynchronously updated slow channel (vision-language features), so the policy reacts to proprioception within a chunk while tolerating stale vision. Second, a latency-adaptive flow schedule treats in-flight actions as inpainting conditioning and emits actions in one denoising step per call, letting one trained model adapt to varying hardware latency. Requiring minimal modification to existing architectures, πR^2 can be finetuned from a pretrained policy: applied to GR00T-N1.7 on a real xArm6+XHand platform, it replans closed-loop roughly 4times faster than the base policy (~25Hz on an A5000 GPU), acting on a fresh observation every 40ms. Across simulation and real-world manipulation tasks, πR^2 improves the success rate by up to 23% in simulation and 30% in the real world over the strongest baseline. Project page: https://pi-r2-flow.github.io/
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[30.07.2026 19:25] Response: {
+  "desc": "The paper introduces πR^2, a method that enhances generalist manipulation policies by making them reactive and real-time. It achieves this by splitting the conditioning into a fast channel for proprioception and a slow channel for vision-language features, allowing the policy to respond quickly to changes. Additionally, it employs a latency-adaptive flow schedule that enables the model to emit actions efficiently, even with varying hardware latency. This approach significantly improves the success rate of manipulation tasks in both simulation and real-world scenarios.",
+  "title": "Revolutionizing Reactive Manipulation with πR^2"
+}
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#benchmark", "#agents", "#security", "#agent_memory"], "emoji": "🕵️‍♂️", "ru": {"title": "Скрытность автономных агентов в безопасности", "desc": "В данной статье представлена новая методика оценки скрытности автономных агентов в области безопасности с использованием StealthBench. Ис
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#agents", "#transfer_learning", "#science", "#knowledge_graphs"], "emoji": "🔗", "ru": {"title": "Надежность знаний через цепочки данных", "desc": "В данной статье рассматривается подход к оценке достоверности знаний в многоагентных системах, используя методологию исламской науки хад
+[30.07.2026 19:25] Using data from previous issue: {"categories": ["#agents", "#benchmark", "#security"], "emoji": "🔒", "ru": {"title": "Оценка агентов LLM в условиях пост-компрометации", "desc": "В статье рассматривается использование агентов LLM в безопасности информационных систем, особенно в контексте реакции на инциденты после компрометации. В 
+[30.07.2026 19:25] Querying the API.
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD stages -- which then pursue different target distributions -- and judge the intermediate student mainly by visual scores such as VBench. In this paper, we revisit this design from a distributional perspective. Given the mode-seeking nature of the distribution matching loss, a good initialization should match the mode coverage of the target DMD teacher, rather than merely pursuing high quality. To analyze this, we introduce a distributional evaluation protocol that measures precision and coverage between student and teacher distributions in a shared latent space. It exposes differences hidden by visual scores: some initializations reach high precision but low coverage, leading to suboptimal refinement, while mode-covering ones preserve broader support. Furthermore, even when the target distributions are aligned, DMD's reverse-KL objective can still drive the student toward high-probability teacher regions in late training, reducing coverage and diversity. To address this, we propose joint distillation, which combines DMD's mode-seeking objective with a Consistency Distillation-based mode-covering constraint. Experiments show that our method improves generation quality, coverage, and diversity; notably, even with a Wan-1.3B DMD teacher, it outperforms baselines refined with Wan-14B, underscoring the importance of distributional alignment in autoregressive video distillation.
+[30.07.2026 19:25] Response: ```json
+{
+  "desc": "В этой статье рассматриваются методы дистилляции видео на основе автогрессивного подхода, которые используют многопроцессный подход с Matching Distillation (DMD). Авторы подчеркивают важность правильной инициализации, которая должна соответствовать покрытию целевой распределительной модели, а не просто обеспечивать высокое качество. Для анализа они вводят новую протокол оценки, который измеряет точность и покрытие между дистиллятами студента и учителя. В результате предлагается совместная дистилляция, которая объединяет цели DMD и ограничения на покрытие, что улучшает качество генерации и разнообразие результатов.",
+  "emoji": "🎥",
+  "title": "Совместная дистилляция для улучшения видео генерации"
+}
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+DATASET: Papers that introduce new datasets or make significant modifications to existing ones
+DATA: Papers focusing on data processing, cleaning, collection, or curation methodologies
+BENCHMARK: Papers proposing or analyzing model evaluation frameworks and benchmarks
+AGENTS: Papers exploring autonomous agents, web agents, or agent-based architectures
+RL: Papers investigating reinforcement learning theory or applications
+RLHF: Papers specifically about human feedback in RL (PPO, DPO, etc.)
+RAG: Papers advancing retrieval-augmented generation techniques
+PLP: Papers about Programming Language Processing models or programming benchmarks
+INFERENCE: Papers optimizing model deployment (quantization, pruning, etc.)
+3D: Papers on 3D content generation, processing, or understanding
+AUDIO: Papers advancing speech/audio processing or generation
+MULTIMODAL: Papers combining multiple input/output modalities
+MATH: Papers focused on mathematical theory and algorithms
+MULTILINGUAL: Papers addressing multiple languages or cross-lingual capabilities, including all non English models
+ARCHITECTURE: Papers proposing novel neural architectures or components
+HEALTHCARE: Papers applying ML to medical/healthcare domains
+TRAINING: Papers improving model training or fine-tuning methods
+ROBOTICS: Papers on robotic systems and embodied AI
+SMALL_MODELS: Papers that describe models considering small, below 1 billion parameters or similar
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+OPEN_SOURCE: Papers that contribute to open-source projects
+SCIENCE: Papers on scientific applications of ML
+LOW_RESOURCE: Papers mentioning low-resource settings or languages
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD stages -- which then pursue different target distributions -- and judge the intermediate student mainly by visual scores such as VBench. In this paper, we revisit this design from a distributional perspective. Given the mode-seeking nature of the distribution matching loss, a good initialization should match the mode coverage of the target DMD teacher, rather than merely pursuing high quality. To analyze this, we introduce a distributional evaluation protocol that measures precision and coverage between student and teacher distributions in a shared latent space. It exposes differences hidden by visual scores: some initializations reach high precision but low coverage, leading to suboptimal refinement, while mode-covering ones preserve broader support. Furthermore, even when the target distributions are aligned, DMD's reverse-KL objective can still drive the student toward high-probability teacher regions in late training, reducing coverage and diversity. To address this, we propose joint distillation, which combines DMD's mode-seeking objective with a Consistency Distillation-based mode-covering constraint. Experiments show that our method improves generation quality, coverage, and diversity; notably, even with a Wan-1.3B DMD teacher, it outperforms baselines refined with Wan-14B, underscoring the importance of distributional alignment in autoregressive video distillation."
+
+[30.07.2026 19:25] Response: ```python
+["DATASET", "BENCHMARK", "TRAINING"]
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Analyze the following research paper text and classify it into one or more relevant topics from the list below. Consider only information from the provided text. Don't add a tag if the topic is not directly related to the article.
+
+Topics:
+
+AGI: Papers discussing artificial general intelligence concepts
+GAMES: Papers applying ML to games or game development
+INTERPRETABILITY: Papers analyzing model behavior and explanations
+REASONING: Papers enhancing logical reasoning capabilities
+TRANSFER_LEARNING: Papers on knowledge transfer between models/domains
+GRAPHS: Papers advancing graph neural networks and applications
+ETHICS: Papers addressing AI ethics, fairness, and bias
+SECURITY: Papers on model security and adversarial robustness
+OPTIMIZATION: Papers advancing training optimization methods
+SURVEY: Papers comprehensively reviewing research areas
+DIFFUSION: Papers on diffusion-based generative models
+ALIGNMENT: Papers about aligning language models with human values, preferences, and intended behavior
+STORY_GENERATION: Papers on story generation, including plot generation and author style adaptation
+HALLUCINATIONS: Papers about the hallucinations, hallucinations analysis and mitigation
+LONG_CONTEXT: Papers about long context handling, including techniques to extend context length
+SYNTHETIC: Papers about using synthetic data for training, including methods for generating and leveraging artificial data
+TRANSLATION: Papers on machine translation, including techniques, data and applications for translating between languages
+LEAKAGE: Papers about data leakage, including issues of unintended data exposure and methods to detect or prevent it
+OPEN_SOURCE: Papers that contribute to open-source projects by releasing models, datasets, or frameworks to the public
+SCIENCE: Papers on scientific applications of LM including understanding of science articles and research automatization
+LOW_RESOURCE: Papers that mention low-resource languages
+MEMORY: Works on internal/external memory for LLMs
+AGENT_MEMORY: Memory and long-term context in agents
+SESSION_MEMORY: Dialogue/session memory across turns
+RETRIEVAL: Retrieval models and retrievers (distinct from full RAG)
+RETRIEVAL_EVAL: Benchmarks/metrics for retrieval robustness
+PROMPTING: Prompt engineering, CoT/ToT, self-consistency
+PROMPT_CACHING: KV/response caching for long sessions
+CONTEXT_WINDOW: Techniques to extend/pack context
+COMPRESSION: Context compression/summarization/chunking for memory
+MEMORIZATION: On-the-fly learning/continual memorization
+CONTINUAL_LEARNING: Continual learning without forgetting
+KNOWLEDGE_GRAPHS: Knowledge storage via graphs
+TOOL_USE: Using external tools as memory/extension
+
+Return only a Python flat list of topics that match the given text.
+
+Paper text to classify:
+
+"Abstract  Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD stages -- which then pursue different target distributions -- and judge the intermediate student mainly by visual scores such as VBench. In this paper, we revisit this design from a distributional perspective. Given the mode-seeking nature of the distribution matching loss, a good initialization should match the mode coverage of the target DMD teacher, rather than merely pursuing high quality. To analyze this, we introduce a distributional evaluation protocol that measures precision and coverage between student and teacher distributions in a shared latent space. It exposes differences hidden by visual scores: some initializations reach high precision but low coverage, leading to suboptimal refinement, while mode-covering ones preserve broader support. Furthermore, even when the target distributions are aligned, DMD's reverse-KL objective can still drive the student toward high-probability teacher regions in late training, reducing coverage and diversity. To address this, we propose joint distillation, which combines DMD's mode-seeking objective with a Consistency Distillation-based mode-covering constraint. Experiments show that our method improves generation quality, coverage, and diversity; notably, even with a Wan-1.3B DMD teacher, it outperforms baselines refined with Wan-14B, underscoring the importance of distributional alignment in autoregressive video distillation."
+
+[30.07.2026 19:25] Response: ```python
+["OPTIMIZATION"]
+```
+[30.07.2026 19:25] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper (4 sentences), use correct machine learning terms. 'title': a slogan of a main idea of the article. Return only JSON and nothing else.
+
+Abstract  Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD stages -- which then pursue different target distributions -- and judge the intermediate student mainly by visual scores such as VBench. In this paper, we revisit this design from a distributional perspective. Given the mode-seeking nature of the distribution matching loss, a good initialization should match the mode coverage of the target DMD teacher, rather than merely pursuing high quality. To analyze this, we introduce a distributional evaluation protocol that measures precision and coverage between student and teacher distributions in a shared latent space. It exposes differences hidden by visual scores: some initializations reach high precision but low coverage, leading to suboptimal refinement, while mode-covering ones preserve broader support. Furthermore, even when the target distributions are aligned, DMD's reverse-KL objective can still drive the student toward high-probability teacher regions in late training, reducing coverage and diversity. To address this, we propose joint distillation, which combines DMD's mode-seeking objective with a Consistency Distillation-based mode-covering constraint. Experiments show that our method improves generation quality, coverage, and diversity; notably, even with a Wan-1.3B DMD teacher, it outperforms baselines refined with Wan-14B, underscoring the importance of distributional alignment in autoregressive video distillation.
+
+Return JSON that matches this schema: {"properties": {"desc": {"title": "Desc", "type": "string"}, "title": {"title": "Title", "type": "string"}}, "required": ["desc", "title"], "title": "Article", "type": "object"}. Respond with JSON only.
+[30.07.2026 19:25] Response: {
+  "desc": "This paper critiques existing autoregressive video distillation methods that use a multi-stage pipeline with Distribution Matching Distillation (DMD). It highlights the issue of decoupling initialization and DMD stages, which can lead to suboptimal results due to mismatched target distributions. The authors introduce a new evaluation protocol that assesses both precision and coverage of student and teacher distributions, revealing hidden flaws in traditional visual score assessments. To improve performance, they propose a joint distillation approach that combines DMD's objectives with a mode-covering constraint, resulting in better generation quality, coverage, and diversity in video outputs.",
+  "title": "Aligning Distributions for Better Video Distillation"
+}
+[30.07.2026 19:25] Renaming data file.
+[30.07.2026 19:25] Renaming previous data. hf_papers.json to ./d/2026-07-30.json
+[30.07.2026 19:25] Saving new data file.
+[30.07.2026 19:25] Generating page.
+[30.07.2026 19:25] Renaming previous page.
+[30.07.2026 19:25] Renaming previous data. index.html to ./d/2026-07-30.html
+[30.07.2026 19:25] Writing result.
+[30.07.2026 19:25] Renaming log file.
+[30.07.2026 19:25] Renaming previous data. log.txt to ./logs/2026-07-30_last_log.txt
