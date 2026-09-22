@@ -1,0 +1,113 @@
+[22.09.2026 00:24] Read previous papers.
+[22.09.2026 00:24] Generating top page (month).
+[22.09.2026 00:24] Writing top page (month).
+[22.09.2026 03:21] Read previous papers.
+[22.09.2026 03:21] Get feed.
+[22.09.2026 03:21] Extract page data from URL. URL: https://huggingface.co/papers/2609.22966
+[22.09.2026 03:21] Extract page data from URL. URL: https://huggingface.co/papers/2609.24972
+[22.09.2026 03:21] Extract page data from URL. URL: https://huggingface.co/papers/2609.23377
+[22.09.2026 03:21] Extract page data from URL. URL: https://huggingface.co/papers/2609.23658
+[22.09.2026 03:21] Extract page data from URL. URL: https://huggingface.co/papers/2609.24984
+[22.09.2026 03:21] Extract page data from URL. URL: https://huggingface.co/papers/2609.10706
+[22.09.2026 03:21] Updating GitHub stars.
+[22.09.2026 03:21] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[22.09.2026 03:21] Downloading and parsing papers (pdf, html). Total: 6.
+[22.09.2026 03:21] Downloading and parsing paper https://huggingface.co/papers/2609.22966.
+[22.09.2026 03:22] Failed to download and parse paper https://huggingface.co/papers/2609.22966: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2609.22966&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[22.09.2026 03:22] Downloading and parsing paper https://huggingface.co/papers/2609.24972.
+[22.09.2026 03:24] Failed to download and parse paper https://huggingface.co/papers/2609.24972: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2609.24972&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[22.09.2026 03:24] Downloading and parsing paper https://huggingface.co/papers/2609.23377.
+[22.09.2026 03:26] Failed to download and parse paper https://huggingface.co/papers/2609.23377: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2609.23377&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[22.09.2026 03:26] Downloading and parsing paper https://huggingface.co/papers/2609.23658.
+[22.09.2026 03:27] Downloading paper 2609.23658 from https://arxiv.org/pdf/2609.23658v1...
+[22.09.2026 03:27] Extracting affiliations from text.
+[22.09.2026 03:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"WHY DO VIDEO DIFFUSION MODELS VIOLATE PHYSICS? UNVEILING THE FLAWS IN ATTENTION MECHANISMS Yueyan Li, Haibo Wang, Caixia Yuan, Xiaojie Wang Beijing University of Posts and Telecommunications {siriuslala,wanghb,yuancx,xjwang}@bupt.edu.cn "
+[22.09.2026 03:27] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:27] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:27] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:27] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:28] Failed to download and parse paper https://huggingface.co/papers/2609.23658: Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:28] Downloading and parsing paper https://huggingface.co/papers/2609.24984.
+[22.09.2026 03:31] Failed to download and parse paper https://huggingface.co/papers/2609.24984: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2609.24984&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[22.09.2026 03:31] Downloading and parsing paper https://huggingface.co/papers/2609.10706.
+[22.09.2026 03:33] Failed to download and parse paper https://huggingface.co/papers/2609.10706: Page request resulted in HTTP 503 (https://export.arxiv.org/api/query?search_query=&id_list=2609.10706&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[22.09.2026 03:33] Enriching papers with extra data.
+[22.09.2026 03:33] ********************************************************************************
+[22.09.2026 03:33] Abstract 0. Abstract  Humans can seamlessly adapt to both physical and digital worlds, suggesting that while a digital-to-real gap exists in embodiment, environment and task, human intelligence itself may transfer across this gap. This naturally raises a fundamental question: can the intelligence of vision-lang...
+[22.09.2026 03:33] ********************************************************************************
+[22.09.2026 03:33] Abstract 1. Abstract  An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of a...
+[22.09.2026 03:33] ********************************************************************************
+[22.09.2026 03:33] Abstract 2. Abstract  Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with regressions in others, while aggregate resolution obscures these changes. Motivated by this ...
+[22.09.2026 03:33] ********************************************************************************
+[22.09.2026 03:33] Abstract 3. Abstract  Despite impressive visual quality, state-of-the-art video diffusion models often generate content that violates real-world physical laws. While existing solutions rely on external priors or specialized data, we investigate the root cause by exploring the internal mechanisms of these models...
+[22.09.2026 03:33] ********************************************************************************
+[22.09.2026 03:33] Abstract 4. Abstract  Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key ins...
+[22.09.2026 03:33] ********************************************************************************
+[22.09.2026 03:33] Abstract 5. Abstract  Human video datasets offer an abundant and diverse source of interaction data that can complement expensive real-robot data. To bridge the human-to-robot embodiment gap, existing approaches either robotize videos in task-matched settings or address observation and action alignment separate...
+[22.09.2026 03:33] Read previous papers.
+[22.09.2026 03:33] Generating reviews via LLM API.
+[22.09.2026 03:33] Querying the API.
+[22.09.2026 03:33] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Humans can seamlessly adapt to both physical and digital worlds, suggesting that while a digital-to-real gap exists in embodiment, environment and task, human intelligence itself may transfer across this gap. This naturally raises a fundamental question: can the intelligence of vision-language models (VLMs) similarly generalize from the digital world to the physical world for robotic control? We investigate this question through RoboDawn, a human-intuitive interface that exposes robotic control to an agentic VLM through a compact set of discrete translation, rotation, and gripper commands. Using this interface, the VLM controls a robot in a closed loop: it observes the current visual state, reasons about the next action, executes it, and adapts subsequent decisions to the resulting state. Furthermore, we introduce an in-context learning (ICL) scheme that uses a few demonstrations to ground the VLM in both interface usage and task-solving strategies. Experiments on RoboTwin 2.0 C2R and RoboDojo demonstrate that RoboDawn achieves strong performance without task-specific robot training. In the zero-shot setting, RoboDawn outperforms several strong policies trained on benchmarkspecific robot data, while a single in-context demonstration further yields substantial performance gains and establishes state-of-the-art (SOTA) results. On RoboTwin 2.0 C2R, the success rate increases from 53.2% zero-shot to 73.6% one-shot, exceeding the solid baseline π0.5 (46.0%). Similar gains are observed on RoboDojo, where success rate improves from 35.67% zero-shot to 47.17% one-shot. The same framework also transfers to real-world robots, performing block-in-basket and block stacking on Franka.
+[22.09.2026 03:33] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:33] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:33] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:33] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:33] Error getting data: Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:33] Querying the API.
+[22.09.2026 03:33] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
+[22.09.2026 03:33] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] Error getting data: Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] Querying the API.
+[22.09.2026 03:34] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with regressions in others, while aggregate resolution obscures these changes. Motivated by this category see-saw, we develop a category-aware expert-training and policy-integration framework. Executable task construction and SWE Labeler, an evidence-grounded multi-axis labeling system, organize the training pools. Initial category-specific RL improves average training success while leaving uneven instance-level progress, motivating explicit consolidation of successful behavior and policy-adaptive task selection. Same-origin category experts alternate long-horizon Agentic-miniRL with Refresh-Repair-Expand (RRE): the updated policy refreshes instance mastery, reuses its own verified successful trajectories for Repair SFT, and reselects tasks for further RL. Label-routed multi-teacher on-policy distillation (MOPD) consolidates the experts into one deployable student, with ReLU-gated reward extrapolation keeping only each teacher's improving direction over the reference. Expert training and policy integration require no external model to provide solution trajectories or action targets. We evaluate Pooled RL and Balanced RL, expert development, and single-model integration through aggregate and per-category resolution, the minimum category lift over each joint-RL baseline, and expert-gain recovery. The final MOPD policy achieves mean resolution of 58.04% on Pro-618 and 59.00% on SWE-bench Multilingual, improving over the base model by 5.39 and 2.78 percentage points, respectively.
+[22.09.2026 03:34] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:34] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] Error getting data: Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] Querying the API.
+[22.09.2026 03:35] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Despite impressive visual quality, state-of-the-art video diffusion models often generate content that violates real-world physical laws. While existing solutions rely on external priors or specialized data, we investigate the root cause by exploring the internal mechanisms of these models. Specifically, we present the first interpretability study on the ''motion planning'' process of text-to-video diffusion models, revealing how motion trajectories form during early denoising stages. Building upon the ''first shape, then details'' finding, we combine cross-attention trajectory patterns with causal head contributions to identify a specific subset of attention heads driving motion planning. Further, our self-attention analysis shows that Rotary Position Embedding (RoPE) induces excessive spatial attention decay. This causes early candidate regions to prematurely lock into physically implausible positions, suppressing reasonable trajectories in adjacent frames and triggering generation failure modes. To address this fundamental flaw, we propose a lightweight architectural modification that scales the frequency of RoPE across different denoising steps. This strategy reduces excessive attention decay, helping the model explore better candidate regions to establish coherent physical motion. Finally, training-free and training-based experiments confirm the effectiveness of our approach in enhancing the physical commonsense of generated videos.
+[22.09.2026 03:35] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] Error getting data: Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] Querying the API.
+[22.09.2026 03:35] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.
+[22.09.2026 03:35] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:35] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:36] Error getting data: Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:36] Querying the API.
+[22.09.2026 03:36] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Human video datasets offer an abundant and diverse source of interaction data that can complement expensive real-robot data. To bridge the human-to-robot embodiment gap, existing approaches either robotize videos in task-matched settings or address observation and action alignment separately at scale. In this work, we systematically examine whether robotized human videos can serve as an effective and scalable source of supervision for VLA pretraining. To this end, we develop a robotization pipeline that converts heterogeneous human videos into robot-aligned observations and action trajectories while inferring missing intermediate signals across annotation levels. Using this pipeline, we construct the HuRo dataset, comprising about 630K robotized episodes and 142M processed frames from five human-video sources. Across four real-world manipulation tasks, increasing the amount of robotized pretraining data improves overall completion from 51.5% to 80.3% and OOD completion under spatial and visual shifts from 34.9% to 72.2%. Ablations further show that visual robotization improves OOD robustness and that end-to-end pretraining with retargeted actions outperforms visual-only transfer. Project website: https://3587jjh.github.io/HuRo.
+[22.09.2026 03:36] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:36] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:36] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:36] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:36] Error getting data: Expecting value: line 1 column 1 (char 0)
+[22.09.2026 03:36] Renaming data file.
+[22.09.2026 03:36] Renaming previous data. hf_papers.json to ./d/2026-09-22.json
+[22.09.2026 03:36] Saving new data file.
+[22.09.2026 03:36] Generating page.
+[22.09.2026 03:36] Renaming previous page.
+[22.09.2026 03:36] Renaming previous data. index.html to ./d/2026-09-22.html
+[22.09.2026 03:36] Writing result.
+[22.09.2026 03:36] Renaming log file.
+[22.09.2026 03:36] Renaming previous data. log.txt to ./logs/2026-09-22_last_log.txt
