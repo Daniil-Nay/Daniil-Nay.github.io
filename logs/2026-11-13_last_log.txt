@@ -1,0 +1,108 @@
+[12.11.2026 22:06] Read previous papers.
+[12.11.2026 22:06] Generating top page (month).
+[12.11.2026 22:06] Writing top page (month).
+[13.11.2026 05:07] Read previous papers.
+[13.11.2026 05:07] Get feed.
+[13.11.2026 05:07] Extract page data from URL. URL: https://huggingface.co/papers/2611.14815
+[13.11.2026 05:07] Extract page data from URL. URL: https://huggingface.co/papers/2611.05984
+[13.11.2026 05:07] Extract page data from URL. URL: https://huggingface.co/papers/2611.15131
+[13.11.2026 05:07] Extract page data from URL. URL: https://huggingface.co/papers/2611.13004
+[13.11.2026 05:07] Extract page data from URL. URL: https://huggingface.co/papers/2611.16321
+[13.11.2026 05:07] Updating GitHub stars.
+[13.11.2026 05:07] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[13.11.2026 05:07] Downloading and parsing papers (pdf, html). Total: 5.
+[13.11.2026 05:07] Downloading and parsing paper https://huggingface.co/papers/2611.14815.
+[13.11.2026 05:08] Failed to download and parse paper https://huggingface.co/papers/2611.14815: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2611.14815&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[13.11.2026 05:08] Downloading and parsing paper https://huggingface.co/papers/2611.05984.
+[13.11.2026 05:08] Failed to download and parse paper https://huggingface.co/papers/2611.05984: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2611.05984&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[13.11.2026 05:08] Downloading and parsing paper https://huggingface.co/papers/2611.15131.
+[13.11.2026 05:10] Downloading paper 2611.15131 from https://arxiv.org/pdf/2611.15131v1...
+[13.11.2026 05:11] Extracting affiliations from text.
+[13.11.2026 05:11] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Technical Report Duo: Reciprocal World Model for Full-Duplex Interaction Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu, Yiding Tian, Yilei Jiang, Yuxin Ma, Chengzhang Wu, Kun Chen, Yiqian Xie, Ting Liu, Xin Zheng, Xijun Gu, Tianren Ma, Jiancheng Pan, Chi Zhang, Xuzhe Zheng, Siyi Li, Zhenzhong Lan Project Lead "
+[13.11.2026 05:11] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:11] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:11] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:11] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:11] Failed to download and parse paper https://huggingface.co/papers/2611.15131: Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:11] Downloading and parsing paper https://huggingface.co/papers/2611.13004.
+[13.11.2026 05:12] Downloading paper 2611.13004 from https://arxiv.org/pdf/2611.13004v1...
+[13.11.2026 05:12] Extracting affiliations from text.
+[13.11.2026 05:12] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation Xu Huang1,2 Ye Huang1 Xiaotong Li2 Zhengrong Yue2,3 Jialv Zou2,4 Minhao Jing2 Haodong Li2,5 Wenhao Yan2,6 Yaxin Luo2,7 Duomin Wang1 Daquan Zhou1 1Peking University, 2Meituan Longcat, 3Shanghai Jiao Tong University, 4Huazhong University of Science and Technology, 5The Chinese University of Hong Kong, 6Tsinghua University, 7MBZUAI Equal contribution, Project lead, Corresponding author "
+[13.11.2026 05:12] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:12] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:13] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:13] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:13] Failed to download and parse paper https://huggingface.co/papers/2611.13004: Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:13] Downloading and parsing paper https://huggingface.co/papers/2611.16321.
+[13.11.2026 05:14] Failed to download and parse paper https://huggingface.co/papers/2611.16321: Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=&id_list=2611.16321&sortBy=relevance&sortOrder=descending&start=0&max_results=100)
+[13.11.2026 05:14] Enriching papers with extra data.
+[13.11.2026 05:14] ********************************************************************************
+[13.11.2026 05:14] Abstract 0. Abstract  Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appea...
+[13.11.2026 05:14] ********************************************************************************
+[13.11.2026 05:14] Abstract 1. Abstract A systematic study of Hyper-Connections architectures identifies the simpler efficient design SimpleHC, which removes residual mixing and uses shared memory access to match mHC performance while adding minimal training overhead and improving stability.  Generated by deepseek-ai/DeepSeek-V4....
+[13.11.2026 05:14] ********************************************************************************
+[13.11.2026 05:14] Abstract 2. Abstract A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.  Generated by deepseek-ai/DeepSeek-V4.1-Flash In this report, we introduce the Rec...
+[13.11.2026 05:14] ********************************************************************************
+[13.11.2026 05:14] Abstract 3. Abstract  Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quant...
+[13.11.2026 05:14] ********************************************************************************
+[13.11.2026 05:14] Abstract 4. Abstract  Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it remains unclear how much depth such decisions require. We find that decision information ...
+[13.11.2026 05:14] Read previous papers.
+[13.11.2026 05:14] Generating reviews via LLM API.
+[13.11.2026 05:14] Querying the API.
+[13.11.2026 05:14] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion transformers, one per stream, lets each stream inform the other during generation. The predicted BEV also provides a geometric interface for ego control: we translate and rotate its latest frame along an input ego trajectory and use the resulting frames as a soft condition that shows how the scene would appear to move if only the ego vehicle moved. At inference, BirdDreams generates both videos from a single camera image without requiring an HD map or vehicle-state inputs. On PhysicalAI-AV and nuScenes, BirdDreams follows input ego trajectories more faithfully than prior driving world models and generates more plausible ego motion without ego-action conditioning. Human evaluation shows that BirdDreams outperforms a perspective-only baseline in generating realistic surrounding-vehicle behavior.
+[13.11.2026 05:14] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:14] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:14] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:14] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:14] Error getting data: Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:14] Querying the API.
+[13.11.2026 05:14] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract A systematic study of Hyper-Connections architectures identifies the simpler efficient design SimpleHC, which removes residual mixing and uses shared memory access to match mHC performance while adding minimal training overhead and improving stability.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this work, we systematically study the HC architecture to understand its components and identify simpler, more efficient designs. We find that learned read/write gating without mixing and unconstrained mixing with fixed gates form two effective interaction groups: either alone achieves performance comparable to mHC. We also identify repeated access to the expanded residual state as a major source of training overhead, even without mixing. These findings lead to SimpleHC, which simplifies the architecture by removing residual mixing and simplifies execution through shared memory access, using the resulting additive structure and shared gate inputs. Layer-specific gates share a group-entry state, enabling batched reads and deferred writes; scalar corrections exactly preserve preceding sublayer output contributions. Our analyses support both the retained residual structure and the design of shared memory access. SimpleHC incurs only 2.4% extra end-to-end training time over a vanilla residual baseline at the largest tested scale. It maintains performance comparable to mHC when scaling from 15B to 30B MoE models, exhibits smoother gradient dynamics during standard training, and remains stable under stress. We hope SimpleHC will encourage a broader pursuit of simplicity in foundation model design, making performance gains more accessible and practical at scale.
+[13.11.2026 05:14] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:14] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] Error getting data: Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] Querying the API.
+[13.11.2026 05:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.  Generated by deepseek-ai/DeepSeek-V4.1-Flash In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fundamental capabilities: Intent, which provides the cognition underlying world interactions, and Realization, which generates coherent audio-visual behavior. To realize this formulation, Duo v1 introduces three key technical designs: (1) Leveraging autoregressive modeling for continuous interaction reasoning and participation decisions, rather than restricting it to instruction understanding for diffusion models. (2) Constructing chunk-specific conditions and synchronize tokens across Intent and Realization on a unified timeline. Module-specific attention masks enforce causal dependencies both within and across chunks, preventing access to future inputs. (3) Mitigating distribution shift in both modules through dual rollout distillation, training on autoregressively generated Intent tokens and synthesized audiovisual histories from Realization. Both modules continuously perceive real-time audio, video, and text, enabling full-duplex interaction with spontaneous conversations and interruptions. Beyond conversation, users can share real objects, reshape virtual scenes, guide assistants, or play audiovisual games without mouse or keyboard controls. The release of Duo v1 makes our first step, with the next version coming soon. We look forward to broader exploration of this emerging field.
+[13.11.2026 05:15] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] Error getting data: Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] Querying the API.
+[13.11.2026 05:15] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framework that enables \(32\times\) and even effective \(64\times\) compression while preserving strong reconstruction, understanding, and generation performance. Since larger groups introduce intra-group dependencies that must be modeled efficiently, we analyze their impact on inference latency and generation quality and introduce a semi-autoregressive decoder that combines parallel feature computation with lightweight causal modeling. With these designs, our highly compressed models perform competitively with leading models across five representative text-to-image benchmarks (GenEval, DPG-Bench, PRISM, LongText-Bench, and Qwen-Image-Bench). At \(1024\times1024\) resolution, our model delivers a \(20\times\) speedup over prior discrete autoregressive models, generating each image in 2.5 seconds on a single NVIDIA H200. Together, these results show that highly compressed discrete representations can enable high-quality autoregressive generation at low latency.
+[13.11.2026 05:15] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:15] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] Error getting data: Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] Querying the API.
+[13.11.2026 05:16] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it remains unclear how much depth such decisions require. We find that decision information is concentrated in intermediate layers, with early layers building essential features and the final six layers removable without loss, while independently trained smaller models largely mimic the full model rather than developing specialized decision capabilities. These findings suggest that efficiency requires not simply smaller backbones, but shared computation across different depths. Building on this, we propose , which jointly trains a full model with prefix sub-models that share its final layers and decision head through self-distillation. A lightweight gate reads the hidden state at each exit to determine whether additional computation is needed, allowing one model to operate at multiple layers. Across seven decision benchmarks, our approach matches or outperforms independently trained models at every depth, while achieving better accuracy-efficiency trade-offs through adaptive computation.
+[13.11.2026 05:16] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] Error getting data: Expecting value: line 1 column 1 (char 0)
+[13.11.2026 05:16] Renaming data file.
+[13.11.2026 05:16] Renaming previous data. hf_papers.json to ./d/2026-11-13.json
+[13.11.2026 05:16] Saving new data file.
+[13.11.2026 05:16] Generating page.
+[13.11.2026 05:16] Renaming previous page.
+[13.11.2026 05:16] Renaming previous data. index.html to ./d/2026-11-13.html
+[13.11.2026 05:16] Writing result.
+[13.11.2026 05:16] Renaming log file.
+[13.11.2026 05:16] Renaming previous data. log.txt to ./logs/2026-11-13_last_log.txt
