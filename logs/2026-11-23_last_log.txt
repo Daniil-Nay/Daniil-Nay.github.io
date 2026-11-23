@@ -1,434 +1,550 @@
-[23.11.2026 02:34] Read previous papers.
-[23.11.2026 02:34] Generating top page (month).
-[23.11.2026 02:34] Writing top page (month).
-[23.11.2026 11:49] Read previous papers.
-[23.11.2026 11:49] Get feed.
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.27193
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.27963
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.24636
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.15449
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.27973
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.25773
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.27915
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.21485
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.24077
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.22343
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.25252
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.26613
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.27229
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.22479
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.24025
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.27211
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.19247
-[23.11.2026 11:49] Extract page data from URL. URL: https://huggingface.co/papers/2611.22495
-[23.11.2026 11:49] Updating GitHub stars.
-[23.11.2026 11:49] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
-[23.11.2026 11:49] Downloading and parsing papers (pdf, html). Total: 18.
-[23.11.2026 11:49] Downloading and parsing paper https://huggingface.co/papers/2611.27193.
-[23.11.2026 11:49] Downloading paper 2611.27193 from https://arxiv.org/pdf/2611.27193v1...
-[23.11.2026 11:49] Extracting affiliations from text.
-[23.11.2026 11:49] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 12:08] Read previous papers.
+[23.11.2026 12:08] Generating top page (month).
+[23.11.2026 12:08] Writing top page (month).
+[23.11.2026 23:24] Read previous papers.
+[23.11.2026 23:24] Get feed.
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27193
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27963
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.24636
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.15449
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.26954
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27973
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.25773
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.21485
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27915
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.26613
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.24077
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.22343
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.25252
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.24025
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27398
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.22479
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27211
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27229
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.26809
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.19247
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.27490
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.22495
+[23.11.2026 23:24] Extract page data from URL. URL: https://huggingface.co/papers/2611.23417
+[23.11.2026 23:24] Updating GitHub stars.
+[23.11.2026 23:24] Obtaining deleted papers (sometimes HF Daily Papers move some articles from today to past days).
+[23.11.2026 23:24] No deleted papers detected.
+[23.11.2026 23:24] Downloading and parsing papers (pdf, html). Total: 23.
+[23.11.2026 23:24] Downloading and parsing paper https://huggingface.co/papers/2611.27193.
+[23.11.2026 23:24] Downloading paper 2611.27193 from https://arxiv.org/pdf/2611.27193v1...
+[23.11.2026 23:24] Extracting affiliations from text.
+[23.11.2026 23:24] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"2026-11-23 cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction Haowei He1, , Ziwen Zhao2,, , Chenshuo Pan1, , Gang Lin3, , Zhihao Yang1, Chao Wang1, Xinzhang Liu1, Kaidong Yu1, Han Gao4, Dongfang Li3, Menglin Yang2, Shuangyong Song1,#, Yongxiang Li1,# 1Xingchen AGI Lab, China Telecom, 2The Hong Kong University of Science and Technology (Guangzhou), 3Harbin Institute of Technology (Shenzhen), 4Huawei Technologies Co., Ltd. "
-[23.11.2026 11:49] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:49] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:49] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:49] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:49] Failed to download and parse paper https://huggingface.co/papers/2611.27193: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:49] Downloading and parsing paper https://huggingface.co/papers/2611.27963.
-[23.11.2026 11:49] Downloading paper 2611.27963 from https://arxiv.org/pdf/2611.27963v1...
-[23.11.2026 11:49] Extracting affiliations from text.
-[23.11.2026 11:49] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:24] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:24] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:24] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] Failed to download and parse paper https://huggingface.co/papers/2611.27193: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] Downloading and parsing paper https://huggingface.co/papers/2611.27963.
+[23.11.2026 23:25] Downloading paper 2611.27963 from https://arxiv.org/pdf/2611.27963v1...
+[23.11.2026 23:25] Extracting affiliations from text.
+[23.11.2026 23:25] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Non-penetrating World Models (cid:66) Learning & Generation Lab, The Hong Kong Polytechnic University Hung Hom, Kowloon, Hong Kong {yu-hang.dai, yinwei.wu, robin.lin, jihan.ji}@connect.polyu.hk xingyi.yang@polyu.edu.hk Project page Code Models Data Figure 1. Video world models walk through walls. LingBot-World 2.0, held at the pillar between platforms 9 and 10: Original walks through; + NoPeWorld stops at the bricks. Six models on NoPeBench route, + held (yellow: the wall; Top View: the true map): Original, five pass through, WorldPlay2 backs away; + NoPeWorld, all stop at the wall, where the Ground Truth (Unreal Engine) slides. "
-[23.11.2026 11:49] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] Failed to download and parse paper https://huggingface.co/papers/2611.27963: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] Downloading and parsing paper https://huggingface.co/papers/2611.24636.
-[23.11.2026 11:50] Downloading paper 2611.24636 from https://arxiv.org/pdf/2611.24636v1...
-[23.11.2026 11:50] Extracting affiliations from text.
-[23.11.2026 11:50] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:25] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] Failed to download and parse paper https://huggingface.co/papers/2611.27963: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:25] Downloading and parsing paper https://huggingface.co/papers/2611.24636.
+[23.11.2026 23:25] Downloading paper 2611.24636 from https://arxiv.org/pdf/2611.24636v1...
+[23.11.2026 23:26] Extracting affiliations from text.
+[23.11.2026 23:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Technical Report November 2026 Clover-35B-A3B-Preview Technical Report DiffuSpace Technical Team diffuspace.ai "
-[23.11.2026 11:50] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:50] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] Failed to download and parse paper https://huggingface.co/papers/2611.24636: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] Downloading and parsing paper https://huggingface.co/papers/2611.15449.
-[23.11.2026 11:51] Downloading paper 2611.15449 from https://arxiv.org/pdf/2611.15449v1...
-[23.11.2026 11:51] Extracting affiliations from text.
-[23.11.2026 11:51] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:26] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] Failed to download and parse paper https://huggingface.co/papers/2611.24636: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] Downloading and parsing paper https://huggingface.co/papers/2611.15449.
+[23.11.2026 23:26] Downloading paper 2611.15449 from https://arxiv.org/pdf/2611.15449v1...
+[23.11.2026 23:26] Extracting affiliations from text.
+[23.11.2026 23:26] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning Jaeseong Lee Jinwoo Kim Jinho Jeong Seon Joo Kim CIPLAB, Yonsei University Project Page: https://jasonleex1995.github.io/TAISR_needs_Reasoning Figure 1: TAISR needs reasoning. Each panel shows the LR input, baseline SR outputs (Before Reasoning), outputs with RTC (After Reasoning), and the HR ground truth. The highlighted text is unreadable from local pixels alone, so the baselines hallucinate characters. With reasoning, the same models recover most of it. "
-[23.11.2026 11:51] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] Failed to download and parse paper https://huggingface.co/papers/2611.15449: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] Downloading and parsing paper https://huggingface.co/papers/2611.27973.
-[23.11.2026 11:51] Downloading paper 2611.27973 from https://arxiv.org/pdf/2611.27973v1...
-[23.11.2026 11:51] Extracting affiliations from text.
-[23.11.2026 11:51] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:26] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:26] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] Failed to download and parse paper https://huggingface.co/papers/2611.15449: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] Downloading and parsing paper https://huggingface.co/papers/2611.26954.
+[23.11.2026 23:27] Downloading paper 2611.26954 from https://arxiv.org/pdf/2611.26954v1...
+[23.11.2026 23:27] Extracting affiliations from text.
+[23.11.2026 23:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation Jingchen Sun1* Jiaxing Zhang* Qingqiao Hu2 Dingqiang Ye3 Yuqi Jia4 Yijun Liang5 Di Fu Yunjie Tian Dongdi Zhao Changyou Chen1 1University at Buffalo 2Stony Brook University 3Johns Hopkins University 4Duke University 5University of Maryland, College Park "
+[23.11.2026 23:27] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] Failed to download and parse paper https://huggingface.co/papers/2611.26954: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] Downloading and parsing paper https://huggingface.co/papers/2611.27973.
+[23.11.2026 23:27] Downloading paper 2611.27973 from https://arxiv.org/pdf/2611.27973v1...
+[23.11.2026 23:27] Extracting affiliations from text.
+[23.11.2026 23:27] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"MemOnce: Scalable Memory Architecture for Large Language Models Chang Nie1, Chaoyou Fu1, Songlin Liu2, Yiqing Hu2, Caifeng Shan1 1Nanjing University, 2University of Science and Technology of China Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear GPU memory growth and quadratic computational complexity as the context expands. In contrast, linear-time architectures compress history into fixed-size states, but struggle to retain fine-grained details. We introduce MemOnce, foundation architecture that learns scalable memory states for language models. MemOnce is based on two core designs: (a) Memory encoder-decoder: it caches only small subset of final-layer hidden states as compact memory representations and dynamically decodes them back into KV caches for attention layers; (b) Memory sparse attention: for each continual input, MemOnce adaptively retrieves relevant memory representations, with the sparse indices computed only once across layers. Coupling these two designs enables efficient on-the-fly memory loading and KV cache decoding, drastically reducing the GPU memory footprint and achieving linear-time complexity. We conduct extensive experiments to show that MemOnce outperforms Transformers and other architectures across varying model sizes, context lengths, and training paradigms (pretraining and post-training adaptation). In particular, adapting Qwen3.5-4B with MemOnce reduces memory state cache by 1313 and prefill latency by 6.9 at 1M context, and improves throughput by 3.5 and overall memory performance by +5.77%. Finally, MemOnce generalizes zero-shot to downstream representation tasks, achieving competitive results against specialized models. Date: November 23, 2026 # Main Contact: changnie@smail.nju.edu.cn, bradyfu24@gmail.com Gi"
-[23.11.2026 11:51] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:51] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] Failed to download and parse paper https://huggingface.co/papers/2611.27973: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] Downloading and parsing paper https://huggingface.co/papers/2611.25773.
-[23.11.2026 11:52] Downloading paper 2611.25773 from https://arxiv.org/pdf/2611.25773v1...
-[23.11.2026 11:52] Extracting affiliations from text.
-[23.11.2026 11:52] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:27] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:27] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] Failed to download and parse paper https://huggingface.co/papers/2611.27973: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] Downloading and parsing paper https://huggingface.co/papers/2611.25773.
+[23.11.2026 23:28] Downloading paper 2611.25773 from https://arxiv.org/pdf/2611.25773v1...
+[23.11.2026 23:28] Extracting affiliations from text.
+[23.11.2026 23:28] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Duopra: From Full-Duplex Conversation to Full-Duplex Agency Chiyu Chen1,2* Haonan Hu2 Yao Yao1 Yifei Yang1 Yijie Lu1 Taolei Wang1 Yansi Li1 Muhuan Wu4 Chenglu Sun2 Gongshen Liu1 Zhuosheng Zhang1 Pengzhou Cheng3* Yuezhao Ma1 Xiaocheng Li1 Can Liu1 1Shanghai Jiao Tong University 2Tencent 3Shanghai University 4University of Bristol {chenchiyu, ma_yuezhao, orangeade, liucan1013, yaoyao27, yifeiyang, luyj16, sjtuwtl, yansi_li, zhangzs, lgshen}@sjtu.edu.cn {chiyuuuchen, rubenhnhu, clivesun}@tencent.com chengpz@shu.edu.cn (cid:128) Project Page GitHub Hugging Face "
-[23.11.2026 11:52] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] Failed to download and parse paper https://huggingface.co/papers/2611.25773: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:52] Downloading and parsing paper https://huggingface.co/papers/2611.27915.
-[23.11.2026 11:52] Downloading paper 2611.27915 from https://arxiv.org/pdf/2611.27915v1...
-[23.11.2026 11:53] Extracting affiliations from text.
-[23.11.2026 11:53] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"STEREOVLM: BINOCULAR VISION-LANGUAGE MODELS FOR METRIC 3D SPATIAL REASONING Chi Yan1,2, Guoyang Zhao2,, Wentao Yuan2 Yixiao Ge2 Yanning Zhou2, Dan Xu1, 1 The Hong Kong University of Science and Technology (HKUST) 2 XPENG Robotics {cyanao,danxu}@cse.ust.hk Equal contribution. Corresponding authors. Project leader. Figure 1: StereoVLM: from binocular geometry to spatial understanding and action. (a) Monocular observations leave metric scale ambiguous. (b) An illustrative example of language-grounded metric reasoning from calibrated stereo observations. (c) Stereo3D-Bench evaluates spatial understanding at three levels. Disparity supervision improves depth generalization, while hierarchical geometric supervision benefits broader 3D spatial reasoning and downstream VLA performance. "
-[23.11.2026 11:53] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] Failed to download and parse paper https://huggingface.co/papers/2611.27915: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] Downloading and parsing paper https://huggingface.co/papers/2611.21485.
-[23.11.2026 11:53] Downloading paper 2611.21485 from https://arxiv.org/pdf/2611.21485v1...
-[23.11.2026 11:53] Extracting affiliations from text.
-[23.11.2026 11:53] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:28] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] Failed to download and parse paper https://huggingface.co/papers/2611.25773: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] Downloading and parsing paper https://huggingface.co/papers/2611.21485.
+[23.11.2026 23:28] Downloading paper 2611.21485 from https://arxiv.org/pdf/2611.21485v1...
+[23.11.2026 23:28] Extracting affiliations from text.
+[23.11.2026 23:28] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits Henry Zheng1,2,, Weibo Gong2, Yang Yue1, Rui Huang1, Yang Zhang2, Gao Huang2, 1Tsinghua University, 2PICO, ByteDance Work done at ByteDance, Corresponding author "
-[23.11.2026 11:53] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:53] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] Failed to download and parse paper https://huggingface.co/papers/2611.21485: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] Downloading and parsing paper https://huggingface.co/papers/2611.24077.
-[23.11.2026 11:54] Downloading paper 2611.24077 from https://arxiv.org/pdf/2611.24077v1...
-[23.11.2026 11:54] Extracting affiliations from text.
-[23.11.2026 11:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:28] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:28] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] Failed to download and parse paper https://huggingface.co/papers/2611.21485: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] Downloading and parsing paper https://huggingface.co/papers/2611.27915.
+[23.11.2026 23:29] Downloading paper 2611.27915 from https://arxiv.org/pdf/2611.27915v1...
+[23.11.2026 23:29] Extracting affiliations from text.
+[23.11.2026 23:29] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation Shiwei Wu1 Yuwen Pan1 Zhi Li1 Yaowen Li2 Yan Zhou3 Xuemiao Xu4 Yu Liu2, 1SIGS, Tsinghua University 2Department of Electronic Engineering, Tsinghua University 3Foshan University 4South China University of Technology Corresponding author Project code: https://github.com/starsholic/AeroRSI Figure 1. Recursive self-improvement with self-verified repairs. (a) In round k, πk fails at and judges its own candidate repairs. From the state before A, each candidate from its sampled actions or rule-based proposals is continued by πk, and only those it completes are kept. (b) After learning these repairs, πk+1 avoids and reaches B, failure concealed by the earlier one at A, where the next round verifies new repairs. (c) Test success rate on TravelUAV; the dashed line is the previous state of the art [1] from the same supervised policy. "
-[23.11.2026 11:54] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] Failed to download and parse paper https://huggingface.co/papers/2611.24077: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] Downloading and parsing paper https://huggingface.co/papers/2611.22343.
-[23.11.2026 11:54] Downloading paper 2611.22343 from https://arxiv.org/pdf/2611.22343v1...
-[23.11.2026 11:54] Extracting affiliations from text.
-[23.11.2026 11:54] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"PURE: Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching Hengyu You, Xintong Wang, Jin Cao, Liang Ding* Alibaba Group {youhengyu.yhy, hanfeng.wxt, luyu.cj, zuorui.dl}@alibaba-inc.com "
-[23.11.2026 11:54] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:54] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] Failed to download and parse paper https://huggingface.co/papers/2611.22343: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] Downloading and parsing paper https://huggingface.co/papers/2611.25252.
-[23.11.2026 11:55] Downloading paper 2611.25252 from https://arxiv.org/pdf/2611.25252v1...
-[23.11.2026 11:55] Extracting affiliations from text.
-[23.11.2026 11:55] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
-
-Text:"Moving Generality from Model to Modeler: LLM Agents for PHM on Deployment-Style Benchmark Zhenling Chen, Zhiguo Zeng, and Anne Barros 1 AbstractCoding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds model for each new task? We examine this question in prognostics and health management (PHM), where every model must work on unseen equipment. Our deployment-style benchmark, NextUnit-Bench, covers 24 public datasets split into 58 folds that hold out units or operating conditions; each agent has two hours to deliver an executable predictor, then run on the hidden units. First, frontier agents outperform AutoML, which reaches less than half the best agents score, and faithful implementations of published methods on four datasets, of which only 6 of 30 beat the strongest agents own design; published accuracies, where reproducible, rest on the papers own conventions, and single convention, capping the remaining life of test engines, can halve the reported error. Second, the agents advantage is design made on each machines data; once made, plain-text plan of few hundred words carries most of the gap between two frontier agents, and given weaker agents plan, the strongest agent falls to that agents level, often to identical predictions. Before touching the data, however, it matters little whose plan an agent carries out, and domain toolkits appear to help neither: what sets the strongest apart is how much it learns from the data. Third, such designs reach only implementers that can execute them: given the strongest agents designs, locally deployable open-weight model delivers half as often, even when they are lightened, and scores no higher than without them. Generality, we argue, is not disappearing but moving, from the model to the modeler. Index TermsPrognostics and health management, LLM agents, benchmark, reproducibility, knowledge transfer, deployment. I. "
-[23.11.2026 11:55] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] Failed to download and parse paper https://huggingface.co/papers/2611.25252: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] Downloading and parsing paper https://huggingface.co/papers/2611.26613.
-[23.11.2026 11:55] Downloading paper 2611.26613 from https://arxiv.org/pdf/2611.26613v1...
-[23.11.2026 11:55] Extracting affiliations from text.
-[23.11.2026 11:55] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+Text:"STEREOVLM: BINOCULAR VISION-LANGUAGE MODELS FOR METRIC 3D SPATIAL REASONING Chi Yan1,2, Guoyang Zhao2,, Wentao Yuan2 Yixiao Ge2 Yanning Zhou2, Dan Xu1, 1 The Hong Kong University of Science and Technology (HKUST) 2 XPENG Robotics {cyanao,danxu}@cse.ust.hk Equal contribution. Corresponding authors. Project leader. Figure 1: StereoVLM: from binocular geometry to spatial understanding and action. (a) Monocular observations leave metric scale ambiguous. (b) An illustrative example of language-grounded metric reasoning from calibrated stereo observations. (c) Stereo3D-Bench evaluates spatial understanding at three levels. Disparity supervision improves depth generalization, while hierarchical geometric supervision benefits broader 3D spatial reasoning and downstream VLA performance. "
+[23.11.2026 23:29] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] Failed to download and parse paper https://huggingface.co/papers/2611.27915: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:29] Downloading and parsing paper https://huggingface.co/papers/2611.26613.
+[23.11.2026 23:29] Downloading paper 2611.26613 from https://arxiv.org/pdf/2611.26613v1...
+[23.11.2026 23:29] Extracting affiliations from text.
+[23.11.2026 23:29] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control Yiyang Du1 Yuxuan Kuang1 Qitao Zhao1 Yixuan Wang2 Zhanqiu Guo1 Yi Xu3 Xin Li3 Wenbin He3 1Carnegie Mellon University Liu Ren3 Chenyan Xiong1 2University of Illinois at Urbana-Champaign 3Bosch Research North America & Bosch Center for Artificial Intelligence (BCAI) "
-[23.11.2026 11:55] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:55] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] Failed to download and parse paper https://huggingface.co/papers/2611.26613: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] Downloading and parsing paper https://huggingface.co/papers/2611.27229.
-[23.11.2026 11:56] Downloading paper 2611.27229 from https://arxiv.org/pdf/2611.27229v1...
-[23.11.2026 11:56] Extracting affiliations from text.
-[23.11.2026 11:56] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:29] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] Failed to download and parse paper https://huggingface.co/papers/2611.26613: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] Downloading and parsing paper https://huggingface.co/papers/2611.24077.
+[23.11.2026 23:30] Downloading paper 2611.24077 from https://arxiv.org/pdf/2611.24077v1...
+[23.11.2026 23:30] Extracting affiliations from text.
+[23.11.2026 23:30] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Prune to Expand: Training Prompt Enhancers with Less to Imitate Tianhe Wu1, Qilin Sun2, and Kede Ma1 1City University of Hong Kong 2The Chinese University of Hong Kong (Shenzhen) tianhewu-c@my.cityu.edu.hk sunqilin@cuhk.edu.cn kede.ma@cityu.edu.hk Figure 1. Qualitative results of Prune to Expand (P2E). For each prompt, the left image is generated from the original short prompt, while the right image is generated from the prompt enhanced by the PE model fine-tuned on P2E-refined supervision. By enriching short prompts with intent-aligned visual details, P2E enables more vibrant colors, vivid scenes, and aesthetically balanced compositions. "
-[23.11.2026 11:56] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] Failed to download and parse paper https://huggingface.co/papers/2611.27229: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] Downloading and parsing paper https://huggingface.co/papers/2611.22479.
-[23.11.2026 11:56] Downloading paper 2611.22479 from https://arxiv.org/pdf/2611.22479v1...
-[23.11.2026 11:56] Extracting affiliations from text.
-[23.11.2026 11:56] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+Text:"AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation Shiwei Wu1 Yuwen Pan1 Zhi Li1 Yaowen Li2 Yan Zhou3 Xuemiao Xu4 Yu Liu2, 1SIGS, Tsinghua University 2Department of Electronic Engineering, Tsinghua University 3Foshan University 4South China University of Technology Corresponding author Project code: https://github.com/starsholic/AeroRSI Figure 1. Recursive self-improvement with self-verified repairs. (a) In round k, πk fails at and judges its own candidate repairs. From the state before A, each candidate from its sampled actions or rule-based proposals is continued by πk, and only those it completes are kept. (b) After learning these repairs, πk+1 avoids and reaches B, failure concealed by the earlier one at A, where the next round verifies new repairs. (c) Test success rate on TravelUAV; the dashed line is the previous state of the art [1] from the same supervised policy. "
+[23.11.2026 23:30] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:30] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] Failed to download and parse paper https://huggingface.co/papers/2611.24077: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] Downloading and parsing paper https://huggingface.co/papers/2611.22343.
+[23.11.2026 23:31] Downloading paper 2611.22343 from https://arxiv.org/pdf/2611.22343v1...
+[23.11.2026 23:31] Extracting affiliations from text.
+[23.11.2026 23:31] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
-Text:"Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence Cedric Bonhomme Computer Incident Response Center Luxembourg (CIRCL) cedric.bonhomme@circl.lu [57B7 A70D] Alexandre Dulaunoy Computer Incident Response Center Luxembourg (CIRCL) alexandre.dulaunoy@circl.lu [44E6 CBCD] 17 November 2026 Submitted to the FIRST.org 2027 Cyber Threat Intelligence Conference, Berlin, Germany Abstract How long are vulnerabilities exploited before fix is available? We compute, for each vulnerability, the interval between exploitation and patch, and lifecycle intervals adapted from the Vulnerability Timeline and Exposure Metrics framework (VTEM), from open, machine-readable evidence: CVE and CSAF records, publisher timelines (GCVE BCP-05-X-03), several Known Exploited Vulnerabilities catalogs and sightings. An evidence model selects the earliest evidence of each lifecycle event, uses only records that describe the vulnerability itself, carries the precision of every date and traces each figure to the record that produced it; it is implemented in Vulnerability-Lookup. Over the 3,758 identifiers with exploitation evidence on one instance, disclosure is dated for 98%, patch evidence exists for 15.7%, and the vendor-side dates VTEM requires are never published. Most exploitation dates are catalog listings, 1,041 of them on days catalog listed or imported backlog. Setting those and unordered same-day pairs aside, 59 vulnerabilities have patch evidence after exploitation evidence, by median of 7.6 days, mostly from catalog listing to distributors fix. Traceability made the data correctable: one collector recorded exploit publications as exploitation, 40% of the exploitation dates of first measurement, and one catalog dated 11% of its listings with the vulnerabilitys publication time. The intervals can be computed; what limits them is the evidence publishers release, and we identify the timeline, observation and fix dates that would close the gap. When vulne"
-[23.11.2026 11:56] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:56] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] Failed to download and parse paper https://huggingface.co/papers/2611.22479: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] Downloading and parsing paper https://huggingface.co/papers/2611.24025.
-[23.11.2026 11:57] Downloading paper 2611.24025 from https://arxiv.org/pdf/2611.24025v1...
-[23.11.2026 11:57] Extracting affiliations from text.
-[23.11.2026 11:57] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+Text:"PURE: Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching Hengyu You, Xintong Wang, Jin Cao, Liang Ding* Alibaba Group {youhengyu.yhy, hanfeng.wxt, luyu.cj, zuorui.dl}@alibaba-inc.com "
+[23.11.2026 23:31] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] Failed to download and parse paper https://huggingface.co/papers/2611.22343: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] Downloading and parsing paper https://huggingface.co/papers/2611.25252.
+[23.11.2026 23:31] Downloading paper 2611.25252 from https://arxiv.org/pdf/2611.25252v1...
+[23.11.2026 23:31] Extracting affiliations from text.
+[23.11.2026 23:31] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Moving Generality from Model to Modeler: LLM Agents for PHM on Deployment-Style Benchmark Zhenling Chen, Zhiguo Zeng, and Anne Barros 1 AbstractCoding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds model for each new task? We examine this question in prognostics and health management (PHM), where every model must work on unseen equipment. Our deployment-style benchmark, NextUnit-Bench, covers 24 public datasets split into 58 folds that hold out units or operating conditions; each agent has two hours to deliver an executable predictor, then run on the hidden units. First, frontier agents outperform AutoML, which reaches less than half the best agents score, and faithful implementations of published methods on four datasets, of which only 6 of 30 beat the strongest agents own design; published accuracies, where reproducible, rest on the papers own conventions, and single convention, capping the remaining life of test engines, can halve the reported error. Second, the agents advantage is design made on each machines data; once made, plain-text plan of few hundred words carries most of the gap between two frontier agents, and given weaker agents plan, the strongest agent falls to that agents level, often to identical predictions. Before touching the data, however, it matters little whose plan an agent carries out, and domain toolkits appear to help neither: what sets the strongest apart is how much it learns from the data. Third, such designs reach only implementers that can execute them: given the strongest agents designs, locally deployable open-weight model delivers half as often, even when they are lightened, and scores no higher than without them. Generality, we argue, is not disappearing but moving, from the model to the modeler. Index TermsPrognostics and health management, LLM agents, benchmark, reproducibility, knowledge transfer, deployment. I. "
+[23.11.2026 23:31] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:31] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] Failed to download and parse paper https://huggingface.co/papers/2611.25252: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] Downloading and parsing paper https://huggingface.co/papers/2611.24025.
+[23.11.2026 23:32] Downloading paper 2611.24025 from https://arxiv.org/pdf/2611.24025v1...
+[23.11.2026 23:32] Extracting affiliations from text.
+[23.11.2026 23:32] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Intent Contracts: Taking Tools Away from Agents Ziyuan Wang1, Genliang Zhu2, Xiaobo Chen3, Chu Wang4 1Independent Researcher 2Georgia Institute of Technology 3University of Massachusetts Amherst 4University of Illinois Urbana-Champaign 1ziyuan.wang.engineer@gmail.com 2sebby@gatech.edu 3xchen@umass.edu 4wallywang@ieee.org "
-[23.11.2026 11:57] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] Failed to download and parse paper https://huggingface.co/papers/2611.24025: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:57] Downloading and parsing paper https://huggingface.co/papers/2611.27211.
-[23.11.2026 11:57] Downloading paper 2611.27211 from https://arxiv.org/pdf/2611.27211v1...
-[23.11.2026 11:57] Extracting affiliations from text.
-[23.11.2026 11:57] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:32] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] Failed to download and parse paper https://huggingface.co/papers/2611.24025: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] Downloading and parsing paper https://huggingface.co/papers/2611.27398.
+[23.11.2026 23:32] Downloading paper 2611.27398 from https://arxiv.org/pdf/2611.27398v1...
+[23.11.2026 23:32] Extracting affiliations from text.
+[23.11.2026 23:32] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Taking Apart and Putting Together: Tracking Objects Through Physical Transformations Elisa Ricci1,3 Davide Gardenal1 Mingxuan Liu1 1University of Trento 2AMIAD, Pôle Recherche, Palaiseau 3Fondazione Bruno Kessler Flavio Vella1 Quentin Guimard2 Figure 1. Transformation Tracking and Understanding. Given video and initial object prompts, TTU requires tracking objects through assemblies and disassemblies while maintaining partwhole state graph. Each row shows the masks and state graph across keyframes (t1t5) for each method using the same SAM 2.1 backbone [26]. Foundation trackers (e.g., SAM 2/3 [6, 26]) maintain pixel-level tracklets but ignore state changes. TubeletGraph [29] relies on reactive search after track loss, missing early splits (t2) and failing on assemblies (t4, t5) at 0.2 FPS. TIPO proactively detects both events (t2t5), tracking all parts and generating complete state graphs up to 9 faster. "
+[23.11.2026 23:32] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:32] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] Failed to download and parse paper https://huggingface.co/papers/2611.27398: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] Downloading and parsing paper https://huggingface.co/papers/2611.22479.
+[23.11.2026 23:33] Downloading paper 2611.22479 from https://arxiv.org/pdf/2611.22479v1...
+[23.11.2026 23:33] Extracting affiliations from text.
+[23.11.2026 23:33] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence Cedric Bonhomme Computer Incident Response Center Luxembourg (CIRCL) cedric.bonhomme@circl.lu [57B7 A70D] Alexandre Dulaunoy Computer Incident Response Center Luxembourg (CIRCL) alexandre.dulaunoy@circl.lu [44E6 CBCD] 17 November 2026 Submitted to the FIRST.org 2027 Cyber Threat Intelligence Conference, Berlin, Germany Abstract How long are vulnerabilities exploited before fix is available? We compute, for each vulnerability, the interval between exploitation and patch, and lifecycle intervals adapted from the Vulnerability Timeline and Exposure Metrics framework (VTEM), from open, machine-readable evidence: CVE and CSAF records, publisher timelines (GCVE BCP-05-X-03), several Known Exploited Vulnerabilities catalogs and sightings. An evidence model selects the earliest evidence of each lifecycle event, uses only records that describe the vulnerability itself, carries the precision of every date and traces each figure to the record that produced it; it is implemented in Vulnerability-Lookup. Over the 3,758 identifiers with exploitation evidence on one instance, disclosure is dated for 98%, patch evidence exists for 15.7%, and the vendor-side dates VTEM requires are never published. Most exploitation dates are catalog listings, 1,041 of them on days catalog listed or imported backlog. Setting those and unordered same-day pairs aside, 59 vulnerabilities have patch evidence after exploitation evidence, by median of 7.6 days, mostly from catalog listing to distributors fix. Traceability made the data correctable: one collector recorded exploit publications as exploitation, 40% of the exploitation dates of first measurement, and one catalog dated 11% of its listings with the vulnerabilitys publication time. The intervals can be computed; what limits them is the evidence publishers release, and we identify the timeline, observation and fix dates that would close the gap. When vulne"
+[23.11.2026 23:33] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] Failed to download and parse paper https://huggingface.co/papers/2611.22479: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] Downloading and parsing paper https://huggingface.co/papers/2611.27211.
+[23.11.2026 23:33] Downloading paper 2611.27211 from https://arxiv.org/pdf/2611.27211v1...
+[23.11.2026 23:33] Extracting affiliations from text.
+[23.11.2026 23:33] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Explicit Style Extraction for Personalized Long-Form Text Generation Jenitha Reddy Patel1 Sameeksha Kini1 Amulya Rayasam1 Anisa Dye1 Abhinav Sharma2 Sai Karthik Navuluru3 Bo Ni4 Li Li5 Junda Wu6,7 Tong Yu6 Nedim Lipka6 Xiaolei Huang8,9 Tyler Derr4 Yue Zhao5 Zhengzhong Tu10 Yu Wang11,12 Hongjie Chen Thien Huu Nguyen12,14 Nesreen K. Ahmed15 Franck Dernoncourt6 Ryan A. Rossi16 1University of Chicago 4Vanderbilt University 2University of Massachusetts Amherst 5University of Southern California 8University of Missouri 9University of Memphis 3University of Texas at Dallas 7UCSD 6Adobe Research 11University of Georgia 10Texas A&M University 14Amazon 15Cisco 16Zillow 12University of Oregon 13Dolby Laboratories jenithapatel@uchicago.edu "
-[23.11.2026 11:57] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] Failed to download and parse paper https://huggingface.co/papers/2611.27211: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] Downloading and parsing paper https://huggingface.co/papers/2611.19247.
-[23.11.2026 11:58] Downloading paper 2611.19247 from https://arxiv.org/pdf/2611.19247v2...
-[23.11.2026 11:58] Extracting affiliations from text.
-[23.11.2026 11:58] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:33] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:33] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] Failed to download and parse paper https://huggingface.co/papers/2611.27211: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] Downloading and parsing paper https://huggingface.co/papers/2611.27229.
+[23.11.2026 23:34] Downloading paper 2611.27229 from https://arxiv.org/pdf/2611.27229v1...
+[23.11.2026 23:34] Extracting affiliations from text.
+[23.11.2026 23:34] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Prune to Expand: Training Prompt Enhancers with Less to Imitate Tianhe Wu1, Qilin Sun2, and Kede Ma1 1City University of Hong Kong 2The Chinese University of Hong Kong (Shenzhen) tianhewu-c@my.cityu.edu.hk sunqilin@cuhk.edu.cn kede.ma@cityu.edu.hk Figure 1. Qualitative results of Prune to Expand (P2E). For each prompt, the left image is generated from the original short prompt, while the right image is generated from the prompt enhanced by the PE model fine-tuned on P2E-refined supervision. By enriching short prompts with intent-aligned visual details, P2E enables more vibrant colors, vivid scenes, and aesthetically balanced compositions. "
+[23.11.2026 23:34] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] Failed to download and parse paper https://huggingface.co/papers/2611.27229: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:34] Downloading and parsing paper https://huggingface.co/papers/2611.26809.
+[23.11.2026 23:34] Downloading paper 2611.26809 from https://arxiv.org/pdf/2611.26809v1...
+[23.11.2026 23:35] Extracting affiliations from text.
+[23.11.2026 23:35] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Search From the Start : Search-Native Pretraining for Language Models * Gyung Hyun Je * Stefan Taga EPFL University of Toronto *Equal contribution. "
+[23.11.2026 23:35] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] Failed to download and parse paper https://huggingface.co/papers/2611.26809: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] Downloading and parsing paper https://huggingface.co/papers/2611.19247.
+[23.11.2026 23:35] Downloading paper 2611.19247 from https://arxiv.org/pdf/2611.19247v2...
+[23.11.2026 23:35] Extracting affiliations from text.
+[23.11.2026 23:35] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"2026.11 GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models Bing He, Runze Wang,, Fei Zha, Zhongyuan Wu, Ke Xu # davidbinghe@gmail.com Code (cid:128) Project Page Equal Contribution Project Lead Corresponding Author Tao Zhuang, Yuxuan Xie, Zhongyuan Liu Lightspeed Studios, Tencent Abstract For more than half century, video games have pursued better graphics, more natural interaction, and more engaging gameplay. Generative video models (VMs) now bear on all three. Neural networks already draw most of the pixels in shipped games, and recent world models let lightweight game engine keep the world state while VM turns the engines coarse proxy video into final frames. These systems, however, treat the VM as renderer that only restyles motion the engine has already authored, which leaves most of its generative capacity unused and limits the diversity game can offer. We present GameWM, design for next-generation games built on clear division of labor. The GameWM-engine keeps what must be exact: rules, state, camera, and the layout of the world, which also spares the video model from having to remember it. The GameWM-VM generates what is expensive to author by hand: the look of the world and the detail of the players interactions. One game mechanic can then be realized in many visually and physically distinct ways, while its outcome stays exactly as the engine computed it. To realize this division of labor, we build GameWM as complete system: data engine centered on interactions rather than exploration, an interface through which authored character sheets, scene art, and skill descriptions enter the model, and model family from 5B to 33B parameters with real-time causal variant for play. Together they give every player fresh version of the same game: each players own character, world, and skills turn the same engine mechanics into new experience, while every event keeps the timing and outcome the GameWM-engine computed. Stable world Customized i"
-[23.11.2026 11:58] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:58] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] Failed to download and parse paper https://huggingface.co/papers/2611.19247: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] Downloading and parsing paper https://huggingface.co/papers/2611.22495.
-[23.11.2026 11:59] Downloading paper 2611.22495 from https://arxiv.org/pdf/2611.22495v1...
-[23.11.2026 11:59] Extracting affiliations from text.
-[23.11.2026 11:59] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+[23.11.2026 23:35] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:35] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] Failed to download and parse paper https://huggingface.co/papers/2611.19247: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] Downloading and parsing paper https://huggingface.co/papers/2611.27490.
+[23.11.2026 23:36] Downloading paper 2611.27490 from https://arxiv.org/pdf/2611.27490v1...
+[23.11.2026 23:36] Extracting affiliations from text.
+[23.11.2026 23:36] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval Turhan Can Kargın turhancan.kargin@gmail.com Project page: https://turhancan97.github.io/doppeldwarf-306/ "
+[23.11.2026 23:36] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] Failed to download and parse paper https://huggingface.co/papers/2611.27490: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] Downloading and parsing paper https://huggingface.co/papers/2611.22495.
+[23.11.2026 23:36] Downloading paper 2611.22495 from https://arxiv.org/pdf/2611.22495v1...
+[23.11.2026 23:36] Extracting affiliations from text.
+[23.11.2026 23:36] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
 
 Text:"Motion-Aware Reward Modeling for Instruction-Guided Video Editing Li Li1, Xiangbo Gao2, Bo Ni3, Samyadeep Basu4, Viet Dac Lai4, Jing Shi4, Seunghyun Yoon4, Gang Wu4, Yu Wang5, Thien Huu Nguyen6, Tyler Derr3, Franck Dernoncourt4, Zhengzhong Tu2, Yue Zhao1 1University of Southern California 2Texas A&M University 3Vanderbilt University 5University of Georgia 4Adobe 6Amazon "
-[23.11.2026 11:59] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] Failed to download and parse paper https://huggingface.co/papers/2611.22495: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] Enriching papers with extra data.
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 0. Abstract Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Manifold-constrained Hyper-Connecti...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 1. Abstract A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.  Generated by deepseek-ai/DeepSeek-V4.1-Flash We study a new p...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 2. Abstract  We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previ...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 3. Abstract  Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration problem, yet severely degraded text often cannot be read from local visual evidence alone. Human...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 4. Abstract  Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear GPU memory ...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 5. Abstract  Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency: timely tool invocation and argument revision following user corrections. Frontend-backend...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 6. Abstract StereoVLM is a geometry-aware binocular vision-language model trained with hierarchical supervision from calibrated stereo to enable metric 3D spatial reasoning, evaluated by Stereo3D-Bench.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Vision-language models (VLMs) exhibit strong semantic ...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 7. Abstract  Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter. It requires recognizing revisited places despite viewpoint changes, distinguishing them from similar-looking rooms, and updating memories as environments change....
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 8. Abstract  Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight. Correcting these failures requires repairs, i.e., actions that avoid them at the states the policy itself reaches, which huma...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 9. Abstract A diagnostic benchmark evaluates multimodal large language models on multi-granularity identity matching, revealing gaps in understanding, reasoning, and evidence-grounded judgment across base and variant levels.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Identity matching asks whether t...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 10. Abstract  Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must ...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 11. Abstract  Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these age...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 12. Abstract Prune to Expand (P2E) refines dense-caption supervision by selectively removing redundant sentences under a per-example deletion bound, improving prompt enhancement alignment with human preferences and visual quality over conventional dense-caption supervised fine-tuning.  Generated by deep...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 13. Abstract  -05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings.   We introduce an evidence model implemented in Vulnerability-Lookup that selects the earliest evidence for each lifecycle event, distinguishes vulnerability-specific records, preserves date precision, a...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 14. Abstract Intent contracts, in which a planner submits logged contracts and a trusted model writes tool calls, do not reduce unauthorized actions and match blind review, but complete more benign over-reach tasks than an intent-visible reviewer.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Intent con...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 15. Abstract A method that explicitly extracts a user's stylistic profile and uses it to guide drafting and revision improves personalized long-form text generation over retrieval-augmented baselines.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Personalized long-form generation asks a language model t...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 16. Abstract GameWM divides game generation between an engine that preserves exact rules and state and a generative video model that creates visual and interactive detail, allowing personalized games with consistent mechanics.  Generated by deepseek-ai/DeepSeek-V4.1-Flash For more than half a century, v...
-[23.11.2026 11:59] ********************************************************************************
-[23.11.2026 11:59] Abstract 17. Abstract  Reward models for instruction-guided video editing can favor temporal consistency at the expense of motion. We study this failure, termed motion collapse, using controlled motion-suppression variants of real edits. On VE-Bench, the evaluated composite reward prefers a motion-suppressed can...
-[23.11.2026 11:59] Read previous papers.
-[23.11.2026 11:59] Generating reviews via LLM API.
-[23.11.2026 11:59] Querying the API.
-[23.11.2026 11:59] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:36] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:36] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] Failed to download and parse paper https://huggingface.co/papers/2611.22495: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] Downloading and parsing paper https://huggingface.co/papers/2611.23417.
+[23.11.2026 23:37] Downloading paper 2611.23417 from https://arxiv.org/pdf/2611.23417v2...
+[23.11.2026 23:37] Extracting affiliations from text.
+[23.11.2026 23:37] github request. Model: openai/gpt-4o-mini. Prompt: I give you a contaminated text with start of ML paper. Extract all authors affiliations as a single institute, firm, company, etc. Return items as a Python plain list only with affiliations. Do not provide commentaries. If there are no affiliations return empty list.
+
+Text:"Autoregressive View Model Jensen (Jinghao) Zhou1,2, Samuel Rota Bulo1, Denis Rozumny1, Duncan Zauss1, Peter Hedman1, Nikhil Keetha1, Philip Torr2, Christian Rupprecht2, Andrea Vedaldi1,2, Peter Kontschieder1 1Meta, 2University of Oxford We present the Autoregressive View Model (AVM), which generates scene as stream of views without constructing an explicit 3D representation. Through unified in-context interface, AVM conditions on images or videos to generate short clips along requested camera path. Visual context grounds reconstruction and interpolation, while learned prior enables extrapolation into unseen regions. AVM retrieves relevant views from inputs and generated history to form bounded active context. We fine-tune pretrained bidirectional video diffusion transformer with flow matching in an N-in-1-out formulation. We then tune causal model on its own rollouts to improve photorealism, reduce denoising steps, and limit long-horizon drift. We scale training to approximately 8M scenes and video clips. We evaluate generation capacity and scene persistence across benchmarks for camera control, text control, visual quality, dynamics, sparse and 4D reconstruction, and long-horizon consistency. The results demonstrate that AVM adapts to diverse input and output settings through one in-context interface. Website: https://autoregressive-view-model.github.io Date: November 18, 2026 Figure 1 scene as stream of views conditioned on context. AVM generates short video clips along requested camera path with observed views as context. These views come from prefill images or videos and from earlier clips, whose generated views become history that can condition later clips. The same interface handles reconstruction, exploration, and revisits without fitting any 3D representation. We seek to generate video of complex 3D scene along requested virtual camera trajectory, given one or more images or videos of the scene. The model must reconstruct observed regions, synthesize newly v"
+[23.11.2026 23:37] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] Failed to download and parse paper https://huggingface.co/papers/2611.23417: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] Enriching papers with extra data.
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 0. Abstract Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Manifold-constrained Hyper-Connecti...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 1. Abstract A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.  Generated by deepseek-ai/DeepSeek-V4.1-Flash We study a new p...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 2. Abstract  We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previ...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 3. Abstract  Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration problem, yet severely degraded text often cannot be read from local visual evidence alone. Human...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 4. Abstract Future-OPSD trains vision-language models via on-policy self-distillation and a contrastive privilege advantage derived from a foresight score, improving video foresight prediction and planning without extra annotations or LLM supervision.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Video...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 5. Abstract  Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear GPU memory ...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 6. Abstract  Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency: timely tool invocation and argument revision following user corrections. Frontend-backend...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 7. Abstract  Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter. It requires recognizing revisited places despite viewpoint changes, distinguishing them from similar-looking rooms, and updating memories as environments change....
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 8. Abstract StereoVLM is a geometry-aware binocular vision-language model trained with hierarchical supervision from calibrated stereo to enable metric 3D spatial reasoning, evaluated by Stereo3D-Bench.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Vision-language models (VLMs) exhibit strong semantic ...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 9. Abstract  Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these age...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 10. Abstract  Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight. Correcting these failures requires repairs, i.e., actions that avoid them at the states the policy itself reaches, which huma...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 11. Abstract A diagnostic benchmark evaluates multimodal large language models on multi-granularity identity matching, revealing gaps in understanding, reasoning, and evidence-grounded judgment across base and variant levels.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Identity matching asks whether t...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 12. Abstract  Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must ...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 13. Abstract Intent contracts, in which a planner submits logged contracts and a trusted model writes tool calls, do not reduce unauthorized actions and match blind review, but complete more benign over-reach tasks than an intent-visible reviewer.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Intent con...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 14. Abstract A training-free framework tracks objects through physical assemblies and disassemblies by generating and evaluating split/merge proposals and querying a multimodal large language model for verification and labeling, achieving state-of-the-art accuracy and faster performance on a new benchma...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 15. Abstract  -05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings.   We introduce an evidence model implemented in Vulnerability-Lookup that selects the earliest evidence for each lifecycle event, distinguishes vulnerability-specific records, preserves date precision, a...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 16. Abstract A method that explicitly extracts a user's stylistic profile and uses it to guide drafting and revision improves personalized long-form text generation over retrieval-augmented baselines.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Personalized long-form generation asks a language model t...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 17. Abstract Prune to Expand (P2E) refines dense-caption supervision by selectively removing redundant sentences under a per-example deletion bound, improving prompt enhancement alignment with human preferences and visual quality over conventional dense-caption supervised fine-tuning.  Generated by deep...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 18. Abstract  Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical ...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 19. Abstract GameWM divides game generation between an engine that preserves exact rules and state and a generative video model that creates visual and interactive detail, allowing personalized games with consistent mechanics.  Generated by deepseek-ai/DeepSeek-V4.1-Flash For more than half a century, v...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 20. Abstract  Most established instance-retrieval benchmarks emphasise landmarks; small sculptures from visually similar series offer a complementary challenge. We introduce Doppeldwarf-306: 1,691 openly licensed photographs of 306 bronze dwarf statues in Wrocław, Poland, many made in themed series that...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 21. Abstract  Reward models for instruction-guided video editing can favor temporal consistency at the expense of motion. We study this failure, termed motion collapse, using controlled motion-suppression variants of real edits. On VE-Bench, the evaluated composite reward prefers a motion-suppressed can...
+[23.11.2026 23:37] ********************************************************************************
+[23.11.2026 23:37] Abstract 22. Abstract  We present the Autoregressive View Model (AVM), which generates a scene as a stream of views without constructing an explicit 3D representation. Through a unified in-context interface, AVM conditions on images or videos to generate short clips along a requested camera path. Visual context ...
+[23.11.2026 23:37] Read previous papers.
+[23.11.2026 23:37] Generating reviews via LLM API.
+[23.11.2026 23:37] Querying the API.
+[23.11.2026 23:37] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doubly stochastic matrices. In this work, we investigate how to effectively mix residual streams within the Birkhoff polytope. We reveal a mixing trade-off: when under-mixed residual matrices stay close to the vertices of the Birkhoff polytope, hyper-connections will degenerate into a set of nearly independent streams; when over-mixed residual matrices are concentrated around the uniform barycenter of the polytope, streams will become less distinguishable from each other. We theoretically validate our findings by bounding the cumulative residual mixing, stream difference and gradient difference of mixing coefficients across layers. Motivated by these findings, we propose Contraction for Manifold-Constrained Hyper-Connections (cmHC), an exact doubly stochastic method which geometrically contracts the Birkhoff polytope toward its interior. This contraction mitigates under-mixing by forcing the residual matrices to explore deeper into the polytope, with a provable stream mixing bound and no new parameterization. Moreover, we apply a moderate contraction at the shallow layers to prevent over-mixing, enabling stable gradient propagation on extremely large-scale model pretraining. Extensive experiments across dense and mixture-of-experts models at various parameter scales demonstrate the effectiveness and scalability of cmHC. We also develop fused operators for cmHC on Ascend NPUs, reducing hyper-connection execution latency by up to 44.8%.
-[23.11.2026 11:59] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 11:59] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] Querying the API.
-[23.11.2026 12:00] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:37] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:37] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] Querying the API.
+[23.11.2026 23:38] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.  Generated by deepseek-ai/DeepSeek-V4.1-Flash We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent such failures. Surprisingly, however, these models already encode the information needed to predict such violations. We find that the hidden states of diffusion transformers (DiTs) can predict whether a candidate action will penetrate an obstacle. Building on this, we introduce NoPeWorld, a lightweight framework that detects and prevents penetration. Specifically, we train a small prediction head on top of a frozen DiT's hidden states to read out if a candidate action is safe or not. Unsafe actions are then replaced with safe ones that best preserve the original intent. Despite its simplicity, NoPeWorld substantially reduces the physical violation rate, averaged over six video world models, from 74% to 16%. Remarkably, our method shows zero-shot generalization to open-domain imagery, third-person viewpoints, and moving obstacles. We publicly release our code, the NoPeBench benchmark, and model weights. Project Page: https://nopeworld.github.io .
-[23.11.2026 12:00] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] Querying the API.
-[23.11.2026 12:00] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:38] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] Querying the API.
+[23.11.2026 23:38] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract  We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and a separate, zero-initialized right-context convolution branch. Clover leads the seven evaluated agent metrics, including 73.6 on SWE-bench Verified and 51.7 on Terminal-Bench 2.1. On internal agent workloads, it reaches a reported generation speed of 680 tokens/s using one NVIDIA GB300 GPU at BF16 precision and batch size one. We organize the evaluation around model quality, drafting and verification costs, and deployment under constrained memory. We also describe a decision-model variant that generates answers to related questions in one denoising pass. On an internal set of 500 groups, joint prediction raises question accuracy from 90.37% to 93.88% and all-correct group accuracy from 65.4% to 77.0%.
-[23.11.2026 12:00] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:00] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] Querying the API.
-[23.11.2026 12:01] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:38] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:38] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] Querying the API.
+[23.11.2026 23:39] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract  Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration problem, yet severely degraded text often cannot be read from local visual evidence alone. Humans instead read it by reasoning over image context, logical patterns, and prior knowledge. This raises a fundamental question: Does TAISR need reasoning? To answer this, we introduce two diagnostic tools. The first, ReasonText, is a human-curated benchmark that separates reasoning-required text from locally recoverable text. The second, Ground-Truth Text-Crop Accuracy (GTTCA), is a recognition-based metric that measures text restoration quality without text detection errors. Evaluating twelve recent super-resolution (SR) models, we find a consistent and substantial performance drop on reasoning-required text, revealing a systematic blind spot. Two observations point to a remedy. One is that text-conditioned SR models restore text substantially better when given ground-truth text. The other is that multimodal large language models (MLLMs) can read degraded text in low-resolution images through reasoning. We therefore propose Reasoning Transfer via Captioning (RTC), a training-free plug-in that uses an external MLLM to infer the degraded text and feeds the resulting caption to a text-conditioned SR model. RTC consistently improves all six text-conditioned SR models we evaluate, especially on reasoning-required text. Surprisingly, a real-world SR model with RTC can even outperform the TAISR model with RTC, suggesting that reasoning should be a core design axis for future TAISR.
-[23.11.2026 12:01] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] Querying the API.
-[23.11.2026 12:01] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:39] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] Querying the API.
+[23.11.2026 23:39] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract Future-OPSD trains vision-language models via on-policy self-distillation and a contrastive privilege advantage derived from a foresight score, improving video foresight prediction and planning without extra annotations or LLM supervision.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for supervision, limiting scalability. We address this with an on-policy self-distillation framework that turns past-future video pairs into a natural self-supervised signal without extra annotations or LLM supervision. Second, they treat the whole future clip as equally valuable, although most of it is irrelevant context information. We address this by defining a foresight score, from which we obtain a contrastive privilege advantage that drives the model to learn the most valuable future information. Since the score is intractable, we optimize a tractable lower-bound surrogate that interpolates this advantage, computed between the true and a random reference future, with a teacher-student distillation advantage; together, they amplify decision-relevant content information and suppress irrelevant context information. We call the resulting framework Future-OPSD. On open-ended prediction and closed-ended planning, Future-OPSD improves base models by up to 14.2 and 15.9 points without compromising general video understanding. Code will be available at https://jingchensun.github.io/future-opsd/
+[23.11.2026 23:39] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:39] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] Querying the API.
+[23.11.2026 23:40] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract  Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear GPU memory growth and quadratic computational complexity as the context expands. In contrast, linear-time architectures compress history into fixed-size states, but struggle to retain fine-grained details. We introduce MemOnce, a foundation architecture that learns scalable memory states for language models. MemOnce is based on two core designs: (a) Memory encoder-decoder: it caches only a small subset of final-layer hidden states as compact memory representations and dynamically decodes them back into KV caches for attention layers; (b) Memory sparse attention: for each continual input, MemOnce adaptively retrieves relevant memory representations, with the sparse indices computed only once across layers. Coupling these two designs enables efficient on-the-fly memory loading and KV cache decoding, drastically reducing the GPU memory footprint and achieving linear-time complexity. We conduct extensive experiments to show that MemOnce outperforms Transformers and other architectures across varying model sizes, context lengths, and training paradigms (pretraining and post-training adaptation). In particular, adapting Qwen3.5-4B with MemOnce reduces memory state cache by 1313times and prefill latency by 6.9times at 1M context, and improves throughput by 3.5times and overall memory performance by +5.77%. Finally, MemOnce generalizes zero-shot to downstream representation tasks, achieving competitive results against specialized models.
-[23.11.2026 12:01] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:01] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] Querying the API.
-[23.11.2026 12:02] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:40] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] Querying the API.
+[23.11.2026 23:40] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract  Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency: timely tool invocation and argument revision following user corrections. Frontend-backend agents separate initiation from execution: the frontend decides whether and what to request, while the backend determines how. Execution can be offloaded, but unsent requests cannot be executed, and incomplete ones can misdirect the backend. On Full-Duplex-Bench v3 (FDB v3), most failures of Realtime-Venus-Audio + Harness in our streaming pipeline occur before a domain tool executes. We introduce Duopra, a full-duplex interaction model that learns task execution alongside conversational control. Duopra treats the backend as a tool, accepting a self-contained natural-language request. Direct calls and backend delegation share an action interface and requirements for faithful initiation and correct execution. Its three-stage training combines protocol SFT, full-duplex RL rewarding timely and complete execution, and projector-only repair of talker conditioning after thinker updates. With the same backend, Pass@1 rises from 4.7% to 44.7%; Duopra achieves 47.7% calling tools directly (26.0% after SFT) and 49.3% with a DeepSeek backend. It improves three FDB v1.0 takeover rates over the base model. These results show that task agency can coexist with key conversational agency.
-[23.11.2026 12:02] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] Querying the API.
-[23.11.2026 12:02] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract StereoVLM is a geometry-aware binocular vision-language model trained with hierarchical supervision from calibrated stereo to enable metric 3D spatial reasoning, evaluated by Stereo3D-Bench.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene structure from one or more images without known camera calibration or cross-view geometric constraints. This makes metric 3D inference inherently ambiguous and leaves it unclear whether their spatial predictions are grounded in visual evidence or driven primarily by semantic priors. In contrast, calibrated stereo provides explicit cross-view geometry that resolves this ambiguity and offers a more reliable foundation for metric 3D perception and geometric generalization. We investigate how VLMs can learn transferable 3D representations directly from calibrated binocular observations. To this end, we introduce StereoVLM, the first geometry-aware binocular VLM for metric 3D spatial reasoning. StereoVLM follows a hierarchical learning paradigm spanning from cross-view correspondence and disparity estimation to calibration-conditioned metric depth perception and semantic spatial reasoning. We further find that disparity supervision generalizes substantially better than direct binocular depth supervision on unseen environments. To evaluate these capabilities, we introduce Stereo3D-Bench, a comprehensive benchmark across three levels, from point-level geometry to object-level spatial reasoning. StereoVLM-8B achieves 95.17% depth accuracy (δ_1) and a 66.98 average object-level score on Stereo3D-Bench. Intervention results further indicate that the model's performance on Stereo3D-Bench benefits from valid cross-view geometry and cannot be explained solely by additional visual tokens or semantic priors. Hierarchical geometric supervision also yields average gains of 3.54 points across five spatial benchmarks and 4.3 percentage points in RoboCasa manipulation success.
-[23.11.2026 12:02] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:02] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] Querying the API.
-[23.11.2026 12:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:40] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:40] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] Querying the API.
+[23.11.2026 23:41] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract  Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter. It requires recognizing revisited places despite viewpoint changes, distinguishing them from similar-looking rooms, and updating memories as environments change. Yet existing evaluations often leave physical place identity across separated visits implicit. We introduce ReSpaceBench, a benchmark comprising 3,244 questions across 590 synthetic and real-home scenes, organized into 9 tasks spanning room association, persistent state tracking, and downstream reasoning. Controlled walkthroughs define visits by physical room entry and deliberately include same-type room distractors and cross-session object changes. Our evaluation of 32 models and 3 agentic video-understanding frameworks reveals substantial limitations: the strongest evaluated zero-shot model achieves 50.5% overall accuracy and 52.2% on a 450-question subset, compared with 90.1% for human annotators. The evaluated agentic frameworks offer no overall improvement over direct inference with the same base model. Analysis of agent execution traces reveals evidence omissions and incorrect cross-visit room associations as major failure modes, suggesting that iterative evidence seeking alone does not ensure consistent spatial memory. Further analyses expose a gap between recognizing familiar rooms and identifying the correct visited room, while annotation-guided sampling highlights the importance of preserving intervening visits and transitions. We also provide RS-30K, a separate training dataset from synthetic sources with no template, scene, route, or video overlap with the benchmark. Fine-tuning Qwen3-VL-8B raises overall accuracy from 35.5% to 60.4%, with the largest gains in association and improvements extending to real-life scenes.
-[23.11.2026 12:03] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] Querying the API.
-[23.11.2026 12:03] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:41] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] Querying the API.
+[23.11.2026 23:41] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight. Correcting these failures requires repairs, i.e., actions that avoid them at the states the policy itself reaches, which human pilots cannot label at scale and rule-based planners cannot supply reliably. In this paper, we present AeroRSI, a recursive self-improvement framework in which an aerial navigation policy iteratively learns from its own failures. Our key insight is that a failing policy should judge its own repairs by flying on from them. Judged in this way, its sampled actions and even rule-based proposals that hurt it when imitated directly become reliable supervision. Moreover, an episode terminates at its first failure, concealing subsequent failures until the earlier ones are repaired. AeroRSI thus renews its supervision in every round, anchoring the failures of the current policy, verifying repairs by its continuation, and distilling them while keeping its behavior elsewhere. On TravelUAV, three rounds raise the success rate of a supervised 2B-parameter policy from 46.4% to 67.5% and reduce collisions by half, surpassing the previous state of the art by 10.6 points from the same initialization without extra human labels or inference cost. Code and models are available at https://github.com/starsholic/AeroRSI.
-[23.11.2026 12:03] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:03] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] Querying the API.
-[23.11.2026 12:04] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract A diagnostic benchmark evaluates multimodal large language models on multi-granularity identity matching, revealing gaps in understanding, reasoning, and evidence-grounded judgment across base and variant levels.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Identity matching asks whether two records denote the same identity, yet the answer depends on the target granularity. Two records may match at the base level but not at the variant level: they share an underlying design while differing in attributes such as color or size. Final matching accuracy does not separately characterize the capabilities involved. To study this problem, we use e-commerce as a challenging real-world domain. We introduce PURE, a diagnostic benchmark for multi-granularity multimodal identity matching covering four capability dimensions: Perception, Understanding, Reasoning, and Evidence-grounded Judgment. The benchmark comprises 1,457 multiple-choice questions across 14 tasks, derived from real-world matching pairs and verified by two domain experts. Across ten recent MLLMs, overall scores range from 47.1% to 86.0%. Understanding receives the highest mean score and Judgment the lowest, with weaknesses in visual difference localization and variant-level rule judgment. Modality ablations show that models benefit from multimodal evidence but can incorrectly identify conflicts between matching records. In direct matching, most models recognize matching pairs more reliably than non-matching pairs at the base level, whereas the reverse holds at the variant level. PURE therefore reveals what aggregate matching accuracy hides: not only whether models judge a pair correctly, but where they struggle to interpret evidence and apply matching criteria.
-[23.11.2026 12:04] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] Querying the API.
-[23.11.2026 12:04] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
-
-Abstract  Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must work on unseen equipment. Our deployment-style benchmark, NextUnit-Bench, covers 24 public datasets split into 58 folds that hold out units or operating conditions; each agent has two hours to deliver an executable predictor, then run on the hidden units. First, frontier agents outperform AutoML, which reaches less than half the best agent's score, and faithful implementations of published methods on four datasets, of which only 6 of 30 beat the strongest agent's own design; published accuracies, where reproducible, rest on the papers' own conventions, and a single convention, capping the remaining life of test engines, can halve the reported error. Second, the agents' advantage is a design made on each machine's data; once made, a plain-text plan of a few hundred words carries most of the gap between two frontier agents, and given a weaker agent's plan, the strongest agent falls to that agent's level, often to identical predictions. Before touching the data, however, it matters little whose plan an agent carries out, and domain toolkits appear to help neither: what sets the strongest apart is how much it learns from the data. Third, such designs reach only implementers that can execute them: given the strongest agent's designs, a locally deployable open-weight model delivers half as often, even when they are lightened, and scores no higher than without them. Generality, we argue, is not disappearing but moving, from the model to the modeler.
-[23.11.2026 12:04] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:04] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] Querying the API.
-[23.11.2026 12:05] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+Abstract StereoVLM is a geometry-aware binocular vision-language model trained with hierarchical supervision from calibrated stereo to enable metric 3D spatial reasoning, evaluated by Stereo3D-Bench.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene structure from one or more images without known camera calibration or cross-view geometric constraints. This makes metric 3D inference inherently ambiguous and leaves it unclear whether their spatial predictions are grounded in visual evidence or driven primarily by semantic priors. In contrast, calibrated stereo provides explicit cross-view geometry that resolves this ambiguity and offers a more reliable foundation for metric 3D perception and geometric generalization. We investigate how VLMs can learn transferable 3D representations directly from calibrated binocular observations. To this end, we introduce StereoVLM, the first geometry-aware binocular VLM for metric 3D spatial reasoning. StereoVLM follows a hierarchical learning paradigm spanning from cross-view correspondence and disparity estimation to calibration-conditioned metric depth perception and semantic spatial reasoning. We further find that disparity supervision generalizes substantially better than direct binocular depth supervision on unseen environments. To evaluate these capabilities, we introduce Stereo3D-Bench, a comprehensive benchmark across three levels, from point-level geometry to object-level spatial reasoning. StereoVLM-8B achieves 95.17% depth accuracy (δ_1) and a 66.98 average object-level score on Stereo3D-Bench. Intervention results further indicate that the model's performance on Stereo3D-Bench benefits from valid cross-view geometry and cannot be explained solely by additional visual tokens or semantic priors. Hierarchical geometric supervision also yields average gains of 3.54 points across five spatial benchmarks and 4.3 percentage points in RoboCasa manipulation success.
+[23.11.2026 23:41] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:41] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] Querying the API.
+[23.11.2026 23:42] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract  Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agents on direct robot control across 12 manipulation benchmarks. We introduce AgentRoboCritic, an intent-grounded critique framework in which the policy agent states a local intent alongside each action, and a critic evaluates the action's outcome and failure mode against this intent. Our action-level analysis demonstrates the promising capabilities of frontier agents on direct robot control, including closed-loop recovery from local execution failures, reliable semantic grounding across diverse scenes, and strong zero-shot manipulation without task-specific adaptation. It also identifies their current limitations, including task-relevant physical execution bottlenecks such as grasping and alignment, and uneven recovery across failure modes. Finally, we validate our critic on a 400-action human-annotated benchmark and release a dataset of 12,844 annotated actions alongside a fine-tuned open-source critic, Muse-Glimmer-30B, whose failure-mode accuracy rises from 32.58% to 74.24%, enabling low-cost action-level analysis.
-[23.11.2026 12:05] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] Querying the API.
-[23.11.2026 12:05] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:42] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] Querying the API.
+[23.11.2026 23:42] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract Prune to Expand (P2E) refines dense-caption supervision by selectively removing redundant sentences under a per-example deletion bound, improving prompt enhancement alignment with human preferences and visual quality over conventional dense-caption supervised fine-tuning.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Prompt enhancement (PE) refines concise user prompts into detailed descriptions to improve the compositional aesthetics of generated images while preserving user intent. A common practice constructs supervised fine-tuning (SFT) pairs by deriving short, user-like prompts from dense captions, implicitly assuming that captions that improve image generation also provide effective supervision. In this paper, however, we uncover a counterintuitive finding: PE models trained on caption pairs with substantial generation gains perform comparably to those trained on pairs with only marginal gains. We argue that dense captions can impose redundant supervision by requiring PE models to reproduce image-specific details weakly related to user intent. Motivated by this discrepancy, we introduce Prune to Expand (P2E), a simple text-only method that refines dense-caption supervision by selectively removing redundant sentences under a per-example deletion bound while preserving explicit user requirements and informative visual structure. Extensive experiments under identical training configurations demonstrate that P2E improves alignment with human preferences and visual quality over conventional dense-caption SFT across diverse image categories and visual generators.
-[23.11.2026 12:05] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:05] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] Querying the API.
-[23.11.2026 12:06] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+Abstract  Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight. Correcting these failures requires repairs, i.e., actions that avoid them at the states the policy itself reaches, which human pilots cannot label at scale and rule-based planners cannot supply reliably. In this paper, we present AeroRSI, a recursive self-improvement framework in which an aerial navigation policy iteratively learns from its own failures. Our key insight is that a failing policy should judge its own repairs by flying on from them. Judged in this way, its sampled actions and even rule-based proposals that hurt it when imitated directly become reliable supervision. Moreover, an episode terminates at its first failure, concealing subsequent failures until the earlier ones are repaired. AeroRSI thus renews its supervision in every round, anchoring the failures of the current policy, verifying repairs by its continuation, and distilling them while keeping its behavior elsewhere. On TravelUAV, three rounds raise the success rate of a supervised 2B-parameter policy from 46.4% to 67.5% and reduce collisions by half, surpassing the previous state of the art by 10.6 points from the same initialization without extra human labels or inference cost. Code and models are available at https://github.com/starsholic/AeroRSI.
+[23.11.2026 23:42] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:42] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] Querying the API.
+[23.11.2026 23:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
-Abstract  -05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings.   We introduce an evidence model implemented in Vulnerability-Lookup that selects the earliest evidence for each lifecycle event, distinguishes vulnerability-specific records, preserves date precision, and ensures traceability to original sources.   Among 3,758 vulnerability identifiers with exploitation evidence, 98% have disclosure dates, while only 15.7% have patch evidence. Vendor-side dates required by VTEM are entirely absent. Most exploitation dates originate from catalog listings, including 1,041 entries associated with bulk catalog imports. After excluding these entries and ambiguous same-day observations, 59 vulnerabilities exhibit patch evidence following exploitation evidence, with a median interval of 7.6 days, predominantly between catalog listings and distributor fixes.   Evidence traceability also exposes systematic measurement errors: one collector incorrectly classified exploit publications as active exploitation, accounting for 40% of initial exploitation dates, while another catalog assigned vulnerability publication timestamps to 11% of its listings.   Our findings demonstrate that exploitation-to-patch intervals are computationally measurable, but their reliability depends on the availability, precision, and provenance of published evidence. We identify the additional disclosure, exploitation observation, and patch availability timestamps needed to improve vulnerability lifecycle measurements.
-[23.11.2026 12:06] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] Querying the API.
-[23.11.2026 12:06] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+Abstract A diagnostic benchmark evaluates multimodal large language models on multi-granularity identity matching, revealing gaps in understanding, reasoning, and evidence-grounded judgment across base and variant levels.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Identity matching asks whether two records denote the same identity, yet the answer depends on the target granularity. Two records may match at the base level but not at the variant level: they share an underlying design while differing in attributes such as color or size. Final matching accuracy does not separately characterize the capabilities involved. To study this problem, we use e-commerce as a challenging real-world domain. We introduce PURE, a diagnostic benchmark for multi-granularity multimodal identity matching covering four capability dimensions: Perception, Understanding, Reasoning, and Evidence-grounded Judgment. The benchmark comprises 1,457 multiple-choice questions across 14 tasks, derived from real-world matching pairs and verified by two domain experts. Across ten recent MLLMs, overall scores range from 47.1% to 86.0%. Understanding receives the highest mean score and Judgment the lowest, with weaknesses in visual difference localization and variant-level rule judgment. Modality ablations show that models benefit from multimodal evidence but can incorrectly identify conflicts between matching records. In direct matching, most models recognize matching pairs more reliably than non-matching pairs at the base level, whereas the reverse holds at the variant level. PURE therefore reveals what aggregate matching accuracy hides: not only whether models judge a pair correctly, but where they struggle to interpret evidence and apply matching criteria.
+[23.11.2026 23:43] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] Querying the API.
+[23.11.2026 23:43] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task? We examine this question in prognostics and health management (PHM), where every model must work on unseen equipment. Our deployment-style benchmark, NextUnit-Bench, covers 24 public datasets split into 58 folds that hold out units or operating conditions; each agent has two hours to deliver an executable predictor, then run on the hidden units. First, frontier agents outperform AutoML, which reaches less than half the best agent's score, and faithful implementations of published methods on four datasets, of which only 6 of 30 beat the strongest agent's own design; published accuracies, where reproducible, rest on the papers' own conventions, and a single convention, capping the remaining life of test engines, can halve the reported error. Second, the agents' advantage is a design made on each machine's data; once made, a plain-text plan of a few hundred words carries most of the gap between two frontier agents, and given a weaker agent's plan, the strongest agent falls to that agent's level, often to identical predictions. Before touching the data, however, it matters little whose plan an agent carries out, and domain toolkits appear to help neither: what sets the strongest apart is how much it learns from the data. Third, such designs reach only implementers that can execute them: given the strongest agent's designs, a locally deployable open-weight model delivers half as often, even when they are lightened, and scores no higher than without them. Generality, we argue, is not disappearing but moving, from the model to the modeler.
+[23.11.2026 23:43] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:43] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] Querying the API.
+[23.11.2026 23:44] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract Intent contracts, in which a planner submits logged contracts and a trusted model writes tool calls, do not reduce unauthorized actions and match blind review, but complete more benign over-reach tasks than an intent-visible reviewer.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Intent contracts are an authorization interface for tool-using LLM agents in which the planning model holds no tools. For each step it submits a short logged contract: a goal, a verbatim quotation of the user, and scope fields. Code validates the contract, and a small trusted model checks it against the user's words and writes the tool call itself. Provided the validation and dispatch code is correct, every executed call is written by the trusted model, the planner's influence on a call is confined to a contract logged before it, and the trusted side decides how much of a request to carry out. We compare contracts with two reviewers of planner-written commands: one sees only the user's words and the command, the information boundary of a reasoning-blind permission classifier, and one also sees the planner's goal and a checked quotation. With gpt-6.1-terra as planner and GLM-5.3-Flash as the trusted model on three AmPermBench task families, every object changed under contracts is named in the goal of the contract that produced the change; under review the planner names objects in its commands and rarely in its goals. When the planner adds work the user never asked for, contracts complete the user's task in 27/30 runs and the intent-visible reviewer in 16/30, because a reviewer can only refuse a whole command. Contracts do not reduce unauthorized actions. They are indistinguishable from blind review, and once the benchmark's environment terms are clarified, every condition that changes state hits a wrong target in 40-49% of those runs. That error is the planner's choice of objects for an ambiguous reference, which no trusted model here can see the environment to check; telling the executor to decline when unsure does not change it. We evaluate benign over-reach with one pair of models, not adversarial planners. We release the plugin and run records.
-[23.11.2026 12:06] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:06] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] Querying the API.
-[23.11.2026 12:07] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:44] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] Querying the API.
+[23.11.2026 23:44] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract A training-free framework tracks objects through physical assemblies and disassemblies by generating and evaluating split/merge proposals and querying a multimodal large language model for verification and labeling, achieving state-of-the-art accuracy and faster performance on a new benchmark.  Generated by deepseek-ai/DeepSeek-V4.1-Flash We introduce Transformation Tracking and Understanding (TTU), extending video object tracking to environments where objects undergo physical assemblies and disassemblies. TTU requires continuously tracking objects through transformations, identifying new entities, maintaining a state graph of their relationships, and assigning semantic labels to transformations. While foundation models (e.g., SAM 2/3) maintain tracklets through appearance changes, they cannot update semantic identities as objects physically evolve. Prior work addresses only disassemblies, relying on expensive searches triggered only when tracking fails. We propose Tracking Instances via Proposals and Overlaps (TIPO), a training-free framework that continuously infers transformations via a generate-evaluate-judge pipeline. TIPO generates split and merge proposals from disjoint mask components, scores them against mask-decoder priors using inner and external overlap, and queries an MLLM on the top proposal for visual verification and semantic labeling. To benchmark TTU, we curate Video Instances, States, and Transformation Annotations (VISTA), a dataset including state graphs with 124 assembly and 132 disassembly events across 50 sequences and over 26,000 frames. TIPO achieves state-of-the-art tracking and state-graph accuracy on VISTA, while operating 6times to 15times faster than prior methods. Project page: https://davidegardenal.github.io/tipo-tracking
+[23.11.2026 23:44] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:44] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] Querying the API.
+[23.11.2026 23:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  -05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings.   We introduce an evidence model implemented in Vulnerability-Lookup that selects the earliest evidence for each lifecycle event, distinguishes vulnerability-specific records, preserves date precision, and ensures traceability to original sources.   Among 3,758 vulnerability identifiers with exploitation evidence, 98% have disclosure dates, while only 15.7% have patch evidence. Vendor-side dates required by VTEM are entirely absent. Most exploitation dates originate from catalog listings, including 1,041 entries associated with bulk catalog imports. After excluding these entries and ambiguous same-day observations, 59 vulnerabilities exhibit patch evidence following exploitation evidence, with a median interval of 7.6 days, predominantly between catalog listings and distributor fixes.   Evidence traceability also exposes systematic measurement errors: one collector incorrectly classified exploit publications as active exploitation, accounting for 40% of initial exploitation dates, while another catalog assigned vulnerability publication timestamps to 11% of its listings.   Our findings demonstrate that exploitation-to-patch intervals are computationally measurable, but their reliability depends on the availability, precision, and provenance of published evidence. We identify the additional disclosure, exploitation observation, and patch availability timestamps needed to improve vulnerability lifecycle measurements.
+[23.11.2026 23:45] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] Querying the API.
+[23.11.2026 23:45] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract A method that explicitly extracts a user's stylistic profile and uses it to guide drafting and revision improves personalized long-form text generation over retrieval-augmented baselines.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Personalized long-form generation asks a language model to write new text the way a specific user would. The standard recipe, retrieval-augmented generation, places a few of the user's past texts in the prompt but leaves the model to decide what to take from them. We introduce StylePrism, a taxonomy of 28 stylistic aspects in seven categories, and SP-Refine, an inference-time method that makes style extraction an explicit step: the model first fills StylePrism with the user's patterns, quoted evidence, and habits to avoid, then drafts from the user's samples and revises the draft twice against this profile, guided by its own style scores. On the three long-form tasks of LongLaMP with three LLMs, SP-Refine outperforms LongLaMP's retrieval-augmented baseline in 25 of 27 ROUGE and METEOR comparisons, by 10.2% on average and by up to 35.8%. Annotating users' own texts with the extracted profiles shows that StylePrism captures concrete, checkable habits, from the order of rhetorical moves to a reviewer's sign-off. Ablations show that the profile helps as revision guidance, not as a replacement for the samples: writing from the profile alone is worse in all 27 comparisons, while a single implicit-inference call is a cheaper alternative that comes close. Oracle variants that let the reviser see the reference, together with reference-free controls, show that larger refinement gains require information unavailable at inference time.
-[23.11.2026 12:07] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] Querying the API.
-[23.11.2026 12:07] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:45] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:45] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] Querying the API.
+[23.11.2026 23:46] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract Prune to Expand (P2E) refines dense-caption supervision by selectively removing redundant sentences under a per-example deletion bound, improving prompt enhancement alignment with human preferences and visual quality over conventional dense-caption supervised fine-tuning.  Generated by deepseek-ai/DeepSeek-V4.1-Flash Prompt enhancement (PE) refines concise user prompts into detailed descriptions to improve the compositional aesthetics of generated images while preserving user intent. A common practice constructs supervised fine-tuning (SFT) pairs by deriving short, user-like prompts from dense captions, implicitly assuming that captions that improve image generation also provide effective supervision. In this paper, however, we uncover a counterintuitive finding: PE models trained on caption pairs with substantial generation gains perform comparably to those trained on pairs with only marginal gains. We argue that dense captions can impose redundant supervision by requiring PE models to reproduce image-specific details weakly related to user intent. Motivated by this discrepancy, we introduce Prune to Expand (P2E), a simple text-only method that refines dense-caption supervision by selectively removing redundant sentences under a per-example deletion bound while preserving explicit user requirements and informative visual structure. Extensive experiments under identical training configurations demonstrate that P2E improves alignment with human preferences and visual quality over conventional dense-caption SFT across diverse image categories and visual generators.
+[23.11.2026 23:46] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] Querying the API.
+[23.11.2026 23:46] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training. We propose Search-Native Pretraining as a practical route to teach search capability during pretraining from ordinary text corpora. Specifically, we augment pretraining corpus at scale with web-search queries and retrieve web response using a local index. Training on this augmented corpus teaches models to generate search calls and incorporate retrieved evidence during language modeling. Across Wikipedia and DCLM-Edu corpora and 360M to 3.3B parameter scales, search-pretrained models ("QueryLM") show improved performance on knowledge-intensive tasks and higher steerability toward the retrieved evidence. Crucially, their advantage persists after supervised fine-tuning of both search-pretrained and conventionally pretrained models, indicating that the tested post-training procedures do not fully recover the capabilities developed during pretraining. Throughout our experiments, we find that a 1.4B QueryLM consistently beats or matches the performance of a FLOP-matched 3.3B baseline model across all knowledge intensive tasks. These results establish search-pretraining as a practical way to develop foundational search capabilities during pretraining. We release the training artifacts, including model checkpoints and data.
+[23.11.2026 23:46] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:46] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] Querying the API.
+[23.11.2026 23:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract GameWM divides game generation between an engine that preserves exact rules and state and a generative video model that creates visual and interactive detail, allowing personalized games with consistent mechanics.  Generated by deepseek-ai/DeepSeek-V4.1-Flash For more than half a century, video games have pursued better graphics, more natural interaction, and more engaging gameplay. Generative video models (VMs) now bear on all three. Neural networks already draw most of the pixels in shipped games, and recent world models let a lightweight game engine keep the world state while a VM turns the engine's coarse proxy video into final frames. These systems, however, treat the VM as a renderer that only restyles motion the engine has already authored, which leaves most of its generative capacity unused and limits the diversity a game can offer. We present GameWM, a design for next-generation games built on a clear division of labor. The GameWM-engine keeps what must be exact: rules, state, camera, and the layout of the world, which also spares the video model from having to remember it. The GameWM-VM generates what is expensive to author by hand: the look of the world and the detail of the player's interactions. One game mechanic can then be realized in many visually and physically distinct ways, while its outcome stays exactly as the engine computed it. To realize this division of labor, we build GameWM as a complete system: a data engine centered on interactions rather than exploration, an interface through which authored character sheets, scene art, and skill descriptions enter the model, and a model family from 5B to 33B parameters with a real-time causal variant for play. Together they give every player a fresh version of the same game: each player's own character, world, and skills turn the same engine mechanics into a new experience, while every event keeps the timing and outcome the GameWM-engine computed.
-[23.11.2026 12:07] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:07] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:08] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:08] Querying the API.
-[23.11.2026 12:08] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+[23.11.2026 23:47] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:47] Querying the API.
+[23.11.2026 23:47] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  Most established instance-retrieval benchmarks emphasise landmarks; small sculptures from visually similar series offer a complementary challenge. We introduce Doppeldwarf-306: 1,691 openly licensed photographs of 306 bronze dwarf statues in Wrocław, Poland, many made in themed series that share one style, with the photographer of each image recorded. With no training, nearest-neighbour search over frozen DINOv2 features names the right statue first for 93.1% of leave-one-out queries, and the best of thirteen backbones from seven pretraining paradigms reaches 94.7%. Accuracy falls slowly as candidates are added: for DINOv2, by about 0.8 points each time their number doubles. A natural design for a phone guide compares a photograph only with statues near the user. In simulation this helps, but less than an equal number of randomly chosen statues does, so random subsampling overstates its value; a permutation test ties the penalty to the real layout (p = 0.005). Used as a weight instead of a filter, location raises DINOv2 from 93.4% to 98.7% for a simulated user 25 m from the statue. With the query's photographer withheld, learned local-feature matching raises DINOv2 accuracy from 81.8% to 85.5% and also improves DINOv3. Comparing the two best candidates cuts DINOv2's false acceptance of unknown statues from 38.3% to 19.6% at 90% known acceptance.
+[23.11.2026 23:47] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] Querying the API.
+[23.11.2026 23:48] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
 
 Abstract  Reward models for instruction-guided video editing can favor temporal consistency at the expense of motion. We study this failure, termed motion collapse, using controlled motion-suppression variants of real edits. On VE-Bench, the evaluated composite reward prefers a motion-suppressed candidate in 97% of cases. Learned video rewards and a VLM judge also struggle with mild suppression, while latent optimization and reward-guided fine-tuning exploit this weakness to increase reward as motion declines. A linear probe of our base reward backbone performs near chance on mild suppression, motivating an explicit inter-frame dynamics input. We propose a motion-aware reward model that combines an RGB frame-difference stream with preference training against motion-suppressed and fabricated-motion negatives. A distillation anchor preserves alignment with human quality judgments. On the VE-Bench motion ladder, our model reduces the rate of selecting motion-suppressed candidates to 0% while achieving a Spearman correlation of 0.57 with human quality ratings. It also detects unseen suppression variants and preserves motion during reward-guided fine-tuning on two editing pipelines. These results support explicitly modeling motion in rewards for video editing.
-[23.11.2026 12:08] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:08] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:08] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:08] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:08] Error getting data: Expecting value: line 1 column 1 (char 0)
-[23.11.2026 12:08] Renaming data file.
-[23.11.2026 12:08] Renaming previous data. hf_papers.json to ./d/2026-11-23.json
-[23.11.2026 12:08] Saving new data file.
-[23.11.2026 12:08] Generating page.
-[23.11.2026 12:08] Renaming previous page.
-[23.11.2026 12:08] Renaming previous data. index.html to ./d/2026-11-23.html
-[23.11.2026 12:08] Writing result.
-[23.11.2026 12:08] Renaming log file.
-[23.11.2026 12:08] Renaming previous data. log.txt to ./logs/2026-11-23_last_log.txt
+[23.11.2026 23:48] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:48] Querying the API.
+[23.11.2026 23:48] github request. Model: openai/gpt-4o-mini. Prompt: Read an abstract of the ML paper and return a JSON with fields: 'desc': explanation of the paper in Russian (4 sentences), use correct machine learning terms. 'emoji': emoji that will reflect the theme of an article somehow, only one emoji. 'title': a slogan of a main idea of the article in Russian. Return only JSON and nothing else.
+
+Abstract  We present the Autoregressive View Model (AVM), which generates a scene as a stream of views without constructing an explicit 3D representation. Through a unified in-context interface, AVM conditions on images or videos to generate short clips along a requested camera path. Visual context grounds reconstruction and interpolation, while a learned prior enables extrapolation into unseen regions. AVM retrieves relevant views from inputs and generated history to form a bounded active context. We fine-tune a pretrained bidirectional video diffusion transformer with flow matching in an N-in-1-out formulation. We then tune a causal model on its own rollouts to improve photorealism, reduce denoising steps, and limit long-horizon drift. We scale training to approximately 8M scenes and video clips. We evaluate generation capacity and scene persistence across benchmarks for camera control, text control, visual quality, dynamics, sparse and 4D reconstruction, and long-horizon consistency. The results demonstrate that AVM adapts to diverse input and output settings through one in-context interface.
+[23.11.2026 23:48] GitHub Models ошибка (попытка 1/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:49] GitHub Models ошибка (попытка 2/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:49] GitHub Models ошибка (попытка 3/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:49] GitHub Models ошибка (попытка 4/4): Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:49] Error getting data: Expecting value: line 1 column 1 (char 0)
+[23.11.2026 23:49] Renaming data file.
+[23.11.2026 23:49] Renaming previous data. hf_papers.json to ./d/2026-11-23.json
+[23.11.2026 23:49] Saving new data file.
+[23.11.2026 23:49] Generating page.
+[23.11.2026 23:49] Renaming previous page.
+[23.11.2026 23:49] Renaming previous data. index.html to ./d/2026-11-23.html
+[23.11.2026 23:49] Writing result.
+[23.11.2026 23:49] Renaming log file.
+[23.11.2026 23:49] Renaming previous data. log.txt to ./logs/2026-11-23_last_log.txt
